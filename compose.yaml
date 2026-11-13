@@ -1,0 +1,12 @@
+services:
+  glossary-rag:
+    build: .
+    ports:
+      - "8001:8000"
+    environment:
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
+      DEEPSEEK_MODEL: ${DEEPSEEK_MODEL:-deepseek-flash}
+      CORS_ORIGINS: ${CORS_ORIGINS:-}
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
