@@ -1,0 +1,217 @@
+{
+  "id": "term:110",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 110,
+    "url": "https://astro4edu.org/resources/glossary/term/110/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=110",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:43.481677+00:00",
+    "sha256": "c6a0b26d0c7e9da688ab4102a200b9f14cc31f89f656297e1e18f8b566f601b5"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      325,
+      331,
+      396,
+      440,
+      514
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: F-type Star",
+      "body": "A star with spectral type \"F\". Astronomers identify F-type stars by the presence of moderately strong ionized calcium lines and some other atomic metal lines and the weak hydrogen absorption lines in their spectra. They have typical (effective) temperatures between around 6000 kelvins (K) and 7400 K. Compared to other stars, they appear white or yellowish white to human eyes unless interstellar or atmospheric reddening is important. Polaris (the North Star) is an example of an F-type star.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Spectral Type",
+          "url": "https://www.astro4edu.org/resources/glossary/term/325/",
+          "text_ru": "Спектральный класс"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Reddening",
+          "url": "https://www.astro4edu.org/resources/glossary/term/396/",
+          "text_ru": "Покраснение"
+        },
+        {
+          "text": "Effective Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/440/",
+          "text_ru": "Эффективная температура"
+        },
+        {
+          "text": "Spectral Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/514/",
+          "text_ru": "Спектральная линия"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: F-type Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>F star</b> or <b>F-star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A star with spectral type \"F\". Astronomers identify F-type stars by the presence of moderately strong ionized calcium lines and some other atomic metal lines and the weak hydrogen absorption lines in their spectra. They have typical (effective) temperatures between around 6000 kelvins (K) and 7400 K. Compared to other stars, they appear white or yellowish white to human eyes unless interstellar or atmospheric reddening is important. Polaris (the North Star) is an example of an F-type star.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/325/\">Spectral Type</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/396/\">Reddening</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/440/\">Effective Temperature</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/514/\">Spectral Line</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звезда спектрального класса F",
+      "body_ru": "Звезда спектрального класса «F». Астрономы идентифицируют звёзды класса F по наличию умеренно сильных линий ионизированного кальция и некоторых других линий атомарных металлов, а также слабых линий поглощения водорода в их спектрах. Их типичные (эффективные) температуры составляют от примерно 6000 кельвинов (K) до 7400 K. По сравнению с другими звёздами они кажутся человеческому глазу белыми или желтовато-белыми, если только межзвёздное или атмосферное покраснение не имеет важного значения. Полярная звезда (Полярис) является примером звезды класса F."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "F型星 (external link)",
+          "url": "https://astro-dic.jp/f-type-star/",
+          "text_ru": "Звезда типа F (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/110/\">النجم من النوع الطيفي \"F\" </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/110/\">F-Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/110/\">Estrella de tipo F </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/110/\">Étoile de type F </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/110/\">Stella di tipo F </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/f-type-star/\">F型星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/110/\">에프형별 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/110/\">Estrela tipo F </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/110/\">F 型星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/110/\">F 型星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/zY580V14PE47/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:zY580V14PE47"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/zY580V14PE47/\"><img alt=\"A relatively smooth line peaking about 430 nm then declining at longer wavelengths with a few fairly broad dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-an-f-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of an F-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the F-type star 2MASS J22243289+4937443. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. The lines from hydrogen atoms that are strongest in A-type stars are still relatively strong in F-type stars but lines from metals, particularly ionised calcium begin to become strong at this spectral type.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "F-type Star",
+      "aliases": [
+        "F star",
+        "F-star"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: F-type Star",
+          "body": "A star with spectral type \"F\". Astronomers identify F-type stars by the presence of moderately strong ionized calcium lines and some other atomic metal lines and the weak hydrogen absorption lines in their spectra. They have typical (effective) temperatures between around 6000 kelvins (K) and 7400 K. Compared to other stars, they appear white or yellowish white to human eyes unless interstellar or atmospheric reddening is important. Polaris (the North Star) is an example of an F-type star."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда спектрального класса F",
+      "aliases": [
+        "Звезда класса F",
+        "Звезда класса F"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звезда спектрального класса F",
+          "body": "Звезда спектрального класса «F». Астрономы идентифицируют звёзды класса F по наличию умеренно сильных линий ионизированного кальция и некоторых других линий атомарных металлов, а также слабых линий поглощения водорода в их спектрах. Их типичные (эффективные) температуры составляют от примерно 6000 кельвинов (K) до 7400 K. По сравнению с другими звёздами они кажутся человеческому глазу белыми или желтовато-белыми, если только межзвёздное или атмосферное покраснение не имеет важного значения. Полярная звезда (Полярис) является примером звезды класса F."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:zY580V14PE47",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-an-f-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/zY580V14PE47/",
+      "original_path": "data/media/original/diagram_zY580V14PE47.png",
+      "ru_path": "data/media/ru/diagram_zY580V14PE47.png",
+      "sha256": "672cd5fbb17fe5c6432d95fb1b295e248a40a1ff5a184e070ff190708f68c783",
+      "size": 96473,
+      "title_en": "Spectrum of an F-type star",
+      "title_ru": "Спектр звезды спектрального класса F",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the F-type star 2MASS J22243289+4937443. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. The lines from hydrogen atoms that are strongest in A-type stars are still relatively strong in F-type stars but lines from metals, particularly ionised calcium begin to become strong at this spectral type.",
+      "caption_ru": "Спектр звезды спектрального класса F 2MASS J22243289+4937443. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, вызывая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различна. Линии от атомов водорода, которые наиболее сильны у звёзд класса A, всё ещё относительно сильны у звёзд класса F, но линии от металлов, особенно ионизированного кальция, начинают становиться сильными при этом спектральном классе.",
+      "alt_en": "A relatively smooth line peaking about 430 nm then declining at longer wavelengths with a few fairly broad dips.",
+      "alt_ru": "Относительно гладкая линия с пиком около 430 нм, затем спадающая на более длинных волнах с несколькими довольно широкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        110,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ec5f5e25f6f0fa8b4ebf5f40292092759055c2dacdb7daa35c79de120b981d28"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

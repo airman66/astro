@@ -1,0 +1,367 @@
+{
+  "id": "term:91",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 91,
+    "url": "https://astro4edu.org/resources/glossary/term/91/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=91",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:35.971208+00:00",
+    "sha256": "347041a1d105864a0104037514c37981f1c461c9c1fcaf87e8a7efaaf3f88271"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Solar System",
+      "Stars"
+    ],
+    "category_ids": [
+      6,
+      1,
+      2
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Солнечная система",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      181,
+      310,
+      367,
+      464,
+      475
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Eclipse",
+      "body": "An eclipse occurs when an astronomical object is temporarily obscured by either passing into the shadow of another body or when another body passes between the viewer and the object. Examples for eclipses are lunar eclipses when the Earth stands between the Sun and the Moon and the Moon moves into the Earth´s shadow, or solar eclipses, when the Moon moves between the Earth and the Sun and blocks part or all of the Sun´s light. If the obscuring body only obscures a small part of other body, this phenomenon is called a transit. If the obscuring body  completely obscures the other body, this phenomenon is called an occultation",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Lunar Eclipse",
+          "url": "https://www.astro4edu.org/resources/glossary/term/181/",
+          "text_ru": "Лунное затмение"
+        },
+        {
+          "text": "Solar Eclipse",
+          "url": "https://www.astro4edu.org/resources/glossary/term/310/",
+          "text_ru": "Солнечное затмение"
+        },
+        {
+          "text": "Transit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/367/",
+          "text_ru": "Прохождение"
+        },
+        {
+          "text": "Occultation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/464/",
+          "text_ru": "Покрытие"
+        },
+        {
+          "text": "Shadow",
+          "url": "https://www.astro4edu.org/resources/glossary/term/475/",
+          "text_ru": "Тень"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Eclipse</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An eclipse occurs when an astronomical object is temporarily obscured by either passing into the shadow of another body or when another body passes between the viewer and the object. Examples for eclipses are lunar eclipses when the Earth stands between the Sun and the Moon and the Moon moves into the Earth´s shadow, or solar eclipses, when the Moon moves between the Earth and the Sun and blocks part or all of the Sun´s light. If the obscuring body only obscures a small part of other body, this phenomenon is called a transit. If the obscuring body  completely obscures the other body, this phenomenon is called an occultation</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/181/\">Lunar Eclipse</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/310/\">Solar Eclipse</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/367/\">Transit</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/464/\">Occultation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/475/\">Shadow</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Затмение",
+      "body_ru": "Затмение происходит, когда астрономический объект временно затемняется либо при входе в тень другого тела, либо когда другое тело проходит между наблюдателем и объектом. Примерами затмений являются лунные затмения, когда Земля находится между Солнцем и Луной и Луна входит в земную тень, или солнечные затмения, когда Луна проходит между Землёй и Солнцем и блокирует часть или весь солнечный свет. Если затеняющее тело закрывает лишь небольшую часть другого тела, это явление называется прохождением. Если затеняющее тело полностью закрывает другое тело, это явление называется покрытием."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/91/\">الكسوف والخسوف </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/91/\">Eklipse </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/91/\">Eclipse </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/91/\">Eclipse </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/91/\">Eclissi </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/91/\">식 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/91/\">ग्रहण </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/91/\">Eclipse </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/91/\">日蚀 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/91/\">日蝕 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/sz73qI11nt9/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/qW99cA12IU33/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/8s68ju88OG5/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:2023_Annual_Eclipse.jpg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Ef26jq820W34/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/w/index.php?curid=147185374",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "text_ru": "CC0"
+        },
+        {
+          "text": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication icons",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "text_ru": "Значки посвящения в общественное достояние CC0 1.0 Universal (CC0 1.0)"
+        }
+      ],
+      "media_ids": [
+        "media:sz73qI11nt9",
+        "media:qW99cA12IU33",
+        "media:8s68ju88OG5",
+        "media:Ef26jq820W34"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/sz73qI11nt9/\"><img alt=\"Two astronomers view a lunar eclipse. Between them in the partly cloudy sky, a series of bright circles trace a curved path\" src=\"/media/multimedia/thumbnails/the-eclipse-between-us-by-muhammad-rayhan-indonesia_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Eclipse Between Us, by Muhammad Rayhan, Indonesia</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\n\nTotal lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope. Here we see the stages of the total lunar eclipse of 31.1.2018 photographed in Indonesia: starting with the entry of the full moon disk into Earth's round umbra, the totality as Blood Moon, and the beginning of the Moon's exit from Earth's umbra until moonset.<br/>\n<b>Credit:</b> Muhammad Rayhan/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/qW99cA12IU33/\"><img alt=\"A composite of images of the Moon. Along the sequence of images, the Moon's colour changes from grey to red and back to grey.\" src=\"/media/multimedia/thumbnails/red-moon-by-daniel-henrion-france_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Red Moon, by Daniel Henrion, France</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\n\nTime-lapse images of a total supermoon lunar eclipse that took place on 28 September 2015. The photos show the Moon during the time it moved through the Earth´s umbra: Earth´s umbra touched the Moon´s outer limb at 1.07 a.m. UTC (upper left corner) and left the Moon´s surface at 4.27 a.m. UTC (lower right corner).<br/>\n<b>Credit:</b> Daniel Henrion/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/8s68ju88OG5/\"><img alt=\"Dark silhouette of the Moon surrounded by a thin, glowing ring of sunlight during an annular solar eclipse.\" src=\"/media/multimedia/thumbnails/annular-solar-eclipse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Annular Solar Eclipse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image captures an annular eclipse, a special type of solar eclipse that occurs when the Moon passes directly in front of the Sun but does not completely cover it. Because the Moon is near the farthest point in its orbit it has a smaller angular size than normal and is thus slightly smaller in the sky than the Sun. If an eclipse occurs in this situation, the Moon only blocks the central portion of the Sun's disk but leaves a bright ring, often called the “ring of fire”, visible around the Moon’s silhouette. An annular eclipse is different from a total solar eclipse in that observers see this luminous ring rather than the Sun being fully obscured.<br/>\n<b>Credit:</b> Wikipedia user - Dpickd1\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:2023_Annual_Eclipse.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Ef26jq820W34/\"><img alt=\"The moon is partially covered by the earth's shadow and shrouded in orange light over beautiful coastal scenery.\" src=\"/media/multimedia/thumbnails/partial-lunar-eclipse-over-southern-portugal_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Partial Lunar Eclipse over southern Portugal</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The image shows a partial lunar eclipse from the 16th of July 2019, taken in southern Portugal. A lunar eclipse happens at full moon so without the eclipse we would see the full lunar disk. Earth’s curved shadow is clearly visible on the left side of the lunar disk. The remaining surface of the Moon is dipped into a deep orange color due. This is because at a lunar eclipse the Earth is positioned between the Moon and the Sun. While the solid part of the Earth creates the shadow we see on the left side of the Moon, sunlight also shines through Earth’s atmosphere. This scatters blue sunlight allowing most red sunlight through, the same process which turns the evening sun into a beautiful and colorful sunset.<br/>\n<b>Credit:</b> ToryYu1989\n\t  <a href=\"https://commons.wikimedia.org/w/index.php?curid=147185374\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license\">CC0</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons-zero\"></i><span class=\"sr-only\">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Eclipse",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Eclipse",
+          "body": "An eclipse occurs when an astronomical object is temporarily obscured by either passing into the shadow of another body or when another body passes between the viewer and the object. Examples for eclipses are lunar eclipses when the Earth stands between the Sun and the Moon and the Moon moves into the Earth´s shadow, or solar eclipses, when the Moon moves between the Earth and the Sun and blocks part or all of the Sun´s light. If the obscuring body only obscures a small part of other body, this phenomenon is called a transit. If the obscuring body  completely obscures the other body, this phenomenon is called an occultation"
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Затмение",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Затмение",
+          "body": "Затмение происходит, когда астрономический объект временно затемняется либо при входе в тень другого тела, либо когда другое тело проходит между наблюдателем и объектом. Примерами затмений являются лунные затмения, когда Земля находится между Солнцем и Луной и Луна входит в земную тень, или солнечные затмения, когда Луна проходит между Землёй и Солнцем и блокирует часть или весь солнечный свет. Если затеняющее тело закрывает лишь небольшую часть другого тела, это явление называется прохождением. Если затеняющее тело полностью закрывает другое тело, это явление называется покрытием."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:sz73qI11nt9",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5419327/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Total%20lunar%20eclipse%3A%20The%20Eclipse%20Between%20Us%2C%20by%20Muhammad%20Rayhan%2C%20Indonesia.jpg",
+      "record_url": "https://astro4edu.org/resources/media/sz73qI11nt9/",
+      "original_path": "data/media/original/media_sz73qI11nt9.jpg",
+      "ru_path": null,
+      "sha256": "002418b536418528514068ba55f0030a5b968e99a9f69651cdcda91ab022641c",
+      "size": 12572686,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Total lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope.",
+      "short_caption_ru": "Полные лунные затмения относятся к довольно зрелищным небесным явлениям и легко наблюдаются как с телескопом, так и без него.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\r\n\r\nTotal lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope. Here we see the stages of the total lunar eclipse of 31.1.2018 photographed in Indonesia: starting with the entry of the full moon disk into Earth's round umbra, the totality as Blood Moon, and the beginning of the Moon's exit from Earth's umbra until moonset.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2021 года, категория Полное лунное затмение.\r\n\r\nПолные лунные затмения относятся к довольно зрелищным небесным явлениям и легко наблюдаются как с телескопом, так и без него. Здесь мы видим этапы полного лунного затмения 31.1.2018, сфотографированного в Индонезии: начиная с входа полного диска Луны в круглую тень Земли, полная фаза как Кровавая Луна, и начало выхода Луны из тени Земли до захода Луны.",
+      "alt_en": "Two astronomers view a lunar eclipse. Between them in the partly cloudy sky, a series of bright circles trace a curved path",
+      "alt_ru": "Два астронома наблюдают лунное затмение. Между ними в частично облачном небе серия ярких кругов очерчивает изогнутый путь",
+      "credit": "Muhammad Rayhan/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        24,
+        27,
+        91,
+        181,
+        226,
+        352,
+        364
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:qW99cA12IU33",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5419369/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Total%20lunar%20eclipse%3A%20Red%20Moon%2C%20by%20Daniel%20Henrion%2C%20France.jpg",
+      "record_url": "https://astro4edu.org/resources/media/qW99cA12IU33/",
+      "original_path": "data/media/original/media_qW99cA12IU33.jpg",
+      "ru_path": null,
+      "sha256": "07394404c28a056bb2301bdf7ccd559562c9d6c7b636fa2e3f5fecd50b7ba440",
+      "size": 980507,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Time-lapse images of a total lunar eclipse that took place on 28 September 2015.",
+      "short_caption_ru": "Снимки полного лунного затмения, произошедшего 28 сентября 2015, снятые с интервалами.",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\r\n\r\nTime-lapse images of a total supermoon lunar eclipse that took place on 28 September 2015. The photos show the Moon during the time it moved through the Earth´s umbra: Earth´s umbra touched the Moon´s outer limb at 1.07 a.m. UTC (upper left corner) and left the Moon´s surface at 4.27 a.m. UTC (lower right corner).",
+      "caption_ru": "Третье место в конкурсе астрофотографии IAU OAE 2021, категория «Полное лунное затмение».\r\n\r\nСнимки полного лунного затмения суперлуны, произошедшего 28 сентября 2015, снятые с интервалами. На фотографиях показана Луна в течение времени, когда она проходила через земную тень: земная тень коснулась внешнего края Луны в 1.07 утра UTC (верхний левый угол) и покинула поверхность Луны в 4.27 утра UTC (нижний правый угол).",
+      "alt_en": "A composite of images of the Moon. Along the sequence of images, the Moon's colour changes from grey to red and back to grey.",
+      "alt_ru": "Композитное изображение Луны. Вдоль последовательности изображений цвет Луны меняется с серого на красный и обратно на серый.",
+      "credit": "Daniel Henrion/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        91,
+        203,
+        364
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:8s68ju88OG5",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/annular-solar-eclipse.png",
+      "record_url": "https://astro4edu.org/resources/media/8s68ju88OG5/",
+      "original_path": "data/media/original/media_8s68ju88OG5.png",
+      "ru_path": null,
+      "sha256": "a3f4deb5d9cdc202406a7466211e013168667bd5ff591560b8835873fd7f5243",
+      "size": 1195609,
+      "title_en": "Annular Solar Eclipse",
+      "title_ru": "Кольцеобразное солнечное затмение",
+      "short_caption_en": "Annular Solar Eclipse",
+      "short_caption_ru": "Кольцеобразное солнечное затмение",
+      "caption_en": "This image captures an annular eclipse, a special type of solar eclipse that occurs when the Moon passes directly in front of the Sun but does not completely cover it. Because the Moon is near the farthest point in its orbit it has a smaller angular size than normal and is thus slightly smaller in the sky than the Sun. If an eclipse occurs in this situation, the Moon only blocks the central portion of the Sun's disk but leaves a bright ring, often called the “ring of fire”, visible around the Moon’s silhouette. An annular eclipse is different from a total solar eclipse in that observers see this luminous ring rather than the Sun being fully obscured.",
+      "caption_ru": "Это изображение запечатлевает кольцеобразное затмение — особый тип солнечного затмения, которое происходит, когда Луна проходит прямо перед Солнцем, но не полностью его закрывает. Поскольку Луна находится вблизи самой дальней точки своей орбиты, её угловой размер меньше обычного, и поэтому на небе она немного меньше Солнца. Если затмение происходит в такой ситуации, Луна блокирует только центральную часть солнечного диска, но оставляет яркое кольцо, часто называемое «огненным кольцом», видимым вокруг силуэта Луны. Кольцеобразное затмение отличается от полного солнечного затмения тем, что наблюдатели видят это светящееся кольцо, а не полностью затемнённое Солнце.",
+      "alt_en": "Dark silhouette of the Moon surrounded by a thin, glowing ring of sunlight during an annular solar eclipse.",
+      "alt_ru": "Тёмный силуэт Луны, окружённый тонким светящимся кольцом солнечного света во время кольцеобразного солнечного затмения.",
+      "credit": "Wikipedia user - Dpickd1",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:2023_Annual_Eclipse.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        9,
+        11,
+        91
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Ef26jq820W34",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/partial-lunar-eclipse-over-southern-portugal.png",
+      "record_url": "https://astro4edu.org/resources/media/Ef26jq820W34/",
+      "original_path": "data/media/original/media_Ef26jq820W34.png",
+      "ru_path": null,
+      "sha256": "8cf2dc5893705db14db6fe43441382410c39fd2ef8e348184d3fecf348e87c7b",
+      "size": 662302,
+      "title_en": "Partial Lunar Eclipse over southern Portugal",
+      "title_ru": "Частное лунное затмение над южной Португалией",
+      "short_caption_en": "Partial Lunar Eclipse over southern Portugal",
+      "short_caption_ru": "Частное лунное затмение над южной Португалией",
+      "caption_en": "The image shows a partial lunar eclipse from the 16th of July 2019, taken in southern Portugal. A lunar eclipse happens at full moon so without the eclipse we would see the full lunar disk. Earth’s curved shadow is clearly visible on the left side of the lunar disk. The remaining surface of the Moon is dipped into a deep orange color due. This is because at a lunar eclipse the Earth is positioned between the Moon and the Sun. While the solid part of the Earth creates the shadow we see on the left side of the Moon, sunlight also shines through Earth’s atmosphere. This scatters blue sunlight allowing most red sunlight through, the same process which turns the evening sun into a beautiful and colorful sunset.",
+      "caption_ru": "На изображении показано частное лунное затмение от 16 июля 2019, снятое на юге Португалии. Лунное затмение происходит в полнолуние, поэтому без затмения мы бы увидели полный лунный диск. Изогнутая тень Земли ясно видна на левой стороне лунного диска. Остальная поверхность Луны окрашена в глубокий оранжевый цвет. Это происходит потому, что во время лунного затмения Земля находится между Луной и Солнцем. В то время как твёрдая часть Земли создаёт тень, которую мы видим на левой стороне Луны, солнечный свет также проходит через атмосферу Земли. Это рассеивает синий солнечный свет, пропуская большую часть красного солнечного света — тот же процесс, который превращает вечернее солнце в прекрасный и красочный закат.",
+      "alt_en": "The moon is partially covered by the earth's shadow and shrouded in orange light over beautiful coastal scenery.",
+      "alt_ru": "Луна частично покрыта земной тенью и окутана оранжевым светом над прекрасным прибрежным пейзажем.",
+      "credit": "ToryYu1989",
+      "credit_url": "https://commons.wikimedia.org/w/index.php?curid=147185374",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "term_numbers": [
+        91,
+        239
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

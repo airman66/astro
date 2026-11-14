@@ -1,0 +1,249 @@
+{
+  "id": "term:150",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 150,
+    "url": "https://astro4edu.org/resources/glossary/term/150/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=150",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:00.496534+00:00",
+    "sha256": "8ea9588810482eda1ddec034958721c577845045c60bbf7a2f803f5e9245e537"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      149,
+      221
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Hydrogen Fusion",
+      "body": "Nuclear fusion is the umbrella term for all reactions whereby lighter atomic nuclei collide and merge to form one or more heavier atomic nuclei. In astronomy, hydrogen fusion is the nuclear fusion reaction that transforms hydrogen nuclei (each consisting of a single proton) into helium-4 nuclei (each consisting of two protons and two neutrons bound together). The helium-4 nucleus has a mass less than the sum of the masses of the protons and neutrons it is made of. By Einstein's famous formula E=mc 2 , that mass difference corresponds to an energy difference. As the protons and neutrons fuse to form helium-4, the amount of energy corresponding to that difference is released. In this way, hydrogen fusion serves as the energy source for so-called main sequence stars like our Sun. At least for some time, such stars are in an equilibrium state: the amount of energy released by hydrogen fusion in their cores corresponds to the energy those brightly-shining stars emit in the form of light and other kinds of electromagnetic radiation as well as particles. Hydrogen fusion proceeds via several intermediate steps. For stars with the mass of our Sun or less, it proceeds via the so-called proton–proton chain (pp chain). In the simplest version of that chain of reactions, two hydrogen nuclei (protons) fuse to yield deuterium nuclei (one proton, one neutron each), which then fuse with one additional hydrogen nucleus to yield helium-3 (two protons, one neutron). Two such helium-3 nuclei fuse to yield helium-4 plus two remaining hydrogen nuclei. In stars with more than about 1.3 times the mass of our Sun, an alternative process called the carbon–nitrogen–oxygen (CNO) cycle becomes the dominant way for fusing hydrogen into helium. Scientists on Earth have built machines to create fusion reactions with the hope that in future it can become a viable way of generating energy. Hydrogen fusion occurs not only in stars, but also took place during the early Big Bang phase of our Universe.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Hydrogen",
+          "url": "https://www.astro4edu.org/resources/glossary/term/149/",
+          "text_ru": "Водород"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Hydrogen Fusion</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Nuclear fusion is the umbrella term for all reactions whereby lighter atomic nuclei collide and merge to form one or more heavier atomic nuclei. In astronomy, hydrogen fusion is the nuclear fusion reaction that transforms hydrogen nuclei (each consisting of a single proton) into helium-4 nuclei (each consisting of two protons and two neutrons bound together). The helium-4 nucleus has a mass less than the sum of the masses of the protons and neutrons it is made of. By Einstein's famous formula E=mc<sup>2</sup>, that mass difference corresponds to an energy difference. As the protons and neutrons fuse to form helium-4, the amount of energy corresponding to that difference is released. In this way, hydrogen fusion serves as the energy source for so-called main sequence stars like our Sun. At least for some time, such stars are in an equilibrium state: the amount of energy released by hydrogen fusion in their cores corresponds to the energy those brightly-shining stars emit in the form of light and other kinds of electromagnetic radiation as well as particles. <br/><br/>Hydrogen fusion proceeds via several intermediate steps. For stars with the mass of our Sun or less, it proceeds via the so-called proton–proton chain (pp chain). In the simplest version of that chain of reactions, two hydrogen nuclei (protons) fuse to yield deuterium nuclei (one proton, one neutron each), which then fuse with one additional hydrogen nucleus to yield helium-3 (two protons, one neutron). Two such helium-3 nuclei fuse to yield helium-4 plus two remaining hydrogen nuclei. In stars with more than about 1.3 times the mass of our Sun, an alternative process called the carbon–nitrogen–oxygen (CNO) cycle becomes the dominant way for fusing hydrogen into helium. Scientists on Earth have built machines to create fusion reactions with the hope that in future it can become a viable way of generating energy. Hydrogen fusion occurs not only in stars, but also took place during the early Big Bang phase of our Universe.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/149/\">Hydrogen</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Термоядерный синтез водорода",
+      "body_ru": "Ядерный синтез — это общий термин для всех реакций, в которых более лёгкие атомные ядра сталкиваются и сливаются, образуя одно или несколько более тяжёлых атомных ядер. В астрономии термоядерный синтез водорода — это реакция ядерного синтеза, превращающая ядра водорода (каждое состоит из одного протона) в ядра гелия-4 (каждое состоит из двух протонов и двух нейтронов, связанных вместе). Ядро гелия-4 имеет массу меньше суммы масс составляющих его протонов и нейтронов. Согласно знаменитой формуле Эйнштейна E=mc 2 , эта разность масс соответствует разности энергий. Когда протоны и нейтроны сливаются, образуя гелий-4, высвобождается количество энергии, соответствующее этой разности. Таким образом, термоядерный синтез водорода служит источником энергии для так называемых звёзд главной последовательности, подобных нашему Солнцу. По крайней мере некоторое время такие звёзды находятся в равновесном состоянии: количество энергии, высвобождаемой термоядерным синтезом водорода в их ядрах, соответствует энергии, которую эти ярко светящиеся звёзды излучают в виде света и других видов электромагнитного излучения, а также частиц. Термоядерный синтез водорода протекает через несколько промежуточных стадий. Для звёзд с массой нашего Солнца или меньше он протекает через так называемую протон-протонную цепочку (pp-цепочку). В простейшем варианте этой цепочки реакций два ядра водорода (протоны) сливаются, давая ядра дейтерия (по одному протону и одному нейтрону каждое), которые затем сливаются с одним дополнительным ядром водорода, давая гелий-3 (два протона, один нейтрон). Два таких ядра гелия-3 сливаются, давая гелий-4 плюс два оставшихся ядра водорода. В звёздах с массой более примерно 1.3 масс нашего Солнца доминирующим способом синтеза водорода в гелий становится альтернативный процесс, называемый углеродно-азотно-кислородным (CNO) циклом. Учёные на Земле построили машины для создания реакций синтеза в надежде, что в будущем это может стать жизнеспособным способом производства энергии. Термоядерный синтез водорода происходит не только в звёздах, но также имел место в раннюю фазу Большого взрыва нашей Вселенной."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/150/\">اندماج الهيدروجين </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/150/\">Wasserstoffbrennen </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/150/\">Fusión de hidrógeno </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/150/\">Fusion de l'hydrogène </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/150/\">Fusione di idrogeno </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/150/\">Fusão de hidrogênio </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/150/\">氢聚变 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/150/\">氫聚變 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/vF35TW97K884/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/nE461I80fc87/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:vF35TW97K884",
+        "diagram:nE461I80fc87"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/vF35TW97K884/\"><img alt=\"Three stars with different onion-like layers for convection and radiation.\" src=\"/media/diagrams/multimedia/thumbnails/stellar_structure_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stellar Structure</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Stars are balls of plasma. For most of a star’s life it burns hydrogen into helium in its core. This phase of a star’s life is known as the main sequence. Burning hydrogen into helium produces heat, that heat travels out of the star’s core eventually reaching the star’s photosphere (often referred to as the “surface” of the star). From here the heat can radiate into space as various forms of electromagnetic radiation. However, how heat travels from the core to the photosphere depends on the star’s mass.\n\nImagine a parcel of gas rising inside a star. As it rises, it moves into an area of lower pressure, so it cools down and expands. If the parcel is still hotter, and therefore less dense than its surroundings, it keeps moving upward due to buoyancy. Eventually, it will rise far enough to cool and sink back down. This rising and sinking cycle is called convection. Whether convection occurs depends on how quickly temperature changes as you move away from the star’s core. If the temperature in a star drops rapidly, rising parcels of gas are more likely to stay hotter than their surroundings, so convection dominates as the mode of energy transfer in this part of the star. Conversely if the temperature drops more slowly (i.e. if the temperature gradient is small) then heat will mostly be transferred by radiation (photons).\n\nIn the most massive main sequence stars (more massive than about 1.5 times the mass of the Sun, seen here on the left), hydrogen is burned into helium using the CNO cycle. This is highly temperature dependent and thus energy production is concentrated near the center of the star. This leads to a larger temperature gradient and thus a convective core. Further out the temperature gradient becomes smaller and heat transport is dominated by radiation. This is called the radiative zone. \n\nFor lower mass stars like the Sun (between 0.3 and 1.5 solar masses, seen here in the middle) hydrogen is burned to helium using a different process (the pp chain). This depends less on the internal temperature than the CNO cycle and so energy production is more distributed in the star’s core. This leads to a smaller temperature gradient and thus a radiative core where convection occurs surrounded by a radiative zone. Going further out the gas becomes cool enough for some elements to hang to on some of their electrons, i.e. not being completely ionised. This partially ionised gas is more opaque to photons, trapping heat. This leads to a large temperature gradient and thus convection. \n\nThe lowest mass stars (below 0.3 solar masses, seen here on the right) have no radiative zone and are fully convective.\n\nThe arrows in the radiative zone are shown as wavy lines heading out of the star. However, a photon’s journey out of a star is much more complex with each individual photon travelling only a short distance before being deflected by some of the charged particles that make up the plasma of the star’s interior. This leads to a long and winding road that takes millennia instead of the few seconds it would take if the photon did not interact with particles in the plasma.<br/>\n<b>Credit:</b> Based on a vector diagram by Wikimedia user Д.Ильин which itself is based on a diagram from sun.org\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/nE461I80fc87/\"><img alt=\"A diagram showing the evolutionary stages of five mass ranges of stars.\" src=\"/media/diagrams/multimedia/thumbnails/Stellar_Evolution_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stellar Evolution</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the life cycle of stars of different masses. The mass of the different types of star increases from bottom to top with time going from left to right.\n\nThe life cycle of a star depends on its mass, with lower mass stars have longer lifetimes. All stars form from clouds of gas that collapse under their own gravity. As the star collapses, its core becomes hotter and denser. If the star has a mass greater than 0.08 solar masses (0.08 times the mass of the Sun), the pressure of the star’s mass pushing down on its core creates a high enough core temperature for hydrogen fusion to ignite. This burns hydrogen into helium in the star’s core, providing a heat source to power the star and to stop its core from collapsing further. If the collapsing object has a mass below 0.08 solar masses then it does not ignite hydrogen fusion in its core. It continues to cool and slowly contract. Such substellar objects are known as brown dwarfs, shown here in the lowest row.\n\nAfter stars have formed, they burn hydrogen in their cores and begin their so-called main sequence phase. The most massive stars (&gt;25 solar masses, shown here at the top) have very high core temperatures and thus burn through their hydrogen fuel more quickly. This means they may only spend a few million years on the main sequence burning hydrogen in their cores. Once the hydrogen in the core is exhausted the star’s core contracts, becomes hotter and helium burning starts in the core. While the core contracts, the outer layers of the star expand and it becomes a supergiant. For the most massive stars strong stellar winds strip off the cooler outer layers, leading to the star being very large and very hot, a blue supergiant. Once helium is exhausted in the core, carbon is burned, and then heavier elements. Eventually the star ends with an iron core. Fusing iron into heavier elements does not generate energy so at this point fusion stops in the core. Once this core of iron is massive enough, it and the surrounding matter suddenly collapses to form a black hole and the outer layers are flung off in a supernova explosion.\n\nSlightly lower mass stars (between 8 and 25 solar masses, seen here second top) evolve in a similar way although they do not have strong enough winds to push their outer layers away and become blue supergiants, instead it evolves into a red supergiant. While such stars also collapse and create supernova explosions. The remnant of the star’s core is not massive enough to collapse into a black hole. Instead, its electrons and protons combine to form neutrons and it is supported by a quantum mechanical effect called neutron degeneracy pressure. This results in the remnant of the star being a tiny neutron star, several solar masses in mass but only a few kilometres across. \n\nFor stars similar in mass to the Sun (between 0.4 and 8 solar masses, seen here in the middle row), the star burns hydrogen in its core until the hydrogen in its core is exhausted. At this point a hydrogen burning shell forms around the core. Eventually the core will become hot enough to burn helium into carbon and oxygen. After this the star is left with a carbon and oxygen core surrounded by shells burning helium and hydrogen. These shells are unstable producing thermal pulsations that convulse the star. Eventually these pulsations become so extreme that the star’s outer layers are thrown off. This leaves the carbon and oxygen core as a white dwarf supported by electron degeneracy pressure. The outer layers of the star form what is known as a planetary nebula (which doesn’t actually have anything to do with planets despite the name).\n\nThe lowest mass stars (seen here in the second bottom row) are so low in mass that their evolutionary timescales are much longer than the age of the universe. This means that none have evolved beyond the main-sequence. Low mass stars are fully convective meaning material in the core is constantly being mixed with material above. This means that all the hydrogen in the star would eventually be burned in the core, but this will take trillions of years.<br/>\n<b>Credit:</b> Danielle Futselaar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Hydrogen Fusion",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Hydrogen Fusion",
+          "body": "Nuclear fusion is the umbrella term for all reactions whereby lighter atomic nuclei collide and merge to form one or more heavier atomic nuclei. In astronomy, hydrogen fusion is the nuclear fusion reaction that transforms hydrogen nuclei (each consisting of a single proton) into helium-4 nuclei (each consisting of two protons and two neutrons bound together). The helium-4 nucleus has a mass less than the sum of the masses of the protons and neutrons it is made of. By Einstein's famous formula E=mc 2 , that mass difference corresponds to an energy difference. As the protons and neutrons fuse to form helium-4, the amount of energy corresponding to that difference is released. In this way, hydrogen fusion serves as the energy source for so-called main sequence stars like our Sun. At least for some time, such stars are in an equilibrium state: the amount of energy released by hydrogen fusion in their cores corresponds to the energy those brightly-shining stars emit in the form of light and other kinds of electromagnetic radiation as well as particles. Hydrogen fusion proceeds via several intermediate steps. For stars with the mass of our Sun or less, it proceeds via the so-called proton–proton chain (pp chain). In the simplest version of that chain of reactions, two hydrogen nuclei (protons) fuse to yield deuterium nuclei (one proton, one neutron each), which then fuse with one additional hydrogen nucleus to yield helium-3 (two protons, one neutron). Two such helium-3 nuclei fuse to yield helium-4 plus two remaining hydrogen nuclei. In stars with more than about 1.3 times the mass of our Sun, an alternative process called the carbon–nitrogen–oxygen (CNO) cycle becomes the dominant way for fusing hydrogen into helium. Scientists on Earth have built machines to create fusion reactions with the hope that in future it can become a viable way of generating energy. Hydrogen fusion occurs not only in stars, but also took place during the early Big Bang phase of our Universe."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Водородный синтез",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Термоядерный синтез водорода",
+          "body": "Ядерный синтез — это общий термин для всех реакций, в которых более лёгкие атомные ядра сталкиваются и сливаются, образуя одно или несколько более тяжёлых атомных ядер. В астрономии термоядерный синтез водорода — это реакция ядерного синтеза, превращающая ядра водорода (каждое состоит из одного протона) в ядра гелия-4 (каждое состоит из двух протонов и двух нейтронов, связанных вместе). Ядро гелия-4 имеет массу меньше суммы масс составляющих его протонов и нейтронов. Согласно знаменитой формуле Эйнштейна E=mc 2 , эта разность масс соответствует разности энергий. Когда протоны и нейтроны сливаются, образуя гелий-4, высвобождается количество энергии, соответствующее этой разности. Таким образом, термоядерный синтез водорода служит источником энергии для так называемых звёзд главной последовательности, подобных нашему Солнцу. По крайней мере некоторое время такие звёзды находятся в равновесном состоянии: количество энергии, высвобождаемой термоядерным синтезом водорода в их ядрах, соответствует энергии, которую эти ярко светящиеся звёзды излучают в виде света и других видов электромагнитного излучения, а также частиц. Термоядерный синтез водорода протекает через несколько промежуточных стадий. Для звёзд с массой нашего Солнца или меньше он протекает через так называемую протон-протонную цепочку (pp-цепочку). В простейшем варианте этой цепочки реакций два ядра водорода (протоны) сливаются, давая ядра дейтерия (по одному протону и одному нейтрону каждое), которые затем сливаются с одним дополнительным ядром водорода, давая гелий-3 (два протона, один нейтрон). Два таких ядра гелия-3 сливаются, давая гелий-4 плюс два оставшихся ядра водорода. В звёздах с массой более примерно 1.3 масс нашего Солнца доминирующим способом синтеза водорода в гелий становится альтернативный процесс, называемый углеродно-азотно-кислородным (CNO) циклом. Учёные на Земле построили машины для создания реакций синтеза в надежде, что в будущем это может стать жизнеспособным способом производства энергии. Термоядерный синтез водорода происходит не только в звёздах, но также имел место в раннюю фазу Большого взрыва нашей Вселенной."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:vF35TW97K884",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/stellar_structure_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/vF35TW97K884/",
+      "original_path": "data/media/original/diagram_vF35TW97K884.png",
+      "ru_path": "data/media/ru/diagram_vF35TW97K884.png",
+      "sha256": "e4d75a5efddc7236f641c53080f6a1478a8286c6bafb3ff72d37d86cdcbd6b12",
+      "size": 102934,
+      "title_en": "Stellar Structure",
+      "title_ru": "Строение звезды",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "Stars are balls of plasma. For most of a star’s life it burns hydrogen into helium in its core. This phase of a star’s life is known as the main sequence. Burning hydrogen into helium produces heat, that heat travels out of the star’s core eventually reaching the star’s photosphere (often referred to as the “surface” of the star). From here the heat can radiate into space as various forms of electromagnetic radiation. However, how heat travels from the core to the photosphere depends on the star’s mass.\r\n\r\nImagine a parcel of gas rising inside a star. As it rises, it moves into an area of lower pressure, so it cools down and expands. If the parcel is still hotter, and therefore less dense than its surroundings, it keeps moving upward due to buoyancy. Eventually, it will rise far enough to cool and sink back down. This rising and sinking cycle is called convection. Whether convection occurs depends on how quickly temperature changes as you move away from the star’s core. If the temperature in a star drops rapidly, rising parcels of gas are more likely to stay hotter than their surroundings, so convection dominates as the mode of energy transfer in this part of the star. Conversely if the temperature drops more slowly (i.e. if the temperature gradient is small) then heat will mostly be transferred by radiation (photons).\r\n\r\nIn the most massive main sequence stars (more massive than about 1.5 times the mass of the Sun, seen here on the left), hydrogen is burned into helium using the CNO cycle. This is highly temperature dependent and thus energy production is concentrated near the center of the star. This leads to a larger temperature gradient and thus a convective core. Further out the temperature gradient becomes smaller and heat transport is dominated by radiation. This is called the radiative zone. \r\n\r\nFor lower mass stars like the Sun (between 0.3 and 1.5 solar masses, seen here in the middle) hydrogen is burned to helium using a different process (the pp chain). This depends less on the internal temperature than the CNO cycle and so energy production is more distributed in the star’s core. This leads to a smaller temperature gradient and thus a radiative core where convection occurs surrounded by a radiative zone. Going further out the gas becomes cool enough for some elements to hang to on some of their electrons, i.e. not being completely ionised. This partially ionised gas is more opaque to photons, trapping heat. This leads to a large temperature gradient and thus convection. \r\n\r\nThe lowest mass stars (below 0.3 solar masses, seen here on the right) have no radiative zone and are fully convective.\r\n\r\nThe arrows in the radiative zone are shown as wavy lines heading out of the star. However, a photon’s journey out of a star is much more complex with each individual photon travelling only a short distance before being deflected by some of the charged particles that make up the plasma of the star’s interior. This leads to a long and winding road that takes millennia instead of the few seconds it would take if the photon did not interact with particles in the plasma.",
+      "caption_ru": "Звезды — это шары из плазмы. Большую часть жизни звезды она сжигает водород в гелий в своем ядре. Эта фаза жизни звезды известна как главная последовательность. Сжигание водорода в гелий производит тепло, которое распространяется из ядра звезды, в конечном итоге достигая фотосферы звезды (часто называемой «поверхностью» звезды). Отсюда тепло может излучаться в космос в виде различных форм электромагнитного излучения. Однако то, как тепло распространяется от ядра к фотосфере, зависит от массы звезды.\r\n\r\nПредставьте себе порцию газа, поднимающуюся внутри звезды. Поднимаясь, она перемещается в область более низкого давления, поэтому охлаждается и расширяется. Если эта порция все еще горячее и, следовательно, менее плотная, чем ее окружение, она продолжает двигаться вверх благодаря плавучести. В конце концов, она поднимется достаточно высоко, чтобы охладиться и опуститься обратно. Этот цикл подъема и опускания называется конвекцией. Происходит ли конвекция, зависит от того, насколько быстро меняется температура при удалении от ядра звезды. Если температура в звезде падает быстро, поднимающиеся порции газа с большей вероятностью останутся горячее своего окружения, поэтому конвекция доминирует как способ переноса энергии в этой части звезды. И наоборот, если температура падает медленнее (т.е. если градиент температуры мал), то тепло будет в основном переноситься излучением (фотонами).\r\n\r\nВ самых массивных звездах главной последовательности (более массивных, чем примерно 1.5 массы Солнца, показанных здесь слева) водород сжигается в гелий с использованием CNO-цикла. Это сильно зависит от температуры, и поэтому производство энергии сосредоточено вблизи центра звезды. Это приводит к большему градиенту температуры и, следовательно, к конвективному ядру. Дальше градиент температуры становится меньше, и перенос тепла осуществляется преимущественно излучением. Это называется лучистой зоной.\r\n\r\nДля звезд меньшей массы, таких как Солнце (между 0.3 и 1.5 солнечных масс, показанных здесь в середине), водород сжигается в гелий с использованием другого процесса (pp-цепочки). Это меньше зависит от внутренней температуры, чем CNO-цикл, и поэтому производство энергии более распределено в ядре звезды. Это приводит к меньшему градиенту температуры и, следовательно, к лучистому ядру, где происходит конвекция, окруженному лучистой зоной. Дальше газ становится достаточно холодным, чтобы некоторые элементы удерживали часть своих электронов, т.е. не были полностью ионизованы. Этот частично ионизованный газ более непрозрачен для фотонов, задерживая тепло. Это приводит к большому градиенту температуры и, следовательно, к конвекции.\r\n\r\nСамые маломассивные звезды (ниже 0.3 солнечных масс, показанные здесь справа) не имеют лучистой зоны и полностью конвективны.\r\n\r\nСтрелки в лучистой зоне показаны в виде волнистых линий, направляющихся из звезды. Однако путь фотона из звезды гораздо более сложен: каждый отдельный фотон проходит лишь короткое расстояние, прежде чем отклоняется некоторыми заряженными частицами, составляющими плазму внутренней части звезды. Это приводит к долгому и извилистому пути, который занимает тысячелетия вместо нескольких секунд, которые потребовались бы, если бы фотон не взаимодействовал с частицами в плазме.",
+      "alt_en": "Three stars with different onion-like layers for convection and radiation.",
+      "alt_ru": "Три звезды с различными слоями, подобными луковице, для конвекции и излучения.",
+      "credit": "Based on a vector diagram by Wikimedia user Д.Ильин which itself is based on a diagram from sun.org",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Heat_Transfer_in_Stars.svg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        96,
+        150,
+        251,
+        271,
+        338,
+        433,
+        478
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "803e97d55fd996c507f443e568179136f3cd1b285a38686d3e6888b87f835dc2"
+    },
+    {
+      "id": "diagram:nE461I80fc87",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Stellar_Evolution_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/nE461I80fc87/",
+      "original_path": "data/media/original/diagram_nE461I80fc87.png",
+      "ru_path": "data/media/ru/diagram_nE461I80fc87.png",
+      "sha256": "764bb237a9022d9195fc75f068b2d4e9c9a0370c547a6ead2613f22b7b39a4bf",
+      "size": 987571,
+      "title_en": "Stellar Evolution",
+      "title_ru": "Звездная эволюция",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the life cycle of stars of different masses. The mass of the different types of star increases from bottom to top with time going from left to right.\r\n\r\nThe life cycle of a star depends on its mass, with lower mass stars have longer lifetimes. All stars form from clouds of gas that collapse under their own gravity. As the star collapses, its core becomes hotter and denser. If the star has a mass greater than 0.08 solar masses (0.08 times the mass of the Sun), the pressure of the star’s mass pushing down on its core creates a high enough core temperature for hydrogen fusion to ignite. This burns hydrogen into helium in the star’s core, providing a heat source to power the star and to stop its core from collapsing further. If the collapsing object has a mass below 0.08 solar masses then it does not ignite hydrogen fusion in its core. It continues to cool and slowly contract. Such substellar objects are known as brown dwarfs, shown here in the lowest row.\r\n\r\nAfter stars have formed, they burn hydrogen in their cores and begin their so-called main sequence phase. The most massive stars (>25 solar masses, shown here at the top) have very high core temperatures and thus burn through their hydrogen fuel more quickly. This means they may only spend a few million years on the main sequence burning hydrogen in their cores. Once the hydrogen in the core is exhausted the star’s core contracts, becomes hotter and helium burning starts in the core. While the core contracts, the outer layers of the star expand and it becomes a supergiant. For the most massive stars strong stellar winds strip off the cooler outer layers, leading to the star being very large and very hot, a blue supergiant. Once helium is exhausted in the core, carbon is burned, and then heavier elements. Eventually the star ends with an iron core. Fusing iron into heavier elements does not generate energy so at this point fusion stops in the core. Once this core of iron is massive enough, it and the surrounding matter suddenly collapses to form a black hole and the outer layers are flung off in a supernova explosion.\r\n\r\nSlightly lower mass stars (between 8 and 25 solar masses, seen here second top) evolve in a similar way although they do not have strong enough winds to push their outer layers away and become blue supergiants, instead it evolves into a red supergiant. While such stars also collapse and create supernova explosions. The remnant of the star’s core is not massive enough to collapse into a black hole. Instead, its electrons and protons combine to form neutrons and it is supported by a quantum mechanical effect called neutron degeneracy pressure. This results in the remnant of the star being a tiny neutron star, several solar masses in mass but only a few kilometres across. \r\n\r\nFor stars similar in mass to the Sun (between 0.4 and 8 solar masses, seen here in the middle row), the star burns hydrogen in its core until the hydrogen in its core is exhausted. At this point a hydrogen burning shell forms around the core. Eventually the core will become hot enough to burn helium into carbon and oxygen. After this the star is left with a carbon and oxygen core surrounded by shells burning helium and hydrogen. These shells are unstable producing thermal pulsations that convulse the star. Eventually these pulsations become so extreme that the star’s outer layers are thrown off. This leaves the carbon and oxygen core as a white dwarf supported by electron degeneracy pressure. The outer layers of the star form what is known as a planetary nebula (which doesn’t actually have anything to do with planets despite the name).\r\n\r\nThe lowest mass stars (seen here in the second bottom row) are so low in mass that their evolutionary timescales are much longer than the age of the universe. This means that none have evolved beyond the main-sequence. Low mass stars are fully convective meaning material in the core is constantly being mixed with material above. This means that all the hydrogen in the star would eventually be burned in the core, but this will take trillions of years.",
+      "caption_ru": "Эта диаграмма показывает жизненный цикл звезд различной массы. Масса различных типов звезд увеличивается снизу вверх, а время идет слева направо.\r\n\r\nЖизненный цикл звезды зависит от ее массы, причем звезды меньшей массы имеют более длительные сроки жизни. Все звезды формируются из облаков газа, которые коллапсируют под действием собственной гравитации. По мере коллапса звезды ее ядро становится горячее и плотнее. Если масса звезды превышает 0,08 солнечных масс (0,08 массы Солнца), давление массы звезды, давящей на ее ядро, создает достаточно высокую температуру ядра для запуска термоядерного синтеза водорода. Это сжигает водород в гелий в ядре звезды, обеспечивая источник тепла для питания звезды и предотвращения дальнейшего коллапса ее ядра. Если коллапсирующий объект имеет массу ниже 0,08 солнечных масс, то термоядерный синтез водорода в его ядре не запускается. Он продолжает остывать и медленно сжиматься. Такие субзвездные объекты известны как коричневые карлики, показанные здесь в нижнем ряду.\r\n\r\nПосле формирования звезды сжигают водород в своих ядрах и начинают так называемую фазу главной последовательности. Самые массивные звезды (>25 солнечных масс, показанные здесь вверху) имеют очень высокие температуры ядра и, таким образом, быстрее сжигают свое водородное топливо. Это означает, что они могут провести на главной последовательности, сжигая водород в своих ядрах, всего несколько миллионов лет. Как только водород в ядре исчерпан, ядро звезды сжимается, становится горячее, и в ядре начинается горение гелия. Пока ядро сжимается, внешние слои звезды расширяются, и она становится сверхгигантом. У самых массивных звезд сильные звездные ветры срывают более холодные внешние слои, что приводит к тому, что звезда становится очень большой и очень горячей — голубым сверхгигантом. Как только гелий в ядре исчерпан, сжигается углерод, а затем более тяжелые элементы. В конечном итоге звезда заканчивает с железным ядром. Синтез железа в более тяжелые элементы не генерирует энергию, поэтому на этом этапе синтез в ядре прекращается. Как только это железное ядро становится достаточно массивным, оно и окружающее вещество внезапно коллапсируют, образуя черную дыру, а внешние слои отбрасываются в взрыве сверхновой.\r\n\r\nЗвезды немного меньшей массы (от 8 до 25 солнечных масс, показанные здесь вторыми сверху) эволюционируют аналогичным образом, хотя у них недостаточно сильные ветры, чтобы оттолкнуть внешние слои и стать голубыми сверхгигантами; вместо этого они эволюционируют в красные сверхгиганты. Такие звезды также коллапсируют и создают взрывы сверхновых. Остаток ядра звезды недостаточно массивен, чтобы коллапсировать в черную дыру. Вместо этого его электроны и протоны объединяются, образуя нейтроны, и он поддерживается квантово-механическим эффектом, называемым давлением вырожденного нейтронного газа. В результате остаток звезды представляет собой крошечную нейтронную звезду, массой в несколько солнечных масс, но диаметром всего в несколько километров.\r\n\r\nДля звезд, сходных по массе с Солнцем (от 0,4 до 8 солнечных масс, показанные здесь в среднем ряду), звезда сжигает водород в своем ядре до тех пор, пока водород в ядре не исчерпается. В этот момент вокруг ядра образуется оболочка, сжигающая водород. В конечном итоге ядро станет достаточно горячим, чтобы сжигать гелий в углерод и кислород. После этого у звезды остается углеродно-кислородное ядро, окруженное оболочками, сжигающими гелий и водород. Эти оболочки нестабильны, создавая тепловые пульсации, которые сотрясают звезду. В конечном итоге эти пульсации становятся настолько экстремальными, что внешние слои звезды отбрасываются. Это оставляет углеродно-кислородное ядро в виде белого карлика, поддерживаемого давлением вырожденного электронного газа. Внешние слои звезды образуют так называемую планетарную туманность (которая на самом деле не имеет ничего общего с планетами, несмотря на название).\r\n\r\nСамые маломассивные звезды (показанные здесь во втором снизу ряду) имеют настолько малую массу, что их эволюционные временные масштабы намного превышают возраст Вселенной. Это означает, что ни одна из них не эволюционировала за пределы главной последовательности. Маломассивные звезды полностью конвективны, что означает, что материал в ядре постоянно перемешивается с материалом выше. Это означает, что весь водород в звезде в конечном итоге будет сожжен в ядре, но это займет триллионы лет.",
+      "alt_en": "A diagram showing the evolutionary stages of five mass ranges of stars.",
+      "alt_ru": "Диаграмма, показывающая эволюционные стадии для пяти диапазонов масс звёзд.",
+      "credit": "Danielle Futselaar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        43,
+        150,
+        214,
+        333,
+        334,
+        337,
+        347,
+        349,
+        386
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "463cb8467ab46d6c00ca3937eb0482fb48dcf7208f3f7880fb63aadbd0bac430"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

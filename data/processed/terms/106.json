@@ -1,0 +1,390 @@
+{
+  "id": "term:106",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 106,
+    "url": "https://astro4edu.org/resources/glossary/term/106/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=106",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:41.575412+00:00",
+    "sha256": "bb99570dcc7d6423b88a16539911de711e5c6654c901ecc690f8d29c6bd6207d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Chemistry",
+      "Exoplanets & Astrobiology"
+    ],
+    "category_ids": [
+      12,
+      6
+    ],
+    "categories_ru": [
+      "Химия",
+      "Экзопланеты и астробиология"
+    ],
+    "related_term_numbers": [
+      253,
+      331
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Exoplanet",
+      "body": "An exoplanet, or extrasolar planet, is a planet located outside the Solar System. Their existence was theorized from the 16th century and observational research was started in the 19th century to find them. The first confirmed exoplanets were discovered in the 1990s. Of these, the first confirmed to be orbiting around a star on the main sequence was the exoplanet Dimidium, indirectly discovered at the Haute-Provence Observatory. This exoplanet is orbiting the star 51 Pegasi, a yellow subgiant and was discovered in 1995. Since then thousands of exoplanets have been identified.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/253/",
+          "text_ru": "Планета"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Exoplanet</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An exoplanet, or extrasolar planet, is a planet located outside the Solar System. Their existence was theorized from the 16th century and observational research was started in the 19th century to find them. The first confirmed exoplanets were discovered in the 1990s. Of these, the first confirmed to be orbiting around a star on the main sequence was the exoplanet Dimidium, indirectly discovered at the Haute-Provence Observatory. This exoplanet is orbiting the star 51 Pegasi, a yellow subgiant and was discovered in 1995. Since then thousands of exoplanets have been identified.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/253/\">Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Экзопланета",
+      "body_ru": "Экзопланета, или внесолнечная планета, — это планета, расположенная за пределами Солнечной системы. Их существование было теоретически предсказано с 16 века, а наблюдательные исследования по их поиску начались в 19 веке. Первые подтверждённые экзопланеты были обнаружены в 1990-х годах. Из них первой подтверждённой планетой, обращающейся вокруг звезды главной последовательности, была экзопланета Димидиум, косвенно обнаруженная в обсерватории Верхнего Прованса. Эта экзопланета обращается вокруг звезды 51 Пегаса, жёлтого субгиганта, и была обнаружена в 1995 году. С тех пор были идентифицированы тысячи экзопланет."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "太陽系外惑星 (external link)",
+          "url": "https://astro-dic.jp/extrasolar-planet-2/",
+          "text_ru": "Экзопланета (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/106/\">الكوكب الخارجي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/106/\">Exoplanet </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/106/\">Exoplaneta </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/106/\">Exoplanète </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/106/\">Esopianeta </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/extrasolar-planet-2/\">太陽系外惑星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/106/\">Exoplaneta </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/106/\">系外行星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/106/\">系外行星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/PE34qs98WJ63/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso0842a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/cF23yx36oS64/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/potw1846a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:PE34qs98WJ63",
+        "media:cF23yx36oS64"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/PE34qs98WJ63/\"><img alt=\"The planet beta Pictoris b is a bright dot close to its parent star. Around this we see a warm disk edge-on\" src=\"/media/multimedia/thumbnails/eso0842a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">beta Pictoris b</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This composite of two images shows the planet beta Pictoris b and a disk of material both of which orbit the young star beta Pictoris. Both are taken in infrared light. The inner image was one of the first pictures taken of a planet around another star (an exoplanet). This image was made using a technique called adaptive optics which removes the blurring effect of the Earth's atmosphere that spreads out a star's light. The star's light is then concentrated tightly enough that it can be hidden behind a blocking circle (shown here in black) called a coronagraph. The ripples around this are artifacts of the imaging process. Beta Pictoris b, a gas giant planet about twelve times the mass of Jupiter, appears as a dot above and to the left of the black circle.\n\nThe outer image shows the thermal emission from the warm disk of material surrounding the young star beta Pictoris. As we are viewing this disk edge-on it appears as a line. This disk of gas and dust provided the material to form beta Pictoris b.<br/>\n<b>Credit:</b> ESO/A.-M. Lagrange et al.\n\t  <a href=\"https://www.eso.org/public/images/eso0842a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/cF23yx36oS64/\"><img alt=\"beta Pictoris b moves from bottom right towards the center of the image, reappearing 22 months later on the top left\" src=\"/media/multimedia/thumbnails/potw1846a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The orbit of beta Pictoris b</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This series of images shows the orbital motion of the extrasolar planet (exoplanet) beta Pictoris b. The planet is the bright dot in each image. The planet's host star is hidden behind the black circle in the middle of each image. This is done to remove the much brighter host star which would otherwise drown out the light from the planet. The planet's orbit is viewed edge-on. Seeing the orbit from this perspective makes it look like the planet moves along a straight line. \nBetween February 2015 and November 2016 beta Pictoris b appears to move closer and closer to its host star. The planet then moved so close to the star that it was not seen for almost two years, after which it reappeared on the other side of the star.<br/>\n<b>Credit:</b> ESO/Lagrange/SPHERE consortium\n\t  <a href=\"https://www.eso.org/public/images/potw1846a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/zF97Dc8Sp10/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:zF97Dc8Sp10"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/zF97Dc8Sp10/\"><img alt=\"Pictor appears as a slightly bent line going from the south east to north west\" src=\"/media/diagrams/multimedia/thumbnails/pictor-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Pictor Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Pictor with its bright stars and surrounding constellations. Pictor is surrounded by (going clockwise from the top): Columba, Caelum, Dorado, Volans, Carina and Puppis. Pictor is notable for its second brightest star, Beta Pictoris. This young star hosts a large disk of dusty material left over from the planet formation process along with two planets, one of which Beta Pictoris b was one of the first planets to be directly imaged by astronomers.\n\nPictor is a southern constellation and thus the whole constellation is visible at some point in the year throughout the southern hemisphere. The whole constellation is also visible from some equatorial regions of the northern hemisphere with parts of the constellation visible to the remaining northern equatorial regions and some northern hemisphere temperate zones. Pictor is best viewed in the northern hemisphere winter and southern hemisphere summer.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Can you find the exoplanet? astroEDU educational activity (links to astroEDU website) Description: Find the exoplanet and determine its size using data from the Spitzer Space Telescope! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary Areas of Learning: Guided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Problem-solving \n  \n, Structured-inquiry learning \n  \n, Technology-based Costs: Free Duration: 3 hours Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Using mathematics and computational thinking Measuring an exoplanet astroEDU educational activity (links to astroEDU website) Description: Let's learn about exoplanets and how to measure their size! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Secondary Areas of Learning: Observation based \n  \n, Problem-solving Costs: Free Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models \n  \n, Using mathematics and computational thinking Exoplanet in a box astroEDU educational activity (links to astroEDU website) Description: Build a \"transit simulator\" in a box using some very simple material and your cell phone! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary \n  \n, University Areas of Learning: Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning \n  \n, Technology-based Costs: Low Cost Duration: 3-6 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Hunting for exoplanets with Arduino astroEDU educational activity (links to astroEDU website) Description: Become a planet hunter with an Arduino kit and some simple components License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Secondary \n  \n, University Areas of Learning: Modelling \n  \n, Observation based \n  \n, Simulation focussed \n  \n, Structured-inquiry learning \n  \n, Technology-based Costs: Medium Cost Duration: 3 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Exoplanet&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/can-you-find-the-exoplanet/\"><img alt=\"Can you find the exoplanet?\" src=\"/media/astroedu/images/can-you-find-the-exoplanet_en_VSut90U_thumbnail_Q5VCjPq.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/can-you-find-the-exoplanet/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Can you find the exoplanet?</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Find the exoplanet and determine its size using data from the Spitzer Space Telescope!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nSecondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Problem-solving \n  \n, Structured-inquiry learning \n  \n, Technology-based \n  \n<b>Costs:</b>\nFree \n\n<b>Duration:</b>\n3 hours \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/measuring-an-exoplanet/\"><img alt=\"Measuring an exoplanet\" src=\"/media/astroedu/images/measuring-an-exoplanet_en_thumbnail_aQ6DDlM.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/measuring-an-exoplanet/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Measuring an exoplanet</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's learn about exoplanets and how to measure their size!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nObservation based \n  \n, Problem-solving \n  \n<b>Costs:</b>\nFree \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Developing and using models \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/exoplanet-in-a-box/\"><img alt=\"Exoplanet in a box\" src=\"/media/astroedu/images/exoplanet-in-a-box_en_thumbnail_TP6KzH6.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/exoplanet-in-a-box/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Exoplanet in a box</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a \"transit simulator\" in a box using some very simple material and your cell phone!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nSecondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning \n  \n, Technology-based \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n3-6 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/hunting-for-exoplanets-with-arduino/\"><img alt=\"Hunting for exoplanets with Arduino\" src=\"/media/astroedu/images/hunting-for-exoplanets-with-arduino_en_thumbnail_QAtILdF.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/hunting-for-exoplanets-with-arduino/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hunting for exoplanets with Arduino</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Become a planet hunter with an Arduino kit and some simple components\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nSecondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Observation based \n  \n, Simulation focussed \n  \n, Structured-inquiry learning \n  \n, Technology-based \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n3 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Exoplanet&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Можете ли вы найти экзопланету? Образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Найдите экзопланету и определите её размер, используя данные космического телескопа Спитцер! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Среднее Области обучения: Обучение через управляемое открытие \n  \n, Моделирование \n  \n, На основе наблюдений \n  \n, Решение проблем \n  \n, Обучение через структурированное исследование \n  \n, На основе технологий Затраты: Бесплатно Продолжительность: 3 часов Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Использование математики и вычислительного мышления Измерение экзопланеты Образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте узнаем об экзопланетах и о том, как измерить их размер! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Возрастные диапазоны: 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Среднее Области обучения: На основе наблюдений \n  \n, Решение проблем Затраты: Бесплатно Продолжительность: 2 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей \n  \n, Использование математики и вычислительного мышления Экзопланета в коробке Образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте «симулятор транзита» в коробке, используя очень простые материалы и ваш мобильный телефон! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Среднее \n  \n, Университет Области обучения: Моделирование \n  \n, На основе наблюдений \n  \n, Проектное обучение \n  \n, Обучение через структурированное исследование \n  \n, На основе технологий Затраты: Низкая стоимость Продолжительность: 3-6 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Охота за экзопланетами с помощью Arduino Образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Станьте охотником за планетами с помощью набора Arduino и нескольких простых компонентов Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Среднее \n  \n, Университет Области обучения: Моделирование \n  \n, На основе наблюдений \n  \n, С акцентом на симуляцию \n  \n, Обучение через структурированное исследование \n  \n, На основе технологий Затраты: Средняя стоимость Продолжительность: 3 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Разработка и использование моделей Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Exoplanet",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Exoplanet",
+          "body": "An exoplanet, or extrasolar planet, is a planet located outside the Solar System. Their existence was theorized from the 16th century and observational research was started in the 19th century to find them. The first confirmed exoplanets were discovered in the 1990s. Of these, the first confirmed to be orbiting around a star on the main sequence was the exoplanet Dimidium, indirectly discovered at the Haute-Provence Observatory. This exoplanet is orbiting the star 51 Pegasi, a yellow subgiant and was discovered in 1995. Since then thousands of exoplanets have been identified."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Can you find the exoplanet? astroEDU educational activity (links to astroEDU website) Description: Find the exoplanet and determine its size using data from the Spitzer Space Telescope! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary Areas of Learning: Guided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Problem-solving \n  \n, Structured-inquiry learning \n  \n, Technology-based Costs: Free Duration: 3 hours Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Using mathematics and computational thinking Measuring an exoplanet astroEDU educational activity (links to astroEDU website) Description: Let's learn about exoplanets and how to measure their size! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Secondary Areas of Learning: Observation based \n  \n, Problem-solving Costs: Free Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models \n  \n, Using mathematics and computational thinking Exoplanet in a box astroEDU educational activity (links to astroEDU website) Description: Build a \"transit simulator\" in a box using some very simple material and your cell phone! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary \n  \n, University Areas of Learning: Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning \n  \n, Technology-based Costs: Low Cost Duration: 3-6 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Hunting for exoplanets with Arduino astroEDU educational activity (links to astroEDU website) Description: Become a planet hunter with an Arduino kit and some simple components License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Secondary \n  \n, University Areas of Learning: Modelling \n  \n, Observation based \n  \n, Simulation focussed \n  \n, Structured-inquiry learning \n  \n, Technology-based Costs: Medium Cost Duration: 3 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Экзопланета",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Экзопланета",
+          "body": "Экзопланета, или внесолнечная планета, — это планета, расположенная за пределами Солнечной системы. Их существование было теоретически предсказано с 16 века, а наблюдательные исследования по их поиску начались в 19 веке. Первые подтверждённые экзопланеты были обнаружены в 1990-х годах. Из них первой подтверждённой планетой, обращающейся вокруг звезды главной последовательности, была экзопланета Димидиум, косвенно обнаруженная в обсерватории Верхнего Прованса. Эта экзопланета обращается вокруг звезды 51 Пегаса, жёлтого субгиганта, и была обнаружена в 1995 году. С тех пор были идентифицированы тысячи экзопланет."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Можете ли вы найти экзопланету? Образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Найдите экзопланету и определите её размер, используя данные космического телескопа Спитцер! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Среднее Области обучения: Обучение через управляемое открытие \n  \n, Моделирование \n  \n, На основе наблюдений \n  \n, Решение проблем \n  \n, Обучение через структурированное исследование \n  \n, На основе технологий Затраты: Бесплатно Продолжительность: 3 часов Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Использование математики и вычислительного мышления Измерение экзопланеты Образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте узнаем об экзопланетах и о том, как измерить их размер! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Возрастные диапазоны: 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Среднее Области обучения: На основе наблюдений \n  \n, Решение проблем Затраты: Бесплатно Продолжительность: 2 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей \n  \n, Использование математики и вычислительного мышления Экзопланета в коробке Образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте «симулятор транзита» в коробке, используя очень простые материалы и ваш мобильный телефон! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Среднее \n  \n, Университет Области обучения: Моделирование \n  \n, На основе наблюдений \n  \n, Проектное обучение \n  \n, Обучение через структурированное исследование \n  \n, На основе технологий Затраты: Низкая стоимость Продолжительность: 3-6 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Охота за экзопланетами с помощью Arduino Образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Станьте охотником за планетами с помощью набора Arduino и нескольких простых компонентов Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Среднее \n  \n, Университет Области обучения: Моделирование \n  \n, На основе наблюдений \n  \n, С акцентом на симуляцию \n  \n, Обучение через структурированное исследование \n  \n, На основе технологий Затраты: Средняя стоимость Продолжительность: 3 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Разработка и использование моделей Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:PE34qs98WJ63",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/eso0842a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/PE34qs98WJ63/",
+      "original_path": "data/media/original/media_PE34qs98WJ63.jpg",
+      "ru_path": null,
+      "sha256": "46ee2862ab910ff4a163afc47d5b7c21a4ef2e1fecd7f298f49c1e20e705bd62",
+      "size": 128051,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The exoplanet beta Pictoris b",
+      "short_caption_ru": "Экзопланета Бета Живописца b",
+      "caption_en": "This composite of two images shows the planet beta Pictoris b and a disk of material both of which orbit the young star beta Pictoris. Both are taken in infrared light. The inner image was one of the first pictures taken of a planet around another star (an exoplanet). This image was made using a technique called adaptive optics which removes the blurring effect of the Earth's atmosphere that spreads out a star's light. The star's light is then concentrated tightly enough that it can be hidden behind a blocking circle (shown here in black) called a coronagraph. The ripples around this are artifacts of the imaging process. Beta Pictoris b, a gas giant planet about twelve times the mass of Jupiter, appears as a dot above and to the left of the black circle.\r\n\r\nThe outer image shows the thermal emission from the warm disk of material surrounding the young star beta Pictoris. As we are viewing this disk edge-on it appears as a line. This disk of gas and dust provided the material to form beta Pictoris b.",
+      "caption_ru": "Этот композит из двух изображений показывает планету бета Живописца b и диск материала, оба из которых вращаются вокруг молодой звезды бета Живописца. Оба снимка сделаны в инфракрасном свете. Внутреннее изображение было одним из первых снимков планеты вокруг другой звезды (экзопланеты). Это изображение было получено с использованием метода, называемого адаптивной оптикой, который устраняет размывающий эффект атмосферы Земли, рассеивающей свет звезды. Затем свет звезды концентрируется достаточно плотно, чтобы его можно было скрыть за блокирующим кругом (показан здесь черным), называемым коронографом. Волнистые структуры вокруг него являются артефактами процесса получения изображения. Бета Живописца b, газовый гигант примерно в двенадцать раз массивнее Юпитера, выглядит как точка выше и левее черного круга.\n\nВнешнее изображение показывает тепловое излучение от теплого диска материала, окружающего молодую звезду бета Живописца. Поскольку мы наблюдаем этот диск с ребра, он выглядит как линия. Этот диск газа и пыли послужил материалом для формирования бета Живописца b.",
+      "alt_en": "The planet beta Pictoris b is a bright dot close to its parent star. Around this we see a warm disk edge-on",
+      "alt_ru": "Планета бета Живописца b — яркая точка вблизи своей родительской звезды. Вокруг нее мы видим теплый диск с ребра",
+      "credit": "ESO/A.-M. Lagrange et al.",
+      "credit_url": "https://www.eso.org/public/images/eso0842a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        106,
+        254,
+        427
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:cF23yx36oS64",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/potw1846a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/cF23yx36oS64/",
+      "original_path": "data/media/original/media_cF23yx36oS64.jpg",
+      "ru_path": "data/media/ru/media_cF23yx36oS64.png",
+      "sha256": "ed96c8067787440fb735fccb74b6ae9a12ff886a97f188194b17b9cf5fcd5af8",
+      "size": 710171,
+      "title_en": "The orbit of beta Pictoris b",
+      "title_ru": "Орбита бета Живописца b",
+      "short_caption_en": "The orbital motion of the exoplanet beta Pictoris b, tracked over four years",
+      "short_caption_ru": "Орбитальное движение экзопланеты бета Живописца b, отслеживаемое в течение четырех лет",
+      "caption_en": "This series of images shows the orbital motion of the extrasolar planet (exoplanet) beta Pictoris b. The planet is the bright dot in each image. The planet's host star is hidden behind the black circle in the middle of each image. This is done to remove the much brighter host star which would otherwise drown out the light from the planet. The planet's orbit is viewed edge-on. Seeing the orbit from this perspective makes it look like the planet moves along a straight line. \r\nBetween February 2015 and November 2016 beta Pictoris b appears to move closer and closer to its host star. The planet then moved so close to the star that it was not seen for almost two years, after which it reappeared on the other side of the star.",
+      "caption_ru": "Эта серия изображений показывает орбитальное движение внесолнечной планеты (экзопланеты) бета Живописца b. Планета — яркая точка на каждом изображении. Родительская звезда планеты скрыта за черным кругом в центре каждого изображения. Это сделано, чтобы убрать гораздо более яркую родительскую звезду, которая иначе заглушила бы свет от планеты. Орбита планеты наблюдается с ребра. Наблюдение орбиты с этой перспективы создает впечатление, что планета движется по прямой линии.\nМежду февралем 2015 и ноябрем 2016 бета Живописца b, по-видимому, приближается все ближе и ближе к своей родительской звезде. Затем планета подошла так близко к звезде, что ее не было видно почти два года, после чего она снова появилась с другой стороны звезды.",
+      "alt_en": "beta Pictoris b moves from bottom right towards the center of the image, reappearing 22 months later on the top left",
+      "alt_ru": "бета Живописца b движется из правого нижнего угла к центру изображения, появляясь снова 22 месяцев спустя в верхнем левом углу",
+      "credit": "ESO/Lagrange/SPHERE consortium",
+      "credit_url": "https://www.eso.org/public/images/potw1846a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        106,
+        232
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "6aa8773e4613272769cf8ebb2f4ca608ef648c7ee8343b8286b09a411d6bfaff"
+    },
+    {
+      "id": "diagram:zF97Dc8Sp10",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/pictor-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/zF97Dc8Sp10/",
+      "original_path": "data/media/original/diagram_zF97Dc8Sp10.png",
+      "ru_path": null,
+      "sha256": "dbfdccc6250882d1527da2950f4b5b826049444846775de828ef298ca06ffca4",
+      "size": 95442,
+      "title_en": "Pictor Constellation Map",
+      "title_ru": "Карта созвездия Живописец",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Pictor with its bright stars and surrounding constellations. Pictor is surrounded by (going clockwise from the top): Columba, Caelum, Dorado, Volans, Carina and Puppis. Pictor is notable for its second brightest star, Beta Pictoris. This young star hosts a large disk of dusty material left over from the planet formation process along with two planets, one of which Beta Pictoris b was one of the first planets to be directly imaged by astronomers.\r\n\r\nPictor is a southern constellation and thus the whole constellation is visible at some point in the year throughout the southern hemisphere. The whole constellation is also visible from some equatorial regions of the northern hemisphere with parts of the constellation visible to the remaining northern equatorial regions and some northern hemisphere temperate zones. Pictor is best viewed in the northern hemisphere winter and southern hemisphere summer.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Живописец с его яркими звездами и окружающими созвездиями. Живописец окружен (по часовой стрелке сверху): Голубь, Резец, Золотая Рыба, Летучая Рыба, Киль и Корма. Живописец примечателен своей второй по яркости звездой, Бета Живописца. Эта молодая звезда имеет большой диск пылевого материала, оставшегося от процесса формирования планет, а также две планеты, одна из которых, Бета Живописца b, была одной из первых планет, непосредственно сфотографированных астрономами.\n\nЖивописец — южное созвездие, поэтому все созвездие видно в какой-то момент года на всей территории южного полушария. Все созвездие также видно из некоторых экваториальных районов северного полушария, а части созвездия видны в остальных северных экваториальных районах и некоторых умеренных зонах северного полушария. Лучше всего Живописец наблюдать зимой в северном полушарии и летом в южном полушарии.\n\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звезд связаны с видимой величиной звезды, мерой ее видимой яркости. Большие точки представляют более яркие звезды. Греческие буквы обозначают самые яркие звезды в созвездии. Они ранжируются по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные линии границ обозначают границы созвездий, установленные МАС, а сплошные зеленые линии обозначают одну из распространенных форм, используемых для представления фигур созвездий. Ни границы созвездий, ни линии, соединяющие звезды, не видны на небе.",
+      "alt_en": "Pictor appears as a slightly bent line going from the south east to north west",
+      "alt_ru": "Живописец выглядит как слегка изогнутая линия, идущая с юго-востока на северо-запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        106,
+        254,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

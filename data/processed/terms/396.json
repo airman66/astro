@@ -1,0 +1,113 @@
+{
+  "id": "term:396",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 396,
+    "url": "https://astro4edu.org/resources/glossary/term/396/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=396",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:13.713065+00:00",
+    "sha256": "c327e07c2dd6bc804645c8b45fd6b810a70477873cc843db8b98bd448077317f"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": 107,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Extinction",
+      "body": "The reduction in intensity of starlight reaching us is called extinction. This reduction is due to absorption and scattering of light by particles along the path of light. Extinction could be due to Earth's atmosphere (called atmospheric extinction), material in the immediate vicinity of a star (called circumstellar extinction), or due to material between stars in deep space (called interstellar extinction). The atmospheric extinction is mainly due to aerosols and molecules present in Earth's atmosphere such as water, carbon dioxide, and ozone at optical and near-infrared wavelengths. Interstellar extinction is attributed to interstellar matter made up of gas and submicron-sized dust particles. Interstellar dust has a drastic effect on starlight as compared to the gas particles. Extinction is generally higher at shorter wavelengths and vice-versa making astronomical objects appear redder than their true color (reddening).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Atmospheric Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/30/",
+          "text_ru": "Атмосферное поглощение"
+        },
+        {
+          "text": "Dust",
+          "url": "https://www.astro4edu.org/resources/glossary/term/85/",
+          "text_ru": "Пыль"
+        },
+        {
+          "text": "Interstellar Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/472/",
+          "text_ru": "Межзвёздное поглощение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Extinction</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Reddening</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The reduction in intensity of starlight reaching us is called extinction. This reduction is due to absorption and scattering of light by particles along the path of light. Extinction could be due to Earth's atmosphere (called atmospheric extinction), material in the immediate vicinity of a star (called circumstellar extinction), or due to material between stars in deep space (called interstellar extinction). The atmospheric extinction is mainly due to aerosols and molecules present in Earth's atmosphere such as water, carbon dioxide, and ozone at optical and near-infrared wavelengths. Interstellar extinction is attributed to interstellar matter made up of gas and submicron-sized dust particles. Interstellar dust has a drastic effect on starlight as compared to the gas particles. Extinction is generally higher at shorter wavelengths and vice-versa making astronomical objects appear redder than their true color (reddening).</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/30/\">Atmospheric Extinction</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/85/\">Dust</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/472/\">Interstellar Extinction</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Экстинкция",
+      "body_ru": "Уменьшение интенсивности звездного света, достигающего нас, называется экстинкцией. Это уменьшение обусловлено поглощением и рассеянием света частицами на пути света. Экстинкция может быть вызвана атмосферой Земли (называемая атмосферной экстинкцией), материалом в непосредственной близости от звезды (называемая околозвездной экстинкцией) или материалом между звездами в глубоком космосе (называемая межзвездной экстинкцией). Атмосферная экстинкция в основном обусловлена аэрозолями и молекулами, присутствующими в атмосфере Земли, такими как вода, углекислый газ и озон, на оптических и ближних инфракрасных длинах волн. Межзвездная экстинкция приписывается межзвездному веществу, состоящему из газа и пылевых частиц субмикронного размера. Межзвездная пыль оказывает резкое влияние на звездный свет по сравнению с газовыми частицами. Экстинкция обычно выше на более коротких длинах волн и наоборот, что заставляет астрономические объекты казаться краснее их истинного цвета (покраснение)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/107/\">الاعتتام </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/107/\">Extinktion </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/107/\">Extinción </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/107/\">L'extinction </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/107/\">Estinzione </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/107/\">소광 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/107/\">Extinção </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/107/\">消光 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/107/\">消光 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Reddening",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Extinction",
+          "body": "The reduction in intensity of starlight reaching us is called extinction. This reduction is due to absorption and scattering of light by particles along the path of light. Extinction could be due to Earth's atmosphere (called atmospheric extinction), material in the immediate vicinity of a star (called circumstellar extinction), or due to material between stars in deep space (called interstellar extinction). The atmospheric extinction is mainly due to aerosols and molecules present in Earth's atmosphere such as water, carbon dioxide, and ozone at optical and near-infrared wavelengths. Interstellar extinction is attributed to interstellar matter made up of gas and submicron-sized dust particles. Interstellar dust has a drastic effect on starlight as compared to the gas particles. Extinction is generally higher at shorter wavelengths and vice-versa making astronomical objects appear redder than their true color (reddening)."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Покраснение",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Экстинкция",
+          "body": "Уменьшение интенсивности звездного света, достигающего нас, называется экстинкцией. Это уменьшение обусловлено поглощением и рассеянием света частицами на пути света. Экстинкция может быть вызвана атмосферой Земли (называемая атмосферной экстинкцией), материалом в непосредственной близости от звезды (называемая околозвездной экстинкцией) или материалом между звездами в глубоком космосе (называемая межзвездной экстинкцией). Атмосферная экстинкция в основном обусловлена аэрозолями и молекулами, присутствующими в атмосфере Земли, такими как вода, углекислый газ и озон, на оптических и ближних инфракрасных длинах волн. Межзвездная экстинкция приписывается межзвездному веществу, состоящему из газа и пылевых частиц субмикронного размера. Межзвездная пыль оказывает резкое влияние на звездный свет по сравнению с газовыми частицами. Экстинкция обычно выше на более коротких длинах волн и наоборот, что заставляет астрономические объекты казаться краснее их истинного цвета (покраснение)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

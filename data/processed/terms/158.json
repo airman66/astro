@@ -1,0 +1,110 @@
+{
+  "id": "term:158",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 158,
+    "url": "https://astro4edu.org/resources/glossary/term/158/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=158",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:02.954433+00:00",
+    "sha256": "7490c8796b1696910311eb85a43c47c348db17aaaa2496a9a538688028f3cff6"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society"
+    ],
+    "category_ids": [
+      11
+    ],
+    "categories_ru": [
+      "Астрономия и общество"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: International Astronomical Union",
+      "body": "The International Astronomical Union (IAU) is a society of professional astronomers from around the world who are currently working in some aspect of astronomy research, education, or outreach. It was founded in 1919 and it works to develop outreach and educational activities for the public, alongside promoting active astronomy research through its scientific meetings.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: International Astronomical Union</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The International Astronomical Union (IAU) is a society of professional astronomers from around the world who are currently working in some aspect of astronomy research, education, or outreach. It was founded in 1919 and it works to develop outreach and educational activities for the public, alongside promoting active astronomy research through its scientific meetings.</p>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Международный астрономический союз",
+      "body_ru": "Международный астрономический союз (МАС) — это общество профессиональных астрономов со всего мира, которые в настоящее время работают в какой-либо области астрономических исследований, образования или просветительской деятельности. Он был основан в 1919 и работает над развитием просветительских и образовательных мероприятий для общественности, а также продвигает активные астрономические исследования через свои научные встречи."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "国際天文学連合 (external link)",
+          "url": "https://astro-dic.jp/iau/",
+          "text_ru": "Международный астрономический союз (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/158/\">اتحاد الفلك الدولي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/158/\">Internationale Astronomische Union </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/158/\">Unión Astronómica Internacional </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/158/\">اتحادیه بین‌المللی نجوم </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/158/\">Union astronomique internationale </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/158/\">Unione Astronomica Internazionale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/iau/\">国際天文学連合 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/158/\">국제천문연맹 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/158/\">União Astronômica Internacional </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/158/\">国际天文学联合会 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/158/\">國際天文學聯合會 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "International Astronomical Union",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: International Astronomical Union",
+          "body": "The International Astronomical Union (IAU) is a society of professional astronomers from around the world who are currently working in some aspect of astronomy research, education, or outreach. It was founded in 1919 and it works to develop outreach and educational activities for the public, alongside promoting active astronomy research through its scientific meetings."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Международный астрономический союз",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Международный астрономический союз",
+          "body": "Международный астрономический союз (МАС) — это общество профессиональных астрономов со всего мира, которые в настоящее время работают в какой-либо области астрономических исследований, образования или просветительской деятельности. Он был основан в 1919 и работает над развитием просветительских и образовательных мероприятий для общественности, а также продвигает активные астрономические исследования через свои научные встречи."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

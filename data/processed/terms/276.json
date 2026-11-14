@@ -1,0 +1,157 @@
+{
+  "id": "term:276",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 276,
+    "url": "https://astro4edu.org/resources/glossary/term/276/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=276",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:38.696234+00:00",
+    "sha256": "760a08b0dfe0ba74420ce83455c07d8684573de6001133373a8194c9407f15a0"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      186,
+      199,
+      238,
+      331,
+      440,
+      453,
+      455,
+      479
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Red Dwarf",
+      "body": "A red dwarf is a small, low-mass star with an effective temperature below 3900 kelvins (K) (~3600 degrees Celsius (°C)). These would appear redder than yellow Sun-like stars to the human eye, but there are no red dwarfs visible to the naked eye. Stars with masses between about 8% and 50% of the mass of the Sun spend the vast majority of their lives as red dwarfs. These stars fuse hydrogen at a much slower rate than stars like the Sun and are thus fainter, but can sustain hydrogen fusion for much longer. Many red dwarfs have very strong magnetic fields which result in more magnetic storms and a higher number of starspots than stars like the Sun. The majority of stars in the Milky Way are red dwarfs as are the majority of the stars within 10 parsecs of the Sun.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Main Sequence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/186/",
+          "text_ru": "Главная последовательность"
+        },
+        {
+          "text": "Milky Way",
+          "url": "https://www.astro4edu.org/resources/glossary/term/199/",
+          "text_ru": "Млечный Путь"
+        },
+        {
+          "text": "Parsec",
+          "url": "https://www.astro4edu.org/resources/glossary/term/238/",
+          "text_ru": "Парсек"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Effective Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/440/",
+          "text_ru": "Эффективная температура"
+        },
+        {
+          "text": "M-type Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/453/",
+          "text_ru": "Звезда M-типа"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "Stellar Activity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/479/",
+          "text_ru": "Звёздная активность"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Red Dwarf</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>M dwarf</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A red dwarf is a small, low-mass star with an effective temperature below 3900 kelvins (K) (~3600 degrees Celsius (°C)). These would appear redder than yellow Sun-like stars to the human eye, but there are no red dwarfs visible to the naked eye. Stars with masses between about 8% and 50% of the mass of the Sun spend the vast majority of their lives as red dwarfs. These stars fuse hydrogen at a much slower rate than stars like the Sun and are thus fainter, but can sustain hydrogen fusion for much longer. Many red dwarfs have very strong magnetic fields which result in more magnetic storms and a higher number of starspots than stars like the Sun. The majority of stars in the Milky Way are red dwarfs as are the majority of the stars within 10 parsecs of the Sun.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/186/\">Main Sequence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/199/\">Milky Way</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/238/\">Parsec</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/440/\">Effective Temperature</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/453/\">M-type Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/479/\">Stellar Activity</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Красный карлик",
+      "body_ru": "Красный карлик — это небольшая звезда малой массы с эффективной температурой ниже 3900 кельвинов (K) (~3600 градусов Цельсия (°C)). Для человеческого глаза они выглядели бы краснее, чем жёлтые звёзды, подобные Солнцу, но красных карликов, видимых невооружённым глазом, нет. Звёзды с массами примерно от 8% до 50% массы Солнца проводят подавляющую часть своей жизни в качестве красных карликов. Эти звёзды синтезируют водород гораздо медленнее, чем звёзды, подобные Солнцу, и поэтому они тусклее, но могут поддерживать синтез водорода гораздо дольше. У многих красных карликов очень сильные магнитные поля, что приводит к более частым магнитным бурям и большему числу звёздных пятен, чем у звёзд, подобных Солнцу. Большинство звёзд в Млечном Пути — красные карлики, как и большинство звёзд в пределах 10 парсеков от Солнца."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/276/\">القزم الأحمر </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/276/\">Roter Zwerg </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/276/\">Enana Roja </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/276/\">Naine rouge </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/276/\">Nana Rossa </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/276/\">적색왜성 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/276/\">Anã Vermelha </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/276/\">红矮星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/276/\">紅矮星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Red Dwarf",
+      "aliases": [
+        "M dwarf"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Red Dwarf",
+          "body": "A red dwarf is a small, low-mass star with an effective temperature below 3900 kelvins (K) (~3600 degrees Celsius (°C)). These would appear redder than yellow Sun-like stars to the human eye, but there are no red dwarfs visible to the naked eye. Stars with masses between about 8% and 50% of the mass of the Sun spend the vast majority of their lives as red dwarfs. These stars fuse hydrogen at a much slower rate than stars like the Sun and are thus fainter, but can sustain hydrogen fusion for much longer. Many red dwarfs have very strong magnetic fields which result in more magnetic storms and a higher number of starspots than stars like the Sun. The majority of stars in the Milky Way are red dwarfs as are the majority of the stars within 10 parsecs of the Sun."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Красный карлик",
+      "aliases": [
+        "Красный карлик"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Красный карлик",
+          "body": "Красный карлик — это небольшая звезда малой массы с эффективной температурой ниже 3900 кельвинов (K) (~3600 градусов Цельсия (°C)). Для человеческого глаза они выглядели бы краснее, чем жёлтые звёзды, подобные Солнцу, но красных карликов, видимых невооружённым глазом, нет. Звёзды с массами примерно от 8% до 50% массы Солнца проводят подавляющую часть своей жизни в качестве красных карликов. Эти звёзды синтезируют водород гораздо медленнее, чем звёзды, подобные Солнцу, и поэтому они тусклее, но могут поддерживать синтез водорода гораздо дольше. У многих красных карликов очень сильные магнитные поля, что приводит к более частым магнитным бурям и большему числу звёздных пятен, чем у звёзд, подобных Солнцу. Большинство звёзд в Млечном Пути — красные карлики, как и большинство звёзд в пределах 10 парсеков от Солнца."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

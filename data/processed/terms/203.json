@@ -1,0 +1,816 @@
+{
+  "id": "term:203",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 203,
+    "url": "https://astro4edu.org/resources/glossary/term/203/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=203",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:17.857961+00:00",
+    "sha256": "9fbd234dcabafa405fb04e2dc7c266a333474a6ceeffd159fa7551458248bd62"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      202,
+      204,
+      484
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Moon",
+      "body": "The Moon is a celestial body that is not luminous on its own, but reflects the sunlight falling on it. This produces the Moon's characteristic phases. The Moon is the only major natural satellite of Earth, and ranks fifth among the natural satellites of the Solar System in terms of size and mass. \"Moon\" is capitalized to distinguish it from other natural satellites, or moons, in the Solar System and beyond. Compared with other Solar System moons, the Moon has the largest size relative to the size of the planet it orbits. The Moon follows an elliptical orbit around Earth, at an average distance from Earth of 384,000 kilometers (km). It has no atmosphere and is composed of similar materials to the Earth with an iron-rich core and rocky outer layers. The similarity is no accident: To the best of our knowledge, the Moon formed from the debris of the collision between Earth and a Mars-sized planet around 4.5 billion years ago; most of its material stems from the original Earth's mantle. The surface of the Moon has dark areas known as mare, lighter highlands, and is pockmarked with craters. The surface area of the Moon is 3.79 x 10 7 square kilometers, its volume is 2.20 x 10 10 cubic kilometers, and its mass is 7.35 x 10 22 kilograms (kg). The exact value of the Moon's orbital period around Earth depends on the frame of reference: relative to the distant stars, it completes one orbit every 27.3 days (\"sidereal period\"). For an observer on Earth, the time between two new moons is 29.5 days (\"synodic period\").",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Month",
+          "url": "https://www.astro4edu.org/resources/glossary/term/202/",
+          "text_ru": "Месяц"
+        },
+        {
+          "text": "Moons",
+          "url": "https://www.astro4edu.org/resources/glossary/term/204/",
+          "text_ru": "Спутники"
+        },
+        {
+          "text": "Tidal Locking",
+          "url": "https://www.astro4edu.org/resources/glossary/term/484/",
+          "text_ru": "Приливный захват"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Moon</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The Moon is a celestial body that is not luminous on its own, but reflects the sunlight falling on it. This produces the Moon's characteristic phases. The Moon is the only major natural satellite of Earth, and ranks fifth among the natural satellites of the Solar System in terms of size and mass. \"Moon\" is capitalized to distinguish it from other natural satellites, or moons, in the Solar System and beyond. Compared with other Solar System moons, the Moon has the largest size relative to the size of the planet it orbits. The Moon follows an elliptical orbit around Earth, at an average distance from Earth of 384,000 kilometers (km). It has no atmosphere and is composed of similar materials to the Earth with an iron-rich core and rocky outer layers. The similarity is no accident: To the best of our knowledge, the Moon formed from the debris of the collision between Earth and a Mars-sized planet around 4.5 billion years ago; most of its material stems from the original Earth's mantle. The surface of the Moon has dark areas known as mare, lighter highlands, and is pockmarked with craters. The surface area of the Moon is 3.79 x 10<sup>7</sup> square kilometers, its volume is 2.20 x 10<sup>10</sup> cubic kilometers, and its mass is 7.35 x 10<sup>22</sup> kilograms (kg). The exact value of the Moon's orbital period around Earth depends on the frame of reference: relative to the distant stars, it completes one orbit every 27.3 days (\"sidereal period\"). For an observer on Earth, the time between two new moons is 29.5 days (\"synodic period\").</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/202/\">Month</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/204/\">Moons</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/484/\">Tidal Locking</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Луна",
+      "body_ru": "Луна — это небесное тело, которое не светится само по себе, а отражает падающий на него солнечный свет. Это создаёт характерные фазы Луны. Луна — единственный крупный естественный спутник Земли и занимает пятое место среди естественных спутников Солнечной системы по размеру и массе. Слово «Луна» пишется с заглавной буквы, чтобы отличать её от других естественных спутников, или лун, в Солнечной системе и за её пределами. По сравнению с другими спутниками Солнечной системы, Луна имеет наибольший размер относительно размера планеты, вокруг которой она обращается. Луна движется по эллиптической орбите вокруг Земли, среднее расстояние от Земли составляет 384,000 километров (км). У неё нет атмосферы, и она состоит из материалов, сходных с земными, с богатым железом ядром и каменистыми внешними слоями. Это сходство не случайно: насколько нам известно, Луна образовалась из обломков столкновения Земли с планетой размером с Марс около 4.5 миллиардов лет назад; большая часть её материала происходит из мантии первоначальной Земли. Поверхность Луны имеет тёмные области, известные как моря, более светлые возвышенности и покрыта кратерами. Площадь поверхности Луны составляет 3.79 x 10 7 квадратных километров, её объём — 2.20 x 10 10 кубических километров, а масса — 7.35 x 10 22 килограммов (кг). Точное значение орбитального периода Луны вокруг Земли зависит от системы отсчёта: относительно далёких звёзд она совершает один оборот каждые 27.3 дней («сидерический период»). Для наблюдателя на Земле время между двумя новолуниями составляет 29.5 дней («синодический период»)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "月 (external link)",
+          "url": "https://astro-dic.jp/moon/",
+          "text_ru": "Луна (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/203/\">القمر </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/203/\">Mond </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/203/\">Luna </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/203/\">Lune </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/203/\">Luna </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/moon/\">月 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/203/\">달 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/203/\">Lua </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/203/\">月球 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/203/\">月球 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/CM9lw93eU53/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.flickr.com/photos/projectapolloarchive/21039121693/in/album-72157658601662068/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/pm84Rm80aY87/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/qW99cA12IU33/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/F997BQ96x293/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/e078zz144Z45/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://lucnix.be/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-SA-3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "text_ru": "CC-BY-SA-3.0"
+        },
+        {
+          "text": "Creative Commons Attribution-ShareAlike 3.0 Unported icons",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-ShareAlike 3.0 Unported"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Moon&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:CM9lw93eU53",
+        "media:pm84Rm80aY87",
+        "media:qW99cA12IU33",
+        "media:F997BQ96x293",
+        "media:e078zz144Z45"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/CM9lw93eU53/\"><img alt=\"An astronaut in a white spacesuit stands on the grey lunar surface with a piece of equipment in-front of a lunar lander\" src=\"/media/multimedia/thumbnails/21039121693_eb037c2bd9_o_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Apollo 11 lunar activity</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> NASA astronaut Edwin 'Buzz' Aldrin installs a seismometer in front of the Apollo 11 Eagle lunar lander during an extravehicular activity (EVA) on the Moon. Neil Armstrong shot this photo during the first human mission to the surface of the Moon in 1969.<br/>\n<b>Credit:</b> NASA/Project Apollo Archive\n\t  <a href=\"https://www.flickr.com/photos/projectapolloarchive/21039121693/in/album-72157658601662068/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/pm84Rm80aY87/\"><img alt=\"A halo is an optical phenomenon where circles or arcs of light are visible in the sky. Halos are caused  a bright object such\" src=\"/media/multimedia/thumbnails/selene-meets-the-moon-by-sheila-wiwchar-canada_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Selene meets the Moon, by Sheila Wiwchar, Canada</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\n\nPhotographed at Kaleida, Manitoba in Canada, this fisheye image beautifully captures the rare optical phenomena encircling the moon known as the “22° halo” and the horizontal white circle passing through the moon called the “paraselenic circle”. The white band circling the whole sky at the same altitude as the moon is named after Selene, the ancient Greek Titan, famously called the goddess of the moon. The more commonly observed counterpart produced by the sun is known as the parhelic circle, named after the Greek god of the sun, Helios. Both the 22° halo and the paraselenic circle are produced due to reflection of the moonlight from near vertical surfaces of ice crystals. Parts closer to the moon are caused due to external reflections, whereas those further away are created due to internal reflections. The constellation of the big dipper at the center makes this image even more spectacular. Can you spot it?<br/>\n<b>Credit:</b> Sheila Wiwchar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/qW99cA12IU33/\"><img alt=\"A composite of images of the Moon. Along the sequence of images, the Moon's colour changes from grey to red and back to grey.\" src=\"/media/multimedia/thumbnails/red-moon-by-daniel-henrion-france_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Red Moon, by Daniel Henrion, France</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\n\nTime-lapse images of a total supermoon lunar eclipse that took place on 28 September 2015. The photos show the Moon during the time it moved through the Earth´s umbra: Earth´s umbra touched the Moon´s outer limb at 1.07 a.m. UTC (upper left corner) and left the Moon´s surface at 4.27 a.m. UTC (lower right corner).<br/>\n<b>Credit:</b> Daniel Henrion/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/F997BQ96x293/\"><img alt=\"The Moon behind jagged, snowy mountains. The lower two thirds of the Moon are darker and redder than the upper third\" src=\"/media/multimedia/thumbnails/the-eclipsed-moon-sets-near-the-rochetta-di-prendera-dolomiti-unes_smJvUP7.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The eclipsed Moon sets near the Rochetta di Prendera, Dolomiti Unesco, by Alessandra Masi, Italy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\n\nA lunar eclipse occurs when the full moon moves into the Earth`s shadow. This is the case when the Sun, Earth and Moon are exactly or very closely aligned. The reddish light reflected from the lunar surface is caused by sunlight that has been refracted on its way through Earth´s atmosphere in the direction of the Moon. It appears reddish because of the Rayleigh scattering of bluer light. The round shape of the Earth's shadow visible on the lunar surface was a proof for Aristotle that the Earth must be a sphere. This photo shows the eclipsed Moon that sets near the Rochetta di Prendera, Dolomiti Unesco, Italy, on 21 January 2019.<br/>\n<b>Credit:</b> Alessandra Masi/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/e078zz144Z45/\"><img alt=\"The nearly full Moon with craters, light highlands and dark plains\" src=\"/media/multimedia/thumbnails/Full_Moon_Luc_Viatour_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Full moon</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The image shows the nearly full Moon observed with a small telescope and a DSLR camera.<br/>\n<b>Credit:</b> Luc Viatour\n\t  <a href=\"https://lucnix.be/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" rel=\"license\">CC-BY-SA-3.0</a> <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-sa\"></i><span class=\"sr-only\">Creative Commons Attribution-ShareAlike 3.0 Unported icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Moon&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/6464Zx69Rv2/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:6464Zx69Rv2"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/6464Zx69Rv2/\"><img alt=\"The Moon lies between the Sun and Earth casts a small shadow and large partial shadow\" src=\"/media/diagrams/multimedia/thumbnails/Total_Solar_Eclipse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Total Solar Eclipse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This not to scale diagram shows what happens during a total solar eclipse. The Moon orbits the Earth, but its orbit is slightly tilted with respect to the Earth’s orbit around the Sun. During the new moon lunar phase, the Moon lies between the Earth and the Sun, but due to the Moon’s tilted orbit around the Earth, the Moon normally lies above or below the Sun at this point. However twice a year the Moon’s orbit lines up in such a way that the Moon can lie in a direct line between the Earth and Sun. During each of these periods (each of which last roughly a month) solar (and lunar) eclipses can occur. The Moon is about 400 times smaller than the Sun, but is 400 times closer to the Earth than the Sun. Hence the Sun and Moon have approximately the same angular size when viewed from the Earth. This means that it is possible for the Moon to completely cover the Sun when viewed from Earth. This is known as a total solar eclipse. \n\nHere we see a schematic of such and eclipse. The Moon casts a shadow on the Earth known as the umbra. This is a roughly circular shadow a few hundred kilometres across although its shape can be severely distorted when the eclipse is at the edge of the illuminated part of the Earth. Any region within the umbra will see the Moon completely cover the Sun and thus will experience a total solar eclipse. Outside of the umbra there are regions where the Moon will cover part of the Sun. This partial shadow is known as the penumbra. Regions in the penumbra will experience a partial solar eclipse.\n\nAn eclipse is a dynamic event with the Moon moving in its orbit and the Earth rotating. Hence the umbra and penumbra move across the Earth’s surface together. The path the umbra takes across the Earth is known as the path of totality. Let’s consider one particular region that lies in the path of totality: except in rare cases where an eclipse begins at sunrise, a region that experiences totality will first see the Moon cover part of the Sun and gradually move across Sun until it is totally covered. From outside the Earth this would appear as the penumbra moving over this particular region followed by the umbra moving over this region. Once the Moon moves so that it no longer completely covers the Sun, totality ends and the umbra moves away from this particular region. The Moon will continue to uncover the Sun until (unless the Sun sets before the end of the eclipse) the Sun is completely uncovered. From outside the Earth this would appear as the umbra moving away from our particular region and the edge of the penumbra approaching and eventually passing over the region. \n\nOutside of the path or totality there is a much broader region that will lie in the penumbra but will be missed by the umbra. Such regions will not experience a total solar eclipse during this event, only a partial solar eclipse.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Lunar Landscape astroEDU educational activity (links to astroEDU website) Description: Create craters and explore the lunar landscape with this hands-on activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Lunar landscape \n  \n  , Craters Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling Costs: Medium Cost Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models Meet Our Neighbours: Moon astroEDU educational activity (links to astroEDU website) Description: Explore the tactile version of our moon with household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Visually Impaired \n  \n  , Tactile Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models Lunar Day astroEDU educational activity (links to astroEDU website) Description: Through a fun-learning activity, understand why moon always keeps the same face towards Earth. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Lunar day Age Ranges: 4-6 \n  \n, 6-8 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Simulation focussed Costs: Free Duration: 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models Sun, Earth and Moon Model astroEDU educational activity (links to astroEDU website) Description: Build an Earth-Moon-Sun mobile to learn about how they orbit. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 8-10 Education Level: Primary Areas of Learning: Game-mediated learning \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models Children's Planetary Maps: The Moon astroEDU educational activity (links to astroEDU website) Description: An up close look at our own satellite License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Moon&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/lunar-landscape/\"><img alt=\"Lunar Landscape\" src=\"/media/astroedu/images/lunar-landscape_en_thumbnail_Z2LXIKU.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/lunar-landscape/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lunar Landscape</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Create craters and explore the lunar landscape with this hands-on activity.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n  , Lunar landscape \n  \n  , Craters \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-moon/\"><img alt=\"Meet Our Neighbours: Moon\" src=\"/media/astroedu/images/meet-our-neighbours-moon_en_thumbnail_R1M0nPn.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-moon/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Meet Our Neighbours: Moon</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore the tactile version of our moon with household materials.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n  , Visually Impaired \n  \n  , Tactile \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/lunar-day/\"><img alt=\"Lunar Day\" src=\"/media/astroedu/images/lunar-day_en_thumbnail_sz6V70r.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/lunar-day/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lunar Day</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Through a fun-learning activity, understand why moon always keeps the same face towards Earth.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Lunar day \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Simulation focussed \n  \n<b>Costs:</b>\nFree \n\n<b>Duration:</b>\n30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/sun-earth-and-moon-model/\"><img alt=\"Sun, Earth and Moon Model\" src=\"/media/astroedu/images/sun-earth-and-moon-model_en_thumbnail_DtZ7FZc.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/sun-earth-and-moon-model/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sun, Earth and Moon Model</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build an Earth-Moon-Sun mobile to learn about how they orbit.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nGame-mediated learning \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-the-moon/\"><img alt=\"Children's Planetary Maps: The Moon\" src=\"/media/astroedu/images/childrens-planetary-maps-the-moon_en_thumbnail_AYYDNsl.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-the-moon/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Children's Planetary Maps: The Moon</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>An up close look at our own satellite\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Moon&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Лунный ландшафт образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создавайте кратеры и исследуйте лунный ландшафт с помощью этого практического занятия. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель \n  \n  , Лунный ландшафт \n  \n  , Кратеры Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Начальный Области обучения: Моделирование Затраты: Средняя стоимость Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Познакомьтесь с нашими соседями: Луна образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте тактильную версию нашей Луны с помощью подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель \n  \n  , Слабовидящие \n  \n  , Тактильный Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкая стоимость Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Лунный день образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: С помощью увлекательного занятия поймите, почему Луна всегда обращена к Земле одной и той же стороной. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Лунный день Возрастные диапазоны: 4-6 \n  \n, 6-8 Уровень образования: Начальный \n  \n, Средний Области обучения: Моделирование \n  \n, С акцентом на симуляцию Затраты: Бесплатно Продолжительность: 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей Модель Солнца, Земли и Луны образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте мобиль Земля-Луна-Солнце, чтобы узнать, как они обращаются. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель Возрастные диапазоны: 8-10 Уровень образования: Начальный Области обучения: Игровое обучение \n  \n, Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Детские планетарные карты: Луна образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Пристальный взгляд на наш собственный спутник Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальный \n  \n, Средний Области обучения: Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 2 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все мероприятия по этой теме"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Moon",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Moon",
+          "body": "The Moon is a celestial body that is not luminous on its own, but reflects the sunlight falling on it. This produces the Moon's characteristic phases. The Moon is the only major natural satellite of Earth, and ranks fifth among the natural satellites of the Solar System in terms of size and mass. \"Moon\" is capitalized to distinguish it from other natural satellites, or moons, in the Solar System and beyond. Compared with other Solar System moons, the Moon has the largest size relative to the size of the planet it orbits. The Moon follows an elliptical orbit around Earth, at an average distance from Earth of 384,000 kilometers (km). It has no atmosphere and is composed of similar materials to the Earth with an iron-rich core and rocky outer layers. The similarity is no accident: To the best of our knowledge, the Moon formed from the debris of the collision between Earth and a Mars-sized planet around 4.5 billion years ago; most of its material stems from the original Earth's mantle. The surface of the Moon has dark areas known as mare, lighter highlands, and is pockmarked with craters. The surface area of the Moon is 3.79 x 10 7 square kilometers, its volume is 2.20 x 10 10 cubic kilometers, and its mass is 7.35 x 10 22 kilograms (kg). The exact value of the Moon's orbital period around Earth depends on the frame of reference: relative to the distant stars, it completes one orbit every 27.3 days (\"sidereal period\"). For an observer on Earth, the time between two new moons is 29.5 days (\"synodic period\")."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Lunar Landscape astroEDU educational activity (links to astroEDU website) Description: Create craters and explore the lunar landscape with this hands-on activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Lunar landscape \n  \n  , Craters Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling Costs: Medium Cost Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models Meet Our Neighbours: Moon astroEDU educational activity (links to astroEDU website) Description: Explore the tactile version of our moon with household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Visually Impaired \n  \n  , Tactile Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models Lunar Day astroEDU educational activity (links to astroEDU website) Description: Through a fun-learning activity, understand why moon always keeps the same face towards Earth. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Lunar day Age Ranges: 4-6 \n  \n, 6-8 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Simulation focussed Costs: Free Duration: 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models Sun, Earth and Moon Model astroEDU educational activity (links to astroEDU website) Description: Build an Earth-Moon-Sun mobile to learn about how they orbit. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 8-10 Education Level: Primary Areas of Learning: Game-mediated learning \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models Children's Planetary Maps: The Moon astroEDU educational activity (links to astroEDU website) Description: An up close look at our own satellite License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Луна",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Луна",
+          "body": "Луна — это небесное тело, которое не светится само по себе, а отражает падающий на него солнечный свет. Это создаёт характерные фазы Луны. Луна — единственный крупный естественный спутник Земли и занимает пятое место среди естественных спутников Солнечной системы по размеру и массе. Слово «Луна» пишется с заглавной буквы, чтобы отличать её от других естественных спутников, или лун, в Солнечной системе и за её пределами. По сравнению с другими спутниками Солнечной системы, Луна имеет наибольший размер относительно размера планеты, вокруг которой она обращается. Луна движется по эллиптической орбите вокруг Земли, среднее расстояние от Земли составляет 384,000 километров (км). У неё нет атмосферы, и она состоит из материалов, сходных с земными, с богатым железом ядром и каменистыми внешними слоями. Это сходство не случайно: насколько нам известно, Луна образовалась из обломков столкновения Земли с планетой размером с Марс около 4.5 миллиардов лет назад; большая часть её материала происходит из мантии первоначальной Земли. Поверхность Луны имеет тёмные области, известные как моря, более светлые возвышенности и покрыта кратерами. Площадь поверхности Луны составляет 3.79 x 10 7 квадратных километров, её объём — 2.20 x 10 10 кубических километров, а масса — 7.35 x 10 22 килограммов (кг). Точное значение орбитального периода Луны вокруг Земли зависит от системы отсчёта: относительно далёких звёзд она совершает один оборот каждые 27.3 дней («сидерический период»). Для наблюдателя на Земле время между двумя новолуниями составляет 29.5 дней («синодический период»)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Лунный ландшафт образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создавайте кратеры и исследуйте лунный ландшафт с помощью этого практического занятия. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель \n  \n  , Лунный ландшафт \n  \n  , Кратеры Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Начальный Области обучения: Моделирование Затраты: Средняя стоимость Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Познакомьтесь с нашими соседями: Луна образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте тактильную версию нашей Луны с помощью подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель \n  \n  , Слабовидящие \n  \n  , Тактильный Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкая стоимость Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Лунный день образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: С помощью увлекательного занятия поймите, почему Луна всегда обращена к Земле одной и той же стороной. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Лунный день Возрастные диапазоны: 4-6 \n  \n, 6-8 Уровень образования: Начальный \n  \n, Средний Области обучения: Моделирование \n  \n, С акцентом на симуляцию Затраты: Бесплатно Продолжительность: 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей Модель Солнца, Земли и Луны образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте мобиль Земля-Луна-Солнце, чтобы узнать, как они обращаются. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель Возрастные диапазоны: 8-10 Уровень образования: Начальный Области обучения: Игровое обучение \n  \n, Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Детские планетарные карты: Луна образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Пристальный взгляд на наш собственный спутник Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальный \n  \n, Средний Области обучения: Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 2 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все мероприятия по этой теме"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:CM9lw93eU53",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/21039121693_eb037c2bd9_o.jpg",
+      "record_url": "https://astro4edu.org/resources/media/CM9lw93eU53/",
+      "original_path": "data/media/original/media_CM9lw93eU53.jpg",
+      "ru_path": null,
+      "sha256": "cc1d7e01e9f476ef447256ea7d59a1cacbfc15cf46c89ff7639cfce17f9c87a6",
+      "size": 8408039,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "NASA astronauts Edwin 'Buzz' Aldrin and Neil Armstrong on the Moon during the Apollo 11 mission",
+      "short_caption_ru": "Астронавты NASA Эдвин «Базз» Олдрин и Нил Армстронг на Луне во время миссии «Аполлон» 11",
+      "caption_en": "NASA astronaut Edwin 'Buzz' Aldrin installs a seismometer in front of the Apollo 11 Eagle lunar lander during an extravehicular activity (EVA) on the Moon. Neil Armstrong shot this photo during the first human mission to the surface of the Moon in 1969.",
+      "caption_ru": "Астронавт NASA Эдвин «Базз» Олдрин устанавливает сейсмометр перед лунным модулем «Орёл» миссии «Аполлон» 11 во время внекорабельной деятельности (ВКД) на Луне. Нил Армстронг сделал этот снимок во время первой пилотируемой миссии на поверхность Луны в 1969.",
+      "alt_en": "An astronaut in a white spacesuit stands on the grey lunar surface with a piece of equipment in-front of a lunar lander",
+      "alt_ru": "Астронавт в белом скафандре стоит на серой лунной поверхности с частью оборудования перед лунным модулем",
+      "credit": "NASA/Project Apollo Archive",
+      "credit_url": "https://www.flickr.com/photos/projectapolloarchive/21039121693/in/album-72157658601662068/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        14,
+        203
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:pm84Rm80aY87",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5418731/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Sun%20and%20Moon%20haloes%3A%20Selene%20meets%20the%20Moon%2C%20by%20Sheila%20Wiwchar%2C%20Canada.jpg",
+      "record_url": "https://astro4edu.org/resources/media/pm84Rm80aY87/",
+      "original_path": "data/media/original/media_pm84Rm80aY87.jpg",
+      "ru_path": null,
+      "sha256": "47dcf634251e5213101029e122185ddf31c3cdfbf7152fffbf56387716667aac",
+      "size": 1825227,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "this fisheye image beautifully captures the rare optical phenomena encircling the moon known as the “22° halo” and the horizontal white circle passing through the moon called the “paraselenic circle”.",
+      "short_caption_ru": "это изображение, снятое объективом «рыбий глаз», прекрасно запечатлевает редкие оптические явления, окружающие Луну, известные как «гало 22°» и горизонтальный белый круг, проходящий через Луну, называемый «параселеническим кругом».",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\r\n\r\nPhotographed at Kaleida, Manitoba in Canada, this fisheye image beautifully captures the rare optical phenomena encircling the moon known as the “22° halo” and the horizontal white circle passing through the moon called the “paraselenic circle”. The white band circling the whole sky at the same altitude as the moon is named after Selene, the ancient Greek Titan, famously called the goddess of the moon. The more commonly observed counterpart produced by the sun is known as the parhelic circle, named after the Greek god of the sun, Helios. Both the 22° halo and the paraselenic circle are produced due to reflection of the moonlight from near vertical surfaces of ice crystals. Parts closer to the moon are caused due to external reflections, whereas those further away are created due to internal reflections. The constellation of the big dipper at the center makes this image even more spectacular. Can you spot it?",
+      "caption_ru": "Первое место в конкурсе астрофотографии 2021 IAU OAE, категория гало Солнца/Луны.\r\n\r\nСнятое в Калейде, Манитоба, Канада, это изображение, полученное с помощью объектива «рыбий глаз», прекрасно запечатлевает редкие оптические явления, окружающие Луну, известные как «гало 22°» и горизонтальный белый круг, проходящий через Луну, называемый «парасeленическим кругом». Белая полоса, опоясывающая всё небо на той же высоте, что и Луна, названа в честь Селены, древнегреческой титаниды, которую часто называют богиней Луны. Более часто наблюдаемый аналог, создаваемый Солнцем, известен как паргелический круг, названный в честь греческого бога Солнца Гелиоса. И гало 22°, и параселенический круг возникают из-за отражения лунного света от почти вертикальных поверхностей кристаллов льда. Части, расположенные ближе к Луне, вызваны внешними отражениями, тогда как более удалённые создаются внутренними отражениями. Созвездие Большой Медведицы в центре делает это изображение ещё более впечатляющим. Можете ли вы его найти?",
+      "alt_en": "A halo is an optical phenomenon where circles or arcs of light are visible in the sky. Halos are caused  a bright object such",
+      "alt_ru": "Гало — это оптическое явление, при котором в небе видны круги или дуги света. Гало вызываются ярким объектом, таким как",
+      "credit": "Sheila Wiwchar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        203,
+        448
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:qW99cA12IU33",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5419369/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Total%20lunar%20eclipse%3A%20Red%20Moon%2C%20by%20Daniel%20Henrion%2C%20France.jpg",
+      "record_url": "https://astro4edu.org/resources/media/qW99cA12IU33/",
+      "original_path": "data/media/original/media_qW99cA12IU33.jpg",
+      "ru_path": null,
+      "sha256": "07394404c28a056bb2301bdf7ccd559562c9d6c7b636fa2e3f5fecd50b7ba440",
+      "size": 980507,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Time-lapse images of a total lunar eclipse that took place on 28 September 2015.",
+      "short_caption_ru": "Снимки полного лунного затмения, произошедшего 28 сентября 2015, снятые с интервалами.",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\r\n\r\nTime-lapse images of a total supermoon lunar eclipse that took place on 28 September 2015. The photos show the Moon during the time it moved through the Earth´s umbra: Earth´s umbra touched the Moon´s outer limb at 1.07 a.m. UTC (upper left corner) and left the Moon´s surface at 4.27 a.m. UTC (lower right corner).",
+      "caption_ru": "Третье место в конкурсе астрофотографии IAU OAE 2021, категория «Полное лунное затмение».\r\n\r\nСнимки полного лунного затмения суперлуны, произошедшего 28 сентября 2015, снятые с интервалами. На фотографиях показана Луна в течение времени, когда она проходила через земную тень: земная тень коснулась внешнего края Луны в 1.07 утра UTC (верхний левый угол) и покинула поверхность Луны в 4.27 утра UTC (нижний правый угол).",
+      "alt_en": "A composite of images of the Moon. Along the sequence of images, the Moon's colour changes from grey to red and back to grey.",
+      "alt_ru": "Композитное изображение Луны. Вдоль последовательности изображений цвет Луны меняется с серого на красный и обратно на серый.",
+      "credit": "Daniel Henrion/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        91,
+        203,
+        364
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:F997BQ96x293",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5419146/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Total%20lunar%20eclipse%3A%20The%20eclipsed%20Moon%20sets%20near%20the%20Rochetta%20di%20Prendera%2C%20Dolomiti%20Unesco%2C%20by%20Alessandra%20Masi%2C%20Italy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/F997BQ96x293/",
+      "original_path": "data/media/original/media_F997BQ96x293.jpg",
+      "ru_path": null,
+      "sha256": "5c93c9fa51a7ddb201a4f6882dae6571e75356c38728d45879cf501cf5e2a03d",
+      "size": 4191076,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A lunar eclipse occurs when the full moon moves into the Earth`s shadow.",
+      "short_caption_ru": "Лунное затмение происходит, когда полная Луна входит в тень Земли.",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\r\n\r\nA lunar eclipse occurs when the full moon moves into the Earth`s shadow. This is the case when the Sun, Earth and Moon are exactly or very closely aligned. The reddish light reflected from the lunar surface is caused by sunlight that has been refracted on its way through Earth´s atmosphere in the direction of the Moon. It appears reddish because of the Rayleigh scattering of bluer light. The round shape of the Earth's shadow visible on the lunar surface was a proof for Aristotle that the Earth must be a sphere. This photo shows the eclipsed Moon that sets near the Rochetta di Prendera, Dolomiti Unesco, Italy, on 21 January 2019.",
+      "caption_ru": "Первое место в конкурсе астрофотографии IAU OAE 2021, категория «Полное лунное затмение».\r\n\r\nЛунное затмение происходит, когда полная Луна входит в тень Земли. Это происходит, когда Солнце, Земля и Луна точно или очень тесно выровнены. Красноватый свет, отражённый от лунной поверхности, вызван солнечным светом, который преломляется на пути через атмосферу Земли в направлении Луны. Он кажется красноватым из-за рэлеевского рассеяния более синего света. Круглая форма тени Земли, видимая на лунной поверхности, была доказательством для Аристотеля того, что Земля должна быть сферой. На этом фото показана затмившаяся Луна, заходящая около Роккетта-ди-Прендера, Доломиты, ЮНЕСКО, Италия, 21 января 2019.",
+      "alt_en": "The Moon behind jagged, snowy mountains. The lower two thirds of the Moon are darker and redder than the upper third",
+      "alt_ru": "Луна за зубчатыми, заснеженными горами. Нижние две трети Луны темнее и краснее, чем верхняя треть",
+      "credit": "Alessandra Masi/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        181,
+        203,
+        364
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:e078zz144Z45",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Full_Moon_Luc_Viatour.jpg",
+      "record_url": "https://astro4edu.org/resources/media/e078zz144Z45/",
+      "original_path": "data/media/original/media_e078zz144Z45.jpg",
+      "ru_path": null,
+      "sha256": "c3f0885afd4d7a1f001e11eb7a21d96a26ba2e20e27d105f80be51a3f7ff45df",
+      "size": 924214,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The nearly full Moon",
+      "short_caption_ru": "Почти полная Луна",
+      "caption_en": "The image shows the nearly full Moon observed with a small telescope and a DSLR camera.",
+      "caption_ru": "На изображении показана почти полная Луна, наблюдаемая с помощью небольшого телескопа и зеркальной камеры.",
+      "alt_en": "The nearly full Moon with craters, light highlands and dark plains",
+      "alt_ru": "Почти полная Луна с кратерами, светлыми возвышенностями и тёмными равнинами",
+      "credit": "Luc Viatour",
+      "credit_url": "https://lucnix.be/",
+      "license": "CC-BY-SA-3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "term_numbers": [
+        113,
+        182,
+        203,
+        204
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:HV96bL4x836",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425575/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Moon-Mercury-Pleiades%20Conjunction%2C%20by%20Giulio%20Colombo.jpg",
+      "record_url": "https://astro4edu.org/resources/media/HV96bL4x836/",
+      "original_path": "data/media/original/media_HV96bL4x836.jpg",
+      "ru_path": null,
+      "sha256": "6de016849f2a8aef11dafaae3abd31e5c43db56189556b4f29adc56c7ad3434d",
+      "size": 420899,
+      "title_en": "Moon-Mercury-Pleiades Conjunction",
+      "title_ru": "Соединение Луны, Меркурия и Плеяд",
+      "short_caption_en": "Moon-Mercury-Pleiades Conjunction",
+      "short_caption_ru": "Соединение Луны, Меркурия и Плеяд",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis photograph shows the young lunar crescent, some of the nine brightest stars of the Pleiades (with one behind a cloud) on the right, and the planet Mercury, looking slightly red, in the middle of the image.\r\n\r\nThis picture is rather suggestive of the idea that the Pleiades might possibly consist of seven stars. However, the viewer is misled by the clouds; five of the stars form a tiny chariot, one is next to the handle, and three are at the other end of the quadrilateral. Eight stars would be clearly visible if there were no clouds.\r\n\r\nThis configuration of the young Moon next to the Pleiades is visible only in the northern hemisphere spring. Thus it was used by the ancient Babylonians to determine the second month of their year and to judge whether or not an intercalary month was necessary. At least as early as the second millennium before the common era, the Babylonians used several asterisms for each month, with another one of them reappearing every five days after invisibility during daylight. To determine the necessity of intercalation in order to synchronise the solar and the lunar year, the Babylonians used several asterisms, not only the Pleiades. For instance, they also made use of the bright stars Arcturus and Sirius, and they observed a configuration with the Moon as well as heliacal phenomena. The modern Jewish and modern Islamic traditions still make use of some of the Babylonian astronomical rules. However, given that the constellations have shifted as a result of precession, and the fact that nowadays we also have computational means to calculate our calendars, this configuration of the small crescent Moon and the Pleiades is less useful, though it remains exceptionally beautiful. Thus the ancient Babylonian and middle Babylonian tradition survives only rudimentarily. Furthermore, it is unlikely that it is depicted in the Nebra Disc from Bronze Age Europe, as has long been claimed.\r\n\r\nThis image was taken on Elba Island, Italy, in May 2022.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nНа этой фотографии показан молодой серп Луны, некоторые из девяти ярчайших звёзд Плеяд (одна за облаком) справа и планета Меркурий, выглядящая слегка красноватой, в середине изображения.\r\n\r\nЭтот снимок скорее наводит на мысль, что Плеяды, возможно, состоят из семи звёзд. Однако зритель введён в заблуждение облаками; пять звёзд образуют крошечную колесницу, одна находится рядом с ручкой, а три — на другом конце четырёхугольника. Восемь звёзд были бы ясно видны, если бы не было облаков.\r\n\r\nЭта конфигурация молодой Луны рядом с Плеядами видна только весной в Северном полушарии. Таким образом, она использовалась древними вавилонянами для определения второго месяца их года и для суждения о необходимости вставного месяца. По крайней мере, уже во втором тысячелетии до нашей эры вавилоняне использовали несколько астеризмов для каждого месяца, причём один из них снова появлялся каждые пять дней после невидимости в течение дневного света. Чтобы определить необходимость интеркаляции для синхронизации солнечного и лунного года, вавилоняне использовали несколько астеризмов, не только Плеяды. Например, они также использовали яркие звёзды Арктур и Сириус и наблюдали конфигурацию с Луной, а также гелиакические явления. Современные еврейские и современные исламские традиции всё ещё используют некоторые из вавилонских астрономических правил. Однако, учитывая, что созвездия сместились в результате прецессии, и тот факт, что в настоящее время у нас также есть вычислительные средства для расчёта наших календарей, эта конфигурация маленького серпа Луны и Плеяд менее полезна, хотя она остаётся исключительно красивой. Таким образом, древневавилонская и средневавилонская традиция сохраняется лишь рудиментарно. Более того, маловероятно, что она изображена на Небрском диске из Европы бронзового века, как давно утверждалось.\r\n\r\nЭто изображение было сделано на острове Эльба, Италия, в мае 2022.",
+      "alt_en": "The crescent Moon sits to the left of two bright planets. On the right side the Pleiades star cluster can be seen.",
+      "alt_ru": "Серп Луны находится слева от двух ярких планет. Справа видно звёздное скопление Плеяды.",
+      "credit": "Giulio Colombo/ IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        65,
+        192,
+        203,
+        383,
+        397,
+        469
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:ox1N255GM86",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425266/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20To%20guard%20the%20Stars%20and%20the%20Sea%20Together%2C%20by%20Likai%20Lin.jpg",
+      "record_url": "https://astro4edu.org/resources/media/ox1N255GM86/",
+      "original_path": "data/media/original/media_ox1N255GM86.jpg",
+      "ru_path": null,
+      "sha256": "e44bda4f781252ce3cfc5e6856b0d99011abdbb87d445e6b32cd9c45b9c8db3f",
+      "size": 3772392,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "To guard the Stars and the Sea Together",
+      "short_caption_ru": "Вместе охранять звёзды и море",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\nThis image composition is amazing. In the far background of the landscape we see a chain of mountains that seems to mirror the structure of the Milky Way in the sky above. The strong daylight-like colours of the landscape are caused by the Moon, the bright light at the top of the image.\r\n\r\nTaken in Kinabalu, Malaysia, in February 2019, this image shows the alignment of planets and the Moon, conveying the idea of the ecliptic as the central line of the Zodiac, the plane within which all planets orbit the Sun. The ecliptic is the central line of the Zodiac, so the region of about five to 10 degrees either side of the ecliptic is where the constellations of the Zodiac are located. Starting from the horizon towards the bottom left of the image we can see the planets Venus, Saturn and Jupiter. The planets have different cultural significance for people around the world, and are deeply embedded in social, religious and practical aspects of life. For example, Wardaman traditions of Indigenous Australians associate the planets with ancestor spirits who traverse the Celestial Road (ecliptic). The appearance and disappearance of planets in the sky are associated with various ceremonies. For example, when Venus starts being the “Morning star” after having been the “Evening star”, this marks the Banumbirr ceremony for the Yolnu people of Arnhem Land, in Australia.\r\n\r\nThe image also shows the constellations Scorpius, Aquila, Lupus and Triangulum Australe, the asterism of the Teapot, and the two pointer stars Alpha and Beta Centauri. The constellations, asterisms and individual stars within them have significance in many different cultures.\r\n\r\nMalaysia, being close to the equator, has had connections to the north as well as to the south and almost the whole sky is visible over the course of the year. The star Antares is seen by the Kokatha people of the Western Desert as Kogolongo, the red tailed black cockatoo, while the Boorong refer to it as Djuit, the red-rumped parrot. The two stars which form the stinger of Scorpius (Shaula and Lesath), are called Karik Karik, the Australian Kestrel.",
+      "caption_ru": "Победитель конкурса астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\nЭта композиция изображения потрясающая. На дальнем фоне ландшафта мы видим цепь гор, которая, кажется, отражает структуру Млечного Пути на небе над ней. Сильные цвета ландшафта, похожие на дневной свет, вызваны Луной, ярким светом в верхней части изображения.\r\n\r\nСнято в Кинабалу, Малайзия, в феврале 2019 года. Это изображение показывает выравнивание планет и Луны, передавая идею эклиптики как центральной линии Зодиака, плоскости, в которой все планеты вращаются вокруг Солнца. Эклиптика — это центральная линия Зодиака, поэтому область примерно от пяти до 10 градусов по обе стороны от эклиптики — это место, где расположены созвездия Зодиака. Начиная от горизонта к нижнему левому углу изображения, мы можем видеть планеты Венеру, Сатурн и Юпитер. Планеты имеют различное культурное значение для людей по всему миру и глубоко укоренены в социальных, религиозных и практических аспектах жизни. Например, традиции вардаман коренных австралийцев связывают планеты с духами предков, которые пересекают Небесную Дорогу (эклиптику). Появление и исчезновение планет на небе связаны с различными церемониями. Например, когда Венера начинает быть «Утренней звездой» после того, как была «Вечерней звездой», это знаменует церемонию Банумбирр для народа йолнгу из Арнемленда, Австралия.\r\n\r\nИзображение также показывает созвездия Скорпиона, Орла, Волка и Южного Треугольника, астеризм Чайник и две указательные звезды Альфа и Бета Центавра. Созвездия, астеризмы и отдельные звёзды в них имеют значение во многих различных культурах.\r\n\r\nМалайзия, находясь близко к экватору, имела связи как с севером, так и с югом, и почти всё небо видно в течение года. Звезду Антарес народ коката из Западной пустыни видит как Коголонго, краснохвостого чёрного какаду, а бурронг называют её Джуит, красноспинным попугаем. Две звезды, образующие жало Скорпиона (Шаула и Лесат), называются Карик Карик, австралийской пустельгой.",
+      "alt_en": "The bright Moon illuminates a beach. Three bright planets form a line below and to the right of the Moon.",
+      "alt_ru": "Яркая Луна освещает пляж. Три яркие планеты образуют линию ниже и правее Луны.",
+      "credit": "Likai Lin/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        66,
+        167,
+        203,
+        294,
+        299,
+        377,
+        391,
+        429,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Xt27xR35UJ97",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359555/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Jupiter,%20Venus,%20Moon%20Conjunction,%20by%20Joslynn%20Appel.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/Xt27xR35UJ97/",
+      "original_path": "data/media/original/media_Xt27xR35UJ97.jpg",
+      "ru_path": null,
+      "sha256": "3df56119e7286a1c663e0988f121e4c206fa2b536b2f95733a3fdd0ce48f1ca5",
+      "size": 132001,
+      "title_en": "Jupiter, Venus, Moon Conjunction",
+      "title_ru": "Соединение Юпитера, Венеры и Луны",
+      "short_caption_en": "Jupiter, Venus, Moon Conjunction",
+      "short_caption_ru": "Соединение Юпитера, Венеры и Луны",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nCaptured with a smartphone in February 2023, over the skies of Luzerne County, Pennsylvania, USA, this photograph offers a glimpse into a conjunction, an enthralling astronomical phenomenon that occurs when two or more celestial objects are seen in close proximity in the sky from our perspective, despite the objects not being physically near to each other. In this image, the brilliance of Jupiter (top), the allure of Venus (middle), and the familiar glow of our Moon (bottom) dance together against a backdrop of delicate clouds and a treeline silhouette, making it a moment worth treasuring.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2023 в категории «Неподвижные изображения, сделанные исключительно на смартфоны/мобильные устройства».\r\n\r\nСнятый на смартфон в феврале 2023 над небом округа Лузерн, Пенсильвания, США, этот снимок даёт представление о соединении — захватывающем астрономическом явлении, которое происходит, когда два или более небесных объекта видны с нашей точки зрения близко друг к другу на небе, хотя физически они не находятся рядом. На этом изображении блеск Юпитера (вверху), очарование Венеры (в середине) и знакомое свечение нашей Луны (внизу) танцуют вместе на фоне нежных облаков и силуэта лесополосы, что делает этот момент достойным восхищения.",
+      "alt_en": "Three bright objects in the sky with one top left, one in the middle and one lower centre.",
+      "alt_ru": "Три ярких объекта в небе: один вверху слева, один в середине и один ниже по центру.",
+      "credit": "Joslynn Appel/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        65,
+        167,
+        203,
+        377
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Me91Qr86Pc67",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359549/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Full%20Flower%20Moon%202023,%20by%20Joslynn%20Appel.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/Me91Qr86Pc67/",
+      "original_path": "data/media/original/media_Me91Qr86Pc67.jpg",
+      "ru_path": null,
+      "sha256": "3b434fd06f6e552232c13d8406944da91b72eac26d5625ceb55636b23118df38",
+      "size": 57798,
+      "title_en": "Full Flower Moon 2023",
+      "title_ru": "Полная Цветочная Луна 2023",
+      "short_caption_en": "Full Flower Moon 2023",
+      "short_caption_ru": "Полная Цветочная Луна 2023",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nThe Flower Moon, named for the bloom of flowers in North America, casts a radiant glow over the night sky in Luzerne County, Pennsylvania, USA, in May 2023. Despite initial cloud cover, the moon's luminosity broke through around 23:00, creating an enchanting spectacle. This captivating smartphone-captured image not only commemorates the celestial event but also emphasises the significance of safeguarding our dark skies. The moon’s brilliance illuminates the intricacies of Earth’s atmosphere, creating an atmospheric drama heightened by the presence of scattered clouds. Preserving these pristine, unblemished skies is vital in retaining our connection to celestial wonders.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии МАС OAE 2023 в категории неподвижных изображений, сделанных исключительно на смартфоны/мобильные устройства.\r\n\r\nЦветочная Луна, названная в честь цветения цветов в Северной Америке, излучает сияющее свечение на ночном небе в округе Лузерн, Пенсильвания, США, в мае 2023. Несмотря на начальную облачность, яркость Луны прорвалась около 23:00, создав чарующее зрелище. Это захватывающее изображение, снятое на смартфон, не только увековечивает небесное событие, но и подчёркивает важность защиты нашего тёмного неба. Сияние Луны освещает тонкости земной атмосферы, создавая атмосферную драму, усиленную присутствием разрозненных облаков. Сохранение этих чистых, незапятнанных небес жизненно важно для поддержания нашей связи с небесными чудесами.",
+      "alt_en": "The face of the full moon with its dark mare and lighter highlands",
+      "alt_ru": "Лик полной Луны с её тёмными морями и более светлыми возвышенностями",
+      "credit": "Joslynn Appel/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        113,
+        203
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:fl18Jg68qV87",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5418915/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Sun%20and%20Moon%20haloes%3A%20Lunar%20rainbow%20and%20lunar%20Brocken%20spectre%2C%20by%20Kouji%20Ohnishi%2C%20Japan.jpg",
+      "record_url": "https://astro4edu.org/resources/media/fl18Jg68qV87/",
+      "original_path": "data/media/original/media_fl18Jg68qV87.jpg",
+      "ru_path": null,
+      "sha256": "c067a81354ec5f5e6ae16bde5d22ede100538192543d0cb1668978de963ab284",
+      "size": 30912672,
+      "title_en": "Lunar rainbow and lunar Brocken spectre, by Kouji Ohnishi, Japan",
+      "title_ru": "Лунная радуга и лунный броккенский призрак, автор Кодзи Охниси, Япония",
+      "short_caption_en": "Lunar rainbow and lunar Brocken spectre, by Kouji Ohnishi, Japan",
+      "short_caption_ru": "Лунная радуга и лунный броккенский призрак, автор Кодзи Охниси, Япония",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\r\n\r\nThis stunning photograph of the lunar rainbow and the lunar Brocken Spectre amidst the night sky was captured from Mount Tsubakuro located in Japan’s Hida Mountains in Nagano. Both these atmospheric occurrences are due to the moon’s light being reflected and refracted from water droplets. A lunar rainbow or a moonbow is a rare phenomenon that occurs with the right settings of a bright full moon which is less than 42° high, rain on the opposite side of the moon and a dark night sky. The Brocken Spectre is named after the highest peak of the Harz mountain range in Germany, where it was first recorded. Here it is seen from the summit as a magnified shadow of the observer cast onto the cloud surrounded by a glory consisting of concentric circles centered at the point directly opposite the bright moon in the background.",
+      "caption_ru": "Третье место в конкурсе астрофотографии 2021 IAU OAE, категория гало Солнца/Луны.\r\n\r\nЭтот потрясающий снимок лунной радуги и лунного броккенского призрака на фоне ночного неба был сделан с горы Цубакуро, расположенной в японских горах Хида в префектуре Нагано. Оба эти атмосферные явления возникают из-за отражения и преломления лунного света в каплях воды. Лунная радуга, или лунная радуга, — редкое явление, которое возникает при правильных условиях: яркая полная Луна, находящаяся на высоте менее 42°, дождь на противоположной от Луны стороне и тёмное ночное небо. Броккенский призрак назван в честь высочайшей вершины горного массива Гарц в Германии, где он был впервые зафиксирован. Здесь он виден с вершины как увеличенная тень наблюдателя, отбрасываемая на облако, окружённое глорией, состоящей из концентрических кругов с центром в точке, прямо противоположной яркой Луне на заднем плане.",
+      "alt_en": "",
+      "alt_ru": "",
+      "credit": "Kouji Ohnishi/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        203,
+        448
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:sM76db43so30",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/moon-map-from-the-clementine-mission.png",
+      "record_url": "https://astro4edu.org/resources/media/sM76db43so30/",
+      "original_path": "data/media/original/media_sM76db43so30.png",
+      "ru_path": null,
+      "sha256": "994b973d2caaf05f74f5b76850e7cd34bca5a3f54e6442441a799fb82f2b7907",
+      "size": 302215,
+      "title_en": "Moon map from the NASA Clementine mission",
+      "title_ru": "Карта Луны по данным миссии NASA Clementine",
+      "short_caption_en": "Moon map from the NASA Clementine mission",
+      "short_caption_ru": "Карта Луны по данным миссии NASA Clementine",
+      "caption_en": "A map of the Moon's surface constructed of images taken by the BMDO/NASA Clementine mission. The center of the image corresponds roughly to the center of the full moon. This map is a projection of the spherical moon onto a flat surface so the regions around the poles appear distorted, just as Antarctica appears distorted on a map of the Earth. \r\n\r\nThe large, dark patches in the center of the image are maria (singular mare). These are named after the Latin word for sea but they are not oceans like we have on Earth. Instead they are vast plains of basalt formed by lava that flowed out of volcanos on the moon billions of years ago. They appear darker and smoother than the older, lighter lunar highlands.",
+      "caption_ru": "Карта поверхности Луны, составленная из изображений, полученных миссией BMDO/NASA Clementine. Центр изображения примерно соответствует центру полной Луны. Эта карта является проекцией сферической Луны на плоскую поверхность, поэтому области вокруг полюсов выглядят искажёнными, так же как Антарктида выглядит искажённой на карте Земли. \r\n\r\nБольшие тёмные пятна в центре изображения — это моря (единственное число — море). Они названы от латинского слова «море», но это не океаны, как на Земле. Вместо этого это обширные равнины базальта, образованные лавой, извергавшейся из вулканов на Луне миллиарды лет назад. Они выглядят темнее и глаже, чем более старые, более светлые лунные возвышенности.",
+      "alt_en": "A rectangular image of the Moon. In the center are a series of dark patches called Mare. These fill the center of the image.",
+      "alt_ru": "Прямоугольное изображение Луны. В центре находится ряд тёмных пятен, называемых морями. Они заполняют центр изображения.",
+      "credit": "USGS Astrogeology Science Center;",
+      "credit_url": "https://astrogeology.usgs.gov/search/map/moon_clementine_uvvis_global_mosaic_118m",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        203,
+        456
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zF16bo75KJ22",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/lift-off-of-apollo-11-on-a-saturn-v-rocket.png",
+      "record_url": "https://astro4edu.org/resources/media/zF16bo75KJ22/",
+      "original_path": "data/media/original/media_zF16bo75KJ22.png",
+      "ru_path": null,
+      "sha256": "80ca4b58f136d10d69c1fb4639d5be444e93a6c260c77db56a354c41b1522a2b",
+      "size": 11913641,
+      "title_en": "Lift-off of Apollo 11 on a Saturn V rocket",
+      "title_ru": "Запуск Apollo 11 на ракете Saturn V",
+      "short_caption_en": "Lift-off of Apollo 11 on a Saturn V rocket",
+      "short_caption_ru": "Запуск Apollo 11 на ракете Saturn V",
+      "caption_en": "The Apollo 11 Saturn V Space vehicle lifts off with Astronauts Neil A. Armstrong, Michael Collins and Edwin E. Aldrin, Jr., at 9:32 a.m. local time on July 16, 1969, from  Launch Complex 39A at NASA's Kennedy Space Center, for the first Moon landing.",
+      "caption_ru": "Космический корабль Apollo 11 на ракете Saturn V стартует с астронавтами Нилом А. Армстронгом, Майклом Коллинзом и Эдвином Э. Олдрином-младшим в 9:32 по местному времени 16 июля 1969 года со стартового комплекса 39A Космического центра Кеннеди NASA для первой высадки на Луну.",
+      "alt_en": "White Saturn V rocket lifting off, with smoke and fire underneath, next to the launch pad's gantry.",
+      "alt_ru": "Белая ракета Saturn V взлетает, под ней дым и огонь, рядом с фермой стартового комплекса.",
+      "credit": "NASA",
+      "credit_url": "https://web.archive.org/web/20010309112753/http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000630.html",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        14,
+        203
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:LF58pz331t81",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/mare-crisium-sea-of-crises.png",
+      "record_url": "https://astro4edu.org/resources/media/LF58pz331t81/",
+      "original_path": "data/media/original/media_LF58pz331t81.png",
+      "ru_path": null,
+      "sha256": "f40fc11308b0b65b08c549b15f0c97d03353597bfd5014a57d0f53d5c4e43861",
+      "size": 6784916,
+      "title_en": "Mare Crisium - Sea of Crises",
+      "title_ru": "Море Кризисов — Море Кризисов",
+      "short_caption_en": "Mare Crisium - Sea of Crises",
+      "short_caption_ru": "Море Кризисов — Море Кризисов",
+      "caption_en": "The image shows the lunar Mare Crisium, the “Sea of Crises,” as seen by NASA’s Lunar Reconnaissance Orbiter in 2015. The photo size is 750 × 750 km, about the size of Germany. Mare Crisium is located in the Moon’s Crisium basin, near the great Mare Tranquillitatis on the near side of the Moon. It is visible from Earth and is characterized by a relatively smooth and flat surface surrounded by cliffs and highlands. The basin that now contains the Mare Crisium was formed by a massive impact event likely during the Nectarian period approximately 3.9 billion years ago. During this time in lunar history, major basins including the Crisium basis were formed by large impact events. Later in lunar history, the basin was flooded by lava to form the dark and flat plain we see today. Its floor is about 1.8 kilometers below the typical lunar surface level. The study of lunar maria provides insights into the volcanic history and impact processes that have affected the Moon and other celestial objects.",
+      "caption_ru": "На изображении показано лунное Море Кризисов, «Море Кризисов», как его увидел Лунный разведывательный орбитальный аппарат NASA в 2015. Размер фотографии — 750 × 750 км, примерно размер Германии. Море Кризисов расположено в бассейне Кризисов на Луне, рядом с большим Морем Спокойствия на видимой стороне Луны. Оно видно с Земли и характеризуется относительно гладкой и плоской поверхностью, окружённой утёсами и возвышенностями. Бассейн, который теперь содержит Море Кризисов, образовался в результате массивного ударного события, вероятно, в нектарский период примерно 3,9 миллиарда лет назад. В это время в лунной истории крупные бассейны, включая бассейн Кризисов, образовались в результате крупных ударных событий. Позже в лунной истории бассейн был затоплен лавой, образовав тёмную и плоскую равнину, которую мы видим сегодня. Его дно находится примерно на 1,8 км ниже типичного уровня лунной поверхности. Изучение лунных морей даёт представление о вулканической истории и ударных процессах, которые повлияли на Луну и другие небесные тела.",
+      "alt_en": "Mare Crisium reveals its dark, flat plain surrounded by cliffs and highlands, dotted with numerous smaller impact craters.",
+      "alt_ru": "Море Кризисов показывает свою тёмную плоскую равнину, окружённую утёсами и возвышенностями, усеянную множеством более мелких ударных кратеров.",
+      "credit": "NASA, Lunar Reconnaissance Orbiter",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Mare_Crisium_(LRO).png",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        203,
+        456
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:6464Zx69Rv2",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Total_Solar_Eclipse.png",
+      "record_url": "https://astro4edu.org/resources/diagram/6464Zx69Rv2/",
+      "original_path": "data/media/original/diagram_6464Zx69Rv2.png",
+      "ru_path": "data/media/ru/diagram_6464Zx69Rv2.png",
+      "sha256": "1dfdabbe7616027e5fd98a9a9614c794939c996fe8ba0fb9e0bc8133c4208656",
+      "size": 2063193,
+      "title_en": "Total Solar Eclipse",
+      "title_ru": "Полное солнечное затмение",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This not to scale diagram shows what happens during a total solar eclipse. The Moon orbits the Earth, but its orbit is slightly tilted with respect to the Earth’s orbit around the Sun. During the new moon lunar phase, the Moon lies between the Earth and the Sun, but due to the Moon’s tilted orbit around the Earth, the Moon normally lies above or below the Sun at this point. However twice a year the Moon’s orbit lines up in such a way that the Moon can lie in a direct line between the Earth and Sun. During each of these periods (each of which last roughly a month) solar (and lunar) eclipses can occur. The Moon is about 400 times smaller than the Sun, but is 400 times closer to the Earth than the Sun. Hence the Sun and Moon have approximately the same angular size when viewed from the Earth. This means that it is possible for the Moon to completely cover the Sun when viewed from Earth. This is known as a total solar eclipse. \r\n\r\nHere we see a schematic of such and eclipse. The Moon casts a shadow on the Earth known as the umbra. This is a roughly circular shadow a few hundred kilometres across although its shape can be severely distorted when the eclipse is at the edge of the illuminated part of the Earth. Any region within the umbra will see the Moon completely cover the Sun and thus will experience a total solar eclipse. Outside of the umbra there are regions where the Moon will cover part of the Sun. This partial shadow is known as the penumbra. Regions in the penumbra will experience a partial solar eclipse.\r\n\r\nAn eclipse is a dynamic event with the Moon moving in its orbit and the Earth rotating. Hence the umbra and penumbra move across the Earth’s surface together. The path the umbra takes across the Earth is known as the path of totality. Let’s consider one particular region that lies in the path of totality: except in rare cases where an eclipse begins at sunrise, a region that experiences totality will first see the Moon cover part of the Sun and gradually move across Sun until it is totally covered. From outside the Earth this would appear as the penumbra moving over this particular region followed by the umbra moving over this region. Once the Moon moves so that it no longer completely covers the Sun, totality ends and the umbra moves away from this particular region. The Moon will continue to uncover the Sun until (unless the Sun sets before the end of the eclipse) the Sun is completely uncovered. From outside the Earth this would appear as the umbra moving away from our particular region and the edge of the penumbra approaching and eventually passing over the region. \r\n\r\nOutside of the path or totality there is a much broader region that will lie in the penumbra but will be missed by the umbra. Such regions will not experience a total solar eclipse during this event, only a partial solar eclipse.",
+      "caption_ru": "Эта схема (не в масштабе) показывает, что происходит во время полного солнечного затмения. Луна обращается вокруг Земли, но её орбита слегка наклонена по отношению к орбите Земли вокруг Солнца. В фазе новолуния Луна находится между Землёй и Солнцем, но из-за наклонной орбиты Луны вокруг Земли в этот момент Луна обычно находится выше или ниже Солнца. Однако дважды в год орбита Луны выстраивается таким образом, что Луна может оказаться на прямой линии между Землёй и Солнцем. В каждый из этих периодов (каждый длится примерно месяц) могут происходить солнечные (и лунные) затмения. Луна примерно в 400 раз меньше Солнца, но в 400 раз ближе к Земле, чем Солнце. Поэтому Солнце и Луна имеют примерно одинаковый угловой размер при наблюдении с Земли. Это означает, что Луна может полностью закрыть Солнце при наблюдении с Земли. Это называется полным солнечным затмением.\r\n\r\nЗдесь мы видим схему такого затмения. Луна отбрасывает на Землю тень, называемую умброй. Это примерно круглая тень диаметром в несколько сотен километров, хотя её форма может сильно искажаться, когда затмение происходит на краю освещённой части Земли. Любая область внутри умбры увидит, как Луна полностью закрывает Солнце, и, таким образом, испытает полное солнечное затмение. Вне умбры есть области, где Луна закроет часть Солнца. Эта частичная тень называется полутенью. Области в полутени испытают частное солнечное затмение.\r\n\r\nЗатмение — это динамическое событие: Луна движется по своей орбите, а Земля вращается. Поэтому умбра и полутень перемещаются по поверхности Земли вместе. Путь, который умбра проходит по Земле, называется полосой полного затмения. Рассмотрим одну конкретную область, лежащую в полосе полного затмения: за исключением редких случаев, когда затмение начинается на восходе Солнца, область, испытывающая полную фазу, сначала увидит, как Луна закрывает часть Солнца и постепенно перемещается по Солнцу, пока оно не будет полностью закрыто. С точки вне Земли это выглядело бы как перемещение полутени по этой конкретной области, а затем умбры по этой области. Как только Луна переместится так, что больше не будет полностью закрывать Солнце, полная фаза заканчивается, и умбра уходит из этой конкретной области. Луна будет продолжать открывать Солнце, пока (если Солнце не зайдёт до окончания затмения) Солнце не откроется полностью. С точки вне Земли это выглядело бы как удаление умбры от нашей конкретной области и приближение края полутени, которая в конечном итоге пройдёт над областью.\r\n\r\nВне полосы полного затмения есть гораздо более широкая область, которая будет находиться в полутени, но не будет затронута умброй. Такие области не испытают полного солнечного затмения во время этого события, только частное солнечное затмение.",
+      "alt_en": "The Moon lies between the Sun and Earth casts a small shadow and large partial shadow",
+      "alt_ru": "Луна находится между Солнцем и Землёй, отбрасывая небольшую тень и большую частичную тень",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        182,
+        203,
+        215,
+        240,
+        243,
+        310,
+        342,
+        365,
+        372
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "d6b95600091f361aa85163bca12eddeba7613faf754562a01c1a81ea6e0a5e26"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

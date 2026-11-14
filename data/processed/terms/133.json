@@ -1,0 +1,190 @@
+{
+  "id": "term:133",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 133,
+    "url": "https://astro4edu.org/resources/glossary/term/133/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=133",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:54.777725+00:00",
+    "sha256": "aa18965ad1b7e0a79a77ad4f1a243e0f8691c160877388bfe3d25dc271e56b1f"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      135,
+      190
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Gravitational Constant",
+      "body": "The gravitational constant is one of the most important constants of the Universe. It was first invoked by Isaac Newton. It is part of Newton's law of gravitational force, that shows that all particles with a mass attract every other particle (that also has a mass) with a force that is directly proportional to the product of the masses of the particles and inversely proportional to the squared distance between the objects. The proportionality constant is the gravitational constant. The value of the gravitational constant has been measured through experiments to be 6.67 × 10 -11 cubic meters per kilogram per seconds squared (m 3 kg -1 s -2 ).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Gravity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/135/",
+          "text_ru": "Гравитация"
+        },
+        {
+          "text": "Mass",
+          "url": "https://www.astro4edu.org/resources/glossary/term/190/",
+          "text_ru": "Масса"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Gravitational Constant</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The gravitational constant is one of the most important constants of the Universe. It was first invoked by Isaac Newton. It is part of Newton's law of gravitational force, that shows that all particles with a mass attract every other particle (that also has a mass) with a force that is directly proportional to the product of the masses of the particles and inversely proportional to the squared distance between the objects. The proportionality constant is the gravitational constant. The value of the gravitational constant has been measured through experiments to be 6.67 × 10<sup>-11</sup> cubic meters per kilogram per seconds squared (m<sup>3</sup> kg<sup>-1</sup> s<sup>-2</sup>).</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/135/\">Gravity</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/190/\">Mass</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Гравитационная постоянная",
+      "body_ru": "Гравитационная постоянная — одна из важнейших констант Вселенной. Впервые она была введена Исааком Ньютоном. Она входит в закон всемирного тяготения Ньютона, который показывает, что все частицы, обладающие массой, притягивают любую другую частицу (также имеющую массу) с силой, прямо пропорциональной произведению масс частиц и обратно пропорциональной квадрату расстояния между объектами. Коэффициентом пропорциональности является гравитационная постоянная. Значение гравитационной постоянной было измерено экспериментально и составляет 6.67 × 10 -11 кубических метров на килограмм на секунду в квадрате (м 3 кг -1 с -2 )."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "万有引力定数 (external link)",
+          "url": "https://astro-dic.jp/constant-of-gravitation/",
+          "text_ru": "Гравитационная постоянная (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/133/\">ثابت الجاذبية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/133/\">Gravitationskonstante </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/133/\">Constante gravitacional </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/133/\">Constante gravitationnelle </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/133/\">Costante gravitazionale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/constant-of-gravitation/\">万有引力定数 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/133/\">중력상수 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/133/\">Constante gravitacional </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/133/\">引力常数 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/133/\">引力常數 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Is35Tq19o343/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Is35Tq19o343"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Is35Tq19o343/\"><img alt=\"Line drawing of a scientific apparatus with pairs of larger and smaller spherical masses suspended from balanced by strings\" src=\"/media/multimedia/thumbnails/apparatus-for-determining-the-gravitional-constant_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Apparatus for determining the gravitional constant</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Observations of the motions of the planets around the Sun, or the Moon around the Earth, could not yield the gravitational constant, as in those cases, the mass of the central body is not initially known. Measuring the gravitational constant required a situation where the masses involved had been determined independent of measuring their gravitational attraction. The device shown here was built by John Michell (1724–1793), but Michell died before he could perform the experiment.  Henry Cavendish (1731–1810) inherited the device, modified it so as to suppress external disturbances, and successfully completed the experiment. Cavendish's report to the Royal Society was under the title of \"Experiments to determine the density of the Earth\" as, from knowledge of the gravitational constant, the gravitational acceleration at Earth's surface and the Earth's radius, one can determine the Earth's mass and its mean density. From the modern perspective, what is now known as the \"Cavendish experiment\" is seen as a way of determining Newton's gravitational constant G.\n\nThe image shows a cross-section of the apparatus, which Cavendish had further isolated from environmental influences by putting it into a separate room and inside a wooden box. The devices allowing Cavendish to illuminate, observe and manipulate the experiment from the outside are pictured as well. The core of the experiment is a torsion balance using two small lead spheres. The restoring force of the torsion pendulum is deduced from its natural oscillation frequency in the absence of the large masses. The gravitational attraction of the small lead spheres to their larger counterparts can then be determined by measuring how far it makes the torsion pendulum masses deviate from their null position.\n\nThe image is a slightly modified (cropped, contrast and brightness adjusted) version of Fig. 1 in Cavendish's article in the Philosophical Transactions of the Royal Society, Volume 88 (December 1798), pp. 469–526 [DOI: 10.1098/rstl.1798.0022]. The permission of the Royal Society to publish this image under a CC BY licenses gratefully acknowledged.<br/>\n<b>Credit:</b> Henry Cavendish in Philosophical Transactions of the Royal Society, DOI: 10.1098/rstl.1798.0022\n\t  <a href=\"https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Gravitational Constant",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Gravitational Constant",
+          "body": "The gravitational constant is one of the most important constants of the Universe. It was first invoked by Isaac Newton. It is part of Newton's law of gravitational force, that shows that all particles with a mass attract every other particle (that also has a mass) with a force that is directly proportional to the product of the masses of the particles and inversely proportional to the squared distance between the objects. The proportionality constant is the gravitational constant. The value of the gravitational constant has been measured through experiments to be 6.67 × 10 -11 cubic meters per kilogram per seconds squared (m 3 kg -1 s -2 )."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Гравитационная постоянная",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Гравитационная постоянная",
+          "body": "Гравитационная постоянная — одна из важнейших констант Вселенной. Впервые она была введена Исааком Ньютоном. Она входит в закон всемирного тяготения Ньютона, который показывает, что все частицы, обладающие массой, притягивают любую другую частицу (также имеющую массу) с силой, прямо пропорциональной произведению масс частиц и обратно пропорциональной квадрату расстояния между объектами. Коэффициентом пропорциональности является гравитационная постоянная. Значение гравитационной постоянной было измерено экспериментально и составляет 6.67 × 10 -11 кубических метров на килограмм на секунду в квадрате (м 3 кг -1 с -2 )."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Is35Tq19o343",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/apparatus-for-determining-the-gravitional-constant.png",
+      "record_url": "https://astro4edu.org/resources/media/Is35Tq19o343/",
+      "original_path": "data/media/original/media_Is35Tq19o343.png",
+      "ru_path": null,
+      "sha256": "4bc21a1e8aa640b56519115dfca8df6da0ce3c2c93f0c81ff0e1f0fd82dfd557",
+      "size": 864505,
+      "title_en": "Apparatus for determining the gravitional constant",
+      "title_ru": "Установка для определения гравитационной постоянной",
+      "short_caption_en": "Apparatus for determining the gravitional constant",
+      "short_caption_ru": "Установка для определения гравитационной постоянной",
+      "caption_en": "Observations of the motions of the planets around the Sun, or the Moon around the Earth, could not yield the gravitational constant, as in those cases, the mass of the central body is not initially known. Measuring the gravitational constant required a situation where the masses involved had been determined independent of measuring their gravitational attraction. The device shown here was built by John Michell (1724–1793), but Michell died before he could perform the experiment.  Henry Cavendish (1731–1810) inherited the device, modified it so as to suppress external disturbances, and successfully completed the experiment. Cavendish's report to the Royal Society was under the title of \"Experiments to determine the density of the Earth\" as, from knowledge of the gravitational constant, the gravitational acceleration at Earth's surface and the Earth's radius, one can determine the Earth's mass and its mean density. From the modern perspective, what is now known as the \"Cavendish experiment\" is seen as a way of determining Newton's gravitational constant G.\r\n\r\nThe image shows a cross-section of the apparatus, which Cavendish had further isolated from environmental influences by putting it into a separate room and inside a wooden box. The devices allowing Cavendish to illuminate, observe and manipulate the experiment from the outside are pictured as well. The core of the experiment is a torsion balance using two small lead spheres. The restoring force of the torsion pendulum is deduced from its natural oscillation frequency in the absence of the large masses. The gravitational attraction of the small lead spheres to their larger counterparts can then be determined by measuring how far it makes the torsion pendulum masses deviate from their null position.\r\n\r\nThe image is a slightly modified (cropped, contrast and brightness adjusted) version of Fig. 1 in Cavendish's article in the Philosophical Transactions of the Royal Society, Volume 88 (December 1798), pp. 469–526 [DOI: 10.1098/rstl.1798.0022]. The permission of the Royal Society to publish this image under a CC BY licenses gratefully acknowledged.",
+      "caption_ru": "Наблюдения движений планет вокруг Солнца или Луны вокруг Земли не могли дать гравитационную постоянную, так как в этих случаях масса центрального тела изначально неизвестна. Измерение гравитационной постоянной требовало ситуации, когда вовлечённые массы были определены независимо от измерения их гравитационного притяжения. Устройство, показанное здесь, было построено Джоном Мичеллом (1724–1793), но Мичелл умер, прежде чем смог провести эксперимент. Генри Кавендиш (1731–1810) унаследовал устройство, модифицировал его так, чтобы подавить внешние помехи, и успешно завершил эксперимент. Отчёт Кавендиша Королевскому обществу был озаглавлен «Эксперименты по определению плотности Земли», поскольку, зная гравитационную постоянную, гравитационное ускорение на поверхности Земли и радиус Земли, можно определить массу Земли и её среднюю плотность. С современной точки зрения то, что теперь известно как «эксперимент Кавендиша», рассматривается как способ определения ньютоновской гравитационной постоянной G.\r\n\r\nНа изображении показан разрез аппарата, который Кавендиш дополнительно изолировал от воздействий окружающей среды, поместив его в отдельную комнату и внутрь деревянного ящика. Также изображены устройства, позволявшие Кавендишу освещать, наблюдать и управлять экспериментом снаружи. Ядром эксперимента являются крутильные весы, использующие две маленькие свинцовые сферы. Возвращающая сила крутильного маятника определяется по его собственной частоте колебаний в отсутствие больших масс. Гравитационное притяжение маленьких свинцовых сфер к их более крупным аналогам можно затем определить, измерив, насколько оно отклоняет массы крутильного маятника от их нулевого положения.\r\n\r\nИзображение представляет собой слегка изменённую (обрезанную, с скорректированными контрастом и яркостью) версию рис. 1 из статьи Кавендиша в Philosophical Transactions of the Royal Society, том 88 (декабрь 1798), стр. 469–526 [DOI: 10.1098/rstl.1798.0022]. Разрешение Королевского общества на публикацию этого изображения под лицензией CC BY с благодарностью подтверждается.",
+      "alt_en": "Line drawing of a scientific apparatus with pairs of larger and smaller spherical masses suspended from balanced by strings",
+      "alt_ru": "Линейный рисунок научного аппарата с парами более крупных и мелких сферических масс, подвешенных на нитях и уравновешенных",
+      "credit": "Henry Cavendish in Philosophical Transactions of the Royal Society, DOI: 10.1098/rstl.1798.0022",
+      "credit_url": "https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        133,
+        135
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

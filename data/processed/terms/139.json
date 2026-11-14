@@ -1,0 +1,174 @@
+{
+  "id": "term:139",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 139,
+    "url": "https://astro4edu.org/resources/glossary/term/139/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=139",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:57.100520+00:00",
+    "sha256": "f521c62c0a2072c2bb19598f3ef173e442dd8192041485f6a29b72663f6b1363"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Milky Way and Interstellar Medium"
+    ],
+    "category_ids": [
+      6,
+      7
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Млечный Путь и межзвёздная среда"
+    ],
+    "related_term_numbers": [
+      20,
+      109,
+      137,
+      349,
+      468
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Habitable Zone",
+      "body": "The habitable zone of a star is defined as the region around it where liquid water can exist on the surface of an Earth-like planet. If Earth were much farther away from the Sun, all surface water would freeze; much closer, and all surface water would boil off. In neither case could life as we know it form or survive. Sometimes, the habitable zone concept is extended to include a planet like Venus, with its runaway greenhouse effect, where liquid water could exist even if the planet were farther away from the Sun. The galactic habitable zone is that part of our Galaxy where conditions are suitable for life-bearing planetary systems: there, heavier elements, which Earth-like planets are made of, should be sufficiently common, and life-threatening events like supernovae sufficiently rare. It should be noted that habitable conditions may exist outside of the habitable zone. For example the possibly habitable subsurface ocean on Jupiter's moon Europa.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astrobiology",
+          "url": "https://www.astro4edu.org/resources/glossary/term/20/",
+          "text_ru": "Астробиология"
+        },
+        {
+          "text": "Extraterrestrial Life",
+          "url": "https://www.astro4edu.org/resources/glossary/term/109/",
+          "text_ru": "Внеземная жизнь"
+        },
+        {
+          "text": "Greenhouse Effect",
+          "url": "https://www.astro4edu.org/resources/glossary/term/137/",
+          "text_ru": "Парниковый эффект"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "Planetary System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/468/",
+          "text_ru": "Планетная система"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Habitable Zone</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The habitable zone of a star is defined as the region around it where liquid water can exist on the surface of an Earth-like planet. If Earth were much farther away from the Sun, all surface water would freeze; much closer, and all surface water would boil off. In neither case could life as we know it form or survive. Sometimes, the habitable zone concept is extended to include a planet like Venus, with its runaway greenhouse effect, where liquid water could exist even if the planet were farther away from the Sun. The galactic habitable zone is that part of our Galaxy where conditions are suitable for life-bearing planetary systems: there, heavier elements, which Earth-like planets are made of, should be sufficiently common, and life-threatening events like supernovae sufficiently rare.<br/><br/>It should be noted that habitable conditions may exist outside of the habitable zone. For example the possibly habitable subsurface ocean on Jupiter's moon Europa.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/20/\">Astrobiology</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/109/\">Extraterrestrial Life</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/137/\">Greenhouse Effect</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/468/\">Planetary System</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Обитаемая зона",
+      "body_ru": "Обитаемая зона звезды определяется как область вокруг неё, где на поверхности планеты, подобной Земле, может существовать жидкая вода. Если бы Земля находилась намного дальше от Солнца, вся поверхностная вода замёрзла бы; намного ближе — и вся поверхностная вода испарилась бы. Ни в том, ни в другом случае жизнь, какой мы её знаем, не могла бы возникнуть или выжить. Иногда понятие обитаемой зоны расширяют, включая планету, подобную Венере, с её неконтролируемым парниковым эффектом, где жидкая вода могла бы существовать, даже если бы планета находилась дальше от Солнца. Галактическая обитаемая зона — это та часть нашей Галактики, где условия подходят для планетных систем, несущих жизнь: там более тяжёлые элементы, из которых состоят планеты, подобные Земле, должны быть достаточно распространены, а угрожающие жизни события, такие как сверхновые, — достаточно редки. Следует отметить, что обитаемые условия могут существовать и за пределами обитаемой зоны. Например, потенциально обитаемый подповерхностный океан на спутнике Юпитера Европе."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "ハビタブルゾーン (external link)",
+          "url": "https://astro-dic.jp/habitable-zone/",
+          "text_ru": "Зона обитаемости (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/139/\">النطاق الصالح للحياة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/139/\">Habitable Zone </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/139/\">Zona habitable </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/139/\">Habitable Zone </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/139/\">Zona abitabile </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/habitable-zone/\">ハビタブルゾーン (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/139/\">생명가능지대 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/139/\">Zona habitável </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/139/\">宜居带 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/139/\">宜居帶 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Design Your Alien astroEDU educational activity (links to astroEDU website) Description: Design an alien life form suited for an extra-terrestrial world. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Environment \n  \n  , Extra-terrestrial \n  \n  , Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Alien Age Ranges: 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/design-your-alien/\"><img alt=\"Design Your Alien\" src=\"/media/astroedu/images/design-your-alien_en_thumbnail_CWCvEzA.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/design-your-alien/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Design Your Alien</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Design an alien life form suited for an extra-terrestrial world.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Environment \n  \n  , Extra-terrestrial \n  \n  , Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Alien \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Создай своего пришельца — образовательная деятельность astroEDU (ссылки на сайт astroEDU). Описание: Создайте инопланетную форму жизни, приспособленную для внеземного мира. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки. Теги: Жизнь \n  \n  , Окружающая среда \n  \n  , Внеземное \n  \n  , Искусство \n  \n  , Творчество \n  \n  , Практическая работа \n  \n  , Пришелец. Возрастные диапазоны: 8-10 \n  \n, 10-12. Уровень образования: Начальный \n  \n, Средний"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Habitable Zone",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Habitable Zone",
+          "body": "The habitable zone of a star is defined as the region around it where liquid water can exist on the surface of an Earth-like planet. If Earth were much farther away from the Sun, all surface water would freeze; much closer, and all surface water would boil off. In neither case could life as we know it form or survive. Sometimes, the habitable zone concept is extended to include a planet like Venus, with its runaway greenhouse effect, where liquid water could exist even if the planet were farther away from the Sun. The galactic habitable zone is that part of our Galaxy where conditions are suitable for life-bearing planetary systems: there, heavier elements, which Earth-like planets are made of, should be sufficiently common, and life-threatening events like supernovae sufficiently rare. It should be noted that habitable conditions may exist outside of the habitable zone. For example the possibly habitable subsurface ocean on Jupiter's moon Europa."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Design Your Alien astroEDU educational activity (links to astroEDU website) Description: Design an alien life form suited for an extra-terrestrial world. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Environment \n  \n  , Extra-terrestrial \n  \n  , Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Alien Age Ranges: 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary"
+        }
+      }
+    },
+    "ru": {
+      "title": "Обитаемая зона",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Обитаемая зона",
+          "body": "Обитаемая зона звезды определяется как область вокруг неё, где на поверхности планеты, подобной Земле, может существовать жидкая вода. Если бы Земля находилась намного дальше от Солнца, вся поверхностная вода замёрзла бы; намного ближе — и вся поверхностная вода испарилась бы. Ни в том, ни в другом случае жизнь, какой мы её знаем, не могла бы возникнуть или выжить. Иногда понятие обитаемой зоны расширяют, включая планету, подобную Венере, с её неконтролируемым парниковым эффектом, где жидкая вода могла бы существовать, даже если бы планета находилась дальше от Солнца. Галактическая обитаемая зона — это та часть нашей Галактики, где условия подходят для планетных систем, несущих жизнь: там более тяжёлые элементы, из которых состоят планеты, подобные Земле, должны быть достаточно распространены, а угрожающие жизни события, такие как сверхновые, — достаточно редки. Следует отметить, что обитаемые условия могут существовать и за пределами обитаемой зоны. Например, потенциально обитаемый подповерхностный океан на спутнике Юпитера Европе."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Создай своего пришельца — образовательная деятельность astroEDU (ссылки на сайт astroEDU). Описание: Создайте инопланетную форму жизни, приспособленную для внеземного мира. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки. Теги: Жизнь \n  \n  , Окружающая среда \n  \n  , Внеземное \n  \n  , Искусство \n  \n  , Творчество \n  \n  , Практическая работа \n  \n  , Пришелец. Возрастные диапазоны: 8-10 \n  \n, 10-12. Уровень образования: Начальный \n  \n, Средний"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

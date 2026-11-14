@@ -1,0 +1,181 @@
+{
+  "id": "term:10",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 10,
+    "url": "https://astro4edu.org/resources/glossary/term/10/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=10",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:05.841318+00:00",
+    "sha256": "996644d744f5d803bbc5e3deb227b37b4dc00bc6bd3348d6be13d329b5483dce"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      237
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Annual Parallax",
+      "body": "Over the course of a year, as the Earth and all astronomical observers on it travel around the Sun, the perspective of those observers changes. Compared with the backdrop of the most distant astronomical objects in the night sky, this change in perspective makes for a change in the apparent position of nearer astronomical objects in the night sky. It makes those objects appear to move on tiny ellipses in the night sky over the course of one year, an effect known as annual parallax. The major axis of that apparent-motion ellipse, expressed as an angle, corresponds to twice the object's so-called (annual) parallax angle. The parallax angle corresponds to a change in observer position by one astronomical unit (AU), that is, by the average Earth–Sun distance, or the Earth's displacement between two astronomical observations performed half a year apart. The distance unit \"parsec\", short for \"parallax second\", is defined so that for a star at a distance of one parsec from Earth, the annual parallax angle amounts to one arc second.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Parallax",
+          "url": "https://www.astro4edu.org/resources/glossary/term/237/",
+          "text_ru": "Параллакс"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Annual Parallax</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Over the course of a year, as the Earth and all astronomical observers on it travel around the Sun, the perspective of those observers changes. Compared with the backdrop of the most distant astronomical objects in the night sky, this change in perspective makes for a change in the apparent position of nearer astronomical objects in the night sky. It makes those objects appear to move on tiny ellipses in the night sky over the course of one year, an effect known as annual parallax. The major axis of that apparent-motion ellipse, expressed as an angle, corresponds to twice the object's so-called (annual) parallax angle. The parallax angle corresponds to a change in observer position by one astronomical unit (AU), that is, by the average Earth–Sun distance, or the Earth's displacement between two astronomical observations performed half a year apart. The distance unit \"parsec\", short for \"parallax second\", is defined so that for a star at a distance of one parsec from Earth, the annual parallax angle amounts to one arc second.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/237/\">Parallax</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Годичный параллакс",
+      "body_ru": "В течение года, когда Земля и все астрономические наблюдатели на ней движутся вокруг Солнца, перспектива этих наблюдателей меняется. По сравнению с фоном самых далёких астрономических объектов на ночном небе это изменение перспективы приводит к изменению видимого положения более близких астрономических объектов на ночном небе. Это заставляет эти объекты казаться движущимися по крошечным эллипсам на ночном небе в течение одного года — эффект, известный как годичный параллакс. Большая ось этого эллипса видимого движения, выраженная как угол, соответствует удвоенному так называемому (годичному) углу параллакса объекта. Угол параллакса соответствует изменению положения наблюдателя на одну астрономическую единицу (а.е.), то есть на среднее расстояние Земля–Солнце, или смещение Земли между двумя астрономическими наблюдениями, выполненными с интервалом в полгода. Единица расстояния «парсек», сокращение от «параллакс-секунда», определяется так, что для звезды на расстоянии одного парсека от Земли годичный угол параллакса составляет одну угловую секунду."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "年周視差 (external link)",
+          "url": "https://astro-dic.jp/annual-parallax/",
+          "text_ru": "Годичный параллакс (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/10/\">اختلاف المنظر السنوي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/10/\">Jährliche Parallaxe </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/10/\">Paralaje anual </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/10/\">Parallaxe annuelle </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/10/\">वार्षिक लंबन </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/10/\">Parallasse annuale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/annual-parallax/\">年周視差 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/10/\">연주시차 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/10/\">Paralaxe Anual </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/10/\">周年视差 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/10/\">週年視差 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/gF99b779Ly23/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:gF99b779Ly23"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/gF99b779Ly23/\"><img alt=\"A star viewed from Earth when the Earth is at two different positions in its orbit\" src=\"/media/diagrams/multimedia/thumbnails/Annual_Parallax_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Annual Parallax</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Distance determination has historically been a challenge for astronomy. One of the primary ways to measure distance is to use annual parallax. The Earth orbits around the Sun over the course of a year meaning that it moves from one side of the Sun (shown here as position A) to the other side of the Sun (position B) over the course of six months. It then moves back to its original position over the remaining six months. This movement subtly changes the perspective an observer on Earth sees the night sky from. This is similar to the change in viewing perspective you may get when viewing a scene from your left eye and then your right eye. The change of viewing perspective causes nearby objects to shift in position in your vision. The annual motion of the Earth around the Sun changes the perspective of the observer enough to shift the observed positions of celestial objects. How big this effect is depends on the distance to the celestial object. Nearby stars will have bigger shifts in observed position than more distant stars. \n\nThe positional shift is known as the trigonometric or annual parallax (which we will call α here) and is defined as the shift in position of a star compared to what an observer at the center of the Solar System (the Sun) would see. In this diagram we see the star viewed from perspectives six months apart (positions A and B). When observed from position A the star’s shift in position will be α while when observed at position B it will be –α. Thus the relative difference in the stars position between being observed at position A and position B will be 2α. \n\nThe size of the trigonometric or annual parallax in arcseconds is approximately 1 divided by the distance in parsecs. An arcsecond (often represented by a ″ symbol) is the angular diameter a one-metre-long stick would have when viewed from 206 km away. A parsec (often abbreviated to pc) is 3.26 light years or 30.86 trillion kilometres. This is 206,265 astronomical units (the typical distance between the Earth and the Sun). No other star is closer than 1 pc to the Sun so all stars in the sky have trigonometric parallaxes less than one arcsecond. \n\nWhile trigonometric parallaxes have long been used to measure the distances to objects in our Solar System or nearby stars, recent advances have pushed the boundaries of these distance measures further. The Gaia satellite has pushed the boundaries of parallax measurements to over a thousand parsecs. Arrays of radio telescopes can also very accurately measure the positions of very distant objects and thus their trigonometric parallax.\n\nNote the Earth and Sun are not to scale here and the Earth’s axial tilt is not accurately represented.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Annual Parallax",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Annual Parallax",
+          "body": "Over the course of a year, as the Earth and all astronomical observers on it travel around the Sun, the perspective of those observers changes. Compared with the backdrop of the most distant astronomical objects in the night sky, this change in perspective makes for a change in the apparent position of nearer astronomical objects in the night sky. It makes those objects appear to move on tiny ellipses in the night sky over the course of one year, an effect known as annual parallax. The major axis of that apparent-motion ellipse, expressed as an angle, corresponds to twice the object's so-called (annual) parallax angle. The parallax angle corresponds to a change in observer position by one astronomical unit (AU), that is, by the average Earth–Sun distance, or the Earth's displacement between two astronomical observations performed half a year apart. The distance unit \"parsec\", short for \"parallax second\", is defined so that for a star at a distance of one parsec from Earth, the annual parallax angle amounts to one arc second."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Годичный параллакс",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Годичный параллакс",
+          "body": "В течение года, когда Земля и все астрономические наблюдатели на ней движутся вокруг Солнца, перспектива этих наблюдателей меняется. По сравнению с фоном самых далёких астрономических объектов на ночном небе это изменение перспективы приводит к изменению видимого положения более близких астрономических объектов на ночном небе. Это заставляет эти объекты казаться движущимися по крошечным эллипсам на ночном небе в течение одного года — эффект, известный как годичный параллакс. Большая ось этого эллипса видимого движения, выраженная как угол, соответствует удвоенному так называемому (годичному) углу параллакса объекта. Угол параллакса соответствует изменению положения наблюдателя на одну астрономическую единицу (а.е.), то есть на среднее расстояние Земля–Солнце, или смещение Земли между двумя астрономическими наблюдениями, выполненными с интервалом в полгода. Единица расстояния «парсек», сокращение от «параллакс-секунда», определяется так, что для звезды на расстоянии одного парсека от Земли годичный угол параллакса составляет одну угловую секунду."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:gF99b779Ly23",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Annual_Parallax.png",
+      "record_url": "https://astro4edu.org/resources/diagram/gF99b779Ly23/",
+      "original_path": "data/media/original/diagram_gF99b779Ly23.png",
+      "ru_path": null,
+      "sha256": "331c80f0f77c0d7b694afaff80213d6f64312029d3130faa8dcedf4e197ed86b",
+      "size": 1426742,
+      "title_en": "Annual Parallax",
+      "title_ru": "Годичный параллакс",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "Distance determination has historically been a challenge for astronomy. One of the primary ways to measure distance is to use annual parallax. The Earth orbits around the Sun over the course of a year meaning that it moves from one side of the Sun (shown here as position A) to the other side of the Sun (position B) over the course of six months. It then moves back to its original position over the remaining six months. This movement subtly changes the perspective an observer on Earth sees the night sky from. This is similar to the change in viewing perspective you may get when viewing a scene from your left eye and then your right eye. The change of viewing perspective causes nearby objects to shift in position in your vision. The annual motion of the Earth around the Sun changes the perspective of the observer enough to shift the observed positions of celestial objects. How big this effect is depends on the distance to the celestial object. Nearby stars will have bigger shifts in observed position than more distant stars. \r\n\r\nThe positional shift is known as the trigonometric or annual parallax (which we will call α here) and is defined as the shift in position of a star compared to what an observer at the center of the Solar System (the Sun) would see. In this diagram we see the star viewed from perspectives six months apart (positions A and B). When observed from position A the star’s shift in position will be α while when observed at position B it will be –α. Thus the relative difference in the stars position between being observed at position A and position B will be 2α. \r\n\r\nThe size of the trigonometric or annual parallax in arcseconds is approximately 1 divided by the distance in parsecs. An arcsecond (often represented by a ″ symbol) is the angular diameter a one-metre-long stick would have when viewed from 206 km away. A parsec (often abbreviated to pc) is 3.26 light years or 30.86 trillion kilometres. This is 206,265 astronomical units (the typical distance between the Earth and the Sun). No other star is closer than 1 pc to the Sun so all stars in the sky have trigonometric parallaxes less than one arcsecond. \r\n\r\nWhile trigonometric parallaxes have long been used to measure the distances to objects in our Solar System or nearby stars, recent advances have pushed the boundaries of these distance measures further. The Gaia satellite has pushed the boundaries of parallax measurements to over a thousand parsecs. Arrays of radio telescopes can also very accurately measure the positions of very distant objects and thus their trigonometric parallax.\r\n\r\nNote the Earth and Sun are not to scale here and the Earth’s axial tilt is not accurately represented.",
+      "caption_ru": "Определение расстояний исторически было проблемой для астрономии. Одним из основных способов измерения расстояния является использование годичного параллакса. Земля обращается вокруг Солнца в течение года, что означает, что она перемещается с одной стороны Солнца (показанной здесь как положение A) на другую сторону Солнца (положение B) за шесть месяцев. Затем она возвращается в исходное положение за оставшиеся шесть месяцев. Это движение тонко меняет перспективу, с которой наблюдатель на Земле видит ночное небо. Это похоже на изменение перспективы обзора, которое вы можете получить, рассматривая сцену сначала левым глазом, а затем правым. Изменение перспективы обзора заставляет близкие объекты смещаться в вашем поле зрения. Годичное движение Земли вокруг Солнца изменяет перспективу наблюдателя достаточно, чтобы сместить наблюдаемые положения небесных объектов. Насколько велик этот эффект, зависит от расстояния до небесного объекта. Близкие звёзды будут иметь большие смещения наблюдаемого положения, чем более далёкие звёзды. \r\n\r\nСмещение положения известно как тригонометрический или годичный параллакс (который мы здесь назовём α) и определяется как смещение положения звезды по сравнению с тем, что увидел бы наблюдатель в центре Солнечной системы (Солнце). На этой диаграмме мы видим звезду с точек обзора, разделённых шестью месяцами (положения A и B). При наблюдении из положения A смещение звезды составит α, а при наблюдении из положения B оно будет –α. Таким образом, относительная разница в положении звезды между наблюдением из положения A и положения B составит 2α. \r\n\r\nВеличина тригонометрического или годичного параллакса в угловых секундах приблизительно равна 1, делённой на расстояние в парсеках. Угловая секунда (часто обозначаемая символом ″) — это угловой диаметр, который имел бы метровый стержень при наблюдении с расстояния 206 км. Парсек (часто сокращается до pc) равен 3,26 светового года или 30,86 триллиона километров. Это 206 265 астрономических единиц (типичное расстояние между Землёй и Солнцем). Ни одна другая звезда не находится ближе 1 pc к Солнцу, поэтому все звёзды на небе имеют тригонометрические параллаксы менее одной угловой секунды. \r\n\r\nХотя тригонометрические параллаксы долгое время использовались для измерения расстояний до объектов в нашей Солнечной системе или близлежащих звёзд, недавние достижения расширили границы этих измерений расстояний. Спутник Gaia расширил границы измерений параллакса до более чем тысячи парсек. Массивы радиотелескопов также могут очень точно измерять положения очень далёких объектов и, следовательно, их тригонометрический параллакс.\r\n\r\nОбратите внимание, что Земля и Солнце здесь не в масштабе, и наклон оси Земли не представлен точно.",
+      "alt_en": "A star viewed from Earth when the Earth is at two different positions in its orbit",
+      "alt_ru": "Звезда, наблюдаемая с Земли, когда Земля находится в двух разных положениях на своей орбите",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        9,
+        10,
+        26,
+        237
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

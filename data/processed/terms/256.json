@@ -1,0 +1,614 @@
+{
+  "id": "term:256",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 256,
+    "url": "https://astro4edu.org/resources/glossary/term/256/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=256",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:31.589879+00:00",
+    "sha256": "c5e796046ec151dd853cd256a7124cf9f663498269d33c2c73c44b6922c798a0"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Chemistry",
+      "Stars"
+    ],
+    "category_ids": [
+      12,
+      2
+    ],
+    "categories_ru": [
+      "Химия",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      85,
+      124,
+      211,
+      334,
+      455,
+      473
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Planetary Nebula",
+      "body": "A planetary nebula is a cloud of gas and dust, coming from the external layers of a dying star and expanding into the general interstellar medium. The gas, energized by ultraviolet light from the dying star, glows with an emission-line spectrum. Some planetary nebulae are approximately spherical, and may look like a planet in a small telescope but their nature is completely different. Other planetary nebulae are not spherical, due to the star's rotation, magnetic field, or binarity.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Dust",
+          "url": "https://www.astro4edu.org/resources/glossary/term/85/",
+          "text_ru": "Пыль"
+        },
+        {
+          "text": "Gas",
+          "url": "https://www.astro4edu.org/resources/glossary/term/124/",
+          "text_ru": "Газ"
+        },
+        {
+          "text": "Nebula",
+          "url": "https://www.astro4edu.org/resources/glossary/term/211/",
+          "text_ru": "Туманность"
+        },
+        {
+          "text": "Stellar Evolution",
+          "url": "https://www.astro4edu.org/resources/glossary/term/334/",
+          "text_ru": "Звездная эволюция"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "Rotation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/473/",
+          "text_ru": "Вращение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Planetary Nebula</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A planetary nebula is a cloud of gas and dust, coming from the external layers of a dying star and expanding into the general interstellar medium. The gas, energized by ultraviolet light from the dying star, glows with an emission-line spectrum. Some planetary nebulae are approximately spherical, and may look like a planet in a small telescope but their nature is completely different. Other planetary nebulae are not spherical, due to the star's rotation, magnetic field, or binarity.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/85/\">Dust</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/124/\">Gas</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/211/\">Nebula</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/334/\">Stellar Evolution</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/473/\">Rotation</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Планетарная туманность",
+      "body_ru": "Планетарная туманность — это облако газа и пыли, происходящее из внешних слоев умирающей звезды и расширяющееся в общую межзвездную среду. Газ, возбуждаемый ультрафиолетовым светом умирающей звезды, светится спектром излучения. Некоторые планетарные туманности примерно сферические и могут выглядеть как планета в небольшой телескоп, но их природа совершенно иная. Другие планетарные туманности не сферические из-за вращения звезды, магнитного поля или двойственности."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "惑星状星雲 (external link)",
+          "url": "https://astro-dic.jp/planetary-nebula/",
+          "text_ru": "Планетарная туманность (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/256/\">السديم الكوكبي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/256/\">Planetarischer Nebel </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/256/\">Nebulosa planetaria </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/256/\">Nébuleuse planétaire </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/256/\">प्लॅनेटरी नेबुला (ग्रह नीहारिका) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/256/\">Nebulosa planetaria </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/planetary-nebula/\">惑星状星雲 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/256/\">प्लॅनेटरी नेबुला (तेजोमेघ ) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/256/\">Nebulosa Planetária </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/256/\">行星状星云 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/256/\">行星狀星雲 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/6P43LB422a75/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/qo31xv8AO72/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/hq75BY71AZ88/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/HL453G70ED9/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/9p18tC71hh36/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all diagrams for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Planetary Nebula&page=1&language_choice=en&file_type=dia&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все диаграммы для этого термина"
+        }
+      ],
+      "media_ids": [
+        "diagram:6P43LB422a75",
+        "diagram:qo31xv8AO72",
+        "diagram:hq75BY71AZ88",
+        "diagram:HL453G70ED9",
+        "diagram:9p18tC71hh36"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/6P43LB422a75/\"><img alt=\"The bright stars in Andromeda form a Y-shape. Pegasus to the lower right. In the center is M31, marked with a red ellipse.\" src=\"/media/diagrams/multimedia/thumbnails/andromeda-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Andromeda Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Andromeda showing the bright stars and surrounding constellations. Andromeda is surrounded by (going clockwise from the top) Cassiopeia, Lacerta, Pegasus, Pisces, Aries, Triangulum and Perseus. The brightest star in Andromeda (Alpheratz) is in the lower part of the constellation. Together with three stars in Pegasus it forms the asterism known as the \"Great Square of Pegasus\". The next two bright stars in the constellation (Mirach and Almach) form a line extending north-east from Alpheratz.\n\nAndromeda is a northern constellation and is most visible in the evenings in the Northern Hemisphere autumn. It is visible from all of the Northern Hemisphere and most temperate regions of the Southern Hemisphere but is not visible from Antarctic and Subantarctic regions.\n\nThe most famous object in Andromeda, the Andromeda Galaxy is marked here with a red ellipse and its Messier catalog number M31.\n\nThe yellow circle on the left marks the position of the open cluster NGC 752 and the green circle on the right marks NGC 7662 (the blue snowball nebula), a planetary nebula.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/qo31xv8AO72/\"><img alt=\"Aquarius appears as a sprawling series of connected lines. The ecliptic runs through its center from WSW to ENE.\" src=\"/media/diagrams/multimedia/thumbnails/aquarius-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Aquarius Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Aquarius along with its bright stars and surrounding constellations. Aquarius is surrounded by (going clockwise from the top) Pegasus, Equuleus, Aquila, Capricornus, Piscis Austrinus, Sculptor, Cetus and Pisces. Aquarius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Aquarius from mid February to mid March. The other planets of the Solar System can often be found in Aquarius. \n\nAquarius spans the celestial equator and is thus visible at some time in the year from all of planet Earth. In the most arctic or antarctic regions of the world, some parts of the constellation may not be visible. Aquarius is most visible in the evenings in the northern hemisphere autumn and southern hemisphere spring. \n\nThe yellow circles with plus symbols superimposed on them mark the globular clusters M2 and M72. The green circles superimposed on plus symbols mark the planetary nebulae NGC 7293 (the Helix Nebula) and NGC 7002 (the Saturn Nebula). M73 (marked with an x symbol) is a coincident grouping of stars previously erroneously classified as an open cluster. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/hq75BY71AZ88/\"><img alt=\"Ursa Major appears as a ladle with the handle to the east &amp; the cup to the west. Lines of fainter stars extend to the south\" src=\"/media/diagrams/multimedia/thumbnails/ursa-major-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ursa Major Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Ursa Major along with its bright stars and its surrounding constellations. Ursa Major is surrounded by (going clockwise from the top): Draco, Camelopardalis, Lynx, Leo Minor, Leo, Coma Berenices, Canes Venatici and Boötes. Ursa Major is famous for the prominent asterism often known in English as the Big Dipper or the Plough. This prominent northern asterism has a wide variety of names from cultures across the world. While most constellations and asterisms are made up of unrelated stars that randomly appear close together on the sky, five of the stars in the Big Dipper are part of the Ursa Major Moving Group, a group of stars moving through space together that likely formed in the same location 300 million years ago. The two stars on the right-hand end of the Big Dipper on this diagram form a pair of pointer stars that can be used to locate Polaris, the northern pole star which lies in the constellation of Ursa Minor.\n\nUrsa Major is a northern constellation and is visible from northern and equatorial regions. Parts of the constellation are visible from all but the most antarctic parts of the southern hemisphere but not all temperate regions of the southern hemisphere can see all of the Big Dipper. Conversely the Big Dipper and much of the rest of the constellation are circumpolar in arctic and many temperate regions of the northern hemisphere. Ursa Major is most visible in the evening in the northern hemisphere spring and southern hemisphere autumn. \n\nTwo prominent galaxies appear in the northern part of this constellation, the spiral galaxy M81 and M82, a possible spiral galaxy whose structure is difficult to observe from the Earth as it appears edge-on. Both are shown here as red ellipses. The planetary nebula M97 (the Owl Nebula) lies in the middle of the constellation and is marked by a green circle superimposed on a plus symbol. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/HL453G70ED9/\"><img alt=\"Cygnus looks like a swan in flight with the neck pointing to the lower right (south-west). Deneb is the tail\" src=\"/media/diagrams/multimedia/thumbnails/cygnus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Cygnus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Cygnus with its bright stars and surrounding constellations. Cygnus is surrounded by (going clockwise from the top): Cepheus, Draco, Lyra, Vulpecula, Pegasus and Lacerta. Cygnus is notable for its brightest star Deneb. This forms one vertex of the prominent Summer Triangle asterism that is visible in northern hemisphere summer evenings. \n\nCygnus is a northern constellation and thus the whole of the constellation is visible at some point in the year in the whole northern hemisphere. The whole constellation is also visible from equatorial regions of the southern hemisphere with parts of the constellation visible from temperate southern regions. \n\nThe plane of the Milky Way runs through Cygnus and thus the constellation is rich in nebulae and star clusters. These include the North America Nebula (NGC 7000) and the Crescent Nebula (NGC 6888). The Veil Nebula is a huge supernova remnant, parts of which are marked here as NGC 6960 and NGC 6992/5. All of the previously-mentioned nebulae are marked with green squares. The planetary nebula NGC 6826 is marked here with a green circle superimposed on a plus sign. The open star clusters M29 and M39 are marked here with yellow circles. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/9p18tC71hh36/\"><img alt=\"Draco has the shape of a backward letter s rotated by 90 degrees\" src=\"/media/diagrams/multimedia/thumbnails/draco-constellation-map_en_thumbnail_ONfDMQS.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Draco Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Draco with its bright stars and surrounding constellations. Draco is surrounded by (going clockwise from the top): Cepheus, Ursa Minor, Boötes, Hercules, Lyra and Cygnus.\n\nDraco is a sprawling northern constellation, parts of which lie close to the celestial north pole. As such the whole constellation is visible at some point in the year from the whole northern hemisphere and a thin sliver of the southern hemisphere near the equator. Parts of the constellation are visible from all other southern equatorial and some southern temperate regions. Draco is best viewed in the evenings in the northern hemisphere summer and southern hemisphere winter.\n\nThe planetary nebula NGC 6543 (also known as the Cat’s Eye Nebula) lies in Draco. It is marked here with a green circle superimposed on a plus sign. \n\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Planetary Nebula&amp;page=1&amp;language_choice=en&amp;file_type=dia&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all diagrams <br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Planetary Nebula",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Planetary Nebula",
+          "body": "A planetary nebula is a cloud of gas and dust, coming from the external layers of a dying star and expanding into the general interstellar medium. The gas, energized by ultraviolet light from the dying star, glows with an emission-line spectrum. Some planetary nebulae are approximately spherical, and may look like a planet in a small telescope but their nature is completely different. Other planetary nebulae are not spherical, due to the star's rotation, magnetic field, or binarity."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Планетарная туманность",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Планетарная туманность",
+          "body": "Планетарная туманность — это облако газа и пыли, происходящее из внешних слоев умирающей звезды и расширяющееся в общую межзвездную среду. Газ, возбуждаемый ультрафиолетовым светом умирающей звезды, светится спектром излучения. Некоторые планетарные туманности примерно сферические и могут выглядеть как планета в небольшой телескоп, но их природа совершенно иная. Другие планетарные туманности не сферические из-за вращения звезды, магнитного поля или двойственности."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:6P43LB422a75",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/andromeda-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/6P43LB422a75/",
+      "original_path": "data/media/original/diagram_6P43LB422a75.png",
+      "ru_path": "data/media/ru/diagram_6P43LB422a75.png",
+      "sha256": "0bca418d79c1abc31e7518ba0416a0aad6d497b25da3c4d8a6f16771fb6256ad",
+      "size": 110522,
+      "title_en": "Andromeda Constellation Map",
+      "title_ru": "Карта созвездия Андромеда",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Andromeda showing the bright stars and surrounding constellations. Andromeda is surrounded by (going clockwise from the top) Cassiopeia, Lacerta, Pegasus, Pisces, Aries, Triangulum and Perseus. The brightest star in Andromeda (Alpheratz) is in the lower part of the constellation. Together with three stars in Pegasus it forms the asterism known as the \"Great Square of Pegasus\". The next two bright stars in the constellation (Mirach and Almach) form a line extending north-east from Alpheratz.\r\n\r\nAndromeda is a northern constellation and is most visible in the evenings in the Northern Hemisphere autumn. It is visible from all of the Northern Hemisphere and most temperate regions of the Southern Hemisphere but is not visible from Antarctic and Subantarctic regions.\r\n\r\nThe most famous object in Andromeda, the Andromeda Galaxy is marked here with a red ellipse and its Messier catalog number M31.\r\n\r\nThe yellow circle on the left marks the position of the open cluster NGC 752 and the green circle on the right marks NGC 7662 (the blue snowball nebula), a planetary nebula.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Андромеда с яркими звёздами и окружающими созвездиями. Андромеду окружают (по часовой стрелке сверху) Кассиопея, Ящерица, Пегас, Рыбы, Овен, Треугольник и Персей. Самая яркая звезда в Андромеде (Альферац) находится в нижней части созвездия. Вместе с тремя звёздами в Пегасе она образует астеризм, известный как «Большой квадрат Пегаса». Следующие две яркие звезды созвездия (Мирах и Альмах) образуют линию, простирающуюся на северо-восток от Альфераца.\r\n\r\nАндромеда — северное созвездие, лучше всего видимое по вечерам осенью в Северном полушарии. Оно видно со всей территории Северного полушария и большинства умеренных областей Южного полушария, но не видно из антарктических и субантарктических регионов.\r\n\r\nСамый известный объект в Андромеде, галактика Андромеды, отмечен здесь красным эллипсом и её номером в каталоге Мессье M31.\r\n\r\nЖёлтый кружок слева отмечает положение рассеянного скопления NGC 752, а зелёный кружок справа отмечает NGC 7662 (туманность Голубой снежок), планетарную туманность.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "The bright stars in Andromeda form a Y-shape. Pegasus to the lower right. In the center is M31, marked with a red ellipse.",
+      "alt_ru": "Яркие звёзды в Андромеде образуют Y-образную форму. Пегас справа внизу. В центре находится M31, отмеченная красным эллипсом.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        7,
+        8,
+        15,
+        66,
+        78,
+        256,
+        286,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "c5a27da7dc228d522174ef286aac0cf7a995924224ac4b426f4c64131542edbc"
+    },
+    {
+      "id": "diagram:qo31xv8AO72",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/aquarius-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/qo31xv8AO72/",
+      "original_path": "data/media/original/diagram_qo31xv8AO72.png",
+      "ru_path": "data/media/ru/diagram_qo31xv8AO72.png",
+      "sha256": "044eda58ae014d7c74af189d7d94a4a6f021fab8c2a8b39d20041d75997bf12f",
+      "size": 119177,
+      "title_en": "Aquarius Constellation Map",
+      "title_ru": "Карта созвездия Водолей",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Aquarius along with its bright stars and surrounding constellations. Aquarius is surrounded by (going clockwise from the top) Pegasus, Equuleus, Aquila, Capricornus, Piscis Austrinus, Sculptor, Cetus and Pisces. Aquarius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Aquarius from mid February to mid March. The other planets of the Solar System can often be found in Aquarius. \r\n\r\nAquarius spans the celestial equator and is thus visible at some time in the year from all of planet Earth. In the most arctic or antarctic regions of the world, some parts of the constellation may not be visible. Aquarius is most visible in the evenings in the northern hemisphere autumn and southern hemisphere spring. \r\n\r\nThe yellow circles with plus symbols superimposed on them mark the globular clusters M2 and M72. The green circles superimposed on plus symbols mark the planetary nebulae NGC 7293 (the Helix Nebula) and NGC 7002 (the Saturn Nebula). M73 (marked with an x symbol) is a coincident grouping of stars previously erroneously classified as an open cluster. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Водолей вместе с его яркими звёздами и окружающими созвездиями. Водолей окружён (по часовой стрелке сверху) Пегасом, Малым Конём, Орлом, Козерогом, Южной Рыбой, Скульптором, Китом и Рыбами. Водолей лежит на эклиптике (показана здесь синей линией), это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Водолее с середины февраля до середины марта. Другие планеты Солнечной системы также часто можно найти в Водолее.\n\nВодолей пересекает небесный экватор и, таким образом, виден в какое-то время года со всей планеты Земля. В самых арктических или антарктических регионах мира некоторые части созвездия могут быть не видны. Водолей лучше всего виден по вечерам осенью в северном полушарии и весной в южном полушарии.\n\nЖёлтые кружки с наложенными на них символами плюса отмечают шаровые скопления M2 и M72. Зелёные кружки с наложенными символами плюса отмечают планетарные туманности NGC 7293 (туманность Улитка) и NGC 7002 (туманность Сатурн). M73 (отмечено символом x) — это совпадающая группировка звёзд, ранее ошибочно классифицированная как рассеянное скопление.\n\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Aquarius appears as a sprawling series of connected lines. The ecliptic runs through its center from WSW to ENE.",
+      "alt_ru": "Водолей выглядит как разветвлённая серия соединённых линий. Эклиптика проходит через его центр с западо-юго-запада на востоко-северо-восток.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        48,
+        50,
+        66,
+        78,
+        92,
+        132,
+        252,
+        256,
+        286,
+        391,
+        428,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "455237e7dd2672773ddf51cd50a6b5fe6bc347515b15bd8d4adb8cb136b6bdd6"
+    },
+    {
+      "id": "diagram:hq75BY71AZ88",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa-major-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/hq75BY71AZ88/",
+      "original_path": "data/media/original/diagram_hq75BY71AZ88.png",
+      "ru_path": null,
+      "sha256": "85bb7f463d6805b770be3f2b6a2efe6e07cdc78411372b65213f5af9298a73af",
+      "size": 143672,
+      "title_en": "Ursa Major Constellation Map",
+      "title_ru": "Карта созвездия Большая Медведица",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Ursa Major along with its bright stars and its surrounding constellations. Ursa Major is surrounded by (going clockwise from the top): Draco, Camelopardalis, Lynx, Leo Minor, Leo, Coma Berenices, Canes Venatici and Boötes. Ursa Major is famous for the prominent asterism often known in English as the Big Dipper or the Plough. This prominent northern asterism has a wide variety of names from cultures across the world. While most constellations and asterisms are made up of unrelated stars that randomly appear close together on the sky, five of the stars in the Big Dipper are part of the Ursa Major Moving Group, a group of stars moving through space together that likely formed in the same location 300 million years ago. The two stars on the right-hand end of the Big Dipper on this diagram form a pair of pointer stars that can be used to locate Polaris, the northern pole star which lies in the constellation of Ursa Minor.\r\n\r\nUrsa Major is a northern constellation and is visible from northern and equatorial regions. Parts of the constellation are visible from all but the most antarctic parts of the southern hemisphere but not all temperate regions of the southern hemisphere can see all of the Big Dipper. Conversely the Big Dipper and much of the rest of the constellation are circumpolar in arctic and many temperate regions of the northern hemisphere. Ursa Major is most visible in the evening in the northern hemisphere spring and southern hemisphere autumn. \r\n\r\nTwo prominent galaxies appear in the northern part of this constellation, the spiral galaxy M81 and M82, a possible spiral galaxy whose structure is difficult to observe from the Earth as it appears edge-on. Both are shown here as red ellipses. The planetary nebula M97 (the Owl Nebula) lies in the middle of the constellation and is marked by a green circle superimposed on a plus symbol. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Большая Медведица вместе с его яркими звёздами и окружающими созвездиями. Большая Медведица окружена (по часовой стрелке сверху): Драконом, Жирафом, Рысью, Малым Львом, Львом, Волосами Вероники, Гончими Псами и Волопасом. Большая Медведица знаменита заметным астеризмом, часто известным в английском языке как Большой Ковш или Плуг. Этот заметный северный астеризм имеет широкий спектр названий в культурах по всему миру. Хотя большинство созвездий и астеризмов состоят из несвязанных звёзд, случайно оказавшихся близко друг к другу на небе, пять звёзд Большого Ковша являются частью Движущейся группы Большой Медведицы — группы звёзд, движущихся в пространстве вместе, которые, вероятно, сформировались в одном месте 300 миллионов лет назад. Две звезды на правом конце Большого Ковша на этой диаграмме образуют пару указательных звёзд, которые можно использовать для поиска Полярной звезды, северной полярной звезды, находящейся в созвездии Малой Медведицы.\n\nБольшая Медведица — северное созвездие, видимое из северных и экваториальных регионов. Части созвездия видны из всех регионов Южного полушария, кроме самых антарктических, но не все умеренные регионы Южного полушария могут видеть весь Большой Ковш. И наоборот, Большой Ковш и большая часть остального созвездия являются околополярными в арктических и многих умеренных регионах Северного полушария. Большая Медведица лучше всего видна вечером весной в Северном полушарии и осенью в Южном полушарии.\n\nВ северной части этого созвездия видны две заметные галактики: спиральная галактика M81 и M82, возможная спиральная галактика, структуру которой трудно наблюдать с Земли, поскольку она видна с ребра. Обе показаны здесь как красные эллипсы. Планетарная туманность M97 (туманность Сова) находится в середине созвездия и отмечена зелёным кружком, наложенным на символ плюса.\n\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Ursa Major appears as a ladle with the handle to the east & the cup to the west. Lines of fainter stars extend to the south",
+      "alt_ru": "Большая Медведица выглядит как ковш с ручкой на востоке и чашей на западе. Линии более слабых звёзд простираются на юг",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        39,
+        50,
+        56,
+        66,
+        78,
+        172,
+        256,
+        286,
+        330,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:HL453G70ED9",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cygnus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/HL453G70ED9/",
+      "original_path": "data/media/original/diagram_HL453G70ED9.png",
+      "ru_path": "data/media/ru/diagram_HL453G70ED9.png",
+      "sha256": "031ec51da8a80bb613a52393fb193e21f1a370fab52ecccdba0c8c1aca8520f9",
+      "size": 150095,
+      "title_en": "Cygnus Constellation Map",
+      "title_ru": "Карта созвездия Лебедь",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Cygnus with its bright stars and surrounding constellations. Cygnus is surrounded by (going clockwise from the top): Cepheus, Draco, Lyra, Vulpecula, Pegasus and Lacerta. Cygnus is notable for its brightest star Deneb. This forms one vertex of the prominent Summer Triangle asterism that is visible in northern hemisphere summer evenings. \r\n\r\nCygnus is a northern constellation and thus the whole of the constellation is visible at some point in the year in the whole northern hemisphere. The whole constellation is also visible from equatorial regions of the southern hemisphere with parts of the constellation visible from temperate southern regions. \r\n\r\nThe plane of the Milky Way runs through Cygnus and thus the constellation is rich in nebulae and star clusters. These include the North America Nebula (NGC 7000) and the Crescent Nebula (NGC 6888). The Veil Nebula is a huge supernova remnant, parts of which are marked here as NGC 6960 and NGC 6992/5. All of the previously-mentioned nebulae are marked with green squares. The planetary nebula NGC 6826 is marked here with a green circle superimposed on a plus sign. The open star clusters M29 and M39 are marked here with yellow circles. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Лебедь с его яркими звездами и окружающими созвездиями. Лебедь окружен (по часовой стрелке сверху): Цефеем, Драконом, Лирой, Лисичкой, Пегасом и Ящерицей. Лебедь примечателен своей самой яркой звездой Денеб. Она образует одну из вершин заметного астеризма Летний треугольник, видимого в летние вечера в северном полушарии.\r\n\r\nЛебедь — северное созвездие, поэтому все созвездие видно в какое-то время года во всем северном полушарии. Все созвездие также видно из экваториальных областей южного полушария, а части созвездия видны из умеренных южных областей.\r\n\r\nПлоскость Млечного Пути проходит через Лебедя, поэтому созвездие богато туманностями и звездными скоплениями. К ним относятся туманность Северная Америка (NGC 7000) и туманность Полумесяц (NGC 6888). Туманность Вуаль — огромный остаток сверхновой, части которого отмечены здесь как NGC 6960 и NGC 6992/5. Все вышеупомянутые туманности отмечены зелеными квадратами. Планетарная туманность NGC 6826 отмечена здесь зеленым кружком, наложенным на знак плюса. Рассеянные звездные скопления M29 и M39 отмечены здесь желтыми кружками.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звезд связаны с видимой звездной величиной, мерой их видимой яркости. Более крупные точки представляют более яркие звезды. Греческие буквы обозначают самые яркие звезды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зеленые линии обозначают одну из распространенных форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звезды, не видны на небе.",
+      "alt_en": "Cygnus looks like a swan in flight with the neck pointing to the lower right (south-west). Deneb is the tail",
+      "alt_ru": "Лебедь выглядит как летящий лебедь с шеей, направленной вправо вниз (на юго-запад). Денеб — это хвост",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        199,
+        211,
+        256,
+        286,
+        429,
+        466,
+        526
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "916af1bbffa8a2a914111603f93e92542c23951d0a79d130b2ef0ad81be8397d"
+    },
+    {
+      "id": "diagram:9p18tC71hh36",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/draco-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/9p18tC71hh36/",
+      "original_path": "data/media/original/diagram_9p18tC71hh36.png",
+      "ru_path": "data/media/ru/diagram_9p18tC71hh36.png",
+      "sha256": "5a5373947d6a3a426c165552894122a7e7128b4edfc9e2c22de353a4daaefcb9",
+      "size": 138128,
+      "title_en": "Draco Constellation Map",
+      "title_ru": "Карта созвездия Дракон",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Draco with its bright stars and surrounding constellations. Draco is surrounded by (going clockwise from the top): Cepheus, Ursa Minor, Boötes, Hercules, Lyra and Cygnus.\r\n\r\nDraco is a sprawling northern constellation, parts of which lie close to the celestial north pole. As such the whole constellation is visible at some point in the year from the whole northern hemisphere and a thin sliver of the southern hemisphere near the equator. Parts of the constellation are visible from all other southern equatorial and some southern temperate regions. Draco is best viewed in the evenings in the northern hemisphere summer and southern hemisphere winter.\r\n\r\nThe planetary nebula NGC 6543 (also known as the Cat’s Eye Nebula) lies in Draco. It is marked here with a green circle superimposed on a plus sign. \r\n\r\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Дракон с его яркими звёздами и окружающими созвездиями. Дракон окружён (по часовой стрелке сверху): Цефей, Малая Медведица, Волопас, Геркулес, Лира и Лебедь.\r\n\r\nДракон — обширное северное созвездие, части которого лежат близко к северному полюсу мира. Таким образом, всё созвездие видно в какое-то время года со всего северного полушария и узкой полосы южного полушария вблизи экватора. Части созвездия видны из всех других южных экваториальных и некоторых южных умеренных областей. Дракона лучше всего наблюдать вечерами летом в северном полушарии и зимой в южном полушарии.\r\n\r\nПланетарная туманность NGC 6543 (также известная как Туманность Кошачий Глаз) находится в Драконе. Она отмечена здесь зелёным кружком, наложенным на знак плюса.\r\n\r\nЭта диаграмма отображает область вокруг северного полюса мира. Здесь линии постоянного прямого восхождения сходятся. Значения прямого восхождения этих линий отмечены на оси X выше и ниже диаграммы. Некоторые из линий постоянного склонения отмечены на оси Y. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначена альфой, вторая по яркости — бетой и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Draco has the shape of a backward letter s rotated by 90 degrees",
+      "alt_ru": "Дракон имеет форму зеркально отражённой буквы s, повёрнутой на 90 градусов",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        217,
+        256,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "28f490f2f222172acb33e284c23fd1fd1b187e162ae08419fbda188c0dbdff93"
+    },
+    {
+      "id": "diagram:Mb93uM9dX96",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hydra-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Mb93uM9dX96/",
+      "original_path": "data/media/original/diagram_Mb93uM9dX96.png",
+      "ru_path": null,
+      "sha256": "87068abbfdf605dac9fab729487d8418575a2c9211b825fd9ec858b98049021c",
+      "size": 114598,
+      "title_en": "Hydra Constellation Map",
+      "title_ru": "Карта созвездия Гидры",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Hydra with its bright stars and surrounding constellations. Hydra is surrounded by (going clockwise from the top): Leo, Cancer, Canis Minor, Monoceros, Puppis, Pyxis, Antlia, Centaurus, Lupus, Libra, Virgo, Corvus, Crater and Sextans.\r\n\r\nHydra is a large constellation that covers over a quarter of the celestial sphere in right ascension. It also spans the celestial equator and thus part of the constellation is visible from everywhere on the Earth at some point in the year. All parts of the constellation are visible at some point for all but the most antarctic parts of the southern hemisphere and to equatorial and most temperate regions of the northern hemisphere. However the wide span of the constellation means that all of it may not be visible at the same time in many of these regions. Hydra is best viewed in the northern hemisphere spring and southern hemisphere autumn. \r\n\r\nThe famous spiral galaxy M83, also known as the Pinwheel Galaxy, lies in Hydra. It is marked here with a red ellipse. The planetary nebula NGC 3242 can also be found in Hydra. It is marked here with a green circle with a plus sign superimposed on it. The open cluster M48 is marked here with a yellow circle while the globular cluster M68 is marked with a yellow circle with a plus sign superimposed on it.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line on the diagram marks the ecliptic. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Гидры с его яркими звёздами и окружающими созвездиями. Гидра окружена (по часовой стрелке сверху): Львом, Раком, Малым Псом, Единорогом, Кормой, Компасом, Насосом, Центавром, Волком, Весами, Девой, Вороном, Чашей и Секстантом.\r\n\r\nГидра — большое созвездие, которое по прямому восхождению охватывает более четверти небесной сферы. Оно также пересекает небесный экватор, поэтому часть созвездия видна отовсюду на Земле в какое-то время года. Все части созвездия видны в какой-то момент для всех, кроме самых антарктических частей Южного полушария, а также для экваториальных и большинства умеренных регионов Северного полушария. Однако огромная протяжённость созвездия означает, что всё оно может быть не видно одновременно во многих из этих регионов. Гидру лучше всего наблюдать весной в Северном полушарии и осенью в Южном полушарии.\r\n\r\nИзвестная спиральная галактика M83, также известная как галактика Вертушка, находится в Гидре. Она отмечена здесь красным эллипсом. Планетарную туманность NGC 3242 также можно найти в Гидре. Она отмечена здесь зелёным кружком с наложенным знаком плюс. Рассеянное скопление M48 отмечено здесь жёлтым кружком, а шаровое скопление M68 — жёлтым кружком с наложенным знаком плюс.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной — мерой их видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия на диаграмме обозначает эклиптику. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Hydra is shaped like a snake going from the south east to the north west",
+      "alt_ru": "Гидра имеет форму змеи, идущей с юго-востока на северо-запад.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        132,
+        173,
+        256,
+        286,
+        330,
+        432,
+        466,
+        486
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:MZ50Rw73oK80",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/lyra-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/MZ50Rw73oK80/",
+      "original_path": "data/media/original/diagram_MZ50Rw73oK80.png",
+      "ru_path": null,
+      "sha256": "b95a0ef5b99ec04020ef7313040c227b44add2bcb1915c8ccd72afa3f6ce942d",
+      "size": 81994,
+      "title_en": "Lyra Constellation Map",
+      "title_ru": "Карта созвездия Лира",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Lyra with its bright stars and surrounding constellations. Lyra is surrounded by (going clockwise from the top): Draco, Hercules, Vulpecula and Cygnus. Lyra is dominated by its brightest star Vega which is used to define the zero point of one of the most commonly used magnitude scales of stellar brightness. Vega forms one vertex of the prominent Summer Triangle asterism that is visible in northern hemisphere summer evenings.\r\n\r\nLyra is a northern constellation and thus is visible at some point in the year throughout the northern hemisphere. The whole constellation is also visible from all equatorial and some temperate regions of the southern hemisphere. Parts of the constellation are visible from the remaining southern temperate areas. Lyra is best viewed in the evenings in the northern hemisphere summer and southern hemisphere winter. \r\n\r\nThe famous planetary nebula M57, commonly known as the Ring Nebula, lies in Lyra. It is marked here with a green circle superimposed on a plus sign. The globular cluster M56 also lies in Lyra and is marked here with a yellow circle with a plus sign superimposed on it.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Лира с его яркими звёздами и окружающими созвездиями. Лира окружена (по часовой стрелке сверху): Драконом, Геркулесом, Лисичкой и Лебедем. В Лире доминирует её самая яркая звезда Вега, которая используется для определения нулевой точки одной из наиболее часто используемых шкал звёздных величин. Вега образует одну из вершин заметного астеризма Летний Треугольник, видимого по вечерам летом в Северном полушарии.\r\n\r\nЛира — северное созвездие, и поэтому оно видно в какое-то время года по всему Северному полушарию. Всё созвездие также видно из всех экваториальных и некоторых умеренных областей Южного полушария. Части созвездия видны из остальных умеренных южных областей. Лучше всего Лира видна по вечерам летом в Северном полушарии и зимой в Южном полушарии. \r\n\r\nИзвестная планетарная туманность M57, обычно называемая Кольцевой туманностью, находится в Лире. Она отмечена здесь зелёным кружком, наложенным на знак плюс. Шаровое скопление M56 также находится в Лире и отмечено здесь жёлтым кружком со знаком плюс, наложенным на него.\r\n\r\nОсь Y на этой диаграмме — в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Lyra resembles a north-south parallelogram with a triangle joining its north west corner. Vega is one corner of that triangle",
+      "alt_ru": "Лира напоминает параллелограмм, вытянутый с севера на юг, с треугольником, примыкающим к его северо-западному углу. Вега является одним из углов этого треугольника",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        132,
+        256,
+        286,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:SN20Ne16hj18",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/perseus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/SN20Ne16hj18/",
+      "original_path": "data/media/original/diagram_SN20Ne16hj18.png",
+      "ru_path": "data/media/ru/diagram_SN20Ne16hj18.png",
+      "sha256": "d0af4a69fd540f9b5e9de597b6c9e5818917d334ddcc079a9e0a3ea16ce248f5",
+      "size": 119078,
+      "title_en": "Perseus Constellation Map",
+      "title_ru": "Карта созвездия Персей",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Perseus with its bright stars and surrounding constellations. Perseus is surrounded by (going clockwise from the top): Camelopardalis, Cassiopeia, Andromeda, Triangulum, Aries, Taurus and Auriga. Perseus is home to the notable variable star Algol.\r\n\r\nPerseus is a northern constellation and thus the whole constellation is visible at some point in the year throughout the northern hemisphere. The whole constellation is also visible to equatorial regions of the southern hemisphere with parts of the constellation visible to southern temperate regions. Perseus is best viewed in the evenings in the northern hemisphere winter and southern hemisphere summer. \r\n\r\nThe open clusters NGC 869 and NGC 884 (commonly known as the Double Cluster) lie in Perseus as does the open cluster M34. These are all marked with yellow circles. The brightest star in Perseus, Mirfak (alpha Persei), along with some of the surrounding stars are members of the Alpha Persei open cluster. The planetary nebula M76 also lies in Perseus, it is marked here with a green circle superimposed on a plus sign. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dot marking Algol is surrounded by a circle, showing it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line at the bottom left of the diagram marks the ecliptic. Neither the constellation boundaries, nor the lines joining the stars, nor the ecliptic, appear on the sky.",
+      "caption_ru": "Созвездие Персей с его яркими звёздами и окружающими созвездиями. Персей окружён (по часовой стрелке сверху): Жирафом, Кассиопеей, Андромедой, Треугольником, Овном, Тельцом и Возничим. В Персее находится примечательная переменная звезда Алголь.\r\n\r\nПерсей — северное созвездие, поэтому всё созвездие видно в какое-то время года на всей территории Северного полушария. Всё созвездие также видно в экваториальных областях Южного полушария, а части созвездия видны в южных умеренных областях. Лучше всего Персей наблюдать вечерами зимой в Северном полушарии и летом в Южном полушарии.\r\n\r\nВ Персее находятся рассеянные скопления NGC 869 и NGC 884 (обычно называемые Двойным скоплением), а также рассеянное скопление M34. Все они отмечены жёлтыми кружками. Самая яркая звезда в Персее, Мирфак (альфа Персея), вместе с некоторыми окружающими звёздами входит в рассеянное скопление Альфа Персея. В Персее также находится планетарная туманность M76; здесь она отмечена зелёным кружком, наложенным на знак плюса.\r\n\r\nОсь Y на этой диаграмме выражена в градусах склонения, причём север направлен вверх, а ось X — в часах прямого восхождения, причём восток направлен влево. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки обозначают более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они упорядочены по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Точка, обозначающая Алголь, окружена кружком, показывающим, что это переменная звезда. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия в левом нижнем углу диаграммы обозначает эклиптику. Ни границы созвездий, ни линии, соединяющие звёзды, ни эклиптика не видны на небе.",
+      "alt_en": "Perseus resembles a crudely-drawn person with a round body and head tilting to the north west",
+      "alt_ru": "Персей напоминает грубо нарисованного человека с круглым телом и головой, наклонённой к северо-западу",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        256,
+        286,
+        466,
+        485
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "fa06912846efb9168c24a06f58569ffdab37df97340356621769d0bc6b4cbcd0"
+    },
+    {
+      "id": "diagram:Yy23vm81eD90",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/vulpecula-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Yy23vm81eD90/",
+      "original_path": "data/media/original/diagram_Yy23vm81eD90.png",
+      "ru_path": null,
+      "sha256": "6af5d6557f32a1013c96247c8ef1e2769fe5614683049098c175666b95b0bcae",
+      "size": 100833,
+      "title_en": "Vulpecula Constellation Map",
+      "title_ru": "Карта созвездия Лисичка",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Vulpecula with its brighter stars and surrounding constellations. Vulpecula is surrounded by (going clockwise from the top): Cygnus, Lyra, Hercules, Sagitta, Delphinus and Pegasus.\r\n\r\nVulpecula is a northern constellation and thus the whole constellation is visible at some point in the year throughout the northern hemisphere. The whole constellation is also visible in equatorial and temperate regions of the southern hemisphere. Vulpecula is best viewed in the evening in the northern hemisphere early autumn and southern hemisphere early spring.\r\n\r\nThe planetary nebula M27, commonly known as the Dumbbell Nebula lies in Vulpecula and is marked here with a green cross superimposed on a plus sign. The open cluster NGC 6885 also lies in Vulpecula and is marked here with a yellow circle.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Лисичка с его более яркими звёздами и окружающими созвездиями. Лисичка окружена (по часовой стрелке сверху): Лебедем, Лирой, Геркулесом, Стрелой, Дельфином и Пегасом.\r\n\r\nЛисичка — северное созвездие, поэтому всё созвездие видно в какой-то момент года на всей территории северного полушария. Всё созвездие также видно в экваториальных и умеренных регионах южного полушария. Лисичку лучше всего наблюдать вечером в северном полушарии ранней осенью, а в южном полушарии — ранней весной.\r\n\r\nПланетарная туманность M27, обычно известная как туманность Гантель, находится в Лисичке и отмечена здесь зелёным крестом, наложенным на знак плюса. Рассеянное скопление NGC 6885 также находится в Лисичке и отмечено здесь жёлтым кружком.\r\n\r\nОсь Y на этой диаграмме выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "The stars in Vulpecula do not form a clear shape",
+      "alt_ru": "Звёзды в Лисичке не образуют чёткой фигуры",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        256,
+        286,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

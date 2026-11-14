@@ -1,0 +1,117 @@
+{
+  "id": "term:413",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 413,
+    "url": "https://astro4edu.org/resources/glossary/term/413/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=413",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:18.798597+00:00",
+    "sha256": "fa082f47e928b533ea81df1f3008c41ccd997ef5c27901f7a43646945545cb93"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [
+      "Cosmology",
+      "Galaxies"
+    ],
+    "category_ids": [
+      9,
+      8
+    ],
+    "categories_ru": [
+      "Космология",
+      "Галактики"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": 148,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Hubble Diagram",
+      "body": "The original Hubble diagram is a graph of velocity (y-axis) versus distance (x-axis) of galaxies. The graph shows a linear relationship between velocity and distance, providing evidence that distant galaxies are moving away faster than closer galaxies, and overall galaxies seem to be moving away from \"us\". This is used as one line of evidence for an expanding Universe. The slope (gradient) of the line is referred to as the Hubble parameter (H), and the equation of the line is called the Hubble–Lemaître Law. The value of the Hubble parameter in the current era (13.8 billion years after the Big Bang) is called the Hubble constant (H₀). Modern iterations of the Hubble diagram, based on observations of Type Ia supernovae, plot distance modulus (indirect measure of distance using brightness) versus redshift. In fact, the velocity of galaxies in the original Hubble diagram is measured indirectly from the redshift.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Redshift",
+          "url": "https://www.astro4edu.org/resources/glossary/term/471/",
+          "text_ru": "Красное смещение"
+        },
+        {
+          "text": "Standard Candle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/476/",
+          "text_ru": "Стандартная свеча"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Hubble Diagram</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Hubble Parameter</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The original Hubble diagram is a graph of velocity (y-axis) versus distance (x-axis) of galaxies. The graph shows a linear relationship between velocity and distance, providing evidence that distant galaxies are moving away faster than closer galaxies, and overall galaxies seem to be moving away from \"us\". This is used as one line of evidence for an expanding Universe. The slope (gradient) of the line is referred to as the Hubble parameter (H), and the equation of the line is called the Hubble–Lemaître Law. The value of the Hubble parameter in the current era (13.8 billion years after the Big Bang) is called the Hubble constant (H₀). Modern iterations of the Hubble diagram, based on observations of Type Ia supernovae, plot distance modulus (indirect measure of distance using brightness) versus redshift. In fact, the velocity of galaxies in the original Hubble diagram is measured indirectly from the redshift.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/471/\">Redshift</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/476/\">Standard Candle</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Диаграмма Хаббла",
+      "body_ru": "Оригинальная диаграмма Хаббла представляет собой график зависимости скорости (ось y) от расстояния (ось x) для галактик. График показывает линейную зависимость между скоростью и расстоянием, что свидетельствует о том, что далёкие галактики удаляются быстрее, чем близкие, и в целом галактики, по-видимому, удаляются от «нас». Это используется как одно из доказательств расширяющейся Вселенной. Наклон (градиент) линии называется параметром Хаббла (H), а уравнение линии — законом Хаббла–Леметра. Значение параметра Хаббла в современную эпоху (13.8 миллиардов лет после Большого взрыва) называется постоянной Хаббла (H₀). Современные версии диаграммы Хаббла, основанные на наблюдениях сверхновых типа Ia, строят зависимость модуля расстояния (косвенной меры расстояния по яркости) от красного смещения. Фактически, скорость галактик на оригинальной диаграмме Хаббла измеряется косвенно по красному смещению."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/148/\">مخطط هابل </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/148/\">Hubble-Diagramm </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/148/\">Diagrama de Hubble </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/148/\">Diagramme de Hubble </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/148/\">Diagramma di Hubble </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/148/\">Diagrama de Hubble </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/148/\">哈勃图 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/148/\">哈勃圖 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Hubble Parameter",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Hubble Diagram",
+          "body": "The original Hubble diagram is a graph of velocity (y-axis) versus distance (x-axis) of galaxies. The graph shows a linear relationship between velocity and distance, providing evidence that distant galaxies are moving away faster than closer galaxies, and overall galaxies seem to be moving away from \"us\". This is used as one line of evidence for an expanding Universe. The slope (gradient) of the line is referred to as the Hubble parameter (H), and the equation of the line is called the Hubble–Lemaître Law. The value of the Hubble parameter in the current era (13.8 billion years after the Big Bang) is called the Hubble constant (H₀). Modern iterations of the Hubble diagram, based on observations of Type Ia supernovae, plot distance modulus (indirect measure of distance using brightness) versus redshift. In fact, the velocity of galaxies in the original Hubble diagram is measured indirectly from the redshift."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Параметр Хаббла",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Диаграмма Хаббла",
+          "body": "Оригинальная диаграмма Хаббла представляет собой график зависимости скорости (ось y) от расстояния (ось x) для галактик. График показывает линейную зависимость между скоростью и расстоянием, что свидетельствует о том, что далёкие галактики удаляются быстрее, чем близкие, и в целом галактики, по-видимому, удаляются от «нас». Это используется как одно из доказательств расширяющейся Вселенной. Наклон (градиент) линии называется параметром Хаббла (H), а уравнение линии — законом Хаббла–Леметра. Значение параметра Хаббла в современную эпоху (13.8 миллиардов лет после Большого взрыва) называется постоянной Хаббла (H₀). Современные версии диаграммы Хаббла, основанные на наблюдениях сверхновых типа Ia, строят зависимость модуля расстояния (косвенной меры расстояния по яркости) от красного смещения. Фактически, скорость галактик на оригинальной диаграмме Хаббла измеряется косвенно по красному смещению."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

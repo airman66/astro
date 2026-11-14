@@ -1,0 +1,181 @@
+{
+  "id": "term:185",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 185,
+    "url": "https://astro4edu.org/resources/glossary/term/185/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=185",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:13.297092+00:00",
+    "sha256": "012fe0b217eb4225ece3913e18ac6db2e32bc3794bf95ff5e6f68d6bf41667e3"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      2,
+      15,
+      45,
+      180,
+      455
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Magnitude",
+      "body": "In astronomy, the magnitude is a measure of how bright  a celestial object is. The magnitude system used in astronomy originated in antiquity as a ranking of stars from the brightest to the least bright. That is why a smaller (or more negative) magnitude value means that the object is brighter, and a larger number means a fainter object. Hence a star with magnitude -1 is brighter than a star with magnitude 0 which in turn is brighter than a star of magnitude 1. Magnitude has a logarithmic scale, in which a magnitude difference of five corresponds to a factor of 100 difference in the amount of energy received: a star with magnitude 10  is a hundred times dimmer than a star with magnitude 5. There are different types of magnitude: apparent magnitude measures the apparent brightness of an object, which depends both on the object's luminosity – how much light the object emits – and on its distance from Earth. In contrast, the absolute magnitude is the value we would obtain if the object were at a standard distance of 10 parsecs (32.6 light years) from Earth. (For reflecting objects such as asteroids, there is a different definition.) In practice, magnitude is specified for observations through a specific filter, corresponding to an object's brightness in a given wavelength range of light. Numerous \"photometric systems\" for specifying filters, and corresponding magnitudes, exist.  In contrast, the bolometric magnitude is a direct measure of the luminosity of an object: the total electromagnetic energy emitted in unit time. Visual magnitudes correspond to the brightness as perceived by the human eye.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Absolute Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/2/",
+          "text_ru": "Абсолютная звёздная величина"
+        },
+        {
+          "text": "Apparent Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/15/",
+          "text_ru": "Видимая звёздная величина"
+        },
+        {
+          "text": "Brightness",
+          "url": "https://www.astro4edu.org/resources/glossary/term/45/",
+          "text_ru": "Яркость"
+        },
+        {
+          "text": "Luminosity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/180/",
+          "text_ru": "Светимость"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Magnitude</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In astronomy, the magnitude is a measure of how bright  a celestial object is. The magnitude system used in astronomy originated in antiquity as a ranking of stars from the brightest to the least bright. That is why a smaller (or more negative) magnitude value means that the object is brighter, and a larger number means a fainter object. Hence a star with magnitude -1 is brighter than a star with magnitude 0 which in turn is brighter than a star of magnitude 1.<br/><br/>Magnitude has a logarithmic scale, in which a magnitude difference of five corresponds to a factor of 100 difference in the amount of energy received: a star with magnitude 10  is a hundred times dimmer than a star with magnitude 5. <br/><br/>There are different types of magnitude: apparent magnitude measures the apparent brightness of an object, which depends both on the object's luminosity – how much light the object emits – and on its distance from Earth. <br/><br/>In contrast, the absolute magnitude is the value we would obtain if the object were at a standard distance of 10 parsecs (32.6 light years) from Earth. (For reflecting objects such as asteroids, there is a different definition.) <br/><br/>In practice, magnitude is specified for observations through a specific filter, corresponding to an object's brightness in a given wavelength range of light. Numerous \"photometric systems\" for specifying filters, and corresponding magnitudes, exist.  In contrast, the bolometric magnitude is a direct measure of the luminosity of an object: the total electromagnetic energy emitted in unit time. Visual magnitudes correspond to the brightness as perceived by the human eye.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/2/\">Absolute Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/15/\">Apparent Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/45/\">Brightness</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/180/\">Luminosity</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звёздная величина",
+      "body_ru": "В астрономии звёздная величина — это мера того, насколько ярким является небесный объект. Система звёздных величин, используемая в астрономии, возникла в древности как ранжирование звёзд от самых ярких к наименее ярким. Именно поэтому меньшее (или более отрицательное) значение звёздной величины означает, что объект ярче, а большее число означает более слабый объект. Следовательно, звезда с величиной -1 ярче звезды с величиной 0, которая, в свою очередь, ярче звезды с величиной 1. Звёздная величина имеет логарифмическую шкалу, в которой разница в пять величин соответствует различию в 100 раз в количестве получаемой энергии: звезда с величиной 10 в сто раз тусклее звезды с величиной 5. Существуют различные типы звёздных величин: видимая звёздная величина измеряет видимую яркость объекта, которая зависит как от светимости объекта — сколько света объект излучает — так и от его расстояния от Земли. Напротив, абсолютная звёздная величина — это значение, которое мы получили бы, если бы объект находился на стандартном расстоянии 10 парсек (32.6 световых лет) от Земли. (Для отражающих объектов, таких как астероиды, существует другое определение.) На практике звёздная величина указывается для наблюдений через определённый фильтр, соответствующий яркости объекта в заданном диапазоне длин волн света. Существует множество «фотометрических систем» для задания фильтров и соответствующих звёздных величин. Напротив, болометрическая звёздная величина — это прямая мера светимости объекта: полная электромагнитная энергия, излучаемая в единицу времени. Визуальные звёздные величины соответствуют яркости, воспринимаемой человеческим глазом."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "等級 (external link)",
+          "url": "https://astro-dic.jp/magnitude/",
+          "text_ru": "Звёздная величина (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/185/\">القدر الظاهري </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/185/\">Magnitude </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/185/\">Magnitud </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/185/\">Magnitude </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/185/\">Magnitudo </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/magnitude/\">等級 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/185/\">등급 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/185/\">Magnitude </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/185/\">星等 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/185/\">星等 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities How Light Pollution Affects the Stars: Magnitude Readers astroEDU educational activity (links to astroEDU website) Description: Build a Magnitude Reader to explore the magnitude of stars. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Dark skies \n  \n  , ecology Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Planning and carrying out investigations Let's play with powers of 10 astroEDU educational activity (links to astroEDU website) Description: A game of cards to understand powers of 10 and the very diverse scales in Nature License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Scales \n  \n  , Game \n  \n  , Distances \n  \n  , size \n  \n  , Power \n  \n  , length Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Secondary \n  \n, University Areas of Learning: Guided-discovery learning \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/how-light-pollution-affects-the-stars-magnitude-readers/\"><img alt=\"How Light Pollution Affects the Stars: Magnitude Readers\" src=\"/media/astroedu/images/how-light-pollution-affects-the-stars-magnitude-readers_en_thumbnail_qul1IT9.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/how-light-pollution-affects-the-stars-magnitude-readers/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">How Light Pollution Affects the Stars: Magnitude Readers</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a Magnitude Reader to explore the magnitude of stars.\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Dark skies \n  \n  , ecology \n  \n  \n\n  <b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n\n\n\n\n  <b>Education Level:</b>\n\nMiddle School \n  \n\n\n\n  <b>Areas of Learning:</b>\n\nModelling \n  \n, Observation based \n  \n\n\n\n\n  <b>Costs:</b>\nMedium Cost \n\n\n\n\n  <b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/lets-play-with-powers-of-10/\"><img alt=\"Let's play with powers of 10\" src=\"/media/astroedu/images/lets-play-with-powers-of-10_en_thumbnail_ekqpbaT.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/lets-play-with-powers-of-10/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Let's play with powers of 10</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>A game of cards to understand powers of 10 and the very diverse scales in Nature\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Scales \n  \n  , Game \n  \n  , Distances \n  \n  , size \n  \n  , Power \n  \n  , length \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Secondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Как световое загрязнение влияет на звёзды: измеритель звёздной величины Образовательная деятельность astroEDU (ссылки на сайт astroEDU) Описание: Создайте измеритель звёздной величины, чтобы исследовать звёздные величины. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Тёмное небо \n  \n  , экология Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: Моделирование \n  \n, Наблюдение Стоимость: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов \n  \n, Планирование и проведение исследований Поиграем со степенями 10 Образовательная деятельность astroEDU (ссылки на сайт astroEDU) Описание: Карточная игра для понимания степеней 10 и очень разнообразных масштабов в природе Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Масштабы \n  \n  , Игра \n  \n  , Расстояния \n  \n  , размер \n  \n  , Степень \n  \n  , длина Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Среднее \n  \n, Университет Области обучения: Обучение через открытие \n  \n, Структурированное исследовательское обучение Стоимость: Низкая стоимость Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Magnitude",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Magnitude",
+          "body": "In astronomy, the magnitude is a measure of how bright  a celestial object is. The magnitude system used in astronomy originated in antiquity as a ranking of stars from the brightest to the least bright. That is why a smaller (or more negative) magnitude value means that the object is brighter, and a larger number means a fainter object. Hence a star with magnitude -1 is brighter than a star with magnitude 0 which in turn is brighter than a star of magnitude 1. Magnitude has a logarithmic scale, in which a magnitude difference of five corresponds to a factor of 100 difference in the amount of energy received: a star with magnitude 10  is a hundred times dimmer than a star with magnitude 5. There are different types of magnitude: apparent magnitude measures the apparent brightness of an object, which depends both on the object's luminosity – how much light the object emits – and on its distance from Earth. In contrast, the absolute magnitude is the value we would obtain if the object were at a standard distance of 10 parsecs (32.6 light years) from Earth. (For reflecting objects such as asteroids, there is a different definition.) In practice, magnitude is specified for observations through a specific filter, corresponding to an object's brightness in a given wavelength range of light. Numerous \"photometric systems\" for specifying filters, and corresponding magnitudes, exist.  In contrast, the bolometric magnitude is a direct measure of the luminosity of an object: the total electromagnetic energy emitted in unit time. Visual magnitudes correspond to the brightness as perceived by the human eye."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities How Light Pollution Affects the Stars: Magnitude Readers astroEDU educational activity (links to astroEDU website) Description: Build a Magnitude Reader to explore the magnitude of stars. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Dark skies \n  \n  , ecology Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Planning and carrying out investigations Let's play with powers of 10 astroEDU educational activity (links to astroEDU website) Description: A game of cards to understand powers of 10 and the very diverse scales in Nature License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Scales \n  \n  , Game \n  \n  , Distances \n  \n  , size \n  \n  , Power \n  \n  , length Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Secondary \n  \n, University Areas of Learning: Guided-discovery learning \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions"
+        }
+      }
+    },
+    "ru": {
+      "title": "Звёздная величина",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звёздная величина",
+          "body": "В астрономии звёздная величина — это мера того, насколько ярким является небесный объект. Система звёздных величин, используемая в астрономии, возникла в древности как ранжирование звёзд от самых ярких к наименее ярким. Именно поэтому меньшее (или более отрицательное) значение звёздной величины означает, что объект ярче, а большее число означает более слабый объект. Следовательно, звезда с величиной -1 ярче звезды с величиной 0, которая, в свою очередь, ярче звезды с величиной 1. Звёздная величина имеет логарифмическую шкалу, в которой разница в пять величин соответствует различию в 100 раз в количестве получаемой энергии: звезда с величиной 10 в сто раз тусклее звезды с величиной 5. Существуют различные типы звёздных величин: видимая звёздная величина измеряет видимую яркость объекта, которая зависит как от светимости объекта — сколько света объект излучает — так и от его расстояния от Земли. Напротив, абсолютная звёздная величина — это значение, которое мы получили бы, если бы объект находился на стандартном расстоянии 10 парсек (32.6 световых лет) от Земли. (Для отражающих объектов, таких как астероиды, существует другое определение.) На практике звёздная величина указывается для наблюдений через определённый фильтр, соответствующий яркости объекта в заданном диапазоне длин волн света. Существует множество «фотометрических систем» для задания фильтров и соответствующих звёздных величин. Напротив, болометрическая звёздная величина — это прямая мера светимости объекта: полная электромагнитная энергия, излучаемая в единицу времени. Визуальные звёздные величины соответствуют яркости, воспринимаемой человеческим глазом."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Как световое загрязнение влияет на звёзды: измеритель звёздной величины Образовательная деятельность astroEDU (ссылки на сайт astroEDU) Описание: Создайте измеритель звёздной величины, чтобы исследовать звёздные величины. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Тёмное небо \n  \n  , экология Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: Моделирование \n  \n, Наблюдение Стоимость: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов \n  \n, Планирование и проведение исследований Поиграем со степенями 10 Образовательная деятельность astroEDU (ссылки на сайт astroEDU) Описание: Карточная игра для понимания степеней 10 и очень разнообразных масштабов в природе Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Масштабы \n  \n  , Игра \n  \n  , Расстояния \n  \n  , размер \n  \n  , Степень \n  \n  , длина Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Среднее \n  \n, Университет Области обучения: Обучение через открытие \n  \n, Структурированное исследовательское обучение Стоимость: Низкая стоимость Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

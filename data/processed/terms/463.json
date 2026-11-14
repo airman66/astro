@@ -1,0 +1,229 @@
+{
+  "id": "term:463",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 463,
+    "url": "https://astro4edu.org/resources/glossary/term/463/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=463",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:36.139900+00:00",
+    "sha256": "3218b9d2255aafe0418fcc865e61f1c46e0daad9e5ff8c01b9628e8d7bf6e6be"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      150,
+      186,
+      325,
+      333,
+      396,
+      440,
+      515
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: O-type Star",
+      "body": "A star with spectral type \"O\". Astronomers identify O-type stars by the presence of absorption lines from ionized helium in their spectra. They have typical (effective) temperatures greater than around 30,000 kelvins (K). Compared to other stars, they appear bluish-white to human eyes unless interstellar or atmospheric reddening is important. O-type stars are the hottest and bluest of the main spectral classifications. O-type stars on the main sequence have the highest masses (greater than about 15 solar masses), shortest hydrogen burning lifetimes, and, as a result, are mostly found in and around star-forming regions.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Hydrogen Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/150/",
+          "text_ru": "Водородный синтез"
+        },
+        {
+          "text": "Main Sequence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/186/",
+          "text_ru": "Главная последовательность"
+        },
+        {
+          "text": "Spectral Type",
+          "url": "https://www.astro4edu.org/resources/glossary/term/325/",
+          "text_ru": "Спектральный класс"
+        },
+        {
+          "text": "Star Formation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/333/",
+          "text_ru": "Звёздообразование"
+        },
+        {
+          "text": "Reddening",
+          "url": "https://www.astro4edu.org/resources/glossary/term/396/",
+          "text_ru": "Покраснение"
+        },
+        {
+          "text": "Effective Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/440/",
+          "text_ru": "Эффективная температура"
+        },
+        {
+          "text": "Absorption Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/515/",
+          "text_ru": "Линия поглощения"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: O-type Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>O star</b> or <b>O-type star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A star with spectral type \"O\". Astronomers identify O-type stars by the presence of absorption lines from ionized helium in their spectra. They have typical (effective) temperatures greater than around 30,000 kelvins (K). Compared to other stars, they appear bluish-white to human eyes unless interstellar or atmospheric reddening is important. O-type stars are the hottest and bluest of the main spectral classifications. O-type stars on the main sequence have the highest masses (greater than about 15 solar masses), shortest hydrogen burning lifetimes, and, as a result, are mostly found in and around star-forming regions.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/150/\">Hydrogen Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/186/\">Main Sequence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/325/\">Spectral Type</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/333/\">Star Formation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/396/\">Reddening</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/440/\">Effective Temperature</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/515/\">Absorption Line</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звезда типа O",
+      "body_ru": "Звезда спектрального типа \"O\". Астрономы идентифицируют звёзды типа O по наличию линий поглощения ионизированного гелия в их спектрах. Они имеют типичные (эффективные) температуры выше примерно 30,000 кельвинов (K). По сравнению с другими звёздами они кажутся человеческому глазу голубовато-белыми, если только межзвёздное или атмосферное покраснение не является значительным. Звёзды типа O — самые горячие и самые голубые из основных спектральных классов. Звёзды типа O на главной последовательности имеют самые высокие массы (больше примерно 15 солнечных масс), самое короткое время жизни при горении водорода и, как следствие, в основном встречаются в областях звездообразования и вокруг них."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "O型星 (external link)",
+          "url": "https://astro-dic.jp/o-type-star/",
+          "text_ru": "Звезда класса O (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/463/\">نجمة من النوع أو </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/463/\">O-Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/463/\">Estrella de tipo O </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/463/\">Étoile de type O </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/463/\">Stella di tipo O </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/o-type-star/\">O型星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/463/\">Estrela tipo O </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/463/\">O型星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/463/\">O型星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/m5801x5SA50/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:m5801x5SA50"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/m5801x5SA50/\"><img alt=\"A smooth line declining at longer wavelengths with a few sharp dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-an-o-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of an O-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the O-type star HD 235673 with wavelength in nanometers on the x-axis and flux on the y-axis. The top part of the plot shows the same spectrum but with bright patches for wavelengths with high flux and dark patches for wavelengths with low flux. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. For O-type stars the most important features are a small number of lines caused by ionized helium. These lines are stronger in O-type stars than in cooler stars. Lines from helium atoms and hydrogen atoms also appear in the spectrum. The spectrum has more flux at the blue end of the spectrum than at the red end of the spectrum.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "O-type Star",
+      "aliases": [
+        "O star",
+        "O-type star"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: O-type Star",
+          "body": "A star with spectral type \"O\". Astronomers identify O-type stars by the presence of absorption lines from ionized helium in their spectra. They have typical (effective) temperatures greater than around 30,000 kelvins (K). Compared to other stars, they appear bluish-white to human eyes unless interstellar or atmospheric reddening is important. O-type stars are the hottest and bluest of the main spectral classifications. O-type stars on the main sequence have the highest masses (greater than about 15 solar masses), shortest hydrogen burning lifetimes, and, as a result, are mostly found in and around star-forming regions."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда типа O",
+      "aliases": [
+        "Звезда O",
+        "Звезда типа O"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звезда типа O",
+          "body": "Звезда спектрального типа \"O\". Астрономы идентифицируют звёзды типа O по наличию линий поглощения ионизированного гелия в их спектрах. Они имеют типичные (эффективные) температуры выше примерно 30,000 кельвинов (K). По сравнению с другими звёздами они кажутся человеческому глазу голубовато-белыми, если только межзвёздное или атмосферное покраснение не является значительным. Звёзды типа O — самые горячие и самые голубые из основных спектральных классов. Звёзды типа O на главной последовательности имеют самые высокие массы (больше примерно 15 солнечных масс), самое короткое время жизни при горении водорода и, как следствие, в основном встречаются в областях звездообразования и вокруг них."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:m5801x5SA50",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-an-o-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/m5801x5SA50/",
+      "original_path": "data/media/original/diagram_m5801x5SA50.png",
+      "ru_path": "data/media/ru/diagram_m5801x5SA50.png",
+      "sha256": "3e3252999e602f4f0ea9b9ee933627617a7ad585f3c8f5660bb6775e5bd4d81b",
+      "size": 77137,
+      "title_en": "Spectrum of an O-type star",
+      "title_ru": "Спектр звезды O-типа",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the O-type star HD 235673 with wavelength in nanometers on the x-axis and flux on the y-axis. The top part of the plot shows the same spectrum but with bright patches for wavelengths with high flux and dark patches for wavelengths with low flux. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. For O-type stars the most important features are a small number of lines caused by ionized helium. These lines are stronger in O-type stars than in cooler stars. Lines from helium atoms and hydrogen atoms also appear in the spectrum. The spectrum has more flux at the blue end of the spectrum than at the red end of the spectrum.",
+      "caption_ru": "Спектр звезды O-типа HD 235673 с длиной волны в нанометрах по оси x и потоком по оси y. В верхней части графика показан тот же спектр, но с яркими участками для длин волн с высоким потоком и тёмными участками для длин волн с низким потоком. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. Для звёзд O-типа наиболее важными особенностями являются немногочисленные линии, вызванные ионизированным гелием. Эти линии сильнее у звёзд O-типа, чем у более холодных звёзд. В спектре также появляются линии атомов гелия и водорода. Спектр имеет больший поток в синем конце спектра, чем в красном.",
+      "alt_en": "A smooth line declining at longer wavelengths with a few sharp dips.",
+      "alt_ru": "Плавная линия, убывающая на больших длинах волн, с несколькими резкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        328,
+        382,
+        463
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "d43f29c159db66f713bf416e32c2065c2fceb11d1c4e72ff7d8b4a593d000fc7"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

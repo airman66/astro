@@ -1,0 +1,286 @@
+{
+  "id": "term:130",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 130,
+    "url": "https://astro4edu.org/resources/glossary/term/130/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=130",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:53.892168+00:00",
+    "sha256": "fa027dbfcaa64527eb334fd3db25428b7719272e6f04f05662b6604ef7767476"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Stars"
+    ],
+    "category_ids": [
+      4,
+      2
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      221,
+      277,
+      331
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Giant Star",
+      "body": "Giant stars, giants for short, are stars that are unusually large and luminous, compared with other stars that have the same color. Stars do not start out as giants; instead, they intermittently become giants at various stages of their evolution. For most stars that are not giants, there is a direct relation between their color and their luminosity (that is, the energy they emit over time). Those stars are called \"main sequence stars\", and their energy emissions are powered by the nuclear fusion of hydrogen into helium in their cores.  When the hydrogen supply in the core is exhausted, hydrogen fusion continues in a shell around the core and the star expands to become much more luminous and redder. Eventually the temperature in the center may be high enough that the nuclear fusion of elements heavier than hydrogen becomes possible, providing an additional energy source for the star. In the course of this conversion, such stars expand to a much larger size, cool down to become more reddish, and overall become much more luminous – they become what is known as red giant stars, red giants for short. The Sun, for instance, will be hundreds of times larger and brighter as well as much cooler when it expands to become a red giant star. For stars of different masses, additional, often short-lived phases of evolution sees those stars become blue giants, or even more luminous red or blue supergiants. Giants are classified as luminosity class III, brighter than subgiants (class IV) but fainter that bright giants (class II) and supergiants (class I). Overall, giant stars are rare. This is due to the relatively short duration of the giant phase (for a star like the Sun a few hundred million years vs ten billion on the main sequence). But given their high luminosity, they are significantly over-represented among the stars that are visible to the naked eye in the night sky. Examples of red giants include Arcturus, in the constellation Boötes, and Mira, in Cetus.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Red Giant",
+          "url": "https://www.astro4edu.org/resources/glossary/term/277/",
+          "text_ru": "Красный гигант"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Giant Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Giant stars, giants for short, are stars that are unusually large and luminous, compared with other stars that have the same color. Stars do not start out as giants; instead, they intermittently become giants at various stages of their evolution.<br/><br/>For most stars that are not giants, there is a direct relation between their color and their luminosity (that is, the energy they emit over time). Those stars are called \"main sequence stars\", and their energy emissions are powered by the nuclear fusion of hydrogen into helium in their cores.  When the hydrogen supply in the core is exhausted, hydrogen fusion continues in a shell around the core and the star expands to become much more luminous and redder. Eventually the temperature in the center may be high enough that the nuclear fusion of elements heavier than hydrogen becomes possible, providing an additional energy source for the star. In the course of this conversion, such stars expand to a much larger size, cool down to become more reddish, and overall become much more luminous – they become what is known as red giant stars, red giants for short. The Sun, for instance, will be hundreds of times larger and brighter as well as much cooler when it expands to become a red giant star. For stars of different masses, additional, often short-lived phases of evolution sees those stars become blue giants, or even more luminous red or blue supergiants.<br/><br/>Giants are classified as luminosity class III, brighter than subgiants (class IV) but fainter that bright giants (class II) and supergiants (class I).<br/><br/>Overall, giant stars are rare. This is due to the relatively short duration of the giant phase (for a star like the Sun a few hundred million years vs ten billion on the main sequence). But given their high luminosity, they are significantly over-represented among the stars that are visible to the naked eye in the night sky.<br/><br/>Examples of red giants include Arcturus, in the constellation Boötes, and Mira, in Cetus.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/277/\">Red Giant</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Гигантская звезда",
+      "body_ru": "Гигантские звёзды, или просто гиганты, — это звёзды, которые необычно велики и светимы по сравнению с другими звёздами того же цвета. Звёзды не рождаются гигантами; вместо этого они периодически становятся гигантами на различных этапах своей эволюции. Для большинства звёзд, не являющихся гигантами, существует прямая связь между их цветом и светимостью (то есть энергией, которую они излучают за единицу времени). Такие звёзды называются «звёздами главной последовательности», и их энерговыделение обеспечивается термоядерным синтезом водорода в гелий в их ядрах. Когда запас водорода в ядре исчерпывается, синтез водорода продолжается в оболочке вокруг ядра, и звезда расширяется, становясь гораздо более светимой и более красной. В конечном итоге температура в центре может стать достаточно высокой, чтобы стал возможен термоядерный синтез элементов тяжелее водорода, что даёт звезде дополнительный источник энергии. В ходе этого превращения такие звёзды расширяются до гораздо большего размера, остывают, становясь более красноватыми, и в целом становятся гораздо более светимыми — они становятся так называемыми красными гигантами, или просто красными гигантами. Солнце, например, станет в сотни раз больше и ярче, а также гораздо холоднее, когда расширится и станет красным гигантом. Для звёзд разной массы дополнительные, часто короткоживущие фазы эволюции приводят к тому, что эти звёзды становятся голубыми гигантами или даже более светимыми красными или голубыми сверхгигантами. Гиганты относятся к классу светимости III, они ярче субгигантов (класс IV), но слабее ярких гигантов (класс II) и сверхгигантов (класс I). В целом гигантские звёзды редки. Это связано с относительно короткой продолжительностью фазы гиганта (для звезды, подобной Солнцу, — несколько сотен миллионов лет против десяти миллиардов на главной последовательности). Но благодаря их высокой светимости они значительно перепредставлены среди звёзд, видимых невооружённым глазом на ночном небе. Примеры красных гигантов включают Арктур в созвездии Волопаса и Миру в созвездии Кита."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "巨星 (external link)",
+          "url": "https://astro-dic.jp/giant-star/",
+          "text_ru": "гигант (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/130/\">النجم العملاق </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/130/\">Riesenstern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/130/\">Estrella gigante </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/130/\">ستاره غول </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/130/\">Étoile géante </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/130/\">Stella gigante </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/giant-star/\">巨星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/130/\">거성 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/130/\">Estrela gigante </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/130/\">巨星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/130/\">巨星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/6H69M193VT57/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/germany/images/potw1726a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:6H69M193VT57"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/6H69M193VT57/\"><img alt=\"The nearby red supergiant Betelgeuse, seen as orange blob showing a non-symmetric shape with a bright spot to the upper left\" src=\"/media/multimedia/thumbnails/the-red-supergiant-betelgeuse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The red supergiant Betelgeuse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The image shows Betelgeuse, a red supergiant in the constellation Orion, observed by the Atacama Large Millimeter/submillimeter Array (ALMA). ALMA consists of many antennae spread across a plain in Northern Chile. The observations from all of these receivers is synthesised together by a central computer to form an image. The wide distances between the antennae mean that is can resolve very fine details.   \n\nMost stars we observe are just seen as points of light, but Betelgeuse is so large (with a radius about 1,400 times larger than the Sun) and is sufficiently nearby that it is one of the few stars to have been resolved to show it as an extended object. \n\nBetelgeuse is a massive star, more than 14 times the mass of the Sun and is relatively young for a star (less than 14 million years old). However, its high mass led to it having a very hot core which burned through its hydrogen fuel quickly. It has since evolved through many stages and now appears as a red supergiant, it's final stage before exploding as a supernova. When such an explosion will happen is not known for certain, but it could be in around 100,000 years. Such an explosion would be visible from Earth, even during the day.<br/>\n<b>Credit:</b> ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella\n\t  <a href=\"https://www.eso.org/public/germany/images/potw1726a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/iq40Hc92ni31/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:iq40Hc92ni31"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/iq40Hc92ni31/\"><img alt=\"A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line\" src=\"/media/diagrams/multimedia/thumbnails/hr_diagram_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hertzsprung-Russell diagram</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\n \nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\n \nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.<br/>\n<b>Credit:</b> IAU OAE/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Giant Star",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Giant Star",
+          "body": "Giant stars, giants for short, are stars that are unusually large and luminous, compared with other stars that have the same color. Stars do not start out as giants; instead, they intermittently become giants at various stages of their evolution. For most stars that are not giants, there is a direct relation between their color and their luminosity (that is, the energy they emit over time). Those stars are called \"main sequence stars\", and their energy emissions are powered by the nuclear fusion of hydrogen into helium in their cores.  When the hydrogen supply in the core is exhausted, hydrogen fusion continues in a shell around the core and the star expands to become much more luminous and redder. Eventually the temperature in the center may be high enough that the nuclear fusion of elements heavier than hydrogen becomes possible, providing an additional energy source for the star. In the course of this conversion, such stars expand to a much larger size, cool down to become more reddish, and overall become much more luminous – they become what is known as red giant stars, red giants for short. The Sun, for instance, will be hundreds of times larger and brighter as well as much cooler when it expands to become a red giant star. For stars of different masses, additional, often short-lived phases of evolution sees those stars become blue giants, or even more luminous red or blue supergiants. Giants are classified as luminosity class III, brighter than subgiants (class IV) but fainter that bright giants (class II) and supergiants (class I). Overall, giant stars are rare. This is due to the relatively short duration of the giant phase (for a star like the Sun a few hundred million years vs ten billion on the main sequence). But given their high luminosity, they are significantly over-represented among the stars that are visible to the naked eye in the night sky. Examples of red giants include Arcturus, in the constellation Boötes, and Mira, in Cetus."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда-гигант",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Гигантская звезда",
+          "body": "Гигантские звёзды, или просто гиганты, — это звёзды, которые необычно велики и светимы по сравнению с другими звёздами того же цвета. Звёзды не рождаются гигантами; вместо этого они периодически становятся гигантами на различных этапах своей эволюции. Для большинства звёзд, не являющихся гигантами, существует прямая связь между их цветом и светимостью (то есть энергией, которую они излучают за единицу времени). Такие звёзды называются «звёздами главной последовательности», и их энерговыделение обеспечивается термоядерным синтезом водорода в гелий в их ядрах. Когда запас водорода в ядре исчерпывается, синтез водорода продолжается в оболочке вокруг ядра, и звезда расширяется, становясь гораздо более светимой и более красной. В конечном итоге температура в центре может стать достаточно высокой, чтобы стал возможен термоядерный синтез элементов тяжелее водорода, что даёт звезде дополнительный источник энергии. В ходе этого превращения такие звёзды расширяются до гораздо большего размера, остывают, становясь более красноватыми, и в целом становятся гораздо более светимыми — они становятся так называемыми красными гигантами, или просто красными гигантами. Солнце, например, станет в сотни раз больше и ярче, а также гораздо холоднее, когда расширится и станет красным гигантом. Для звёзд разной массы дополнительные, часто короткоживущие фазы эволюции приводят к тому, что эти звёзды становятся голубыми гигантами или даже более светимыми красными или голубыми сверхгигантами. Гиганты относятся к классу светимости III, они ярче субгигантов (класс IV), но слабее ярких гигантов (класс II) и сверхгигантов (класс I). В целом гигантские звёзды редки. Это связано с относительно короткой продолжительностью фазы гиганта (для звезды, подобной Солнцу, — несколько сотен миллионов лет против десяти миллиардов на главной последовательности). Но благодаря их высокой светимости они значительно перепредставлены среди звёзд, видимых невооружённым глазом на ночном небе. Примеры красных гигантов включают Арктур в созвездии Волопаса и Миру в созвездии Кита."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:6H69M193VT57",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-red-supergiant-betelgeuse.png",
+      "record_url": "https://astro4edu.org/resources/media/6H69M193VT57/",
+      "original_path": "data/media/original/media_6H69M193VT57.png",
+      "ru_path": null,
+      "sha256": "029a4bcb01dbaa28ec7a03f2d66f48a92d24aa3217b032a679b3e5377f371574",
+      "size": 4860538,
+      "title_en": "The red supergiant Betelgeuse",
+      "title_ru": "Красный сверхгигант Бетельгейзе",
+      "short_caption_en": "The red supergiant Betelgeuse",
+      "short_caption_ru": "Красный сверхгигант Бетельгейзе",
+      "caption_en": "The image shows Betelgeuse, a red supergiant in the constellation Orion, observed by the Atacama Large Millimeter/submillimeter Array (ALMA). ALMA consists of many antennae spread across a plain in Northern Chile. The observations from all of these receivers is synthesised together by a central computer to form an image. The wide distances between the antennae mean that is can resolve very fine details.   \r\n\r\nMost stars we observe are just seen as points of light, but Betelgeuse is so large (with a radius about 1,400 times larger than the Sun) and is sufficiently nearby that it is one of the few stars to have been resolved to show it as an extended object. \r\n\r\nBetelgeuse is a massive star, more than 14 times the mass of the Sun and is relatively young for a star (less than 14 million years old). However, its high mass led to it having a very hot core which burned through its hydrogen fuel quickly. It has since evolved through many stages and now appears as a red supergiant, it's final stage before exploding as a supernova. When such an explosion will happen is not known for certain, but it could be in around 100,000 years. Such an explosion would be visible from Earth, even during the day.",
+      "caption_ru": "На изображении показана Бетельгейзе — красный сверхгигант в созвездии Ориона, наблюдаемый с помощью Атакамского большого миллиметрового/субмиллиметрового массива (ALMA). ALMA состоит из множества антенн, рассредоточенных по равнине на севере Чили. Наблюдения со всех этих приёмников синтезируются центральным компьютером для формирования изображения. Большие расстояния между антеннами означают, что можно разрешать очень мелкие детали.\n\nБольшинство наблюдаемых нами звёзд видны просто как точки света, но Бетельгейзе настолько велика (с радиусом примерно в 1,400 раз больше Солнца) и находится достаточно близко, что является одной из немногих звёзд, разрешённых настолько, чтобы показать её как протяжённый объект.\n\nБетельгейзе — массивная звезда, более чем в 14 раз превышающая массу Солнца, и относительно молодая для звезды (менее 14 миллионов лет). Однако её высокая масса привела к тому, что у неё очень горячее ядро, которое быстро сожгло своё водородное топливо. С тех пор она прошла через многие стадии и теперь предстаёт как красный сверхгигант — её последняя стадия перед взрывом как сверхновая. Когда произойдёт такой взрыв, точно неизвестно, но это может случиться примерно через 100,000 лет. Такой взрыв был бы виден с Земли даже днём.",
+      "alt_en": "The nearby red supergiant Betelgeuse, seen as orange blob showing a non-symmetric shape with a bright spot to the upper left",
+      "alt_ru": "Близлежащий красный сверхгигант Бетельгейзе, видимый как оранжевое пятно несимметричной формы с ярким пятном в верхней левой части",
+      "credit": "ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella",
+      "credit_url": "https://www.eso.org/public/germany/images/potw1726a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        130,
+        277,
+        278,
+        347,
+        453
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:iq40Hc92ni31",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hr_diagram_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/iq40Hc92ni31/",
+      "original_path": "data/media/original/diagram_iq40Hc92ni31.png",
+      "ru_path": "data/media/ru/diagram_iq40Hc92ni31.png",
+      "sha256": "031aed503f490c077502cc7087d8513da6a8f909cb63d2e84ab377b6111d2345",
+      "size": 66045,
+      "title_en": "Hertzsprung-Russell diagram",
+      "title_ru": "Диаграмма Герцшпрунга — Рассела",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\r\n \r\nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\r\n \r\nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.",
+      "caption_ru": "На этой диаграмме показаны температура и светимость различных звёзд. Размер каждой точки соответствует радиусу звезды, а её цвет — это цвет, который увидел бы человеческий глаз. Цвета звёзд варьируются от бледно-голубого до бледно-красновато-оранжевого. Ни одна звезда не имеет чистого цвета, такого как красный, зелёный или синий, поскольку спектры звёзд включают свет множества разных цветов. Однако самые красные звёзды обычно называют красными, а самые голубые — синими. Выборка звёзд, использованная для построения этой диаграммы, была подобрана так, чтобы показать широкий диапазон звёзд разных типов, поэтому относительное количество каждого типа звёзд не отражает того, насколько часто встречается каждый тип.\r\n \r\nОт верхнего левого угла к нижнему правому идёт длинная линия звёзд, сжигающих водород в своих ядрах. Это называется главной последовательностью. На этой линии видны звёзды Минтака, Ахернар, Сириус A, Солнце и Проксима Центавра. Объекты вокруг Проксимы Центавра на нижнем правом конце главной последовательности известны как красные карлики. Ниже и правее красных карликов находятся Тейде 1 и Келу-1 A. Эти два объекта — коричневые карлики, объекты со слишком малой массой, чтобы их ядра были достаточно горячими для длительного синтеза водорода. Поскольку они не сжигают водород, коричневые карлики не считаются звёздами главной последовательности. Название «коричневый карлик» не связано с их цветом.\r\n \r\nНад главной последовательностью мы находим субгиганты, гиганты и сверхгиганты. Это звёзды, которые завершили сжигание водорода в своём ядре и превратились в более крупные объекты. Яркость звезды зависит от её температуры и размера, поэтому звёзды-гиганты ярче звёзд с меньшим радиусом, но той же температурой. Со временем эти объекты приблизятся к концу своей жизни и пройдут либо фазу планетарной туманности, либо станут сверхновыми. Звёзды, завершающие жизнь фазой планетарной туманности, становятся типом звёздного остатка, называемым белым карликом. Такие объекты гораздо меньше звёзд той же температуры и, следовательно, слабее, и находятся значительно ниже главной последовательности. Звёзды, завершающие жизнь как сверхновые, становятся либо чёрными дырами, либо нейтронными звёздами. Они не показаны на этом графике.",
+      "alt_en": "A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line",
+      "alt_ru": "Линия звёзд идёт от холодных слабых звёзд к горячим ярким звёздам. Некоторые звёзды лежат выше или ниже этой линии",
+      "credit": "IAU OAE/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        46,
+        59,
+        130,
+        143,
+        180,
+        186,
+        334,
+        347,
+        386,
+        440,
+        481,
+        503
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "968a1f2e187f12de7451aef8a3b18cf42dbb0a047cac3b2eaab106a35408146d"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

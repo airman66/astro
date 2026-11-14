@@ -1,0 +1,194 @@
+{
+  "id": "term:67",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 67,
+    "url": "https://astro4edu.org/resources/glossary/term/67/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=67",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:25.330430+00:00",
+    "sha256": "dfbc7f1abb771c566e36494dda19a9e7cb3261c9bdd78284f219df85056a52bf"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society"
+    ],
+    "category_ids": [
+      11
+    ],
+    "categories_ru": [
+      "Астрономия и общество"
+    ],
+    "related_term_numbers": [
+      53,
+      127,
+      141,
+      434
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Copernican Revolution",
+      "body": "The Copernican Revolution refers to the replacement of the geocentric (Earth-centered) model of visualizing the Solar System with a heliocentric (Sun-centered) model. The geocentric model was the consensus in European scientific views for close to two millennia, even though some believed in a heliocentric model. This shift provided a first step in the move towards a new model for the motions of planets, moons, stars, and other celestial objects in the sky that occurred over the following centuries. The geocentric model is still used for explaining concepts related to the celestial sphere. The Copernican Revolution is named after Nicolaus Copernicus, who in the 16th century described the heliocentric model in his seminal work De revolutionibus orbium coelestium. Although it is often claimed Immanuel Kant was the first to use the term Copernican Revolution, the accuracy of this claim is debated.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Celestial Sphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/53/",
+          "text_ru": "Небесная сфера"
+        },
+        {
+          "text": "Geocentric Model",
+          "url": "https://www.astro4edu.org/resources/glossary/term/127/",
+          "text_ru": "Геоцентрическая модель"
+        },
+        {
+          "text": "Heliocentric Model",
+          "url": "https://www.astro4edu.org/resources/glossary/term/141/",
+          "text_ru": "Гелиоцентрическая модель"
+        },
+        {
+          "text": "Copernican Principle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/434/",
+          "text_ru": "Коперниканский принцип"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Copernican Revolution</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The Copernican Revolution refers to the replacement of the geocentric (Earth-centered) model of visualizing the Solar System with a heliocentric (Sun-centered) model. The geocentric model was the consensus in European scientific views for close to two millennia, even though some believed in a heliocentric model. This shift provided a first step in the move towards a new model for the motions of planets, moons, stars, and other celestial objects in the sky that occurred over the following centuries. The geocentric model is still used for explaining concepts related to the celestial sphere. The Copernican Revolution is named after Nicolaus Copernicus, who in the 16th century described the heliocentric model in his seminal work De revolutionibus orbium coelestium. Although it is often claimed Immanuel Kant was the first to use the term Copernican Revolution, the accuracy of this claim is debated.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/53/\">Celestial Sphere</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/127/\">Geocentric Model</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/141/\">Heliocentric Model</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/434/\">Copernican Principle</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Коперниканская революция",
+      "body_ru": "Коперниканская революция относится к замене геоцентрической (с центром на Земле) модели визуализации Солнечной системы гелиоцентрической (с центром на Солнце) моделью. Геоцентрическая модель была консенсусом в европейских научных взглядах почти два тысячелетия, хотя некоторые верили в гелиоцентрическую модель. Этот сдвиг стал первым шагом к новой модели движений планет, лун, звёзд и других небесных объектов на небе, которая возникла в последующие столетия. Геоцентрическая модель до сих пор используется для объяснения понятий, связанных с небесной сферой. Коперниканская революция названа в честь Николая Коперника, который в 16 веке описал гелиоцентрическую модель в своём основополагающем труде De revolutionibus orbium coelestium. Хотя часто утверждается, что Иммануил Кант был первым, кто использовал термин «Коперниканская революция», точность этого утверждения обсуждается."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/67/\">ثورة كوبرنيكوس </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/67/\">Kopernikanische Wende </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/67/\">Revolución de Copérnico </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/67/\">Révolution copernicienne </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/67/\">Rivoluzione Copernicana </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/67/\">कोपर्निकन क्रांती </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/67/\">Revolução Copernicana </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/67/\">哥白尼革命 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/67/\">哥白尼革命 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/0N18tC72Yg2/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:0N18tC72Yg2"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/0N18tC72Yg2/\"><img alt=\"Image of part of a page of an old book, showing concentric circles (plus a little extra circle where the Earth is), labelled with Latin text.\" src=\"/media/multimedia/thumbnails/copernicuss-heliocentric-system_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Copernicus's heliocentric system</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Sketch of Copernicus's heliocentric model of the Solar System, from his book \"De revolutionibus orbium coelestium\" (On the revolution of the heavenly spheres) published in 1543. Shown are the Sun as well as the orbits of Mercury, Venus, the Earth (itself orbited by the Moon), Mars, Jupiter and Saturn. The outermost circle represents the sphere of the stars.\n\nIn this model, the Earth is not special – it is merely one planet, among several, orbiting the Sun. This was the first example for what is now known as the Copernican Principle: that our positions as observers in the universe is not special or privileged in any way. The shift from the geocentric to the heliocentric model of our universe is known as the Copernican revolution.<br/>\n<b>Credit:</b> Nicolaus Copernicus\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Copernican Revolution",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Copernican Revolution",
+          "body": "The Copernican Revolution refers to the replacement of the geocentric (Earth-centered) model of visualizing the Solar System with a heliocentric (Sun-centered) model. The geocentric model was the consensus in European scientific views for close to two millennia, even though some believed in a heliocentric model. This shift provided a first step in the move towards a new model for the motions of planets, moons, stars, and other celestial objects in the sky that occurred over the following centuries. The geocentric model is still used for explaining concepts related to the celestial sphere. The Copernican Revolution is named after Nicolaus Copernicus, who in the 16th century described the heliocentric model in his seminal work De revolutionibus orbium coelestium. Although it is often claimed Immanuel Kant was the first to use the term Copernican Revolution, the accuracy of this claim is debated."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Коперниканская революция",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Коперниканская революция",
+          "body": "Коперниканская революция относится к замене геоцентрической (с центром на Земле) модели визуализации Солнечной системы гелиоцентрической (с центром на Солнце) моделью. Геоцентрическая модель была консенсусом в европейских научных взглядах почти два тысячелетия, хотя некоторые верили в гелиоцентрическую модель. Этот сдвиг стал первым шагом к новой модели движений планет, лун, звёзд и других небесных объектов на небе, которая возникла в последующие столетия. Геоцентрическая модель до сих пор используется для объяснения понятий, связанных с небесной сферой. Коперниканская революция названа в честь Николая Коперника, который в 16 веке описал гелиоцентрическую модель в своём основополагающем труде De revolutionibus orbium coelestium. Хотя часто утверждается, что Иммануил Кант был первым, кто использовал термин «Коперниканская революция», точность этого утверждения обсуждается."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:0N18tC72Yg2",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/copernicuss-heliocentric-system.jpg",
+      "record_url": "https://astro4edu.org/resources/media/0N18tC72Yg2/",
+      "original_path": "data/media/original/media_0N18tC72Yg2.jpg",
+      "ru_path": null,
+      "sha256": "1e430690d3cae102be70e521de9d9472a3e6241c30b9e03589a4ce89508d01b7",
+      "size": 702641,
+      "title_en": "Copernicus's heliocentric system",
+      "title_ru": "Гелиоцентрическая система Коперника",
+      "short_caption_en": "Copernicus's heliocentric system",
+      "short_caption_ru": "Гелиоцентрическая система Коперника",
+      "caption_en": "Sketch of Copernicus's heliocentric model of the Solar System, from his book \"De revolutionibus orbium coelestium\" (On the revolution of the heavenly spheres) published in 1543. Shown are the Sun as well as the orbits of Mercury, Venus, the Earth (itself orbited by the Moon), Mars, Jupiter and Saturn. The outermost circle represents the sphere of the stars.\r\n\r\nIn this model, the Earth is not special – it is merely one planet, among several, orbiting the Sun. This was the first example for what is now known as the Copernican Principle: that our positions as observers in the universe is not special or privileged in any way. The shift from the geocentric to the heliocentric model of our universe is known as the Copernican revolution.",
+      "caption_ru": "Набросок гелиоцентрической модели Солнечной системы Коперника из его книги \"De revolutionibus orbium coelestium\" (О вращении небесных сфер), опубликованной в 1543. Показаны Солнце, а также орбиты Меркурия, Венеры, Земли (вокруг которой обращается Луна), Марса, Юпитера и Сатурна. Самый внешний круг представляет сферу звёзд.\r\n\r\nВ этой модели Земля не является особенной – она всего лишь одна планета из нескольких, обращающихся вокруг Солнца. Это был первый пример того, что сейчас известно как принцип Коперника: наше положение как наблюдателей во Вселенной не является особенным или привилегированным каким-либо образом. Переход от геоцентрической к гелиоцентрической модели нашей Вселенной известен как коперниканская революция.",
+      "alt_en": "Image of part of a page of an old book, showing concentric circles (plus a little extra circle where the Earth is), labelled with Latin text.",
+      "alt_ru": "Изображение части страницы старинной книги, показывающее концентрические окружности (плюс небольшая дополнительная окружность там, где находится Земля), подписанные латинским текстом.",
+      "credit": "Nicolaus Copernicus",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        67,
+        141,
+        297,
+        434
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "id": "term:40",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 40,
+    "url": "https://astro4edu.org/resources/glossary/term/40/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=40",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:17.024335+00:00",
+    "sha256": "42fbf55cd2f77adf5ec57abb94772a92eacc8991a6f2927877014301c44f796c"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      41,
+      84,
+      91,
+      169,
+      232,
+      328,
+      331
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Binary Star",
+      "body": "A binary star is a system of two stars that orbit around their common center of mass as a result of being bound together by the force of gravity. Their orbits follow Kepler's laws of motion and are elliptical (shaped like a squashed circle) or circular in shape. More than half of all stars in the Milky Way are in binary systems or part of systems with more than one companion star (known as higher order multiple-star systems). Due to their enormous distances from Earth, most binary stars and higher order multiple-star systems appear to the observer as a single star. Binaries can be classified into a number of categories according to the observational method by which they were found to be binary stars. They may simultaneously belong to more than one category: Visual binaries can be observed as two separate stars close together on the sky. Not all stars that appear close on the sky (double stars) are binaries bound by gravity, some may just be close on the sky by coincidence but not bound by gravity. Double stars that are not binary stars bound by gravity can be separated by hundreds of light years in distance. Spectroscopic binaries are found due to the Doppler shift of the lines in the stars' spectrum as the stars orbit their common center of mass. Eclipsing binaries can be detected when one of the component stars passes between its companion star and an observer, blocking some of the light from the companion star and causing the combined light of the system to look briefly dimmer. Astrometric binaries are systems where only one stellar image is observed – either due to one of the stars being too faint to be observed or the two stars' images being blended together – but where the orbital motion of the stars in the binary system causes the brightest point of the stellar image to show a periodic change in position on the sky.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Binary System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/41/",
+          "text_ru": "Двойная система"
+        },
+        {
+          "text": "Doppler Effect",
+          "url": "https://www.astro4edu.org/resources/glossary/term/84/",
+          "text_ru": "Эффект Доплера"
+        },
+        {
+          "text": "Eclipse",
+          "url": "https://www.astro4edu.org/resources/glossary/term/91/",
+          "text_ru": "Затмение"
+        },
+        {
+          "text": "Kepler's Laws",
+          "url": "https://www.astro4edu.org/resources/glossary/term/169/",
+          "text_ru": "Законы Кеплера"
+        },
+        {
+          "text": "Orbit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/232/",
+          "text_ru": "Орбита"
+        },
+        {
+          "text": "Spectrum",
+          "url": "https://www.astro4edu.org/resources/glossary/term/328/",
+          "text_ru": "Спектр"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Binary Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A binary star is a system of two stars that orbit around their common center of mass as a result of being bound together by the force of gravity. Their orbits follow Kepler's laws of motion and are elliptical (shaped like a squashed circle) or circular in shape. <br/><br/>More than half of all stars in the Milky Way are in binary systems or part of systems with more than one companion star (known as higher order multiple-star systems). Due to their enormous distances from Earth, most binary stars and higher order multiple-star systems appear to the observer as a single star.<br/><br/>Binaries can be classified into a number of categories according to the observational method by which they were found to be binary stars. They may simultaneously belong to more than one category:<br/><br/>Visual binaries can be observed as two separate stars close together on the sky. Not all stars that appear close on the sky (double stars) are binaries bound by gravity, some may just be close on the sky by coincidence but not bound by gravity. Double stars that are not binary stars bound by gravity can be separated by hundreds of light years in distance.<br/><br/>Spectroscopic binaries are found due to the Doppler shift of the lines in the stars' spectrum as the stars orbit their common center of mass. <br/><br/>Eclipsing binaries can be detected when one of the component stars passes between its companion star and an observer, blocking some of the light from the companion star and causing the combined light of the system to look briefly dimmer. <br/><br/>Astrometric binaries are systems where only one stellar image is observed – either due to one of the stars being too faint to be observed or the two stars' images being blended together – but where the orbital motion of the stars in the binary system causes the brightest point of the stellar image to show a periodic change in position on the sky.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/41/\">Binary System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/84/\">Doppler Effect</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/91/\">Eclipse</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/169/\">Kepler's Laws</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/232/\">Orbit</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/328/\">Spectrum</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Двойная звезда",
+      "body_ru": "Двойная звезда — это система из двух звёзд, которые обращаются вокруг общего центра масс в результате гравитационной связи. Их орбиты подчиняются законам движения Кеплера и имеют эллиптическую (по форме сплющенного круга) или круговую форму. Более половины всех звёзд Млечного Пути входят в двойные системы или являются частью систем с более чем одной звездой-компаньоном (известных как кратные системы более высокого порядка). Из-за огромных расстояний от Земли большинство двойных звёзд и кратных систем более высокого порядка выглядят для наблюдателя как одна звезда. Двойные звёзды можно классифицировать по ряду категорий в соответствии с наблюдательным методом, с помощью которого было установлено, что они являются двойными. Они могут одновременно принадлежать более чем одной категории: Визуальные двойные звёзды можно наблюдать как две отдельные звезды, близкие друг к другу на небе. Не все звёзды, которые кажутся близкими на небе (двойные звёзды), являются гравитационно связанными двойными; некоторые могут просто казаться близкими на небе по совпадению, но не быть связанными гравитацией. Двойные звёзды, не являющиеся гравитационно связанными двойными звёздами, могут быть разделены расстоянием в сотни световых лет. Спектроскопические двойные звёзды обнаруживаются благодаря доплеровскому смещению линий в спектре звёзд, когда звёзды обращаются вокруг общего центра масс. Затменные двойные звёзды можно обнаружить, когда одна из компонентных звёзд проходит между звездой-компаньоном и наблюдателем, блокируя часть света от звезды-компаньона и вызывая кратковременное уменьшение суммарного света системы. Астрометрические двойные звёзды — это системы, в которых наблюдается только одно звёздное изображение — либо потому, что одна из звёзд слишком слаба, чтобы её можно было наблюдать, либо потому, что изображения двух звёзд сливаются вместе — но где орбитальное движение звёзд в двойной системе вызывает периодическое изменение положения самой яркой точки звёздного изображения на небе."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "連星 (external link)",
+          "url": "https://astro-dic.jp/binary-star/",
+          "text_ru": "Двойная звезда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/40/\">النجم المزدوج </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/40/\">Doppelsternsystem </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/40/\">Estrella binaria </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/40/\">Étoile binaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/40/\">Stella binaria </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/binary-star/\">連星 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/40/\">तारा युगल </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/40/\">Estrela binária </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/40/\">双星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/40/\">雙星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/b823rz84o85/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:Two_Brown_Dwarfs_in_Our_Backyard.jpg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/h111Wi173458/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic0516a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:b823rz84o85",
+        "media:h111Wi173458"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/b823rz84o85/\"><img alt=\"Low-resolution view of a single object with a highlighted area showing a higher-resolution  image revealing two brown dwarfs.\" src=\"/media/multimedia/thumbnails/a-binary-brown-dwarf-system-revealed_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A binary brown dwarf system revealed</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image presents a nearby system of brown dwarfs, objects that fall between planets and stars in mass and do not sustain long-term nuclear fusion in their cores. Located about 6.5 light-years from Earth, this system (known as Luhman 16) is the third closest system to the Solar System after the Alpha Centauri system and Barnard's Star. It was initially observed as what seemed to be a single faint source of infrared light. Brown dwarfs are often difficult to study because of their low brightness, especially in visible light. However they shine brighter in infrared light due to their cooler effective temperatures.\n\nThe comparison highlights the importance of observational resolution. The image at the center, taken by NASA’s Wide-field Infrared Survey Explorer (WISE), shows the system as a single blurred object due to its lower resolution (WISE has a resolution of roughly 6 arcseconds). A highlighted zoomed-in view from the Gemini South Observatory in Chile reveals that this “single” source is actually a binary system of two brown dwarfs. The improved angular resolution (roughly 0.6 arcseconds) allows astronomers to separate the two objects clearly, demonstrating how higher-resolution observations uncover hidden structures in the universe. While the Gemini telescope is situated on the Earth and thus is affected by the blurring effects of the Earth's atmosphere, it has a substantially larger mirror than the WISE telescope (8m wide vs. 40cm wide) meaning it can achieve much higher resolutions.<br/>\n<b>Credit:</b> NASA/JPL/Gemini Observatory/AURA/NSF\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:Two_Brown_Dwarfs_in_Our_Backyard.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/h111Wi173458/\"><img alt=\"Sirius A, a bright star with x-shaped diffraction spikes. Sirius B is a faint dot to the lower left.\" src=\"/media/multimedia/thumbnails/sirius-a-with-his-faint-white-dwarf-companion-sirius-b_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sirius A with his faint white dwarf companion Sirius B</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This Hubble Space Telescope image highlights Sirius, the brightest star in Earth’s night sky, appearing as an intensely luminous object at the center with prominent cross-shaped diffraction spikes. These spikes, along with the saturated glow around the main star, are caused by the Sirius' light being spread out by the telescope and camera used to make this image. Slightly below and to the left of the main star, a tiny point of light marks Sirius B, a much dimmer object captured thanks to Hubble’s high sensitivity.\n\nSirius A is an A-type star, known for its high surface temperature and strong white-blue light, while Sirius B is a compact white dwarf, the dense remnant of a star that has exhausted its nuclear fuel. Together, they form a well-known Binary star system located about 8.6 light-years from Earth.\n\nSirius B was originally a higher mass and brighter star that burned through its hydrogen fuel more quickly than Sirius A. This led to Sirius B evolving into a red giant and eventually ending its life as a planetary nebula, leaving only the remains of its core as a white dwarf orbiting Sirius A.<br/>\n<b>Credit:</b> NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester)\n\t  <a href=\"https://esahubble.org/images/heic0516a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/ml6jp6Ph60/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:ml6jp6Ph60"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/ml6jp6Ph60/\"><img alt=\"Carina appears as the hull of a line drawing of a ship which faces left (east). Canopus is on its right (west) edge\" src=\"/media/diagrams/multimedia/thumbnails/carina-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Carina Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Carina along with its bright stars and surrounding constellations. Carina is surrounded by (going clockwise from the top): Vela, Puppis, Pictor, Volans, Chamaeleon, Musca and Centaurus. Carina is notable for Canopus, the second brightest star in the night sky and for the famous variable star Eta Carinae. This latter object is a binary star system of two young very massive stars. Its brightness has varied greatly over the past few centuries. At one point it outshone Canopus before dimming by a factor of four thousand to become invisible to the naked eye. In recent years it has brightened enough to again be visible without the aid of a telescope. \n\nCarina is a southern constellation and thus the whole constellation is visible at some point in the year to the entire southern hemisphere. The whole constellation is also visible from equatorial regions of the northern hemisphere with parts of the constellation visible from northern temperate regions. \n\nThe open clusters NGC 2516, NGC 3532 and IC 2602 lie in Carina. These are marked here by yellow circles. The Carina Nebula, also known as NGC 3372, lies in the constellation. This large nebula contains many massive young stars, including Eta Carinae. \n\nThis diagram maps an area around the south celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. Carina was previously part of the larger Argo Navis constellation along with Vela and Puppis. As the letter designations for stars were created before this division took place, Greek letter designations are now divided between the three constellations with Carina having stars designated alpha and beta but no gamma or delta. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Binary Star",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Binary Star",
+          "body": "A binary star is a system of two stars that orbit around their common center of mass as a result of being bound together by the force of gravity. Their orbits follow Kepler's laws of motion and are elliptical (shaped like a squashed circle) or circular in shape. More than half of all stars in the Milky Way are in binary systems or part of systems with more than one companion star (known as higher order multiple-star systems). Due to their enormous distances from Earth, most binary stars and higher order multiple-star systems appear to the observer as a single star. Binaries can be classified into a number of categories according to the observational method by which they were found to be binary stars. They may simultaneously belong to more than one category: Visual binaries can be observed as two separate stars close together on the sky. Not all stars that appear close on the sky (double stars) are binaries bound by gravity, some may just be close on the sky by coincidence but not bound by gravity. Double stars that are not binary stars bound by gravity can be separated by hundreds of light years in distance. Spectroscopic binaries are found due to the Doppler shift of the lines in the stars' spectrum as the stars orbit their common center of mass. Eclipsing binaries can be detected when one of the component stars passes between its companion star and an observer, blocking some of the light from the companion star and causing the combined light of the system to look briefly dimmer. Astrometric binaries are systems where only one stellar image is observed – either due to one of the stars being too faint to be observed or the two stars' images being blended together – but where the orbital motion of the stars in the binary system causes the brightest point of the stellar image to show a periodic change in position on the sky."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Двойная звезда",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Двойная звезда",
+          "body": "Двойная звезда — это система из двух звёзд, которые обращаются вокруг общего центра масс в результате гравитационной связи. Их орбиты подчиняются законам движения Кеплера и имеют эллиптическую (по форме сплющенного круга) или круговую форму. Более половины всех звёзд Млечного Пути входят в двойные системы или являются частью систем с более чем одной звездой-компаньоном (известных как кратные системы более высокого порядка). Из-за огромных расстояний от Земли большинство двойных звёзд и кратных систем более высокого порядка выглядят для наблюдателя как одна звезда. Двойные звёзды можно классифицировать по ряду категорий в соответствии с наблюдательным методом, с помощью которого было установлено, что они являются двойными. Они могут одновременно принадлежать более чем одной категории: Визуальные двойные звёзды можно наблюдать как две отдельные звезды, близкие друг к другу на небе. Не все звёзды, которые кажутся близкими на небе (двойные звёзды), являются гравитационно связанными двойными; некоторые могут просто казаться близкими на небе по совпадению, но не быть связанными гравитацией. Двойные звёзды, не являющиеся гравитационно связанными двойными звёздами, могут быть разделены расстоянием в сотни световых лет. Спектроскопические двойные звёзды обнаруживаются благодаря доплеровскому смещению линий в спектре звёзд, когда звёзды обращаются вокруг общего центра масс. Затменные двойные звёзды можно обнаружить, когда одна из компонентных звёзд проходит между звездой-компаньоном и наблюдателем, блокируя часть света от звезды-компаньона и вызывая кратковременное уменьшение суммарного света системы. Астрометрические двойные звёзды — это системы, в которых наблюдается только одно звёздное изображение — либо потому, что одна из звёзд слишком слаба, чтобы её можно было наблюдать, либо потому, что изображения двух звёзд сливаются вместе — но где орбитальное движение звёзд в двойной системе вызывает периодическое изменение положения самой яркой точки звёздного изображения на небе."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:b823rz84o85",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/a-binary-brown-dwarf-system-revealed.png",
+      "record_url": "https://astro4edu.org/resources/media/b823rz84o85/",
+      "original_path": "data/media/original/media_b823rz84o85.png",
+      "ru_path": null,
+      "sha256": "ddf216ee801530e0688466495d62d1e0d3e060eb724763d871c7d8914c041538",
+      "size": 1984775,
+      "title_en": "A binary brown dwarf system revealed",
+      "title_ru": "Обнаружена двойная система коричневых карликов",
+      "short_caption_en": "A binary brown dwarf system revealed",
+      "short_caption_ru": "Обнаружена двойная система коричневых карликов",
+      "caption_en": "This image presents a nearby system of brown dwarfs, objects that fall between planets and stars in mass and do not sustain long-term nuclear fusion in their cores. Located about 6.5 light-years from Earth, this system (known as Luhman 16) is the third closest system to the Solar System after the Alpha Centauri system and Barnard's Star. It was initially observed as what seemed to be a single faint source of infrared light. Brown dwarfs are often difficult to study because of their low brightness, especially in visible light. However they shine brighter in infrared light due to their cooler effective temperatures.\r\n\r\nThe comparison highlights the importance of observational resolution. The image at the center, taken by NASA’s Wide-field Infrared Survey Explorer (WISE), shows the system as a single blurred object due to its lower resolution (WISE has a resolution of roughly 6 arcseconds). A highlighted zoomed-in view from the Gemini South Observatory in Chile reveals that this “single” source is actually a binary system of two brown dwarfs. The improved angular resolution (roughly 0.6 arcseconds) allows astronomers to separate the two objects clearly, demonstrating how higher-resolution observations uncover hidden structures in the universe. While the Gemini telescope is situated on the Earth and thus is affected by the blurring effects of the Earth's atmosphere, it has a substantially larger mirror than the WISE telescope (8m wide vs. 40cm wide) meaning it can achieve much higher resolutions.",
+      "caption_ru": "Это изображение представляет близлежащую систему коричневых карликов — объектов, которые по массе занимают промежуточное положение между планетами и звёздами и не поддерживают долговременный термоядерный синтез в своих ядрах. Расположенная примерно в 6,5 световых годах от Земли, эта система (известная как Luhman 16) является третьей ближайшей к Солнечной системе после системы Альфа Центавра и звезды Барнарда. Первоначально она наблюдалась как то, что казалось единым слабым источником инфракрасного света. Коричневые карлики часто трудно изучать из-за их низкой яркости, особенно в видимом свете. Однако они ярче светят в инфракрасном диапазоне из-за их более низких эффективных температур.\n\nСравнение подчёркивает важность наблюдательного разрешения. Изображение в центре, полученное Wide-field Infrared Survey Explorer (WISE) НАСА, показывает систему как единый размытый объект из-за более низкого разрешения (WISE имеет разрешение примерно 6 угловых секунд). Выделенный увеличенный вид из обсерватории Джемини-Юг в Чили показывает, что этот «единый» источник на самом деле является двойной системой из двух коричневых карликов. Улучшенное угловое разрешение (примерно 0,6 угловых секунд) позволяет астрономам чётко разделить два объекта, демонстрируя, как наблюдения с более высоким разрешением раскрывают скрытые структуры во Вселенной. Хотя телескоп Джемини расположен на Земле и, следовательно, подвержен размывающему эффекту земной атмосферы, он имеет значительно большее зеркало, чем телескоп WISE (шириной 8 м против 40 см), что означает, что он может достичь гораздо более высокого разрешения.",
+      "alt_en": "Low-resolution view of a single object with a highlighted area showing a higher-resolution  image revealing two brown dwarfs.",
+      "alt_ru": "Изображение низкого разрешения одного объекта с выделенной областью, показывающей изображение более высокого разрешения, раскрывающее два коричневых карлика.",
+      "credit": "NASA/JPL/Gemini Observatory/AURA/NSF",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Two_Brown_Dwarfs_in_Our_Backyard.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        40,
+        46,
+        284,
+        410
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:h111Wi173458",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/sirius-a-with-his-faint-white-dwarf-companion-sirius-b.png",
+      "record_url": "https://astro4edu.org/resources/media/h111Wi173458/",
+      "original_path": "data/media/original/media_h111Wi173458.png",
+      "ru_path": null,
+      "sha256": "11284e811fb69578d6b4f50641e4f2f114494b637e69bcabb09c84f916302aae",
+      "size": 1454728,
+      "title_en": "Sirius A with his faint white dwarf companion Sirius B",
+      "title_ru": "Сириус A со своим тусклым компаньоном — белым карликом Сириусом B",
+      "short_caption_en": "Sirius A with his faint white dwarf companion Sirius B",
+      "short_caption_ru": "Сириус A со своим тусклым компаньоном — белым карликом Сириусом B",
+      "caption_en": "This Hubble Space Telescope image highlights Sirius, the brightest star in Earth’s night sky, appearing as an intensely luminous object at the center with prominent cross-shaped diffraction spikes. These spikes, along with the saturated glow around the main star, are caused by the Sirius' light being spread out by the telescope and camera used to make this image. Slightly below and to the left of the main star, a tiny point of light marks Sirius B, a much dimmer object captured thanks to Hubble’s high sensitivity.\r\n\r\nSirius A is an A-type star, known for its high surface temperature and strong white-blue light, while Sirius B is a compact white dwarf, the dense remnant of a star that has exhausted its nuclear fuel. Together, they form a well-known Binary star system located about 8.6 light-years from Earth.\r\n\r\nSirius B was originally a higher mass and brighter star that burned through its hydrogen fuel more quickly than Sirius A. This led to Sirius B evolving into a red giant and eventually ending its life as a planetary nebula, leaving only the remains of its core as a white dwarf orbiting Sirius A.",
+      "caption_ru": "На этом снимке космического телескопа «Хаббл» показан Сириус — самая яркая звезда ночного неба Земли; в центре он предстаёт как чрезвычайно яркий объект с заметными крестообразными дифракционными лучами. Эти лучи, как и пересвеченное свечение вокруг главной звезды, возникают из-за того, как телескоп и камера, использованные для получения этого изображения, распределяют свет Сириуса. Чуть ниже и левее главной звезды крошечная точка света обозначает Сириус B — гораздо более тусклый объект, запечатлённый благодаря высокой чувствительности «Хаббла».\r\n\r\nСириус A — звезда класса A, известная своей высокой температурой поверхности и интенсивным бело-голубым светом, а Сириус B — компактный белый карлик, плотный остаток звезды, исчерпавшей своё ядерное топливо. Вместе они образуют известную двойную звёздную систему, расположенную примерно в 8.6 светового года от Земли.\r\n\r\nСириус B изначально был более массивной и яркой звездой, которая израсходовала своё водородное топливо быстрее, чем Сириус A. Это привело к тому, что Сириус B превратился в красный гигант и в конечном итоге завершил свою жизнь как планетарная туманность, оставив лишь остатки своего ядра в виде белого карлика, обращающегося вокруг Сириуса A.",
+      "alt_en": "Sirius A, a bright star with x-shaped diffraction spikes. Sirius B is a faint dot to the lower left.",
+      "alt_ru": "Сириус A — яркая звезда с X-образными дифракционными лучами. Сириус B — тусклая точка слева внизу.",
+      "credit": "NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester)",
+      "credit_url": "https://esahubble.org/images/heic0516a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        1,
+        40,
+        304,
+        386
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:ml6jp6Ph60",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/carina-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/ml6jp6Ph60/",
+      "original_path": "data/media/original/diagram_ml6jp6Ph60.png",
+      "ru_path": null,
+      "sha256": "92e1367d354e13b027c07d73ba719a9b2e0af1c747cc5b4b61006fd321c78aa4",
+      "size": 144722,
+      "title_en": "Carina Constellation Map",
+      "title_ru": "Карта созвездия Киль",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Carina along with its bright stars and surrounding constellations. Carina is surrounded by (going clockwise from the top): Vela, Puppis, Pictor, Volans, Chamaeleon, Musca and Centaurus. Carina is notable for Canopus, the second brightest star in the night sky and for the famous variable star Eta Carinae. This latter object is a binary star system of two young very massive stars. Its brightness has varied greatly over the past few centuries. At one point it outshone Canopus before dimming by a factor of four thousand to become invisible to the naked eye. In recent years it has brightened enough to again be visible without the aid of a telescope. \r\n\r\nCarina is a southern constellation and thus the whole constellation is visible at some point in the year to the entire southern hemisphere. The whole constellation is also visible from equatorial regions of the northern hemisphere with parts of the constellation visible from northern temperate regions. \r\n\r\nThe open clusters NGC 2516, NGC 3532 and IC 2602 lie in Carina. These are marked here by yellow circles. The Carina Nebula, also known as NGC 3372, lies in the constellation. This large nebula contains many massive young stars, including Eta Carinae. \r\n\r\nThis diagram maps an area around the south celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. Carina was previously part of the larger Argo Navis constellation along with Vela and Puppis. As the letter designations for stars were created before this division took place, Greek letter designations are now divided between the three constellations with Carina having stars designated alpha and beta but no gamma or delta. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Киля вместе с его яркими звёздами и окружающими созвездиями. Киль окружён (по часовой стрелке сверху): Парусами, Кормой, Живописцем, Летучей Рыбой, Хамелеоном, Мухой и Центавром. Киль примечателен Канопусом, второй по яркости звездой ночного неба, и знаменитой переменной звездой Эта Киля. Этот последний объект представляет собой двойную звёздную систему из двух молодых очень массивных звёзд. Его яркость сильно менялась за последние несколько столетий. В какой-то момент он превзошёл по яркости Канопус, прежде чем потускнеть в четыре тысячи раз и стать невидимым невооружённым глазом. В последние годы он достаточно ярко засиял, чтобы снова стать видимым без помощи телескопа. \r\n\r\nКиль — южное созвездие, поэтому всё созвездие видно в какой-то момент года со всего южного полушария. Всё созвездие также видно из экваториальных областей северного полушария, а части созвездия видны из северных умеренных регионов. \r\n\r\nРассеянные скопления NGC 2516, NGC 3532 и IC 2602 находятся в Киле. Здесь они отмечены жёлтыми кружками. Туманность Киля, также известная как NGC 3372, находится в созвездии. Эта большая туманность содержит множество массивных молодых звёзд, включая Эту Киля. \r\n\r\nЭта диаграмма отображает область вокруг южного небесного полюса. Здесь сходятся линии постоянного прямого восхождения. Значения прямого восхождения этих линий отмечены на оси x выше и ниже диаграммы. Некоторые из линий постоянного склонения отмечены на оси y. Размеры отмеченных здесь звёзд связаны с видимой величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжируются по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Киль ранее был частью более крупного созвездия Арго Навис вместе с Парусами и Кормой. Поскольку буквенные обозначения звёзд были созданы до этого разделения, греческие буквенные обозначения теперь распределены между тремя созвездиями, причём в Киле есть звёзды, обозначенные альфа и бета, но нет гамма или дельта. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для представления фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Carina appears as the hull of a line drawing of a ship which faces left (east). Canopus is on its right (west) edge",
+      "alt_ru": "Киль выглядит как корпус линейного рисунка корабля, обращённого влево (на восток). Канопус находится на его правом (западном) краю",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        40,
+        50,
+        66,
+        78,
+        211,
+        286,
+        466,
+        485
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

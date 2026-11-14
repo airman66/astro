@@ -1,5 +1,22 @@
-from fastapi import FastAPI
-from pydantic import BaseModel
+"""Read-only glossary API and DeepSeek assistant."""
+from __future__ import annotations
+
+import os
+import uuid
+from pathlib import Path
+from typing import Any, Literal
+
+import redis
+from fastapi import Body, FastAPI, Query, Request
+from fastapi.exceptions import RequestValidationError
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse, JSONResponse
+from pydantic import BaseModel, Field
+from starlette.exceptions import HTTPException as StarletteHTTPException
+
+from app import storage
+from app.assistant import AssistantUnavailable, DeepSeekClient, answer
+from app.rate_limit import RedisLimiter
 
 
 class HealthResponse(BaseModel):
@@ -7,9 +24,248 @@ class HealthResponse(BaseModel):
     service: str
 
 
-app = FastAPI(title="Astronomy Glossary and RAG", version="0.1.0")
+class ErrorResponse(BaseModel):
+    code: str
+    message: str
+    details: Any = None
+
+
+class ListItem(BaseModel):
+    id: str
+    title: str
+    url: str
+    review_status: Literal["draft", "reviewed"]
+    categories: list[str]
+
+
+class ListResponse(BaseModel):
+    items: list[ListItem]
+    total: int
+    page: int
+    page_size: int
+
+
+class ReviewInfo(BaseModel):
+    status: Literal["draft", "reviewed"]
+    reviewer: str | None = None
+    notes: str | None = None
+
+
+class Section(BaseModel):
+    id: str
+    type: str
+    heading: str
+    body: str
+    heading_ru: str | None = None
+    body_ru: str | None = None
+    links: list[dict[str, str]] = Field(default_factory=list)
+    media_ids: list[str] = Field(default_factory=list)
+    source_html: str | None = None
+
+
+class LocaleContent(BaseModel):
+    title: str
+    aliases: list[str] = Field(default_factory=list)
+    blocks: dict[str, dict[str, str]]
+
+
+class MediaDetail(BaseModel):
+    id: str
+    kind: str
+    file_type: str | None = None
+    source_url: str | None = None
+    record_url: str | None = None
+    original_path: str | None = None
+    ru_path: str | None = None
+    ru_sha256: str | None = None
+    sha256: str | None = None
+    size: int | None = None
+    title_en: str = ""
+    title_ru: str = ""
+    short_caption_en: str = ""
+    short_caption_ru: str = ""
+    caption_en: str = ""
+    caption_ru: str = ""
+    alt_en: str = ""
+    alt_ru: str = ""
+    credit: str | None = None
+    credit_url: str | None = None
+    license: str | None = None
+    license_url: str | None = None
+    term_numbers: list[int] = Field(default_factory=list)
+    source_language: str = "en"
+    review: ReviewInfo
+
+
+class RecordDetail(BaseModel):
+    id: str
+    kind: str
+    source: dict[str, Any]
+    metadata: dict[str, Any]
+    sections: list[Section]
+    locales: dict[str, LocaleContent]
+    media: list[MediaDetail] = Field(default_factory=list)
+    review: ReviewInfo
+
+
+class SearchItem(BaseModel):
+    record_id: str
+    section_id: str
+    kind: str
+    title: str
+    excerpt: str
+    url: str
+    review_status: str
+    score: float
+
+
+class SearchResponse(BaseModel):
+    items: list[SearchItem]
+    total: int
+    page: int
+    page_size: int
+
+
+class AnswerRequest(BaseModel):
+    question: str = Field(min_length=2, max_length=2000)
+    mode: Literal["auto", "term", "article", "explain", "general"] = "auto"
+    locale: Literal["ru", "en"] = "ru"
+    context: dict[str, Any] | None = None
+
+
+class AnswerSource(BaseModel):
+    record_id: str
+    section_id: str
+    url: str
+    review_status: str
+
+
+class AnswerResponse(BaseModel):
+    mode: Literal["term", "article", "explain", "general"]
+    grounding: Literal["knowledge_base", "model", "mixed"]
+    answer: str
+    primary_url: str | None
+    sources: list[AnswerSource]
+    review_status: str | None
+    diagnostics: dict[str, str]
+
+
+def error(status: int, code: str, message: str, details: Any = None, headers: dict | None = None) -> JSONResponse:
+    return JSONResponse(status_code=status, content=ErrorResponse(code=code, message=message, details=details).model_dump(), headers=headers)
+
+
+app = FastAPI(title="Astronomy Glossary and RAG", version="1.0.0", responses={422: {"model": ErrorResponse}})
+origins = [origin.strip() for origin in os.getenv("CORS_ORIGINS", "").split(",") if origin.strip()]
+if origins:
+    app.add_middleware(CORSMiddleware, allow_origins=origins, allow_methods=["GET", "POST"], allow_headers=["Content-Type"], allow_credentials=True)
+app.state.rate_limiter = RedisLimiter()
+app.state.deepseek = DeepSeekClient()
+
+
+@app.exception_handler(RequestValidationError)
+async def validation_error(_request: Request, exc: RequestValidationError) -> JSONResponse:
+    return error(422, "validation_error", "Некорректный запрос", exc.errors())
+
+
+@app.exception_handler(StarletteHTTPException)
+async def http_error(_request: Request, exc: StarletteHTTPException) -> JSONResponse:
+    return error(exc.status_code, "not_found" if exc.status_code == 404 else "http_error", str(exc.detail))
+
+
+@app.middleware("http")
+async def request_limits(request: Request, call_next):
+    path = request.url.path
+    if not path.startswith("/api/v1/"):
+        return await call_next(request)
+    category = "assistant" if path == "/api/v1/assistant/answer" else "media" if path.endswith("/file") else "read"
+    if category == "assistant":
+        if int(request.headers.get("content-length", "0") or "0") > 16384 or len(await request.body()) > 16384:
+            return error(413, "body_too_large", "Тело запроса превышает 16 КиБ")
+    try:
+        retry = request.app.state.rate_limiter.check(request, category)
+    except redis.RedisError:
+        return error(503, "rate_limit_unavailable", "Сервис ограничений временно недоступен", headers={"Retry-After": "10"})
+    if retry:
+        return error(429, "rate_limited", "Лимит запросов превышен", headers={"Retry-After": str(min(10, max(1, retry)))})
+    return await call_next(request)
 
 
 @app.get("/health", response_model=HealthResponse)
 def health() -> HealthResponse:
     return HealthResponse(status="ok", service="glossary-rag")
+
+
+@app.get("/api/v1/terms", response_model=ListResponse, responses={503: {"model": ErrorResponse}})
+def terms(page: int = Query(1, ge=1), page_size: int = Query(20, ge=1, le=100), q: str = Query("", max_length=200), category: str = "", letter: str = "", status: Literal["", "draft", "reviewed"] = "", locale: Literal["ru", "en"] = "ru") -> ListResponse:
+    items, total = storage.list_records("term", page=page, page_size=page_size, locale=locale, query=q, category=category, letter=letter, status=status)
+    return ListResponse(items=items, total=total, page=page, page_size=page_size)
+
+
+@app.get("/api/v1/terms/{term_number}", response_model=RecordDetail, responses={404: {"model": ErrorResponse}})
+def term_detail(term_number: int):
+    record = storage.get_term(term_number)
+    return RecordDetail.model_validate(record) if record else error(404, "term_not_found", "Термин не найден")
+
+
+@app.get("/api/v1/articles", response_model=ListResponse)
+def articles(page: int = Query(1, ge=1), page_size: int = Query(20, ge=1, le=100), q: str = Query("", max_length=200), status: Literal["", "draft", "reviewed"] = "", locale: Literal["ru", "en"] = "ru") -> ListResponse:
+    items, total = storage.list_records("article", page=page, page_size=page_size, locale=locale, query=q, status=status)
+    return ListResponse(items=items, total=total, page=page, page_size=page_size)
+
+
+@app.get("/api/v1/articles/{article_id}", response_model=RecordDetail, responses={404: {"model": ErrorResponse}})
+def article_detail(article_id: str):
+    record = storage.get_article(article_id)
+    return RecordDetail.model_validate(record) if record else error(404, "article_not_found", "Статья не найдена")
+
+
+@app.get("/api/v1/media/{media_id}", response_model=MediaDetail, responses={404: {"model": ErrorResponse}})
+def media_detail(media_id: str):
+    item = storage.get_media(media_id)
+    return MediaDetail.model_validate(item) if item else error(404, "media_not_found", "Медиа не найдено")
+
+
+@app.get("/api/v1/media/{media_id}/file", responses={404: {"model": ErrorResponse}})
+def media_file(media_id: str, locale: Literal["ru", "en"] = "ru"):
+    item = storage.get_media(media_id)
+    if not item:
+        return error(404, "media_not_found", "Медиа не найдено")
+    filename = item.get("ru_path") if locale == "ru" and item.get("ru_path") else item.get("original_path")
+    if not filename:
+        return error(404, "media_file_not_found", "Файл медиа не найден")
+    path = Path(filename).resolve()
+    if not path.is_relative_to(storage.DATA.resolve()) or not path.is_file():
+        return error(404, "media_file_not_found", "Файл медиа не найден")
+    return FileResponse(path)
+
+
+@app.get("/api/v1/search", response_model=SearchResponse)
+def search(q: str = Query(min_length=1, max_length=200), locale: Literal["ru", "en"] = "ru", page: int = Query(1, ge=1), page_size: int = Query(20, ge=1, le=100)) -> SearchResponse:
+    matches = storage.search(q, locale, limit=10000)
+    return SearchResponse(items=matches[(page - 1) * page_size : page * page_size], total=len(matches), page=page, page_size=page_size)
+
+
+@app.post("/api/v1/assistant/answer", response_model=AnswerResponse, responses={429: {"model": ErrorResponse, "content": {"application/json": {"example": {"code": "rate_limited", "message": "Лимит запросов превышен", "details": None}}}}, 503: {"model": ErrorResponse, "content": {"application/json": {"example": {"code": "assistant_unavailable", "message": "Ключ DeepSeek не настроен", "details": None}}}}, 502: {"model": ErrorResponse, "content": {"application/json": {"example": {"code": "deepseek_error", "message": "Сбой запроса DeepSeek", "details": None}}}}})
+async def assistant_answer(request: Request, body: AnswerRequest = Body(openapi_examples={
+    "auto": {"summary": "Автоматический выбор", "value": {"question": "Что такое звезда?", "mode": "auto", "locale": "ru"}},
+    "term": {"summary": "Краткое определение", "value": {"question": "Что такое звезда?", "mode": "term", "locale": "ru"}},
+    "article": {"summary": "Статья, если доступна", "value": {"question": "Расскажи подробно о звёздах", "mode": "article", "locale": "ru"}},
+    "explain": {"summary": "Составное объяснение", "value": {"question": "Чем звезда отличается от планеты?", "mode": "explain", "locale": "ru"}},
+    "general": {"summary": "Общий ответ", "value": {"question": "Что приготовить на ужин?", "mode": "general", "locale": "ru"}},
+})):
+    if not os.getenv("DEEPSEEK_API_KEY"):
+        return error(503, "assistant_unavailable", "Ключ DeepSeek не настроен")
+    token = str(uuid.uuid4())
+    limiter = request.app.state.rate_limiter
+    try:
+        if not limiter.acquire_call(token):
+            return error(503, "assistant_overloaded", "Помощник перегружен", headers={"Retry-After": "10"})
+        try:
+            result = await answer(body.question, body.mode, body.locale, body.context, request.app.state.deepseek)
+        finally:
+            limiter.release_call(token)
+    except AssistantUnavailable as exc:
+        return error(502, "deepseek_error", str(exc))
+    except redis.RedisError:
+        return error(503, "assistant_overloaded", "Помощник временно недоступен", headers={"Retry-After": "10"})
+    return AnswerResponse.model_validate(result)

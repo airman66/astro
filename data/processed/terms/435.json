@@ -1,0 +1,153 @@
+{
+  "id": "term:435",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 435,
+    "url": "https://astro4edu.org/resources/glossary/term/435/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=435",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:26.862425+00:00",
+    "sha256": "98f9fe4e6c7fda7776848b4160caeca156f07aeb8beeb1ab968dc671d09ddc5b"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      3
+    ],
+    "categories_ru": [
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      5,
+      70,
+      123,
+      224,
+      241,
+      242,
+      263,
+      349
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Cosmic Ray Astronomy",
+      "body": "This branch of astronomy is dedicated to studying sources of high energy charged particles in the Universe. This allows astronomers to study the properties of these sources, and various other associated aspects such as magnetic fields in the Universe. Cosmic rays can be observed using methods similar to those used in particle physics, or by looking for flashes of gamma rays that accompany high-speed charged particles moving through the atmosphere.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Active Galactic Nucleus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/5/",
+          "text_ru": "Активное ядро галактики"
+        },
+        {
+          "text": "Cosmic Ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/70/",
+          "text_ru": "Космический луч"
+        },
+        {
+          "text": "Gamma Ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/123/",
+          "text_ru": "Гамма-излучение"
+        },
+        {
+          "text": "Nucleus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/224/",
+          "text_ru": "Ядро"
+        },
+        {
+          "text": "Particle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/241/",
+          "text_ru": "Частица"
+        },
+        {
+          "text": "Particle Physics",
+          "url": "https://www.astro4edu.org/resources/glossary/term/242/",
+          "text_ru": "Физика элементарных частиц"
+        },
+        {
+          "text": "Proton",
+          "url": "https://www.astro4edu.org/resources/glossary/term/263/",
+          "text_ru": "Протон"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Cosmic Ray Astronomy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> This branch of astronomy is dedicated to studying sources of high energy charged particles in the Universe. This allows astronomers to study the properties of these sources, and various other associated aspects such as magnetic fields in the Universe. Cosmic rays can be observed using methods similar to those used in particle physics, or by looking for flashes of gamma rays that accompany high-speed charged particles moving through the atmosphere.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/5/\">Active Galactic Nucleus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/70/\">Cosmic Ray</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/123/\">Gamma Ray</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/224/\">Nucleus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/241/\">Particle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/242/\">Particle Physics</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/263/\">Proton</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Астрономия космических лучей",
+      "body_ru": "Эта ветвь астрономии посвящена изучению источников высокоэнергетических заряженных частиц во Вселенной. Это позволяет астрономам изучать свойства этих источников и различные другие связанные аспекты, такие как магнитные поля во Вселенной. Космические лучи можно наблюдать с помощью методов, аналогичных используемым в физике элементарных частиц, или путём поиска вспышек гамма-лучей, сопровождающих высокоскоростные заряженные частицы, движущиеся через атмосферу."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/435/\">علم فلك الأشعة الكونية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/435/\">Astronomie der kosmischen Strahlung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/435/\">Astronomía de rayos cósmicos </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/435/\">Astronomie des rayons cosmiques </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/435/\">astronomia dei raggi cosmici </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/435/\">우주선천문학 </a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/435/\">ब्रह्माण्डीय किरण खगोलविज्ञान </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/435/\">Astronomia de Raios Cósmicos </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/435/\">宇宙线天文学 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/435/\">宇宙線天文學 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Cosmic Ray Astronomy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Cosmic Ray Astronomy",
+          "body": "This branch of astronomy is dedicated to studying sources of high energy charged particles in the Universe. This allows astronomers to study the properties of these sources, and various other associated aspects such as magnetic fields in the Universe. Cosmic rays can be observed using methods similar to those used in particle physics, or by looking for flashes of gamma rays that accompany high-speed charged particles moving through the atmosphere."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Астрономия космических лучей",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Астрономия космических лучей",
+          "body": "Эта ветвь астрономии посвящена изучению источников высокоэнергетических заряженных частиц во Вселенной. Это позволяет астрономам изучать свойства этих источников и различные другие связанные аспекты, такие как магнитные поля во Вселенной. Космические лучи можно наблюдать с помощью методов, аналогичных используемым в физике элементарных частиц, или путём поиска вспышек гамма-лучей, сопровождающих высокоскоростные заряженные частицы, движущиеся через атмосферу."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

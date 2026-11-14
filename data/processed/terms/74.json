@@ -1,0 +1,246 @@
+{
+  "id": "term:74",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 74,
+    "url": "https://astro4edu.org/resources/glossary/term/74/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=74",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:28.723376+00:00",
+    "sha256": "80b9a623083a85295bf8a2de3bc3f54de55184f786e517b99ae6465b16f5d295"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      154,
+      203
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Crater",
+      "body": "A crater is a circular depression in the surface of a solid planet, moon, or other small object in space. Some craters are volcanic, especially on Earth and Venus, but most are impact craters, caused by the impact of a large space rock or comet nucleus. There are dozens of impact craters on the surface of Earth, and thousands on the Moon. The maria, the large, darker, circular features on the Moon are giant impact craters, formed billions of years ago, and then filled with lava, which has since solidified.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Impact Craters",
+          "url": "https://www.astro4edu.org/resources/glossary/term/154/",
+          "text_ru": "Ударные кратеры"
+        },
+        {
+          "text": "Moon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/203/",
+          "text_ru": "Луна"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Crater</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A crater is a circular depression in the surface of a solid planet, moon, or other small object in space. Some craters are volcanic, especially on Earth and Venus, but most are impact craters, caused by the impact of a large space rock or comet nucleus. There are dozens of impact craters on the surface of Earth, and thousands on the Moon. The maria, the large, darker, circular features on the Moon are giant impact craters, formed billions of years ago, and then filled with lava, which has since solidified.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/154/\">Impact Craters</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/203/\">Moon</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Кратер",
+      "body_ru": "Кратер — это круговое углубление на поверхности твёрдой планеты, луны или другого небольшого объекта в космосе. Некоторые кратеры имеют вулканическое происхождение, особенно на Земле и Венере, но большинство являются ударными кратерами, вызванными столкновением крупной космической скалы или ядра кометы. На поверхности Земли есть десятки ударных кратеров, а на Луне — тысячи. Моря, крупные, более тёмные, круглые образования на Луне, являются гигантскими ударными кратерами, образовавшимися миллиарды лет назад и затем заполненными лавой, которая с тех пор затвердела."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "クレーター (external link)",
+          "url": "https://astro-dic.jp/crater-2/",
+          "text_ru": "Кратер (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/74/\">فوهة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/74/\">Krater </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/74/\">Cráter </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/74/\">Cratère </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/74/\">क्रेटर (गोलाकार गड्ढा) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/74/\">Cratere </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/crater-2/\">クレーター (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/74/\">구덩이 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/74/\">विवर </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/74/\">Cratera </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/74/\">环形山 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/74/\">環形山 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/IM0jA0k975/"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        }
+      ],
+      "media_ids": [
+        "media:IM0jA0k975"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/IM0jA0k975/\"><img alt=\"The asteroid Ceres, roughly spherical with a grey surface, many craters, some of which reveal white subsurface water ice.\" src=\"/media/multimedia/thumbnails/Ceres_-_RC3_-_Haulani_Crater_22381131691_cropped_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ceres</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn in May 2015, at a distance of 13641 km. The prominent, bright crater at right is Haulani. The smaller bright spot to its left is exposed on the floor of Oxo. Ejecta from these impacts appears to have exposed bright material, probably water ice.<br/>\n<b>Credit:</b> NASA / JPL-Caltech / UCLA / MPS / DLR / IDA / Justin Cowart\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Impact Craters astroEDU educational activity (links to astroEDU website) Description: A literal Earth-Shattering experiment License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Impact \n  \n  , Experiment Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking Meteoroids, Meteors and Meteorites astroEDU educational activity (links to astroEDU website) Description: Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geology Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Interactive Lecture Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence Age that crater! astroEDU educational activity (links to astroEDU website) Description: Learn how to age craters with this Predict, Explain, Observe, Explain Activity! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Craters \n  \n  , Game \n  \n  , Maps \n  \n  , Geology Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Middle School \n  \n, Primary Areas of Learning: Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/impact-craters/\"><img alt=\"Impact Craters\" src=\"/media/astroedu/images/impact-craters_en_thumbnail_BfjEIAY.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/impact-craters/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Impact Craters</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>A literal Earth-Shattering experiment\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Impact \n  \n  , Experiment \n  \n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/meteoroids-meteors-and-meteorites/\"><img alt=\"Meteoroids, Meteors and Meteorites\" src=\"/media/astroedu/images/meteoroids-meteors-and-meteorites_en_thumbnail_4ViJtQ4.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/meteoroids-meteors-and-meteorites/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Meteoroids, Meteors and Meteorites</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Geology \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/age-that-crater/\"><img alt=\"Age that crater!\" src=\"/media/astroedu/images/age-that-crater_en_thumbnail_aehzcZE.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/age-that-crater/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Age that crater!</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn how to age craters with this Predict, Explain, Observe, Explain Activity!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Craters \n  \n  , Game \n  \n  , Maps \n  \n  , Geology \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nObservation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Ударные кратеры образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Буквально потрясающий Землю эксперимент Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , Воздействие \n  \n  , Эксперимент Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Начальная школа \n  \n, Среднее образование Области обучения: Обучение через управляемое открытие \n  \n, Моделирование \n  \n, Традиционный научный эксперимент Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Построение объяснений \n  \n, Участие в аргументации на основе доказательств \n  \n, Использование математики и вычислительного мышления Метеороиды, метеоры и метеориты образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Раскрытие тайны \"падающих звезд\": метеоры, метеориты и метеороиды Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Геология Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная школа Области обучения: Интерактивная лекция Затраты: Низкие затраты Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Участие в аргументации на основе доказательств Определи возраст этого кратера! образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте, как определить возраст кратеров с помощью этого упражнения «Предскажи, объясни, наблюдай, объясни»! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Кратеры \n  \n  , Игра \n  \n  , Карты \n  \n  , Геология Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Средняя школа \n  \n, Начальная школа Области обучения: На основе наблюдений \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Crater",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Crater",
+          "body": "A crater is a circular depression in the surface of a solid planet, moon, or other small object in space. Some craters are volcanic, especially on Earth and Venus, but most are impact craters, caused by the impact of a large space rock or comet nucleus. There are dozens of impact craters on the surface of Earth, and thousands on the Moon. The maria, the large, darker, circular features on the Moon are giant impact craters, formed billions of years ago, and then filled with lava, which has since solidified."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Impact Craters astroEDU educational activity (links to astroEDU website) Description: A literal Earth-Shattering experiment License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Impact \n  \n  , Experiment Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking Meteoroids, Meteors and Meteorites astroEDU educational activity (links to astroEDU website) Description: Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geology Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Interactive Lecture Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence Age that crater! astroEDU educational activity (links to astroEDU website) Description: Learn how to age craters with this Predict, Explain, Observe, Explain Activity! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Craters \n  \n  , Game \n  \n  , Maps \n  \n  , Geology Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Middle School \n  \n, Primary Areas of Learning: Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence"
+        }
+      }
+    },
+    "ru": {
+      "title": "Кратер",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Кратер",
+          "body": "Кратер — это круговое углубление на поверхности твёрдой планеты, луны или другого небольшого объекта в космосе. Некоторые кратеры имеют вулканическое происхождение, особенно на Земле и Венере, но большинство являются ударными кратерами, вызванными столкновением крупной космической скалы или ядра кометы. На поверхности Земли есть десятки ударных кратеров, а на Луне — тысячи. Моря, крупные, более тёмные, круглые образования на Луне, являются гигантскими ударными кратерами, образовавшимися миллиарды лет назад и затем заполненными лавой, которая с тех пор затвердела."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Ударные кратеры образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Буквально потрясающий Землю эксперимент Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , Воздействие \n  \n  , Эксперимент Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Начальная школа \n  \n, Среднее образование Области обучения: Обучение через управляемое открытие \n  \n, Моделирование \n  \n, Традиционный научный эксперимент Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Построение объяснений \n  \n, Участие в аргументации на основе доказательств \n  \n, Использование математики и вычислительного мышления Метеороиды, метеоры и метеориты образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Раскрытие тайны \"падающих звезд\": метеоры, метеориты и метеороиды Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Геология Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная школа Области обучения: Интерактивная лекция Затраты: Низкие затраты Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Участие в аргументации на основе доказательств Определи возраст этого кратера! образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте, как определить возраст кратеров с помощью этого упражнения «Предскажи, объясни, наблюдай, объясни»! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Кратеры \n  \n  , Игра \n  \n  , Карты \n  \n  , Геология Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Средняя школа \n  \n, Начальная школа Области обучения: На основе наблюдений \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:IM0jA0k975",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Ceres_-_RC3_-_Haulani_Crater_22381131691_cropped.jpg",
+      "record_url": "https://astro4edu.org/resources/media/IM0jA0k975/",
+      "original_path": "data/media/original/media_IM0jA0k975.jpg",
+      "ru_path": null,
+      "sha256": "0c855604d72e1b9883d10af0f5b80b2d484964a9139d3527acbceeae709e40ed",
+      "size": 269287,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn",
+      "short_caption_ru": "Изображение астероида Церера в истинных цветах, полученное космическим зондом Dawn",
+      "caption_en": "True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn in May 2015, at a distance of 13641 km. The prominent, bright crater at right is Haulani. The smaller bright spot to its left is exposed on the floor of Oxo. Ejecta from these impacts appears to have exposed bright material, probably water ice.",
+      "caption_ru": "Изображение астероида Церера в истинных цветах, полученное космическим зондом Dawn в мае 2015 года на расстоянии 13 641 км. Заметный яркий кратер справа — Хаулани. Меньшее яркое пятно слева от него обнажено на дне Оксо. Выбросы от этих ударов, по-видимому, обнажили яркий материал, вероятно, водяной лёд.",
+      "alt_en": "The asteroid Ceres, roughly spherical with a grey surface, many craters, some of which reveal white subsurface water ice.",
+      "alt_ru": "Астероид Церера, примерно сферической формы с серой поверхностью, множество кратеров, некоторые из которых обнажают белый подповерхностный водяной лёд.",
+      "credit": "NASA / JPL-Caltech / UCLA / MPS / DLR / IDA / Justin Cowart",
+      "credit_url": null,
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        18,
+        74,
+        87,
+        154
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

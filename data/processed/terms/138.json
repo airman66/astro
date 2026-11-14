@@ -1,0 +1,176 @@
+{
+  "id": "term:138",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 138,
+    "url": "https://astro4edu.org/resources/glossary/term/138/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=138",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:57.085628+00:00",
+    "sha256": "a2c704f2b2d75aa5c1ac76bf5fed8f821b2b8ec2240700c84a03ebe7e4f6ee71"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society"
+    ],
+    "category_ids": [
+      11
+    ],
+    "categories_ru": [
+      "Астрономия и общество"
+    ],
+    "related_term_numbers": [
+      373
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Greenwich Mean Time Zone (GMT)",
+      "body": "The time zone in which the historic Royal Observatory at Greenwich, Great Britain, is located is called the Greenwich Mean Time zone, or alternatively the Western European time zone. Historically, Greenwich Mean Time (GMT) was the mean solar time determined at the Royal Observatory and used as the reference point for naval chronometers carried on ships. Navigators would determine the time of their local noon (the highest point above the horizon reached by the Sun in a given day) by observations using a sextant or similar device and compare with the GMT shown by their chronometer; the difference allowed them to determine their geographic longitude. In the modern system, time in the GMT time zone corresponds to Universal Time Coordinated (UTC), written as \"UTC + 0h\".",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Universal Time (UT)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/373/",
+          "text_ru": "Всемирное время (UT)"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Greenwich Mean Time Zone (GMT)</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The time zone in which the historic Royal Observatory at Greenwich, Great Britain, is located is called the Greenwich Mean Time zone, or alternatively the Western European time zone. Historically, Greenwich Mean Time (GMT) was the mean solar time determined at the Royal Observatory and used as the reference point for naval chronometers carried on ships. Navigators would determine the time of their local noon (the highest point above the horizon reached by the Sun in a given day) by observations using a sextant or similar device and compare with the GMT shown by their chronometer; the difference allowed them to determine their geographic longitude. In the modern system, time in the GMT time zone corresponds to Universal Time Coordinated (UTC), written as \"UTC + 0h\".</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/373/\">Universal Time (UT)</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Среднее время по Гринвичу (GMT)",
+      "body_ru": "Часовой пояс, в котором расположена историческая Королевская обсерватория в Гринвиче, Великобритания, называется часовым поясом среднего времени по Гринвичу, или, альтернативно, западноевропейским часовым поясом. Исторически среднее время по Гринвичу (GMT) было средним солнечным временем, определяемым в Королевской обсерватории и используемым в качестве точки отсчета для морских хронометров, перевозимых на кораблях. Навигаторы определяли время своего местного полудня (наивысшей точки над горизонтом, достигаемой Солнцем в данный день) с помощью наблюдений с использованием секстанта или аналогичного устройства и сравнивали с GMT, показанным их хронометром; разница позволяла им определить свою географическую долготу. В современной системе время в часовом поясе GMT соответствует Всемирному координированному времени (UTC), записываемому как \"UTC + 0ч\"."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/138/\">التوقيت المتوسط لجرينتش </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/138/\">Greenwich Mean Time (GMT) </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/138/\">Zona horaria de Greenwich (GMT) </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/138/\">Fuseau horaire de Greenwich (GMT) </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/138/\">ग्रीनविच मीन टाइम ज़ोन (जीएमटी) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/138/\">Fuso orario medio di Greenwich (GMT) </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/138/\">ग्रीनविच मीन टाइम झोन (GMT) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/138/\">Fuso Horário de Greenwich (GMT) </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/138/\">格林尼治标准时区（GMT） </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/138/\">格林尼治標準時區（GMT） </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/jh312430Ry7/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:World_Time_Zones_Map.png",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:jh312430Ry7"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/jh312430Ry7/\"><img alt=\"Map of the world with different time zones marked by color. The basic pattern is timezones as 15-degree swathes of longitude.\" src=\"/media/multimedia/thumbnails/map-of-de-facto-time-zones-on-earth_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Map of de-facto time zones on Earth</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Due to the Earth's spherical shape and its rotation around its own axis, local noon – the moment in time when, for an observer at a specific geographic location, the Sun reaches its highest position in the sky varies with longitude. That is why a time coordinate, such as Universal Time (UT or UTC), might be of advantage for specifying moments in time in a unified way. But a global time coordinate will be out of synch with the local day-night rhythm in most locations on Earth. A compromise is to divide Earth into zones each comprising 15 degrees of longitude, and in each zone define time as UTC plus or minus an integer number of hours, with the offset chosen so as to make time match as closely with local time at the middle longitude of the time zone. In practice, political considerations have altered the time zone boundaries somewhat. When a country straddles several time zones, it is not uncommon for the country's government to choose one of those time zones to define the country's official time. \n\nThis map, originally created by the CIA and updated by several Wikimedia Commons users, shows the current definitions of the world's time zones. The IAU OAE is not the original author of this map. The designations employed and the presentation of the material on this maps do not imply the expression of any opinion whatsoever on the part of the IAU or the IAU OAE concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.<br/>\n<b>Credit:</b> Wikimedia Users UnaitxuGV, Heitordp and others based on a map created by the U.S. Central Intelligence Agency (CIA)\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:World_Time_Zones_Map.png\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Greenwich Mean Time Zone (GMT)",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Greenwich Mean Time Zone (GMT)",
+          "body": "The time zone in which the historic Royal Observatory at Greenwich, Great Britain, is located is called the Greenwich Mean Time zone, or alternatively the Western European time zone. Historically, Greenwich Mean Time (GMT) was the mean solar time determined at the Royal Observatory and used as the reference point for naval chronometers carried on ships. Navigators would determine the time of their local noon (the highest point above the horizon reached by the Sun in a given day) by observations using a sextant or similar device and compare with the GMT shown by their chronometer; the difference allowed them to determine their geographic longitude. In the modern system, time in the GMT time zone corresponds to Universal Time Coordinated (UTC), written as \"UTC + 0h\"."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Среднее время по Гринвичу (GMT)",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Среднее время по Гринвичу (GMT)",
+          "body": "Часовой пояс, в котором расположена историческая Королевская обсерватория в Гринвиче, Великобритания, называется часовым поясом среднего времени по Гринвичу, или, альтернативно, западноевропейским часовым поясом. Исторически среднее время по Гринвичу (GMT) было средним солнечным временем, определяемым в Королевской обсерватории и используемым в качестве точки отсчета для морских хронометров, перевозимых на кораблях. Навигаторы определяли время своего местного полудня (наивысшей точки над горизонтом, достигаемой Солнцем в данный день) с помощью наблюдений с использованием секстанта или аналогичного устройства и сравнивали с GMT, показанным их хронометром; разница позволяла им определить свою географическую долготу. В современной системе время в часовом поясе GMT соответствует Всемирному координированному времени (UTC), записываемому как \"UTC + 0ч\"."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:jh312430Ry7",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/map-of-de-facto-time-zones-on-earth.png",
+      "record_url": "https://astro4edu.org/resources/media/jh312430Ry7/",
+      "original_path": "data/media/original/media_jh312430Ry7.png",
+      "ru_path": null,
+      "sha256": "b96c03baf54e8139934a4ded5aefdf42abefc70ba8521258577b2b9551a8af59",
+      "size": 2881798,
+      "title_en": "Map of de-facto time zones on Earth",
+      "title_ru": "Карта фактических часовых поясов на Земле",
+      "short_caption_en": "Map of de-facto time zones on Earth",
+      "short_caption_ru": "Карта фактических часовых поясов на Земле",
+      "caption_en": "Due to the Earth's spherical shape and its rotation around its own axis, local noon – the moment in time when, for an observer at a specific geographic location, the Sun reaches its highest position in the sky varies with longitude. That is why a time coordinate, such as Universal Time (UT or UTC), might be of advantage for specifying moments in time in a unified way. But a global time coordinate will be out of synch with the local day-night rhythm in most locations on Earth. A compromise is to divide Earth into zones each comprising 15 degrees of longitude, and in each zone define time as UTC plus or minus an integer number of hours, with the offset chosen so as to make time match as closely with local time at the middle longitude of the time zone. In practice, political considerations have altered the time zone boundaries somewhat. When a country straddles several time zones, it is not uncommon for the country's government to choose one of those time zones to define the country's official time. \r\n\r\nThis map, originally created by the CIA and updated by several Wikimedia Commons users, shows the current definitions of the world's time zones. The IAU OAE is not the original author of this map. The designations employed and the presentation of the material on this maps do not imply the expression of any opinion whatsoever on the part of the IAU or the IAU OAE concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.",
+      "caption_ru": "Из-за сферической формы Земли и её вращения вокруг своей оси местный полдень – момент времени, когда для наблюдателя в определённом географическом месте Солнце достигает своего наивысшего положения в небе, – изменяется с долготой. Вот почему временная координата, такая как Всемирное время (UT или UTC), может быть полезной для указания моментов времени унифицированным способом. Но глобальная временная координата будет не синхронизирована с местным суточным ритмом в большинстве мест на Земле. Компромисс состоит в том, чтобы разделить Землю на зоны, каждая из которых охватывает 15 градусов долготы, и в каждой зоне определить время как UTC плюс или минус целое число часов, причём смещение выбирается так, чтобы время как можно точнее соответствовало местному времени на средней долготе часового пояса. На практике политические соображения несколько изменили границы часовых поясов. Когда страна охватывает несколько часовых поясов, нередко правительство страны выбирает один из этих часовых поясов для определения официального времени страны. \r\n\r\nЭта карта, первоначально созданная ЦРУ и обновлённая несколькими пользователями Викисклада, показывает текущие определения часовых поясов мира. IAU OAE не является первоначальным автором этой карты. Обозначения, используемые и представление материала на этой карте, не подразумевают выражения какого-либо мнения со стороны IAU или IAU OAE относительно правового статуса какой-либо страны, территории, города или района или их властей, или относительно делимитации их границ.",
+      "alt_en": "Map of the world with different time zones marked by color. The basic pattern is timezones as 15-degree swathes of longitude.",
+      "alt_ru": "Карта мира с различными часовыми поясами, отмеченными цветом. Основной шаблон — часовые пояса в виде полос долготы по 15 градусов.",
+      "credit": "Wikimedia Users UnaitxuGV, Heitordp and others based on a map created by the U.S. Central Intelligence Agency (CIA)",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:World_Time_Zones_Map.png",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        138,
+        179,
+        362,
+        373
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

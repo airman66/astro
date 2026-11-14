@@ -1,0 +1,114 @@
+{
+  "id": "term:395",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 395,
+    "url": "https://astro4edu.org/resources/glossary/term/395/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=395",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:13.707305+00:00",
+    "sha256": "12d1b88cdfc86b3296e2e559feb155faad5a1547a89dbb6a6c865c08b6615ae3"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": 98,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Ellipse",
+      "body": "An ellipse is a two-dimensional shape that resembles a squashed or elongated circle. The widest distance across an ellipse is called the major axis and the shortest distance is called the minor axis. An ellipse has two foci (plural of focus) that lie along the major axis with both having the same distance from the widest points. At any point on the ellipse, the sum of the distances to the two foci is constant. The eccentricity, e, of an ellipse defines how squashed it is and lies within the range 0 A closed orbit such as the Earth's orbit around the Sun follows the shape of an ellipse. An orbit is characterized by the semi-major axis (half the size of the major axis) and eccentricity, but to fully describe an orbit the orientation of the ellipse also needs to be known. Unclosed orbits such as comets that make only one visit to the inner Solar System before being flung out into interstellar space follow parabolas (e=1) or hyperbolas (e>1).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Kepler's Laws",
+          "url": "https://www.astro4edu.org/resources/glossary/term/169/",
+          "text_ru": "Законы Кеплера"
+        },
+        {
+          "text": "Orbit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/232/",
+          "text_ru": "Орбита"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Ellipse</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Eccentricity</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An ellipse is a two-dimensional shape that resembles a squashed or elongated circle. The widest distance across an ellipse is called the major axis and the shortest distance is called the minor axis. An ellipse has two foci (plural of focus) that lie along the major axis with both having the same distance from the widest points. At any point on the ellipse, the sum of the distances to the two foci is constant. The eccentricity, e, of an ellipse defines how squashed it is and lies within the range 0<e<1. <br=\"\" a=\"\" and=\"\" circle=\"\" eccentricity=\"\" eccentricity,=\"\" ellipse=\"\" has=\"\" just=\"\" long,=\"\" one.=\"\" smaller=\"\" than=\"\" thin=\"\" very=\"\" zero=\"\"><br/>A closed orbit such as the Earth's orbit around the Sun follows the shape of an ellipse. An orbit is characterized by the semi-major axis (half the size of the major axis) and eccentricity, but to fully describe an orbit the orientation of the ellipse also needs to be known. <br/><br/>Unclosed orbits such as comets that make only one visit to the inner Solar System before being flung out into interstellar space follow parabolas (e=1) or hyperbolas (e&gt;1).</e<1.></p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/169/\">Kepler's Laws</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/232/\">Orbit</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Эллипс",
+      "body_ru": "Эллипс — это двумерная форма, напоминающая сплющенный или вытянутый круг. Самое широкое расстояние поперек эллипса называется большой осью, а самое короткое — малой осью. Эллипс имеет два фокуса (множественное число от фокус), которые лежат вдоль большой оси, и оба находятся на одинаковом расстоянии от самых широких точек. В любой точке эллипса сумма расстояний до двух фокусов постоянна. Эксцентриситет e эллипса определяет, насколько он сплющен, и находится в диапазоне 0 Замкнутая орбита, такая как орбита Земли вокруг Солнца, имеет форму эллипса. Орбита характеризуется большой полуосью (половиной размера большой оси) и эксцентриситетом, но для полного описания орбиты также необходимо знать ориентацию эллипса. Незамкнутые орбиты, такие как кометы, которые совершают только один визит во внутреннюю Солнечную систему, прежде чем быть выброшенными в межзвездное пространство, следуют параболам (e=1) или гиперболам (e>1)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/98/\">القطع الناقص </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/98/\">Ellipse </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/98/\">Elipse </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/98/\">Ellipse </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/98/\">Ellisse </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/98/\">Elipse </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/98/\">椭圆 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/98/\">橢圓 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Eccentricity",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Ellipse",
+          "body": "An ellipse is a two-dimensional shape that resembles a squashed or elongated circle. The widest distance across an ellipse is called the major axis and the shortest distance is called the minor axis. An ellipse has two foci (plural of focus) that lie along the major axis with both having the same distance from the widest points. At any point on the ellipse, the sum of the distances to the two foci is constant. The eccentricity, e, of an ellipse defines how squashed it is and lies within the range 0 A closed orbit such as the Earth's orbit around the Sun follows the shape of an ellipse. An orbit is characterized by the semi-major axis (half the size of the major axis) and eccentricity, but to fully describe an orbit the orientation of the ellipse also needs to be known. Unclosed orbits such as comets that make only one visit to the inner Solar System before being flung out into interstellar space follow parabolas (e=1) or hyperbolas (e>1)."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Эксцентриситет",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Эллипс",
+          "body": "Эллипс — это двумерная форма, напоминающая сплющенный или вытянутый круг. Самое широкое расстояние поперек эллипса называется большой осью, а самое короткое — малой осью. Эллипс имеет два фокуса (множественное число от фокус), которые лежат вдоль большой оси, и оба находятся на одинаковом расстоянии от самых широких точек. В любой точке эллипса сумма расстояний до двух фокусов постоянна. Эксцентриситет e эллипса определяет, насколько он сплющен, и находится в диапазоне 0 Замкнутая орбита, такая как орбита Земли вокруг Солнца, имеет форму эллипса. Орбита характеризуется большой полуосью (половиной размера большой оси) и эксцентриситетом, но для полного описания орбиты также необходимо знать ориентацию эллипса. Незамкнутые орбиты, такие как кометы, которые совершают только один визит во внутреннюю Солнечную систему, прежде чем быть выброшенными в межзвездное пространство, следуют параболам (e=1) или гиперболам (e>1)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

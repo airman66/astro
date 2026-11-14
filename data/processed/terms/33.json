@@ -1,0 +1,586 @@
+{
+  "id": "term:33",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 33,
+    "url": "https://astro4edu.org/resources/glossary/term/33/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=33",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:14.485699+00:00",
+    "sha256": "45cb255f5ed336e7bde0f98820e0b7a2af195835e98690e26e5a621b66e64322"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Exoplanets & Astrobiology",
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      11,
+      6,
+      4
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Экзопланеты и астробиология",
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      184,
+      308,
+      315,
+      323,
+      455
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Aurora",
+      "body": "An aurora is a display of diffuse variable-color light in Earth's atmosphere, mainly in the polar regions. In the north it is known as the Northern Lights or aurora borealis, in the south, Southern Lights or aurora australis. The aurorae vary in color from blue and purple to greenish-white to red, mainly occur at altitudes of about 100 kilometers, and form around two irregular auroral ovals centered on Earth's magnetic poles. They occur when charged particles from the solar wind or coronal mass ejections (CMEs) are trapped in Earth's magnetosphere, concentrated by magnetic fields in the upper atmosphere, and spiral along Earth's magnetic field lines toward the poles. Their interactions with atmospheric atoms and molecules produce the auroral emissions. This effect is enhanced during times of high solar activity. Aurora have also been observed on other planets in the Solar System notably on Jupiter and Saturn.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Magnetic Poles",
+          "url": "https://www.astro4edu.org/resources/glossary/term/184/",
+          "text_ru": "Магнитные полюса"
+        },
+        {
+          "text": "Solar Cycle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/308/",
+          "text_ru": "Солнечный цикл"
+        },
+        {
+          "text": "Solar Wind",
+          "url": "https://www.astro4edu.org/resources/glossary/term/315/",
+          "text_ru": "Солнечный ветер"
+        },
+        {
+          "text": "Space Weather",
+          "url": "https://www.astro4edu.org/resources/glossary/term/323/",
+          "text_ru": "Космическая погода"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Aurora</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Aurorae</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An aurora is a display of diffuse variable-color light in Earth's atmosphere, mainly in the polar regions. In the north it is known as the Northern Lights or aurora borealis, in the south, Southern Lights or aurora australis. The aurorae vary in color from blue and purple to greenish-white to red, mainly occur at altitudes of about 100 kilometers, and form around two irregular auroral ovals centered on Earth's magnetic poles. They occur when charged particles from the solar wind or coronal mass ejections (CMEs) are trapped in Earth's magnetosphere, concentrated by magnetic fields in the upper atmosphere, and spiral along Earth's magnetic field lines toward the poles. Their interactions with atmospheric atoms and molecules produce the auroral emissions. This effect is enhanced during times of high solar activity. Aurora have also been observed on other planets in the Solar System notably on Jupiter and Saturn.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/184/\">Magnetic Poles</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/308/\">Solar Cycle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/315/\">Solar Wind</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/323/\">Space Weather</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Полярное сияние",
+      "body_ru": "Полярное сияние — это явление диффузного свечения переменного цвета в атмосфере Земли, главным образом в полярных регионах. На севере оно известно как Северное сияние или aurora borealis, на юге — Южное сияние или aurora australis. Полярные сияния различаются по цвету от синего и фиолетового до зеленовато-белого и красного, возникают в основном на высотах около 100 километров и образуются вокруг двух неправильных овалов сияния, центрированных на магнитных полюсах Земли. Они возникают, когда заряженные частицы солнечного ветра или корональных выбросов массы (КВМ) захватываются магнитосферой Земли, концентрируются магнитными полями в верхней атмосфере и движутся по спирали вдоль линий магнитного поля Земли к полюсам. Их взаимодействие с атомами и молекулами атмосферы вызывает эмиссию полярного сияния. Этот эффект усиливается в периоды высокой солнечной активности. Полярные сияния также наблюдались на других планетах Солнечной системы, в частности на Юпитере и Сатурне."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "オーロラ (external link)",
+          "url": "https://astro-dic.jp/aurora/",
+          "text_ru": "Полярное сияние (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/33/\">الشفق القطبي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/33/\">Polarlicht </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/33/\">Aurora </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/33/\">Aurore </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/33/\">Aurora </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/aurora/\">オーロラ (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/33/\">Aurora </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/33/\">极光 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/33/\">極光 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Zu36MC18ty9/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/VB285P558e95/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/966138626D19/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/WC41Rk70Ij41/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Rr92UL1DP68/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Aurora&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:Zu36MC18ty9",
+        "media:VB285P558e95",
+        "media:966138626D19",
+        "media:WC41Rk70Ij41",
+        "media:Rr92UL1DP68"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Zu36MC18ty9/\"><img alt=\"A Y-shaped band of light with light and dark patches, in the colours green and pink glows in the sky over some buildings\" src=\"/media/multimedia/thumbnails/Till_the_end_of_the_world_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Till the End of the World, by Hang Li, China</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses).\n\nAurorae are often called \"Northern Lights\" in Europe or North America but here we see that they also exist at the extreme south of our planet. Taken at Zhongshan Station, Antarctica, this time-lapse (speeded up) video shows how some bands of Aurora can remain stable over longer times while other features appear to \"dance\". See how many different patterns of swirls and waves you can spot in the video.<br/>\n<b>Credit:</b> Hang Li/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/VB285P558e95/\"><img alt=\"An all-sky image with the sky as a dark blue circle. A curved band of light stretches from top to bottom\" src=\"/media/multimedia/thumbnails/Under_the_stars_with_steve_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Under the Stars with Steve, by Sheila Wiwchar, Canada</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses).\n\nThis is a strange atmospheric phenomenon known as Steve. This is similar to an aurora as it is caused by charged particles interacting with the Earth's magnetic field. However unlike aurorae, the particles which cause Steve are generated high in the Earth's atmosphere rather than coming from the Sun. Note the banded \"picket fence\" appearance. This is caused by waves of these particles in the upper atmosphere. The name Steve was chosen by the first group to describe this phenomenon as a familiar name for something unknown.\n\nSheila Wiwchar/IAU OAE<br/>\n<b>Credit:</b> Wiwchar, Sheila; IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/966138626D19/\"><img alt=\"Curved green bands of light radiate out from the horizon, diffusing to wider bands at the top of the image.\" src=\"/media/multimedia/thumbnails/Icelandic_rivers_of_light.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Icelandic Rivers of Light, by Sergio Díaz Ruiz, Spain</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses)\n\nThis video shows how aurorae evolve slowly over timescales of a few minutes. Note the clouds being illuminated from behind in the last two shots. Aurorae are caused by interactions between the charged particles blown out in huge explosions from the Sun and the Earth's magnetic field. The changes over time are caused by huge waves of particles pushing the Earth's magnetic field into strange shapes before it snaps back into place.<br/>\n<b>Credit:</b> Sergio Díaz Ruiz/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/WC41Rk70Ij41/\"><img alt=\"The left side of the image shows the sky glowing green. The right side has a darker sky but has green streaks\" src=\"/media/multimedia/thumbnails/multicolored-aurora-in-iceland-by-marco-migliardi-on-behalf-of-ass_VJKSXIM.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Multicolored aurora in Iceland, by Marco Migliardi on behalf of Associazione Astronomica Cortina, Italy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\n\nAurorae are the result of ionisation and excitation processes in Earth's upper atmosphere, caused by charged particles from the solar wind or from coronal mass ejections. The different colours in an aurora display indicate the species of atmospheric atoms and molecules involved. The most common colour is a bright green, which, together with deep red, originates from atomic oxygen. Blue, purple and pink hues are much rarer and originate from molecular nitrogen. The reflection of the aurora in the water indicates the brightness of intense aurorae at higher latitudes.<br/>\n<b>Credit:</b> Marco Migliardi on behalf of Associazione Astronomica Cortina/IAU OAE.\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Rr92UL1DP68/\"><img alt=\"A green, curved, y-shaped band of light over a mountainous horizon\" src=\"/media/multimedia/thumbnails/northern-light-dragon-over-ersfjordbotnnorway_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Northern light dragon over Ersfjordbotn/Norway</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\n\nAurorae often display waving curtain-like patterns where arcs or bands form moving curls, folds, or even spirals. These irregular shapes mirror the small-scale structure of Earth's magnetic field interacting with charged particle flows. Although the full Moon illuminates both the landscape and the night sky, the auroa is easily visible, which demonstrates that it can be a very bright and colourful phenomenon.<br/>\n<b>Credit:</b> Rainer Sparenberg/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Aurora&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Aurora",
+      "aliases": [
+        "Aurorae"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Aurora",
+          "body": "An aurora is a display of diffuse variable-color light in Earth's atmosphere, mainly in the polar regions. In the north it is known as the Northern Lights or aurora borealis, in the south, Southern Lights or aurora australis. The aurorae vary in color from blue and purple to greenish-white to red, mainly occur at altitudes of about 100 kilometers, and form around two irregular auroral ovals centered on Earth's magnetic poles. They occur when charged particles from the solar wind or coronal mass ejections (CMEs) are trapped in Earth's magnetosphere, concentrated by magnetic fields in the upper atmosphere, and spiral along Earth's magnetic field lines toward the poles. Their interactions with atmospheric atoms and molecules produce the auroral emissions. This effect is enhanced during times of high solar activity. Aurora have also been observed on other planets in the Solar System notably on Jupiter and Saturn."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Полярное сияние",
+      "aliases": [
+        "Полярные сияния"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Полярное сияние",
+          "body": "Полярное сияние — это явление диффузного свечения переменного цвета в атмосфере Земли, главным образом в полярных регионах. На севере оно известно как Северное сияние или aurora borealis, на юге — Южное сияние или aurora australis. Полярные сияния различаются по цвету от синего и фиолетового до зеленовато-белого и красного, возникают в основном на высотах около 100 километров и образуются вокруг двух неправильных овалов сияния, центрированных на магнитных полюсах Земли. Они возникают, когда заряженные частицы солнечного ветра или корональных выбросов массы (КВМ) захватываются магнитосферой Земли, концентрируются магнитными полями в верхней атмосфере и движутся по спирали вдоль линий магнитного поля Земли к полюсам. Их взаимодействие с атомами и молекулами атмосферы вызывает эмиссию полярного сияния. Этот эффект усиливается в периоды высокой солнечной активности. Полярные сияния также наблюдались на других планетах Солнечной системы, в частности на Юпитере и Сатурне."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Zu36MC18ty9",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5279614/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28time-lapses%29%3A%20Till%20the%20End%20of%20the%20World%2C%20by%20Hang%20Li%2C%20China.mp4",
+      "record_url": "https://astro4edu.org/resources/media/Zu36MC18ty9/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Aurora Australis from Zhongshan Station, Antarctica",
+      "short_caption_ru": "Южное сияние со станции Чжуншань, Антарктида",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses).\r\n\r\nAurorae are often called \"Northern Lights\" in Europe or North America but here we see that they also exist at the extreme south of our planet. Taken at Zhongshan Station, Antarctica, this time-lapse (speeded up) video shows how some bands of Aurora can remain stable over longer times while other features appear to \"dance\". See how many different patterns of swirls and waves you can spot in the video.",
+      "caption_ru": "Первое место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (таймлапсы).\r\n\r\nПолярные сияния часто называют «Северным сиянием» в Европе или Северной Америке, но здесь мы видим, что они существуют и на крайнем юге нашей планеты. Снятое на станции Чжуншань, Антарктида, это видео с ускоренной съемкой (таймлапс) показывает, как некоторые полосы сияния могут оставаться стабильными в течение длительного времени, в то время как другие элементы, кажется, «танцуют». Посмотрите, сколько различных узоров завихрений и волн вы сможете заметить в видео.",
+      "alt_en": "A Y-shaped band of light with light and dark patches, in the colours green and pink glows in the sky over some buildings",
+      "alt_ru": "Y-образная полоса света со светлыми и темными участками, в цветах зеленого и розового свечения в небе над некоторыми зданиями",
+      "credit": "Hang Li/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        160,
+        510
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:VB285P558e95",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5279746/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28time-lapses%29%3A%20Under%20the%20Stars%20with%20Steve%2C%20by%20Sheila%20Wiwchar%2C%20Canada.mp4",
+      "record_url": "https://astro4edu.org/resources/media/VB285P558e95/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A strange atmospheric phenomenon known as Steve.",
+      "short_caption_ru": "Странное атмосферное явление, известное как Стив.",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses).\r\n\r\nThis is a strange atmospheric phenomenon known as Steve. This is similar to an aurora as it is caused by charged particles interacting with the Earth's magnetic field. However unlike aurorae, the particles which cause Steve are generated high in the Earth's atmosphere rather than coming from the Sun. Note the banded \"picket fence\" appearance. This is caused by waves of these particles in the upper atmosphere. The name Steve was chosen by the first group to describe this phenomenon as a familiar name for something unknown.\r\n\r\nSheila Wiwchar/IAU OAE",
+      "caption_ru": "Третье место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (таймлапсы).\r\n\r\nЭто странное атмосферное явление, известное как Стив. Оно похоже на полярное сияние, так как вызвано взаимодействием заряженных частиц с магнитным полем Земли. Однако, в отличие от полярных сияний, частицы, вызывающие Стива, генерируются высоко в атмосфере Земли, а не приходят от Солнца. Обратите внимание на полосчатый вид «частокола». Это вызвано волнами этих частиц в верхней атмосфере. Название «Стив» было выбрано первой группой, описавшей это явление, как привычное имя для чего-то неизвестного.\r\n\r\nШейла Вивчар/МАС OAE",
+      "alt_en": "An all-sky image with the sky as a dark blue circle. A curved band of light stretches from top to bottom",
+      "alt_ru": "Панорамное изображение всего неба, где небо представлено в виде темно-синего круга. Изогнутая полоса света простирается сверху вниз",
+      "credit": "Wiwchar, Sheila; IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:966138626D19",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5279740/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28time-lapses%29%3A%20Icelandic%20Rivers%20of%20Light%2C%20by%20Sergio%20D%C3%ADaz%20Ruiz%2C%20Spain.mp4",
+      "record_url": "https://astro4edu.org/resources/media/966138626D19/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This video shows how aurorae evolve slowly over timescales of a few minutes.",
+      "short_caption_ru": "Это видео показывает, как полярные сияния медленно развиваются на временных масштабах в несколько минут.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses)\r\n\r\nThis video shows how aurorae evolve slowly over timescales of a few minutes. Note the clouds being illuminated from behind in the last two shots. Aurorae are caused by interactions between the charged particles blown out in huge explosions from the Sun and the Earth's magnetic field. The changes over time are caused by huge waves of particles pushing the Earth's magnetic field into strange shapes before it snaps back into place.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (таймлапсы)\r\n\r\nЭто видео показывает, как полярные сияния медленно развиваются на временных масштабах в несколько минут. Обратите внимание на облака, подсвеченные сзади в последних двух кадрах. Полярные сияния вызваны взаимодействием между заряженными частицами, выброшенными в результате огромных взрывов на Солнце, и магнитным полем Земли. Изменения со временем вызваны огромными волнами частиц, которые деформируют магнитное поле Земли в странные формы, прежде чем оно возвращается в исходное положение.",
+      "alt_en": "Curved green bands of light radiate out from the horizon, diffusing to wider bands at the top of the image.",
+      "alt_ru": "Изогнутые зеленые полосы света излучаются от горизонта, расширяясь до более широких полос в верхней части изображения.",
+      "credit": "Sergio Díaz Ruiz/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        160,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:WC41Rk70Ij41",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5273473/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28still%20images%29%3A%20Multicolored%20aurora%20in%20Iceland%2C%20by%20Marco%20Migliardi%20on%20behalf%20of%20Associazione%20Astronomica%20Cortina%2C%20Italy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/WC41Rk70Ij41/",
+      "original_path": "data/media/original/media_WC41Rk70Ij41.jpg",
+      "ru_path": null,
+      "sha256": "8f1cf437281fec0771b9404c6f3a36ffd009ed335b02580f04a3ffc1d4fe4c48",
+      "size": 3751934,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Aurorae are the result of ionisation and excitation processes in Earth's upper atmosphere, caused by charged particles from the solar wind or from coronal mass ejections.",
+      "short_caption_ru": "Полярные сияния являются результатом процессов ионизации и возбуждения в верхней атмосфере Земли, вызванных заряженными частицами солнечного ветра или корональных выбросов массы.",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\r\n\r\nAurorae are the result of ionisation and excitation processes in Earth's upper atmosphere, caused by charged particles from the solar wind or from coronal mass ejections. The different colours in an aurora display indicate the species of atmospheric atoms and molecules involved. The most common colour is a bright green, which, together with deep red, originates from atomic oxygen. Blue, purple and pink hues are much rarer and originate from molecular nitrogen. The reflection of the aurora in the water indicates the brightness of intense aurorae at higher latitudes.",
+      "caption_ru": "Первое место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (неподвижные изображения)\r\n\r\nПолярные сияния являются результатом процессов ионизации и возбуждения в верхних слоях атмосферы Земли, вызванных заряженными частицами солнечного ветра или корональными выбросами массы. Разные цвета в полярном сиянии указывают на виды атмосферных атомов и молекул, участвующих в процессе. Наиболее распространённый цвет — ярко-зелёный, который вместе с тёмно-красным происходит от атомарного кислорода. Синие, фиолетовые и розовые оттенки встречаются гораздо реже и происходят от молекулярного азота. Отражение сияния в воде указывает на яркость интенсивных полярных сияний в высоких широтах.",
+      "alt_en": "The left side of the image shows the sky glowing green. The right side has a darker sky but has green streaks",
+      "alt_ru": "Левая сторона изображения показывает небо, светящееся зелёным. Правая сторона имеет более тёмное небо, но с зелёными полосами",
+      "credit": "Marco Migliardi on behalf of Associazione Astronomica Cortina/IAU OAE.",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        160,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Rr92UL1DP68",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5278430/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28still%20images%29%3A%20Northern%20light%20dragon%20over%20Ersfjordbotn%2C%20Norway%2C%20by%20Rainer%20Sparenberg%2C%20Germany.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Rr92UL1DP68/",
+      "original_path": "data/media/original/media_Rr92UL1DP68.jpg",
+      "ru_path": null,
+      "sha256": "617059125934f8f814a5df441e2e1b7e1da328119a1a4c79b87a4e6182e302b2",
+      "size": 1274494,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Aurorae often display waving curtain-like patterns where arcs or bands form moving curls, folds, or even spirals.",
+      "short_caption_ru": "Полярные сияния часто демонстрируют волнистые узоры, похожие на занавеси, где дуги или полосы образуют движущиеся завитки, складки или даже спирали.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\r\n\r\nAurorae often display waving curtain-like patterns where arcs or bands form moving curls, folds, or even spirals. These irregular shapes mirror the small-scale structure of Earth's magnetic field interacting with charged particle flows. Although the full Moon illuminates both the landscape and the night sky, the auroa is easily visible, which demonstrates that it can be a very bright and colourful phenomenon.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (неподвижные изображения)\r\n\r\nПолярные сияния часто демонстрируют волнистые узоры, похожие на занавеси, где дуги или полосы образуют движущиеся завитки, складки или даже спирали. Эти неправильные формы отражают мелкомасштабную структуру магнитного поля Земли, взаимодействующего с потоками заряженных частиц. Хотя полная Луна освещает как ландшафт, так и ночное небо, сияние легко видно, что демонстрирует, что оно может быть очень ярким и красочным явлением.",
+      "alt_en": "A green, curved, y-shaped band of light over a mountainous horizon",
+      "alt_ru": "Зелёная изогнутая Y-образная полоса света над гористым горизонтом",
+      "credit": "Rainer Sparenberg/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        160
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:cz922d91Qj28",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5278941/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28still%20images%29%3A%20Iceland%20aurora%2C%20Emanuele%20Balboni%2C%20Italy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/cz922d91Qj28/",
+      "original_path": "data/media/original/media_cz922d91Qj28.jpg",
+      "ru_path": null,
+      "sha256": "cf688176eef5371b539bff5e5972b76197054cfbf3f623811d6701b44fd727d2",
+      "size": 867378,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The blurred motions of the aurora caught during the exposure time of this photograph beautifully illustrate its dynamic nature.",
+      "short_caption_ru": "Размытые движения сияния, запечатлённые во время экспозиции этой фотографии, прекрасно иллюстрируют его динамичную природу.",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\r\n\r\nThe blurred motions of the aurora caught during the exposure time of this photograph beautifully illustrate its dynamic nature. While certain forms of aurorae, like homogeneous arcs and bands or diffuse glows, can remain static for hours, others, like rayed arcs or bands (also called \"curtains\"), can change within seconds in shape and brightness.",
+      "caption_ru": "Третье место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (неподвижные изображения)\r\n\r\nРазмытые движения сияния, запечатлённые во время экспозиции этой фотографии, прекрасно иллюстрируют его динамичную природу. В то время как некоторые формы полярных сияний, такие как однородные дуги и полосы или диффузные свечения, могут оставаться статичными в течение нескольких часов, другие, такие как лучевые дуги или полосы (также называемые «занавесями»), могут менять форму и яркость за секунды.",
+      "alt_en": "Wavy horizontal green bands, punctuated by dark vertical stripes. almost appear to rain down on a watery landscape",
+      "alt_ru": "Волнистые горизонтальные зелёные полосы, перемежающиеся тёмными вертикальными полосами. почти кажется, что они падают дождём на водный ландшафт",
+      "credit": "Emanuele Balboni/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:an19H51Tc11",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359618/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Northern%20Lights%20-%20Teepees,%20by%20Oanh%20Vuong.jpeg/content",
+      "record_url": "https://astro4edu.org/resources/media/an19H51Tc11/",
+      "original_path": "data/media/original/media_an19H51Tc11.jpeg",
+      "ru_path": null,
+      "sha256": "b3e4bc994d804555fd0945a26f4afc4283dd2442775068aa1e7e7d6f02f2c658",
+      "size": 2192778,
+      "title_en": "Northern Lights - Teepees",
+      "title_ru": "Северное сияние — Типи",
+      "short_caption_en": "Northern Lights - Teepees",
+      "short_caption_ru": "Северное сияние — Типи",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nTaken with a smartphone at Cassidy Point, Yellowknife, Canada, on 24 March 2023, this stunning display captured the ethereal Northern Lights painting the night sky. The biting cold of -20°F (-29°C) set the stage for the vibrant hues of the Aurora Borealis, a celestial ballet created by collisions between charged solar particles and the Earth's atmosphere. The Earth’s magnetic field directs the charged particles towards the polar regions, where they interact with the various atoms and molecules in the atmosphere. This natural phenomenon transforms the sky into a canvas of radiant greens, pinks, and purples, casting a mesmerising glow above. The different colours of an aurora are determined by the gases in Earth’s atmosphere, the altitude where the aurora occurs, the density of the atmosphere, and the energy of the charged particles. In general, green is attributed to atomic oxygen, red is associated with high-altitude atomic oxygen and molecular nitrogen, while purple and blue are associated with molecular nitrogen only. Pink auroras are typically associated with a mix of nitrogen blue and red. Against this cosmic backdrop, the teepees of Aurora Village below provide a tranquil contrast to the celestial spectacle unfolding overhead. Preserving the pristine darkness of this location ensures the continued splendour of such awe-inspiring natural light shows.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии МАС OAE 2023 года, категория неподвижных изображений, сделанных исключительно смартфонами/мобильными устройствами.\r\n\r\nСнятое на смартфон в Кассиди-Пойнт, Йеллоунайф, Канада, 24 марта 2023 года, это потрясающее зрелище запечатлело эфирное Северное сияние, раскрашивающее ночное небо. Кусающий холод -20°F (-29°C) создал условия для ярких оттенков Северного сияния, небесного балета, созданного столкновениями заряженных солнечных частиц с атмосферой Земли. Магнитное поле Земли направляет заряженные частицы к полярным регионам, где они взаимодействуют с различными атомами и молекулами в атмосфере. Это природное явление превращает небо в полотно сияющих зелёных, розовых и фиолетовых цветов, отбрасывая завораживающее свечение в вышине. Разные цвета полярного сияния определяются газами в атмосфере Земли, высотой, на которой возникает сияние, плотностью атмосферы и энергией заряженных частиц. В целом, зелёный цвет приписывается атомарному кислороду, красный связан с атомарным кислородом на большой высоте и молекулярным азотом, а фиолетовый и синий связаны только с молекулярным азотом. Розовые сияния обычно связаны с смесью синего и красного азота. На этом космическом фоне типи деревни «Авроры» внизу обеспечивают спокойный контраст небесному зрелищу, разворачивающемуся над головой. Сохранение нетронутой темноты этого места гарантирует продолжение великолепия таких впечатляющих природных световых шоу.",
+      "alt_en": "Two illuminated teepees in a subarctic forest. Green bands of aurorae light up the sky.",
+      "alt_ru": "Два освещённых типи в субарктическом лесу. Зелёные полосы полярных сияний освещают небо.",
+      "credit": "Oanh Vuong/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:27284m8gy12",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360160/files/Third%20place%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20The%20Big%20Dipper%20in%20the%20Polar%20Night,%20by%20Stephanie%20Ziyi%20Ye.mp4/content",
+      "record_url": "https://astro4edu.org/resources/media/27284m8gy12/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "The Big Dipper in the Polar Night",
+      "title_ru": "Большая Медведица в полярную ночь",
+      "short_caption_en": "The Big Dipper in the Polar Night",
+      "short_caption_ru": "Большая Медведица в полярную ночь",
+      "caption_en": "Third place winner in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nStep into the cosmic theatre of Iceland’s northern skies in this time-lapse where the illustrious Big Dipper commands attention, tracing an almost complete circle around Polaris — an exquisite sight that is not visible from mid-latitudes. This time-lapse, captured through fisheye lenses, reveals the timeless choreography of the Big Dipper, vividly illustrating its celestial waltz. Amidst this spectacle, the Arctic night reveals its grandeur, painting a panoramic canvas that showcases not just the celestial journey of this iconic asterism but also the ethereal dance of the Northern Lights. In this breathtaking tapestry, the Big Dipper takes centre stage against the mesmerising backdrop of the Icelandic nightscape, adorned by the vibrant hues of the Aurora Borealis.",
+      "caption_ru": "Третье место в конкурсе астрофотографии МАС OAE 2023 года, категория таймлапсов вращения Большой Медведицы или Южного Креста.\r\n\r\nШагните в космический театр северного неба Исландии в этом таймлапсе, где знаменитая Большая Медведица привлекает внимание, описывая почти полный круг вокруг Полярной звезды — изысканное зрелище, невидимое из средних широт. Этот таймлапс, снятый через объективы типа «рыбий глаз», раскрывает вневременную хореографию Большой Медведицы, ярко иллюстрируя её небесный вальс. Среди этого зрелища арктическая ночь раскрывает своё величие, рисуя панорамное полотно, которое демонстрирует не только небесное путешествие этого знакового астеризма, но и эфирный танец Северного сияния. В этом захватывающем гобелене Большая Медведица занимает центральное место на фоне завораживающего исландского ночного пейзажа, украшенного яркими оттенками Северного сияния.",
+      "alt_en": "The sky rotates around one star that appears fixed. Bubbles and swirls of green aurorae fill the foreground",
+      "alt_ru": "Небо вращается вокруг одной звезды, которая кажется неподвижной. Пузыри и завихрения зелёных полярных сияний заполняют передний план",
+      "credit": "Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        39,
+        492,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:OB45OW736837",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10358095/files/Winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Fire%20of%20the%20Sky,%20by%20Stephanie%20Ziyi%20Ye.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/OB45OW736837/",
+      "original_path": "data/media/original/media_OB45OW736837.jpg",
+      "ru_path": null,
+      "sha256": "58e430219f980e334756dfa0b88c5f65c4e429e208a48b104227be88aa7a3e4b",
+      "size": 1668355,
+      "title_en": "Fire of the Sky",
+      "title_ru": "Огонь неба",
+      "short_caption_en": "Fire of the Sky",
+      "short_caption_ru": "Огонь неба",
+      "caption_en": "Winner in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nIn the serene landscapes of Lofoten, Norway on 28 March 2023, the sky was set ablaze by the aurora. The Northern (Southern) Lights, also known as aurorae, are natural light displays resulting from interactions between solar winds and Earth’s magnetic fields, as charged particles are redirected towards the north and south pole regions. In Norse legends, they are often depicted as a heavenly fire. In this scene, the celestial show is beautifully complemented by the silhouette of a lighthouse, as if the lighthouse ignited the mesmerising display overhead. Caught off-guard by this dazzling spectacle, the photographer swiftly captured the moment with a smartphone. This is a testament to the breathtaking surprises nature offers and the impressive capabilities of modern devices.",
+      "caption_ru": "Победитель в конкурсе астрофотографии МАС OAE 2023 года, категория неподвижных изображений, сделанных исключительно смартфонами/мобильными устройствами.\r\n\r\nВ безмятежных пейзажах Лофотенских островов, Норвегия, 28 марта 2023 года небо было охвачено полярным сиянием. Северное (Южное) сияние, также известное как полярное сияние, — это естественные световые явления, возникающие в результате взаимодействия солнечного ветра с магнитными полями Земли, когда заряженные частицы перенаправляются к северным и южным полярным регионам. В скандинавских легендах их часто изображают как небесный огонь. В этой сцене небесное шоу прекрасно дополняется силуэтом маяка, как будто маяк зажёг завораживающее зрелище над головой. Застигнутый врасплох этим ослепительным зрелищем, фотограф быстро запечатлел момент на смартфон. Это свидетельство захватывающих сюрпризов, которые предлагает природа, и впечатляющих возможностей современных устройств.",
+      "alt_en": "A green wisp of light rises over an illuminated lighthouse",
+      "alt_ru": "Зелёная струйка света поднимается над освещённым маяком",
+      "credit": "Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Lp55pE92F863",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10356863/files/Winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Northern%20Lights-Color,%20by%20Jason%20Johnson.jpeg/content",
+      "record_url": "https://astro4edu.org/resources/media/Lp55pE92F863/",
+      "original_path": "data/media/original/media_Lp55pE92F863.jpeg",
+      "ru_path": null,
+      "sha256": "f877214a9f7906346397240ee8f89968143adba301eb082f3fca765f169df616",
+      "size": 3184323,
+      "title_en": "Northern Lights Color",
+      "title_ru": "Цвет северного сияния",
+      "short_caption_en": "Northern Lights Color",
+      "short_caption_ru": "Цвет северного сияния",
+      "caption_en": "Winner in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nThis photograph taken with a smartphone captures the ethereal beauty of the Northern Lights at Cassidy Point, Yellowknife, NT, Canada on 24 March 2023, at temperatures well below freezing (–29°C). The mesmerising dance of the Aurora Borealis (Australis), commonly known as the Northern (Southern) Lights, paints the night sky in striking hues. The aurora is a natural phenomenon caused by charged particles from the Sun interacting with Earth’s atmosphere, and being redirected by Earth’s magnetic field towards the north and south polar regions. The charged particles excite atoms and molecules in the atmosphere, resulting in a light display that varies in colour and form. The different colours of an aurora are determined by the gases (atoms and molecules) in Earth's atmosphere, the altitude of the aurora, the density of the atmosphere, and the energy of the charged particles.  In general, green is attributed to atomic oxygen, red is associated with high-altitude atomic oxygen and molecular nitrogen, while purple and blue are associated with molecular nitrogen only. Pink auroras are typically associated with a mix of nitrogen blue and red.  On this particular night, the serene environment of Cassidy Point provided an unobstructed view of the lights.",
+      "caption_ru": "Победитель в конкурсе астрофотографии IAU OAE 2023 года в категории «Неподвижные изображения, снятые исключительно смартфонами/мобильными устройствами».\r\n\r\nЭтот снимок, сделанный смартфоном, запечатлел эфирную красоту северного сияния в Кассиди-Пойнт, Йеллоунайф, Северо-Западные территории, Канада, 24 марта 2023 года при температуре значительно ниже нуля (–29°C). Завораживающий танец Aurora Borealis (Australis), обычно называемого Северным (Южным) сиянием, окрашивает ночное небо в поразительные оттенки. Сияние — это природное явление, вызванное взаимодействием заряженных частиц от Солнца с атмосферой Земли, которые магнитное поле Земли перенаправляет к северным и южным полярным регионам. Заряженные частицы возбуждают атомы и молекулы в атмосфере, в результате чего возникает световое представление, различающееся по цвету и форме. Разные цвета сияния определяются газами (атомами и молекулами) в атмосфере Земли, высотой сияния, плотностью атмосферы и энергией заряженных частиц. В целом зелёный цвет приписывается атомарному кислороду, красный связан с атомарным кислородом на больших высотах и молекулярным азотом, а фиолетовый и синий связаны только с молекулярным азотом. Розовые сияния обычно связаны с смесью синего азота и красного. В эту конкретную ночь безмятежная обстановка Кассиди-Пойнт обеспечила беспрепятственный обзор сияния.",
+      "alt_en": "Ripples of green light over a tree-lined horizon. Pillars of white light rise into the sky.",
+      "alt_ru": "Волны зелёного света над горизонтом, окаймлённым деревьями. Столбы белого света поднимаются в небо.",
+      "credit": "Jason Johnson/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "id": "term:448",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 448,
+    "url": "https://astro4edu.org/resources/glossary/term/448/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=448",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:31.065532+00:00",
+    "sha256": "eae738f4df897d04e018283c19502950b967fb63ebc9aaaf0f6c6951d845b1c7"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      76,
+      118,
+      132,
+      203,
+      275,
+      282,
+      336,
+      342
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Halo",
+      "body": "A halo is an optical phenomenon caused by ice crystals in the Earth's atmosphere. Just as refraction and reflection in water droplets causes rainbows, sunlight passing through ice crystals is reflected and refracted within them to form halos. Halos can take many different forms and can be caused by light from the Sun or the Moon. The 22-degree halo is a circular halo that forms as a thin band of light around the Sun or the Moon. The geometry of this halo is the result of the properties of the ice crystals that sunlight or moonlight passes through in the atmosphere. The word halo is also used in other astronomical contexts, including: galactic halo, dark matter halo, and stellar halo, all of which are some of the major components in the structure of galaxies.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Dark Matter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/76/",
+          "text_ru": "Тёмная материя"
+        },
+        {
+          "text": "Galactic Halo",
+          "url": "https://www.astro4edu.org/resources/glossary/term/118/",
+          "text_ru": "Галактическое гало"
+        },
+        {
+          "text": "Globular Cluster",
+          "url": "https://www.astro4edu.org/resources/glossary/term/132/",
+          "text_ru": "Шаровое скопление"
+        },
+        {
+          "text": "Moon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/203/",
+          "text_ru": "Луна"
+        },
+        {
+          "text": "Rainbow",
+          "url": "https://www.astro4edu.org/resources/glossary/term/275/",
+          "text_ru": "Радуга"
+        },
+        {
+          "text": "Refraction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/282/",
+          "text_ru": "Рефракция"
+        },
+        {
+          "text": "Stellar Population",
+          "url": "https://www.astro4edu.org/resources/glossary/term/336/",
+          "text_ru": "Звёздное население"
+        },
+        {
+          "text": "Sun",
+          "url": "https://www.astro4edu.org/resources/glossary/term/342/",
+          "text_ru": "Солнце"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Halo</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A halo is an optical phenomenon caused by ice crystals in the Earth's atmosphere. Just as refraction and reflection in water droplets causes rainbows, sunlight passing through ice crystals is reflected and refracted within them to form halos. Halos can take many different forms and can be caused by light from the Sun or the Moon. The 22-degree halo is a circular halo that forms as a thin band of light around the Sun or the Moon. The geometry of this halo is the result of the properties of the ice crystals that sunlight or moonlight passes through in the atmosphere.<br/><br/>The word halo is also used in other astronomical contexts, including: galactic halo, dark matter halo, and stellar halo, all of which are some of the major components in the structure of galaxies.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/76/\">Dark Matter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/118/\">Galactic Halo</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/132/\">Globular Cluster</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/203/\">Moon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/275/\">Rainbow</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/282/\">Refraction</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/336/\">Stellar Population</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/342/\">Sun</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Гало",
+      "body_ru": "Гало — это оптическое явление, вызванное ледяными кристаллами в атмосфере Земли. Подобно тому, как преломление и отражение в каплях воды вызывают радугу, солнечный свет, проходящий через ледяные кристаллы, отражается и преломляется внутри них, образуя гало. Гало может принимать множество различных форм и может быть вызвано светом Солнца или Луны. 22-градусное гало — это круговое гало, которое образуется в виде тонкой полосы света вокруг Солнца или Луны. Геометрия этого гало является результатом свойств ледяных кристаллов, через которые проходит солнечный или лунный свет в атмосфере. Слово «гало» также используется в других астрономических контекстах, включая: галактическое гало, гало тёмной материи и звёздное гало, все из которых являются одними из основных компонентов в структуре галактик."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/448/\">الهالة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/448/\">Halo </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/448/\">Halo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/448/\">Halo </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/448/\">L'alone </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/448/\">Halo </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/448/\">晕 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/448/\">暈 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/pm84Rm80aY87/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/T767jt9xC36/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/BG19pt84ol71/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/potw2044a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/fl18Jg68qV87/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:pm84Rm80aY87",
+        "media:T767jt9xC36",
+        "media:BG19pt84ol71",
+        "media:fl18Jg68qV87"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/pm84Rm80aY87/\"><img alt=\"A halo is an optical phenomenon where circles or arcs of light are visible in the sky. Halos are caused  a bright object such\" src=\"/media/multimedia/thumbnails/selene-meets-the-moon-by-sheila-wiwchar-canada_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Selene meets the Moon, by Sheila Wiwchar, Canada</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\n\nPhotographed at Kaleida, Manitoba in Canada, this fisheye image beautifully captures the rare optical phenomena encircling the moon known as the “22° halo” and the horizontal white circle passing through the moon called the “paraselenic circle”. The white band circling the whole sky at the same altitude as the moon is named after Selene, the ancient Greek Titan, famously called the goddess of the moon. The more commonly observed counterpart produced by the sun is known as the parhelic circle, named after the Greek god of the sun, Helios. Both the 22° halo and the paraselenic circle are produced due to reflection of the moonlight from near vertical surfaces of ice crystals. Parts closer to the moon are caused due to external reflections, whereas those further away are created due to internal reflections. The constellation of the big dipper at the center makes this image even more spectacular. Can you spot it?<br/>\n<b>Credit:</b> Sheila Wiwchar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/T767jt9xC36/\"><img alt=\"The Sun, surrounded by several bright circles and arcs, over a snowy, tree-lined landscape.\" src=\"/media/multimedia/thumbnails/winter-haloes-by-thomas-gigl-germany_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Winter Haloes, by Thomas Gigl, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\n\nCaptured in Jochberg located in the famous Austrian ski-region of Tirol, this image shows multiple features related to ice halos, which are a more common appearance around the sun, due to its brightness, than the moon. External and internal reflection of sun rays from ice crystal faces and within different types of ice crystals lead to these halo related phenomena. The 22° halo encircles the sun, with two bright spots at the edge called Sundogs, Parhelia or Mock Suns observed to the left and right at the same height as the sun. The horizontal white band called the parhelic circle, named after the sun god Helios, passes through the sun and the Sundogs at the same angular elevation. An Upper tangent arc, a suncave parry arc and a lower tangent arc are also seen touching the top and bottom of the 22° halo. An upside down rainbow like arc or the circumzenithal arc is seen touching the bright supralateral arc, both of which are less frequently observed.<br/>\n<b>Credit:</b> Thomas Gigl/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/BG19pt84ol71/\"><img alt=\"The four telescope domes of VLT. One dome is open and firing laser beams. In the sky, the moon has a ring of light around it.\" src=\"/media/multimedia/thumbnails/potw2044a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">ESO's Very Large Telescope (VLT) at Paranal Observatory with a lunar halo</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Very Large Telescope on Cerro Paranal in Chile has four reflecting telescopes each with a primary mirror 8.2m across. In this image one dome is open and firing laser beams into the sky. These lasers create artificial stars in the sky that can be used to adjust the telescope optics to remove the blurring effect of the Earth's atmosphere. This process is known as adaptive optics.\n\nIn the sky the Moon is surrounded by a bright halo. This is caused by light from the moon reflecting inside ice crystals in the Earth's atmosphere.<br/>\n<b>Credit:</b> Juan Carlos Muñoz-Mateos/ESO\n\t  <a href=\"https://www.eso.org/public/images/potw2044a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/fl18Jg68qV87/\"><img alt=\"Lunar rainbow and lunar Brocken spectre, by Kouji Ohnishi, Japan\" src=\"/media/multimedia/thumbnails/lunar-rainbow-and-lunar-brocken-spectre-by-kouji-ohnishi-japan_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lunar rainbow and lunar Brocken spectre, by Kouji Ohnishi, Japan</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\n\nThis stunning photograph of the lunar rainbow and the lunar Brocken Spectre amidst the night sky was captured from Mount Tsubakuro located in Japan’s Hida Mountains in Nagano. Both these atmospheric occurrences are due to the moon’s light being reflected and refracted from water droplets. A lunar rainbow or a moonbow is a rare phenomenon that occurs with the right settings of a bright full moon which is less than 42° high, rain on the opposite side of the moon and a dark night sky. The Brocken Spectre is named after the highest peak of the Harz mountain range in Germany, where it was first recorded. Here it is seen from the summit as a magnified shadow of the observer cast onto the cloud surrounded by a glory consisting of concentric circles centered at the point directly opposite the bright moon in the background.<br/>\n<b>Credit:</b> Kouji Ohnishi/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Halo",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Halo",
+          "body": "A halo is an optical phenomenon caused by ice crystals in the Earth's atmosphere. Just as refraction and reflection in water droplets causes rainbows, sunlight passing through ice crystals is reflected and refracted within them to form halos. Halos can take many different forms and can be caused by light from the Sun or the Moon. The 22-degree halo is a circular halo that forms as a thin band of light around the Sun or the Moon. The geometry of this halo is the result of the properties of the ice crystals that sunlight or moonlight passes through in the atmosphere. The word halo is also used in other astronomical contexts, including: galactic halo, dark matter halo, and stellar halo, all of which are some of the major components in the structure of galaxies."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Гало",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Гало",
+          "body": "Гало — это оптическое явление, вызванное ледяными кристаллами в атмосфере Земли. Подобно тому, как преломление и отражение в каплях воды вызывают радугу, солнечный свет, проходящий через ледяные кристаллы, отражается и преломляется внутри них, образуя гало. Гало может принимать множество различных форм и может быть вызвано светом Солнца или Луны. 22-градусное гало — это круговое гало, которое образуется в виде тонкой полосы света вокруг Солнца или Луны. Геометрия этого гало является результатом свойств ледяных кристаллов, через которые проходит солнечный или лунный свет в атмосфере. Слово «гало» также используется в других астрономических контекстах, включая: галактическое гало, гало тёмной материи и звёздное гало, все из которых являются одними из основных компонентов в структуре галактик."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:pm84Rm80aY87",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5418731/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Sun%20and%20Moon%20haloes%3A%20Selene%20meets%20the%20Moon%2C%20by%20Sheila%20Wiwchar%2C%20Canada.jpg",
+      "record_url": "https://astro4edu.org/resources/media/pm84Rm80aY87/",
+      "original_path": "data/media/original/media_pm84Rm80aY87.jpg",
+      "ru_path": null,
+      "sha256": "47dcf634251e5213101029e122185ddf31c3cdfbf7152fffbf56387716667aac",
+      "size": 1825227,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "this fisheye image beautifully captures the rare optical phenomena encircling the moon known as the “22° halo” and the horizontal white circle passing through the moon called the “paraselenic circle”.",
+      "short_caption_ru": "это изображение, снятое объективом «рыбий глаз», прекрасно запечатлевает редкие оптические явления, окружающие Луну, известные как «гало 22°» и горизонтальный белый круг, проходящий через Луну, называемый «параселеническим кругом».",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\r\n\r\nPhotographed at Kaleida, Manitoba in Canada, this fisheye image beautifully captures the rare optical phenomena encircling the moon known as the “22° halo” and the horizontal white circle passing through the moon called the “paraselenic circle”. The white band circling the whole sky at the same altitude as the moon is named after Selene, the ancient Greek Titan, famously called the goddess of the moon. The more commonly observed counterpart produced by the sun is known as the parhelic circle, named after the Greek god of the sun, Helios. Both the 22° halo and the paraselenic circle are produced due to reflection of the moonlight from near vertical surfaces of ice crystals. Parts closer to the moon are caused due to external reflections, whereas those further away are created due to internal reflections. The constellation of the big dipper at the center makes this image even more spectacular. Can you spot it?",
+      "caption_ru": "Первое место в конкурсе астрофотографии 2021 IAU OAE, категория гало Солнца/Луны.\r\n\r\nСнятое в Калейде, Манитоба, Канада, это изображение, полученное с помощью объектива «рыбий глаз», прекрасно запечатлевает редкие оптические явления, окружающие Луну, известные как «гало 22°» и горизонтальный белый круг, проходящий через Луну, называемый «парасeленическим кругом». Белая полоса, опоясывающая всё небо на той же высоте, что и Луна, названа в честь Селены, древнегреческой титаниды, которую часто называют богиней Луны. Более часто наблюдаемый аналог, создаваемый Солнцем, известен как паргелический круг, названный в честь греческого бога Солнца Гелиоса. И гало 22°, и параселенический круг возникают из-за отражения лунного света от почти вертикальных поверхностей кристаллов льда. Части, расположенные ближе к Луне, вызваны внешними отражениями, тогда как более удалённые создаются внутренними отражениями. Созвездие Большой Медведицы в центре делает это изображение ещё более впечатляющим. Можете ли вы его найти?",
+      "alt_en": "A halo is an optical phenomenon where circles or arcs of light are visible in the sky. Halos are caused  a bright object such",
+      "alt_ru": "Гало — это оптическое явление, при котором в небе видны круги или дуги света. Гало вызываются ярким объектом, таким как",
+      "credit": "Sheila Wiwchar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        203,
+        448
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:T767jt9xC36",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5418795/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Sun%20and%20Moon%20haloes%3A%20Winter%20Haloes%2C%20by%20Thomas%20Gigl%2C%20Germany.jpg",
+      "record_url": "https://astro4edu.org/resources/media/T767jt9xC36/",
+      "original_path": "data/media/original/media_T767jt9xC36.jpg",
+      "ru_path": null,
+      "sha256": "a819042acd995b23e0ece947075b45bdbc14581cf92dca55d7d9951741190942",
+      "size": 10364722,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This image shows multiple features related to ice halos, which are a more common appearance around the sun, due to its brightness, than the moon.",
+      "short_caption_ru": "Это изображение показывает множество особенностей, связанных с ледяными гало, которые чаще встречаются вокруг Солнца, благодаря его яркости, чем вокруг Луны.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\r\n\r\nCaptured in Jochberg located in the famous Austrian ski-region of Tirol, this image shows multiple features related to ice halos, which are a more common appearance around the sun, due to its brightness, than the moon. External and internal reflection of sun rays from ice crystal faces and within different types of ice crystals lead to these halo related phenomena. The 22° halo encircles the sun, with two bright spots at the edge called Sundogs, Parhelia or Mock Suns observed to the left and right at the same height as the sun. The horizontal white band called the parhelic circle, named after the sun god Helios, passes through the sun and the Sundogs at the same angular elevation. An Upper tangent arc, a suncave parry arc and a lower tangent arc are also seen touching the top and bottom of the 22° halo. An upside down rainbow like arc or the circumzenithal arc is seen touching the bright supralateral arc, both of which are less frequently observed.",
+      "caption_ru": "Второе место в конкурсе астрофотографии IAU OAE 2021, категория гало Солнца/Луны.\r\n\r\nСнятое в Йохберге, расположенном в известном австрийском горнолыжном регионе Тироль, это изображение показывает множество особенностей, связанных с ледяными гало, которые чаще встречаются вокруг Солнца, благодаря его яркости, чем вокруг Луны. Внешнее и внутреннее отражение солнечных лучей от граней ледяных кристаллов и внутри различных типов ледяных кристаллов приводят к этим явлениям, связанным с гало. Гало 22° окружает Солнце, с двумя яркими пятнами на краю, называемыми солнечными собаками, паргелиями или ложными солнцами, наблюдаемыми слева и справа на той же высоте, что и Солнце. Горизонтальная белая полоса, называемая паргелическим кругом, названная в честь бога Солнца Гелиоса, проходит через Солнце и солнечных собак на одинаковом угловом возвышении. Верхняя касательная дуга, вогнутая к Солнцу дуга Парри и нижняя касательная дуга также видны, касаясь верхней и нижней части гало 22°. Перевёрнутая радугоподобная дуга или циркумзенитальная дуга видна, касаясь яркой надбоковой дуги, обе из которых наблюдаются реже.",
+      "alt_en": "The Sun, surrounded by several bright circles and arcs, over a snowy, tree-lined landscape.",
+      "alt_ru": "Солнце, окружённое несколькими яркими кругами и дугами, над заснеженным пейзажем с деревьями.",
+      "credit": "Thomas Gigl/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        342,
+        448
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:BG19pt84ol71",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/potw2044a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/BG19pt84ol71/",
+      "original_path": "data/media/original/media_BG19pt84ol71.jpg",
+      "ru_path": null,
+      "sha256": "7fcf26eded5a5df44cc878c54c42cddce11a56f9adb7b909de234a2fdb97af8c",
+      "size": 4274249,
+      "title_en": "ESO's Very Large Telescope (VLT) at Paranal Observatory with a lunar halo",
+      "title_ru": "Очень Большой Телескоп (VLT) ESO в обсерватории Паранал с лунным гало",
+      "short_caption_en": "ESO's Very Large Telescope (VLT) at Paranal Observatory with a lunar halo",
+      "short_caption_ru": "Очень Большой Телескоп (VLT) ESO в обсерватории Паранал с лунным гало",
+      "caption_en": "The Very Large Telescope on Cerro Paranal in Chile has four reflecting telescopes each with a primary mirror 8.2m across. In this image one dome is open and firing laser beams into the sky. These lasers create artificial stars in the sky that can be used to adjust the telescope optics to remove the blurring effect of the Earth's atmosphere. This process is known as adaptive optics.\r\n\r\nIn the sky the Moon is surrounded by a bright halo. This is caused by light from the moon reflecting inside ice crystals in the Earth's atmosphere.",
+      "caption_ru": "Очень Большой Телескоп на Серро-Паранал в Чили имеет четыре отражающих телескопа, каждый с главным зеркалом диаметром 8.2 м. На этом изображении один купол открыт и испускает лазерные лучи в небо. Эти лазеры создают искусственные звезды в небе, которые можно использовать для настройки оптики телескопа, чтобы устранить эффект размытия атмосферы Земли. Этот процесс известен как адаптивная оптика.\r\n\r\nВ небе Луна окружена ярким гало. Это вызвано отражением света Луны внутри кристаллов льда в атмосфере Земли.",
+      "alt_en": "The four telescope domes of VLT. One dome is open and firing laser beams. In the sky, the moon has a ring of light around it.",
+      "alt_ru": "Четыре купола телескопов VLT. Один купол открыт и испускает лазерные лучи. В небе вокруг Луны видно светящееся кольцо.",
+      "credit": "Juan Carlos Muñoz-Mateos/ESO",
+      "credit_url": "https://www.eso.org/public/images/potw2044a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        227,
+        427,
+        448
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:fl18Jg68qV87",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5418915/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Sun%20and%20Moon%20haloes%3A%20Lunar%20rainbow%20and%20lunar%20Brocken%20spectre%2C%20by%20Kouji%20Ohnishi%2C%20Japan.jpg",
+      "record_url": "https://astro4edu.org/resources/media/fl18Jg68qV87/",
+      "original_path": "data/media/original/media_fl18Jg68qV87.jpg",
+      "ru_path": null,
+      "sha256": "c067a81354ec5f5e6ae16bde5d22ede100538192543d0cb1668978de963ab284",
+      "size": 30912672,
+      "title_en": "Lunar rainbow and lunar Brocken spectre, by Kouji Ohnishi, Japan",
+      "title_ru": "Лунная радуга и лунный броккенский призрак, автор Кодзи Охниси, Япония",
+      "short_caption_en": "Lunar rainbow and lunar Brocken spectre, by Kouji Ohnishi, Japan",
+      "short_caption_ru": "Лунная радуга и лунный броккенский призрак, автор Кодзи Охниси, Япония",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\r\n\r\nThis stunning photograph of the lunar rainbow and the lunar Brocken Spectre amidst the night sky was captured from Mount Tsubakuro located in Japan’s Hida Mountains in Nagano. Both these atmospheric occurrences are due to the moon’s light being reflected and refracted from water droplets. A lunar rainbow or a moonbow is a rare phenomenon that occurs with the right settings of a bright full moon which is less than 42° high, rain on the opposite side of the moon and a dark night sky. The Brocken Spectre is named after the highest peak of the Harz mountain range in Germany, where it was first recorded. Here it is seen from the summit as a magnified shadow of the observer cast onto the cloud surrounded by a glory consisting of concentric circles centered at the point directly opposite the bright moon in the background.",
+      "caption_ru": "Третье место в конкурсе астрофотографии 2021 IAU OAE, категория гало Солнца/Луны.\r\n\r\nЭтот потрясающий снимок лунной радуги и лунного броккенского призрака на фоне ночного неба был сделан с горы Цубакуро, расположенной в японских горах Хида в префектуре Нагано. Оба эти атмосферные явления возникают из-за отражения и преломления лунного света в каплях воды. Лунная радуга, или лунная радуга, — редкое явление, которое возникает при правильных условиях: яркая полная Луна, находящаяся на высоте менее 42°, дождь на противоположной от Луны стороне и тёмное ночное небо. Броккенский призрак назван в честь высочайшей вершины горного массива Гарц в Германии, где он был впервые зафиксирован. Здесь он виден с вершины как увеличенная тень наблюдателя, отбрасываемая на облако, окружённое глорией, состоящей из концентрических кругов с центром в точке, прямо противоположной яркой Луне на заднем плане.",
+      "alt_en": "",
+      "alt_ru": "",
+      "credit": "Kouji Ohnishi/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        203,
+        448
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

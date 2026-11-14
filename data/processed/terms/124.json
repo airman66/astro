@@ -1,0 +1,141 @@
+{
+  "id": "term:124",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 124,
+    "url": "https://astro4edu.org/resources/glossary/term/124/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=124",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:50.203646+00:00",
+    "sha256": "f24735563d6214a136ed48a40c95a8562516602f01386be826f2f8714207ea62"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Milky Way and Interstellar Medium"
+    ],
+    "category_ids": [
+      7
+    ],
+    "categories_ru": [
+      "Млечный Путь и межзвёздная среда"
+    ],
+    "related_term_numbers": [
+      426
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Gas",
+      "body": "In physics, gas is a state of matter where molecules or atoms are loosely bound to each other so as to allow for constant, chaotic motion, with atoms and molecules going every which way at different speeds. The air we breathe is a mixture of gases such as molecular nitrogen and oxygen. The mean energy of motion is a measure of the temperature of the gas. The main effect responsible for a gas's pressure (exerted, for instance, upon the walls of a container) is gas particles hitting those walls and recoiling. In astronomy, one may encounter gases as the constituents of interstellar gas clouds, giant molecular clouds, intergalactic gas, or the gas of a planetary atmosphere. In a slight misuse of language, astronomers also refer to plasma (where the atoms in question are ionized) as gas – for example, when they call stars \"balls of gas,\" or refer to gas swirling in an accretion disk.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Accretion Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/426/",
+          "text_ru": "Аккреционный диск"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Gas</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In physics, gas is a state of matter where molecules or atoms are loosely bound to each other so as to allow for constant, chaotic motion, with atoms and molecules going every which way at different speeds. The air we breathe is a mixture of gases such as molecular nitrogen and oxygen. The mean energy of motion is a measure of the temperature of the gas. The main effect responsible for a gas's pressure (exerted, for instance, upon the walls of a container) is gas particles hitting those walls and recoiling. In astronomy, one may encounter gases as the constituents of interstellar gas clouds, giant molecular clouds, intergalactic gas, or the gas of a planetary atmosphere. In a slight misuse of language, astronomers also refer to plasma (where the atoms in question are ionized) as gas – for example, when they call stars \"balls of gas,\" or refer to gas swirling in an accretion disk.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/426/\">Accretion Disk</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Газ",
+      "body_ru": "В физике газ — это состояние вещества, в котором молекулы или атомы слабо связаны друг с другом, что позволяет им находиться в постоянном хаотическом движении, при этом атомы и молекулы движутся в разных направлениях с разными скоростями. Воздух, которым мы дышим, представляет собой смесь газов, таких как молекулярный азот и кислород. Средняя энергия движения является мерой температуры газа. Основной эффект, ответственный за давление газа (оказываемое, например, на стенки сосуда), — это удары частиц газа о эти стенки и их отскок. В астрономии газы можно встретить как составляющие межзвёздных газовых облаков, гигантских молекулярных облаков, межгалактического газа или газа планетной атмосферы. При некотором злоупотреблении терминологией астрономы также называют плазму (где рассматриваемые атомы ионизированы) газом — например, когда они называют звёзды «шарами газа» или говорят о газе, вращающемся в аккреционном диске."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/124/\">غاز </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/124/\">Gas </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/124/\">Gas </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/124/\">Gaz </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/124/\">Gas </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/124/\">Gás </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/124/\">气体 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/124/\">氣體 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Investigating the Atmosphere – Air Takes Up Space astroEDU educational activity (links to astroEDU website) Description: Air takes up space even though you cannot see it. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geography \n  \n  , Mathematics \n  \n  , Air Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/investigating-the-atmosphere-air-takes-up-space/\"><img alt=\"Investigating the Atmosphere – Air Takes Up Space\" src=\"/media/astroedu/images/investigating-the-atmosphere-air-takes-up-space_en_thumbnail_zcj3FXu.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/investigating-the-atmosphere-air-takes-up-space/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Investigating the Atmosphere – Air Takes Up Space</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Air takes up space even though you cannot see it.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Geography \n  \n  , Mathematics \n  \n  , Air \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Исследование атмосферы – Воздух занимает пространство. Образовательное мероприятие astroEDU (ссылка на сайт astroEDU). Описание: Воздух занимает пространство, хотя вы его не видите. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: География, Математика, Воздух. Возрастные диапазоны: 6-8, 8-10. Уровень образования: Начальный. Области обучения: Моделирование, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 1 час. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Построение объяснений, Планирование и проведение исследований"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Gas",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Gas",
+          "body": "In physics, gas is a state of matter where molecules or atoms are loosely bound to each other so as to allow for constant, chaotic motion, with atoms and molecules going every which way at different speeds. The air we breathe is a mixture of gases such as molecular nitrogen and oxygen. The mean energy of motion is a measure of the temperature of the gas. The main effect responsible for a gas's pressure (exerted, for instance, upon the walls of a container) is gas particles hitting those walls and recoiling. In astronomy, one may encounter gases as the constituents of interstellar gas clouds, giant molecular clouds, intergalactic gas, or the gas of a planetary atmosphere. In a slight misuse of language, astronomers also refer to plasma (where the atoms in question are ionized) as gas – for example, when they call stars \"balls of gas,\" or refer to gas swirling in an accretion disk."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Investigating the Atmosphere – Air Takes Up Space astroEDU educational activity (links to astroEDU website) Description: Air takes up space even though you cannot see it. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geography \n  \n  , Mathematics \n  \n  , Air Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations"
+        }
+      }
+    },
+    "ru": {
+      "title": "Газ",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Газ",
+          "body": "В физике газ — это состояние вещества, в котором молекулы или атомы слабо связаны друг с другом, что позволяет им находиться в постоянном хаотическом движении, при этом атомы и молекулы движутся в разных направлениях с разными скоростями. Воздух, которым мы дышим, представляет собой смесь газов, таких как молекулярный азот и кислород. Средняя энергия движения является мерой температуры газа. Основной эффект, ответственный за давление газа (оказываемое, например, на стенки сосуда), — это удары частиц газа о эти стенки и их отскок. В астрономии газы можно встретить как составляющие межзвёздных газовых облаков, гигантских молекулярных облаков, межгалактического газа или газа планетной атмосферы. При некотором злоупотреблении терминологией астрономы также называют плазму (где рассматриваемые атомы ионизированы) газом — например, когда они называют звёзды «шарами газа» или говорят о газе, вращающемся в аккреционном диске."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Исследование атмосферы – Воздух занимает пространство. Образовательное мероприятие astroEDU (ссылка на сайт astroEDU). Описание: Воздух занимает пространство, хотя вы его не видите. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: География, Математика, Воздух. Возрастные диапазоны: 6-8, 8-10. Уровень образования: Начальный. Области обучения: Моделирование, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 1 час. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Построение объяснений, Планирование и проведение исследований"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "term:266",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 266,
+    "url": "https://astro4edu.org/resources/glossary/term/266/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=266",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:35.157741+00:00",
+    "sha256": "7a670a2a7ef6cf8940eda55771a8a5f7089e46cf691c11a2d88d82194d75e133"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      123,
+      214,
+      272,
+      450,
+      455,
+      487
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Pulsar",
+      "body": "A pulsar is a rapidly rotating neutron star whose intense magnetic fields produce two intense beams of radiation in opposite directions. This radiation can be detected as a brief pulse by radio telescopes as it sweeps past our line of sight. Pulsars are about 10–20 kilometers across with a typical mass of about one and a half times that of our Sun. They spin about once to several hundred times a second and can act as very precise celestial clocks. Some pulsars have been detected as gamma ray or X-ray sources. Over 3000 have been detected in our Galaxy. In addition, around 30 of them have also been detected outside the Milky Way in the Magellanic Clouds. Pulsars are useful as probes of the interstellar medium, as a test of general relativity, and potentially useful for detecting gravitational waves from black hole mergers.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Gamma Ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/123/",
+          "text_ru": "Гамма-излучение"
+        },
+        {
+          "text": "Neutron Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/214/",
+          "text_ru": "Нейтронная звезда"
+        },
+        {
+          "text": "Radio Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/272/",
+          "text_ru": "Радиоастрономия"
+        },
+        {
+          "text": "Interstellar Medium",
+          "url": "https://www.astro4edu.org/resources/glossary/term/450/",
+          "text_ru": "Межзвёздная среда"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "X-ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/487/",
+          "text_ru": "Рентгеновское излучение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Pulsar</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A pulsar is a rapidly rotating neutron star whose intense magnetic fields produce two intense beams of radiation in opposite directions. This radiation can be detected as a brief pulse by radio telescopes as it sweeps past our line of sight. Pulsars are about 10–20 kilometers across with a typical mass of about one and a half times that of our Sun. They spin about once to several hundred times a second and can act as very precise celestial clocks. Some pulsars have been detected as gamma ray or X-ray sources. Over 3000 have been detected in our Galaxy. In addition, around 30 of them have also been detected outside the Milky Way in the Magellanic Clouds. Pulsars are useful as probes of the interstellar medium, as a test of general relativity, and potentially useful for detecting gravitational waves from black hole mergers.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/123/\">Gamma Ray</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/214/\">Neutron Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/272/\">Radio Astronomy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/450/\">Interstellar Medium</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/487/\">X-ray</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Пульсар",
+      "body_ru": "Пульсар — это быстро вращающаяся нейтронная звезда, чьи интенсивные магнитные поля создают два мощных пучка излучения в противоположных направлениях. Это излучение может регистрироваться радиотелескопами как короткий импульс, когда оно проходит через нашу линию зрения. Пульсары имеют диаметр около 10–20 километров при типичной массе примерно в полтора раза больше массы нашего Солнца. Они вращаются от одного до нескольких сотен раз в секунду и могут служить очень точными небесными часами. Некоторые пульсары обнаружены как источники гамма- или рентгеновского излучения. В нашей Галактике обнаружено более 3000. Кроме того, около 30 из них обнаружено за пределами Млечного Пути в Магеллановых Облаках. Пульсары полезны как зонды межзвёздной среды, для проверки общей теории относительности и потенциально для обнаружения гравитационных волн от слияний чёрных дыр."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "パルサー (external link)",
+          "url": "https://astro-dic.jp/pulsar/",
+          "text_ru": "Пульсар (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/266/\">النجم النابض </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/266/\">Pulsar </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/266/\">Pulsar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/266/\">Pulsar </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/266/\">पल्सार </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/266/\">Pulsar </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/pulsar/\">パルサー (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/266/\">पल्सार </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/266/\">Pulsar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/266/\">脉冲星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/266/\">脈衝星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/ed31OR3nF75/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://noirlab.edu/public/images/iotw2043a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:ed31OR3nF75"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/ed31OR3nF75/\"><img alt=\"The pulsar appears as a bright spot in the center with a series of colored ripples moving away from it on two sides\" src=\"/media/multimedia/thumbnails/the-crab-pulsar_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Crab Pulsar</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> At the heart of the Crab Nebula, situated approximately 6,500 light-years away in the constellation of Taurus, lies the Crab Nebula Pulsar. This is remnant of a massive star that exploded at the end of its life. This happened several thousand years ago but the light from this explosion only reached the Earth in the year 1054. This celestial event was viewed by people across the world with many different societies noting it in their records.\n\nThe Crab Nebula Pulsar rotates about 30 times per second and emits light in many different wavelengths, including the visible spectrum. It is roughly one and a half times the mass of the sun but the force of the explosion that formed it crammed this mass into a tiny space, roughly ten kilometres in radius.\n\nThis image is a composite of several observations conducted by the Gemini North observatory in Hawaii, USA. The pulsar can be seen at the center. The observations that this image was created from were taken over a period of five years. Data from 2009 is shown in blue and data from 2014 is shown in red. Over this time material has flowed away from the pulsar resulting in this colored ripple effect. Again the colors do not show real colors in the image, the ripples show the positions of the shockwaves as they moved away from the pulsar and hit into the surrounding gas.<br/>\n<b>Credit:</b> International Gemini Observatory/NOIRLab/NSF/AUR, Jen Miller, Travis Rector, Mahdi Zamani &amp; Davide de Martin\n\t  <a href=\"https://noirlab.edu/public/images/iotw2043a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Pulsar",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Pulsar",
+          "body": "A pulsar is a rapidly rotating neutron star whose intense magnetic fields produce two intense beams of radiation in opposite directions. This radiation can be detected as a brief pulse by radio telescopes as it sweeps past our line of sight. Pulsars are about 10–20 kilometers across with a typical mass of about one and a half times that of our Sun. They spin about once to several hundred times a second and can act as very precise celestial clocks. Some pulsars have been detected as gamma ray or X-ray sources. Over 3000 have been detected in our Galaxy. In addition, around 30 of them have also been detected outside the Milky Way in the Magellanic Clouds. Pulsars are useful as probes of the interstellar medium, as a test of general relativity, and potentially useful for detecting gravitational waves from black hole mergers."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Пульсар",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Пульсар",
+          "body": "Пульсар — это быстро вращающаяся нейтронная звезда, чьи интенсивные магнитные поля создают два мощных пучка излучения в противоположных направлениях. Это излучение может регистрироваться радиотелескопами как короткий импульс, когда оно проходит через нашу линию зрения. Пульсары имеют диаметр около 10–20 километров при типичной массе примерно в полтора раза больше массы нашего Солнца. Они вращаются от одного до нескольких сотен раз в секунду и могут служить очень точными небесными часами. Некоторые пульсары обнаружены как источники гамма- или рентгеновского излучения. В нашей Галактике обнаружено более 3000. Кроме того, около 30 из них обнаружено за пределами Млечного Пути в Магеллановых Облаках. Пульсары полезны как зонды межзвёздной среды, для проверки общей теории относительности и потенциально для обнаружения гравитационных волн от слияний чёрных дыр."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:ed31OR3nF75",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-crab-pulsar.png",
+      "record_url": "https://astro4edu.org/resources/media/ed31OR3nF75/",
+      "original_path": "data/media/original/media_ed31OR3nF75.png",
+      "ru_path": null,
+      "sha256": "91bbda89af2d0badaafda63362e4dcaddc577af32bff2abfdce19148e4e56038",
+      "size": 3313094,
+      "title_en": "The Crab Pulsar",
+      "title_ru": "Пульсар в Крабовидной туманности",
+      "short_caption_en": "The Crab Pulsar",
+      "short_caption_ru": "Пульсар в Крабовидной туманности",
+      "caption_en": "At the heart of the Crab Nebula, situated approximately 6,500 light-years away in the constellation of Taurus, lies the Crab Nebula Pulsar. This is remnant of a massive star that exploded at the end of its life. This happened several thousand years ago but the light from this explosion only reached the Earth in the year 1054. This celestial event was viewed by people across the world with many different societies noting it in their records.\r\n\r\nThe Crab Nebula Pulsar rotates about 30 times per second and emits light in many different wavelengths, including the visible spectrum. It is roughly one and a half times the mass of the sun but the force of the explosion that formed it crammed this mass into a tiny space, roughly ten kilometres in radius.\r\n\r\nThis image is a composite of several observations conducted by the Gemini North observatory in Hawaii, USA. The pulsar can be seen at the center. The observations that this image was created from were taken over a period of five years. Data from 2009 is shown in blue and data from 2014 is shown in red. Over this time material has flowed away from the pulsar resulting in this colored ripple effect. Again the colors do not show real colors in the image, the ripples show the positions of the shockwaves as they moved away from the pulsar and hit into the surrounding gas.",
+      "caption_ru": "В сердце Крабовидной туманности, расположенной на расстоянии примерно 6,500 световых лет в созвездии Тельца, находится пульсар Крабовидной туманности. Это остаток массивной звезды, взорвавшейся в конце своей жизни. Это произошло несколько тысяч лет назад, но свет от этого взрыва достиг Земли только в 1054 году. Это небесное событие наблюдали люди по всему миру, и многие разные общества отметили его в своих записях.\r\n\r\nПульсар Крабовидной туманности вращается около 30 раз в секунду и излучает свет во многих различных диапазонах длин волн, включая видимый спектр. Его масса примерно в полтора раза больше массы Солнца, но сила взрыва, сформировавшего его, сжала эту массу в крошечное пространство радиусом около десяти километров.\r\n\r\nЭто изображение является композицией нескольких наблюдений, проведённых обсерваторией Gemini North на Гавайях, США. Пульсар виден в центре. Наблюдения, из которых было создано это изображение, проводились в течение пяти лет. Данные от 2009 показаны синим, а данные от 2014 показаны красным. За это время вещество утекало от пульсара, что привело к этому цветному эффекту ряби. Опять же, цвета не показывают реальные цвета на изображении; рябь показывает положения ударных волн, когда они удалялись от пульсара и врезались в окружающий газ.",
+      "alt_en": "The pulsar appears as a bright spot in the center with a series of colored ripples moving away from it on two sides",
+      "alt_ru": "Пульсар выглядит как яркое пятно в центре, от которого с двух сторон расходятся цветные волны",
+      "credit": "International Gemini Observatory/NOIRLab/NSF/AUR, Jen Miller, Travis Rector, Mahdi Zamani & Davide de Martin",
+      "credit_url": "https://noirlab.edu/public/images/iotw2043a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        214,
+        266,
+        337
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

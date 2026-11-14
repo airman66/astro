@@ -1,0 +1,250 @@
+{
+  "id": "term:231",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 231,
+    "url": "https://astro4edu.org/resources/glossary/term/231/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=231",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:24.530687+00:00",
+    "sha256": "714b00e591f9195fc31d8a0ea8950f291194fb90bb64164583463335de6a5dee"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      3
+    ],
+    "categories_ru": [
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      279,
+      281,
+      352,
+      427,
+      451,
+      459
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Optics",
+      "body": "Optics is the science of light and its interactions with matter, and the art of constructing instruments that make use of the general principles of light–matter interactions. In astronomy, the \"optics\" of a telescope or instrument are those parts that guide light towards a detector, notably mirrors, lenses, masks, slits, or waveguides where visible light is concerned, as well as dispersive elements such as prisms and gratings that produce spectra. Active optics is the term for a mirror kept in the correct shape by active mechanical elements (\"actuators\"), while adaptive optics is a system whereby a mirror is quickly deformed in just the right way to counteract atmospheric disturbances (the \"twinkling\" of stars). The adjective \"optical\" is also used to refer to astronomy using visible light.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Reflecting Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/279/",
+          "text_ru": "Зеркальный телескоп"
+        },
+        {
+          "text": "Refracting Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/281/",
+          "text_ru": "Рефракторный телескоп"
+        },
+        {
+          "text": "Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/352/",
+          "text_ru": "Телескоп"
+        },
+        {
+          "text": "Adaptive Optics",
+          "url": "https://www.astro4edu.org/resources/glossary/term/427/",
+          "text_ru": "Адаптивная оптика"
+        },
+        {
+          "text": "Lens",
+          "url": "https://www.astro4edu.org/resources/glossary/term/451/",
+          "text_ru": "Линза"
+        },
+        {
+          "text": "Mirror",
+          "url": "https://www.astro4edu.org/resources/glossary/term/459/",
+          "text_ru": "Зеркало"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Optics</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Optics is the science of light and its interactions with matter, and the art of constructing instruments that make use of the general principles of light–matter interactions. In astronomy, the \"optics\" of a telescope or instrument are those parts that guide light towards a detector, notably mirrors, lenses, masks, slits, or waveguides where visible light is concerned, as well as dispersive elements such as prisms and gratings that produce spectra. Active optics is the term for a mirror kept in the correct shape by active mechanical elements (\"actuators\"), while adaptive optics is a system whereby a mirror is quickly deformed in just the right way to counteract atmospheric disturbances (the \"twinkling\" of stars). The adjective \"optical\" is also used to refer to astronomy using visible light.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/279/\">Reflecting Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/281/\">Refracting Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/352/\">Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/427/\">Adaptive Optics</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/451/\">Lens</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/459/\">Mirror</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Оптика",
+      "body_ru": "Оптика — это наука о свете и его взаимодействиях с материей, а также искусство создания инструментов, использующих общие принципы взаимодействия света и материи. В астрономии «оптика» телескопа или инструмента — это те части, которые направляют свет к детектору, в частности зеркала, линзы, маски, щели или волноводы, когда речь идёт о видимом свете, а также диспергирующие элементы, такие как призмы и дифракционные решётки, создающие спектры. Активная оптика — это термин для зеркала, форма которого поддерживается активными механическими элементами («актуаторами»), тогда как адаптивная оптика — это система, в которой зеркало быстро деформируется именно нужным образом, чтобы противодействовать атмосферным возмущениям («мерцанию» звёзд). Прилагательное «оптический» также используется для обозначения астрономии, использующей видимый свет."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/231/\">البصريات </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/231/\">Optik </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/231/\">Óptica </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/231/\">Optique </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/231/\">ऑप्टिक्स (प्रकाशिकी) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/231/\">Ottica </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/231/\">ऑप्टिक्स </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/231/\">Óptica </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/231/\">光学 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/231/\">光學 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/pR66Bh21Lv94/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:Prism_flat_rainbow_(cropped).jpg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "text_ru": "CC0"
+        },
+        {
+          "text": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication icons",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "text_ru": "Значки посвящения в общественное достояние CC0 1.0 Universal (CC0 1.0)"
+        }
+      ],
+      "media_ids": [
+        "media:pR66Bh21Lv94"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/pR66Bh21Lv94/\"><img alt=\"A prism refracting a beam of white light into a spread of rainbow colors from (right to left) blue to green to yellow to red\" src=\"/media/multimedia/thumbnails/light-dispersion-by-a-triangular-prism_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Light Dispersion by a Triangular Prism</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This photograph shows a prism splitting a beam of white light into its component colors — a beautiful demonstration of optics, the branch of physics that studies how light behaves and interacts with materials. When white light enters the prism, different wavelengths (colors) bend by different amounts because of a process called refraction. This separation of colors produces a spectrum — similar to a rainbow — revealing that white light is actually made up of many colors combined going from blue, through green and yellow to red.\n\nUnderstanding optics helps scientists and engineers design lenses, microscopes, telescopes, cameras, and many other tools that shape and control light for practical use. The way the prism disperses light into a spectrum is the same principle that makes rainbows form in the sky when sunlight passes through raindrops.<br/>\n<b>Credit:</b> Kelvinsong\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:Prism_flat_rainbow_(cropped).jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license\">CC0</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons-zero\"></i><span class=\"sr-only\">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities How do telescopes work? astroEDU educational activity (links to astroEDU website) Description: Let's discover telescopes and experiment simple optics License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 Education Level: Primary Areas of Learning: Guided-discovery learning \n  \n, Historical focussed activity \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Optics&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/how-do-telescopes-work/\"><img alt=\"How do telescopes work?\" src=\"/media/astroedu/images/how-do-telescopes-work_en_thumbnail_1NOFjzY.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/how-do-telescopes-work/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">How do telescopes work?</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's discover telescopes and experiment simple optics\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Historical focussed activity \n  \n, Observation based \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Optics&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Как работают телескопы? образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте откроем телескопы и поэкспериментируем с простой оптикой Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 10-12 Уровень образования: Начальный Области обучения: Обучение через направляемое исследование \n  \n, Исторически ориентированное мероприятие \n  \n, Основанное на наблюдениях Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Optics",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Optics",
+          "body": "Optics is the science of light and its interactions with matter, and the art of constructing instruments that make use of the general principles of light–matter interactions. In astronomy, the \"optics\" of a telescope or instrument are those parts that guide light towards a detector, notably mirrors, lenses, masks, slits, or waveguides where visible light is concerned, as well as dispersive elements such as prisms and gratings that produce spectra. Active optics is the term for a mirror kept in the correct shape by active mechanical elements (\"actuators\"), while adaptive optics is a system whereby a mirror is quickly deformed in just the right way to counteract atmospheric disturbances (the \"twinkling\" of stars). The adjective \"optical\" is also used to refer to astronomy using visible light."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities How do telescopes work? astroEDU educational activity (links to astroEDU website) Description: Let's discover telescopes and experiment simple optics License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 Education Level: Primary Areas of Learning: Guided-discovery learning \n  \n, Historical focussed activity \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Оптика",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Оптика",
+          "body": "Оптика — это наука о свете и его взаимодействиях с материей, а также искусство создания инструментов, использующих общие принципы взаимодействия света и материи. В астрономии «оптика» телескопа или инструмента — это те части, которые направляют свет к детектору, в частности зеркала, линзы, маски, щели или волноводы, когда речь идёт о видимом свете, а также диспергирующие элементы, такие как призмы и дифракционные решётки, создающие спектры. Активная оптика — это термин для зеркала, форма которого поддерживается активными механическими элементами («актуаторами»), тогда как адаптивная оптика — это система, в которой зеркало быстро деформируется именно нужным образом, чтобы противодействовать атмосферным возмущениям («мерцанию» звёзд). Прилагательное «оптический» также используется для обозначения астрономии, использующей видимый свет."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Как работают телескопы? образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте откроем телескопы и поэкспериментируем с простой оптикой Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 10-12 Уровень образования: Начальный Области обучения: Обучение через направляемое исследование \n  \n, Исторически ориентированное мероприятие \n  \n, Основанное на наблюдениях Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:pR66Bh21Lv94",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/light-dispersion-by-a-triangular-prism.png",
+      "record_url": "https://astro4edu.org/resources/media/pR66Bh21Lv94/",
+      "original_path": "data/media/original/media_pR66Bh21Lv94.png",
+      "ru_path": null,
+      "sha256": "3c2575ce18c8120ec915c4d5976b1b5e359ba873875181aa532974f50c97b82e",
+      "size": 777818,
+      "title_en": "Light Dispersion by a Triangular Prism",
+      "title_ru": "Дисперсия света треугольной призмой",
+      "short_caption_en": "Light Dispersion by a Triangular Prism",
+      "short_caption_ru": "Дисперсия света треугольной призмой",
+      "caption_en": "This photograph shows a prism splitting a beam of white light into its component colors — a beautiful demonstration of optics, the branch of physics that studies how light behaves and interacts with materials. When white light enters the prism, different wavelengths (colors) bend by different amounts because of a process called refraction. This separation of colors produces a spectrum — similar to a rainbow — revealing that white light is actually made up of many colors combined going from blue, through green and yellow to red.\r\n\r\nUnderstanding optics helps scientists and engineers design lenses, microscopes, telescopes, cameras, and many other tools that shape and control light for practical use. The way the prism disperses light into a spectrum is the same principle that makes rainbows form in the sky when sunlight passes through raindrops.",
+      "caption_ru": "На этой фотографии показана призма, разлагающая пучок белого света на составляющие его цвета — прекрасная демонстрация оптики, раздела физики, изучающего поведение света и его взаимодействие с материалами. Когда белый свет попадает в призму, разные длины волн (цвета) отклоняются на разные величины из-за процесса, называемого преломлением. Это разделение цветов создаёт спектр — подобный радуге — показывая, что белый свет на самом деле состоит из множества цветов, переходящих от синего через зелёный и жёлтый к красному.\r\n\r\nПонимание оптики помогает учёным и инженерам проектировать линзы, микроскопы, телескопы, фотоаппараты и многие другие инструменты, которые формируют и управляют светом для практического использования. То, как призма диспергирует свет в спектр, — это тот же принцип, который заставляет радуги появляться в небе, когда солнечный свет проходит через капли дождя.",
+      "alt_en": "A prism refracting a beam of white light into a spread of rainbow colors from (right to left) blue to green to yellow to red",
+      "alt_ru": "Призма, преломляющая пучок белого света в полосу радужных цветов от (справа налево) синего к зелёному, жёлтому и красному",
+      "credit": "Kelvinsong",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Prism_flat_rainbow_(cropped).jpg",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "term_numbers": [
+        175,
+        231,
+        378
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

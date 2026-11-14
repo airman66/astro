@@ -1,0 +1,249 @@
+{
+  "id": "term:140",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 140,
+    "url": "https://astro4edu.org/resources/glossary/term/140/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=140",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:57.367406+00:00",
+    "sha256": "bcd0bd7f88e172b71aec8e45d1023d14638f7b25907614b8f7c9b508681446ee"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      11,
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      62,
+      63
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Halley's Comet",
+      "body": "Halley's comet is, arguably, the most famous comet because it is the only short-cycle comet visible to the naked eye from Earth with a period short enough (about 75 years) to potentially allow people to see it twice in their lives. The comet's last visit was in 1986, and it is expected to return in 2061. It is named after the English astronomer Edmond Halley who was the first to calculate its periodicity and predict its next visit. Halley noticed that the comets that appeared in the years 1531, 1607, and 1682 all had very similar orbits and thus were all visits of the same comet to the inner Solar System. He correctly predicted the comet's return in 1758. It has been visited by the Vega and Giotto space missions. These found that the comet's dust consists mainly of silicates, iron, and magnesium, in addition to carbon–hydrogen–oxygen–nitrogen compounds (CHON). The comet's nucleus is made mostly of ice.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Comet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/62/",
+          "text_ru": "Комета"
+        },
+        {
+          "text": "Comet Nucleus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/63/",
+          "text_ru": "Ядро кометы"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Halley's Comet</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Halley's comet is, arguably, the most famous comet because it is the only short-cycle comet visible to the naked eye from Earth with a period short enough (about 75 years) to potentially allow people to see it twice in their lives. The comet's last visit was in 1986, and it is expected to return in 2061. It is named after the English astronomer Edmond Halley who was the first to calculate its periodicity and predict its next visit. Halley noticed that the comets that appeared in the years 1531, 1607, and 1682 all had very similar orbits and thus were all visits of the same comet to the inner Solar System. He correctly predicted the comet's return in 1758.<br/><br/>It has been visited by the Vega and Giotto space missions. These found that the comet's dust consists mainly of silicates, iron, and magnesium, in addition to carbon–hydrogen–oxygen–nitrogen compounds (CHON). The comet's nucleus is made mostly of ice.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/62/\">Comet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/63/\">Comet Nucleus</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Комета Галлея",
+      "body_ru": "Комета Галлея, возможно, самая известная комета, поскольку это единственная короткопериодическая комета, видимая с Земли невооружённым глазом, с периодом, достаточно коротким (около 75 лет), чтобы люди потенциально могли увидеть её дважды в жизни. Последний визит кометы был в 1986, и ожидается её возвращение в 2061. Она названа в честь английского астронома Эдмонда Галлея, который первым вычислил её периодичность и предсказал следующее появление. Галлей заметил, что кометы, появившиеся в годы 1531, 1607 и 1682, имели очень похожие орбиты и, таким образом, все были визитами одной и той же кометы во внутреннюю Солнечную систему. Он правильно предсказал возвращение кометы в 1758. Её посетили космические миссии «Вега» и «Джотто». Они обнаружили, что пыль кометы состоит в основном из силикатов, железа и магния, в дополнение к соединениям углерода–водорода–кислорода–азота (CHON). Ядро кометы состоит в основном из льда."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "ハレー彗星 (external link)",
+          "url": "https://astro-dic.jp/comet-halley/",
+          "text_ru": "Комета Галлея (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/140/\">مذنب هالي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/140/\">Halleyscher Komet </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/140/\">El Cometa Halley </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/140/\">La comète de Halley </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/140/\">La cometa di Halley </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/comet-halley/\">ハレー彗星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/140/\">Cometa Halley </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/140/\">哈雷彗星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/140/\">哈雷彗星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/5169Ir55Nv90/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/germany/images/halley_gpo_1386002-cc/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/RH74j957he19/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://images.nasa.gov/details/PIA17485",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:5169Ir55Nv90",
+        "media:RH74j957he19"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/5169Ir55Nv90/\"><img alt=\"Halley's Comet with a bright tail of gas and dust pointing to the upper right. The stars in the image are elongated.\" src=\"/media/multimedia/thumbnails/halleys-comet_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Halley's Comet</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Halley’s Comet, is a well-known periodic comet, named after the English astronomer Edmond Halley. It has an orbital period of approximately 75 years and is visible from Earth with the naked eye when it passes through the inner solar system.\n\nThe image shows Halley’s Comet, officially designated 1P/Halley, with a tail of gas and dust streaming away from the Sun. It was taken from the La-Silla-Observatory in Chile in 1986 during Halley's Comet's last visit to the inner solar system. The stars in this image appear elongated or as lines of three different colored dots as image was created from three separate observations in different colors of light and the telescope was tracking the comet, which was moving very slightly compared to the background stars.  Note that the comets tail does not point in exactly the same direction as the elongation of the stars. This shows us that the comet tail is not always behind the comet, but instead pointing away from the Sun. \n\nThe comet passes its perihelion (closest distance to the Sun) at a distance of around 0.59 astronomical units, right between the orbits of Mercury and Venus. Beyond Neptune, it reaches its aphelion (furthest distance from the Sun) at a distance of approximately 35 astronomical units. Halley's Comet reached aphelion in December 2023 and is now moving inwards again. It is expected to be seen with the naked eye from Earth again in mid-2061.<br/>\n<b>Credit:</b> ESO\n\t  <a href=\"https://www.eso.org/public/germany/images/halley_gpo_1386002-cc/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/RH74j957he19/\"><img alt=\"The irregular, icy nucleus of Halley’s Comet surrounded by a fuzzy coma, taken by the Giotto spacecraft during its 1986 flyby\" src=\"/media/multimedia/thumbnails/an-encounter-with-halleys-comet_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">An Encounter With Halley's Comet</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the solid core, or nucleus, of Halley’s Comet, captured in 1986 by the European Space Agency spacecraft Giotto during its flyby of the comet in the inner Solar System. The nucleus appears irregular and potato-shaped, measuring roughly 15 kilometers (about 9 miles) across, and is composed of a mixture of ice, dust, and rock. Unlike the glowing fuzzy cloud (coma) and long tail that make comets visible from Earth, the nucleus itself is dark and difficult to see until a spacecraft passes close enough to take detailed images.\n\nHalley’s Comet is one of the best-known comets because it returns to the inner Solar System approximately every 76 years, allowing generations of astronomers to observe it repeatedly. The material that is released from the nucleus as the comet warms near the Sun forms a glowing coma and long tails of gas and dust, and over many returns leaves trails of debris that produce meteor showers on Earth, such as the Eta Aquarids in May  and the Orionids in October.<br/>\n<b>Credit:</b> NASA/ESA/Giotto Project\n\t  <a href=\"https://images.nasa.gov/details/PIA17485\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Halley's Comet",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Halley's Comet",
+          "body": "Halley's comet is, arguably, the most famous comet because it is the only short-cycle comet visible to the naked eye from Earth with a period short enough (about 75 years) to potentially allow people to see it twice in their lives. The comet's last visit was in 1986, and it is expected to return in 2061. It is named after the English astronomer Edmond Halley who was the first to calculate its periodicity and predict its next visit. Halley noticed that the comets that appeared in the years 1531, 1607, and 1682 all had very similar orbits and thus were all visits of the same comet to the inner Solar System. He correctly predicted the comet's return in 1758. It has been visited by the Vega and Giotto space missions. These found that the comet's dust consists mainly of silicates, iron, and magnesium, in addition to carbon–hydrogen–oxygen–nitrogen compounds (CHON). The comet's nucleus is made mostly of ice."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Комета Галлея",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Комета Галлея",
+          "body": "Комета Галлея, возможно, самая известная комета, поскольку это единственная короткопериодическая комета, видимая с Земли невооружённым глазом, с периодом, достаточно коротким (около 75 лет), чтобы люди потенциально могли увидеть её дважды в жизни. Последний визит кометы был в 1986, и ожидается её возвращение в 2061. Она названа в честь английского астронома Эдмонда Галлея, который первым вычислил её периодичность и предсказал следующее появление. Галлей заметил, что кометы, появившиеся в годы 1531, 1607 и 1682, имели очень похожие орбиты и, таким образом, все были визитами одной и той же кометы во внутреннюю Солнечную систему. Он правильно предсказал возвращение кометы в 1758. Её посетили космические миссии «Вега» и «Джотто». Они обнаружили, что пыль кометы состоит в основном из силикатов, железа и магния, в дополнение к соединениям углерода–водорода–кислорода–азота (CHON). Ядро кометы состоит в основном из льда."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:5169Ir55Nv90",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/halleys-comet.png",
+      "record_url": "https://astro4edu.org/resources/media/5169Ir55Nv90/",
+      "original_path": "data/media/original/media_5169Ir55Nv90.png",
+      "ru_path": null,
+      "sha256": "dfb4fb11112d3b4a5a2512ed0a975a3b3a4297d7ec7ed8224126c039a0c7592b",
+      "size": 5225115,
+      "title_en": "Halley's Comet",
+      "title_ru": "Комета Галлея",
+      "short_caption_en": "Halley's Comet",
+      "short_caption_ru": "Комета Галлея",
+      "caption_en": "Halley’s Comet, is a well-known periodic comet, named after the English astronomer Edmond Halley. It has an orbital period of approximately 75 years and is visible from Earth with the naked eye when it passes through the inner solar system.\r\n\r\nThe image shows Halley’s Comet, officially designated 1P/Halley, with a tail of gas and dust streaming away from the Sun. It was taken from the La-Silla-Observatory in Chile in 1986 during Halley's Comet's last visit to the inner solar system. The stars in this image appear elongated or as lines of three different colored dots as image was created from three separate observations in different colors of light and the telescope was tracking the comet, which was moving very slightly compared to the background stars.  Note that the comets tail does not point in exactly the same direction as the elongation of the stars. This shows us that the comet tail is not always behind the comet, but instead pointing away from the Sun. \r\n\r\nThe comet passes its perihelion (closest distance to the Sun) at a distance of around 0.59 astronomical units, right between the orbits of Mercury and Venus. Beyond Neptune, it reaches its aphelion (furthest distance from the Sun) at a distance of approximately 35 astronomical units. Halley's Comet reached aphelion in December 2023 and is now moving inwards again. It is expected to be seen with the naked eye from Earth again in mid-2061.",
+      "caption_ru": "Комета Галлея — известная периодическая комета, названная в честь английского астронома Эдмонда Галлея. Её орбитальный период составляет примерно 75 лет, и она видна с Земли невооружённым глазом, когда проходит через внутреннюю часть Солнечной системы.\r\n\r\nНа изображении показана комета Галлея, официально обозначенная 1P/Галлея, с хвостом из газа и пыли, направленным от Солнца. Снимок был сделан из обсерватории Ла-Силья в Чили в 1986 во время последнего визита кометы Галлея во внутреннюю Солнечную систему. Звёзды на этом изображении выглядят вытянутыми или как линии из трёх точек разного цвета, поскольку изображение было создано из трёх отдельных наблюдений в разных цветах света, а телескоп отслеживал комету, которая двигалась очень незначительно по сравнению с фоновыми звёздами. Обратите внимание, что хвост кометы направлен не точно в том же направлении, что и вытянутость звёзд. Это показывает нам, что хвост кометы не всегда находится позади кометы, а направлен от Солнца.\r\n\r\nКомета проходит перигелий (ближайшее расстояние к Солнцу) на расстоянии около 0.59 астрономических единиц, прямо между орбитами Меркурия и Венеры. За Нептуном она достигает афелия (наибольшего расстояния от Солнца) на расстоянии примерно 35 астрономических единиц. Комета Галлея достигла афелия в декабре 2023 и сейчас снова движется внутрь. Ожидается, что её снова можно будет увидеть с Земли невооружённым глазом в середине 2061.",
+      "alt_en": "Halley's Comet with a bright tail of gas and dust pointing to the upper right. The stars in the image are elongated.",
+      "alt_ru": "Комета Галлея с ярким хвостом из газа и пыли, направленным вправо вверх. Звёзды на изображении вытянуты.",
+      "credit": "ESO",
+      "credit_url": "https://www.eso.org/public/germany/images/halley_gpo_1386002-cc/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        13,
+        62,
+        64,
+        140,
+        244
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:RH74j957he19",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/an-encounter-with-halleys-comet.png",
+      "record_url": "https://astro4edu.org/resources/media/RH74j957he19/",
+      "original_path": "data/media/original/media_RH74j957he19.png",
+      "ru_path": null,
+      "sha256": "974403ebe838a2ec653c5972d3fb317f3d739c37f7d1672be2aea9e4b2baefee",
+      "size": 1450320,
+      "title_en": "An Encounter With Halley's Comet",
+      "title_ru": "Встреча с кометой Галлея",
+      "short_caption_en": "An Encounter With Halley's Comet",
+      "short_caption_ru": "Встреча с кометой Галлея",
+      "caption_en": "This image shows the solid core, or nucleus, of Halley’s Comet, captured in 1986 by the European Space Agency spacecraft Giotto during its flyby of the comet in the inner Solar System. The nucleus appears irregular and potato-shaped, measuring roughly 15 kilometers (about 9 miles) across, and is composed of a mixture of ice, dust, and rock. Unlike the glowing fuzzy cloud (coma) and long tail that make comets visible from Earth, the nucleus itself is dark and difficult to see until a spacecraft passes close enough to take detailed images.\r\n\r\nHalley’s Comet is one of the best-known comets because it returns to the inner Solar System approximately every 76 years, allowing generations of astronomers to observe it repeatedly. The material that is released from the nucleus as the comet warms near the Sun forms a glowing coma and long tails of gas and dust, and over many returns leaves trails of debris that produce meteor showers on Earth, such as the Eta Aquarids in May  and the Orionids in October.",
+      "caption_ru": "На этом изображении показано твёрдое ядро кометы Галлея, запечатлённое в 1986 европейским космическим аппаратом «Джотто» во время его пролёта мимо кометы во внутренней Солнечной системе. Ядро выглядит неправильным, картофелеобразным, размером примерно 15 километров (около 9 миль) в поперечнике и состоит из смеси льда, пыли и камня. В отличие от светящегося размытого облака (комы) и длинного хвоста, которые делают кометы видимыми с Земли, само ядро тёмное и его трудно увидеть, пока космический аппарат не подлетит достаточно близко, чтобы сделать детальные снимки.\r\n\r\nКомета Галлея — одна из самых известных комет, потому что она возвращается во внутреннюю Солнечную систему примерно каждые 76 лет, что позволяет поколениям астрономов наблюдать её неоднократно. Вещество, высвобождаемое из ядра при нагревании кометы вблизи Солнца, образует светящуюся кому и длинные хвосты из газа и пыли, а за многие возвращения оставляет следы обломков, которые вызывают на Земле метеорные потоки, такие как эта-Аквариды в мае и Ориониды в октябре.",
+      "alt_en": "The irregular, icy nucleus of Halley’s Comet surrounded by a fuzzy coma, taken by the Giotto spacecraft during its 1986 flyby",
+      "alt_ru": "Неправильной формы ледяное ядро кометы Галлея в окружении размытой комы, снятое космическим аппаратом «Джотто» во время его пролёта в 1986 году",
+      "credit": "NASA/ESA/Giotto Project",
+      "credit_url": "https://images.nasa.gov/details/PIA17485",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        61,
+        62,
+        63,
+        140
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

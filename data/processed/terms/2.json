@@ -1,0 +1,135 @@
+{
+  "id": "term:2",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 2,
+    "url": "https://astro4edu.org/resources/glossary/term/2/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=2",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:05.828681+00:00",
+    "sha256": "f4dd33eab5330fbd719f46be5ab9a54db017828e3b2d9264847c0692a1dac92d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      15,
+      45,
+      185,
+      238
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Absolute Magnitude",
+      "body": "Absolute magnitude is a measure with two different definitions. Both relate to how bright objects appear under a special set of conditions. This allows the intrinsic properties of objects at different distances to be compared. This is in contrast to apparent magnitude which is a measure of how bright an object appears from the location of the observer. For objects outside the Solar System such as stars and galaxies, absolute magnitude is defined as the apparent magnitude an object would have  when viewed from a standard distance of 10 parsecs, ignoring the effects of interstellar extinction. This standardized number allows different objects to be compared by how intrinsically bright they are. Within the Solar System, absolute magnitude is defined as the apparent magnitude an object such as an asteroid would have if viewed at a distance of one astronomical unit from the observer, while the object is at a distance of one astronomical unit away from the Sun, and at opposition. Note that an object in the Solar System can never match these conditions when viewed from Earth but the definition removes factors that depend on the locations of the object and the observer to allow Solar System objects in different locations to be compared.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Apparent Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/15/",
+          "text_ru": "Видимая звёздная величина"
+        },
+        {
+          "text": "Brightness",
+          "url": "https://www.astro4edu.org/resources/glossary/term/45/",
+          "text_ru": "Яркость"
+        },
+        {
+          "text": "Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/185/",
+          "text_ru": "Звёздная величина"
+        },
+        {
+          "text": "Parsec",
+          "url": "https://www.astro4edu.org/resources/glossary/term/238/",
+          "text_ru": "Парсек"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического\nпросвещения IAU (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Absolute Magnitude</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Absolute magnitude is a measure with two different definitions. Both relate to how bright objects appear under a special set of conditions. This allows the intrinsic properties of objects at different distances to be compared. This is in contrast to apparent magnitude which is a measure of how bright an object appears from the location of the observer.<br/><br/>For objects outside the Solar System such as stars and galaxies, absolute magnitude is defined as the apparent magnitude an object would have  when viewed from a standard distance of 10 parsecs, ignoring the effects of interstellar extinction. This standardized number allows different objects to be compared by how intrinsically bright they are. <br/><br/>Within the Solar System, absolute magnitude is defined as the apparent magnitude an object such as an asteroid would have if viewed at a distance of one astronomical unit from the observer, while the object is at a distance of one astronomical unit away from the Sun, and at opposition. Note that an object in the Solar System can never match these conditions when viewed from Earth but the definition removes factors that depend on the locations of the object and the observer to allow Solar System objects in different locations to be compared.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/15/\">Apparent Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/45/\">Brightness</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/185/\">Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/238/\">Parsec</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: абсолютная звёздная величина",
+      "body_ru": "Абсолютная звёздная величина — это характеристика, имеющая два разных определения. Оба определения связаны с тем, насколько яркими объекты кажутся при особом наборе условий. Это позволяет сравнивать собственные свойства объектов на разных расстояниях. Это в отличие от видимой звёздной величины, которая является мерой того, насколько ярким объект кажется из местоположения наблюдателя. Для объектов за пределами Солнечной системы, таких как звёзды и галактики, абсолютная звёздная величина определяется как видимая звёздная величина, которую объект имел бы при наблюдении со стандартного расстояния 10 парсек, без учёта эффектов межзвёздного поглощения. Это стандартизованное число позволяет сравнивать разные объекты по их собственной яркости. В пределах Солнечной системы абсолютная звёздная величина определяется как видимая звёздная величина, которую имел бы такой объект, как астероид, при наблюдении с расстояния одной астрономической единицы от наблюдателя, когда объект находится на расстоянии одной астрономической единицы от Солнца и в противостоянии. Обратите внимание, что объект в Солнечной системе никогда не может соответствовать этим условиям при наблюдении с Земли, но определение исключает факторы, зависящие от местоположения объекта и наблюдателя, чтобы можно было сравнивать объекты Солнечной системы, находящиеся в разных местах."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "絶対等級 (external link)",
+          "url": "https://astro-dic.jp/absolute-magnitude/",
+          "text_ru": "Абсолютная звёздная величина (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/2/\">القدر المطلق </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/2/\">পরম মাত্রা </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/2/\">Absolute Helligkeit </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/2/\">Magnitud absoluta </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/2/\">Magnitude Absolue </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/2/\">निरपेक्ष परिमाण </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/2/\">Magnitudine assoluta </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/absolute-magnitude/\">絶対等級 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/2/\">절대등급 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/2/\">परिपूर्ण परिमाण </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/2/\">Magnitude Absoluta </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/2/\">绝对星等 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/2/\">絕對星等 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Absolute Magnitude",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Absolute Magnitude",
+          "body": "Absolute magnitude is a measure with two different definitions. Both relate to how bright objects appear under a special set of conditions. This allows the intrinsic properties of objects at different distances to be compared. This is in contrast to apparent magnitude which is a measure of how bright an object appears from the location of the observer. For objects outside the Solar System such as stars and galaxies, absolute magnitude is defined as the apparent magnitude an object would have  when viewed from a standard distance of 10 parsecs, ignoring the effects of interstellar extinction. This standardized number allows different objects to be compared by how intrinsically bright they are. Within the Solar System, absolute magnitude is defined as the apparent magnitude an object such as an asteroid would have if viewed at a distance of one astronomical unit from the observer, while the object is at a distance of one astronomical unit away from the Sun, and at opposition. Note that an object in the Solar System can never match these conditions when viewed from Earth but the definition removes factors that depend on the locations of the object and the observer to allow Solar System objects in different locations to be compared."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Абсолютная звёздная величина",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: абсолютная звёздная величина",
+          "body": "Абсолютная звёздная величина — это мера, имеющая два разных определения. Оба они связаны с тем, насколько яркими объекты выглядят при особом наборе условий. Это позволяет сравнивать собственные свойства объектов на разных расстояниях. Это отличается от видимой звёздной величины, которая является мерой того, насколько ярким объект выглядит из местоположения наблюдателя. Для объектов за пределами Солнечной системы, таких как звёзды и галактики, абсолютная звёздная величина определяется как видимая звёздная величина, которую имел бы объект при наблюдении со стандартного расстояния в 10 парсек без учёта эффектов межзвёздного поглощения. Это стандартизированное число позволяет сравнивать разные объекты по их собственной яркости. В пределах Солнечной системы абсолютная звёздная величина определяется как видимая звёздная величина, которую имел бы такой объект, как астероид, если бы его наблюдали с расстояния в одну астрономическую единицу от наблюдателя, при этом объект находится на расстоянии в одну астрономическую единицу от Солнца и в противостоянии. Обратите внимание, что объект в Солнечной системе никогда не может соответствовать этим условиям при наблюдении с Земли, однако определение устраняет факторы, зависящие от местоположения объекта и наблюдателя, чтобы можно было сравнивать объекты Солнечной системы, находящиеся в разных местоположениях."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "id": "term:424",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 424,
+    "url": "https://astro4edu.org/resources/glossary/term/424/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=424",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:22.703623+00:00",
+    "sha256": "fb496c2d978063dbe839dc21c8bd4e5c51c8ffc6a9f46cba9276feb439b68c18"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      92,
+      145,
+      171,
+      300,
+      317,
+      439,
+      462,
+      483
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Polar Circle",
+      "body": "The polar circles are lines of latitude on the Earth. The polar circle at 66°33′48.8″ N is called the Arctic Circle and the polar circle at 66°33′48.8″ S is called the Antarctic Circle. Due to the Earth's tilted rotation axis, regions north of the Arctic Circle and south of the Antarctic Circle experience \"polar nights\" during their winter and \"polar days\" during their summer. During a polar night the Sun is below the horizon for more than 24 hours and this period of darkness can last for months. During a polar day the Sun is above the horizon for more than 24 hours and daytime can last for months. Polar days and nights are longest closer to the poles. Polar nights happen before and after each polar region's winter solstice with polar days happening before and after the summer solstice.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Ecliptic",
+          "url": "https://www.astro4edu.org/resources/glossary/term/92/",
+          "text_ru": "Эклиптика"
+        },
+        {
+          "text": "Horizon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/145/",
+          "text_ru": "Горизонт"
+        },
+        {
+          "text": "Latitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/171/",
+          "text_ru": "Широта"
+        },
+        {
+          "text": "Seasons",
+          "url": "https://www.astro4edu.org/resources/glossary/term/300/",
+          "text_ru": "Времена года"
+        },
+        {
+          "text": "Solstice",
+          "url": "https://www.astro4edu.org/resources/glossary/term/317/",
+          "text_ru": "Солнцестояние"
+        },
+        {
+          "text": "Earth's Axis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/439/",
+          "text_ru": "Ось Земли"
+        },
+        {
+          "text": "Night",
+          "url": "https://www.astro4edu.org/resources/glossary/term/462/",
+          "text_ru": "Ночь"
+        },
+        {
+          "text": "Tropic",
+          "url": "https://www.astro4edu.org/resources/glossary/term/483/",
+          "text_ru": "Тропик"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Polar Circle</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The polar circles are lines of latitude on the Earth. The polar circle at 66°33′48.8″ N is called the Arctic Circle and the polar circle at 66°33′48.8″ S is called the Antarctic Circle. Due to the Earth's tilted rotation axis, regions north of the Arctic Circle and south of the Antarctic Circle experience \"polar nights\" during their winter and \"polar days\" during their summer. During a polar night the Sun is below the horizon for more than 24 hours and this period of darkness can last for months. During a polar day the Sun is above the horizon for more than 24 hours and daytime can last for months. Polar days and nights are longest closer to the poles. Polar nights happen before and after each polar region's winter solstice with polar days happening before and after the summer solstice.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/92/\">Ecliptic</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/145/\">Horizon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/171/\">Latitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/300/\">Seasons</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/317/\">Solstice</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/439/\">Earth's Axis</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/462/\">Night</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/483/\">Tropic</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Полярный круг",
+      "body_ru": "Полярные круги — это линии широты на Земле. Полярный круг на широте 66°33′48.8″ с. ш. называется Северным полярным кругом, а полярный круг на широте 66°33′48.8″ ю. ш. называется Южным полярным кругом. Из-за наклона оси вращения Земли области к северу от Северного полярного круга и к югу от Южного полярного круга испытывают «полярные ночи» зимой и «полярные дни» летом. Во время полярной ночи Солнце находится ниже горизонта более 24 часов, и этот период темноты может длиться месяцами. Во время полярного дня Солнце находится выше горизонта более 24 часов, и светлое время суток может длиться месяцами. Полярные дни и ночи наиболее продолжительны ближе к полюсам. Полярные ночи происходят до и после зимнего солнцестояния в каждом полярном регионе, а полярные дни — до и после летнего солнцестояния."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/424/\">الدائرة القطبية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/424/\">Polarkreis </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/424/\">Círculo Polar Ártico </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/424/\">Cercle polaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/424/\">Circolo polare </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/424/\">극권 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/424/\">ध्रुवीय वर्तुळ </a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/424/\">ध्रुवीय वृत्त </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/424/\">Círculo Polar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/424/\">极圈 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/424/\">極圈 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/MV22xW3EP96/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/9E87Hf46pq20/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:MV22xW3EP96",
+        "media:9E87Hf46pq20"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/MV22xW3EP96/\"><img alt=\"Seven images of the Sun. From the left it sinks, reaching its lowest in the centre image, before rising higher to the right.\" src=\"/media/multimedia/thumbnails/when-the-sun-bounces_thumbnail_VQl4j1n.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">When the Sun Bounces</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of sunrise and sunset location over the year.\n\nThis image was taken at Norway's North Cape. Owing to the latitude of this location, the Sun never truly sets during the summer months, from around April to August. This results in the unique spectacle of continuous daylight, known as a polar day. This captivating series of images, taken in 2022, showcases the Sun's relentless journey across the horizon every 30 minutes. At its lowest point in the sky, the Sun does not set, but appears to bounce off the horizon. The globe on the far right in the photo stands as a sentinel, marking the northernmost point of the European continental mainland.<br/>\n<b>Credit:</b> Milos Obert/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/9E87Hf46pq20/\"><img alt=\"24 images of the Sun around the edge of a circular image. In the lowest image, a black circle blocks the centre of the Sun.\" src=\"/media/multimedia/thumbnails/the-eclipse-clock-eclipse-on-a-polar-day_thumbnail_oSy9Q2R.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Eclipse Clock-Eclipse on a Polar Day</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\n\nConstructed by combining multiple images over the course of a 24-hour period, the image was captured in Union Glacier, Antarctica, during the total solar eclipse of 4 December 2021, and showcases the day arc of the Sun. It illustrates the unique phenomenon of a polar day, during which the Sun travels around the sky without setting. During polar days, areas within the polar circles experience 24 hours of continuous daylight, and the Sun doesn’t set for an extended period. The image also offers a rare perspective of a solar eclipse, where the Moon passes between the Sun and Earth, and as viewed from Earth. This can be seen in the lower image of the Sun, where the Moon covers the solar disc.<br/>\n<b>Credit:</b> Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Qf59LF190B19/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:Qf59LF190B19"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Qf59LF190B19/\"><img alt=\"Two views of the Earth with important lines of latitude and longitude marked\" src=\"/media/diagrams/multimedia/thumbnails/latitude_longitude_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Latitude and Longitude</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Two views of the Earth, one viewing the Northern Hemisphere, one viewing the Southern Hemisphere. The Earth rotates around its axis, an imaginary line that runs through the Earth from the North Pole to the South Pole. The Equator is an imaginary line that is the same distant from both the North Pole and the South Pole.\n\nThe positions of two cities, Rome in the Northern Hemisphere and Sydney in the Southern Hemisphere are marked here with red dots. Arrows indicate the two spherical coordinates latitude and longitude. \n\nLatitude marks the position north or south of the equator. Here we can see Rome has the letter N in its latitude as it is in the Northern Hemisphere and Sydney has the letter S in its latitude as it is in the Southern Hemisphere. Latitude can vary from 90° N at the North Pole to 0° at the Equator to 90° S at the South Pole.\n\nLongitude measures the position around the equator. While the choice of the zero point for latitude as the equator seems obvious, the choice of the zero point for longitude is more subjective. By convention the zero point in longitude is the prime meridian which passes through the Royal Greenwich Observatory in the UK. This is marked here as a solid line originating at the North Pole. Longitude is measured in degrees east or west of the prime meridian. As both Rome and Sydney lie to the east of Greenwich, they have the letter E as part of their longitude. Moving west to east, longitude varies from 180° W on the other side of the world from the prime meridian to 0° on the prime meridian before reaching 180° E again on the other side of world from the prime meridian.\n\nThis diagram shows the Earth at the December solstice. Two views are presented, one viewing the Northern Hemisphere and one viewing the Southern Hemisphere about nine hours later. The shaded region shows the night side of the Earth, with the day side being lighter. As it is the December solstice, the Sun appears overhead at the Tropic of Capricorn. This is a line of constant latitude at 23°26′09.3″ S. Six months later, at the June solstice, the Sun will appear to be overhead at the Tropic of Cancer at 23°26′09.3″ N. As the Sun appears over the Tropic of Capricorn more of the Southern Hemisphere is illuminated than the Northern Hemisphere. Indeed below the Antarctic Circle (the Polar Circle around the South Pole) the Sun does not set at this time of year leading to a Polar Day. Conversely, north of the Arctic Circle (the Polar Circle around the North Pole) the Sun does not rise at this time of year, leading to a Polar Night.<br/>\n<b>Credit:</b> Maria Cristina Fortuna/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Discover Earth's climate with a balloon astroEDU educational activity (links to astroEDU website) Description: Discover the secrets of Earth's climate zones with a hands-on experience License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Fun activity \n  \n, Guided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 45 mins Group Size: Group Skills: Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/discover-earths-climate-with-a-balloon/\"><img alt=\"Discover Earth's climate with a balloon\" src=\"/media/astroedu/images/discover-earths-climate-with-a-balloon_en_thumbnail_0EXUsz0.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/discover-earths-climate-with-a-balloon/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Discover Earth's climate with a balloon</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Discover the secrets of Earth's climate zones with a hands-on experience\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nFun activity \n  \n, Guided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Откройте для себя климат Земли с помощью образовательной активности astroEDU «Воздушный шар» (ссылки на сайт astroEDU). Описание: Откройте секреты климатических зон Земли с помощью практического опыта. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Возрастные диапазоны: 8-10, 10-12. Уровень образования: Средняя школа, Начальная школа. Области обучения: Увлекательная деятельность, Обучение через открытия, Моделирование, Наблюдение, Проектное обучение, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Постановка вопросов, Построение объяснений, Разработка и использование моделей."
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Polar Circle",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Polar Circle",
+          "body": "The polar circles are lines of latitude on the Earth. The polar circle at 66°33′48.8″ N is called the Arctic Circle and the polar circle at 66°33′48.8″ S is called the Antarctic Circle. Due to the Earth's tilted rotation axis, regions north of the Arctic Circle and south of the Antarctic Circle experience \"polar nights\" during their winter and \"polar days\" during their summer. During a polar night the Sun is below the horizon for more than 24 hours and this period of darkness can last for months. During a polar day the Sun is above the horizon for more than 24 hours and daytime can last for months. Polar days and nights are longest closer to the poles. Polar nights happen before and after each polar region's winter solstice with polar days happening before and after the summer solstice."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Discover Earth's climate with a balloon astroEDU educational activity (links to astroEDU website) Description: Discover the secrets of Earth's climate zones with a hands-on experience License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Fun activity \n  \n, Guided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 45 mins Group Size: Group Skills: Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models"
+        }
+      }
+    },
+    "ru": {
+      "title": "Полярный круг",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Полярный круг",
+          "body": "Полярные круги — это линии широты на Земле. Полярный круг на широте 66°33′48.8″ с. ш. называется Северным полярным кругом, а полярный круг на широте 66°33′48.8″ ю. ш. называется Южным полярным кругом. Из-за наклона оси вращения Земли области к северу от Северного полярного круга и к югу от Южного полярного круга испытывают «полярные ночи» зимой и «полярные дни» летом. Во время полярной ночи Солнце находится ниже горизонта более 24 часов, и этот период темноты может длиться месяцами. Во время полярного дня Солнце находится выше горизонта более 24 часов, и светлое время суток может длиться месяцами. Полярные дни и ночи наиболее продолжительны ближе к полюсам. Полярные ночи происходят до и после зимнего солнцестояния в каждом полярном регионе, а полярные дни — до и после летнего солнцестояния."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Откройте для себя климат Земли с помощью образовательной активности astroEDU «Воздушный шар» (ссылки на сайт astroEDU). Описание: Откройте секреты климатических зон Земли с помощью практического опыта. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Возрастные диапазоны: 8-10, 10-12. Уровень образования: Средняя школа, Начальная школа. Области обучения: Увлекательная деятельность, Обучение через открытия, Моделирование, Наблюдение, Проектное обучение, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Постановка вопросов, Построение объяснений, Разработка и использование моделей."
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:MV22xW3EP96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278711/files/First%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20sunrise%20and%20sunset%20locations%20over%20the%20year:%20When%20the%20Sun%20Bounces,%20by%20Milos%20Obert.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/MV22xW3EP96/",
+      "original_path": "data/media/original/media_MV22xW3EP96.jpg",
+      "ru_path": null,
+      "sha256": "cfcdfac62f96e8d2cd04986644db8e9e51fcd7b394fa47e1b32d1bcdb99d27b0",
+      "size": 3542177,
+      "title_en": "When the Sun Bounces",
+      "title_ru": "Когда Солнце отскакивает",
+      "short_caption_en": "When the Sun Bounces",
+      "short_caption_ru": "Когда Солнце отскакивает",
+      "caption_en": "First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of sunrise and sunset location over the year.\r\n\r\nThis image was taken at Norway's North Cape. Owing to the latitude of this location, the Sun never truly sets during the summer months, from around April to August. This results in the unique spectacle of continuous daylight, known as a polar day. This captivating series of images, taken in 2022, showcases the Sun's relentless journey across the horizon every 30 minutes. At its lowest point in the sky, the Sun does not set, but appears to bounce off the horizon. The globe on the far right in the photo stands as a sentinel, marking the northernmost point of the European continental mainland.",
+      "caption_ru": "Первое место в конкурсе астрофотографии 2023 IAU OAE, категория «Неподвижные изображения восхода и заката в течение года».\r\n\r\nЭто изображение было сделано на Нордкапе в Норвегии. Благодаря широте этого места Солнце никогда по-настоящему не заходит в течение летних месяцев, примерно с апреля по август. Это приводит к уникальному зрелищу непрерывного дневного света, известному как полярный день. Эта захватывающая серия изображений, сделанных в 2022, демонстрирует неустанное путешествие Солнца по горизонту каждые 30 минут. В своей самой низкой точке на небе Солнце не заходит, а, кажется, отскакивает от горизонта. Глобус на крайнем правом краю фотографии стоит как страж, отмечая самую северную точку континентальной Европы.",
+      "alt_en": "Seven images of the Sun. From the left it sinks, reaching its lowest in the centre image, before rising higher to the right.",
+      "alt_ru": "Семь изображений Солнца. Слева оно опускается, достигая самого низкого положения на центральном изображении, а затем поднимается выше справа.",
+      "credit": "Milos Obert/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        343,
+        424,
+        488,
+        491
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:9E87Hf46pq20",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278539/files/First%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20the%20day%20arc%20of%20the%20Sun%20and%20solargraphs:%20The%20Eclipse%20Clock-Eclipse%20on%20a%20Polar%20Day,%20by%20Stephanie%20Ziyi%20Ye.JPG/content",
+      "record_url": "https://astro4edu.org/resources/media/9E87Hf46pq20/",
+      "original_path": "data/media/original/media_9E87Hf46pq20.jpg",
+      "ru_path": null,
+      "sha256": "2d046b3473ad6617f6ee58c38fff867942af65cf6d4c3a12f6a13b3c855031b4",
+      "size": 1234247,
+      "title_en": "The Eclipse Clock-Eclipse on a Polar Day",
+      "title_ru": "Часы затмения — затмение в полярный день",
+      "short_caption_en": "The Eclipse Clock-Eclipse on a Polar Day",
+      "short_caption_ru": "Часы затмения — затмение в полярный день",
+      "caption_en": "First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\r\n\r\nConstructed by combining multiple images over the course of a 24-hour period, the image was captured in Union Glacier, Antarctica, during the total solar eclipse of 4 December 2021, and showcases the day arc of the Sun. It illustrates the unique phenomenon of a polar day, during which the Sun travels around the sky without setting. During polar days, areas within the polar circles experience 24 hours of continuous daylight, and the Sun doesn’t set for an extended period. The image also offers a rare perspective of a solar eclipse, where the Moon passes between the Sun and Earth, and as viewed from Earth. This can be seen in the lower image of the Sun, where the Moon covers the solar disc.",
+      "caption_ru": "Победитель, занявший первое место на конкурсе астрофотографии IAU OAE 2023 в категории «Неподвижные изображения дневных дуг Солнца и соларграфы».\r\n\r\nСозданное путём объединения нескольких изображений за 24-часовой период, это изображение было получено на леднике Юнион в Антарктиде во время полного солнечного затмения 4 декабря 2021 и демонстрирует дневную дугу Солнца. Оно иллюстрирует уникальное явление полярного дня, во время которого Солнце движется по небу, не заходя. В полярные дни районы внутри полярных кругов испытывают 24 часа непрерывного дневного света, и Солнце не заходит в течение длительного периода. Изображение также предлагает редкую перспективу солнечного затмения, когда Луна проходит между Солнцем и Землёй, как это видно с Земли. Это можно увидеть на нижнем изображении Солнца, где Луна закрывает солнечный диск.",
+      "alt_en": "24 images of the Sun around the edge of a circular image. In the lowest image, a black circle blocks the centre of the Sun.",
+      "alt_ru": "24 изображений Солнца по краю кругового изображения. На самом нижнем изображении чёрный круг закрывает центр Солнца.",
+      "credit": "Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        343,
+        365,
+        424
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:Qf59LF190B19",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/latitude_longitude_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Qf59LF190B19/",
+      "original_path": "data/media/original/diagram_Qf59LF190B19.png",
+      "ru_path": null,
+      "sha256": "2a98adcfea05d7f840611dd32ccb7c9dd60bba28bf57d9fc45e44bd347669beb",
+      "size": 434218,
+      "title_en": "Latitude and Longitude",
+      "title_ru": "Широта и долгота",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "Two views of the Earth, one viewing the Northern Hemisphere, one viewing the Southern Hemisphere. The Earth rotates around its axis, an imaginary line that runs through the Earth from the North Pole to the South Pole. The Equator is an imaginary line that is the same distant from both the North Pole and the South Pole.\r\n\r\nThe positions of two cities, Rome in the Northern Hemisphere and Sydney in the Southern Hemisphere are marked here with red dots. Arrows indicate the two spherical coordinates latitude and longitude. \r\n\r\nLatitude marks the position north or south of the equator. Here we can see Rome has the letter N in its latitude as it is in the Northern Hemisphere and Sydney has the letter S in its latitude as it is in the Southern Hemisphere. Latitude can vary from 90° N at the North Pole to 0° at the Equator to 90° S at the South Pole.\r\n\r\nLongitude measures the position around the equator. While the choice of the zero point for latitude as the equator seems obvious, the choice of the zero point for longitude is more subjective. By convention the zero point in longitude is the prime meridian which passes through the Royal Greenwich Observatory in the UK. This is marked here as a solid line originating at the North Pole. Longitude is measured in degrees east or west of the prime meridian. As both Rome and Sydney lie to the east of Greenwich, they have the letter E as part of their longitude. Moving west to east, longitude varies from 180° W on the other side of the world from the prime meridian to 0° on the prime meridian before reaching 180° E again on the other side of world from the prime meridian.\r\n\r\nThis diagram shows the Earth at the December solstice. Two views are presented, one viewing the Northern Hemisphere and one viewing the Southern Hemisphere about nine hours later. The shaded region shows the night side of the Earth, with the day side being lighter. As it is the December solstice, the Sun appears overhead at the Tropic of Capricorn. This is a line of constant latitude at 23°26′09.3″ S. Six months later, at the June solstice, the Sun will appear to be overhead at the Tropic of Cancer at 23°26′09.3″ N. As the Sun appears over the Tropic of Capricorn more of the Southern Hemisphere is illuminated than the Northern Hemisphere. Indeed below the Antarctic Circle (the Polar Circle around the South Pole) the Sun does not set at this time of year leading to a Polar Day. Conversely, north of the Arctic Circle (the Polar Circle around the North Pole) the Sun does not rise at this time of year, leading to a Polar Night.",
+      "caption_ru": "Два вида Земли: один — Северного полушария, другой — Южного полушария. Земля вращается вокруг своей оси — воображаемой линии, проходящей через Землю от Северного полюса до Южного полюса. Экватор — это воображаемая линия, одинаково удалённая от Северного и Южного полюсов.\r\n\r\nПоложения двух городов — Рима в Северном полушарии и Сиднея в Южном полушарии — отмечены здесь красными точками. Стрелки указывают на две сферические координаты: широту и долготу.\r\n\r\nШирота отмечает положение к северу или югу от экватора. Здесь мы видим, что в широте Рима есть буква N, так как он находится в Северном полушарии, а в широте Сиднея есть буква S, так как он находится в Южном полушарии. Широта может изменяться от 90° N на Северном полюсе до 0° на экваторе и до 90° S на Южном полюсе.\r\n\r\nДолгота измеряет положение вдоль экватора. Хотя выбор нулевой точки для широты — экватора — кажется очевидным, выбор нулевой точки для долготы более субъективен. По соглашению нулевой точкой долготы является нулевой меридиан, проходящий через Королевскую Гринвичскую обсерваторию в Великобритании. Здесь он отмечен сплошной линией, исходящей от Северного полюса. Долгота измеряется в градусах к востоку или западу от нулевого меридиана. Поскольку и Рим, и Сидней находятся к востоку от Гринвича, в их долготе есть буква E. При движении с запада на восток долгота изменяется от 180° W на противоположной стороне мира от нулевого меридиана до 0° на нулевом меридиане, а затем снова достигает 180° E на противоположной стороне мира от нулевого меридиана.\r\n\r\nЭта диаграмма показывает Землю в день декабрьского солнцестояния. Представлены два вида: один — Северного полушария, другой — Южного полушария примерно девятью часами позже. Заштрихованная область показывает ночную сторону Земли, а дневная сторона светлее. Поскольку это декабрьское солнцестояние, Солнце находится в зените над тропиком Козерога. Это линия постоянной широты на 23°26′09.3″ S. Через шесть месяцев, в день июньского солнцестояния, Солнце будет находиться в зените над тропиком Рака на 23°26′09.3″ N. Поскольку Солнце находится над тропиком Козерога, Южное полушарие освещено больше, чем Северное. Действительно, ниже Южного полярного круга (полярного круга вокруг Южного полюса) Солнце в это время года не заходит, что приводит к полярному дню. И наоборот, к северу от Северного полярного круга (полярного круга вокруг Северного полюса) Солнце в это время года не восходит, что приводит к полярной ночи.",
+      "alt_en": "Two views of the Earth with important lines of latitude and longitude marked",
+      "alt_ru": "Два вида Земли с отмеченными важными линиями широты и долготы",
+      "credit": "Maria Cristina Fortuna/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        90,
+        102,
+        171,
+        179,
+        424,
+        439,
+        483,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

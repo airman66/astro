@@ -1,0 +1,133 @@
+{
+  "id": "term:268",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 268,
+    "url": "https://astro4edu.org/resources/glossary/term/268/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=268",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:36.207537+00:00",
+    "sha256": "01c59557e2990e7af56c391363657e77cafcadd0c948c966ded53e09b57e1328"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies"
+    ],
+    "category_ids": [
+      8
+    ],
+    "categories_ru": [
+      "Галактики"
+    ],
+    "related_term_numbers": [
+      5,
+      43,
+      272
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Quasar",
+      "body": "Short for quasi-stellar radio source, quasars are distant extragalactic sources. Quasars appear as stars (hence, quasi-stellar) and were initially detected with radio telescopes. Observations reveal that they are associated with the region around the most massive supermassive black holes at the center of galaxies. Quasars are a subclass of active galactic nuclei (AGN), which includes radio and Seyfert galaxies, blazars, and low-ionization nuclear emission-line regions (LINERs). Quasars can be as much as 100 times more luminous than their host galaxy. Some also have giant jets which interact with the gas around and within their host galaxy. Because of their high luminosities, quasars can be used to study distant galaxies, intervening galaxies, and the intergalactic medium. 3C 273 was the first quasar detected.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Active Galactic Nucleus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/5/",
+          "text_ru": "Активное ядро галактики"
+        },
+        {
+          "text": "Black Hole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/43/",
+          "text_ru": "Чёрная дыра"
+        },
+        {
+          "text": "Radio Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/272/",
+          "text_ru": "Радиоастрономия"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Quasar</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>quasi-stellar object (QSO)</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Short for quasi-stellar radio source, quasars are distant extragalactic sources. Quasars appear as stars (hence, quasi-stellar) and were initially detected with radio telescopes. Observations reveal that they are associated with the region around the most massive supermassive black holes at the center of galaxies. Quasars are a subclass of active galactic nuclei (AGN), which includes radio and Seyfert galaxies, blazars, and low-ionization nuclear emission-line regions (LINERs). Quasars can be as much as 100 times more luminous than their host galaxy. Some also have giant jets which interact with the gas around and within their host galaxy. Because of their high luminosities, quasars can be used to study distant galaxies, intervening galaxies, and the intergalactic medium. 3C 273 was the first quasar detected.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/5/\">Active Galactic Nucleus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/43/\">Black Hole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/272/\">Radio Astronomy</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Квазар",
+      "body_ru": "Сокращение от квазизвёздный радиоисточник; квазары — это далёкие внегалактические источники. Квазары выглядят как звёзды (отсюда «квазизвёздные») и были первоначально обнаружены с помощью радиотелескопов. Наблюдения показывают, что они связаны с областью вокруг самых массивных сверхмассивных чёрных дыр в центрах галактик. Квазары являются подклассом активных ядер галактик (AGN), который включает радиогалактики и сейфертовские галактики, блазары и области с низкоионизованными линиями излучения в ядрах (LINERs). Квазары могут быть до 100 раз ярче своей родительской галактики. Некоторые также имеют гигантские джеты, которые взаимодействуют с газом вокруг и внутри их родительской галактики. Благодаря высокой светимости квазары можно использовать для изучения далёких галактик, промежуточных галактик и межгалактической среды. 3C 273 был первым обнаруженным квазаром."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "クェーサー (external link)",
+          "url": "https://astro-dic.jp/quasar/",
+          "text_ru": "Квазар (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/268/\">كوازار </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/268/\">Quasar </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/268/\">Cuásar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/268/\">Quasar </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/268/\">Quasar </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/quasar/\">クェーサー (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/268/\">Quasar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/268/\">类星体 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/268/\">類星體 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Quasar",
+      "aliases": [
+        "quasi-stellar object (QSO)"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Quasar",
+          "body": "Short for quasi-stellar radio source, quasars are distant extragalactic sources. Quasars appear as stars (hence, quasi-stellar) and were initially detected with radio telescopes. Observations reveal that they are associated with the region around the most massive supermassive black holes at the center of galaxies. Quasars are a subclass of active galactic nuclei (AGN), which includes radio and Seyfert galaxies, blazars, and low-ionization nuclear emission-line regions (LINERs). Quasars can be as much as 100 times more luminous than their host galaxy. Some also have giant jets which interact with the gas around and within their host galaxy. Because of their high luminosities, quasars can be used to study distant galaxies, intervening galaxies, and the intergalactic medium. 3C 273 was the first quasar detected."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Квазар",
+      "aliases": [
+        "квазизвёздный объект (QSO)"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Квазар",
+          "body": "Сокращение от квазизвёздный радиоисточник; квазары — это далёкие внегалактические источники. Квазары выглядят как звёзды (отсюда «квазизвёздные») и были первоначально обнаружены с помощью радиотелескопов. Наблюдения показывают, что они связаны с областью вокруг самых массивных сверхмассивных чёрных дыр в центрах галактик. Квазары являются подклассом активных ядер галактик (AGN), который включает радиогалактики и сейфертовские галактики, блазары и области с низкоионизованными линиями излучения в ядрах (LINERs). Квазары могут быть до 100 раз ярче своей родительской галактики. Некоторые также имеют гигантские джеты, которые взаимодействуют с газом вокруг и внутри их родительской галактики. Благодаря высокой светимости квазары можно использовать для изучения далёких галактик, промежуточных галактик и межгалактической среды. 3C 273 был первым обнаруженным квазаром."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

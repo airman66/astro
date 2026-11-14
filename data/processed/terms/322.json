@@ -1,0 +1,223 @@
+{
+  "id": "term:322",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 322,
+    "url": "https://astro4edu.org/resources/glossary/term/322/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=322",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:51.625899+00:00",
+    "sha256": "dfc2b15c38fd40cf11aa811788deb2118b5145f4cbca023c1f0b2dc7ab5fdb18"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Space Exploration",
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      10,
+      3
+    ],
+    "categories_ru": [
+      "Исследование космоса",
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      155,
+      227,
+      293,
+      371,
+      487
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Space Telescope",
+      "body": "Electromagnetic radiation from space has to first pass through the Earth's atmosphere before it can be collected by ground-based telescopes. Gamma rays, X-rays, ultraviolet, and some kinds of infrared radiation are filtered out completely by the atmosphere. To observe them, astronomers use space telescopes, which are sometimes also called space observatories: Automated satellites above the atmosphere that carry a telescope and instruments, plus the equipment needed to orient the spacecraft towards a specific target, receive commands, and transmit data back to Earth. As the twinkling of stars shows, even light that passes through the atmosphere is disturbed in the process. Here, too, space telescopes can help. However, space telescopes are difficult to repair. Most space telescopes are either in Earth orbit (such as the Hubble Space Telescope), or at the so-called Lagrange point L2 (such as the James Webb Space Telescope).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Infrared (IR)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/155/",
+          "text_ru": "Инфракрасное (ИК)"
+        },
+        {
+          "text": "Observatory",
+          "url": "https://www.astro4edu.org/resources/glossary/term/227/",
+          "text_ru": "Обсерватория"
+        },
+        {
+          "text": "Artificial Satellite",
+          "url": "https://www.astro4edu.org/resources/glossary/term/293/",
+          "text_ru": "Искусственный спутник"
+        },
+        {
+          "text": "Ultraviolet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/371/",
+          "text_ru": "Ультрафиолетовое"
+        },
+        {
+          "text": "X-ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/487/",
+          "text_ru": "Рентгеновское излучение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Space Telescope</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Space Observatory</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Electromagnetic radiation from space has to first pass through the Earth's atmosphere before it can be collected by ground-based telescopes. Gamma rays, X-rays, ultraviolet, and some kinds of infrared radiation are filtered out completely by the atmosphere. To observe them, astronomers use space telescopes, which are sometimes also called space observatories: Automated satellites above the atmosphere that carry a telescope and instruments, plus the equipment needed to orient the spacecraft towards a specific target, receive commands, and transmit data back to Earth. As the twinkling of stars shows, even light that passes through the atmosphere is disturbed in the process. Here, too, space telescopes can help. However, space telescopes are difficult to repair. Most space telescopes are either in Earth orbit (such as the Hubble Space Telescope), or at the so-called Lagrange point L2 (such as the James Webb Space Telescope).</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/155/\">Infrared (IR)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/227/\">Observatory</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/293/\">Artificial Satellite</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/371/\">Ultraviolet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/487/\">X-ray</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Космический телескоп",
+      "body_ru": "Электромагнитное излучение из космоса должно сначала пройти через атмосферу Земли, прежде чем его смогут собрать наземные телескопы. Гамма-лучи, рентгеновские лучи, ультрафиолетовое и некоторые виды инфракрасного излучения полностью отфильтровываются атмосферой. Для их наблюдения астрономы используют космические телескопы, которые иногда также называют космическими обсерваториями: автоматические спутники над атмосферой, несущие телескоп и инструменты, а также оборудование, необходимое для ориентации аппарата на конкретную цель, приёма команд и передачи данных обратно на Землю. Как показывает мерцание звёзд, даже свет, проходящий через атмосферу, в этом процессе искажается. Здесь тоже могут помочь космические телескопы. Однако космические телескопы трудно ремонтировать. Большинство космических телескопов находятся либо на околоземной орбите (например, космический телескоп «Хаббл»), либо в так называемой точке Лагранжа L2 (например, космический телескоп «Джеймс Уэбб»)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "宇宙望遠鏡 (external link)",
+          "url": "https://astro-dic.jp/space-telescope/",
+          "text_ru": "Космический телескоп (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/322/\">التلسكوب الفضائي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/322/\">Weltraumteleskop </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/322/\">Telescopio espacial </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/322/\">Télescope spatial </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/322/\">Telescopio spaziale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/space-telescope/\">宇宙望遠鏡 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/322/\">Telescópio Espacial </a></span></li>\n<li><b>Albanian: </b><span dir=\"LTR\" lang=\"sq\"><a class=\"link-bold\" href=\"/sq/resources/glossary/term/322/\">Teleskopi Hapësinor </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/322/\">太空望远镜 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/322/\">太空望遠鏡 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/3x510K79yO81/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/hubble_earth/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:3x510K79yO81"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/3x510K79yO81/\"><img alt=\"The silver-coloured Hubble Space Telescope with the blue ocean and white clouds of the Earth visible underneath.\" src=\"/media/multimedia/thumbnails/hubble_earth_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hubble Space Telescope over Earth</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The NASA/ESA Hubble Space Telescope orbiting Earth. This picture was taken by astronauts on board the space shuttle Columbia, right after the Servicing Mission 3B to the space telescope itself. The telescope has an opening that allows light in (seen here on the left). The light travels through the telescope optics to the cameras and spectrographs located in the bulge at the other end of the observatory (seen here on the right). Data from these instruments is then sent back to Earth using an antenna. The black rectangles on either side of the observatory are the solar panels that provide it with power.<br/>\n<b>Credit:</b> NASA/ESA\n\t  <a href=\"https://esahubble.org/images/hubble_earth/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Space Telescope",
+      "aliases": [
+        "Space Observatory"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Space Telescope",
+          "body": "Electromagnetic radiation from space has to first pass through the Earth's atmosphere before it can be collected by ground-based telescopes. Gamma rays, X-rays, ultraviolet, and some kinds of infrared radiation are filtered out completely by the atmosphere. To observe them, astronomers use space telescopes, which are sometimes also called space observatories: Automated satellites above the atmosphere that carry a telescope and instruments, plus the equipment needed to orient the spacecraft towards a specific target, receive commands, and transmit data back to Earth. As the twinkling of stars shows, even light that passes through the atmosphere is disturbed in the process. Here, too, space telescopes can help. However, space telescopes are difficult to repair. Most space telescopes are either in Earth orbit (such as the Hubble Space Telescope), or at the so-called Lagrange point L2 (such as the James Webb Space Telescope)."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Космический телескоп",
+      "aliases": [
+        "Космическая обсерватория"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Космический телескоп",
+          "body": "Электромагнитное излучение из космоса должно сначала пройти через атмосферу Земли, прежде чем его смогут собрать наземные телескопы. Гамма-лучи, рентгеновские лучи, ультрафиолетовое и некоторые виды инфракрасного излучения полностью отфильтровываются атмосферой. Для их наблюдения астрономы используют космические телескопы, которые иногда также называют космическими обсерваториями: автоматические спутники над атмосферой, несущие телескоп и инструменты, а также оборудование, необходимое для ориентации аппарата на конкретную цель, приёма команд и передачи данных обратно на Землю. Как показывает мерцание звёзд, даже свет, проходящий через атмосферу, в этом процессе искажается. Здесь тоже могут помочь космические телескопы. Однако космические телескопы трудно ремонтировать. Большинство космических телескопов находятся либо на околоземной орбите (например, космический телескоп «Хаббл»), либо в так называемой точке Лагранжа L2 (например, космический телескоп «Джеймс Уэбб»)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:3x510K79yO81",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/hubble_earth.jpg",
+      "record_url": "https://astro4edu.org/resources/media/3x510K79yO81/",
+      "original_path": "data/media/original/media_3x510K79yO81.jpg",
+      "ru_path": null,
+      "sha256": "92a0e3f2f629f5d6ea7c321fb5ef43634ab7565a015c98d1a2da99e131b402f2",
+      "size": 1305565,
+      "title_en": "Hubble Space Telescope over Earth",
+      "title_ru": "Космический телескоп «Хаббл» над Землёй",
+      "short_caption_en": "Hubble Space Telescope over Earth",
+      "short_caption_ru": "Космический телескоп «Хаббл» над Землёй",
+      "caption_en": "The NASA/ESA Hubble Space Telescope orbiting Earth. This picture was taken by astronauts on board the space shuttle Columbia, right after the Servicing Mission 3B to the space telescope itself. The telescope has an opening that allows light in (seen here on the left). The light travels through the telescope optics to the cameras and spectrographs located in the bulge at the other end of the observatory (seen here on the right). Data from these instruments is then sent back to Earth using an antenna. The black rectangles on either side of the observatory are the solar panels that provide it with power.",
+      "caption_ru": "Космический телескоп НАСА/ЕКА «Хаббл» на орбите Земли. Этот снимок был сделан астронавтами на борту шаттла «Колумбия» сразу после миссии обслуживания 3B самого космического телескопа. Телескоп имеет отверстие, через которое поступает свет (видно здесь слева). Свет проходит через оптику телескопа к камерам и спектрографам, расположенным в выпуклости на другом конце обсерватории (видно здесь справа). Данные с этих инструментов затем отправляются обратно на Землю с помощью антенны. Чёрные прямоугольники по обе стороны обсерватории — это солнечные панели, которые обеспечивают её энергией.",
+      "alt_en": "The silver-coloured Hubble Space Telescope with the blue ocean and white clouds of the Earth visible underneath.",
+      "alt_ru": "Серебристый космический телескоп «Хаббл» с видимыми внизу голубым океаном и белыми облаками Земли.",
+      "credit": "NASA/ESA",
+      "credit_url": "https://esahubble.org/images/hubble_earth/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        156,
+        227,
+        229,
+        322
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

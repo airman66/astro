@@ -1,0 +1,129 @@
+{
+  "id": "term:88",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 88,
+    "url": "https://astro4edu.org/resources/glossary/term/88/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=88",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:34.396562+00:00",
+    "sha256": "a2f1b44582fe4c2f64e89b445b4300c5a8155c2b4d3b9472c55c661987e9a8b0"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      46,
+      276,
+      386
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Dwarf Star",
+      "body": "\"Dwarf star\" is a synonym for a star on the so-called main sequence: Stars that fuse hydrogen to helium in their cores. Stars spend most of their \"lives\" as dwarf stars. Our Sun is a middle-aged dwarf. Typically, when astronomers refer to such main sequence stars, they include a reference to the color, such as \"red dwarf\" for the most common, low-mass dwarf stars, or \"yellow dwarf\" for stars like our Sun. Caution: In astronomy, there are cases where the designation \"dwarf\" refers to objects that are not dwarf stars by this definition! Brown dwarfs are objects that have masses less than 8% of that of the Sun, and never start steady hydrogen burning in their cores – a kind of intermediate class of \"substellar objects\" between the mass range of stars and that of planets. White dwarfs, also called white dwarf stars, are the compact remnants of low to medium mass stars that have exhausted their nuclear fuel. When our Sun has reached the end of its stellar life, it will become a white dwarf.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Brown Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/46/",
+          "text_ru": "Коричневый карлик"
+        },
+        {
+          "text": "Red Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/276/",
+          "text_ru": "Красный карлик"
+        },
+        {
+          "text": "White Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/386/",
+          "text_ru": "Белый карлик"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Dwarf Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> \"Dwarf star\" is a synonym for a star on the so-called main sequence: Stars that fuse hydrogen to helium in their cores. Stars spend most of their \"lives\" as dwarf stars. Our Sun is a middle-aged dwarf. Typically, when astronomers refer to such main sequence stars, they include a reference to the color, such as \"red dwarf\" for the most common, low-mass dwarf stars, or \"yellow dwarf\" for stars like our Sun. <br/><br/>Caution: In astronomy, there are cases where the designation \"dwarf\" refers to objects that are not dwarf stars by this definition! Brown dwarfs are objects that have masses less than 8% of that of the Sun, and never start steady hydrogen burning in their cores – a kind of intermediate class of \"substellar objects\" between the mass range of stars and that of planets. White dwarfs, also called white dwarf stars, are the compact remnants of low to medium mass stars that have exhausted their nuclear fuel. When our Sun has reached the end of its stellar life, it will become a white dwarf.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/46/\">Brown Dwarf</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/276/\">Red Dwarf</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/386/\">White Dwarf</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Карликовая звезда",
+      "body_ru": "«Карликовая звезда» — синоним звезды на так называемой главной последовательности: звёзд, которые в своих ядрах превращают водород в гелий. Большую часть своей «жизни» звёзды проводят как карликовые звёзды. Наше Солнце — карликовая звезда среднего возраста. Обычно, когда астрономы говорят о таких звёздах главной последовательности, они указывают цвет, например, «красный карлик» для наиболее распространённых маломассивных карликовых звёзд или «жёлтый карлик» для звёзд, подобных нашему Солнцу. Внимание: в астрономии есть случаи, когда обозначение «карликовая» относится к объектам, которые не являются карликовыми звёздами по этому определению! Коричневые карлики — это объекты с массами менее 8% массы Солнца, которые никогда не начинают устойчивое горение водорода в своих ядрах — своего рода промежуточный класс «субзвёздных объектов» между диапазоном масс звёзд и планет. Белые карлики, также называемые звёздами-белыми карликами, — это компактные остатки звёзд малой и средней массы, исчерпавших своё ядерное топливо. Когда наше Солнце достигнет конца своей звёздной жизни, оно станет белым карликом."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "矮星 (external link)",
+          "url": "https://astro-dic.jp/dwarf-star/",
+          "text_ru": "Карликовая звезда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/88/\">النجم القزم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/88/\">Zwergstern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/88/\">Estrella enana </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/88/\">Étoile naine </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/88/\">Stella nana </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/dwarf-star/\">矮星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/88/\">Estrela anã </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/88/\">矮星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/88/\">矮星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Dwarf Star",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Dwarf Star",
+          "body": "\"Dwarf star\" is a synonym for a star on the so-called main sequence: Stars that fuse hydrogen to helium in their cores. Stars spend most of their \"lives\" as dwarf stars. Our Sun is a middle-aged dwarf. Typically, when astronomers refer to such main sequence stars, they include a reference to the color, such as \"red dwarf\" for the most common, low-mass dwarf stars, or \"yellow dwarf\" for stars like our Sun. Caution: In astronomy, there are cases where the designation \"dwarf\" refers to objects that are not dwarf stars by this definition! Brown dwarfs are objects that have masses less than 8% of that of the Sun, and never start steady hydrogen burning in their cores – a kind of intermediate class of \"substellar objects\" between the mass range of stars and that of planets. White dwarfs, also called white dwarf stars, are the compact remnants of low to medium mass stars that have exhausted their nuclear fuel. When our Sun has reached the end of its stellar life, it will become a white dwarf."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Карликовая звезда",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Карликовая звезда",
+          "body": "«Карликовая звезда» — синоним звезды на так называемой главной последовательности: звёзд, которые в своих ядрах превращают водород в гелий. Большую часть своей «жизни» звёзды проводят как карликовые звёзды. Наше Солнце — карликовая звезда среднего возраста. Обычно, когда астрономы говорят о таких звёздах главной последовательности, они указывают цвет, например, «красный карлик» для наиболее распространённых маломассивных карликовых звёзд или «жёлтый карлик» для звёзд, подобных нашему Солнцу. Внимание: в астрономии есть случаи, когда обозначение «карликовая» относится к объектам, которые не являются карликовыми звёздами по этому определению! Коричневые карлики — это объекты с массами менее 8% массы Солнца, которые никогда не начинают устойчивое горение водорода в своих ядрах — своего рода промежуточный класс «субзвёздных объектов» между диапазоном масс звёзд и планет. Белые карлики, также называемые звёздами-белыми карликами, — это компактные остатки звёзд малой и средней массы, исчерпавших своё ядерное топливо. Когда наше Солнце достигнет конца своей звёздной жизни, оно станет белым карликом."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

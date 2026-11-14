@@ -1,0 +1,197 @@
+{
+  "id": "term:55",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 55,
+    "url": "https://astro4edu.org/resources/glossary/term/55/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=55",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:21.303507+00:00",
+    "sha256": "37334b2de0076cb0ee46b553db7e776787335e4e3d2b19161c7eb719edf7fca0"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      68,
+      251,
+      338
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Chromosphere",
+      "body": "The chromosphere (or \"color sphere\") of the Sun or other sun-like star is the thin layer in the atmosphere directly above the photosphere, which is the denser layer from which the sunlight or starlight is emitted. During a total eclipse of the Sun, the chromosphere is visible as a faint ring of glowing gases, mostly hydrogen which glows with a red color, hence the name.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Corona",
+          "url": "https://www.astro4edu.org/resources/glossary/term/68/",
+          "text_ru": "Корона"
+        },
+        {
+          "text": "Photosphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/251/",
+          "text_ru": "Фотосфера"
+        },
+        {
+          "text": "Stellar Structure",
+          "url": "https://www.astro4edu.org/resources/glossary/term/338/",
+          "text_ru": "Строение звезды"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Chromosphere</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The chromosphere (or \"color sphere\") of the Sun or other sun-like star is the thin layer in the atmosphere directly above the photosphere, which is the denser layer from which the sunlight or starlight is emitted. During a total eclipse of the Sun, the chromosphere is visible as a faint ring of glowing gases, mostly hydrogen which glows with a red color, hence the name.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/68/\">Corona</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/251/\">Photosphere</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/338/\">Stellar Structure</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Хромосфера",
+      "body_ru": "Хромосфера (или «цветная сфера») Солнца или другой солнцеподобной звезды — это тонкий слой в атмосфере непосредственно над фотосферой, которая является более плотным слоем, из которого испускается солнечный или звёздный свет. Во время полного солнечного затмения хромосфера видна как слабое кольцо светящихся газов, в основном водорода, который светится красным цветом, отсюда и название."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "彩層 (external link)",
+          "url": "https://astro-dic.jp/chromosphere/",
+          "text_ru": "Хромосфера (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/55/\">الطبقة اللونية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/55/\">Chromosphäre </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/55/\">Cromosfera </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/55/\">فام‌سپهر </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/55/\">Chromosphère </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/55/\">Cromosfera </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/chromosphere/\">彩層 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/55/\">채층 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/55/\">Cromosfera </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/55/\">色球 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/55/\">色球 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/be0q761WO41/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:be0q761WO41"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/be0q761WO41/\"><img alt=\"The Sun as red disk with bright patches and long dark strands. Several small wispy features protrude from the disk's edge\" src=\"/media/multimedia/thumbnails/h-alpha-image-of-the-suns-chromosphere_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">H-alpha image of the Sun's chromosphere</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This false-color image was captured with a 10-cm telescope at the Big Bear Solar Observatory (BBSO) in the United States in July 2002. It depicts the full disk of the Sun using the H-alpha emission line of hydrogen. When observed in this spectral line, the Sun's chromosphere appears particularly prominent due to hydrogen atoms emitting light at the specific wavelength. This emission produces a distinctive red color, making features such as spicules (jets of plasma that look hair-like) and plage (bright patches in the chromosphere) highly visible. Several small solar prominences can be seen protruding from the edge of the solar disk. When prominences (also known as filaments) cross the face of the disk they appear as dark threads caused by the cooler material in the prominence absorbing light. The chromosphere is also visible in the violet part of the solar spectrum due to ionized calcium showing emissions in these wavelengths.<br/>\n<b>Credit:</b> Big Bear Solar Observatory (BBSO)/New Jersey Institut of Technology (NJIT)\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Chromosphere",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Chromosphere",
+          "body": "The chromosphere (or \"color sphere\") of the Sun or other sun-like star is the thin layer in the atmosphere directly above the photosphere, which is the denser layer from which the sunlight or starlight is emitted. During a total eclipse of the Sun, the chromosphere is visible as a faint ring of glowing gases, mostly hydrogen which glows with a red color, hence the name."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Хромосфера",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Хромосфера",
+          "body": "Хромосфера (или «цветная сфера») Солнца или другой солнцеподобной звезды — это тонкий слой в атмосфере непосредственно над фотосферой, которая является более плотным слоем, из которого испускается солнечный или звёздный свет. Во время полного солнечного затмения хромосфера видна как слабое кольцо светящихся газов, в основном водорода, который светится красным цветом, отсюда и название."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:be0q761WO41",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/h-alpha-image-of-the-suns-chromosphere.png",
+      "record_url": "https://astro4edu.org/resources/media/be0q761WO41/",
+      "original_path": "data/media/original/media_be0q761WO41.png",
+      "ru_path": null,
+      "sha256": "8e7f8899864830186451154aba974a01c733ade743b232c7d7fbe0f43c893a33",
+      "size": 2821426,
+      "title_en": "H-alpha image of the Sun's chromosphere",
+      "title_ru": "Изображение хромосферы Солнца в линии H-alpha",
+      "short_caption_en": "H-alpha image of the Sun's chromosphere",
+      "short_caption_ru": "Изображение хромосферы Солнца в линии H-alpha",
+      "caption_en": "This false-color image was captured with a 10-cm telescope at the Big Bear Solar Observatory (BBSO) in the United States in July 2002. It depicts the full disk of the Sun using the H-alpha emission line of hydrogen. When observed in this spectral line, the Sun's chromosphere appears particularly prominent due to hydrogen atoms emitting light at the specific wavelength. This emission produces a distinctive red color, making features such as spicules (jets of plasma that look hair-like) and plage (bright patches in the chromosphere) highly visible. Several small solar prominences can be seen protruding from the edge of the solar disk. When prominences (also known as filaments) cross the face of the disk they appear as dark threads caused by the cooler material in the prominence absorbing light. The chromosphere is also visible in the violet part of the solar spectrum due to ionized calcium showing emissions in these wavelengths.",
+      "caption_ru": "Это изображение в ложных цветах было получено с помощью телескопа диаметром 10 см в Солнечной обсерватории Биг-Бэр (BBSO) в США в июле 2002. На нём изображён полный диск Солнца в линии излучения водорода H-alpha. При наблюдении в этой спектральной линии хромосфера Солнца выглядит особенно отчётливо благодаря тому, что атомы водорода излучают свет на определённой длине волны. Это излучение придаёт характерный красный цвет, делая хорошо видимыми такие образования, как спикулы (похожие на волоски струи плазмы) и факелы (яркие пятна в хромосфере). По краю солнечного диска можно увидеть несколько небольших солнечных протуберанцев. Когда протуберанцы (также известные как волокна) пересекают диск, они выглядят как тёмные нити из-за того, что более холодное вещество протуберанца поглощает свет. Хромосфера также видна в фиолетовой части солнечного спектра благодаря ионизированному кальцию, излучающему на этих длинах волн.",
+      "alt_en": "The Sun as red disk with bright patches and long dark strands. Several small wispy features protrude from the disk's edge",
+      "alt_ru": "Солнце в виде красного диска с яркими пятнами и длинными тёмными волокнами. Несколько небольших тонких образований выступают за край диска",
+      "credit": "Big Bear Solar Observatory (BBSO)/New Jersey Institut of Technology (NJIT)",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        55,
+        313,
+        342,
+        514
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "id": "term:72",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 72,
+    "url": "https://astro4edu.org/resources/glossary/term/72/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=72",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:27.680345+00:00",
+    "sha256": "a196453f583ccd37e7512a3679cd6c0c16edddfa4b8cf3b39a04105d82b2f596"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Cosmology"
+    ],
+    "category_ids": [
+      9
+    ],
+    "categories_ru": [
+      "Космология"
+    ],
+    "related_term_numbers": [
+      4,
+      27,
+      28,
+      38,
+      54,
+      58,
+      71,
+      73,
+      75,
+      76,
+      225,
+      356,
+      374
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Cosmology",
+      "body": "Cosmology is derived from the Greek words kosmos (harmony or order), and logos (thought or reason). Cosmology as a discipline has its roots in philosophy and religion; various cultures around the world have their own cosmologies that aim to interpret and make sense of the Universe. Over the years cosmology has evolved to be a precision observational science. This has been made possible through the development of advanced ground-based and space-based observatories, together with pioneering theoretical work and computer simulations. Cosmology as a scientific endeavor aims to understand the evolutionary history, formation, structure, and future evolution of the Universe as a whole on the largest scales, by understanding the fundamental physical mechanisms operating within the Universe.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Accelerating Universe",
+          "url": "https://www.astro4edu.org/resources/glossary/term/4/",
+          "text_ru": "Ускоряющаяся Вселенная"
+        },
+        {
+          "text": "Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/27/",
+          "text_ru": "Астрономия"
+        },
+        {
+          "text": "Astrophysics",
+          "url": "https://www.astro4edu.org/resources/glossary/term/28/",
+          "text_ru": "Астрофизика"
+        },
+        {
+          "text": "Big Bang Theory",
+          "url": "https://www.astro4edu.org/resources/glossary/term/38/",
+          "text_ru": "Теория Большого взрыва"
+        },
+        {
+          "text": "Cepheid Variable",
+          "url": "https://www.astro4edu.org/resources/glossary/term/54/",
+          "text_ru": "Цефеида"
+        },
+        {
+          "text": "Cluster of Galaxies",
+          "url": "https://www.astro4edu.org/resources/glossary/term/58/",
+          "text_ru": "Скопление галактик"
+        },
+        {
+          "text": "Cosmological Principle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/71/",
+          "text_ru": "Космологический принцип"
+        },
+        {
+          "text": "Cosmos",
+          "url": "https://www.astro4edu.org/resources/glossary/term/73/",
+          "text_ru": "Космос"
+        },
+        {
+          "text": "Dark Energy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/75/",
+          "text_ru": "Тёмная энергия"
+        },
+        {
+          "text": "Dark Matter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/76/",
+          "text_ru": "Тёмная материя"
+        },
+        {
+          "text": "Observable Universe",
+          "url": "https://www.astro4edu.org/resources/glossary/term/225/",
+          "text_ru": "Наблюдаемая Вселенная"
+        },
+        {
+          "text": "Theory of General Relativity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/356/",
+          "text_ru": "Общая теория относительности"
+        },
+        {
+          "text": "Universe",
+          "url": "https://www.astro4edu.org/resources/glossary/term/374/",
+          "text_ru": "Вселенная"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Cosmology</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Cosmology is derived from the Greek words kosmos (harmony or order), and logos (thought or reason). Cosmology as a discipline has its roots in philosophy and religion; various cultures around the world have their own cosmologies that aim to interpret and make sense of the Universe. Over the years cosmology has evolved to be a precision observational science. This has been made possible through the development of advanced ground-based and space-based observatories, together with pioneering theoretical work and computer simulations. Cosmology as a scientific endeavor aims to understand the evolutionary history, formation, structure, and future evolution of the Universe as a whole on the largest scales, by understanding the fundamental physical mechanisms operating within the Universe.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/4/\">Accelerating Universe</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/27/\">Astronomy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/28/\">Astrophysics</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/38/\">Big Bang Theory</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/54/\">Cepheid Variable</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/58/\">Cluster of Galaxies</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/71/\">Cosmological Principle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/73/\">Cosmos</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/75/\">Dark Energy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/76/\">Dark Matter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/225/\">Observable Universe</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/356/\">Theory of General Relativity</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/374/\">Universe</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Космология",
+      "body_ru": "Космология происходит от греческих слов kosmos (гармония или порядок) и logos (мысль или разум). Как дисциплина космология уходит корнями в философию и религию; различные культуры по всему миру имеют свои собственные космологии, которые стремятся интерпретировать и осмыслить Вселенную. С годами космология превратилась в точную наблюдательную науку. Это стало возможным благодаря развитию передовых наземных и космических обсерваторий, а также новаторским теоретическим работам и компьютерному моделированию. Космология как научное начинание стремится понять эволюционную историю, формирование, структуру и будущую эволюцию Вселенной в целом на самых больших масштабах, понимая фундаментальные физические механизмы, действующие внутри Вселенной."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "宇宙論 (external link)",
+          "url": "https://astro-dic.jp/cosmology/",
+          "text_ru": "Космология (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/72/\">علم الكونيات </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/72/\">Kosmologie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/72/\">Cosmología </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/72/\">Cosmologie </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/72/\">Cosmologia </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/cosmology/\">宇宙論 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/72/\">Cosmologia </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/72/\">宇宙学 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/72/\">宇宙學 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Oj6Sb99Y285/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic0611b/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/x356rE38Om43/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2018/07/Planck_s_view_of_the_cosmic_microwave_background",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-SA-4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "text_ru": "CC-BY-SA-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Oj6Sb99Y285",
+        "media:x356rE38Om43"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Oj6Sb99Y285/\"><img alt=\"The Hubble Ultra Deep Field showing around 10,000 galaxies of various ages, sizes, shapes and colours.\" src=\"/media/multimedia/thumbnails/heic0611b_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hubble Ultra Deep Field</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This awe-inspiring image referred to as the Hubble Ultra-Deep Field (HUDF), was obtained using the Hubble Space Telescope (HST), by combining 800 exposures from 400 orbits of the HST, which equates to 11.3 days of total exposure time.\n\nThe image shows nearly 10,000 galaxies and was taken in the direction of a patch of sky with the least amount of stars from the Milky Way galaxy in the field of view. The region of sky that the HST observed corresponds to 1/10 the angular size of the Full Moon, which is roughly equal to approximately a 1 millimeter-sized object placed 1 meter away.\n\nEvery object in the image, except for the bright points with the crosshairs, are galaxies. As a consequence of the speed of light being a constant in a vacuum, the more distant an object, the further back in time we are observing. Therefore, the light from some of the galaxies in the HUDF image is from when the Universe as only a few hundred million years old. The HUDF image takes us through on a journey through space, and also in time.<br/>\n<b>Credit:</b> NASA, ESA, and S. Beckwith (STScI) and the HUDF Team\n\t  <a href=\"https://esahubble.org/images/heic0611b/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/x356rE38Om43/\"><img alt=\"This Cosmic Microwave Background Radiation map is an oval with many patches of different colors as well as finer granulation\" src=\"/media/multimedia/thumbnails/Planck_s_view_of_the_cosmic_microwave_background_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Cosmic Microwave Background Radiation</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image is a representation of the Cosmic Microwave Background (CMB) Radiation created using data from the Planck satellite. The CMB is the glow left over from when the Universe was approximately 380,000 years old. The early Universe was hot and dense, so the photons from that era were high energy. Due to the expansion of the Universe over 13.8 billion years photons of \"\"light\"\" from the early Universe have been stretched to longer wavelengths and are detectable in millimetre wavelengths (microwave region of the electromagnetic spectrum). The \"\"mottled\"\" pattern in the image is referred to as anisotropies, and it represents very small temperature fluctuations. These fluctuations correspond to regions of slightly different densities, and are essentially the seeds for larger structure in the Universe e.g.: galaxies, galaxy clusters, and the very first stars.\n\nThe data from the CMB allows various characteristics of the Universe to be derived, for example, composition, shape, age, and allows for certain predictions to be made about the future evolution of the Universe.\n\nThe shape of the image is the result of a mapping projection, where the entire sky is mapped onto a single flat oval shape called Molleweide projection. The center of the Milky Way galaxy is located at the centre of the image.<br/>\n<b>Credit:</b> ESA/Planck Collaboration\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Images/2018/07/Planck_s_view_of_the_cosmic_microwave_background\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"license\">CC-BY-SA-4.0</a> <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-sa\"></i><span class=\"sr-only\">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Cosmology",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Cosmology",
+          "body": "Cosmology is derived from the Greek words kosmos (harmony or order), and logos (thought or reason). Cosmology as a discipline has its roots in philosophy and religion; various cultures around the world have their own cosmologies that aim to interpret and make sense of the Universe. Over the years cosmology has evolved to be a precision observational science. This has been made possible through the development of advanced ground-based and space-based observatories, together with pioneering theoretical work and computer simulations. Cosmology as a scientific endeavor aims to understand the evolutionary history, formation, structure, and future evolution of the Universe as a whole on the largest scales, by understanding the fundamental physical mechanisms operating within the Universe."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Космология",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Космология",
+          "body": "Космология происходит от греческих слов kosmos (гармония или порядок) и logos (мысль или разум). Как дисциплина космология уходит корнями в философию и религию; различные культуры по всему миру имеют свои собственные космологии, которые стремятся интерпретировать и осмыслить Вселенную. С годами космология превратилась в точную наблюдательную науку. Это стало возможным благодаря развитию передовых наземных и космических обсерваторий, а также новаторским теоретическим работам и компьютерному моделированию. Космология как научное начинание стремится понять эволюционную историю, формирование, структуру и будущую эволюцию Вселенной в целом на самых больших масштабах, понимая фундаментальные физические механизмы, действующие внутри Вселенной."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Oj6Sb99Y285",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/heic0611b.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Oj6Sb99Y285/",
+      "original_path": "data/media/original/media_Oj6Sb99Y285.jpg",
+      "ru_path": null,
+      "sha256": "ddd89b8d50a4b311f8fb8db19f4055dd32f73a21af6fe81ce7154873fe569472",
+      "size": 8974439,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Hubble Ultra Deep Field",
+      "short_caption_ru": "Сверхглубокое поле Хаббла",
+      "caption_en": "This awe-inspiring image referred to as the Hubble Ultra-Deep Field (HUDF), was obtained using the Hubble Space Telescope (HST), by combining 800 exposures from 400 orbits of the HST, which equates to 11.3 days of total exposure time.\r\n\r\nThe image shows nearly 10,000 galaxies and was taken in the direction of a patch of sky with the least amount of stars from the Milky Way galaxy in the field of view. The region of sky that the HST observed corresponds to 1/10 the angular size of the Full Moon, which is roughly equal to approximately a 1 millimeter-sized object placed 1 meter away.\r\n\r\nEvery object in the image, except for the bright points with the crosshairs, are galaxies. As a consequence of the speed of light being a constant in a vacuum, the more distant an object, the further back in time we are observing. Therefore, the light from some of the galaxies in the HUDF image is from when the Universe as only a few hundred million years old. The HUDF image takes us through on a journey through space, and also in time.",
+      "caption_ru": "Это впечатляющее изображение, известное как Сверхглубокое поле Хаббла (HUDF), было получено с помощью космического телескопа Хаббла (HST) путём объединения 800 экспозиций с 400 витков HST, что эквивалентно 11.3 дням общего времени экспозиции.\r\n\r\nНа изображении показано почти 10,000 галактик, и оно было получено в направлении участка неба с наименьшим количеством звёзд Млечного Пути в поле зрения. Область неба, которую наблюдал HST, соответствует 1/10 углового размера полной Луны, что примерно равно объекту размером в 1 миллиметр, расположенному на расстоянии 1 метр.\r\n\r\nКаждый объект на изображении, за исключением ярких точек с перекрестиями, является галактикой. Поскольку скорость света в вакууме постоянна, чем дальше объект, тем дальше в прошлое мы наблюдаем. Поэтому свет от некоторых галактик на изображении HUDF исходит из времени, когда Вселенной было всего несколько сотен миллионов лет. Изображение HUDF отправляет нас в путешествие сквозь пространство, а также во времени.",
+      "alt_en": "The Hubble Ultra Deep Field showing around 10,000 galaxies of various ages, sizes, shapes and colours.",
+      "alt_ru": "Сверхглубокое поле Хаббла, показывающее около 10,000 галактик различного возраста, размеров, форм и цветов.",
+      "credit": "NASA, ESA, and S. Beckwith (STScI) and the HUDF Team",
+      "credit_url": "https://esahubble.org/images/heic0611b/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        72,
+        73,
+        119,
+        374
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:x356rE38Om43",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Planck_s_view_of_the_cosmic_microwave_background.jpg",
+      "record_url": "https://astro4edu.org/resources/media/x356rE38Om43/",
+      "original_path": "data/media/original/media_x356rE38Om43.jpg",
+      "ru_path": null,
+      "sha256": "48ff40422531093d5884c1aba7a00d367e1d366ada78e5911adde6a1c3ddb6ec",
+      "size": 14051998,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Cosmic Microwave Background (CMB) Radiation created using data from the Planck satellite",
+      "short_caption_ru": "Реликтовое микроволновое фоновое излучение (РМФ), созданное с использованием данных спутника Planck",
+      "caption_en": "This image is a representation of the Cosmic Microwave Background (CMB) Radiation created using data from the Planck satellite. The CMB is the glow left over from when the Universe was approximately 380,000 years old. The early Universe was hot and dense, so the photons from that era were high energy. Due to the expansion of the Universe over 13.8 billion years photons of \"\"light\"\" from the early Universe have been stretched to longer wavelengths and are detectable in millimetre wavelengths (microwave region of the electromagnetic spectrum). The \"\"mottled\"\" pattern in the image is referred to as anisotropies, and it represents very small temperature fluctuations. These fluctuations correspond to regions of slightly different densities, and are essentially the seeds for larger structure in the Universe e.g.: galaxies, galaxy clusters, and the very first stars.\r\n\r\nThe data from the CMB allows various characteristics of the Universe to be derived, for example, composition, shape, age, and allows for certain predictions to be made about the future evolution of the Universe.\r\n\r\nThe shape of the image is the result of a mapping projection, where the entire sky is mapped onto a single flat oval shape called Molleweide projection. The center of the Milky Way galaxy is located at the centre of the image.",
+      "caption_ru": "Это изображение представляет собой карту реликтового микроволнового фонового излучения (РМФ), созданную с использованием данных спутника Planck. РМФ — это свечение, оставшееся с тех пор, когда Вселенной было примерно 380,000 лет. Ранняя Вселенная была горячей и плотной, поэтому фотоны той эпохи обладали высокой энергией. Из-за расширения Вселенной за 13.8 миллиардов лет фотоны «света» из ранней Вселенной были растянуты до более длинных волн и обнаружимы в миллиметровом диапазоне длин волн (микроволновая область электромагнитного спектра). «Пятнистый» узор на изображении называется анизотропиями и представляет очень малые флуктуации температуры. Эти флуктуации соответствуют областям с немного разной плотностью и по сути являются зародышами более крупных структур во Вселенной, например: галактик, скоплений галактик и самых первых звёзд.\r\n\r\nДанные РМФ позволяют вывести различные характеристики Вселенной, например, состав, форму, возраст, а также позволяют делать определённые предсказания о будущей эволюции Вселенной.\r\n\r\nФорма изображения является результатом картографической проекции, при которой всё небо отображается на единую плоскую овальную форму, называемую проекцией Молльвейде. Центр галактики Млечный Путь расположен в центре изображения.",
+      "alt_en": "This Cosmic Microwave Background Radiation map is an oval with many patches of different colors as well as finer granulation",
+      "alt_ru": "Эта карта реликтового микроволнового фонового излучения представляет собой овал с множеством участков разных цветов, а также более тонкой грануляцией",
+      "credit": "ESA/Planck Collaboration",
+      "credit_url": "https://www.esa.int/ESA_Multimedia/Images/2018/07/Planck_s_view_of_the_cosmic_microwave_background",
+      "license": "CC-BY-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+      "term_numbers": [
+        69,
+        72
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

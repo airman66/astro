@@ -1,0 +1,201 @@
+{
+  "id": "term:392",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 392,
+    "url": "https://astro4edu.org/resources/glossary/term/392/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=392",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:12.540339+00:00",
+    "sha256": "c191aaa3d0343c6b0fdb2a6d0a05336889ce442ff257d740687837065a6dbc44"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      85,
+      92,
+      391
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Zodiacal Light",
+      "body": "Within the Solar System, planets and other bodies mostly orbit within the plane of the ecliptic. Interplanetary dust in our cosmic neighborhood is also concentrated near that plane. Some light from the Sun is reflected by those interplanetary dust grains in the ecliptic towards Earth. In principle, that produces a faint glowing ribbon across the night sky, along the Zodiac – the region in the night sky close to the ecliptic. In practice, that glow is only visible with the naked eye to the east shortly before sunrise or to the west shortly after sunset, only close to the horizon, and only from a naturally dark observing location. That visible part of the glow is the zodiacal light: a diffuse glowing region shaped like a rounded, elongated triangle that reaches from the horizon a short way along the ecliptic.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Dust",
+          "url": "https://www.astro4edu.org/resources/glossary/term/85/",
+          "text_ru": "Пыль"
+        },
+        {
+          "text": "Ecliptic",
+          "url": "https://www.astro4edu.org/resources/glossary/term/92/",
+          "text_ru": "Эклиптика"
+        },
+        {
+          "text": "Zodiac",
+          "url": "https://www.astro4edu.org/resources/glossary/term/391/",
+          "text_ru": "Зодиак"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Zodiacal Light</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Within the Solar System, planets and other bodies mostly orbit within the plane of the ecliptic. Interplanetary dust in our cosmic neighborhood is also concentrated near that plane. Some light from the Sun is reflected by those interplanetary dust grains in the ecliptic towards Earth. In principle, that produces a faint glowing ribbon across the night sky, along the Zodiac – the region in the night sky close to the ecliptic. In practice, that glow is only visible with the naked eye to the east shortly before sunrise or to the west shortly after sunset, only close to the horizon, and only from a naturally dark observing location. That visible part of the glow is the zodiacal light: a diffuse glowing region shaped like a rounded, elongated triangle that reaches from the horizon a short way along the ecliptic.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/85/\">Dust</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/92/\">Ecliptic</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/391/\">Zodiac</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Зодиакальный свет",
+      "body_ru": "В Солнечной системе планеты и другие тела в основном обращаются в плоскости эклиптики. Межпланетная пыль в нашем космическом окружении также концентрируется вблизи этой плоскости. Часть солнечного света отражается этими пылевыми частицами в эклиптике в сторону Земли. В принципе, это создает слабую светящуюся полосу через ночное небо вдоль Зодиака — области ночного неба вблизи эклиптики. На практике это свечение видно невооруженным глазом только на востоке незадолго до восхода Солнца или на западе вскоре после заката, только вблизи горизонта и только из естественно темного места наблюдения. Эта видимая часть свечения и есть зодиакальный свет: диффузная светящаяся область в форме закругленного вытянутого треугольника, которая простирается от горизонта на небольшое расстояние вдоль эклиптики."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "黄道光 (external link)",
+          "url": "https://astro-dic.jp/zodiacal-light/",
+          "text_ru": "Зодиакальный свет (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/392/\">الضوء البروجي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/392/\">Zodiakallicht </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/392/\">Luz zodiacal </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/392/\">نور منطقة البروجی </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/392/\">Lumière zodiacale </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/392/\">Luce zodiacale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/zodiacal-light/\">黄道光 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/392/\">Luz Zodiacal </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/392/\">黄道光 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/392/\">黃道光 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/wV26k251ed68/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:wV26k251ed68"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/wV26k251ed68/\"><img alt=\"A smooth, diffuse glow extends from the horizon towards the upper left. In the top left there is a pair of two bright stars\" src=\"/media/multimedia/thumbnails/zodiacal-light-over-gtc-observatory_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Zodiacal Light over GTC Observatory</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nTaken from La Palma, Canary Islands, in May 2022, this image captures the Zodiacal light, three prominent constellations (Gemini, Cancer and Auriga), and the Beehive Cluster, which appears as a small nebulosity to the unaided eye under dark skies. The Zodiacal light is a triangular white glow stretching along the ecliptic that is visible here at the western horizon shortly after sunset.The Canary Islands were considered the westernmost land of the inhabited world by the ancient Greeks. The dim shimmer in the Zodiac might have inspired the Greek philosopher Plato to think that the Sun leaves a trace of sunny glitter in its wake, and that the current path of the Sun, the ecliptic, has not always been its path. Plato believed that the Milky Way was a former path of the Sun and that its bright clouds are sparks of the Sun’s glory left behind. Today, we know that these two phenomena in the sky have different causes; while the Zodiacal light is really caused by reflection of sunlight from very tiny dust particles in the plane of the ecliptic, the Milky Way consists of billions of stars. The Zodiacal light is a smooth cone of light from the horizon upwards, while the Milky Way crosses the whole sky and also includes dark clouds.\n\nThe Zodiac is described by Indigenous Australians as the Dreaming Road, and the Zodiacal light is a celestial rope connecting Venus to the Sun. The two bright stars in the top-left of the image are Castor (the bluish star) and Pollux (the whitish star), which are part of the constellation Gemini, the Twins. The two bright stars towards the bottom-right of the image are Menkalinan (the dimmer one) and Capella (the brighter one), which are part of the constellation Auriga, the Charioteer.\n\nThe Wergaia people of Western Victoria in Australia see Castor and Pollux as brothers who hunt the kangaroo Purra in their stories. This has coincidental similarities to the Babylonian story, where they are considered two strong gods of the Netherworld, depicted with weapons. The Greco-Roman myth of the twins describes them as two brothers who accompanied the first ocean sailor, Jason, on voyages with the The Ship, Argo. A similar myth exists in the Blackfoot traditions of the First Nations people of Canada and the USA, where they are considered the two brothers Ashes Chief and Struck-behind.<br/>\n<b>Credit:</b> Amirreza Kamkar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Zodiacal Light",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Zodiacal Light",
+          "body": "Within the Solar System, planets and other bodies mostly orbit within the plane of the ecliptic. Interplanetary dust in our cosmic neighborhood is also concentrated near that plane. Some light from the Sun is reflected by those interplanetary dust grains in the ecliptic towards Earth. In principle, that produces a faint glowing ribbon across the night sky, along the Zodiac – the region in the night sky close to the ecliptic. In practice, that glow is only visible with the naked eye to the east shortly before sunrise or to the west shortly after sunset, only close to the horizon, and only from a naturally dark observing location. That visible part of the glow is the zodiacal light: a diffuse glowing region shaped like a rounded, elongated triangle that reaches from the horizon a short way along the ecliptic."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Зодиакальный свет",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Зодиакальный свет",
+          "body": "В Солнечной системе планеты и другие тела в основном обращаются в плоскости эклиптики. Межпланетная пыль в нашем космическом окружении также концентрируется вблизи этой плоскости. Часть солнечного света отражается этими пылевыми частицами в эклиптике в сторону Земли. В принципе, это создает слабую светящуюся полосу через ночное небо вдоль Зодиака — области ночного неба вблизи эклиптики. На практике это свечение видно невооруженным глазом только на востоке незадолго до восхода Солнца или на западе вскоре после заката, только вблизи горизонта и только из естественно темного места наблюдения. Эта видимая часть свечения и есть зодиакальный свет: диффузная светящаяся область в форме закругленного вытянутого треугольника, которая простирается от горизонта на небольшое расстояние вдоль эклиптики."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:wV26k251ed68",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7424024/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Zodiacal%20Light%20over%20GTC%20Observatory%2C%20by%20Amirreza%20Kamkar.jpg",
+      "record_url": "https://astro4edu.org/resources/media/wV26k251ed68/",
+      "original_path": "data/media/original/media_wV26k251ed68.jpg",
+      "ru_path": null,
+      "sha256": "f38aee24c3e8be2305e150620af9bef4e7ba933d19bf6da068048a471ce89903",
+      "size": 2386024,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Zodiacal Light over GTC Observatory",
+      "short_caption_ru": "Зодиакальный свет над обсерваторией GTC",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nTaken from La Palma, Canary Islands, in May 2022, this image captures the Zodiacal light, three prominent constellations (Gemini, Cancer and Auriga), and the Beehive Cluster, which appears as a small nebulosity to the unaided eye under dark skies. The Zodiacal light is a triangular white glow stretching along the ecliptic that is visible here at the western horizon shortly after sunset.The Canary Islands were considered the westernmost land of the inhabited world by the ancient Greeks. The dim shimmer in the Zodiac might have inspired the Greek philosopher Plato to think that the Sun leaves a trace of sunny glitter in its wake, and that the current path of the Sun, the ecliptic, has not always been its path. Plato believed that the Milky Way was a former path of the Sun and that its bright clouds are sparks of the Sun’s glory left behind. Today, we know that these two phenomena in the sky have different causes; while the Zodiacal light is really caused by reflection of sunlight from very tiny dust particles in the plane of the ecliptic, the Milky Way consists of billions of stars. The Zodiacal light is a smooth cone of light from the horizon upwards, while the Milky Way crosses the whole sky and also includes dark clouds.\r\n\r\nThe Zodiac is described by Indigenous Australians as the Dreaming Road, and the Zodiacal light is a celestial rope connecting Venus to the Sun. The two bright stars in the top-left of the image are Castor (the bluish star) and Pollux (the whitish star), which are part of the constellation Gemini, the Twins. The two bright stars towards the bottom-right of the image are Menkalinan (the dimmer one) and Capella (the brighter one), which are part of the constellation Auriga, the Charioteer.\r\n\r\nThe Wergaia people of Western Victoria in Australia see Castor and Pollux as brothers who hunt the kangaroo Purra in their stories. This has coincidental similarities to the Babylonian story, where they are considered two strong gods of the Netherworld, depicted with weapons. The Greco-Roman myth of the twins describes them as two brothers who accompanied the first ocean sailor, Jason, on voyages with the The Ship, Argo. A similar myth exists in the Blackfoot traditions of the First Nations people of Canada and the USA, where they are considered the two brothers Ashes Chief and Struck-behind.",
+      "caption_ru": "Победитель в конкурсе астрофотографии МАС OAE 2022 года, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nСнятое с Ла-Пальмы, Канарские острова, в мае 2022 года, это изображение запечатлевает зодиакальный свет, три заметных созвездия (Близнецы, Рак и Возничий) и Ясли — рассеянное скопление, которое невооруженным глазом под темным небом выглядит как небольшая туманность. Зодиакальный свет — это треугольное белое свечение, простирающееся вдоль эклиптики, видимое здесь на западном горизонте вскоре после заката. Канарские острова считались древними греками самой западной землей обитаемого мира. Тусклое мерцание в Зодиаке, возможно, вдохновило греческого философа Платона на мысль, что Солнце оставляет след солнечного блеска в своем кильватере, и что текущий путь Солнца, эклиптика, не всегда был его путем. Платон верил, что Млечный Путь был прежним путем Солнца, и что его яркие облака — это искры славы Солнца, оставленные позади. Сегодня мы знаем, что эти два явления на небе имеют разные причины; в то время как зодиакальный свет действительно вызван отражением солнечного света от очень мелких пылевых частиц в плоскости эклиптики, Млечный Путь состоит из миллиардов звезд. Зодиакальный свет — это гладкий конус света от горизонта вверх, в то время как Млечный Путь пересекает все небо и также включает темные облака.\r\n\r\nЗодиак описывается коренными австралийцами как Дорога Сновидений, а зодиакальный свет — как небесная веревка, соединяющая Венеру с Солнцем. Две яркие звезды в верхнем левом углу изображения — это Кастор (голубоватая звезда) и Поллукс (белесая звезда), которые являются частью созвездия Близнецов. Две яркие звезды в направлении нижнего правого угла изображения — это Менкалинан (более тусклая) и Капелла (более яркая), которые являются частью созвездия Возничего.\r\n\r\nНарод вергайя из Западной Виктории в Австралии видит Кастора и Поллукса как братьев, которые охотятся на кенгуру Пурру в их историях. Это имеет случайное сходство с вавилонской историей, где они считаются двумя сильными богами Подземного мира, изображенными с оружием. Греко-римский миф о близнецах описывает их как двух братьев, которые сопровождали первого морского путешественника Ясона в плаваниях на Корабле Арго. Подобный миф существует в традициях черноногих индейцев — народов Канады и США, где они считаются двумя братьями Вождь Пепла и Ударенный-сзади.",
+      "alt_en": "A smooth, diffuse glow extends from the horizon towards the upper left. In the top left there is a pair of two bright stars",
+      "alt_ru": "Гладкое, рассеянное свечение простирается от горизонта к верхнему левому углу. В верхнем левом углу находится пара из двух ярких звезд",
+      "credit": "Amirreza Kamkar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        25,
+        85,
+        392
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

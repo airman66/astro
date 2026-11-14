@@ -1,0 +1,521 @@
+{
+  "id": "term:27",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 27,
+    "url": "https://astro4edu.org/resources/glossary/term/27/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=27",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:13.381161+00:00",
+    "sha256": "52bcd71a5bbeccadf123172056820f1a6c272528fd5177e43cf4312997519657"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      11,
+      3
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      24,
+      28,
+      47,
+      295
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Astronomy",
+      "body": "Astronomy is one of the ancient sciences and involves the study of celestial bodies in the sky such as stars, planets, galaxies, meteors, and meteorites. It also studies the atmosphere for the purposes of comparing planet Earth with neighboring planets. In the past, astronomy was concerned with tracking the positions of the Sun, Moon, and planets for calendar and navigational purposes. Modern astronomers now also study the physical phenomena that govern the formation and behavior of astronomical objects. In ancient times astronomy was often closely related to the pseudoscience astrology and many people still do not know the difference between the two. Astronomy is one of the few sciences in which amateurs can play an important role, as amateur astronomers have contributed to many important discoveries.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astronomer",
+          "url": "https://www.astro4edu.org/resources/glossary/term/24/",
+          "text_ru": "Астроном"
+        },
+        {
+          "text": "Astrophysics",
+          "url": "https://www.astro4edu.org/resources/glossary/term/28/",
+          "text_ru": "Астрофизика"
+        },
+        {
+          "text": "Calendar",
+          "url": "https://www.astro4edu.org/resources/glossary/term/47/",
+          "text_ru": "Календарь"
+        },
+        {
+          "text": "Science",
+          "url": "https://www.astro4edu.org/resources/glossary/term/295/",
+          "text_ru": "Наука"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Astronomy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Astronomy is one of the ancient sciences and involves the study of celestial bodies in the sky such as stars, planets, galaxies, meteors, and meteorites. It also studies the atmosphere for the purposes of comparing planet Earth with neighboring planets. In the past, astronomy was concerned with tracking the positions of the Sun, Moon, and planets for calendar and navigational purposes. Modern astronomers now also study the physical phenomena that govern the formation and behavior of astronomical objects.<br/><br/>In ancient times astronomy was often closely related to the pseudoscience astrology and many people still do not know the difference between the two. <br/><br/>Astronomy is one of the few sciences in which amateurs can play an important role, as amateur astronomers have contributed to many important discoveries.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/24/\">Astronomer</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/28/\">Astrophysics</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/47/\">Calendar</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/295/\">Science</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Астрономия",
+      "body_ru": "Астрономия — одна из древних наук, изучающая небесные тела на небе, такие как звёзды, планеты, галактики, метеоры и метеориты. Она также изучает атмосферу для сравнения планеты Земля с соседними планетами. В прошлом астрономия занималась отслеживанием положений Солнца, Луны и планет для календарных и навигационных целей. Современные астрономы также изучают физические явления, которые управляют формированием и поведением астрономических объектов. В древности астрономия часто была тесно связана с псевдонаукой астрологией, и многие люди до сих пор не знают разницы между ними. Астрономия — одна из немногих наук, в которой любители могут играть важную роль, поскольку астрономы-любители внесли вклад во многие важные открытия."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/27/\">علم الفلك </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/27/\">Astronomie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/27/\">Astronomía </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/27/\">Astronomie </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/27/\">खगोल विज्ञान </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/27/\">Astronomia </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/27/\">천문학 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/27/\">खगोलशास्त्र </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/27/\">Astronomia </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/27/\">天文学 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/27/\">天文學 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/sz73qI11nt9/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Jb82C021N949/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/KS74x132Nw40/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/qi97PS43UE8/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/p442yE76BF15/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Astronomy&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:sz73qI11nt9",
+        "media:Jb82C021N949",
+        "media:KS74x132Nw40",
+        "media:qi97PS43UE8",
+        "media:p442yE76BF15"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/sz73qI11nt9/\"><img alt=\"Two astronomers view a lunar eclipse. Between them in the partly cloudy sky, a series of bright circles trace a curved path\" src=\"/media/multimedia/thumbnails/the-eclipse-between-us-by-muhammad-rayhan-indonesia_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Eclipse Between Us, by Muhammad Rayhan, Indonesia</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\n\nTotal lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope. Here we see the stages of the total lunar eclipse of 31.1.2018 photographed in Indonesia: starting with the entry of the full moon disk into Earth's round umbra, the totality as Blood Moon, and the beginning of the Moon's exit from Earth's umbra until moonset.<br/>\n<b>Credit:</b> Muhammad Rayhan/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Jb82C021N949/\"><img alt=\"A group of observatories in-front of a dark sky. An arc of light curves from the bottom left. Several stars are visible.\" src=\"/media/multimedia/thumbnails/chilean-observatories-at-home-office-by-robert-barsa-slovakia_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Chilean observatories at home office, by Robert Barsa, Slovakia</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Wide star fields.\n\nThis rich panoramic image shows a range of constellations, deep sky objects and planets. The brightest point of light with a pale reddish hue (left of center) is the planet Mars. In the bottom far left of the image, located just above the sloped roof of the building are two points of light appearing very close to each other, these are the planets Jupiter (brighter) and Saturn. To the far right of the image the two fuzzy cloud-like objects are the Large and Small Magellanic Clouds. These are satellite dwarf galaxies of the Milky Way located at a distance of approximately 160,000 and 200,000 light years, respectively. The Andromeda Galaxy, which is located at an approximate distance of 2.5 million light years, appears in this image as a small, angled smudge between Mars and the brightest glow on the horizon (closer to the horizon). The bright glow is not from the Sun or the Moon, but the city lights of San Pedro de Atacama.\n\nProminent constellations include: Orion – identified by the three stars forming Orion’s Belt; Taurus – a small triangle shaped collection of stars to the left of Orion and identified by the pale orange star (Aldebaran) at the vertex of the triangle; Canis Major – to the bottom right of Orion, identified by the bright star Sirius (the brightest star in the night sky) and three stars in the shape of a triangle just above the observatory dome in the foreground; Pegasus – identified by the trapezium shape diagonally below Mars. Other constellations include Andromeda, Perseus and Aries. Diverse cultures around the world have their own names and rich stories associated with these constellations and many others.\n\nTo the top right of Orion’s Belt is an angled line of stars (Orion’s Sword) within which is a pinkish smudge (looks like a fuzzy star when observed with the unaided eye) that is the Orion Nebula – a stellar nursery located 1500 light years from Earth – where stars are formed. To the left of Taurus is a compact fuzzy smudge, and that is the Pleiades star cluster. The variation in the colour of stars is the result of temperature of the stars, for example, the red orange star to the bottom left of Orion’s Belt is the red giant star Betelgeuse. Cooler stars appear redder, compared to the higher temperature white and bluish stars. The colours in the image are enhanced because of the higher sensitivity of the digital camera compared to the human eye.<br/>\n<b>Credit:</b> Robert Barsa/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/KS74x132Nw40/\"><img alt=\"Several observatory domes on a mountain top with the arching Milky Way behind.\" src=\"/media/multimedia/thumbnails/teide-observatory_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Teide Observatory</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nTaken in May 2022 in Teide National Park in Tenerife, Spain, this image shows the arc of the Milky Way galaxy crossing the sky, accompanied by prominent constellations over the professional telescopes located on the mountains of that island. While the telescopes and the people working with them may  ignore the constellations, the photographer managed to catch the Milky Way in such a way that it almost matches the shape of the mountain.\n\nThe bright star in the top-left side of the image is Vega, one of the brightest stars in the night sky and located in the small constellation Lyra. Being a white star, it is the standard star astrophysicists use to define the colour scale. As it is also a relatively close star, only about 25 light-years away, with a relatively simple name, it frequently appears in modern science fiction, for example in Carl Sagan’s famous novel “Contact”, which was filmed in 1997 with Jodie Foster starring as a radio astronomer.\n\nThe bright star seen below the galaxy and on the left half of the image is Altair, also one of the brightest stars in the night sky and located in the constellation Aquila. Together with Deneb — a star in the constellation Cygnus (the Swan) that is not visible in this image — Altair and Vega form the Summer Triangle, a characteristic asterism of popular astronomy in the northern hemisphere, where these telescopes are located.\n\nOn the right side of the image we can see the constellation Scorpius. This is easily identified by its brightest star, Antares, the reddish star in the Scorpion’s heart. Below it, the whole body and tail of the Scorpion can be found and above it the celestial Scorpion's head is represented by three bright bluish stars. Below the tail and above the horizon, the constellation of Ara, the Altar, is half-visible, but like all the stars of Sagittarius in the Milky Way and the much fainter ones in Hercules and Ophiuchus above it, these constellations are more difficult to pinpoint in this photograph full of stars. The head of Ophiuchus is the relatively bright star in the middle between Vega and Antares. In addition to the huge size of this constellation, it is also important because it is the thirteenth one of the Zodiac, and the Sun spends roughly three weeks in Ophiuchus, after only five days in Scorpius. Furthermore, Ophiuchus represents the model for the mythological best doctor in the world, called Asklepios in Greek mythology, and Aesculab in Latin. His constellation praises all people working in medical professions, including nurses, pharmacists and doctors.<br/>\n<b>Credit:</b> Curd-Christian Tengeler/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/qi97PS43UE8/\"><img alt=\"A telescope points to the sky where the Milky Way sits with mottled dark and light patches.\" src=\"/media/multimedia/thumbnails/learning-nights_thumbnail_bCt8wNT.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Learning Nights</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nBeneath the sprawling expanse of the night sky over Colombia's Tatacoa Desert, a telescope finds its alignment with the majestic galactic core, while a smartphone captures this cosmic encounter. This snapshot, taken on 9 June 2023 during an astronomy camp, epitomises the accessible beauty of celestial marvels. It showcases the mesmerising grandeur of the night sky, inviting both the casual stargazer and the passionate astronomer alike. The splendour of the Milky Way, elegantly captured through a mobile device, seamlessly bridges the gap between sophisticated equipment and the pure, profound joy of observing the stars.<br/>\n<b>Credit:</b> Juan Pablo Botero Londoño/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/p442yE76BF15/\"><img alt=\"Four dish-shaped telescopes point at the sky with the arc of the Milky Way overhead.\" src=\"/media/multimedia/thumbnails/milky-way-over-hess-observatory_thumbnail_7XRjeR2.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Milky Way Over H.E.S.S Observatory</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nThe darkness of the skies at H.E.S.S Observatory reveal the seemingly innumerable stars that make up the Milky Way galaxy, making it challenging to discern the constellations as seen taken with a smartphone from Namibia in June 2023. The stars Alpha and Beta Centauri are visible bottom left of the image just about the tower. The orange-hued star visible just above and to the right of the left H.E.S.S telescope is Antares, a red-giant star that is part of the constellation Scorpius.<br/>\n<b>Credit:</b> Jianfeng Dai/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Astronomy&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Snakes & Ladders Game astroEDU educational activity (links to astroEDU website) Description: Learn astronomical topics through the classic snakes and ladders game. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Game \n  \n  , snakes and Ladders Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Game-mediated learning Costs: Medium Cost Group Size: Group Skills: Asking questions \n  \n, Communicating information AstroPoetry Writing astroEDU educational activity (links to astroEDU website) Description: An activity combining English and science to encourage students to think about the night sky to help them write a poem related to astronomy. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Star-gazing \n  \n  , Poetry Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Fine Art focussed \n  \n, Observation based Costs: Low Cost Duration: 1 hour 30 mins Group Size: Individual Skills: Communicating information Create Your Own Astro-Music astroEDU educational activity (links to astroEDU website) Description: Create your own music inspired by images of space. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Music Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Informal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Fine Art focussed Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Communicating information Navigating with the Kamal – Northern Hemisphere astroEDU educational activity (links to astroEDU website) Description: How did Arabian sailors navigate at sea? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Hunting for spectra astroEDU educational activity (links to astroEDU website) Description: Learn about light and spectra building a spectroscope with a CD! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Experiment \n  \n  , prism Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Informal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning Costs: Low Cost Duration: 1 hour Group Size: Individual Skills: Asking questions \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Astronomy&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/snakes-ladders-game/\"><img alt=\"Snakes &amp; Ladders Game\" src=\"/media/astroedu/images/snakes-ladders-game_en_thumbnail_Q2h4TXu.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/snakes-ladders-game/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Snakes &amp; Ladders Game</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn astronomical topics through the classic snakes and ladders game.\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Game \n  \n  , snakes and Ladders \n  \n  \n\n  <b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nGame-mediated learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/astropoetry-writing/\"><img alt=\"AstroPoetry Writing\" src=\"/media/astroedu/images/astropoetry-writing_en_thumbnail_VhpZB0T.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/astropoetry-writing/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">AstroPoetry Writing</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>An activity combining English and science to encourage students to think about the night sky to help them write a poem related to astronomy.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Art \n  \n  , Creativity \n  \n  , Star-gazing \n  \n  , Poetry \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nFine Art focussed \n  \n, Observation based \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nIndividual \n\n<b>Skills:</b>\n\nCommunicating information \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/create-your-own-astro-music/\"><img alt=\"Create Your Own Astro-Music\" src=\"/media/astroedu/images/create-your-own-astro-music_en_thumbnail_DBGnRBc.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/create-your-own-astro-music/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Create Your Own Astro-Music</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Create your own music inspired by images of space.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Art \n  \n  , Creativity \n  \n  , Music \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nFine Art focussed \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/navigating-with-the-kamal-northern-hemisphere/\"><img alt=\"Navigating with the Kamal – Northern Hemisphere\" src=\"/media/astroedu/images/navigating-with-the-kamal-northern-hemisphere_en_thumbnail_eg4aiiQ.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/navigating-with-the-kamal-northern-hemisphere/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Navigating with the Kamal – Northern Hemisphere</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>How did Arabian sailors navigate at sea?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal \n  \n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/hunting-for-spectra/\"><img alt=\"Hunting for spectra\" src=\"/media/astroedu/images/hunting-for-spectra_en_thumbnail_Q33gTXB.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/hunting-for-spectra/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hunting for spectra</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn about light and spectra building a spectroscope with a CD!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Experiment \n  \n  , prism \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nIndividual \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Astronomy&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Игра «Змеи и лестницы» образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Изучайте астрономические темы через классическую игру «Змеи и лестницы». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Игра \n  \n  , змеи и лестницы Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Среднее Области обучения: Игровое обучение Затраты: Средняя стоимость Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации Астропоэзия Письмо образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Мероприятие, объединяющее английский язык и науку, чтобы побудить учащихся задуматься о ночном небе и помочь им написать стихотворение, связанное с астрономией. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Искусство \n  \n  , Творчество \n  \n  , Наблюдение за звёздами \n  \n  , Поэзия Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Среднее Области обучения: Ориентация на изобразительное искусство \n  \n, На основе наблюдений Затраты: Низкая стоимость Продолжительность: 1 час 30 минут Размер группы: Индивидуально Навыки: Передача информации Создайте свою астро-музыку образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте свою музыку, вдохновлённую изображениями космоса. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Искусство \n  \n  , Творчество \n  \n  , Музыка Возрастные диапазоны: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Начальная \n  \n, Среднее Области обучения: Ориентация на изобразительное искусство Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Передача информации Навигация с помощью камаля – Северное полушарие образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Как арабские моряки ориентировались в море? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , География \n  \n  , Координаты \n  \n  , Небесная навигация \n  \n  , Аравия \n  \n  , Камаль Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Средняя школа \n  \n, Среднее Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Охота за спектрами образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о свете и спектрах, создав спектроскоп с помощью CD! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Эксперимент \n  \n  , призма Возрастные диапазоны: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Начальная \n  \n, Среднее Области обучения: Обучение через направляемое открытие Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Индивидуально Навыки: Задавание вопросов \n  \n, Построение объяснений \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Astronomy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Astronomy",
+          "body": "Astronomy is one of the ancient sciences and involves the study of celestial bodies in the sky such as stars, planets, galaxies, meteors, and meteorites. It also studies the atmosphere for the purposes of comparing planet Earth with neighboring planets. In the past, astronomy was concerned with tracking the positions of the Sun, Moon, and planets for calendar and navigational purposes. Modern astronomers now also study the physical phenomena that govern the formation and behavior of astronomical objects. In ancient times astronomy was often closely related to the pseudoscience astrology and many people still do not know the difference between the two. Astronomy is one of the few sciences in which amateurs can play an important role, as amateur astronomers have contributed to many important discoveries."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Snakes & Ladders Game astroEDU educational activity (links to astroEDU website) Description: Learn astronomical topics through the classic snakes and ladders game. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Game \n  \n  , snakes and Ladders Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Game-mediated learning Costs: Medium Cost Group Size: Group Skills: Asking questions \n  \n, Communicating information AstroPoetry Writing astroEDU educational activity (links to astroEDU website) Description: An activity combining English and science to encourage students to think about the night sky to help them write a poem related to astronomy. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Star-gazing \n  \n  , Poetry Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Fine Art focussed \n  \n, Observation based Costs: Low Cost Duration: 1 hour 30 mins Group Size: Individual Skills: Communicating information Create Your Own Astro-Music astroEDU educational activity (links to astroEDU website) Description: Create your own music inspired by images of space. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Music Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Informal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Fine Art focussed Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Communicating information Navigating with the Kamal – Northern Hemisphere astroEDU educational activity (links to astroEDU website) Description: How did Arabian sailors navigate at sea? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Hunting for spectra astroEDU educational activity (links to astroEDU website) Description: Learn about light and spectra building a spectroscope with a CD! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Experiment \n  \n  , prism Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Informal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning Costs: Low Cost Duration: 1 hour Group Size: Individual Skills: Asking questions \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Астрономия",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Астрономия",
+          "body": "Астрономия — одна из древних наук, изучающая небесные тела на небе, такие как звёзды, планеты, галактики, метеоры и метеориты. Она также изучает атмосферу для сравнения планеты Земля с соседними планетами. В прошлом астрономия занималась отслеживанием положений Солнца, Луны и планет для календарных и навигационных целей. Современные астрономы также изучают физические явления, которые управляют формированием и поведением астрономических объектов. В древности астрономия часто была тесно связана с псевдонаукой астрологией, и многие люди до сих пор не знают разницы между ними. Астрономия — одна из немногих наук, в которой любители могут играть важную роль, поскольку астрономы-любители внесли вклад во многие важные открытия."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Игра «Змеи и лестницы» образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Изучайте астрономические темы через классическую игру «Змеи и лестницы». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Игра \n  \n  , змеи и лестницы Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Среднее Области обучения: Игровое обучение Затраты: Средняя стоимость Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации Астропоэзия Письмо образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Мероприятие, объединяющее английский язык и науку, чтобы побудить учащихся задуматься о ночном небе и помочь им написать стихотворение, связанное с астрономией. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Искусство \n  \n  , Творчество \n  \n  , Наблюдение за звёздами \n  \n  , Поэзия Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Среднее Области обучения: Ориентация на изобразительное искусство \n  \n, На основе наблюдений Затраты: Низкая стоимость Продолжительность: 1 час 30 минут Размер группы: Индивидуально Навыки: Передача информации Создайте свою астро-музыку образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте свою музыку, вдохновлённую изображениями космоса. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Искусство \n  \n  , Творчество \n  \n  , Музыка Возрастные диапазоны: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Начальная \n  \n, Среднее Области обучения: Ориентация на изобразительное искусство Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Передача информации Навигация с помощью камаля – Северное полушарие образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Как арабские моряки ориентировались в море? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , География \n  \n  , Координаты \n  \n  , Небесная навигация \n  \n  , Аравия \n  \n  , Камаль Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Средняя школа \n  \n, Среднее Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Охота за спектрами образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о свете и спектрах, создав спектроскоп с помощью CD! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Эксперимент \n  \n  , призма Возрастные диапазоны: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Начальная \n  \n, Среднее Области обучения: Обучение через направляемое открытие Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Индивидуально Навыки: Задавание вопросов \n  \n, Построение объяснений \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:sz73qI11nt9",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5419327/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Total%20lunar%20eclipse%3A%20The%20Eclipse%20Between%20Us%2C%20by%20Muhammad%20Rayhan%2C%20Indonesia.jpg",
+      "record_url": "https://astro4edu.org/resources/media/sz73qI11nt9/",
+      "original_path": "data/media/original/media_sz73qI11nt9.jpg",
+      "ru_path": null,
+      "sha256": "002418b536418528514068ba55f0030a5b968e99a9f69651cdcda91ab022641c",
+      "size": 12572686,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Total lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope.",
+      "short_caption_ru": "Полные лунные затмения относятся к довольно зрелищным небесным явлениям и легко наблюдаются как с телескопом, так и без него.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\r\n\r\nTotal lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope. Here we see the stages of the total lunar eclipse of 31.1.2018 photographed in Indonesia: starting with the entry of the full moon disk into Earth's round umbra, the totality as Blood Moon, and the beginning of the Moon's exit from Earth's umbra until moonset.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2021 года, категория Полное лунное затмение.\r\n\r\nПолные лунные затмения относятся к довольно зрелищным небесным явлениям и легко наблюдаются как с телескопом, так и без него. Здесь мы видим этапы полного лунного затмения 31.1.2018, сфотографированного в Индонезии: начиная с входа полного диска Луны в круглую тень Земли, полная фаза как Кровавая Луна, и начало выхода Луны из тени Земли до захода Луны.",
+      "alt_en": "Two astronomers view a lunar eclipse. Between them in the partly cloudy sky, a series of bright circles trace a curved path",
+      "alt_ru": "Два астронома наблюдают лунное затмение. Между ними в частично облачном небе серия ярких кругов очерчивает изогнутый путь",
+      "credit": "Muhammad Rayhan/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        24,
+        27,
+        91,
+        181,
+        226,
+        352,
+        364
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Jb82C021N949",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5426192/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Wide%20star%20fields%3A%20Chilean%20observatories%20at%20home%20office%2C%20by%20Robert%20Barsa%2C%20Slovakia.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Jb82C021N949/",
+      "original_path": "data/media/original/media_Jb82C021N949.jpg",
+      "ru_path": null,
+      "sha256": "de36389774f1d00a2c3d4444a3acea83460e501fba121c62787010a1907de588",
+      "size": 77178330,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This rich panoramic image shows a range of constellations, deep sky objects and planets.",
+      "short_caption_ru": "Эта насыщенная панорамная фотография показывает ряд созвездий, объектов глубокого космоса и планет.",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Wide star fields.\r\n\r\nThis rich panoramic image shows a range of constellations, deep sky objects and planets. The brightest point of light with a pale reddish hue (left of center) is the planet Mars. In the bottom far left of the image, located just above the sloped roof of the building are two points of light appearing very close to each other, these are the planets Jupiter (brighter) and Saturn. To the far right of the image the two fuzzy cloud-like objects are the Large and Small Magellanic Clouds. These are satellite dwarf galaxies of the Milky Way located at a distance of approximately 160,000 and 200,000 light years, respectively. The Andromeda Galaxy, which is located at an approximate distance of 2.5 million light years, appears in this image as a small, angled smudge between Mars and the brightest glow on the horizon (closer to the horizon). The bright glow is not from the Sun or the Moon, but the city lights of San Pedro de Atacama.\r\n\r\nProminent constellations include: Orion – identified by the three stars forming Orion’s Belt; Taurus – a small triangle shaped collection of stars to the left of Orion and identified by the pale orange star (Aldebaran) at the vertex of the triangle; Canis Major – to the bottom right of Orion, identified by the bright star Sirius (the brightest star in the night sky) and three stars in the shape of a triangle just above the observatory dome in the foreground; Pegasus – identified by the trapezium shape diagonally below Mars. Other constellations include Andromeda, Perseus and Aries. Diverse cultures around the world have their own names and rich stories associated with these constellations and many others.\r\n\r\nTo the top right of Orion’s Belt is an angled line of stars (Orion’s Sword) within which is a pinkish smudge (looks like a fuzzy star when observed with the unaided eye) that is the Orion Nebula – a stellar nursery located 1500 light years from Earth – where stars are formed. To the left of Taurus is a compact fuzzy smudge, and that is the Pleiades star cluster. The variation in the colour of stars is the result of temperature of the stars, for example, the red orange star to the bottom left of Orion’s Belt is the red giant star Betelgeuse. Cooler stars appear redder, compared to the higher temperature white and bluish stars. The colours in the image are enhanced because of the higher sensitivity of the digital camera compared to the human eye.",
+      "caption_ru": "Третье место в конкурсе астрофотографии IAU OAE 2021, категория «Широкие звёздные поля».\r\n\r\nЭто богатое панорамное изображение показывает множество созвездий, объектов глубокого космоса и планет. Самая яркая точка света с бледно-красноватым оттенком (слева от центра) — это планета Марс. В нижнем дальнем левом углу изображения, чуть выше наклонной крыши здания, находятся две точки света, кажущиеся очень близкими друг к другу, — это планеты Юпитер (ярче) и Сатурн. В дальнем правом углу изображения два размытых облакообразных объекта — это Большое и Малое Магеллановы Облака. Это карликовые галактики-спутники Млечного Пути, расположенные на расстоянии примерно 160 000 и 200 000 световых лет соответственно. Галактика Андромеды, находящаяся на приблизительном расстоянии 2,5 миллиона световых лет, видна на этом изображении как небольшое наклонное пятнышко между Марсом и самым ярким свечением на горизонте (ближе к горизонту). Яркое свечение исходит не от Солнца или Луны, а от городских огней Сан-Педро-де-Атакама.\r\n\r\nЗаметные созвездия включают: Орион — узнаваемый по трём звёздам, образующим Пояс Ориона; Телец — небольшое скопление звёзд треугольной формы слева от Ориона, узнаваемое по бледно-оранжевой звезде (Альдебаран) в вершине треугольника; Большой Пёс — справа внизу от Ориона, узнаваемый по яркой звезде Сириус (самой яркой звезде ночного неба) и трём звёздам в форме треугольника чуть выше купола обсерватории на переднем плане; Пегас — узнаваемый по форме трапеции по диагонали ниже Марса. Другие созвездия включают Андромеду, Персея и Овна. Разные культуры по всему миру имеют свои собственные названия и богатые истории, связанные с этими и многими другими созвездиями.\r\n\r\nВ верхнем правом углу от Пояса Ориона находится наклонная линия звёзд (Меч Ориона), внутри которой видно розоватое пятнышко (выглядит как размытая звезда при наблюдении невооружённым глазом) — это Туманность Ориона, звёздный питомник, расположенный в 1500 световых годах от Земли, где формируются звёзды. Слева от Тельца находится компактное размытое пятнышко — это звёздное скопление Плеяды. Различие в цвете звёзд является результатом температуры звёзд, например, красная оранжевая звезда слева внизу от Пояса Ориона — это красный гигант Бетельгейзе. Более холодные звёзды выглядят краснее по сравнению с более горячими белыми и голубоватыми звёздами. Цвета на изображении усилены из-за более высокой чувствительности цифровой камеры по сравнению с человеческим глазом.",
+      "alt_en": "A group of observatories in-front of a dark sky. An arc of light curves from the bottom left. Several stars are visible.",
+      "alt_ru": "Группа обсерваторий на фоне тёмного неба. Дуга света изгибается от нижнего левого угла. Видно несколько звёзд.",
+      "credit": "Robert Barsa/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        16,
+        27,
+        227
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:KS74x132Nw40",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425530/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Teide%20Observatory%2C%20by%20Curd-Christian%20Tengeler.jpg",
+      "record_url": "https://astro4edu.org/resources/media/KS74x132Nw40/",
+      "original_path": "data/media/original/media_KS74x132Nw40.jpg",
+      "ru_path": null,
+      "sha256": "f2bf3b76fa4e79ff0ff80beb94e87ed3f3ff801daabcca34cf881692c07b3d38",
+      "size": 54896348,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Teide Observatory",
+      "short_caption_ru": "Обсерватория Тейде",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nTaken in May 2022 in Teide National Park in Tenerife, Spain, this image shows the arc of the Milky Way galaxy crossing the sky, accompanied by prominent constellations over the professional telescopes located on the mountains of that island. While the telescopes and the people working with them may  ignore the constellations, the photographer managed to catch the Milky Way in such a way that it almost matches the shape of the mountain.\r\n\r\nThe bright star in the top-left side of the image is Vega, one of the brightest stars in the night sky and located in the small constellation Lyra. Being a white star, it is the standard star astrophysicists use to define the colour scale. As it is also a relatively close star, only about 25 light-years away, with a relatively simple name, it frequently appears in modern science fiction, for example in Carl Sagan’s famous novel “Contact”, which was filmed in 1997 with Jodie Foster starring as a radio astronomer.\r\n\r\nThe bright star seen below the galaxy and on the left half of the image is Altair, also one of the brightest stars in the night sky and located in the constellation Aquila. Together with Deneb — a star in the constellation Cygnus (the Swan) that is not visible in this image — Altair and Vega form the Summer Triangle, a characteristic asterism of popular astronomy in the northern hemisphere, where these telescopes are located.\r\n\r\nOn the right side of the image we can see the constellation Scorpius. This is easily identified by its brightest star, Antares, the reddish star in the Scorpion’s heart. Below it, the whole body and tail of the Scorpion can be found and above it the celestial Scorpion's head is represented by three bright bluish stars. Below the tail and above the horizon, the constellation of Ara, the Altar, is half-visible, but like all the stars of Sagittarius in the Milky Way and the much fainter ones in Hercules and Ophiuchus above it, these constellations are more difficult to pinpoint in this photograph full of stars. The head of Ophiuchus is the relatively bright star in the middle between Vega and Antares. In addition to the huge size of this constellation, it is also important because it is the thirteenth one of the Zodiac, and the Sun spends roughly three weeks in Ophiuchus, after only five days in Scorpius. Furthermore, Ophiuchus represents the model for the mythological best doctor in the world, called Asklepios in Greek mythology, and Aesculab in Latin. His constellation praises all people working in medical professions, including nurses, pharmacists and doctors.",
+      "caption_ru": "Почетное упоминание в конкурсе астрофотографии МАС OAE 2022 года, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nСнятое в мае 2022 года в национальном парке Тейде на Тенерифе, Испания, это изображение показывает дугу галактики Млечный Путь, пересекающую небо, в сопровождении заметных созвездий над профессиональными телескопами, расположенными на горах этого острова. Хотя телескопы и люди, работающие с ними, могут игнорировать созвездия, фотографу удалось запечатлеть Млечный Путь таким образом, что он почти соответствует форме горы.\r\n\r\nЯркая звезда в верхней левой части изображения — это Вега, одна из самых ярких звезд ночного неба, расположенная в небольшом созвездии Лиры. Будучи белой звездой, она является стандартной звездой, которую астрофизики используют для определения цветовой шкалы. Поскольку это также относительно близкая звезда, всего около 25 световых лет от нас, с относительно простым названием, она часто появляется в современной научной фантастике, например, в знаменитом романе Карла Сагана «Контакт», экранизированном в 1997 году с Джоди Фостер в главной роли радиоастронома.\r\n\r\nЯркая звезда, видимая ниже галактики и в левой половине изображения, — это Альтаир, также одна из самых ярких звезд ночного неба, расположенная в созвездии Орла. Вместе с Денебом — звездой в созвездии Лебедя, не видимой на этом изображении, — Альтаир и Вега образуют Летний треугольник, характерный астеризм популярной астрономии в северном полушарии, где находятся эти телескопы.\r\n\r\nВ правой части изображения мы можем увидеть созвездие Скорпиона. Его легко идентифицировать по самой яркой звезде, Антаресу, красноватой звезде в сердце Скорпиона. Ниже нее можно найти все тело и хвост Скорпиона, а выше нее голова небесного Скорпиона представлена тремя яркими голубоватыми звездами. Ниже хвоста и над горизонтом наполовину видно созвездие Жертвенника, но, как и все звезды Стрельца в Млечном Пути и гораздо более слабые в Геркулесе и Змееносце выше него, эти созвездия труднее определить на этой фотографии, полной звезд. Голова Змееносца — относительно яркая звезда посередине между Вегой и Антаресом. Помимо огромного размера этого созвездия, оно также важно потому, что является тринадцатым зодиакальным созвездием, и Солнце проводит примерно три недели в Змееносце, после всего пяти дней в Скорпионе. Кроме того, Змееносец представляет модель мифологического лучшего врача в мире, называемого Асклепием в греческой мифологии и Эскулапом на латыни. Его созвездие прославляет всех людей, работающих в медицинских профессиях, включая медсестер, фармацевтов и врачей.",
+      "alt_en": "Several observatory domes on a mountain top with the arching Milky Way behind.",
+      "alt_ru": "Несколько куполов обсерватории на вершине горы с дугой Млечного Пути позади.",
+      "credit": "Curd-Christian Tengeler/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        25,
+        27,
+        85,
+        199,
+        299,
+        438,
+        472
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:qi97PS43UE8",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359731/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Learning%20Nights,%20by%20Juan%20Pablo%20Botero%20Londoño.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/qi97PS43UE8/",
+      "original_path": "data/media/original/media_qi97PS43UE8.jpg",
+      "ru_path": null,
+      "sha256": "dded56a7b1c03ca404929148ed18c68441504c214a5b33d30e72454a37421305",
+      "size": 5349171,
+      "title_en": "Learning Nights",
+      "title_ru": "Обучающие вечера",
+      "short_caption_en": "Learning Nights",
+      "short_caption_ru": "Обучающие вечера",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nBeneath the sprawling expanse of the night sky over Colombia's Tatacoa Desert, a telescope finds its alignment with the majestic galactic core, while a smartphone captures this cosmic encounter. This snapshot, taken on 9 June 2023 during an astronomy camp, epitomises the accessible beauty of celestial marvels. It showcases the mesmerising grandeur of the night sky, inviting both the casual stargazer and the passionate astronomer alike. The splendour of the Milky Way, elegantly captured through a mobile device, seamlessly bridges the gap between sophisticated equipment and the pure, profound joy of observing the stars.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория неподвижных изображений, сделанных исключительно смартфонами/мобильными устройствами.\r\n\r\nПод обширным простором ночного неба над колумбийской пустыней Татакоа телескоп находит своё выравнивание с величественным галактическим ядром, в то время как смартфон запечатлевает эту космическую встречу. Этот снимок, сделанный 9 июня 2023 года во время астрономического лагеря, олицетворяет доступную красоту небесных чудес. Он демонстрирует завораживающее величие ночного неба, приглашая как случайного наблюдателя звёзд, так и страстного астронома. Великолепие Млечного Пути, элегантно запечатлённое с помощью мобильного устройства, плавно преодолевает разрыв между сложным оборудованием и чистой, глубокой радостью наблюдения за звёздами.",
+      "alt_en": "A telescope points to the sky where the Milky Way sits with mottled dark and light patches.",
+      "alt_ru": "Телескоп направлен в небо, где находится Млечный Путь с пятнистыми тёмными и светлыми участками.",
+      "credit": "Juan Pablo Botero Londoño/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        27,
+        226,
+        279,
+        352
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:p442yE76BF15",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359742/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Milky%20Way%20Over%20H.E.S.S%20Observatory,%20by%20Jianfeng%20Dai.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/p442yE76BF15/",
+      "original_path": "data/media/original/media_p442yE76BF15.jpg",
+      "ru_path": null,
+      "sha256": "91c63ac0fe2aec55ae226652bac8eb598e9501367cf4b1dbfbaba3c567e0e374",
+      "size": 44607750,
+      "title_en": "Milky Way Over H.E.S.S Observatory",
+      "title_ru": "Млечный Путь над обсерваторией H.E.S.S.",
+      "short_caption_en": "Milky Way Over H.E.S.S Observatory",
+      "short_caption_ru": "Млечный Путь над обсерваторией H.E.S.S.",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nThe darkness of the skies at H.E.S.S Observatory reveal the seemingly innumerable stars that make up the Milky Way galaxy, making it challenging to discern the constellations as seen taken with a smartphone from Namibia in June 2023. The stars Alpha and Beta Centauri are visible bottom left of the image just about the tower. The orange-hued star visible just above and to the right of the left H.E.S.S telescope is Antares, a red-giant star that is part of the constellation Scorpius.",
+      "caption_ru": "Почетное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория неподвижных изображений, сделанных исключительно смартфонами/мобильными устройствами.\r\n\r\nТемнота неба в обсерватории H.E.S.S. открывает, казалось бы, бесчисленные звезды, составляющие галактику Млечный Путь, что затрудняет распознавание созвездий, как видно на снимке, сделанном смартфоном из Намибии в июне 2023 года. Звезды Альфа и Бета Центавра видны в нижнем левом углу изображения чуть выше башни. Оранжевая звезда, видимая чуть выше и правее левого телескопа H.E.S.S., — это Антарес, звезда-красный гигант, входящая в созвездие Скорпиона.",
+      "alt_en": "Four dish-shaped telescopes point at the sky with the arc of the Milky Way overhead.",
+      "alt_ru": "Четыре тарельчатых телескопа направлены в небо, а над ними дугой простирается Млечный Путь.",
+      "credit": "Jianfeng Dai/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        27,
+        199,
+        226,
+        305,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:8i19wv485F65",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360188/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20The%20Big%20Dipper%20with%20the%20Sardinia%20Radio%20Telescope%20SRT,%20by%20Antonio%20Finazzi.mov/content",
+      "record_url": "https://astro4edu.org/resources/media/8i19wv485F65/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "The Big Dipper with the Sardinia Radio Telescope SRT",
+      "title_ru": "Большая Медведица с Сардинским радиотелескопом SRT",
+      "short_caption_en": "The Big Dipper with the Sardinia Radio Telescope SRT",
+      "short_caption_ru": "Большая Медведица с Сардинским радиотелескопом SRT",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis time-lapse captures the movement of the stars alongside the majestic 64-metre Sardinia Radio Telescope (SRT) from the National Institute of Astrophysics (INAF), with special attention to the renowned Big Dipper against the backdrop of the celestial sphere. The camera pans as the famous asterism sinks in the sky while planes fly past and the radio telescope rotates. The harmonious interplay between the stellar pathways and the colossal dish of the radio telescope creates a mesmerising visual ode to the cosmic ballet taken in September 2019.",
+      "caption_ru": "Почетное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория таймлапсов вращения Большой Медведицы или Южного Креста.\r\n\r\nЭтот таймлапс запечатлевает движение звезд рядом с величественным 64-метровым Сардинским радиотелескопом (SRT) Национального института астрофизики (INAF), с особым вниманием к знаменитой Большой Медведице на фоне небесной сферы. Камера панорамирует, пока известный астеризм опускается в небе, пролетают самолеты, а радиотелескоп вращается. Гармоничное взаимодействие между звездными путями и колоссальной тарелкой радиотелескопа создает завораживающую визуальную оду космическому балету, снятую в сентябре 2019 года.",
+      "alt_en": "The dish of a radio telescope rotates as the Big Dipper moves in the sky behind.",
+      "alt_ru": "Тарелка радиотелескопа вращается, а Большая Медведица движется по небу позади.",
+      "credit": "Antonio Finazzi/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        27,
+        39,
+        52,
+        53,
+        90,
+        226,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

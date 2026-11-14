@@ -1,0 +1,141 @@
+{
+  "id": "term:38",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 38,
+    "url": "https://astro4edu.org/resources/glossary/term/38/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=38",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:16.436751+00:00",
+    "sha256": "fa978ebdb03fc87a813ae70c54c9b69ff8ec5f4ae94460a96d35d17e889a6ae2"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Cosmology"
+    ],
+    "category_ids": [
+      9
+    ],
+    "categories_ru": [
+      "Космология"
+    ],
+    "related_term_numbers": [
+      69,
+      72,
+      148,
+      374,
+      430
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Big Bang Theory",
+      "body": "The Big Bang theory is the basic explanation for the evolutionary stages of the Universe. In its simplest form, this theory gives us an idea of the origin of the Universe from its hot, dense early phase, to its expansion over the next 13.8 billion years, to become the Universe we know today. We see evidence of this expansion today in the Hubble Diagram. Because our current tools do not allow astronomers to look back directly to the beginning of the Universe, much of what we understand about the Big Bang theory comes to us from mathematical models and theories. However, astronomers can study the chemical elements produced during the hot few minutes after the Big Bang (known as Big Bang Nucleosynthesis). They can also study the afterglow left from the Big Bang, a phenomenon known as the cosmic microwave background.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Cosmic Microwave Background (CMB)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/69/",
+          "text_ru": "Реликтовое микроволновое излучение (CMB)"
+        },
+        {
+          "text": "Cosmology",
+          "url": "https://www.astro4edu.org/resources/glossary/term/72/",
+          "text_ru": "Космология"
+        },
+        {
+          "text": "Hubble Diagram",
+          "url": "https://www.astro4edu.org/resources/glossary/term/148/",
+          "text_ru": "Диаграмма Хаббла"
+        },
+        {
+          "text": "Universe",
+          "url": "https://www.astro4edu.org/resources/glossary/term/374/",
+          "text_ru": "Вселенная"
+        },
+        {
+          "text": "Big Bang Nucleosynthesis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/430/",
+          "text_ru": "Нуклеосинтез Большого взрыва"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Big Bang Theory</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The Big Bang theory is the basic explanation for the evolutionary stages of the Universe. In its simplest form, this theory gives us an idea of the origin of the Universe from its hot, dense early phase, to its expansion over the next 13.8 billion years, to become the Universe we know today. We see evidence of this expansion today in the Hubble Diagram. <br/><br/>Because our current tools do not allow astronomers to look back directly to the beginning of the Universe, much of what we understand about the Big Bang theory comes to us from mathematical models and theories. However, astronomers can study the chemical elements produced during the hot few minutes after the Big Bang (known as Big Bang Nucleosynthesis). They can also study the afterglow left from the Big Bang, a phenomenon known as the cosmic microwave background.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/69/\">Cosmic Microwave Background (CMB)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/72/\">Cosmology</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/148/\">Hubble Diagram</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/374/\">Universe</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/430/\">Big Bang Nucleosynthesis</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Теория Большого взрыва",
+      "body_ru": "Теория Большого взрыва — это основное объяснение эволюционных этапов Вселенной. В своей простейшей форме эта теория даёт нам представление о происхождении Вселенной из её горячей, плотной ранней фазы, о её расширении в течение последующих 13,8 миллиардов лет до состояния Вселенной, которую мы знаем сегодня. Мы видим свидетельства этого расширения сегодня на диаграмме Хаббла. Поскольку наши нынешние инструменты не позволяют астрономам напрямую заглянуть в начало Вселенной, многое из того, что мы понимаем в теории Большого взрыва, приходит к нам из математических моделей и теорий. Однако астрономы могут изучать химические элементы, образовавшиеся в течение горячих нескольких минут после Большого взрыва (известного как нуклеосинтез Большого взрыва). Они также могут изучать послесвечение, оставшееся от Большого взрыва, явление, известное как космическое микроволновое фоновое излучение."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "ビッグバン宇宙論 (external link)",
+          "url": "https://astro-dic.jp/big-bang-cosmology/",
+          "text_ru": "Теория Большого взрыва (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/38/\">نظرية الانفجار العظيم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/38/\">Urknalltheorie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/38/\">Teoría del Big Bang </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/38/\">Théorie du Big Bang </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/38/\">La teoria del Big Bang </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/big-bang-cosmology/\">ビッグバン宇宙論 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/38/\">A Teoria do Big Bang </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/38/\">宇宙大爆炸理论 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/38/\">宇宙大爆炸理論 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Big Bang Theory",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Big Bang Theory",
+          "body": "The Big Bang theory is the basic explanation for the evolutionary stages of the Universe. In its simplest form, this theory gives us an idea of the origin of the Universe from its hot, dense early phase, to its expansion over the next 13.8 billion years, to become the Universe we know today. We see evidence of this expansion today in the Hubble Diagram. Because our current tools do not allow astronomers to look back directly to the beginning of the Universe, much of what we understand about the Big Bang theory comes to us from mathematical models and theories. However, astronomers can study the chemical elements produced during the hot few minutes after the Big Bang (known as Big Bang Nucleosynthesis). They can also study the afterglow left from the Big Bang, a phenomenon known as the cosmic microwave background."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Теория Большого взрыва",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Теория Большого взрыва",
+          "body": "Теория Большого взрыва — это основное объяснение эволюционных этапов Вселенной. В своей простейшей форме эта теория даёт нам представление о происхождении Вселенной из её горячей, плотной ранней фазы, о её расширении в течение последующих 13,8 миллиардов лет до состояния Вселенной, которую мы знаем сегодня. Мы видим свидетельства этого расширения сегодня на диаграмме Хаббла. Поскольку наши нынешние инструменты не позволяют астрономам напрямую заглянуть в начало Вселенной, многое из того, что мы понимаем в теории Большого взрыва, приходит к нам из математических моделей и теорий. Однако астрономы могут изучать химические элементы, образовавшиеся в течение горячих нескольких минут после Большого взрыва (известного как нуклеосинтез Большого взрыва). Они также могут изучать послесвечение, оставшееся от Большого взрыва, явление, известное как космическое микроволновое фоновое излучение."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

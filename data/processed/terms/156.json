@@ -1,0 +1,450 @@
+{
+  "id": "term:156",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 156,
+    "url": "https://astro4edu.org/resources/glossary/term/156/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=156",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:01.946124+00:00",
+    "sha256": "2a8ffd6d8986e55d236aa312d6229eec83ee84fb1f5d6df41063397757904d4b"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      3
+    ],
+    "categories_ru": [
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      96,
+      155,
+      157,
+      471,
+      472,
+      482
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Infrared Astronomy",
+      "body": "Infrared astronomy is a branch of astronomy that looks at infrared light. It is more sensitive to cool objects than observations in visible light and can observe very distant galaxies whose light has been redshifted a lot. Infrared observations are less affected by extinction and can thus see deeper into interstellar clouds of gas and dust. Molecules in Earth's atmosphere absorb much of the infrared light coming from space and thus infrared astronomy on the ground is done mostly in wavelength ranges where this absorption is lower. Both Earth and its atmosphere radiate in the infrared so special techniques are required to remove this background radiation. For infrared radiation with longer wavelengths, this background plus atmospheric absorption makes observing on the ground almost impossible. As a result many infrared observations are carried out using space telescopes. However, for the longest infrared wavelengths ground-based observations are possible from very dry sites. This is typically called submillimeter astronomy.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Electromagnetic Radiation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/96/",
+          "text_ru": "Электромагнитное излучение"
+        },
+        {
+          "text": "Infrared (IR)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/155/",
+          "text_ru": "Инфракрасное (ИК)"
+        },
+        {
+          "text": "Infrared Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/157/",
+          "text_ru": "Инфракрасный телескоп"
+        },
+        {
+          "text": "Redshift",
+          "url": "https://www.astro4edu.org/resources/glossary/term/471/",
+          "text_ru": "Красное смещение"
+        },
+        {
+          "text": "Interstellar Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/472/",
+          "text_ru": "Межзвёздное поглощение"
+        },
+        {
+          "text": "Submillimeter Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/482/",
+          "text_ru": "Субмиллиметровая астрономия"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Infrared Astronomy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Infrared astronomy is a branch of astronomy that looks at infrared light. It is more sensitive to cool objects than observations in visible light and can observe very distant galaxies whose light has been redshifted a lot. Infrared observations are less affected by extinction and can thus see deeper into interstellar clouds of gas and dust.<br/><br/>Molecules in Earth's atmosphere absorb much of the infrared light coming from space and thus infrared astronomy on the ground is done mostly in wavelength ranges where this absorption is lower. Both Earth and its atmosphere radiate in the infrared so special techniques are required to remove this background radiation. For infrared radiation with longer wavelengths, this background plus atmospheric absorption makes observing on the ground almost impossible. As a result many infrared observations are carried out using space telescopes. However, for the longest infrared wavelengths ground-based observations are possible from very dry sites. This is typically called submillimeter astronomy.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/96/\">Electromagnetic Radiation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/155/\">Infrared (IR)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/157/\">Infrared Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/471/\">Redshift</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/472/\">Interstellar Extinction</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/482/\">Submillimeter Astronomy</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Инфракрасная астрономия",
+      "body_ru": "Инфракрасная астрономия — это раздел астрономии, который изучает инфракрасный свет. Она более чувствительна к холодным объектам, чем наблюдения в видимом свете, и может наблюдать очень далёкие галактики, свет которых сильно смещён в красную область. Инфракрасные наблюдения меньше подвержены межзвёздному поглощению и поэтому могут заглядывать глубже в межзвёздные облака газа и пыли. Молекулы в атмосфере Земли поглощают большую часть инфракрасного света, приходящего из космоса, поэтому инфракрасная астрономия на Земле ведётся в основном в диапазонах длин волн, где это поглощение ниже. Как Земля, так и её атмосфера излучают в инфракрасном диапазоне, поэтому требуются специальные методы для удаления этого фонового излучения. Для инфракрасного излучения с более длинными волнами этот фон вместе с атмосферным поглощением делает наблюдения на Земле почти невозможными. В результате многие инфракрасные наблюдения проводятся с помощью космических телескопов. Однако для самых длинных инфракрасных волн наземные наблюдения возможны с очень сухих участков. Это обычно называется субмиллиметровой астрономией."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/156/\">علم فلك الأشعة تحت الحمراء </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/156/\">Infrarotastronomie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/156/\">Astronomía infrarroja </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/156/\">Astronomie infrarouge </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/156/\">Astronomia all'infrarosso </a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/156/\">इन्फ्रारेड खगोल विज्ञान </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/156/\">Astronomia infravermelha </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/156/\">红外天文学 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/156/\">紅外天文學 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/3x510K79yO81/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/hubble_earth/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Rc94J483CO25/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.jpl.nasa.gov/images/pia04493-keck-interferometer",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Q08eT66Uc96/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/WS23f368jp95/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2017/09/Herschel_s_view_of_new_stars_and_molecular_clouds",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-3.0-IGO",
+          "url": "https://creativecommons.org/licenses/by/3.0/igo/deed.en",
+          "text_ru": "CC-BY-3.0-IGO"
+        },
+        {
+          "text": "Creative Commons Attribution 3.0 IGO icons",
+          "url": "https://creativecommons.org/licenses/by/3.0/igo/deed.en",
+          "text_ru": "Значки Creative Commons Attribution 3.0 IGO"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/rs51re24zb11/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.jpl.nasa.gov/images/pia15481-mapping-the-infrared-universe-the-entire-wise-sky/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Infrared Astronomy&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:3x510K79yO81",
+        "media:Rc94J483CO25",
+        "media:Q08eT66Uc96",
+        "media:WS23f368jp95",
+        "media:rs51re24zb11"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/3x510K79yO81/\"><img alt=\"The silver-coloured Hubble Space Telescope with the blue ocean and white clouds of the Earth visible underneath.\" src=\"/media/multimedia/thumbnails/hubble_earth_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hubble Space Telescope over Earth</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The NASA/ESA Hubble Space Telescope orbiting Earth. This picture was taken by astronauts on board the space shuttle Columbia, right after the Servicing Mission 3B to the space telescope itself. The telescope has an opening that allows light in (seen here on the left). The light travels through the telescope optics to the cameras and spectrographs located in the bulge at the other end of the observatory (seen here on the right). Data from these instruments is then sent back to Earth using an antenna. The black rectangles on either side of the observatory are the solar panels that provide it with power.<br/>\n<b>Credit:</b> NASA/ESA\n\t  <a href=\"https://esahubble.org/images/hubble_earth/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Rc94J483CO25/\"><img alt=\"The two Keck telescopes seen from above. The domes are open and the telescopes' mirrors can be seen inside.\" src=\"/media/multimedia/thumbnails/jpegPIA04493_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Keck Telescopes</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The two Keck telescopes on Mauna Kea on the island of Hawai`i. These two telescopes are reflecting telescopes with primary mirrors 10m across.<br/>\n<b>Credit:</b> NASA/JPL\n\t  <a href=\"https://www.jpl.nasa.gov/images/pia04493-keck-interferometer\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Q08eT66Uc96/\"><img alt=\"The left image has finger-shaped clouds with bright edges. In the right image we see stars shining through those clouds\" src=\"/media/multimedia/thumbnails/the-pillars-of-creation-in-comparison_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Pillars of Creation in comparison</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The 'Pillars of Creation' are a renowned astronomical feature situated within the Eagle Nebula in the Serpens constellation. The illustration provides a direct comparison between images captured by the Hubble Space Telescope (HST) and the James Webb Space Telescope (JWST), showcasing the pillars, which span several light years in diameter, in both visible light (also known as optical light) and infrared light. On the left are the pillars as seen by Hubble in visual light, taken in 2014. It displays dark pillars against an opaque background, with only a handful of visible stars. Conversely, the counterpart on the right is Webb’s near-infrared view published in 2022, penetrating the dust and revealing numerous stars of varying sizes.\nTheir distance from Earth is approximately 6,500 to 7,000 light years. Within these pillars, new stars are constantly forming, making them a subject of extensive study by astronomers. Composed mostly of cool molecular hydrogen and small amounts of interstellar dust, they are subject to erosion by the intense ultraviolet radiation emitted by nearby massive and newborn stars, a process known as photoevaporation.<br/>\n<b>Credit:</b> NASA, ESA, CSA, STScI\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/WS23f368jp95/\"><img alt=\"A red patch mass of gas with a few dark bubbles with lighter edges and several lighter colored clusters and filaments\" src=\"/media/multimedia/thumbnails/herschels-view-of-new-stars-and-molecular-clouds_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Herschel’s view of new stars and molecular clouds</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the Westerhout 3, 4 and 5 star formation regions. This area has huge amounts of gas and dust. This gas and dust hides the physical processes going on in this region from studies using visible light. This image was taken in infrared light by the Herschel Space Observatory. This infrared light allowed Herschel to see deep into these star forming regions.\n\nIn Westerhout 3, 4 and 5, huge, cold clouds of molecular hydrogen have collapsed into dense knots and filaments. Within these new structures the gas is dense and cold enough for it to collapse and form stars. These new stars give off powerful winds of charged particles, like stronger versions of the solar wind our sun gives off. These winds have combined to blow massive bubbles in the surrounding gas and dust. These are visible as the large darker voids in the image.<br/>\n<b>Credit:</b> ESA/Herschel/NASA/JPL-Caltech; acknowledgement: R. Hurt (JPL-Caltech)\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Images/2017/09/Herschel_s_view_of_new_stars_and_molecular_clouds\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/3.0/igo/deed.en\" rel=\"license\">CC-BY-3.0-IGO</a> <a href=\"https://creativecommons.org/licenses/by/3.0/igo/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 3.0 IGO icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/rs51re24zb11/\"><img alt=\"Infrared all-sky survey map with bright Milky Way band and scattered sources across the sky.\" src=\"/media/multimedia/thumbnails/wise-survey-capturing-the-whole-sky-in-infrared-light_ambt4ss_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">WISE Survey Capturing the Whole Sky in Infrared Light</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image presents the entire sky mapped in infrared light from space by the WISE satellite. While dust in the plane of the Milky Way blocks visible light, obscuring the heart of our Galaxy, infrared light passes through the dust. The most prominent feature is the broad, bright band running horizontally through the centre — this is the plane of our Milky Way galaxy. Numerous brighter knots and patches appear above and below the band, marking regions of active star formation and nearby galaxies. \n\nSuch a dataset is a classic example of an astronomical survey, in which large portions of the sky is scanned to build a comprehensive catalogue of cosmic sources. The WISE satellite operated in space, allowing it to study parts of the infrared spectrum blocked by Earth's atmosphere.<br/>\n<b>Credit:</b> NASA/JPL-Caltech\n\t  <a href=\"https://www.jpl.nasa.gov/images/pia15481-mapping-the-infrared-universe-the-entire-wise-sky/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Infrared Astronomy&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Infrared Astronomy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Infrared Astronomy",
+          "body": "Infrared astronomy is a branch of astronomy that looks at infrared light. It is more sensitive to cool objects than observations in visible light and can observe very distant galaxies whose light has been redshifted a lot. Infrared observations are less affected by extinction and can thus see deeper into interstellar clouds of gas and dust. Molecules in Earth's atmosphere absorb much of the infrared light coming from space and thus infrared astronomy on the ground is done mostly in wavelength ranges where this absorption is lower. Both Earth and its atmosphere radiate in the infrared so special techniques are required to remove this background radiation. For infrared radiation with longer wavelengths, this background plus atmospheric absorption makes observing on the ground almost impossible. As a result many infrared observations are carried out using space telescopes. However, for the longest infrared wavelengths ground-based observations are possible from very dry sites. This is typically called submillimeter astronomy."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Инфракрасная астрономия",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Инфракрасная астрономия",
+          "body": "Инфракрасная астрономия — это раздел астрономии, который изучает инфракрасный свет. Она более чувствительна к холодным объектам, чем наблюдения в видимом свете, и может наблюдать очень далёкие галактики, свет которых сильно смещён в красную область. Инфракрасные наблюдения меньше подвержены межзвёздному поглощению и поэтому могут заглядывать глубже в межзвёздные облака газа и пыли. Молекулы в атмосфере Земли поглощают большую часть инфракрасного света, приходящего из космоса, поэтому инфракрасная астрономия на Земле ведётся в основном в диапазонах длин волн, где это поглощение ниже. Как Земля, так и её атмосфера излучают в инфракрасном диапазоне, поэтому требуются специальные методы для удаления этого фонового излучения. Для инфракрасного излучения с более длинными волнами этот фон вместе с атмосферным поглощением делает наблюдения на Земле почти невозможными. В результате многие инфракрасные наблюдения проводятся с помощью космических телескопов. Однако для самых длинных инфракрасных волн наземные наблюдения возможны с очень сухих участков. Это обычно называется субмиллиметровой астрономией."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:3x510K79yO81",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/hubble_earth.jpg",
+      "record_url": "https://astro4edu.org/resources/media/3x510K79yO81/",
+      "original_path": "data/media/original/media_3x510K79yO81.jpg",
+      "ru_path": null,
+      "sha256": "92a0e3f2f629f5d6ea7c321fb5ef43634ab7565a015c98d1a2da99e131b402f2",
+      "size": 1305565,
+      "title_en": "Hubble Space Telescope over Earth",
+      "title_ru": "Космический телескоп «Хаббл» над Землёй",
+      "short_caption_en": "Hubble Space Telescope over Earth",
+      "short_caption_ru": "Космический телескоп «Хаббл» над Землёй",
+      "caption_en": "The NASA/ESA Hubble Space Telescope orbiting Earth. This picture was taken by astronauts on board the space shuttle Columbia, right after the Servicing Mission 3B to the space telescope itself. The telescope has an opening that allows light in (seen here on the left). The light travels through the telescope optics to the cameras and spectrographs located in the bulge at the other end of the observatory (seen here on the right). Data from these instruments is then sent back to Earth using an antenna. The black rectangles on either side of the observatory are the solar panels that provide it with power.",
+      "caption_ru": "Космический телескоп НАСА/ЕКА «Хаббл» на орбите Земли. Этот снимок был сделан астронавтами на борту шаттла «Колумбия» сразу после миссии обслуживания 3B самого космического телескопа. Телескоп имеет отверстие, через которое поступает свет (видно здесь слева). Свет проходит через оптику телескопа к камерам и спектрографам, расположенным в выпуклости на другом конце обсерватории (видно здесь справа). Данные с этих инструментов затем отправляются обратно на Землю с помощью антенны. Чёрные прямоугольники по обе стороны обсерватории — это солнечные панели, которые обеспечивают её энергией.",
+      "alt_en": "The silver-coloured Hubble Space Telescope with the blue ocean and white clouds of the Earth visible underneath.",
+      "alt_ru": "Серебристый космический телескоп «Хаббл» с видимыми внизу голубым океаном и белыми облаками Земли.",
+      "credit": "NASA/ESA",
+      "credit_url": "https://esahubble.org/images/hubble_earth/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        156,
+        227,
+        229,
+        322
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Rc94J483CO25",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/jpegPIA04493.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Rc94J483CO25/",
+      "original_path": "data/media/original/media_Rc94J483CO25.jpg",
+      "ru_path": null,
+      "sha256": "1e5a9e0b29c32ce9a55245bc097814249541ae145b678cc14d89f16347d5fa6f",
+      "size": 45041,
+      "title_en": "Keck Telescopes",
+      "title_ru": "Телескопы Кек",
+      "short_caption_en": "Keck Telescopes",
+      "short_caption_ru": "Телескопы Кек",
+      "caption_en": "The two Keck telescopes on Mauna Kea on the island of Hawai`i. These two telescopes are reflecting telescopes with primary mirrors 10m across.",
+      "caption_ru": "Два телескопа Кек на Мауна-Кеа на острове Гавайи. Эти два телескопа являются зеркальными телескопами с главными зеркалами диаметром 10 м.",
+      "alt_en": "The two Keck telescopes seen from above. The domes are open and the telescopes' mirrors can be seen inside.",
+      "alt_ru": "Два телескопа Кек, вид сверху. Купола открыты, и внутри видны зеркала телескопов.",
+      "credit": "NASA/JPL",
+      "credit_url": "https://www.jpl.nasa.gov/images/pia04493-keck-interferometer",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        156,
+        227,
+        229,
+        279
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Q08eT66Uc96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-pillars-of-creation-in-comparison.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Q08eT66Uc96/",
+      "original_path": "data/media/original/media_Q08eT66Uc96.jpg",
+      "ru_path": null,
+      "sha256": "cd1a44eb4e61373056ab92394baec96f21d7f6c3c3e4bf86ae0c66dc544ba172",
+      "size": 12030803,
+      "title_en": "The Pillars of Creation in comparison",
+      "title_ru": "Столпы Творения в сравнении",
+      "short_caption_en": "The Pillars of Creation in comparison",
+      "short_caption_ru": "Столпы Творения в сравнении",
+      "caption_en": "The 'Pillars of Creation' are a renowned astronomical feature situated within the Eagle Nebula in the Serpens constellation. The illustration provides a direct comparison between images captured by the Hubble Space Telescope (HST) and the James Webb Space Telescope (JWST), showcasing the pillars, which span several light years in diameter, in both visible light (also known as optical light) and infrared light. On the left are the pillars as seen by Hubble in visual light, taken in 2014. It displays dark pillars against an opaque background, with only a handful of visible stars. Conversely, the counterpart on the right is Webb’s near-infrared view published in 2022, penetrating the dust and revealing numerous stars of varying sizes.\r\nTheir distance from Earth is approximately 6,500 to 7,000 light years. Within these pillars, new stars are constantly forming, making them a subject of extensive study by astronomers. Composed mostly of cool molecular hydrogen and small amounts of interstellar dust, they are subject to erosion by the intense ultraviolet radiation emitted by nearby massive and newborn stars, a process known as photoevaporation.",
+      "caption_ru": "«Столпы Творения» — известная астрономическая структура, расположенная в туманности Орёл в созвездии Змеи. Иллюстрация позволяет напрямую сравнить изображения, полученные космическим телескопом «Хаббл» (HST) и космическим телескопом «Джеймс Уэбб» (JWST), демонстрируя столпы, простирающиеся на несколько световых лет в поперечнике, в видимом свете (также известном как оптический свет) и в инфракрасном свете. Слева — столпы, какими их увидел «Хаббл» в видимом свете, снимок сделан в 2014. На нём видны тёмные столпы на непрозрачном фоне, и лишь несколько звёзд. Напротив, справа — ближний инфракрасный снимок «Уэбба», опубликованный в 2022, который проникает сквозь пыль и показывает множество звёзд разного размера.\r\nИх расстояние от Земли составляет примерно от 6,500 до 7,000 световых лет. Внутри этих столпов постоянно формируются новые звёзды, что делает их предметом обширных исследований астрономов. Состоящие в основном из холодного молекулярного водорода и небольшого количества межзвёздной пыли, они подвергаются эрозии под воздействием интенсивного ультрафиолетового излучения, испускаемого близлежащими массивными и новорождёнными звёздами, — процесс, известный как фотоиспарение.",
+      "alt_en": "The left image has finger-shaped clouds with bright edges. In the right image we see stars shining through those clouds",
+      "alt_ru": "На левом изображении видны облака в форме пальцев с яркими краями. На правом изображении мы видим звёзды, сияющие сквозь эти облака",
+      "credit": "NASA, ESA, CSA, STScI",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png",
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        156,
+        157,
+        229,
+        333,
+        378,
+        438
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:WS23f368jp95",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/herschels-view-of-new-stars-and-molecular-clouds.png",
+      "record_url": "https://astro4edu.org/resources/media/WS23f368jp95/",
+      "original_path": "data/media/original/media_WS23f368jp95.png",
+      "ru_path": null,
+      "sha256": "bf152e8f345f72475a0f01f33745838ead171de30d29ad32fb29f301ee3c3497",
+      "size": 4529991,
+      "title_en": "Herschel’s view of new stars and molecular clouds",
+      "title_ru": "Взгляд «Гершеля» на новые звёзды и молекулярные облака",
+      "short_caption_en": "Herschel’s view of new stars and molecular clouds",
+      "short_caption_ru": "Взгляд «Гершеля» на новые звёзды и молекулярные облака",
+      "caption_en": "This image shows the Westerhout 3, 4 and 5 star formation regions. This area has huge amounts of gas and dust. This gas and dust hides the physical processes going on in this region from studies using visible light. This image was taken in infrared light by the Herschel Space Observatory. This infrared light allowed Herschel to see deep into these star forming regions.\r\n\r\nIn Westerhout 3, 4 and 5, huge, cold clouds of molecular hydrogen have collapsed into dense knots and filaments. Within these new structures the gas is dense and cold enough for it to collapse and form stars. These new stars give off powerful winds of charged particles, like stronger versions of the solar wind our sun gives off. These winds have combined to blow massive bubbles in the surrounding gas and dust. These are visible as the large darker voids in the image.",
+      "caption_ru": "Это изображение показывает области звездообразования Westerhout 3, 4 и 5. В этой области огромное количество газа и пыли. Этот газ и пыль скрывают физические процессы, происходящие в этой области, от исследований в видимом свете. Это изображение было получено в инфракрасном свете космической обсерваторией «Гершель». Инфракрасный свет позволил «Гершелю» заглянуть глубоко в эти области звездообразования.\r\n\r\nВ Westerhout 3, 4 и 5 огромные холодные облака молекулярного водорода сжались в плотные сгустки и волокна. Внутри этих новых структур газ достаточно плотный и холодный, чтобы сжаться и сформировать звёзды. Эти новые звёзды испускают мощные потоки заряженных частиц, подобные более сильным версиям солнечного ветра, который испускает наше Солнце. Эти потоки, объединившись, выдули массивные пузыри в окружающем газе и пыли. Они видны как большие тёмные пустоты на изображении.",
+      "alt_en": "A red patch mass of gas with a few dark bubbles with lighter edges and several lighter colored clusters and filaments",
+      "alt_ru": "Красная масса газа с несколькими тёмными пузырями со светлыми краями и несколькими более светлыми скоплениями и волокнами",
+      "credit": "ESA/Herschel/NASA/JPL-Caltech; acknowledgement: R. Hurt (JPL-Caltech)",
+      "credit_url": "https://www.esa.int/ESA_Multimedia/Images/2017/09/Herschel_s_view_of_new_stars_and_molecular_clouds",
+      "license": "CC-BY-3.0-IGO",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/igo/deed.en",
+      "term_numbers": [
+        156,
+        333,
+        450,
+        517,
+        531
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:rs51re24zb11",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/wise-survey-capturing-the-whole-sky-in-infrared-light_ambt4ss.png",
+      "record_url": "https://astro4edu.org/resources/media/rs51re24zb11/",
+      "original_path": "data/media/original/media_rs51re24zb11.png",
+      "ru_path": null,
+      "sha256": "524cfb2a74b9d4fe0b5fc6ce8f33e4dbd23f83f11b38691aa3eecc7a5b1c328a",
+      "size": 64594828,
+      "title_en": "WISE Survey Capturing the Whole Sky in Infrared Light",
+      "title_ru": "Обзор WISE: захват всего неба в инфракрасном свете",
+      "short_caption_en": "WISE Survey Capturing the Whole Sky in Infrared Light",
+      "short_caption_ru": "Обзор WISE: захват всего неба в инфракрасном свете",
+      "caption_en": "This image presents the entire sky mapped in infrared light from space by the WISE satellite. While dust in the plane of the Milky Way blocks visible light, obscuring the heart of our Galaxy, infrared light passes through the dust. The most prominent feature is the broad, bright band running horizontally through the centre — this is the plane of our Milky Way galaxy. Numerous brighter knots and patches appear above and below the band, marking regions of active star formation and nearby galaxies. \r\n\r\nSuch a dataset is a classic example of an astronomical survey, in which large portions of the sky is scanned to build a comprehensive catalogue of cosmic sources. The WISE satellite operated in space, allowing it to study parts of the infrared spectrum blocked by Earth's atmosphere.",
+      "caption_ru": "Это изображение представляет всё небо, закартированное в инфракрасном свете из космоса спутником WISE. В то время как пыль в плоскости Млечного Пути блокирует видимый свет, скрывая сердце нашей Галактики, инфракрасный свет проходит сквозь пыль. Наиболее заметная особенность — широкая яркая полоса, проходящая горизонтально через центр, — это плоскость нашей галактики Млечный Путь. Над полосой и под ней видны многочисленные более яркие сгустки и пятна, отмечающие области активного звездообразования и близлежащие галактики.\r\n\r\nТакой набор данных является классическим примером астрономического обзора, в ходе которого сканируются большие участки неба для создания всеобъемлющего каталога космических источников. Спутник WISE работал в космосе, что позволило ему изучать части инфракрасного спектра, блокируемые атмосферой Земли.",
+      "alt_en": "Infrared all-sky survey map with bright Milky Way band and scattered sources across the sky.",
+      "alt_ru": "Карта инфракрасного обзора всего неба с яркой полосой Млечного Пути и рассеянными источниками по всему небу.",
+      "credit": "NASA/JPL-Caltech",
+      "credit_url": "https://www.jpl.nasa.gov/images/pia15481-mapping-the-infrared-universe-the-entire-wise-sky/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        156,
+        529
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Hn24Uy22UQ58",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/sofia-unveiling-the-infrared-universe-from-the-skies.png",
+      "record_url": "https://astro4edu.org/resources/media/Hn24Uy22UQ58/",
+      "original_path": "data/media/original/media_Hn24Uy22UQ58.png",
+      "ru_path": null,
+      "sha256": "ea7207c2e99902872350f3ff9401930fb177ffe0555dde82b386c0f9c112f552",
+      "size": 1759716,
+      "title_en": "SOFIA: Unveiling the Infrared Universe from the Skies",
+      "title_ru": "SOFIA: раскрывая инфракрасную Вселенную с небес",
+      "short_caption_en": "SOFIA: Unveiling the Infrared Universe from the Skies",
+      "short_caption_ru": "SOFIA: раскрывая инфракрасную Вселенную с небес",
+      "caption_en": "This image shows the Stratospheric Observatory for Infrared Astronomy (SOFIA) telescope. This telescope which operated from 2010 to 2022 was mounted in a modified Boeing 747 aircraft with a section of the rear fuselage removed to allow the telescope to observe the sky and with other modifications that allow it to fly at a higher altitude than a standard 747. \r\n\r\nMany molecules which are common in the Earth's atmosphere (such as water, carbon dioxide and methane) absorb radiation at infrared wavelengths. This interferes with infrared observations made from the ground. SOFIA flew at an altitude that puts it above most of the water vapour in the Earth's atmosphere, greatly reducing the impact of absorption by water molecules on its observations.",
+      "caption_ru": "Это изображение показывает телескоп Стратосферной обсерватории инфракрасной астрономии (SOFIA). Этот телескоп, работавший с 2010 по 2022, был установлен в модифицированном самолёте Boeing 747 с удалённой частью задней секции фюзеляжа, чтобы телескоп мог наблюдать небо, и с другими модификациями, позволяющими ему летать на большей высоте, чем стандартный 747.\r\n\r\nМногие молекулы, распространённые в атмосфере Земли (такие как вода, углекислый газ и метан), поглощают излучение на инфракрасных длинах волн. Это мешает инфракрасным наблюдениям с земли. SOFIA летала на высоте, которая поднимает её выше большей части водяного пара в атмосфере Земли, значительно снижая влияние поглощения молекулами воды на её наблюдения.",
+      "alt_en": "The SOFIA Telescope sits inside the body of a modified Boeing 747 aircraft and observes the universe.",
+      "alt_ru": "Телескоп SOFIA находится внутри корпуса модифицированного самолёта Boeing 747 и наблюдает Вселенную.",
+      "credit": "NASA photo / Jim Ross",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:SOFIA_ED10-0182-01_full.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        156,
+        157
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

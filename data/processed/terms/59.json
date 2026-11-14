@@ -1,0 +1,512 @@
+{
+  "id": "term:59",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 59,
+    "url": "https://astro4edu.org/resources/glossary/term/59/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=59",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:22.206081+00:00",
+    "sha256": "0b42b96e041214b8ea490e17ffad043f1abb084512b462fd87cd8790cd740f01"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Stars"
+    ],
+    "category_ids": [
+      4,
+      2
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      39,
+      60,
+      467
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Color",
+      "body": "The color of an astronomical object can carry important information about its physical properties. Even with the naked eye, a blueish star you see in the sky, such as Alkaid at the end of the \"handle\" of the Big Dipper, will be considerably hotter than a reddish star, such as Betelgeuse at the shoulder of Orion. In order to quantify color, astronomers typically determine a star's brightness when seen through one of several possible specialized blue filters and compare to the brightness through a red filter. Several distinct color definitions of this kind, comparing brightness in specific different filters, are in use. The results can be used in statistical analyzes. An example are color–magnitude diagrams, which plot object color against object brightness.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Big Dipper",
+          "url": "https://www.astro4edu.org/resources/glossary/term/39/",
+          "text_ru": "Ковш Большой Медведицы"
+        },
+        {
+          "text": "Color Index",
+          "url": "https://www.astro4edu.org/resources/glossary/term/60/",
+          "text_ru": "Показатель цвета"
+        },
+        {
+          "text": "Orion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/467/",
+          "text_ru": "Орион"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Color</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The color of an astronomical object can carry important information about its physical properties. Even with the naked eye, a blueish star you see in the sky, such as Alkaid at the end of the \"handle\" of the Big Dipper, will be considerably hotter than a reddish star, such as Betelgeuse at the shoulder of Orion. In order to quantify color, astronomers typically determine a star's brightness when seen through one of several possible specialized blue filters and compare to the brightness through a red filter. Several distinct color definitions of this kind, comparing brightness in specific different filters, are in use. The results can be used in statistical analyzes. An example are color–magnitude diagrams, which plot object color against object brightness.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/39/\">Big Dipper</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/60/\">Color Index</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/467/\">Orion</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Цвет",
+      "body_ru": "Цвет астрономического объекта может нести важную информацию о его физических свойствах. Даже невооружённым глазом голубоватая звезда, которую вы видите в небе, например Алькаид на конце «ручки» Большого Ковша, будет значительно горячее красноватой звезды, такой как Бетельгейзе на плече Ориона. Чтобы количественно определить цвет, астрономы обычно измеряют яркость звезды при наблюдении через один из нескольких возможных специализированных синих фильтров и сравнивают её с яркостью через красный фильтр. Используется несколько различных определений цвета такого рода, сравнивающих яркость в конкретных разных фильтрах. Результаты могут использоваться в статистических анализах. Примером являются диаграммы цвет–величина, которые отображают цвет объекта в зависимости от его яркости."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/59/\">اللون </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/59/\">Farbe </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/59/\">Color </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/59/\">Couleur </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/59/\">Colore </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/59/\">색 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/59/\">Cor </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/59/\">颜色 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/59/\">顏色 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Ue74WR99VO98/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Nj29J731PG46/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/gb55uX42u43/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/od80iA38G732/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/DN58IM12xG96/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Ue74WR99VO98",
+        "media:Nj29J731PG46",
+        "media:gb55uX42u43",
+        "media:od80iA38G732",
+        "media:DN58IM12xG96"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Ue74WR99VO98/\"><img alt=\"Five bright stars form the shape of the letter M.\" src=\"/media/multimedia/thumbnails/portrait-of-bat_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Portrait of a Bat</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nTaken in November 2019 from the Doi Inthanon National Park, Chiang Mai, Thailand, this image captures the notable northern constellation Cassiopeia, in the shape of the letter M. Although the official constellation name is the Latinised version of the name of queen “Kasseipeia” from Greek mythology, these five bright stars were considered a constellation in many cultures around the world and they are associated with diverse stories. In Thailand, for example, the constellation represents a Bat, while in Hawaiian culture it is called 'Iwa Keli'i, the chief frigate bird.\n\nFor the Navajo in North America, the bright stars are the central part of the celestial mother (of all stars and humans) revolving around the celestial pole together with her husband, the celestial father (of all stars and humans) seen in the constellation of Ursa Major. For the Maya it was part of the huge constellation of the Hole-Backed Caiman, and for the Inuit a Lamp Stand and a Blubber Container.\n\nIn ancient China, the bottom-left star was associated with the mythological general Wangliang who drove four horses, represented by the two bright and two fainter stars of the M’s next stroke (from upper-left to lower-middle). The remaining two bright stars and a couple of the other fainter ones are considered a Flying Corridor, a sort of highway, next to the Emperor’s Forbidden Palace that is located at the northern polar region.\n\nOn the island of Tonga in the South Pacific, this asterism is considered the Wing of Tafahi and it is not clear if this refers to the shape of the island of Tafahi, or if it is based on an error and originally referred to a wing of the Polynesian hero Tafaki.\n\nThe various colours of the stars indicate their temperatures, with redder stars being relatively cooler on their surface than blue and white stars.<br/>\n<b>Credit:</b> Thanakrit Santikunaporn/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Nj29J731PG46/\"><img alt=\"Over trees with thick trunks, the Milky Way, with several bright objects left and right, is bisected by a wide dark line.\" src=\"/media/multimedia/thumbnails/milky-way-over-avenue-of-baobabs_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Milky Way over Avenue of Baobabs</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nThis image, taken from the Avenue of Baobabs, Morondava, Madagascar, in July 2017, shows the majestic band of the Milky Way, our home galaxy, together with a rich collection of constellations and asterisms: Crux, Centaurus, Scorpius, Sagittarius and the Teapot asterism. Towards the bottom left of the image we can see the Southern Cross and the pointer stars Alpha (the brighter of the two) and Beta Centauri, which help to distinguish it from similar-looking configurations. Some cultures in Africa associate the Southern Cross with a giraffe, while others associate the constellations with a pride of lions or even with the Tree of Life.\n\nAntares, the brightest star in the constellation Scorpius, is the orange-red star straight up from the middle baobab tree.\n\nTo the Pokomo people from southwestern Kenya, Africa, the Milky Way is associated with the smoke emanating from a campfire lit by ancient people. The various people in South Africa, in contrast, have different star tales; the Khoikhoi from the region around Cape Town explained the colours of the red and white stars as red and white roots that were roasted on a fire and thrown towards the sky together with the ashes of the fire. The Xhosa from further east consider the Milky Way the raised bristle of a huge angry dog, while the Zulu from near Johannesburg interpret it as a stream of spears of their strongest warriors.\n\nPolynesian people, who were adept seafarers and navigators, see the constellation Scorpius as a fish hook, and refer to it as the demigod Maui’s Fish Hook. For the Djab Wurrung and the Jardwadjali people, the Southern Cross is part of a Dreamtime Story involving Tchingal, the Bram-bram-bult brothers (the pointer stars), their mother Druk (Delta Crux), and Bunya, the hunter who gets changed into a possum (Gacrux, red star at the top of the Southern Cross).\n\n\nIn this image, the planets Saturn (the bright point above Antares) and Jupiter (the bright point at the bottom-right of the image close to the trunk of the baobab tree) are visible. Indigenous cultures have various stories associated with the planets, for example Kamilaroi and Wailan people associate Saturn with wunygal, a small bird. The Boorong people of Western Victoria associate Jupiter with Ginabongbearp, the chief of the old spirits (Nurrumbunguttias), who takes the totemic form of the sulphur-crested white cockatoo.<br/>\n<b>Credit:</b> Amirreza Kamkar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/gb55uX42u43/\"><img alt=\"Over a watery field, Orion is shaped like a bow-tie turned 45 degrees. The bright star Sirius is in the image's left half\" src=\"/media/multimedia/thumbnails/watchtower-and-paddy-fields-under-the-starry-sky_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Watchtower and Paddy Fields Under the Starry Sky</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nThis image, taken in April 2022, shows the sky over a plantation field around a century-old watchtower guarding a village in the province of Guangdong, China. Throughout the ages, the sky has been used as a tool for navigation and also as a calendar. By watching the apparent movement of the stars, it is possible to follow the passing of time, thereby understanding the change of the seasons which in turn helps to plan out the best timings of agricultural work.\n\nThe most prominent constellations in this image are Orion and Canis Major, the Great Dog. Commonly associated with a giant hunter in Greek mythology, Orion is followed by his hound in the shape of the constellation Canis Major.\n\nIn China, the seven bright stars of the constellation Orion are paradoxically called Three Stars (Shen) and this is one of the 28 Lunar Mansions. The Babylonian pre-zodiac, the so-called “Path of the Moon”, had 17 constellations and included Orion (therein named “True Shepherd of the Heavens”). This is not really surprising because, even in the system of the 88 modern constellations, the Moon sometimes stands in the constellation Orion. The modern constellation boundaries were defined in the 1920s in such a way that the area of Orion ends a half degree south of the ecliptic, in order to avoid the Sun entering it. Still, the Moon and the planets do occasionally. Therefore, Orion is part of the Zodiac (a stripe 5 to 10 degrees around the ecliptic), part of the path of the Moon and, of course, also used by many cultural calendars all over the world.\n\nSirius, the bright star in the left half of the photograph, is the brightest star in the night sky, and has been used by many indigenous cultures to determine their calendars; the Egyptians awaited the Nile flood with Sirius’s heliacal rise, while the Romans connected its reappearance after its invisibility in daylight with the hottest summer time. In Old China, Sirius was considered a single-star asterism called The Wolf. The adjacent area was called The Market for Soldiers and the area in the southern part of Canis Major was imagined as the Bow with an Arrow.\n\nThe reddish bright star in the top right corner is Betelgeuse, a red supergiant and one of the largest stars that can be seen with the naked eye. Orion’s Great Nebula below Orion’s Belt should be mentioned, but also the fainter huge red arc that is called Barnard’s Loop is clearly shown in this photograph. This galactic nebula and the circular red nebula around Orion’s not-so-bright head are both parts of star-forming regions, while the red nebula to the upper left of Orion is the Rosette Nebula in the unrecognisable constellation of Monoceros.<br/>\n<b>Credit:</b> Likai Lin/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/od80iA38G732/\"><img alt=\"The curve of the Milky Way bisected on the left by a huge dark arch. Below appear two bright, diffuse patches.\" src=\"/media/multimedia/thumbnails/the-milky-way-over-anglers-reach_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Milky Way Over Anglers Reach</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nThe Milky Way and several astronomical objects are seen in this image taken from the southern hemisphere, in Anglers Reach, Australia, in April 2022.\n\nOn the bottom-left side we can identify the constellation Scorpius with its brightest star, Antares, the reddish spot just above the arc. Some prominent but small southern constellations can also be seen: the dominating bright stars in the middle-left of the image in the Milky Way are the four bright stars of Crux (the Southern Cross) and to its left the two pointer stars, alpha and beta Centauri. Crux points towards the southern celestial pole, which is not marked by a bright star, and The pointer stars point towards Crux, distinguishing it from the asterism of the False Cross in the constellation Argo.\n\nCrux features on the national flags of Australia, Brazil, Papua New Guinea, Samoa and New Zealand. As Crux lies in the brightest parts of the Milky Way, the dark cloud of the famous Coalsack Nebula is prominent next to the bright stars. It forms one of the dark constellations in South American, South African and Australian indigenous cultures. The huge Australian dark constellation of the Emu is almost completely above the horizon in this image, stretching from its head in the Coal Sack to the horizon.\n\nIn Greek antiquity, the stars of Crux also belonged to the constellation Centaurus, a hybrid creature with a human torso and head attached to a horse body with four legs. The Greek centaur represents Chiron, the wise teacher of all Greek heroes. Its brightest star is Rigil Kentaurus (Alpha Centauri), the front hoof of the centaur. Just below it, we find the small constellation Triangulum Australe. The triple star system of Alpha Centauri is our Sun’s nearest stellar neighbour.\n\nAlong the Milky Way in the middle-right of the picture we find the huge constellation Argo, the Ship. The smaller ancient constellation Argo was extended by Dutch navigators around 1600, and the number of stars in this constellation was then so big that the 18th-century French mathematician Lacaille needed to introduce subtitles for Argo in his star catalogue. In doing so, he invented the constellations Puppis, Carina and Vela. In Carina, the Keel of the ship, this reddish photograph clearly displays the Carina Nebula.\n\nAt the right edge of the image we can spot the brightest star in the night sky, Sirius, while the second brightest star, Canopus, the rudder of Argo, the Ship, dominates the area under the arch of the Milky Way.\n\nAlso below the Milky Way arc, we can see the Large Magellanic Cloud and the Small Magellanic Cloud, which are small satellite galaxies of our own Galaxy.<br/>\n<b>Credit:</b> Lucy Yunxi Hu/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/DN58IM12xG96/\"><img alt=\"Orion appears as an hourglass with its belt slightly tilted relative to the horizon. The bright star Sirius is bottom-left\" src=\"/media/multimedia/thumbnails/winter-constellations_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Winter Constellations</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\nTaken from the Kottamia Astronomical Observatory, Cairo, Egypt, in December 2021, this image shows a few prominent winter constellations of the northern sky above the largest telescope in North Africa.\n\nThe photograph depicts the constellation of Orion (prominently in the middle of the image) with its belt of stars pointing up to Aldebaran in Taurus and down to Sirius in Canis Major. Aldebaran is a reddish star that we see in front of the open star cluster of the Hyades (at the upper right edge of the image), which is the face of Taurus, the bull. The bright white star is Sirius, the brightest star in the night sky. Its Greek name (Seirios) means “the burner” and can be understood metaphorically as “the brightest”.\n\nThis constellation has been represented in a variety of different cultures from all over the world. The ancient Egyptian religion also associates the constellation of Orion with a male figure, namely the god Osiris. It is told that Osiris was murdered by his envious brother Seth, who then dismembered the body and scattered the pieces all over the land. Fortunately, Osiris’s sister-wife Aset (Greek: Isis) is the most powerful sorceress and protective mother goddess. She collected the pieces, put them back together and breathed life back into the god. Aset is seen in the star pattern around the bright star Sirius at the bottom of the photograph. The Egyptian name for Sirius (and adjacent areas) is Sopdet (Greek: Sothis). The heliacal rise of Sirius in summer was a harbinger of the Egyptian new year. \n\nGoing north, we can spot a bluish star. This is Alhena, one of the stars in the feet of the zodiacal constellation Gemini, the twins, whose bright head stars would be beyond the upper left edge of the photograph. In the top centre we can see the star Elnath, in the constellation of Auriga, the charioteer. It is associated with Erichthonius, a hero of Greek mythology believed to be the inventor of the four-horse chariot. This same star is also considered the tip of the upper horn of Taurus, the bull. In Greek mythology Taurus is associated with the god Zeus who had sent him to rob a princess. It is commonly known that this Greek story was invented in order to include the Babylonian constellation in Greek mythology. In the Mesopotamian Gilgamesh saga, which is one of the oldest pieces of literature that we know (being traced back to the 3rd millennium), Taurus is the bull of heaven, sent by a jealous goddess and defeated by the king of Uruk to save his people. In the sky it harbours several interesting astronomical objects.<br/>\n<b>Credit:</b> Mohamed Aboushelib/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/iq40Hc92ni31/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:iq40Hc92ni31"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/iq40Hc92ni31/\"><img alt=\"A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line\" src=\"/media/diagrams/multimedia/thumbnails/hr_diagram_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hertzsprung-Russell diagram</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\n \nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\n \nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.<br/>\n<b>Credit:</b> IAU OAE/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Reading the Rainbow astroEDU educational activity (links to astroEDU website) Description: By understanding how rainbows work, you can discover about light and its properties, learning about stars, nebulae, galaxies, and our Universe. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School \n  \n, Secondary \n  \n, University Areas of Learning: Interactive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/reading-the-rainbow/\"><img alt=\"Reading the Rainbow\" src=\"/media/astroedu/images/reading-the-rainbow_en_thumbnail_l7aHVAc.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/reading-the-rainbow/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Reading the Rainbow</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>By understanding how rainbows work, you can discover about light and its properties, learning about stars, nebulae, galaxies, and our Universe.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n, Secondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Чтение радуги — образовательная деятельность astroEDU (ссылки на сайт astroEDU) Описание: Понимая, как работает радуга, вы можете узнать о свете и его свойствах, изучая звёзды, туманности, галактики и нашу Вселенную. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Среднее образование \n  \n, Университет Области обучения: Интерактивная лекция \n  \n, На основе наблюдений \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Участие в аргументации на основе доказательств"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Color",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Color",
+          "body": "The color of an astronomical object can carry important information about its physical properties. Even with the naked eye, a blueish star you see in the sky, such as Alkaid at the end of the \"handle\" of the Big Dipper, will be considerably hotter than a reddish star, such as Betelgeuse at the shoulder of Orion. In order to quantify color, astronomers typically determine a star's brightness when seen through one of several possible specialized blue filters and compare to the brightness through a red filter. Several distinct color definitions of this kind, comparing brightness in specific different filters, are in use. The results can be used in statistical analyzes. An example are color–magnitude diagrams, which plot object color against object brightness."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Reading the Rainbow astroEDU educational activity (links to astroEDU website) Description: By understanding how rainbows work, you can discover about light and its properties, learning about stars, nebulae, galaxies, and our Universe. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School \n  \n, Secondary \n  \n, University Areas of Learning: Interactive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence"
+        }
+      }
+    },
+    "ru": {
+      "title": "Цвет",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Цвет",
+          "body": "Цвет астрономического объекта может нести важную информацию о его физических свойствах. Даже невооружённым глазом голубоватая звезда, которую вы видите в небе, например Алькаид на конце «ручки» Большого Ковша, будет значительно горячее красноватой звезды, такой как Бетельгейзе на плече Ориона. Чтобы количественно определить цвет, астрономы обычно измеряют яркость звезды при наблюдении через один из нескольких возможных специализированных синих фильтров и сравнивают её с яркостью через красный фильтр. Используется несколько различных определений цвета такого рода, сравнивающих яркость в конкретных разных фильтрах. Результаты могут использоваться в статистических анализах. Примером являются диаграммы цвет–величина, которые отображают цвет объекта в зависимости от его яркости."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Чтение радуги — образовательная деятельность astroEDU (ссылки на сайт astroEDU) Описание: Понимая, как работает радуга, вы можете узнать о свете и его свойствах, изучая звёзды, туманности, галактики и нашу Вселенную. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Среднее образование \n  \n, Университет Области обучения: Интерактивная лекция \n  \n, На основе наблюдений \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Участие в аргументации на основе доказательств"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Ue74WR99VO98",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425613/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Portrait%20of%20Bat%2C%20by%20Thanakrit%20Santikunaporn.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Ue74WR99VO98/",
+      "original_path": "data/media/original/media_Ue74WR99VO98.jpg",
+      "ru_path": null,
+      "sha256": "d0f4fd3cced6a560c15268428e2b2744761d4f51b6e615647d96a41a793f785e",
+      "size": 9647631,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Portrait of a Bat",
+      "short_caption_ru": "Портрет летучей мыши",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nTaken in November 2019 from the Doi Inthanon National Park, Chiang Mai, Thailand, this image captures the notable northern constellation Cassiopeia, in the shape of the letter M. Although the official constellation name is the Latinised version of the name of queen “Kasseipeia” from Greek mythology, these five bright stars were considered a constellation in many cultures around the world and they are associated with diverse stories. In Thailand, for example, the constellation represents a Bat, while in Hawaiian culture it is called 'Iwa Keli'i, the chief frigate bird.\r\n\r\nFor the Navajo in North America, the bright stars are the central part of the celestial mother (of all stars and humans) revolving around the celestial pole together with her husband, the celestial father (of all stars and humans) seen in the constellation of Ursa Major. For the Maya it was part of the huge constellation of the Hole-Backed Caiman, and for the Inuit a Lamp Stand and a Blubber Container.\r\n\r\nIn ancient China, the bottom-left star was associated with the mythological general Wangliang who drove four horses, represented by the two bright and two fainter stars of the M’s next stroke (from upper-left to lower-middle). The remaining two bright stars and a couple of the other fainter ones are considered a Flying Corridor, a sort of highway, next to the Emperor’s Forbidden Palace that is located at the northern polar region.\r\n\r\nOn the island of Tonga in the South Pacific, this asterism is considered the Wing of Tafahi and it is not clear if this refers to the shape of the island of Tafahi, or if it is based on an error and originally referred to a wing of the Polynesian hero Tafaki.\r\n\r\nThe various colours of the stars indicate their temperatures, with redder stars being relatively cooler on their surface than blue and white stars.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nСнятое в ноябре 2019 года в национальном парке Дой-Интханон, Чиангмай, Таиланд, это изображение запечатлело заметное северное созвездие Кассиопеи в форме буквы M. Хотя официальное название созвездия является латинизированной версией имени царицы «Кассиопеи» из греческой мифологии, эти пять ярких звёзд считались созвездием во многих культурах по всему миру, и с ними связаны разнообразные истории. В Таиланде, например, созвездие представляет летучую мышь, а в гавайской культуре оно называется 'Iwa Keli'i, главный фрегат (птица).\r\n\r\nДля навахо в Северной Америке яркие звёзды являются центральной частью небесной матери (всех звёзд и людей), вращающейся вокруг небесного полюса вместе со своим мужем, небесным отцом (всех звёзд и людей), видимым в созвездии Большой Медведицы. Для майя это была часть огромного созвездия Каймана с дырой в спине, а для инуитов — подставка для лампы и контейнер для жира.\r\n\r\nВ древнем Китае нижняя левая звезда ассоциировалась с мифологическим генералом Ванляном, который управлял четырьмя лошадьми, представленными двумя яркими и двумя более слабыми звёздами следующего штриха M (от верхнего левого к нижнему среднему). Оставшиеся две яркие звезды и пара других более слабых считаются Летящим Коридором, своего рода шоссе, рядом с Запретным дворцом Императора, расположенным в северной полярной области.\r\n\r\nНа острове Тонга в южной части Тихого океана этот астеризм считается Крылом Тафахи, и неясно, относится ли это к форме острова Тафахи или основано на ошибке и изначально относилось к крылу полинезийского героя Тафаки.\r\n\r\nРазличные цвета звёзд указывают на их температуры: более красные звёзды относительно холоднее на своей поверхности, чем голубые и белые звёзды.",
+      "alt_en": "Five bright stars form the shape of the letter M.",
+      "alt_ru": "Пять ярких звёзд образуют форму буквы M.",
+      "credit": "Thanakrit Santikunaporn/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        66,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Nj29J731PG46",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7424009/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Milky%20Way%20over%20Avenue%20of%20Baobabs%2C%20by%20Amirreza%20Kamkar.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Nj29J731PG46/",
+      "original_path": "data/media/original/media_Nj29J731PG46.jpg",
+      "ru_path": null,
+      "sha256": "94d38f5f0fb8731768a63b6ca37a691e81535dfcabd3d8e0429522ff6d60728d",
+      "size": 3198798,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Milky Way over Avenue of Baobabs",
+      "short_caption_ru": "Млечный Путь над Аллеей баобабов",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image, taken from the Avenue of Baobabs, Morondava, Madagascar, in July 2017, shows the majestic band of the Milky Way, our home galaxy, together with a rich collection of constellations and asterisms: Crux, Centaurus, Scorpius, Sagittarius and the Teapot asterism. Towards the bottom left of the image we can see the Southern Cross and the pointer stars Alpha (the brighter of the two) and Beta Centauri, which help to distinguish it from similar-looking configurations. Some cultures in Africa associate the Southern Cross with a giraffe, while others associate the constellations with a pride of lions or even with the Tree of Life.\r\n\r\nAntares, the brightest star in the constellation Scorpius, is the orange-red star straight up from the middle baobab tree.\r\n\r\nTo the Pokomo people from southwestern Kenya, Africa, the Milky Way is associated with the smoke emanating from a campfire lit by ancient people. The various people in South Africa, in contrast, have different star tales; the Khoikhoi from the region around Cape Town explained the colours of the red and white stars as red and white roots that were roasted on a fire and thrown towards the sky together with the ashes of the fire. The Xhosa from further east consider the Milky Way the raised bristle of a huge angry dog, while the Zulu from near Johannesburg interpret it as a stream of spears of their strongest warriors.\r\n\r\nPolynesian people, who were adept seafarers and navigators, see the constellation Scorpius as a fish hook, and refer to it as the demigod Maui’s Fish Hook. For the Djab Wurrung and the Jardwadjali people, the Southern Cross is part of a Dreamtime Story involving Tchingal, the Bram-bram-bult brothers (the pointer stars), their mother Druk (Delta Crux), and Bunya, the hunter who gets changed into a possum (Gacrux, red star at the top of the Southern Cross).\r\n\r\n\r\nIn this image, the planets Saturn (the bright point above Antares) and Jupiter (the bright point at the bottom-right of the image close to the trunk of the baobab tree) are visible. Indigenous cultures have various stories associated with the planets, for example Kamilaroi and Wailan people associate Saturn with wunygal, a small bird. The Boorong people of Western Victoria associate Jupiter with Ginabongbearp, the chief of the old spirits (Nurrumbunguttias), who takes the totemic form of the sulphur-crested white cockatoo.",
+      "caption_ru": "Победитель на конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение, снятое в Аллее баобабов, Мурундава, Мадагаскар, в июле 2017, показывает величественную полосу Млечного Пути, нашей родной галактики, вместе с богатой коллекцией созвездий и астеризмов: Южный Крест, Центавр, Скорпион, Стрелец и астеризм Чайник. В левой нижней части изображения мы видим Южный Крест и указатели — Альфу (более яркую из двух) и Бету Центавра, которые помогают отличить его от похожих конфигураций. Некоторые культуры Африки связывают Южный Крест с жирафом, другие связывают созвездия с прайдом львов или даже с Древом Жизни.\r\n\r\nАнтарес, самая яркая звезда в созвездии Скорпиона, — это оранжево-красная звезда прямо над средним баобабом.\r\n\r\nДля народа покомо из юго-западной Кении, Африка, Млечный Путь связан с дымом, исходящим от костра, зажжённого древними людьми. Различные народы Южной Африки, напротив, имеют разные звёздные сказания; койкой из района вокруг Кейптауна объясняли цвета красных и белых звёзд как красные и белые корни, которые жарились на огне и были брошены в небо вместе с пеплом костра. Коса с востока считают Млечный Путь поднятой щетиной огромной разъярённой собаки, а зулусы из окрестностей Йоханнесбурга интерпретируют его как поток копий их сильнейших воинов.\r\n\r\nПолинезийцы, искусные мореплаватели и навигаторы, видят созвездие Скорпиона как рыболовный крючок и называют его Рыболовным крючком полубога Мауи. Для народов джаб-вуррунг и джардваджали Южный Крест является частью истории Времени сновидений, включающей Чингала, братьев Брам-брам-булт (указатели), их мать Друк (Дельта Южного Креста) и Бунью, охотника, который превращается в опоссума (Гакрукс, красная звезда в верхней части Южного Креста).\r\n\r\n\r\nНа этом изображении видны планеты Сатурн (яркая точка над Антаресом) и Юпитер (яркая точка в правом нижнем углу изображения рядом со стволом баобаба). У коренных культур есть различные истории, связанные с планетами, например, народы камиларой и уэйлан связывают Сатурн с вуньгалом, маленькой птицей. Народ бурронг из западной Виктории связывает Юпитер с Гинабонгбеарпом, вождём древних духов (Нуррумбунгуттиас), который принимает тотемную форму белого какаду с серным хохолком.",
+      "alt_en": "Over trees with thick trunks, the Milky Way, with several bright objects left and right, is bisected by a wide dark line.",
+      "alt_ru": "Над деревьями с толстыми стволами Млечный Путь с несколькими яркими объектами слева и справа пересекается широкой тёмной полосой.",
+      "credit": "Amirreza Kamkar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        85,
+        167,
+        199,
+        294,
+        299,
+        318,
+        438,
+        472,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:gb55uX42u43",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425219/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Watchtower%20and%20Paddy%20Fields%20Under%20the%20Starry%20Sky%2C%20by%20Likai%20Lin.jpg",
+      "record_url": "https://astro4edu.org/resources/media/gb55uX42u43/",
+      "original_path": "data/media/original/media_gb55uX42u43.jpg",
+      "ru_path": null,
+      "sha256": "1d2d2ed80dade371918300231d9ef48a312a7e06b1441083f0aa605dc5dfc6d9",
+      "size": 19985797,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Watchtower and Paddy Fields Under the Starry Sky",
+      "short_caption_ru": "Сторожевая башня и рисовые поля под звёздным небом",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image, taken in April 2022, shows the sky over a plantation field around a century-old watchtower guarding a village in the province of Guangdong, China. Throughout the ages, the sky has been used as a tool for navigation and also as a calendar. By watching the apparent movement of the stars, it is possible to follow the passing of time, thereby understanding the change of the seasons which in turn helps to plan out the best timings of agricultural work.\r\n\r\nThe most prominent constellations in this image are Orion and Canis Major, the Great Dog. Commonly associated with a giant hunter in Greek mythology, Orion is followed by his hound in the shape of the constellation Canis Major.\r\n\r\nIn China, the seven bright stars of the constellation Orion are paradoxically called Three Stars (Shen) and this is one of the 28 Lunar Mansions. The Babylonian pre-zodiac, the so-called “Path of the Moon”, had 17 constellations and included Orion (therein named “True Shepherd of the Heavens”). This is not really surprising because, even in the system of the 88 modern constellations, the Moon sometimes stands in the constellation Orion. The modern constellation boundaries were defined in the 1920s in such a way that the area of Orion ends a half degree south of the ecliptic, in order to avoid the Sun entering it. Still, the Moon and the planets do occasionally. Therefore, Orion is part of the Zodiac (a stripe 5 to 10 degrees around the ecliptic), part of the path of the Moon and, of course, also used by many cultural calendars all over the world.\r\n\r\nSirius, the bright star in the left half of the photograph, is the brightest star in the night sky, and has been used by many indigenous cultures to determine their calendars; the Egyptians awaited the Nile flood with Sirius’s heliacal rise, while the Romans connected its reappearance after its invisibility in daylight with the hottest summer time. In Old China, Sirius was considered a single-star asterism called The Wolf. The adjacent area was called The Market for Soldiers and the area in the southern part of Canis Major was imagined as the Bow with an Arrow.\r\n\r\nThe reddish bright star in the top right corner is Betelgeuse, a red supergiant and one of the largest stars that can be seen with the naked eye. Orion’s Great Nebula below Orion’s Belt should be mentioned, but also the fainter huge red arc that is called Barnard’s Loop is clearly shown in this photograph. This galactic nebula and the circular red nebula around Orion’s not-so-bright head are both parts of star-forming regions, while the red nebula to the upper left of Orion is the Rosette Nebula in the unrecognisable constellation of Monoceros.",
+      "caption_ru": "Победитель на конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение, снятое в апреле 2022, показывает небо над плантационным полем вокруг вековой сторожевой башни, охраняющей деревню в провинции Гуандун, Китай. На протяжении веков небо использовалось как инструмент для навигации, а также как календарь. Наблюдая за видимым движением звёзд, можно следить за течением времени, тем самым понимая смену времён года, что, в свою очередь, помогает планировать лучшее время для сельскохозяйственных работ.\r\n\r\nНаиболее заметные созвездия на этом изображении — Орион и Большой Пёс. Обычно ассоциируемый с гигантским охотником в греческой мифологии, Орион сопровождается своей гончей в виде созвездия Большого Пса.\r\n\r\nВ Китае семь ярких звёзд созвездия Ориона парадоксально называются Три Звезды (Шэнь), и это одно из 28 лунных стоянок. Вавилонский пред-зодиак, так называемый «Путь Луны», имел 17 созвездий и включал Орион (там называемый «Истинный Пастырь Небес»). Это не удивительно, потому что даже в системе 88 современных созвездий Луна иногда находится в созвездии Ориона. Границы современных созвездий были определены в 1920-х годах таким образом, чтобы область Ориона заканчивалась на полградуса южнее эклиптики, чтобы Солнце не входило в неё. Тем не менее, Луна и планеты иногда это делают. Поэтому Орион является частью Зодиака (полосы от 5 до 10 градусов вокруг эклиптики), частью пути Луны и, конечно, также используется многими культурными календарями по всему миру.\r\n\r\nСириус, яркая звезда в левой половине фотографии, — самая яркая звезда ночного неба, и многие коренные культуры использовали её для определения своих календарей; египтяне ожидали разлива Нила с гелиакическим восходом Сириуса, а римляне связывали его повторное появление после невидимости в дневное время с самым жарким летним временем. В Древнем Китае Сириус считался односозвездием под названием Волк. Прилегающая область называлась Рынком для Солдат, а область в южной части Большого Пса представлялась как Лук со Стрелой.\r\n\r\nКрасноватая яркая звезда в правом верхнем углу — Бетельгейзе, красный сверхгигант и одна из крупнейших звёзд, видимых невооружённым глазом. Следует упомянуть Большую туманность Ориона под Поясом Ориона, а также более слабую огромную красную дугу, называемую Петлёй Барнарда, которая ясно видна на этой фотографии. Эта галактическая туманность и круглая красная туманность вокруг не очень яркой головы Ориона обе являются частями областей звездообразования, а красная туманность в верхнем левом углу от Ориона — это туманность Розетка в неузнаваемом созвездии Единорога.",
+      "alt_en": "Over a watery field, Orion is shaped like a bow-tie turned 45 degrees. The bright star Sirius is in the image's left half",
+      "alt_ru": "Над водной гладью Орион имеет форму галстука-бабочки, повернутого на 45 градусов. Яркая звезда Сириус находится в левой половине изображения",
+      "credit": "Likai Lin/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        66,
+        278,
+        331,
+        467
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:od80iA38G732",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425274/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20The%20Milky%20Way%20over%20Anglers%20Reach%2C%20by%20Lucy%20Yunxi%20Hu.jpg",
+      "record_url": "https://astro4edu.org/resources/media/od80iA38G732/",
+      "original_path": "data/media/original/media_od80iA38G732.jpg",
+      "ru_path": null,
+      "sha256": "e27a93068cac7f02c66998e0a835f29bb183b7e6894d5d4241b98068c8a9aa7c",
+      "size": 9388399,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Milky Way Over Anglers Reach",
+      "short_caption_ru": "Млечный Путь над Англерс-Рич",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThe Milky Way and several astronomical objects are seen in this image taken from the southern hemisphere, in Anglers Reach, Australia, in April 2022.\r\n\r\nOn the bottom-left side we can identify the constellation Scorpius with its brightest star, Antares, the reddish spot just above the arc. Some prominent but small southern constellations can also be seen: the dominating bright stars in the middle-left of the image in the Milky Way are the four bright stars of Crux (the Southern Cross) and to its left the two pointer stars, alpha and beta Centauri. Crux points towards the southern celestial pole, which is not marked by a bright star, and The pointer stars point towards Crux, distinguishing it from the asterism of the False Cross in the constellation Argo.\r\n\r\nCrux features on the national flags of Australia, Brazil, Papua New Guinea, Samoa and New Zealand. As Crux lies in the brightest parts of the Milky Way, the dark cloud of the famous Coalsack Nebula is prominent next to the bright stars. It forms one of the dark constellations in South American, South African and Australian indigenous cultures. The huge Australian dark constellation of the Emu is almost completely above the horizon in this image, stretching from its head in the Coal Sack to the horizon.\r\n\r\nIn Greek antiquity, the stars of Crux also belonged to the constellation Centaurus, a hybrid creature with a human torso and head attached to a horse body with four legs. The Greek centaur represents Chiron, the wise teacher of all Greek heroes. Its brightest star is Rigil Kentaurus (Alpha Centauri), the front hoof of the centaur. Just below it, we find the small constellation Triangulum Australe. The triple star system of Alpha Centauri is our Sun’s nearest stellar neighbour.\r\n\r\nAlong the Milky Way in the middle-right of the picture we find the huge constellation Argo, the Ship. The smaller ancient constellation Argo was extended by Dutch navigators around 1600, and the number of stars in this constellation was then so big that the 18th-century French mathematician Lacaille needed to introduce subtitles for Argo in his star catalogue. In doing so, he invented the constellations Puppis, Carina and Vela. In Carina, the Keel of the ship, this reddish photograph clearly displays the Carina Nebula.\r\n\r\nAt the right edge of the image we can spot the brightest star in the night sky, Sirius, while the second brightest star, Canopus, the rudder of Argo, the Ship, dominates the area under the arch of the Milky Way.\r\n\r\nAlso below the Milky Way arc, we can see the Large Magellanic Cloud and the Small Magellanic Cloud, which are small satellite galaxies of our own Galaxy.",
+      "caption_ru": "Победитель в 2022 конкурсе астрофотографии IAU OAE, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nМлечный Путь и несколько астрономических объектов видны на этом снимке, сделанном из южного полушария, в Англерс-Рич, Австралия, в апреле 2022.\r\n\r\nВ нижней левой части мы можем идентифицировать созвездие Скорпиона с его самой яркой звездой Антарес, красноватой точкой чуть выше дуги. Также видны некоторые заметные, но небольшие южные созвездия: доминирующие яркие звезды в средней левой части изображения на Млечном Пути — это четыре яркие звезды Южного Креста (Crux), а слева от него — две указательные звезды, альфа и бета Центавра. Южный Крест указывает на южный небесный полюс, который не отмечен яркой звездой, а указательные звезды указывают на Южный Крест, отличая его от астеризма Ложный Крест в созвездии Арго.\r\n\r\nЮжный Крест изображен на государственных флагах Австралии, Бразилии, Папуа-Новой Гвинеи, Самоа и Новой Зеландии. Поскольку Южный Крест лежит в самых ярких частях Млечного Пути, темное облако знаменитой туманности Угольный Мешок заметно рядом с яркими звездами. Оно образует одно из темных созвездий в южноамериканской, южноафриканской и австралийской культурах коренных народов. Огромное австралийское темное созвездие Эму почти полностью находится над горизонтом на этом изображении, простираясь от своей головы в Угольном Мешке до горизонта.\r\n\r\nВ греческой древности звезды Южного Креста также принадлежали созвездию Центавра, гибридному существу с человеческим торсом и головой, прикрепленными к телу лошади с четырьмя ногами. Греческий кентавр представляет Хирона, мудрого учителя всех греческих героев. Его самая яркая звезда — Ригил Кентаурус (Альфа Центавра), переднее копыто кентавра. Чуть ниже мы находим небольшое созвездие Южный Треугольник. Тройная звездная система Альфа Центавра является ближайшим звездным соседом нашего Солнца.\r\n\r\nВдоль Млечного Пути в средней правой части изображения мы находим огромное созвездие Арго, Корабль. Меньшее древнее созвездие Арго было расширено голландскими мореплавателями около 1600, и количество звезд в этом созвездии стало настолько большим, что французскому математику Лакайлю в 18 веке потребовалось ввести подразделы для Арго в своем звездном каталоге. Таким образом, он изобрел созвездия Корма, Киль и Паруса. В Киле, корме корабля, этот красноватый снимок ясно показывает туманность Киля.\r\n\r\nНа правом краю изображения мы можем заметить самую яркую звезду ночного неба, Сириус, в то время как вторая по яркости звезда, Канопус, руль Арго, Корабля, доминирует над областью под дугой Млечного Пути.\r\n\r\nТакже под дугой Млечного Пути мы можем видеть Большое Магелланово Облако и Малое Магелланово Облако, которые являются небольшими спутниковыми галактиками нашей собственной Галактики.",
+      "alt_en": "The curve of the Milky Way bisected on the left by a huge dark arch. Below appear two bright, diffuse patches.",
+      "alt_ru": "Изгиб Млечного Пути, разделенный слева огромной темной аркой. Внизу видны два ярких, диффузных пятна.",
+      "credit": "Lucy Yunxi Hu/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        85,
+        199,
+        299,
+        318,
+        438,
+        472,
+        499,
+        500,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:DN58IM12xG96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425288/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Winter%20Constellations%2C%20by%20Mohamed%20Aboushelib.jpg",
+      "record_url": "https://astro4edu.org/resources/media/DN58IM12xG96/",
+      "original_path": "data/media/original/media_DN58IM12xG96.jpg",
+      "ru_path": null,
+      "sha256": "d204c1157d038ca26d3ee92616527b4dce0616c7aaf0306c255db564624a5e0e",
+      "size": 21086657,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Winter Constellations",
+      "short_caption_ru": "Зимние созвездия",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\nTaken from the Kottamia Astronomical Observatory, Cairo, Egypt, in December 2021, this image shows a few prominent winter constellations of the northern sky above the largest telescope in North Africa.\r\n\r\nThe photograph depicts the constellation of Orion (prominently in the middle of the image) with its belt of stars pointing up to Aldebaran in Taurus and down to Sirius in Canis Major. Aldebaran is a reddish star that we see in front of the open star cluster of the Hyades (at the upper right edge of the image), which is the face of Taurus, the bull. The bright white star is Sirius, the brightest star in the night sky. Its Greek name (Seirios) means “the burner” and can be understood metaphorically as “the brightest”.\r\n\r\nThis constellation has been represented in a variety of different cultures from all over the world. The ancient Egyptian religion also associates the constellation of Orion with a male figure, namely the god Osiris. It is told that Osiris was murdered by his envious brother Seth, who then dismembered the body and scattered the pieces all over the land. Fortunately, Osiris’s sister-wife Aset (Greek: Isis) is the most powerful sorceress and protective mother goddess. She collected the pieces, put them back together and breathed life back into the god. Aset is seen in the star pattern around the bright star Sirius at the bottom of the photograph. The Egyptian name for Sirius (and adjacent areas) is Sopdet (Greek: Sothis). The heliacal rise of Sirius in summer was a harbinger of the Egyptian new year. \r\n\r\nGoing north, we can spot a bluish star. This is Alhena, one of the stars in the feet of the zodiacal constellation Gemini, the twins, whose bright head stars would be beyond the upper left edge of the photograph. In the top centre we can see the star Elnath, in the constellation of Auriga, the charioteer. It is associated with Erichthonius, a hero of Greek mythology believed to be the inventor of the four-horse chariot. This same star is also considered the tip of the upper horn of Taurus, the bull. In Greek mythology Taurus is associated with the god Zeus who had sent him to rob a princess. It is commonly known that this Greek story was invented in order to include the Babylonian constellation in Greek mythology. In the Mesopotamian Gilgamesh saga, which is one of the oldest pieces of literature that we know (being traced back to the 3rd millennium), Taurus is the bull of heaven, sent by a jealous goddess and defeated by the king of Uruk to save his people. In the sky it harbours several interesting astronomical objects.",
+      "caption_ru": "Победитель в 2022 конкурсе астрофотографии IAU OAE, категория «Неподвижные изображения небесных узоров».\r\n\r\nСнято в Астрономической обсерватории Коттамия, Каир, Египет, в декабре 2021, это изображение показывает несколько заметных зимних созвездий северного неба над крупнейшим телескопом Северной Африки.\r\n\r\nНа фотографии изображено созвездие Ориона (заметно в середине изображения) с его поясом звезд, указывающим вверх на Альдебаран в Тельце и вниз на Сириус в Большом Псе. Альдебаран — красноватая звезда, которую мы видим перед рассеянным звездным скоплением Гиады (на верхнем правом краю изображения), которое является лицом Тельца, быка. Яркая белая звезда — Сириус, самая яркая звезда ночного неба. Его греческое название (Seirios) означает «жгучий» и может пониматься метафорически как «самый яркий».\r\n\r\nЭто созвездие было представлено в различных культурах по всему миру. Древнеегипетская религия также связывает созвездие Ориона с мужской фигурой, а именно с богом Осирисом. Говорят, что Осирис был убит своим завистливым братом Сетом, который затем расчленил тело и разбросал части по всей земле. К счастью, сестра-жена Осириса Асет (греч.: Исида) — самая могущественная волшебница и защитница-богиня-мать. Она собрала части, соединила их и вдохнула жизнь обратно в бога. Асет видна в звездном узоре вокруг яркой звезды Сириус в нижней части фотографии. Египетское название Сириуса (и прилегающих областей) — Сопдет (греч.: Сотис). Гелиакический восход Сириуса летом был предвестником египетского нового года. \r\n\r\nДвигаясь на север, мы можем заметить голубоватую звезду. Это Альхена, одна из звезд в ногах зодиакального созвездия Близнецов, чьи яркие головные звезды находились бы за верхним левым краем фотографии. В верхнем центре мы можем видеть звезду Эльнат, в созвездии Возничего. Он связан с Эрихтонием, героем греческой мифологии, считающимся изобретателем четырехконной колесницы. Эта же звезда также считается кончиком верхнего рога Тельца, быка. В греческой мифологии Телец связан с богом Зевсом, который послал его похитить принцессу. Общеизвестно, что эта греческая история была придумана, чтобы включить вавилонское созвездие в греческую мифологию. В месопотамской саге о Гильгамеше, которая является одним из старейших известных нам литературных произведений (восходящим к 3-му тысячелетию), Телец — это небесный бык, посланный ревнивой богиней и побежденный царем Урука, чтобы спасти свой народ. На небе он содержит несколько интересных астрономических объектов.",
+      "alt_en": "Orion appears as an hourglass with its belt slightly tilted relative to the horizon. The bright star Sirius is bottom-left",
+      "alt_ru": "Орион выглядит как песочные часы с поясом, слегка наклоненным относительно горизонта. Яркая звезда Сириус находится внизу слева",
+      "credit": "Mohamed Aboushelib/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        66,
+        351,
+        467
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:iq40Hc92ni31",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hr_diagram_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/iq40Hc92ni31/",
+      "original_path": "data/media/original/diagram_iq40Hc92ni31.png",
+      "ru_path": "data/media/ru/diagram_iq40Hc92ni31.png",
+      "sha256": "031aed503f490c077502cc7087d8513da6a8f909cb63d2e84ab377b6111d2345",
+      "size": 66045,
+      "title_en": "Hertzsprung-Russell diagram",
+      "title_ru": "Диаграмма Герцшпрунга — Рассела",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\r\n \r\nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\r\n \r\nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.",
+      "caption_ru": "На этой диаграмме показаны температура и светимость различных звёзд. Размер каждой точки соответствует радиусу звезды, а её цвет — это цвет, который увидел бы человеческий глаз. Цвета звёзд варьируются от бледно-голубого до бледно-красновато-оранжевого. Ни одна звезда не имеет чистого цвета, такого как красный, зелёный или синий, поскольку спектры звёзд включают свет множества разных цветов. Однако самые красные звёзды обычно называют красными, а самые голубые — синими. Выборка звёзд, использованная для построения этой диаграммы, была подобрана так, чтобы показать широкий диапазон звёзд разных типов, поэтому относительное количество каждого типа звёзд не отражает того, насколько часто встречается каждый тип.\r\n \r\nОт верхнего левого угла к нижнему правому идёт длинная линия звёзд, сжигающих водород в своих ядрах. Это называется главной последовательностью. На этой линии видны звёзды Минтака, Ахернар, Сириус A, Солнце и Проксима Центавра. Объекты вокруг Проксимы Центавра на нижнем правом конце главной последовательности известны как красные карлики. Ниже и правее красных карликов находятся Тейде 1 и Келу-1 A. Эти два объекта — коричневые карлики, объекты со слишком малой массой, чтобы их ядра были достаточно горячими для длительного синтеза водорода. Поскольку они не сжигают водород, коричневые карлики не считаются звёздами главной последовательности. Название «коричневый карлик» не связано с их цветом.\r\n \r\nНад главной последовательностью мы находим субгиганты, гиганты и сверхгиганты. Это звёзды, которые завершили сжигание водорода в своём ядре и превратились в более крупные объекты. Яркость звезды зависит от её температуры и размера, поэтому звёзды-гиганты ярче звёзд с меньшим радиусом, но той же температурой. Со временем эти объекты приблизятся к концу своей жизни и пройдут либо фазу планетарной туманности, либо станут сверхновыми. Звёзды, завершающие жизнь фазой планетарной туманности, становятся типом звёздного остатка, называемым белым карликом. Такие объекты гораздо меньше звёзд той же температуры и, следовательно, слабее, и находятся значительно ниже главной последовательности. Звёзды, завершающие жизнь как сверхновые, становятся либо чёрными дырами, либо нейтронными звёздами. Они не показаны на этом графике.",
+      "alt_en": "A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line",
+      "alt_ru": "Линия звёзд идёт от холодных слабых звёзд к горячим ярким звёздам. Некоторые звёзды лежат выше или ниже этой линии",
+      "credit": "IAU OAE/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        46,
+        59,
+        130,
+        143,
+        180,
+        186,
+        334,
+        347,
+        386,
+        440,
+        481,
+        503
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "968a1f2e187f12de7451aef8a3b18cf42dbb0a047cac3b2eaab106a35408146d"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

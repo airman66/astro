@@ -1,0 +1,480 @@
+{
+  "id": "term:343",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 343,
+    "url": "https://astro4edu.org/resources/glossary/term/343/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=343",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:57.662477+00:00",
+    "sha256": "9ef5f39b177bca2540fa992365335fc6710adc29a367dd3bb4237bc95bfa8558"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      34,
+      145,
+      317,
+      436,
+      488,
+      489
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Sun Path (Day Arc)",
+      "body": "The Sun's path or day arc traces the apparent motion of the Sun in the sky, as seen by an observer at a fixed position on Earth. Each day, the path traces out an arc, starting with sunrise in the eastern part of the sky and ending with sunset in the western part. Only at the spring and autumn equinoxes does the Sun rise exactly due east and set exactly due west. At the winter solstice, the arc is shortest and lowest in the sky. From then on, the length of that arc, and with it the length of the day, increases, and each successive arc is higher in the sky than the day before, reaching maximum height, and maximum day length, at the summer solstice. This process then repeats in the opposite order, again reaching the shortest, lowest arc at winter solstice. North of the Arctic Circle and south of the Antarctic Circle the Sun does not rise for extended periods in winter or set for extended periods in summer. Hence, they can have nights that last several months in the winter and days that last several months in the summer. During one of these polar days the Sun travels around the sky in a circle, moving from a high point at midday to a low point at midnight without ever crossing the horizon. The set of solar arcs can be captured in a long-term exposure image called a solargraph.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Equinox",
+          "url": "https://www.astro4edu.org/resources/glossary/term/34/",
+          "text_ru": "Равноденствие"
+        },
+        {
+          "text": "Horizon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/145/",
+          "text_ru": "Горизонт"
+        },
+        {
+          "text": "Solstice",
+          "url": "https://www.astro4edu.org/resources/glossary/term/317/",
+          "text_ru": "Солнцестояние"
+        },
+        {
+          "text": "Day",
+          "url": "https://www.astro4edu.org/resources/glossary/term/436/",
+          "text_ru": "День"
+        },
+        {
+          "text": "Arctic Circle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/488/",
+          "text_ru": "Северный полярный круг"
+        },
+        {
+          "text": "Antarctic Circle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/489/",
+          "text_ru": "Южный полярный круг"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Sun Path (Day Arc)</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The Sun's path or day arc traces the apparent motion of the Sun in the sky, as seen by an observer at a fixed position on Earth. Each day, the path traces out an arc, starting with sunrise in the eastern part of the sky and ending with sunset in the western part. Only at the spring and autumn equinoxes does the Sun rise exactly due east and set exactly due west. At the winter solstice, the arc is shortest and lowest in the sky. From then on, the length of that arc, and with it the length of the day, increases, and each successive arc is higher in the sky than the day before, reaching maximum height, and maximum day length, at the summer solstice. This process then repeats in the opposite order, again reaching the shortest, lowest arc at winter solstice. <br/><br/>North of the Arctic Circle and south of the Antarctic Circle the Sun does not rise for extended periods in winter or set for extended periods in summer. Hence, they can have nights that last several months in the winter and days that last several months in the summer. During one of these polar days the Sun travels around the sky in a circle, moving from a high point at midday to a low point at midnight without ever crossing the horizon.<br/><br/>The set of solar arcs can be captured in a long-term exposure image called a solargraph.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/34/\">Equinox</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/145/\">Horizon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/317/\">Solstice</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/436/\">Day</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/488/\">Arctic Circle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/489/\">Antarctic Circle</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Путь Солнца (Дневная дуга)",
+      "body_ru": "Путь Солнца, или дневная дуга, описывает видимое движение Солнца по небу, как его видит наблюдатель в фиксированной точке на Земле. Каждый день путь описывает дугу, начиная с восхода в восточной части неба и заканчивая закатом в западной части. Только в дни весеннего и осеннего равноденствия Солнце восходит точно на востоке и заходит точно на западе. В день зимнего солнцестояния дуга самая короткая и самая низкая на небе. С этого момента длина этой дуги, а вместе с ней и продолжительность дня, увеличивается, и каждая последующая дуга выше на небе, чем в предыдущий день, достигая максимальной высоты и максимальной продолжительности дня в день летнего солнцестояния. Затем этот процесс повторяется в обратном порядке, снова достигая самой короткой и самой низкой дуги в день зимнего солнцестояния. К северу от Северного полярного круга и к югу от Южного полярного круга Солнце не восходит в течение длительных периодов зимой и не заходит в течение длительных периодов летом. Следовательно, там могут быть ночи, длящиеся несколько месяцев зимой, и дни, длящиеся несколько месяцев летом. В течение одного из таких полярных дней Солнце движется по небу по кругу, переходя от высокой точки в полдень к низкой точке в полночь, никогда не пересекая горизонт. Набор солнечных дуг можно запечатлеть на изображении с длительной экспозицией, называемом соларграфом."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/343/\">مسار الشمس (قوس النهار) </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/343/\">Sonnenbahn (Tagbogen) </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/343/\">Trayectoria del Sol (arco diurno) </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/343/\">مسیر خورشید (قوس روزانه) </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/343/\">Trajectoire du soleil (Arc diurne) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/343/\">Percorso del sole (arco diurno) </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/343/\">태양경로(일호) </a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/343/\">सूर्यपथः/ (दिवसचाप) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/343/\">Trajetória do Sol (Arco Diurno) </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/343/\">太阳路径（日弧） </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/343/\">太陽路徑（日弧） </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Sy59yc52QK50/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Rt986z16uG22/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/9E87Hf46pq20/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/MV22xW3EP96/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/lN187577SX71/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Sun Path (Day Arc)&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:Sy59yc52QK50",
+        "media:Rt986z16uG22",
+        "media:9E87Hf46pq20",
+        "media:MV22xW3EP96",
+        "media:lN187577SX71"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Sy59yc52QK50/\"><img alt=\"The Sun sinks from the top left of the image towards the middle. This path is reflected in the surface of the lake.\" src=\"/media/multimedia/thumbnails/the-last-hour-of-the-day_thumbnail_zv2Di6K.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Last Hour of the Day</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\n\nThis image, taken on 2 May 1997 at Lake Scaffaiolo in Italy, masterfully captures the Sun's descent in a sequence of mirrored reflections on the placid waters. Its breathtaking representation of time showcases the serene beauty of the surroundings, and stands as a timeless testament to the fleeting moments of the day’s final hour.<br/>\n<b>Credit:</b> Fabrizio Melandri/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Rt986z16uG22/\"><img alt=\"12 images of sunset. Sunset moves from the left at the top, to the right in the middle, and back to the left at the bottom\" src=\"/media/multimedia/thumbnails/where-the-sun-sets-every-month_thumbnail_Pfk4btj.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Where the Sun Sets Every Month</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of sunrise and sunset location over the year.\n\nTaken with a smartphone from San Rafael, Bulacan, Philippines, this series of images capture the changing position of sunset over the year owing to Earth’s axial tilt and orbit around the Sun. From January to December 2022, each image reflects the changing backdrop and position of the Sun at dusk. Observe the changing foliage and the appearance of an electricity pole in October. This collection serves as a visual testament to the celestial dance between Earth and the Sun, and the natural transformations on the ground.<br/>\n<b>Credit:</b> John Paul Pile/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/9E87Hf46pq20/\"><img alt=\"24 images of the Sun around the edge of a circular image. In the lowest image, a black circle blocks the centre of the Sun.\" src=\"/media/multimedia/thumbnails/the-eclipse-clock-eclipse-on-a-polar-day_thumbnail_oSy9Q2R.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Eclipse Clock-Eclipse on a Polar Day</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\n\nConstructed by combining multiple images over the course of a 24-hour period, the image was captured in Union Glacier, Antarctica, during the total solar eclipse of 4 December 2021, and showcases the day arc of the Sun. It illustrates the unique phenomenon of a polar day, during which the Sun travels around the sky without setting. During polar days, areas within the polar circles experience 24 hours of continuous daylight, and the Sun doesn’t set for an extended period. The image also offers a rare perspective of a solar eclipse, where the Moon passes between the Sun and Earth, and as viewed from Earth. This can be seen in the lower image of the Sun, where the Moon covers the solar disc.<br/>\n<b>Credit:</b> Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/MV22xW3EP96/\"><img alt=\"Seven images of the Sun. From the left it sinks, reaching its lowest in the centre image, before rising higher to the right.\" src=\"/media/multimedia/thumbnails/when-the-sun-bounces_thumbnail_VQl4j1n.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">When the Sun Bounces</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of sunrise and sunset location over the year.\n\nThis image was taken at Norway's North Cape. Owing to the latitude of this location, the Sun never truly sets during the summer months, from around April to August. This results in the unique spectacle of continuous daylight, known as a polar day. This captivating series of images, taken in 2022, showcases the Sun's relentless journey across the horizon every 30 minutes. At its lowest point in the sky, the Sun does not set, but appears to bounce off the horizon. The globe on the far right in the photo stands as a sentinel, marking the northernmost point of the European continental mainland.<br/>\n<b>Credit:</b> Milos Obert/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/lN187577SX71/\"><img alt=\"Curved bright lines rise from the left, peaking on the right. The further to the left a line rises, the higher it peaks.\" src=\"/media/multimedia/thumbnails/the-path-of-the-sun_thumbnail_UhYVewp.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Path of the Sun</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\n\nThis enchanting image, captured in Germany between 21 June 2018 and 21 December 2018, is a poetic blend of art and science, showcasing nature's rhythm and the passage of time. It combines images taken at different times of day over the course of six months. Each curve tracks the Sun’s path (or arc) across the sky on a particular day. The sweeping arc of the Sun is distorted here by the projection, making it appear like a curve. The position of the daily arc across the sky changes with the Sun’s seasonal movement in the sky. Captured using a simple pinhole camera fashioned from a coffee can, it shows the Sun's journey over the course of six months, and the gradual shift of the daily arc from the summer, when it is higher in the sky, to its lowest arc at the winter solstice. Gaps in the Sun’s path represent days or times of day when the Sun was obscured by clouds. This image is a vivid testament to the changing seasons, revealing the Sun's dance in the sky as days grow shorter or longer.<br/>\n<b>Credit:</b> Frank Niessen/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Sun Path (Day Arc)&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Sun Path (Day Arc)",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Sun Path (Day Arc)",
+          "body": "The Sun's path or day arc traces the apparent motion of the Sun in the sky, as seen by an observer at a fixed position on Earth. Each day, the path traces out an arc, starting with sunrise in the eastern part of the sky and ending with sunset in the western part. Only at the spring and autumn equinoxes does the Sun rise exactly due east and set exactly due west. At the winter solstice, the arc is shortest and lowest in the sky. From then on, the length of that arc, and with it the length of the day, increases, and each successive arc is higher in the sky than the day before, reaching maximum height, and maximum day length, at the summer solstice. This process then repeats in the opposite order, again reaching the shortest, lowest arc at winter solstice. North of the Arctic Circle and south of the Antarctic Circle the Sun does not rise for extended periods in winter or set for extended periods in summer. Hence, they can have nights that last several months in the winter and days that last several months in the summer. During one of these polar days the Sun travels around the sky in a circle, moving from a high point at midday to a low point at midnight without ever crossing the horizon. The set of solar arcs can be captured in a long-term exposure image called a solargraph."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Путь Солнца (дневная дуга)",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Путь Солнца (Дневная дуга)",
+          "body": "Путь Солнца, или дневная дуга, описывает видимое движение Солнца по небу, как его видит наблюдатель в фиксированной точке на Земле. Каждый день путь описывает дугу, начиная с восхода в восточной части неба и заканчивая закатом в западной части. Только в дни весеннего и осеннего равноденствия Солнце восходит точно на востоке и заходит точно на западе. В день зимнего солнцестояния дуга самая короткая и самая низкая на небе. С этого момента длина этой дуги, а вместе с ней и продолжительность дня, увеличивается, и каждая последующая дуга выше на небе, чем в предыдущий день, достигая максимальной высоты и максимальной продолжительности дня в день летнего солнцестояния. Затем этот процесс повторяется в обратном порядке, снова достигая самой короткой и самой низкой дуги в день зимнего солнцестояния. К северу от Северного полярного круга и к югу от Южного полярного круга Солнце не восходит в течение длительных периодов зимой и не заходит в течение длительных периодов летом. Следовательно, там могут быть ночи, длящиеся несколько месяцев зимой, и дни, длящиеся несколько месяцев летом. В течение одного из таких полярных дней Солнце движется по небу по кругу, переходя от высокой точки в полдень к низкой точке в полночь, никогда не пересекая горизонт. Набор солнечных дуг можно запечатлеть на изображении с длительной экспозицией, называемом соларграфом."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Sy59yc52QK50",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278682/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20the%20day%20arc%20of%20the%20Sun%20and%20solargraphs:%20The%20Last%20Hour%20of%20the%20Day,%20by%20Fabrizio%20Melandri.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/Sy59yc52QK50/",
+      "original_path": "data/media/original/media_Sy59yc52QK50.jpg",
+      "ru_path": null,
+      "sha256": "614abfd27688291ad1ef7b955eb4176d77920a29fec2b807206a70c05ffdcb13",
+      "size": 940086,
+      "title_en": "The Last Hour of the Day",
+      "title_ru": "Последний час дня",
+      "short_caption_en": "The Last Hour of the Day",
+      "short_caption_ru": "Последний час дня",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\r\n\r\nThis image, taken on 2 May 1997 at Lake Scaffaiolo in Italy, masterfully captures the Sun's descent in a sequence of mirrored reflections on the placid waters. Its breathtaking representation of time showcases the serene beauty of the surroundings, and stands as a timeless testament to the fleeting moments of the day’s final hour.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2023 в категории «Неподвижные изображения дневных дуг Солнца и соларграфы».\r\n\r\nЭтот снимок, сделанный 2 мая 1997 на озере Скаффайоло в Италии, мастерски запечатлевает спуск Солнца в последовательности зеркальных отражений на спокойной воде. Его захватывающее изображение времени демонстрирует безмятежную красоту окрестностей и служит вневременным свидетельством мимолётных мгновений последнего часа дня.",
+      "alt_en": "The Sun sinks from the top left of the image towards the middle. This path is reflected in the surface of the lake.",
+      "alt_ru": "Солнце опускается из верхнего левого угла изображения к середине. Этот путь отражается на поверхности озера.",
+      "credit": "Fabrizio Melandri/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        343
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Rt986z16uG22",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278787/files/Third%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20sunrise%20and%20sunset%20locations%20over%20the%20year:%20Where%20the%20Sun%20Sets%20Every%20Month,%20by%20John%20Paul%20Pile.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/Rt986z16uG22/",
+      "original_path": "data/media/original/media_Rt986z16uG22.jpg",
+      "ru_path": null,
+      "sha256": "23fe8f51c719759ffc2b111bc9eb8b78fd1a199979a904c6aec2ae5158a12913",
+      "size": 11815300,
+      "title_en": "Where the Sun Sets Every Month",
+      "title_ru": "Где заходит Солнце каждый месяц",
+      "short_caption_en": "Where the Sun Sets Every Month",
+      "short_caption_ru": "Где заходит Солнце каждый месяц",
+      "caption_en": "Third place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of sunrise and sunset location over the year.\r\n\r\nTaken with a smartphone from San Rafael, Bulacan, Philippines, this series of images capture the changing position of sunset over the year owing to Earth’s axial tilt and orbit around the Sun. From January to December 2022, each image reflects the changing backdrop and position of the Sun at dusk. Observe the changing foliage and the appearance of an electricity pole in October. This collection serves as a visual testament to the celestial dance between Earth and the Sun, and the natural transformations on the ground.",
+      "caption_ru": "Обладатель третьего места в конкурсе астрофотографии IAU OAE 2023 года в категории «Неподвижные изображения мест восхода и захода Солнца в течение года».\r\n\r\nСнятая смартфоном в Сан-Рафаэле, Булакан, Филиппины, эта серия изображений запечатлевает изменение положения заката в течение года, обусловленное наклоном оси Земли и её орбитой вокруг Солнца. С января по декабрь 2022 года каждое изображение отражает меняющийся фон и положение Солнца в сумерках. Обратите внимание на меняющуюся листву и появление электрического столба в октябре. Эта коллекция служит визуальным свидетельством небесного танца между Землёй и Солнцем и естественных изменений на земле.",
+      "alt_en": "12 images of sunset. Sunset moves from the left at the top, to the right in the middle, and back to the left at the bottom",
+      "alt_ru": "12 изображений заката. Закат смещается слева вверху, вправо в середине и обратно влево внизу",
+      "credit": "John Paul Pile/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        34,
+        317,
+        341,
+        343,
+        404
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:9E87Hf46pq20",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278539/files/First%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20the%20day%20arc%20of%20the%20Sun%20and%20solargraphs:%20The%20Eclipse%20Clock-Eclipse%20on%20a%20Polar%20Day,%20by%20Stephanie%20Ziyi%20Ye.JPG/content",
+      "record_url": "https://astro4edu.org/resources/media/9E87Hf46pq20/",
+      "original_path": "data/media/original/media_9E87Hf46pq20.jpg",
+      "ru_path": null,
+      "sha256": "2d046b3473ad6617f6ee58c38fff867942af65cf6d4c3a12f6a13b3c855031b4",
+      "size": 1234247,
+      "title_en": "The Eclipse Clock-Eclipse on a Polar Day",
+      "title_ru": "Часы затмения — затмение в полярный день",
+      "short_caption_en": "The Eclipse Clock-Eclipse on a Polar Day",
+      "short_caption_ru": "Часы затмения — затмение в полярный день",
+      "caption_en": "First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\r\n\r\nConstructed by combining multiple images over the course of a 24-hour period, the image was captured in Union Glacier, Antarctica, during the total solar eclipse of 4 December 2021, and showcases the day arc of the Sun. It illustrates the unique phenomenon of a polar day, during which the Sun travels around the sky without setting. During polar days, areas within the polar circles experience 24 hours of continuous daylight, and the Sun doesn’t set for an extended period. The image also offers a rare perspective of a solar eclipse, where the Moon passes between the Sun and Earth, and as viewed from Earth. This can be seen in the lower image of the Sun, where the Moon covers the solar disc.",
+      "caption_ru": "Победитель, занявший первое место на конкурсе астрофотографии IAU OAE 2023 в категории «Неподвижные изображения дневных дуг Солнца и соларграфы».\r\n\r\nСозданное путём объединения нескольких изображений за 24-часовой период, это изображение было получено на леднике Юнион в Антарктиде во время полного солнечного затмения 4 декабря 2021 и демонстрирует дневную дугу Солнца. Оно иллюстрирует уникальное явление полярного дня, во время которого Солнце движется по небу, не заходя. В полярные дни районы внутри полярных кругов испытывают 24 часа непрерывного дневного света, и Солнце не заходит в течение длительного периода. Изображение также предлагает редкую перспективу солнечного затмения, когда Луна проходит между Солнцем и Землёй, как это видно с Земли. Это можно увидеть на нижнем изображении Солнца, где Луна закрывает солнечный диск.",
+      "alt_en": "24 images of the Sun around the edge of a circular image. In the lowest image, a black circle blocks the centre of the Sun.",
+      "alt_ru": "24 изображений Солнца по краю кругового изображения. На самом нижнем изображении чёрный круг закрывает центр Солнца.",
+      "credit": "Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        343,
+        365,
+        424
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:MV22xW3EP96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278711/files/First%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20sunrise%20and%20sunset%20locations%20over%20the%20year:%20When%20the%20Sun%20Bounces,%20by%20Milos%20Obert.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/MV22xW3EP96/",
+      "original_path": "data/media/original/media_MV22xW3EP96.jpg",
+      "ru_path": null,
+      "sha256": "cfcdfac62f96e8d2cd04986644db8e9e51fcd7b394fa47e1b32d1bcdb99d27b0",
+      "size": 3542177,
+      "title_en": "When the Sun Bounces",
+      "title_ru": "Когда Солнце отскакивает",
+      "short_caption_en": "When the Sun Bounces",
+      "short_caption_ru": "Когда Солнце отскакивает",
+      "caption_en": "First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of sunrise and sunset location over the year.\r\n\r\nThis image was taken at Norway's North Cape. Owing to the latitude of this location, the Sun never truly sets during the summer months, from around April to August. This results in the unique spectacle of continuous daylight, known as a polar day. This captivating series of images, taken in 2022, showcases the Sun's relentless journey across the horizon every 30 minutes. At its lowest point in the sky, the Sun does not set, but appears to bounce off the horizon. The globe on the far right in the photo stands as a sentinel, marking the northernmost point of the European continental mainland.",
+      "caption_ru": "Первое место в конкурсе астрофотографии 2023 IAU OAE, категория «Неподвижные изображения восхода и заката в течение года».\r\n\r\nЭто изображение было сделано на Нордкапе в Норвегии. Благодаря широте этого места Солнце никогда по-настоящему не заходит в течение летних месяцев, примерно с апреля по август. Это приводит к уникальному зрелищу непрерывного дневного света, известному как полярный день. Эта захватывающая серия изображений, сделанных в 2022, демонстрирует неустанное путешествие Солнца по горизонту каждые 30 минут. В своей самой низкой точке на небе Солнце не заходит, а, кажется, отскакивает от горизонта. Глобус на крайнем правом краю фотографии стоит как страж, отмечая самую северную точку континентальной Европы.",
+      "alt_en": "Seven images of the Sun. From the left it sinks, reaching its lowest in the centre image, before rising higher to the right.",
+      "alt_ru": "Семь изображений Солнца. Слева оно опускается, достигая самого низкого положения на центральном изображении, а затем поднимается выше справа.",
+      "credit": "Milos Obert/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        343,
+        424,
+        488,
+        491
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:lN187577SX71",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278550/files/Second%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20the%20day%20arc%20of%20the%20Sun%20and%20solargraphs:%20The%20Path%20of%20the%20Sun,%20by%20Frank%20Niessen.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/lN187577SX71/",
+      "original_path": "data/media/original/media_lN187577SX71.jpg",
+      "ru_path": null,
+      "sha256": "9fb66796fea8e7cdd258bc2619906f2db61d8480f91338f12836bba50fd30817",
+      "size": 465458,
+      "title_en": "The Path of the Sun",
+      "title_ru": "Путь Солнца",
+      "short_caption_en": "The Path of the Sun",
+      "short_caption_ru": "Путь Солнца",
+      "caption_en": "Second place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\r\n\r\nThis enchanting image, captured in Germany between 21 June 2018 and 21 December 2018, is a poetic blend of art and science, showcasing nature's rhythm and the passage of time. It combines images taken at different times of day over the course of six months. Each curve tracks the Sun’s path (or arc) across the sky on a particular day. The sweeping arc of the Sun is distorted here by the projection, making it appear like a curve. The position of the daily arc across the sky changes with the Sun’s seasonal movement in the sky. Captured using a simple pinhole camera fashioned from a coffee can, it shows the Sun's journey over the course of six months, and the gradual shift of the daily arc from the summer, when it is higher in the sky, to its lowest arc at the winter solstice. Gaps in the Sun’s path represent days or times of day when the Sun was obscured by clouds. This image is a vivid testament to the changing seasons, revealing the Sun's dance in the sky as days grow shorter or longer.",
+      "caption_ru": "Обладатель второго места в конкурсе астрофотографии IAU OAE 2023 года в категории «Неподвижные изображения дневных дуг Солнца и солярографии».\r\n\r\nЭто завораживающее изображение, снятое в Германии в период с 21 июня 2018 года по 21 декабря 2018 года, представляет собой поэтическое сочетание искусства и науки, демонстрирующее ритм природы и течение времени. Оно объединяет изображения, снятые в разное время суток на протяжении шести месяцев. Каждая кривая отслеживает путь (или дугу) Солнца по небу в определённый день. Широкая дуга Солнца здесь искажена проекцией, из-за чего она выглядит как кривая. Положение ежедневной дуги на небе меняется с сезонным движением Солнца по небу. Снятое с помощью простой камеры-обскуры, сделанной из кофейной банки, оно показывает путешествие Солнца на протяжении шести месяцев и постепенное смещение ежедневной дуги от лета, когда она выше на небе, к её самой низкой дуге в день зимнего солнцестояния. Пробелы на пути Солнца представляют дни или время суток, когда Солнце было скрыто облаками. Это изображение является ярким свидетельством смены времён года, раскрывающим танец Солнца в небе по мере того, как дни становятся короче или длиннее.",
+      "alt_en": "Curved bright lines rise from the left, peaking on the right. The further to the left a line rises, the higher it peaks.",
+      "alt_ru": "Изогнутые яркие линии поднимаются слева, достигая пика справа. Чем дальше влево поднимается линия, тем выше её пик.",
+      "credit": "Frank Niessen/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        34,
+        317,
+        341,
+        343,
+        404
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:vQ8Vy70ph27",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278664/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20the%20day%20arc%20of%20the%20Sun%20and%20solargraphs:%20Solstices%20and%20Equinox,%20by%20Tunç%20Tezel.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/vQ8Vy70ph27/",
+      "original_path": "data/media/original/media_vQ8Vy70ph27.jpg",
+      "ru_path": null,
+      "sha256": "4c619f658e3d693cbaa4d8822239219a124b841102801d99ea7138ea72eaf9d6",
+      "size": 1711838,
+      "title_en": "Solstices and Equinox",
+      "title_ru": "Солнцестояния и равноденствия",
+      "short_caption_en": "Solstices and Equinox",
+      "short_caption_ru": "Солнцестояния и равноденствия",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images of day arcs of the Sun and Solargraphs.\r\n\r\nThis captivating image showcases the journey of the Sun through the sky during the winter solstice (bottom), equinox (middle), and summer solstice (top) in Bursa, Turkey, between 21 December 2007 and 20 June 2008. Using a fisheye lens, the photographer captured the Sun's positions at regular intervals from sunrise to sunset on the three different days, illustrating the changing lengths of day and night throughout the year. The variations in the Sun’s daily path across the sky, its height at midday, and the positions of sunrise and sunset, as well as the length of a day, depend on Earth’s axial tilt relative to its orbit around the Sun. The series was taken from a rooftop in Bursa, where the local terrain adds its own unique touch by occasionally obstructing the horizon. Oriented with north at the top and south at the bottom, this visual diary serves as a stunning representation of the Sun’s path for those residing in mid-northern latitudes.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2023 года в категории «Неподвижные изображения дневных дуг Солнца и соларграфы».\r\n\r\nЭто захватывающее изображение демонстрирует путь Солнца по небу во время зимнего солнцестояния (внизу), равноденствия (посередине) и летнего солнцестояния (вверху) в Бурсе, Турция, в период с 21 декабря 2007 года по 20 июня 2008 года. Используя объектив «рыбий глаз», фотограф запечатлел положения Солнца через регулярные интервалы от восхода до заката в эти три разных дня, иллюстрируя изменение продолжительности дня и ночи в течение года. Вариации ежедневного пути Солнца по небу, его высота в полдень, положения восхода и заката, а также продолжительность дня зависят от наклона земной оси относительно её орбиты вокруг Солнца. Серия была снята с крыши в Бурсе, где местный рельеф добавляет свою уникальную нотку, иногда закрывая горизонт. Ориентированный севером вверх и югом вниз, этот визуальный дневник служит потрясающим представлением пути Солнца для тех, кто проживает в средних северных широтах.",
+      "alt_en": "Three paths of the Sun across the sky. The highest almost crosses the middle of the image, the lowest is one sixth of the way",
+      "alt_ru": "Три пути Солнца по небу. Самый высокий почти пересекает середину изображения, самый низкий находится на одной шестой высоты изображения",
+      "credit": "Tunç Tezel/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        34,
+        317,
+        341,
+        343,
+        404
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:W08I925gG29",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278776/files/Second%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20sunrise%20and%20sunset%20locations%20over%20the%20year:%20Occasive%20Amplitude,%20by%20Marcella%20Giulia%20Pace.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/W08I925gG29/",
+      "original_path": "data/media/original/media_W08I925gG29.jpg",
+      "ru_path": null,
+      "sha256": "ee30aee6a7ad72b436d71dd37478cb769ce4471a6220d92ccf5829e02c43d4b4",
+      "size": 11491326,
+      "title_en": "Occasive Amplitude",
+      "title_ru": "Амплитуда заката",
+      "short_caption_en": "Occasive Amplitude",
+      "short_caption_ru": "Амплитуда заката",
+      "caption_en": "Second place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of sunrise and sunset location over the year.\r\n\r\nCaptured from Gatto Corvino village in Sicily, this composite showcases the Sun setting at various points over the sea from the winter to the summer solstice (2016–2017). The centre frame marks due west. As Earth orbits the Sun, the position of the setting (and rising) Sun changes from being northward of due west (east) in summer to southward of due west (east) in winter. During the equinoxes — when day and night are of equal length — the Sun rises directly in the east and sets directly in the west. The changing location of the Sun on the horizon is due to Earth’s axial tilt as it orbits the Sun. In temperate regions of Earth, the Sun’s height above the horizon at noon is at its highest and lowest points in the sky on the summer and winter solstices respectively.",
+      "caption_ru": "Второе место на конкурсе астрофотографии IAU OAE 2023 года в категории «Неподвижные изображения мест восхода и заката в течение года».\r\n\r\nСнятый из деревни Гатто Корвино на Сицилии, этот композит демонстрирует закат Солнца в различных точках над морем от зимнего до летнего солнцестояния (2016–2017). Центральный кадр отмечает направление строго на запад. По мере обращения Земли вокруг Солнца положение заходящего (и восходящего) Солнца меняется от северного направления относительно строго запада (востока) летом до южного направления относительно строго запада (востока) зимой. Во время равноденствий — когда день и ночь имеют равную продолжительность — Солнце восходит строго на востоке и заходит строго на западе. Изменение положения Солнца на горизонте обусловлено наклоном земной оси при её обращении вокруг Солнца. В умеренных регионах Земли высота Солнца над горизонтом в полдень достигает своих максимальных и минимальных значений на небе соответственно в летнее и зимнее солнцестояния.",
+      "alt_en": "Many images of the sunset in a montage. The Sun’s setting position changes from the left in winter to the right in summer.",
+      "alt_ru": "Множество изображений заката в монтаже. Положение захода Солнца меняется: слева зимой, справа летом.",
+      "credit": "Marcella Giulia Pace/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        34,
+        317,
+        341,
+        343,
+        404
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,740 @@
+{
+  "id": "term:167",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 167,
+    "url": "https://astro4edu.org/resources/glossary/term/167/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=167",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:06.244576+00:00",
+    "sha256": "098409b7667540a1ebcbddf7349c375c0d543d7be3abbcb0e7f84f4ba2c85cc0"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      26,
+      121,
+      125,
+      129,
+      136,
+      234,
+      253,
+      314
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Jupiter",
+      "body": "Jupiter is the largest planet in the Solar System and the fifth major planet from the Sun. It is a gas giant with a radius of 71,300 kilometers (km), about 11 times the radius of the Earth. The mass of Jupiter (318 times the mass of the Earth) is greater than all the other planets and the smaller bodies in the Solar System put together. Its typical distance from the Sun is 778 million km, about five astronomical units (Earth–Sun distances), taking a little under 12 years to complete one orbit. As of 2023, astronomers have detected more than 90 moons or natural satellites orbiting Jupiter. It is visible with the naked eye. Its name in English derives from the Roman king of the gods. Observed in a small telescope we can see cloud belts of different colors and a giant red circular storm region (the so-called Great Red Spot). A few space probes have been sent to Jupiter over the past decades, and in 2016 the NASA spacecraft Juno started exploring Jupiter and its moons in much greater detail.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astronomical Unit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/26/",
+          "text_ru": "Астрономическая единица"
+        },
+        {
+          "text": "Galilean Satellites",
+          "url": "https://www.astro4edu.org/resources/glossary/term/121/",
+          "text_ru": "Галилеевы спутники"
+        },
+        {
+          "text": "Gas Giant",
+          "url": "https://www.astro4edu.org/resources/glossary/term/125/",
+          "text_ru": "Газовый гигант"
+        },
+        {
+          "text": "Giant Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/129/",
+          "text_ru": "Гигантская планета"
+        },
+        {
+          "text": "Great Red Spot",
+          "url": "https://www.astro4edu.org/resources/glossary/term/136/",
+          "text_ru": "Большое красное пятно"
+        },
+        {
+          "text": "Outer Planets",
+          "url": "https://www.astro4edu.org/resources/glossary/term/234/",
+          "text_ru": "Внешние планеты"
+        },
+        {
+          "text": "Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/253/",
+          "text_ru": "Планета"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Jupiter</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Jupiter is the largest planet in the Solar System and the fifth major planet from the Sun. It is a gas giant with a radius of 71,300 kilometers (km), about 11 times the radius of the Earth. The mass of Jupiter (318 times the mass of the Earth) is greater than all the other planets and the smaller bodies in the Solar System put together. <br/><br/>Its typical distance from the Sun is 778 million km, about five astronomical units (Earth–Sun distances), taking a little under 12 years to complete one orbit. As of 2023, astronomers have detected more than 90 moons or natural satellites orbiting Jupiter.<br/><br/>It is visible with the naked eye. Its name in English derives from the Roman king of the gods. Observed in a small telescope we can see cloud belts of different colors and a giant red circular storm region (the so-called Great Red Spot). A few space probes have been sent to Jupiter over the past decades, and in 2016 the NASA spacecraft Juno started exploring Jupiter and its moons in much greater detail.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/26/\">Astronomical Unit</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/121/\">Galilean Satellites</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/125/\">Gas Giant</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/129/\">Giant Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/136/\">Great Red Spot</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/234/\">Outer Planets</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/253/\">Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Юпитер",
+      "body_ru": "Юпитер — крупнейшая планета Солнечной системы и пятая по удалённости от Солнца основная планета. Это газовый гигант радиусом 71,300 километров (км), примерно в 11 раз больше радиуса Земли. Масса Юпитера (в 318 раз больше массы Земли) превышает суммарную массу всех остальных планет и более мелких тел Солнечной системы. Его типичное расстояние от Солнца составляет 778 миллионов км, около пяти астрономических единиц (расстояний Земля–Солнце), и на один оборот уходит чуть менее 12 лет. По состоянию на 2023 астрономы обнаружили более 90 лун или естественных спутников, обращающихся вокруг Юпитера. Он виден невооружённым глазом. Его название в английском языке происходит от римского царя богов. При наблюдении в небольшой телескоп мы можем увидеть облачные пояса разных цветов и гигантскую красную круглую область шторма (так называемое Большое красное пятно). За последние десятилетия к Юпитеру было отправлено несколько космических зондов, а в 2016 космический аппарат NASA Juno начал исследовать Юпитер и его луны гораздо более подробно."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "木星 (external link)",
+          "url": "https://astro-dic.jp/jupiter/",
+          "text_ru": "Юпитер (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/167/\">المشتري </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/167/\">Jupiter </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/167/\">Júpiter </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/167/\">Jupiter </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/167/\">Giove </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/jupiter/\">木星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/167/\">목성 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/167/\">Júpiter </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/167/\">木星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/167/\">木星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/id29650bC11/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zm32gm18n086/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/oC21zv72nT69/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/iV54jj18wz3/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic1410a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/ov89Zd45LB25/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Jupiter&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:id29650bC11",
+        "media:zm32gm18n086",
+        "media:oC21zv72nT69",
+        "media:iV54jj18wz3",
+        "media:ov89Zd45LB25"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/id29650bC11/\"><img alt=\"The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.\" src=\"/media/multimedia/thumbnails/Jupiters_Rotation_by_Vishal_Sharma_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter's Rotation, by Vishal Sharma, India</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\n\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.<br/>\n<b>Credit:</b> Vishal Sharma/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zm32gm18n086/\"><img alt=\"The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots\" src=\"/media/multimedia/thumbnails/Jupiter_Moons_Movie2_by_Nicolas_Hurez_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter Moons Movie2, by Nicolas Hurez, Paul-Antoine Matrangolo, and Carl Pennypacker, United States of America</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).<br/>\n<b>Credit:</b> Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/oC21zv72nT69/\"><img alt=\"Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left\" src=\"/media/multimedia/thumbnails/Jupiter_Io_and_its_shadow_by_Ralf_Burkart_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter, Io and its shadow, by Ralf Burkart, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.<br/>\n<b>Credit:</b> Ralf Burkart/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/iV54jj18wz3/\"><img alt=\"The planet Jupiter with horizontal cloud ribbons and the great red spot\" src=\"/media/multimedia/thumbnails/heic1410a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This full disk view of Jupiter was obtained on 21 April 2014 with Hubble's Wide Field Camera 3 (WFC3). It shows the prominent great red spot, a gigantic cyclone. Cloud ribbons cover the surface, whose colours stem from gases like ammonia and other chemical compounds.<br/>\n<b>Credit:</b> NASA, ESA, and A. Simon (Goddard Space Flight Center)\n\t  <a href=\"https://esahubble.org/images/heic1410a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/ov89Zd45LB25/\"><img alt=\"The Milky Way rises from the horizon over a landscape with trees, water and the distant glow of city lights\" src=\"/media/multimedia/thumbnails/Flowing_Night_Sky.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Flowing Night Sky</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Time lapses of celestial patterns.\n\n \n\nThis time-lapse was shot from Slovakia in August 2020. By fixing the relative movement of the sky to Earth's rotation in some of the frames, we can experience a different perspective as a viewer.\n\nThe Milky Way, our home galaxy, is visible throughout the whole video. The bright objects near the Milky Way are Jupiter and Saturn, close together, Jupiter being the brighter one.\n\nThis video also shows the interaction of amateur astronomers observing the Perseids meteor shower with their telescopes pointed towards the sky. An unfortunate aspect of the art of astronomical observing, clouds can suddenly cover the whole sky. The fog occurs mostly because of the higher humidity after the rain.\n\nMost of the light trails in the sky are made by satellites, but some of them, appearing just very briefly and not very noticeably, are meteors, as the video was shot around the peak of Perseids meteor shower.<br/>\n<b>Credit:</b> Robert Barsa/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Jupiter&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Meet our neighbours: Jupiter astroEDU educational activity (links to astroEDU website) Description: Jupiter, the gas giant of the Solar System in a tactile version. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary Areas of Learning: Fun activity \n  \n, Modelling Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Jupiter&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-jupiter/\"><img alt=\"Meet our neighbours: Jupiter\" src=\"/media/astroedu/images/meet-our-neighbours-jupiter_en_thumbnail_Pi7yQqi.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-jupiter/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Meet our neighbours: Jupiter</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Jupiter, the gas giant of the Solar System in a tactile version.\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n\n\n\n\n  <b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nFun activity \n  \n, Modelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Jupiter&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Познакомьтесь с нашими соседями: Юпитер — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Юпитер, газовый гигант Солнечной системы, в тактильной версии. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальный Области обучения: Развлекательная деятельность \n  \n, Моделирование Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Jupiter",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Jupiter",
+          "body": "Jupiter is the largest planet in the Solar System and the fifth major planet from the Sun. It is a gas giant with a radius of 71,300 kilometers (km), about 11 times the radius of the Earth. The mass of Jupiter (318 times the mass of the Earth) is greater than all the other planets and the smaller bodies in the Solar System put together. Its typical distance from the Sun is 778 million km, about five astronomical units (Earth–Sun distances), taking a little under 12 years to complete one orbit. As of 2023, astronomers have detected more than 90 moons or natural satellites orbiting Jupiter. It is visible with the naked eye. Its name in English derives from the Roman king of the gods. Observed in a small telescope we can see cloud belts of different colors and a giant red circular storm region (the so-called Great Red Spot). A few space probes have been sent to Jupiter over the past decades, and in 2016 the NASA spacecraft Juno started exploring Jupiter and its moons in much greater detail."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Meet our neighbours: Jupiter astroEDU educational activity (links to astroEDU website) Description: Jupiter, the gas giant of the Solar System in a tactile version. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary Areas of Learning: Fun activity \n  \n, Modelling Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Юпитер",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Юпитер",
+          "body": "Юпитер — крупнейшая планета Солнечной системы и пятая по удалённости от Солнца основная планета. Это газовый гигант радиусом 71,300 километров (км), примерно в 11 раз больше радиуса Земли. Масса Юпитера (в 318 раз больше массы Земли) превышает суммарную массу всех остальных планет и более мелких тел Солнечной системы. Его типичное расстояние от Солнца составляет 778 миллионов км, около пяти астрономических единиц (расстояний Земля–Солнце), и на один оборот уходит чуть менее 12 лет. По состоянию на 2023 астрономы обнаружили более 90 лун или естественных спутников, обращающихся вокруг Юпитера. Он виден невооружённым глазом. Его название в английском языке происходит от римского царя богов. При наблюдении в небольшой телескоп мы можем увидеть облачные пояса разных цветов и гигантскую красную круглую область шторма (так называемое Большое красное пятно). За последние десятилетия к Юпитеру было отправлено несколько космических зондов, а в 2016 космический аппарат NASA Juno начал исследовать Юпитер и его луны гораздо более подробно."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Познакомьтесь с нашими соседями: Юпитер — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Юпитер, газовый гигант Солнечной системы, в тактильной версии. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальный Области обучения: Развлекательная деятельность \n  \n, Моделирование Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:id29650bC11",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5292034/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%E2%80%99s%20Rotation%2C%20by%20Vishal%20Sharma.mp4",
+      "record_url": "https://astro4edu.org/resources/media/id29650bC11/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse of Galilean moons orbiting Jupiter",
+      "short_caption_ru": "Таймлапс галилеевых спутников, обращающихся вокруг Юпитера",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\r\n\r\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.",
+      "caption_ru": "Третье место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники»: «Вращение Юпитера», автор Вишал Шарма, Индия.\r\n\r\nЭтот таймлапс красиво показывает вращение Юпитера и прохождение двух галилеевых спутников в правой части кадра. Юпитер совершает один оборот чуть менее чем за 10 часов, и мы видим, как Большое Красное Пятно перемещается слева направо. Два спутника за это короткое время проходят заметную часть своей орбиты. Это изображение было получено в 2020 на севере Индии.",
+      "alt_en": "The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.",
+      "alt_ru": "Планета Юпитер с двумя из четырёх галилеевых спутников (видны как яркие точки), обращающихся вокруг неё.",
+      "credit": "Vishal Sharma/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zm32gm18n086",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291803/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%20Moon%E2%80%99s%20Movie2%2C%20by%20Nicolas%20Hurez%2C%20Paul-Antoine%20Matrangolo%2C%20and%20Carl%20Pennypacker%2C%20United%20States%20of%20America.mp4",
+      "record_url": "https://astro4edu.org/resources/media/zm32gm18n086/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Four Galilean moons around the planet Jupiter.",
+      "short_caption_ru": "Четыре галилеевых спутника вокруг планеты Юпитер.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).",
+      "caption_ru": "Второе место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭта последовательность показывает орбиты четырёх галилеевых спутников вокруг планеты Юпитер. Можно увидеть почти два полных оборота самого внутреннего спутника Ио, в то время как другие спутники (Европа и Ганимед, но особенно Каллисто) находятся дальше и обращаются заметно медленнее. Изображения были получены в 2018 с помощью Лас-Кумбресской глобальной обсерватории в разных точках Земли, что позволило получить непрерывную последовательность снимков в течение примерно половины недели без пробелов в дневное время. При ясном небе и в течение нескольких ночей движение галилеевых спутников можно также наблюдать в бинокль (желательно опереть локти на какую-либо поверхность).",
+      "alt_en": "The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots",
+      "alt_ru": "Планета Юпитер, видимая здесь как яркий диск, вокруг которого обращаются четыре галилеевых спутника, видимые как яркие точки",
+      "credit": "Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:oC21zv72nT69",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291459/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Io%2C%20Ganymede%2C%20Shadow%2C%20by%20Ralf%20Burkart%2C%20Germany.gif",
+      "record_url": "https://astro4edu.org/resources/media/oC21zv72nT69/",
+      "original_path": "data/media/original/media_oC21zv72nT69.gif",
+      "ru_path": null,
+      "sha256": "71547b4d75a0fd7f1d53c3ad5af7749ec0c77cbed1bbb6b21d622ec30a2aa676",
+      "size": 12636069,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse showing he transit of one of the Galilean moons, Io, in front of Jupiter",
+      "short_caption_ru": "Таймлапс, показывающий прохождение одного из галилеевых спутников, Ио, перед Юпитером",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.",
+      "caption_ru": "Первое место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭтот таймлапс Юпитера, снятый в 2017 в Германии, прекрасно иллюстрирует прохождение одного из галилеевых спутников, Ио, перед Юпитером. Поскольку это просто спутник, отбрасывающий тень на планету, это эквивалентно лунному затмению на Земле, наблюдаемому издалека. Хотя тень спутника ясно видна с самого начала, сам спутник может быть трудно заметить на фоне прекрасных атмосферных полос Юпитера при первом просмотре видео. Повторный просмотр позволяет оценить быстрое движение и вращение в этом фантастическом наблюдении.",
+      "alt_en": "Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left",
+      "alt_ru": "Юпитер с цветными горизонтальными полосами облаков. Тень спутника Ио видна как тёмный круг в верхнем левом углу",
+      "credit": "Ralf Burkart/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253,
+        367
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:iV54jj18wz3",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/heic1410a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/iV54jj18wz3/",
+      "original_path": "data/media/original/media_iV54jj18wz3.jpg",
+      "ru_path": null,
+      "sha256": "a6c7825425040aed8b16dbbb04e2b8966dba3e6d4c6acc97198131c6ced460af",
+      "size": 167158,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Jupiter imaged by the Hubble Space Telescope",
+      "short_caption_ru": "Юпитер, снятый космическим телескопом Хаббл",
+      "caption_en": "This full disk view of Jupiter was obtained on 21 April 2014 with Hubble's Wide Field Camera 3 (WFC3). It shows the prominent great red spot, a gigantic cyclone. Cloud ribbons cover the surface, whose colours stem from gases like ammonia and other chemical compounds.",
+      "caption_ru": "Этот снимок полного диска Юпитера был получен 21 апреля 2014 с помощью Широкоугольной камеры 3 (WFC3) телескопа Хаббл. На нём видно заметное Большое красное пятно — гигантский циклон. Поверхность покрыта облачными полосами, цвет которых обусловлен газами, такими как аммиак, и другими химическими соединениями.",
+      "alt_en": "The planet Jupiter with horizontal cloud ribbons and the great red spot",
+      "alt_ru": "Планета Юпитер с горизонтальными облачными полосами и Большим красным пятном",
+      "credit": "NASA, ESA, and A. Simon (Goddard Space Flight Center)",
+      "credit_url": "https://esahubble.org/images/heic1410a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        125,
+        129,
+        136,
+        167,
+        234
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:ov89Zd45LB25",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/7425689/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Time%20lapses%20of%20celestial%20patterns%3A%20Flowing%20Night%20Sky%2C%20by%20Robert%20Barsa.mp4",
+      "record_url": "https://astro4edu.org/resources/media/ov89Zd45LB25/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Flowing Night Sky",
+      "short_caption_ru": "Струящееся ночное небо",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Time lapses of celestial patterns.\r\n\r\n \r\n\r\nThis time-lapse was shot from Slovakia in August 2020. By fixing the relative movement of the sky to Earth's rotation in some of the frames, we can experience a different perspective as a viewer.\r\n\r\nThe Milky Way, our home galaxy, is visible throughout the whole video. The bright objects near the Milky Way are Jupiter and Saturn, close together, Jupiter being the brighter one.\r\n\r\nThis video also shows the interaction of amateur astronomers observing the Perseids meteor shower with their telescopes pointed towards the sky. An unfortunate aspect of the art of astronomical observing, clouds can suddenly cover the whole sky. The fog occurs mostly because of the higher humidity after the rain.\r\n\r\nMost of the light trails in the sky are made by satellites, but some of them, appearing just very briefly and not very noticeably, are meteors, as the video was shot around the peak of Perseids meteor shower.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2022 в категории «Таймлапсы небесных узоров».\n\n \n\nЭтот таймлапс был снят в Словакии в августе 2020. Зафиксировав относительное движение неба к вращению Земли в некоторых кадрах, мы можем испытать другую перспективу как зритель.\n\nМлечный Путь, наша родная галактика, виден на протяжении всего видео. Яркие объекты рядом с Млечным Путём — это Юпитер и Сатурн, близко друг к другу, причём Юпитер ярче.\n\nЭто видео также показывает взаимодействие астрономов-любителей, наблюдающих метеорный поток Персеиды со своими телескопами, направленными в небо. Неудачный аспект искусства астрономических наблюдений: облака могут внезапно закрыть всё небо. Туман возникает в основном из-за повышенной влажности после дождя.\n\nБольшинство световых следов на небе созданы спутниками, но некоторые из них, появляющиеся очень кратко и не очень заметно, — это метеоры, так как видео было снято около пика метеорного потока Персеиды.",
+      "alt_en": "The Milky Way rises from the horizon over a landscape with trees, water and the distant glow of city lights",
+      "alt_ru": "Млечный Путь поднимается от горизонта над пейзажем с деревьями, водой и далёким свечением городских огней",
+      "credit": "Robert Barsa/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        167,
+        199,
+        294,
+        302
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Nj29J731PG46",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7424009/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Milky%20Way%20over%20Avenue%20of%20Baobabs%2C%20by%20Amirreza%20Kamkar.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Nj29J731PG46/",
+      "original_path": "data/media/original/media_Nj29J731PG46.jpg",
+      "ru_path": null,
+      "sha256": "94d38f5f0fb8731768a63b6ca37a691e81535dfcabd3d8e0429522ff6d60728d",
+      "size": 3198798,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Milky Way over Avenue of Baobabs",
+      "short_caption_ru": "Млечный Путь над Аллеей баобабов",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image, taken from the Avenue of Baobabs, Morondava, Madagascar, in July 2017, shows the majestic band of the Milky Way, our home galaxy, together with a rich collection of constellations and asterisms: Crux, Centaurus, Scorpius, Sagittarius and the Teapot asterism. Towards the bottom left of the image we can see the Southern Cross and the pointer stars Alpha (the brighter of the two) and Beta Centauri, which help to distinguish it from similar-looking configurations. Some cultures in Africa associate the Southern Cross with a giraffe, while others associate the constellations with a pride of lions or even with the Tree of Life.\r\n\r\nAntares, the brightest star in the constellation Scorpius, is the orange-red star straight up from the middle baobab tree.\r\n\r\nTo the Pokomo people from southwestern Kenya, Africa, the Milky Way is associated with the smoke emanating from a campfire lit by ancient people. The various people in South Africa, in contrast, have different star tales; the Khoikhoi from the region around Cape Town explained the colours of the red and white stars as red and white roots that were roasted on a fire and thrown towards the sky together with the ashes of the fire. The Xhosa from further east consider the Milky Way the raised bristle of a huge angry dog, while the Zulu from near Johannesburg interpret it as a stream of spears of their strongest warriors.\r\n\r\nPolynesian people, who were adept seafarers and navigators, see the constellation Scorpius as a fish hook, and refer to it as the demigod Maui’s Fish Hook. For the Djab Wurrung and the Jardwadjali people, the Southern Cross is part of a Dreamtime Story involving Tchingal, the Bram-bram-bult brothers (the pointer stars), their mother Druk (Delta Crux), and Bunya, the hunter who gets changed into a possum (Gacrux, red star at the top of the Southern Cross).\r\n\r\n\r\nIn this image, the planets Saturn (the bright point above Antares) and Jupiter (the bright point at the bottom-right of the image close to the trunk of the baobab tree) are visible. Indigenous cultures have various stories associated with the planets, for example Kamilaroi and Wailan people associate Saturn with wunygal, a small bird. The Boorong people of Western Victoria associate Jupiter with Ginabongbearp, the chief of the old spirits (Nurrumbunguttias), who takes the totemic form of the sulphur-crested white cockatoo.",
+      "caption_ru": "Победитель на конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение, снятое в Аллее баобабов, Мурундава, Мадагаскар, в июле 2017, показывает величественную полосу Млечного Пути, нашей родной галактики, вместе с богатой коллекцией созвездий и астеризмов: Южный Крест, Центавр, Скорпион, Стрелец и астеризм Чайник. В левой нижней части изображения мы видим Южный Крест и указатели — Альфу (более яркую из двух) и Бету Центавра, которые помогают отличить его от похожих конфигураций. Некоторые культуры Африки связывают Южный Крест с жирафом, другие связывают созвездия с прайдом львов или даже с Древом Жизни.\r\n\r\nАнтарес, самая яркая звезда в созвездии Скорпиона, — это оранжево-красная звезда прямо над средним баобабом.\r\n\r\nДля народа покомо из юго-западной Кении, Африка, Млечный Путь связан с дымом, исходящим от костра, зажжённого древними людьми. Различные народы Южной Африки, напротив, имеют разные звёздные сказания; койкой из района вокруг Кейптауна объясняли цвета красных и белых звёзд как красные и белые корни, которые жарились на огне и были брошены в небо вместе с пеплом костра. Коса с востока считают Млечный Путь поднятой щетиной огромной разъярённой собаки, а зулусы из окрестностей Йоханнесбурга интерпретируют его как поток копий их сильнейших воинов.\r\n\r\nПолинезийцы, искусные мореплаватели и навигаторы, видят созвездие Скорпиона как рыболовный крючок и называют его Рыболовным крючком полубога Мауи. Для народов джаб-вуррунг и джардваджали Южный Крест является частью истории Времени сновидений, включающей Чингала, братьев Брам-брам-булт (указатели), их мать Друк (Дельта Южного Креста) и Бунью, охотника, который превращается в опоссума (Гакрукс, красная звезда в верхней части Южного Креста).\r\n\r\n\r\nНа этом изображении видны планеты Сатурн (яркая точка над Антаресом) и Юпитер (яркая точка в правом нижнем углу изображения рядом со стволом баобаба). У коренных культур есть различные истории, связанные с планетами, например, народы камиларой и уэйлан связывают Сатурн с вуньгалом, маленькой птицей. Народ бурронг из западной Виктории связывает Юпитер с Гинабонгбеарпом, вождём древних духов (Нуррумбунгуттиас), который принимает тотемную форму белого какаду с серным хохолком.",
+      "alt_en": "Over trees with thick trunks, the Milky Way, with several bright objects left and right, is bisected by a wide dark line.",
+      "alt_ru": "Над деревьями с толстыми стволами Млечный Путь с несколькими яркими объектами слева и справа пересекается широкой тёмной полосой.",
+      "credit": "Amirreza Kamkar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        85,
+        167,
+        199,
+        294,
+        299,
+        318,
+        438,
+        472,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:PL73Zd92Vt97",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425196/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20The%20Milky%20Way%20Across%20the%20Zenith%2C%20by%20Kouij%20Ohnishi.jpg",
+      "record_url": "https://astro4edu.org/resources/media/PL73Zd92Vt97/",
+      "original_path": "data/media/original/media_PL73Zd92Vt97.jpg",
+      "ru_path": null,
+      "sha256": "5db86c5f145ff4172e819124a8815d0dc4b0addf663cad471f76daeea250b73e",
+      "size": 11131196,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Milky Way Across the Zenith",
+      "short_caption_ru": "Млечный Путь через зенит",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis all-sky image shows our home galaxy, the Milky Way, crossing the zenith, the point just above the observer as seen from Nagano, Japan, in May 2019. Such images of the whole sky can be taken either with a fish-eye lens or with a convex mirror on the ground, the latter of which would show the photographer as well.\r\n\r\nSome of the brightest stars in the night sky can be seen in this image, as well as two of the giant planets of our Solar System: Jupiter, the brightest point in the bottom of this image, and Saturn, another bright point just to the opposite side of the Galaxy, to the bottom and next to the horizon.\r\n\r\nDirectly right of the Milky Way and below Jupiter, we can spot the bright red star Antares, the primary star of the Japanese asterism of The Heart. Japanese constellations derive from ancient Chinese constellations, which were adopted with only slight or no changes. In this tradition, The Heart is the heart of the “Azure Dragon”, a super-constellation that represents the spring. In the Babylonian and Greco-Roman traditions, this area is considered the heart of the Scorpion. In Babylonian religion, the star is associated with Lisi, the child of the mother goddess, but in Greek mythology it is related to the planet Mars, because of its colour. The reddish colour also led to the star’s Chinese name “The Fire Star”. We know that this colour is caused by its relatively cool temperature.\r\n\r\nGoing from Antares to the right of the image, we find the more northern parts of the sky. The bright star in the lower-right of the image, close to the horizon, is Arcturus, located in the modern constellation Boötes. While Antares and its surrounding area are considered the heart of the Azure Dragon, Arcturus and Spica (below the horizon) are two single-star asterisms forming its huge horn. Pointing towards it from above, at the right-hand edge of the image’s horizon, we can see the handle of the Big Dipper, or Plough, which is part of the constellation Ursa Major.\r\n\r\nThe bright point to the right of the galaxy and just above the middle of the image is Vega, located in the modern constellation Lyra. Extending a line to the other side of the Galaxy and a bit lower in the image we can find Altair, in the constellation Aquila. From that point we extend another line to Deneb, the brightest star in the constellation of the Swan, also a bit higher in this image and completely flooded by the Milky Way. These three bright stars comprise the asterism known as the Summer Triangle in the northern hemisphere.",
+      "caption_ru": "Победитель на конкурсе астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\n\n \n\nЭто изображение всего неба показывает нашу родную галактику, Млечный Путь, пересекающую зенит, точку прямо над наблюдателем, как видно из Нагано, Япония, в мае 2019. Такие изображения всего неба можно получить либо с помощью рыбьего глаза, либо с помощью выпуклого зеркала на земле, последнее из которых показало бы и фотографа.\n\nНа этом изображении можно увидеть некоторые из самых ярких звёзд ночного неба, а также две гигантские планеты нашей Солнечной системы: Юпитер, самую яркую точку в нижней части этого изображения, и Сатурн, ещё одну яркую точку прямо на противоположной стороне Галактики, внизу и рядом с горизонтом.\n\nПрямо справа от Млечного Пути и ниже Юпитера мы можем заметить яркую красную звезду Антарес, главную звезду японского астеризма Сердца. Японские созвездия происходят от древних китайских созвездий, которые были приняты с небольшими изменениями или без них. В этой традиции Сердце — это сердце «Лазурного дракона», суперсозвездия, представляющего весну. В вавилонской и греко-римской традициях эта область считается сердцем Скорпиона. В вавилонской религии звезда связана с Лиси, ребёнком богини-матери, но в греческой мифологии она связана с планетой Марс из-за её цвета. Красноватый цвет также привёл к китайскому названию звезды «Огненная звезда». Мы знаем, что этот цвет вызван её относительно низкой температурой.\n\nДвигаясь от Антареса вправо по изображению, мы находим более северные части неба. Яркая звезда в правом нижнем углу изображения, близко к горизонту, — это Арктур, расположенный в современном созвездии Волопаса. В то время как Антарес и его окрестности считаются сердцем Лазурного дракона, Арктур и Спика (ниже горизонта) — это два одиночных звёздных астеризма, образующих его огромный рог. Указывая на него сверху, на правом краю горизонта изображения, мы можем увидеть ручку Большой Медведицы, или Плуга, которая является частью созвездия Большой Медведицы.\n\nЯркая точка справа от галактики и чуть выше середины изображения — это Вега, расположенная в современном созвездии Лиры. Продлив линию на другую сторону Галактики и немного ниже по изображению, мы можем найти Альтаир в созвездии Орла. От этой точки мы продлеваем ещё одну линию к Денебу, самой яркой звезде в созвездии Лебедя, также немного выше на этом изображении и полностью затопленной Млечным Путём. Эти три яркие звезды составляют астеризм, известный как Летний треугольник в северном полушарии.",
+      "alt_en": "An all-sky image showing the Milky Way as a diffuse river of light, broken only by a mottled central band of dark patches",
+      "alt_ru": "Изображение всего неба, показывающее Млечный Путь как диффузную реку света, прерываемую только пятнистой центральной полосой тёмных участков",
+      "credit": "Ohnishi Kouji/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        167,
+        199,
+        294,
+        299
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:ox1N255GM86",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425266/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20To%20guard%20the%20Stars%20and%20the%20Sea%20Together%2C%20by%20Likai%20Lin.jpg",
+      "record_url": "https://astro4edu.org/resources/media/ox1N255GM86/",
+      "original_path": "data/media/original/media_ox1N255GM86.jpg",
+      "ru_path": null,
+      "sha256": "e44bda4f781252ce3cfc5e6856b0d99011abdbb87d445e6b32cd9c45b9c8db3f",
+      "size": 3772392,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "To guard the Stars and the Sea Together",
+      "short_caption_ru": "Вместе охранять звёзды и море",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\nThis image composition is amazing. In the far background of the landscape we see a chain of mountains that seems to mirror the structure of the Milky Way in the sky above. The strong daylight-like colours of the landscape are caused by the Moon, the bright light at the top of the image.\r\n\r\nTaken in Kinabalu, Malaysia, in February 2019, this image shows the alignment of planets and the Moon, conveying the idea of the ecliptic as the central line of the Zodiac, the plane within which all planets orbit the Sun. The ecliptic is the central line of the Zodiac, so the region of about five to 10 degrees either side of the ecliptic is where the constellations of the Zodiac are located. Starting from the horizon towards the bottom left of the image we can see the planets Venus, Saturn and Jupiter. The planets have different cultural significance for people around the world, and are deeply embedded in social, religious and practical aspects of life. For example, Wardaman traditions of Indigenous Australians associate the planets with ancestor spirits who traverse the Celestial Road (ecliptic). The appearance and disappearance of planets in the sky are associated with various ceremonies. For example, when Venus starts being the “Morning star” after having been the “Evening star”, this marks the Banumbirr ceremony for the Yolnu people of Arnhem Land, in Australia.\r\n\r\nThe image also shows the constellations Scorpius, Aquila, Lupus and Triangulum Australe, the asterism of the Teapot, and the two pointer stars Alpha and Beta Centauri. The constellations, asterisms and individual stars within them have significance in many different cultures.\r\n\r\nMalaysia, being close to the equator, has had connections to the north as well as to the south and almost the whole sky is visible over the course of the year. The star Antares is seen by the Kokatha people of the Western Desert as Kogolongo, the red tailed black cockatoo, while the Boorong refer to it as Djuit, the red-rumped parrot. The two stars which form the stinger of Scorpius (Shaula and Lesath), are called Karik Karik, the Australian Kestrel.",
+      "caption_ru": "Победитель конкурса астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\nЭта композиция изображения потрясающая. На дальнем фоне ландшафта мы видим цепь гор, которая, кажется, отражает структуру Млечного Пути на небе над ней. Сильные цвета ландшафта, похожие на дневной свет, вызваны Луной, ярким светом в верхней части изображения.\r\n\r\nСнято в Кинабалу, Малайзия, в феврале 2019 года. Это изображение показывает выравнивание планет и Луны, передавая идею эклиптики как центральной линии Зодиака, плоскости, в которой все планеты вращаются вокруг Солнца. Эклиптика — это центральная линия Зодиака, поэтому область примерно от пяти до 10 градусов по обе стороны от эклиптики — это место, где расположены созвездия Зодиака. Начиная от горизонта к нижнему левому углу изображения, мы можем видеть планеты Венеру, Сатурн и Юпитер. Планеты имеют различное культурное значение для людей по всему миру и глубоко укоренены в социальных, религиозных и практических аспектах жизни. Например, традиции вардаман коренных австралийцев связывают планеты с духами предков, которые пересекают Небесную Дорогу (эклиптику). Появление и исчезновение планет на небе связаны с различными церемониями. Например, когда Венера начинает быть «Утренней звездой» после того, как была «Вечерней звездой», это знаменует церемонию Банумбирр для народа йолнгу из Арнемленда, Австралия.\r\n\r\nИзображение также показывает созвездия Скорпиона, Орла, Волка и Южного Треугольника, астеризм Чайник и две указательные звезды Альфа и Бета Центавра. Созвездия, астеризмы и отдельные звёзды в них имеют значение во многих различных культурах.\r\n\r\nМалайзия, находясь близко к экватору, имела связи как с севером, так и с югом, и почти всё небо видно в течение года. Звезду Антарес народ коката из Западной пустыни видит как Коголонго, краснохвостого чёрного какаду, а бурронг называют её Джуит, красноспинным попугаем. Две звезды, образующие жало Скорпиона (Шаула и Лесат), называются Карик Карик, австралийской пустельгой.",
+      "alt_en": "The bright Moon illuminates a beach. Three bright planets form a line below and to the right of the Moon.",
+      "alt_ru": "Яркая Луна освещает пляж. Три яркие планеты образуют линию ниже и правее Луны.",
+      "credit": "Likai Lin/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        66,
+        167,
+        203,
+        294,
+        299,
+        377,
+        391,
+        429,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:4y27IO92Go11",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7421682/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Romanian%20Orion%2C%20by%20Alex%20Conu.jpg",
+      "record_url": "https://astro4edu.org/resources/media/4y27IO92Go11/",
+      "original_path": "data/media/original/media_4y27IO92Go11.jpg",
+      "ru_path": null,
+      "sha256": "57534b14d8535481a2f653e829cc12f92121d681b18c0000171a823d78c56633",
+      "size": 6373266,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Romanian Orion",
+      "short_caption_ru": "Румынский Орион",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nTaken in Romania in August 2012, this image shows two of the most recognisable constellations in the sky, Orion and Taurus.\r\n\r\nOrion, the Hunter, is found near the horizon. The most prominent star visible in this image is Betelgeuse, while the asterism of Orion’s belt is formed by three aligned bright stars. Just above Orion we can find Taurus, one of the constellations of the Zodiac. As the Zodiac is inherited from Babylon, The Bull of Heaven represents a mighty but dangerous creature that was defeated by King Gilgamesh and his friend Enkidu. They cut the Bull in half and sacrificed the animal to the gods in order to protect their people. Taurus is also home to the star cluster Pleiades, also known as the Seven Sisters. Two planets are visible: Venus, the bright spot near the fence, and Jupiter, the bright spot at the top, next to the Bull’s face.\r\n\r\nDifferent cultures have included the stars of these constellations in their own mythology. The Romanians, for instance, after Christianisation identified four other constellations using some of the stars of Orion and others surrounding it. One such constellation is called Trisfetitele (the Three Saints), which is associated with the three stars comprising Orion's Belt, representing the Three Hierarchs Basil, Gregory and John. This same asterism is also called Three Wise Men, Kings from the East or just Three Kings — all of these names being rooted in the Christian religion.\r\n\r\nThe agricultural calendar, in contrast, led farmers to define two other constellations, the Little Plough and the Sickle. Both are seen in the southern half of the Orion rectangle; the Little Plough is drawn by connecting the southern quadrilateral with Orion’s left shoulder, and the Sickle is formed by connecting Orion’s left foot (Rigel) with the belt stars, forming an arch and completing the form of a hoe. In the cultural calendar, these constellations were used to announce the harvest of wheat/grain. Finally, the fourth Romanian constellation is the Great Auger, where Orion’s belt represents the handle of the auger, and Betelgeuse is the tip, facing towards Pollux in Gemini. This constellation is associated with treasure, as Romanian peasants believe that the Auger points to the treasure when they approach the end of the world.\r\n\r\nMost of the official star names in Orion are Arabic; Mintaka (meaning “belt”) is at the waist; Alnitak (meaning “girdle”) and Alnilam (meaning “string”) are at the belt; and Rigel (meaning foot) is at the left foot. The star on the left shoulder is named Bellatrix, the Latin term for a female warrior. The star at the right leg is called Saiph, for the sword or sabre of the Arabic Orion.",
+      "caption_ru": "Победитель в 2022 конкурсе астрофотографии IAU OAE, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nСнятое в Румынии в августе 2012, это изображение показывает два самых узнаваемых созвездия на небе — Орион и Телец.\r\n\r\nОрион, Охотник, находится у горизонта. Самая заметная звезда на этом изображении — Бетельгейзе, а астеризм пояса Ориона образован тремя выстроенными в линию яркими звёздами. Чуть выше Ориона мы можем найти Тельца, одно из созвездий Зодиака. Поскольку Зодиак унаследован от Вавилона, Небесный Бык представляет могущественное, но опасное существо, которое было побеждено царём Гильгамешем и его другом Энкиду. Они разрубили Быка пополам и принесли животное в жертву богам, чтобы защитить свой народ. В Тельце также находится звёздное скопление Плеяды, известное также как Семь Сестёр. Видны две планеты: Венера, яркое пятно возле забора, и Юпитер, яркое пятно вверху, рядом с мордой Быка.\r\n\r\nРазные культуры включали звёзды этих созвездий в свою мифологию. Например, румыны после христианизации выделили четыре других созвездия, используя некоторые звёзды Ориона и другие окружающие его. Одно такое созвездие называется Трисфетителе (Три Святителя), которое связано с тремя звёздами, составляющими пояс Ориона, представляющими трёх иерархов Василия, Григория и Иоанна. Этот же астеризм также называют Тремя волхвами, Царями с Востока или просто Тремя царями — все эти названия уходят корнями в христианскую религию.\r\n\r\nСельскохозяйственный календарь, напротив, побудил фермеров определить два других созвездия — Малый Плуг и Серп. Оба видны в южной половине прямоугольника Ориона; Малый Плуг образован соединением южного четырёхугольника с левым плечом Ориона, а Серп образуется соединением левой ступни Ориона (Ригель) со звёздами пояса, образуя дугу и завершая форму мотыги. В культурном календаре эти созвездия использовались для объявления урожая пшеницы/зерна. Наконец, четвёртое румынское созвездие — Великий Бур, где пояс Ориона представляет рукоятку бура, а Бетельгейзе — остриё, направленное к Поллуксу в Близнецах. Это созвездие связано с сокровищами, так как румынские крестьяне верят, что Бур указывает на сокровище, когда они приближаются к концу мира.\r\n\r\nБольшинство официальных названий звёзд в Орионе — арабские; Минтака (означающая «пояс») находится на талии; Альнитак (означающая «кушак») и Альнилам (означающая «нить») находятся на поясе; а Ригель (означающая «нога») находится на левой ноге. Звезда на левом плече называется Беллатрикс, латинский термин для женщины-воина. Звезда на правой ноге называется Сайф, что означает меч или саблю арабского Ориона.",
+      "alt_en": "Orion appears as an hourglass shape of stars in the bottom of the image. Above Taurus is v-shaped with a small star cluster",
+      "alt_ru": "Орион предстаёт как форма песочных часов из звёзд в нижней части изображения. Над Тельцом — v-образная форма с небольшим звёздным скоплением",
+      "credit": "Alex Conu/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        66,
+        126,
+        167,
+        351,
+        377,
+        429,
+        467,
+        469
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:LD41wW44WS59",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425140/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20The%20Pillar%20of%20Creation%2C%20by%20Giorgia%20Hofer.jpg",
+      "record_url": "https://astro4edu.org/resources/media/LD41wW44WS59/",
+      "original_path": "data/media/original/media_LD41wW44WS59.jpg",
+      "ru_path": null,
+      "sha256": "39234521882d0b301446b9d71352927806efa434edf64a2893ff5cb79609435c",
+      "size": 10714607,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Pillar of Creation",
+      "short_caption_ru": "Столп Творения",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image shows the night sky over Tre Cime di Lavaredo, (Dolomites Natural Park), in the region of Veneto, Italy, in October 2021.\r\n\r\nThe bright spot on the left-hand side is the planet Jupiter, appearing in the constellation Capricorn. To the right of Jupiter and below the two horn stars of Capricorn is the planet Saturn. Just above Jupiter we can see parts of Aquarius, one of the largest constellations and also part of the Zodiac. North of these constellations, left of the Milky Way, there are mostly faint stars. The brighter whitish one in the top left corner is Enif, a binary star in the constellation Pegasus.\r\n\r\nThe Milky Way seems to emerge from a rock like celestial vapour. Roughly centred in the image are two bright stars left and right of the Milky Way: Altair and Vega, respectively. They seem to be separated by the galactic stream, as told in a popular Chinese folk story where they represent a loving couple. Today, in popular astronomy, the fairly bright star at the upper edge of the photograph is added to form a huge triangle with them, the Summer Triangle in the northern hemisphere.\r\n\r\nAltair is the brightest star of the Babylonian constellation Aquila, the Eagle. In ancient Babylon, it was said that the Eagle was carrying king Etana up in the air so that he could see Earth from above. Next to the Babylonian Eagle was the constellation of the Corpse, that returned only in Roman times when Ptolemy put it below the Eagle as the new sub-constellation “Antinous”. It is seen as the corpse (or soul) of the Roman emperor Hadrian’s favourite who had just died in the Nile.\r\n\r\nVega is the bright white star to the right of the Milky Way. It forms part of the small constellation Lyra, famous for hosting the Ring Nebula, which is an impressive planetary nebula — a dying star blowing its gas into space.\r\n\r\nAt the right edge of the image, three stars in a bent row appear rather prominently. This is the handle of the Big Dipper pointing downwards to a bright star close to the horizon: Arcturus, the bright star of the constellation Bootes (Greek: the Ploughman). This kite-like constellation is probably a pagan interpretation of the Babylonian god “Enlil” whose constellation also occupied that place in the sky. The Romans re-interpreted this figure as The Ox-Driver who controlled the Seven Oxen seen in the bright stars of Ursa Major.\r\n\r\nDirectly right of Vega, there is the huge constellation Hercules and below it, directly to the left of Bootes, we find a half-circle of stars comprising the small constellation Corona Borealis, associated with Ariadne, daughter of King Minos of Crete in Greek culture.\r\n\r\nThe lights seen in the bottom left side of the image are due to the reflection of artificial lights in the clouds.",
+      "caption_ru": "Победитель в 2022 конкурсе астрофотографии IAU OAE, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение показывает ночное небо над Тре-Чиме-ди-Лаваредо (природный парк Доломиты) в регионе Венето, Италия, в октябре 2021.\r\n\r\nЯркое пятно слева — это планета Юпитер, появляющаяся в созвездии Козерога. Справа от Юпитера и ниже двух звёзд-рогов Козерога находится планета Сатурн. Чуть выше Юпитера мы можем видеть части Водолея, одного из крупнейших созвездий и также части Зодиака. К северу от этих созвездий, слева от Млечного Пути, находятся в основном слабые звёзды. Более яркая беловатая звезда в верхнем левом углу — это Эниф, двойная звезда в созвездии Пегаса.\r\n\r\nМлечный Путь, кажется, поднимается из скалы, как небесный пар. Примерно в центре изображения находятся две яркие звезды слева и справа от Млечного Пути: Альтаир и Вега соответственно. Они кажутся разделёнными галактическим потоком, как рассказывается в популярной китайской народной истории, где они представляют любящую пару. Сегодня в популярной астрономии довольно яркая звезда у верхнего края фотографии добавляется, чтобы образовать с ними огромный треугольник — Летний треугольник в Северном полушарии.\r\n\r\nАльтаир — самая яркая звезда вавилонского созвездия Орла. В древнем Вавилоне говорили, что Орёл нёс царя Этану в воздух, чтобы тот мог увидеть Землю сверху. Рядом с вавилонским Орлом находилось созвездие Трупа, которое вернулось только в римские времена, когда Птолемей поместил его под Орлом как новое под-созвездие «Антиной». Оно рассматривается как труп (или душа) фаворита римского императора Адриана, который только что умер в Ниле.\r\n\r\nВега — яркая белая звезда справа от Млечного Пути. Она является частью небольшого созвездия Лиры, известного тем, что в нём находится Кольцевая туманность — впечатляющая планетарная туманность, умирающая звезда, выбрасывающая свой газ в космос.\r\n\r\nУ правого края изображения три звезды в изогнутом ряду выглядят довольно заметно. Это ручка Большого Ковша, указывающая вниз на яркую звезду близко к горизонту: Арктур, яркая звезда созвездия Волопаса (греч.: Пахарь). Это похожее на воздушного змея созвездие, вероятно, является языческой интерпретацией вавилонского бога «Энлиля», чьё созвездие также занимало это место на небе. Римляне переинтерпретировали эту фигуру как Погонщика Волов, который управлял Семью Волами, видимыми в ярких звёздах Большой Медведицы.\r\n\r\nПрямо справа от Веги находится огромное созвездие Геркулеса, а под ним, прямо слева от Волопаса, мы находим полукруг звёзд, составляющих небольшое созвездие Северной Короны, связанное с Ариадной, дочерью царя Миноса Критского в греческой культуре.\r\n\r\nОгни, видимые в нижней левой части изображения, обусловлены отражением искусственных огней в облаках.",
+      "alt_en": "The Milky Way appears as two vertical diffuse bands of light either side of a dark line, over a rocky outcrop.",
+      "alt_ru": "Млечный Путь предстаёт как две вертикальные рассеянные полосы света по обе стороны от тёмной линии над скалистым выступом.",
+      "credit": "Giorgia Hofer/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        48,
+        85,
+        167,
+        199,
+        294,
+        438,
+        472
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Xt27xR35UJ97",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359555/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Jupiter,%20Venus,%20Moon%20Conjunction,%20by%20Joslynn%20Appel.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/Xt27xR35UJ97/",
+      "original_path": "data/media/original/media_Xt27xR35UJ97.jpg",
+      "ru_path": null,
+      "sha256": "3df56119e7286a1c663e0988f121e4c206fa2b536b2f95733a3fdd0ce48f1ca5",
+      "size": 132001,
+      "title_en": "Jupiter, Venus, Moon Conjunction",
+      "title_ru": "Соединение Юпитера, Венеры и Луны",
+      "short_caption_en": "Jupiter, Venus, Moon Conjunction",
+      "short_caption_ru": "Соединение Юпитера, Венеры и Луны",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nCaptured with a smartphone in February 2023, over the skies of Luzerne County, Pennsylvania, USA, this photograph offers a glimpse into a conjunction, an enthralling astronomical phenomenon that occurs when two or more celestial objects are seen in close proximity in the sky from our perspective, despite the objects not being physically near to each other. In this image, the brilliance of Jupiter (top), the allure of Venus (middle), and the familiar glow of our Moon (bottom) dance together against a backdrop of delicate clouds and a treeline silhouette, making it a moment worth treasuring.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2023 в категории «Неподвижные изображения, сделанные исключительно на смартфоны/мобильные устройства».\r\n\r\nСнятый на смартфон в феврале 2023 над небом округа Лузерн, Пенсильвания, США, этот снимок даёт представление о соединении — захватывающем астрономическом явлении, которое происходит, когда два или более небесных объекта видны с нашей точки зрения близко друг к другу на небе, хотя физически они не находятся рядом. На этом изображении блеск Юпитера (вверху), очарование Венеры (в середине) и знакомое свечение нашей Луны (внизу) танцуют вместе на фоне нежных облаков и силуэта лесополосы, что делает этот момент достойным восхищения.",
+      "alt_en": "Three bright objects in the sky with one top left, one in the middle and one lower centre.",
+      "alt_ru": "Три ярких объекта в небе: один вверху слева, один в середине и один ниже по центру.",
+      "credit": "Joslynn Appel/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        65,
+        167,
+        203,
+        377
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:3G66Lc31HL95",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359720/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Milky%20Way%20Stargazer,%20by%20Jianfeng%20Dai.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/3G66Lc31HL95/",
+      "original_path": "data/media/original/media_3G66Lc31HL95.jpg",
+      "ru_path": null,
+      "sha256": "f45666574233f3c98e9b2a94a1a5e384a32acf9808882c3031ef0e5339f66c31",
+      "size": 46783880,
+      "title_en": "Milky Way Stargazer",
+      "title_ru": "Звездочёт Млечного Пути",
+      "short_caption_en": "Milky Way Stargazer",
+      "short_caption_ru": "Звездочёт Млечного Пути",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nIn May 2020, atop Mount Gongga in Sichuan, China, a lone observer stands amidst the cool night air at high altitude. Looking up, they witness the grand arc of the Milky Way stretching across the sky, captured using a smartphone set to panorama mode. This image was taken far away from the city lights at an elevation of 4200 metres, where the quiet of the mountains accentuate the connection between Earth and the vast cosmos. Jupiter, a bright planet, can be seen alongside the central bulge of the Milky Way, while a subtle green airglow on the horizon adds an intriguing touch to the scene.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии IAU OAE 2023, категория «Неподвижные изображения, снятые исключительно на смартфоны/мобильные устройства».\r\n\r\nВ мае 2020 на вершине горы Гунга в провинции Сычуань, Китай, одинокий наблюдатель стоит в прохладном ночном воздухе на большой высоте. Подняв взгляд, он видит величественную дугу Млечного Пути, протянувшуюся по небу, запечатлённую с помощью смартфона в режиме панорамы. Этот снимок сделан вдали от городских огней на высоте 4200 метров, где тишина гор подчёркивает связь между Землёй и необъятным космосом. Юпитер, яркая планета, виден рядом с центральным балджем Млечного Пути, а слабое зелёное свечение атмосферы на горизонте придаёт сцене интригующий штрих.",
+      "alt_en": "A person stands next to a snowy lake. The Milky Way stretches from the top of the image to the horizon.",
+      "alt_ru": "Человек стоит рядом со заснеженным озером. Млечный Путь протянулся от верхнего края изображения до горизонта.",
+      "credit": "Jianfeng Dai/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        167,
+        199
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

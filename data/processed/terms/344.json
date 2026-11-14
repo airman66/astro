@@ -1,0 +1,169 @@
+{
+  "id": "term:344",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 344,
+    "url": "https://astro4edu.org/resources/glossary/term/344/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=344",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:58.258890+00:00",
+    "sha256": "158dfc0319f1a1246df8f3ee12ba63de52af49952e97fd7e4e2812c2d530710b"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      145,
+      342,
+      343,
+      475
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Sundial",
+      "body": "The Sun's position in the sky has long been used to define time, with local noon at the point of the Sun's greatest height above the horizon and the day defined in the narrow sense as the period between sunrise and sunset, and in the broader sense as the length of time between one local noon and the next. A sundial is a device that projects the direction of the Sun onto a surface with markings, usually by tracking the shadow of an elongated pointer known as the \"gnomon\". When that shadow points at the marking designated \"12\", for instance, one would read off the time as 12 o'clock. Simple sundials only show apparent solar time, which is directly linked to the Sun's sky position. More elaborate versions have provisions for allowing the determination of mean solar time.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Horizon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/145/",
+          "text_ru": "Горизонт"
+        },
+        {
+          "text": "Sun",
+          "url": "https://www.astro4edu.org/resources/glossary/term/342/",
+          "text_ru": "Солнце"
+        },
+        {
+          "text": "Sun Path (Day Arc)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/343/",
+          "text_ru": "Путь Солнца (дневная дуга)"
+        },
+        {
+          "text": "Shadow",
+          "url": "https://www.astro4edu.org/resources/glossary/term/475/",
+          "text_ru": "Тень"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Sundial</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The Sun's position in the sky has long been used to define time, with local noon at the point of the Sun's greatest height above the horizon and the day defined in the narrow sense as the period between sunrise and sunset, and in the broader sense as the length of time between one local noon and the next. A sundial is a device that projects the direction of the Sun onto a surface with markings, usually by tracking the shadow of an elongated pointer known as the \"gnomon\". When that shadow points at the marking designated \"12\", for instance, one would read off the time as 12 o'clock. Simple sundials only show apparent solar time, which is directly linked to the Sun's sky position. More elaborate versions have provisions for allowing the determination of mean solar time.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/145/\">Horizon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/342/\">Sun</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/343/\">Sun Path (Day Arc)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/475/\">Shadow</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Солнечные часы",
+      "body_ru": "Положение Солнца на небе издавна использовалось для определения времени: местный полдень — это момент наибольшей высоты Солнца над горизонтом, а день в узком смысле определяется как период между восходом и закатом, а в широком смысле — как промежуток времени между одним местным полднем и следующим. Солнечные часы — это устройство, которое проецирует направление Солнца на поверхность с разметкой, обычно отслеживая тень от удлинённого указателя, известного как «гномон». Когда эта тень указывает на отметку, обозначенную «12», например, время читается как 12 часов. Простые солнечные часы показывают только истинное солнечное время, которое напрямую связано с положением Солнца на небе. Более сложные версии имеют приспособления для определения среднего солнечного времени."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/344/\">الساعة الشمسية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/344/\">Sonnenuhr </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/344/\">Reloj de sol </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/344/\">Cadran solaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/344/\">Meridiana </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/344/\">해시계 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/344/\">Relógio de sol </a></span></li>\n<li><b>Albanian: </b><span dir=\"LTR\" lang=\"sq\"><a class=\"link-bold\" href=\"/sq/resources/glossary/term/344/\">Orë diellore </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/344/\">日晷 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/344/\">日晷 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Making a Sundial astroEDU educational activity (links to astroEDU website) Description: Build a sundial and discover how time can be measured. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Measurement \n  \n  , Measure \n  \n  , History \n  \n  , Clocks Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Modelling \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models Navigate like a Viking – Use the Sun, not your phone! astroEDU educational activity (links to astroEDU website) Description: Learn how the Vikings used the sky to navigate at sea with a hands-on activity! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Maps \n  \n  , Coordinates \n  \n  , Celestial navigation Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/making-a-sundial/\"><img alt=\"Making a Sundial\" src=\"/media/astroedu/images/making-a-sundial_en_thumbnail_1FI9qIF.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/making-a-sundial/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Making a Sundial</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a sundial and discover how time can be measured.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Measurement \n  \n  , Measure \n  \n  , History \n  \n  , Clocks \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Observation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/navigate-like-a-viking-use-the-sun-not-your-phone/\"><img alt=\"Navigate like a Viking – Use the Sun, not your phone!\" src=\"/media/astroedu/images/navigate-like-a-viking-use-the-sun-not-your-phone_en_thumbnail_kqK7kgs.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/navigate-like-a-viking-use-the-sun-not-your-phone/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Navigate like a Viking – Use the Sun, not your phone!</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn how the Vikings used the sky to navigate at sea with a hands-on activity!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Geography \n  \n  , Maps \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Изготовление солнечных часов — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Создайте солнечные часы и узнайте, как можно измерять время. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Теги: Практическая работа, Измерение, Измерять, История, Часы. Возрастные диапазоны: 6-8, 8-10, 10-12. Уровень образования: Средняя школа, Начальная школа. Области обучения: Моделирование, Обучение на основе наблюдений, Структурированное исследовательское обучение. Затраты: Средняя стоимость. Продолжительность: 1 час. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Разработка и использование моделей. Навигация как викинг — используйте Солнце, а не телефон! — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте, как викинги использовали небо для навигации в море, с помощью практического занятия! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Теги: История, География, Карты, Координаты, Небесная навигация. Возрастные диапазоны: 12-14, 14-16. Уровень образования: Средняя школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение. Затраты: Средняя стоимость. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Разработка и использование моделей, Планирование и проведение исследований, Использование математики и вычислительного мышления."
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Sundial",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Sundial",
+          "body": "The Sun's position in the sky has long been used to define time, with local noon at the point of the Sun's greatest height above the horizon and the day defined in the narrow sense as the period between sunrise and sunset, and in the broader sense as the length of time between one local noon and the next. A sundial is a device that projects the direction of the Sun onto a surface with markings, usually by tracking the shadow of an elongated pointer known as the \"gnomon\". When that shadow points at the marking designated \"12\", for instance, one would read off the time as 12 o'clock. Simple sundials only show apparent solar time, which is directly linked to the Sun's sky position. More elaborate versions have provisions for allowing the determination of mean solar time."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Making a Sundial astroEDU educational activity (links to astroEDU website) Description: Build a sundial and discover how time can be measured. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Measurement \n  \n  , Measure \n  \n  , History \n  \n  , Clocks Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Modelling \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models Navigate like a Viking – Use the Sun, not your phone! astroEDU educational activity (links to astroEDU website) Description: Learn how the Vikings used the sky to navigate at sea with a hands-on activity! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Maps \n  \n  , Coordinates \n  \n  , Celestial navigation Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking"
+        }
+      }
+    },
+    "ru": {
+      "title": "Солнечные часы",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Солнечные часы",
+          "body": "Положение Солнца на небе издавна использовалось для определения времени: местный полдень — это момент наибольшей высоты Солнца над горизонтом, а день в узком смысле определяется как период между восходом и закатом, а в широком смысле — как промежуток времени между одним местным полднем и следующим. Солнечные часы — это устройство, которое проецирует направление Солнца на поверхность с разметкой, обычно отслеживая тень от удлинённого указателя, известного как «гномон». Когда эта тень указывает на отметку, обозначенную «12», например, время читается как 12 часов. Простые солнечные часы показывают только истинное солнечное время, которое напрямую связано с положением Солнца на небе. Более сложные версии имеют приспособления для определения среднего солнечного времени."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Изготовление солнечных часов — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Создайте солнечные часы и узнайте, как можно измерять время. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Теги: Практическая работа, Измерение, Измерять, История, Часы. Возрастные диапазоны: 6-8, 8-10, 10-12. Уровень образования: Средняя школа, Начальная школа. Области обучения: Моделирование, Обучение на основе наблюдений, Структурированное исследовательское обучение. Затраты: Средняя стоимость. Продолжительность: 1 час. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Разработка и использование моделей. Навигация как викинг — используйте Солнце, а не телефон! — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте, как викинги использовали небо для навигации в море, с помощью практического занятия! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Теги: История, География, Карты, Координаты, Небесная навигация. Возрастные диапазоны: 12-14, 14-16. Уровень образования: Средняя школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение. Затраты: Средняя стоимость. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Разработка и использование моделей, Планирование и проведение исследований, Использование математики и вычислительного мышления."
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

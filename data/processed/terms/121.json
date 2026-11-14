@@ -1,0 +1,464 @@
+{
+  "id": "term:121",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 121,
+    "url": "https://astro4edu.org/resources/glossary/term/121/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=121",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:48.715905+00:00",
+    "sha256": "6fd858edfe8e58cef26dc85b3a3d290730e1238b4c84988a5997fc8330c951f2"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      159,
+      167,
+      204,
+      484
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Galilean Satellites",
+      "body": "The Galilean satellites are the four biggest and brightest satellites, or moons, orbiting the planet Jupiter: Io, Europa, Ganymede, and Callisto. Closest to Jupiter is Io, which has hundreds of active volcanoes. The main reason for Io's vulcanism is that Io is getting \"kneaded\" by the tidal effects of Jupiter's gravity. Europa's entire surface is covered with ice. Under the ice is believed to be an ocean of liquid water which is one of the best candidates for harboring life outside of Earth in the Solar System. Ganymede is the largest moon in our Solar System, and also the moon with the largest mass, at twice the mass of Earth's Moon. Callisto is almost exactly the same size as the planet Mercury, but has only about one third of Mercury's mass. The four Galilean moons were discovered by Galileo Galilei in 1610, as one of several discoveries in Galilei's pioneering campaign of using a telescope for astronomical observations. Galilei was able to document that, over time, the four moons orbit Jupiter like a miniature solar system. This was a clear demonstration that astronomical objects can orbit a center other than the Earth; this observation played an important role in the shifting of the scientific consensus from the Earth-centered (geocentric) to the Sun-centered (heliocentric) view of the Solar System.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Io",
+          "url": "https://www.astro4edu.org/resources/glossary/term/159/",
+          "text_ru": "Ио"
+        },
+        {
+          "text": "Jupiter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/167/",
+          "text_ru": "Юпитер"
+        },
+        {
+          "text": "Moons",
+          "url": "https://www.astro4edu.org/resources/glossary/term/204/",
+          "text_ru": "Спутники"
+        },
+        {
+          "text": "Tidal Locking",
+          "url": "https://www.astro4edu.org/resources/glossary/term/484/",
+          "text_ru": "Приливный захват"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Galilean Satellites</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The Galilean satellites are the four biggest and brightest satellites, or moons, orbiting the planet Jupiter: Io, Europa, Ganymede, and Callisto. Closest to Jupiter is Io, which has hundreds of active volcanoes. The main reason for Io's vulcanism is that Io is getting \"kneaded\" by the tidal effects of Jupiter's gravity. Europa's entire surface is covered with ice. Under the ice is believed to be an ocean of liquid water which is one of the best candidates for harboring life outside of Earth in the Solar System. Ganymede is the largest moon in our Solar System, and also the moon with the largest mass, at twice the mass of Earth's Moon. Callisto is almost exactly the same size as the planet Mercury, but has only about one third of Mercury's mass. <br/><br/>The four Galilean moons were discovered by Galileo Galilei in 1610, as one of several discoveries in Galilei's pioneering campaign of using a telescope for astronomical observations. Galilei was able to document that, over time, the four moons orbit Jupiter like a miniature solar system. This was a clear demonstration that astronomical objects can orbit a center other than the Earth; this observation played an important role in the shifting of the scientific consensus from the Earth-centered (geocentric) to the Sun-centered (heliocentric) view of the Solar System.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/159/\">Io</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/167/\">Jupiter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/204/\">Moons</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/484/\">Tidal Locking</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Галилеевы спутники",
+      "body_ru": "Галилеевы спутники — это четыре крупнейших и ярчайших спутника, или луны, обращающиеся вокруг планеты Юпитер: Ио, Европа, Ганимед и Каллисто. Ближе всего к Юпитеру находится Ио, на котором сотни действующих вулканов. Основная причина вулканизма Ио заключается в том, что Ио «разминается» приливными эффектами гравитации Юпитера. Вся поверхность Европы покрыта льдом. Подо льдом, как считается, находится океан жидкой воды, который является одним из лучших кандидатов на наличие жизни вне Земли в Солнечной системе. Ганимед — крупнейший спутник в нашей Солнечной системе, а также спутник с наибольшей массой, вдвое превышающей массу Луны Земли. Каллисто почти точно такого же размера, как планета Меркурий, но имеет лишь около одной трети массы Меркурия. Четыре галилеевых спутника были открыты Галилео Галилеем в 1610 году как одно из нескольких открытий в новаторской кампании Галилея по использованию телескопа для астрономических наблюдений. Галилей смог задокументировать, что со временем четыре спутника обращаются вокруг Юпитера, как миниатюрная солнечная система. Это было ясной демонстрацией того, что астрономические объекты могут обращаться вокруг центра, отличного от Земли; это наблюдение сыграло важную роль в смещении научного консенсуса от геоцентрической (с центром на Земле) к гелиоцентрической (с центром на Солнце) модели Солнечной системы."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "ガリレオ衛星 (external link)",
+          "url": "https://astro-dic.jp/galilean-satellites/",
+          "text_ru": "Галилеевы спутники (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/121/\">أقمار غاليليو </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/121/\">Galileische Satelliten </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/121/\">Satélites galileanos </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/121/\">Satellites galiléens </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/121/\">Satelliti galileiani </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/galilean-satellites/\">ガリレオ衛星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/121/\">Satélites Galileanos </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/121/\">伽利略卫星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/121/\">伽利略衛星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/id29650bC11/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zm32gm18n086/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/oC21zv72nT69/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Hw14wj87AZ29/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://photojournal.jpl.nasa.gov/catalog/PIA02308",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/4C60sT99nw25/"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Galilean Satellites&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:id29650bC11",
+        "media:zm32gm18n086",
+        "media:oC21zv72nT69",
+        "media:Hw14wj87AZ29",
+        "media:4C60sT99nw25"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/id29650bC11/\"><img alt=\"The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.\" src=\"/media/multimedia/thumbnails/Jupiters_Rotation_by_Vishal_Sharma_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter's Rotation, by Vishal Sharma, India</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\n\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.<br/>\n<b>Credit:</b> Vishal Sharma/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zm32gm18n086/\"><img alt=\"The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots\" src=\"/media/multimedia/thumbnails/Jupiter_Moons_Movie2_by_Nicolas_Hurez_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter Moons Movie2, by Nicolas Hurez, Paul-Antoine Matrangolo, and Carl Pennypacker, United States of America</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).<br/>\n<b>Credit:</b> Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/oC21zv72nT69/\"><img alt=\"Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left\" src=\"/media/multimedia/thumbnails/Jupiter_Io_and_its_shadow_by_Ralf_Burkart_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter, Io and its shadow, by Ralf Burkart, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.<br/>\n<b>Credit:</b> Ralf Burkart/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Hw14wj87AZ29/\"><img alt=\"Io is roughly spherical. Its surface mostly consists of yellowish sulphuric compounds and rather small darker volcanos.\" src=\"/media/multimedia/thumbnails/PIA02308_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Io</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> NASA's Galileo spacecraft acquired its highest resolution images of Jupiter's moon Io on 3 July 1999. Io is one of the four Jovian moons discovered by Galileo Galilei in 1610. Io's colours are witness to its extensive volcanic activity as they stem from sulphuric compounds. Tidal forces from Jupiter and the neighbouring moons are the cause for Io's volcanism.<br/>\n<b>Credit:</b> NASA/JPL/University of Arizona\n\t  <a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA02308\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/4C60sT99nw25/\"><img alt=\"Europa is round with large patches of brown to white colours, covered by numerous crevices, randomly oriented on the surface\" src=\"/media/multimedia/thumbnails/Europa-moon-with-margins_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Europa</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image taken by NASA's Galileo space probe in September 1996 shows Jupiter's ice-covered satellite, Europa, in approximate natural color. Long, dark lines are fractures in the crust, some of which are more than 3,000 kilometers (1,850 miles) long. The bright feature containing a central dark spot in the lower third of the image is a young impact crater some 50 kilometers (31 miles) in diameter. Europa is about 3,160 kilometers (1,950 miles) in diameter, or about the size of Earth's moon.<br/>\n<b>Credit:</b> NASA/JPL/DLR\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Galilean Satellites&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Galilean Satellites",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Galilean Satellites",
+          "body": "The Galilean satellites are the four biggest and brightest satellites, or moons, orbiting the planet Jupiter: Io, Europa, Ganymede, and Callisto. Closest to Jupiter is Io, which has hundreds of active volcanoes. The main reason for Io's vulcanism is that Io is getting \"kneaded\" by the tidal effects of Jupiter's gravity. Europa's entire surface is covered with ice. Under the ice is believed to be an ocean of liquid water which is one of the best candidates for harboring life outside of Earth in the Solar System. Ganymede is the largest moon in our Solar System, and also the moon with the largest mass, at twice the mass of Earth's Moon. Callisto is almost exactly the same size as the planet Mercury, but has only about one third of Mercury's mass. The four Galilean moons were discovered by Galileo Galilei in 1610, as one of several discoveries in Galilei's pioneering campaign of using a telescope for astronomical observations. Galilei was able to document that, over time, the four moons orbit Jupiter like a miniature solar system. This was a clear demonstration that astronomical objects can orbit a center other than the Earth; this observation played an important role in the shifting of the scientific consensus from the Earth-centered (geocentric) to the Sun-centered (heliocentric) view of the Solar System."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Галилеевы спутники",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Галилеевы спутники",
+          "body": "Галилеевы спутники — это четыре крупнейших и ярчайших спутника, или луны, обращающиеся вокруг планеты Юпитер: Ио, Европа, Ганимед и Каллисто. Ближе всего к Юпитеру находится Ио, на котором сотни действующих вулканов. Основная причина вулканизма Ио заключается в том, что Ио «разминается» приливными эффектами гравитации Юпитера. Вся поверхность Европы покрыта льдом. Подо льдом, как считается, находится океан жидкой воды, который является одним из лучших кандидатов на наличие жизни вне Земли в Солнечной системе. Ганимед — крупнейший спутник в нашей Солнечной системе, а также спутник с наибольшей массой, вдвое превышающей массу Луны Земли. Каллисто почти точно такого же размера, как планета Меркурий, но имеет лишь около одной трети массы Меркурия. Четыре галилеевых спутника были открыты Галилео Галилеем в 1610 году как одно из нескольких открытий в новаторской кампании Галилея по использованию телескопа для астрономических наблюдений. Галилей смог задокументировать, что со временем четыре спутника обращаются вокруг Юпитера, как миниатюрная солнечная система. Это было ясной демонстрацией того, что астрономические объекты могут обращаться вокруг центра, отличного от Земли; это наблюдение сыграло важную роль в смещении научного консенсуса от геоцентрической (с центром на Земле) к гелиоцентрической (с центром на Солнце) модели Солнечной системы."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:id29650bC11",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5292034/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%E2%80%99s%20Rotation%2C%20by%20Vishal%20Sharma.mp4",
+      "record_url": "https://astro4edu.org/resources/media/id29650bC11/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse of Galilean moons orbiting Jupiter",
+      "short_caption_ru": "Таймлапс галилеевых спутников, обращающихся вокруг Юпитера",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\r\n\r\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.",
+      "caption_ru": "Третье место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники»: «Вращение Юпитера», автор Вишал Шарма, Индия.\r\n\r\nЭтот таймлапс красиво показывает вращение Юпитера и прохождение двух галилеевых спутников в правой части кадра. Юпитер совершает один оборот чуть менее чем за 10 часов, и мы видим, как Большое Красное Пятно перемещается слева направо. Два спутника за это короткое время проходят заметную часть своей орбиты. Это изображение было получено в 2020 на севере Индии.",
+      "alt_en": "The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.",
+      "alt_ru": "Планета Юпитер с двумя из четырёх галилеевых спутников (видны как яркие точки), обращающихся вокруг неё.",
+      "credit": "Vishal Sharma/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zm32gm18n086",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291803/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%20Moon%E2%80%99s%20Movie2%2C%20by%20Nicolas%20Hurez%2C%20Paul-Antoine%20Matrangolo%2C%20and%20Carl%20Pennypacker%2C%20United%20States%20of%20America.mp4",
+      "record_url": "https://astro4edu.org/resources/media/zm32gm18n086/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Four Galilean moons around the planet Jupiter.",
+      "short_caption_ru": "Четыре галилеевых спутника вокруг планеты Юпитер.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).",
+      "caption_ru": "Второе место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭта последовательность показывает орбиты четырёх галилеевых спутников вокруг планеты Юпитер. Можно увидеть почти два полных оборота самого внутреннего спутника Ио, в то время как другие спутники (Европа и Ганимед, но особенно Каллисто) находятся дальше и обращаются заметно медленнее. Изображения были получены в 2018 с помощью Лас-Кумбресской глобальной обсерватории в разных точках Земли, что позволило получить непрерывную последовательность снимков в течение примерно половины недели без пробелов в дневное время. При ясном небе и в течение нескольких ночей движение галилеевых спутников можно также наблюдать в бинокль (желательно опереть локти на какую-либо поверхность).",
+      "alt_en": "The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots",
+      "alt_ru": "Планета Юпитер, видимая здесь как яркий диск, вокруг которого обращаются четыре галилеевых спутника, видимые как яркие точки",
+      "credit": "Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:oC21zv72nT69",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291459/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Io%2C%20Ganymede%2C%20Shadow%2C%20by%20Ralf%20Burkart%2C%20Germany.gif",
+      "record_url": "https://astro4edu.org/resources/media/oC21zv72nT69/",
+      "original_path": "data/media/original/media_oC21zv72nT69.gif",
+      "ru_path": null,
+      "sha256": "71547b4d75a0fd7f1d53c3ad5af7749ec0c77cbed1bbb6b21d622ec30a2aa676",
+      "size": 12636069,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse showing he transit of one of the Galilean moons, Io, in front of Jupiter",
+      "short_caption_ru": "Таймлапс, показывающий прохождение одного из галилеевых спутников, Ио, перед Юпитером",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.",
+      "caption_ru": "Первое место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭтот таймлапс Юпитера, снятый в 2017 в Германии, прекрасно иллюстрирует прохождение одного из галилеевых спутников, Ио, перед Юпитером. Поскольку это просто спутник, отбрасывающий тень на планету, это эквивалентно лунному затмению на Земле, наблюдаемому издалека. Хотя тень спутника ясно видна с самого начала, сам спутник может быть трудно заметить на фоне прекрасных атмосферных полос Юпитера при первом просмотре видео. Повторный просмотр позволяет оценить быстрое движение и вращение в этом фантастическом наблюдении.",
+      "alt_en": "Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left",
+      "alt_ru": "Юпитер с цветными горизонтальными полосами облаков. Тень спутника Ио видна как тёмный круг в верхнем левом углу",
+      "credit": "Ralf Burkart/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253,
+        367
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Hw14wj87AZ29",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA02308.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Hw14wj87AZ29/",
+      "original_path": "data/media/original/media_Hw14wj87AZ29.jpg",
+      "ru_path": null,
+      "sha256": "ab639603fa8381f3c0d76b743c57e777518c5069233dd44a138908a2bc485583",
+      "size": 789806,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Jupiter's moon Io imaged by NASA's Galileo spacecraft",
+      "short_caption_ru": "Спутник Юпитера Ио, снятый космическим аппаратом НАСА «Галилео»",
+      "caption_en": "NASA's Galileo spacecraft acquired its highest resolution images of Jupiter's moon Io on 3 July 1999. Io is one of the four Jovian moons discovered by Galileo Galilei in 1610. Io's colours are witness to its extensive volcanic activity as they stem from sulphuric compounds. Tidal forces from Jupiter and the neighbouring moons are the cause for Io's volcanism.",
+      "caption_ru": "Космический аппарат НАСА «Галилео» получил свои самые высокодетализированные изображения спутника Юпитера Ио 3 июля 1999. Ио — один из четырёх юпитерианских спутников, открытых Галилео Галилеем в 1610. Цвета Ио свидетельствуют о его интенсивной вулканической активности, так как они происходят от сернистых соединений. Приливные силы со стороны Юпитера и соседних спутников являются причиной вулканизма Ио.",
+      "alt_en": "Io is roughly spherical. Its surface mostly consists of yellowish sulphuric compounds and rather small darker volcanos.",
+      "alt_ru": "Ио имеет примерно сферическую форму. Его поверхность в основном состоит из желтоватых сернистых соединений и довольно небольших тёмных вулканов.",
+      "credit": "NASA/JPL/University of Arizona",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA02308",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        121,
+        159,
+        204
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:4C60sT99nw25",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Europa-moon-with-margins.jpg",
+      "record_url": "https://astro4edu.org/resources/media/4C60sT99nw25/",
+      "original_path": "data/media/original/media_4C60sT99nw25.jpg",
+      "ru_path": null,
+      "sha256": "6db0527311d96ba14a4425a5164d5b6d545f217a82a7cf14b145cc7a5bdd0764",
+      "size": 622906,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Jupiter's moon Europa imaged by NASA's Galileo spacecraft",
+      "short_caption_ru": "Спутник Юпитера Европа, снятый космическим аппаратом НАСА «Галилео»",
+      "caption_en": "This image taken by NASA's Galileo space probe in September 1996 shows Jupiter's ice-covered satellite, Europa, in approximate natural color. Long, dark lines are fractures in the crust, some of which are more than 3,000 kilometers (1,850 miles) long. The bright feature containing a central dark spot in the lower third of the image is a young impact crater some 50 kilometers (31 miles) in diameter. Europa is about 3,160 kilometers (1,950 miles) in diameter, or about the size of Earth's moon.",
+      "caption_ru": "Это изображение, полученное космическим зондом НАСА «Галилео» в сентябре 1996, показывает покрытый льдом спутник Юпитера Европу в приблизительно естественном цвете. Длинные тёмные линии — это трещины в коре, некоторые из которых длиннее 3,000 километров (1,850 миль). Яркая деталь с центральным тёмным пятном в нижней трети изображения — это молодой ударный кратер диаметром около 50 километров (31 миль). Диаметр Европы составляет около 3,160 километров (1,950 миль), или примерно размер Луны Земли.",
+      "alt_en": "Europa is round with large patches of brown to white colours, covered by numerous crevices, randomly oriented on the surface",
+      "alt_ru": "Европа круглая, с большими участками от коричневого до белого цвета, покрыта многочисленными трещинами, беспорядочно ориентированными на поверхности",
+      "credit": "NASA/JPL/DLR",
+      "credit_url": null,
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        121,
+        204
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:ai2kA64Y226",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/ganymede-seen-by-juno-spacecraft.png",
+      "record_url": "https://astro4edu.org/resources/media/ai2kA64Y226/",
+      "original_path": "data/media/original/media_ai2kA64Y226.png",
+      "ru_path": null,
+      "sha256": "f3657f4e0b3a47add10f5bd954b85831fca29091db974684383d49d304fc66cc",
+      "size": 1845505,
+      "title_en": "Ganymede seen by Juno spacecraft",
+      "title_ru": "Ганимед, снятый космическим аппаратом «Юнона»",
+      "short_caption_en": "Ganymede seen by Juno spacecraft",
+      "short_caption_ru": "Ганимед, снятый космическим аппаратом «Юнона»",
+      "caption_en": "Ganymede is the largest and most massive natural moon of Jupiter, and at the same time, the largest moon in the solar system. It also stands out as it is the only moon in the solar system which has an internally generated magnetic field. This is likely created by a liquid iron or iron sulfide core. \r\n\r\nWith a diameter of over 5,000 kilometers, it exceeds Mercury in size. Although it has more than twice the mass of Earth's Moon, it hosts weaker surface gravity than Mercury, Io, and the Moon due to its lower mean density. \r\n\r\nGanymede's appearance is primarily composed of darker, heavily cratered regions, and brighter, less bombarded ones with deep grooves and ridges indicating geological activity. Whether this might be caused by tidal heating is still subject to further analysis. The brighter regions make up around two-thirds of Ganymede's surface. \r\n\r\nThe remaining area consists of dark regions, saturated with impact craters, which have been dated back to four billion years. It is assumed that the moon hosts a large saltwater ocean under its icy surface with extreme depths of up to 800 kilometers. \r\n\r\nGanymede likely has a very tenuous oxygen atmosphere, comparable to that found on the Jupiter moon Europa. It cannot be interpreted as a sign of life. Instead, it is thought that hydrogen and oxygen are split up by radiation on the moon's surface.\r\n\r\nThe first space probe to visit Ganymede was Pioneer 10, performing a high-speed flyby manoeuvre through the Jupiter system. Since then, it has been investigated by several other probes such as Galileo, New Horizons, and Juno. The Jupiter Icy Moons Explorer (JUICE) will be the first to actually enter orbit around Ganymede itself (in around 2034) to further study the moon's magnetic and icy surface. JUICE will impact Ganymede as the last act of its mission.",
+      "caption_ru": "Ганимед — крупнейший и самый массивный естественный спутник Юпитера, а также крупнейший спутник в Солнечной системе. Он также выделяется тем, что является единственным спутником в Солнечной системе, обладающим собственным магнитным полем. Вероятно, оно создаётся жидким железным или железо-сульфидным ядром.\r\n\r\nДиаметром более 5 000 километров, он превосходит по размеру Меркурий. Хотя его масса более чем вдвое превышает массу Луны Земли, он обладает более слабой поверхностной гравитацией, чем Меркурий, Ио и Луна, из-за его меньшей средней плотности.\r\n\r\nВнешний вид Ганимеда в основном состоит из более тёмных, сильно кратерированных областей и более ярких, менее бомбардированных, с глубокими бороздами и хребтами, указывающими на геологическую активность. Вызвана ли она приливным нагревом, всё ещё требует дальнейшего анализа. Более яркие области составляют около двух третей поверхности Ганимеда.\r\n\r\nОстальная площадь состоит из тёмных областей, насыщенных ударными кратерами, возраст которых оценивается в четыре миллиарда лет. Предполагается, что под ледяной поверхностью спутника находится большой солёный океан с глубинами до 800 километров.\r\n\r\nГанимед, вероятно, имеет очень разреженную кислородную атмосферу, сравнимую с той, что обнаружена на спутнике Юпитера Европе. Это нельзя интерпретировать как признак жизни. Вместо этого считается, что водород и кислород разделяются радиацией на поверхности спутника.\r\n\r\nПервым космическим аппаратом, посетившим Ганимед, был «Пионер 10», выполнивший высокоскоростной пролёт через систему Юпитера. С тех пор его исследовали несколько других аппаратов, таких как «Галилео», «Новые горизонты» и «Юнона». Jupiter Icy Moons Explorer (JUICE) станет первым, кто действительно выйдет на орбиту вокруг самого Ганимеда (примерно в 2034), чтобы продолжить изучение магнитного поля и ледяной поверхности спутника. JUICE столкнётся с Ганимедом в качестве последнего акта своей миссии.",
+      "alt_en": "Close-up image of Ganymede, Jupiter's largest moon, showcasing its cratered, icy surface with prominent ridges and grooves.",
+      "alt_ru": "Крупный план Ганимеда, крупнейшего спутника Юпитера, демонстрирующий его кратерированную ледяную поверхность с заметными хребтами и бороздами.",
+      "credit": "NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill",
+      "credit_url": "https://flickr.com/photos/53460575@N03/51238659798",
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        121,
+        204
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:fk92rj788m77",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-callisto-satellite.png",
+      "record_url": "https://astro4edu.org/resources/media/fk92rj788m77/",
+      "original_path": "data/media/original/media_fk92rj788m77.png",
+      "ru_path": null,
+      "sha256": "e298d3135c4df06b74aac5545c9856a9da1d7d0676b46f772ca49a87090e40c7",
+      "size": 610450,
+      "title_en": "The Callisto satellite",
+      "title_ru": "Спутник Каллисто",
+      "short_caption_en": "The Callisto satellite",
+      "short_caption_ru": "Спутник Каллисто",
+      "caption_en": "Callisto is the outermost of the four large Galilean moons of Jupiter and the third largest in the whole solar system, falling behind only Ganymede and Saturn's moon Titan. It orbits Jupiter at an average distance of around 1.9 million kilometers, roughly six times the distance between Earth and the Moon. \r\n\r\nWith a diameter of nearly 5,000 kilometers, it is almost as large as Mercury, the smallest planet in our solar system, but has only a third of its mass as it is composed of approximately equal amounts of rock and ice. \r\n\r\nCallisto orbits Jupiter in a tidally locked rotation, always showing the same side to Jupiter. In contrast to the other three Galilean satellites – Io, Europa, and Ganymede – it is not in orbital resonance due to its farther outward location and is thus not appreciably tidally heated. It does not show any signs of plate tectonics or volcanic activity. Its lack of geological processes means that surface features like craters remain unchanged for billions of years. It is thought to have evolved predominantly under the influence of impacts, as its surface is the oldest and most heavily cratered object in the solar system. In fact, it is so covered in craters that any new impact will likely erase a former one.\r\n\r\nCallisto's internal structure is still subject to discussion; it may consist of a deep salty ocean. It is thought to be composed mainly of a mix of ice and rock, which are present in various states throughout the inner layers of the moon. Callisto hosts a very thin atmosphere composed mainly of carbon dioxide and some traces of oxygen. The moon has been studied by numerous space probes, such as the Pioneer and Voyager missions and the Galileo orbiter, and will be subject to further explorations by NASA, ESA, and China’s National Space Administration (CNSA).",
+      "caption_ru": "Каллисто — самый внешний из четырёх крупных галилеевых спутников Юпитера и третий по величине во всей Солнечной системе, уступая только Ганимеду и спутнику Сатурна Титану. Он обращается вокруг Юпитера на среднем расстоянии около 1.9 миллионов километров, примерно в шесть раз больше расстояния между Землёй и Луной.\r\n\r\nДиаметром почти 5,000 километров, он почти так же велик, как Меркурий, самая маленькая планета нашей Солнечной системы, но имеет лишь треть его массы, так как состоит примерно из равных количеств камня и льда.\r\n\r\nКаллисто обращается вокруг Юпитера в приливно-заблокированном вращении, всегда показывая Юпитеру одну и ту же сторону. В отличие от других трёх галилеевых спутников — Ио, Европы и Ганимеда — он не находится в орбитальном резонансе из-за более удалённого положения и поэтому не испытывает заметного приливного нагрева. Он не проявляет признаков тектоники плит или вулканической активности. Отсутствие геологических процессов означает, что такие поверхностные особенности, как кратеры, остаются неизменными в течение миллиардов лет. Считается, что он эволюционировал преимущественно под влиянием ударов, поскольку его поверхность является самым старым и наиболее сильно кратерированным объектом в Солнечной системе. Фактически, он настолько покрыт кратерами, что любой новый удар, вероятно, сотрёт предыдущий.\r\n\r\nВнутренняя структура Каллисто всё ещё обсуждается; возможно, в его недрах есть глубокий солёный океан. Считается, что он состоит в основном из смеси льда и камня, которые присутствуют в различных состояниях во внутренних слоях спутника. Каллисто обладает очень тонкой атмосферой, состоящей в основном из углекислого газа и следов кислорода. Спутник изучался многочисленными космическими аппаратами, такими как миссии «Пионер» и «Вояджер» и орбитальный аппарат «Галилео», и будет подвергнут дальнейшим исследованиям NASA, ESA и Китайским национальным космическим управлением (CNSA).",
+      "alt_en": "Photograph of Callisto showing its dark surface heavily cratered with white pock marks.",
+      "alt_ru": "Фотография Каллисто, показывающая его тёмную поверхность, сильно кратерированную белыми отметинами.",
+      "credit": "NASA/JPL/DLR",
+      "credit_url": "https://science.nasa.gov/photojournal/global-callisto-in-color/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        121,
+        204
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

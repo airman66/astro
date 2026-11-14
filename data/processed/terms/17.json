@@ -1,0 +1,300 @@
+{
+  "id": "term:17",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 17,
+    "url": "https://astro4edu.org/resources/glossary/term/17/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=17",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:10.020326+00:00",
+    "sha256": "33506620d9eabc4b9e389e822810062684f84b25c6fc4871eb60307185a9e02a"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      18,
+      19,
+      61,
+      62,
+      64,
+      87,
+      207,
+      314,
+      369,
+      513
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Asteroid",
+      "body": "An asteroid is a small body that orbits around the Sun or another star or stellar remnant. Asteroids are solid bodies of various compositions: a number of them are rich in carbon, some contain more rocky material (silicates), and others are mainly composed of metals. Most asteroids are piles of rubble bound together by gravity, with bumpy, uneven shapes. Some asteroids have moons – other small asteroids which orbit them. Asteroids are smaller than dwarf planets (which have enough mass for gravity to pull them into a nearly round shape). They are larger than meteoroids; the lower size limit of an asteroid is commonly set at between one and 10 meters across. If heating by the Sun or star causes the small body to emit gas and dust, the body is a comet and not an asteroid (although the distinction is not always clear). Historically, the name asteroid was given to any astronomical body that orbits the Sun that was too small to resolve with a telescope. As  they appeared as star-like points through a telescope they were named asteroids after the Greek word for star-like.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Asteroid Belt",
+          "url": "https://www.astro4edu.org/resources/glossary/term/18/",
+          "text_ru": "Пояс астероидов"
+        },
+        {
+          "text": "Asteroid Family",
+          "url": "https://www.astro4edu.org/resources/glossary/term/19/",
+          "text_ru": "Семейство астероидов"
+        },
+        {
+          "text": "Cometary Coma",
+          "url": "https://www.astro4edu.org/resources/glossary/term/61/",
+          "text_ru": "Кометная кома"
+        },
+        {
+          "text": "Comet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/62/",
+          "text_ru": "Комета"
+        },
+        {
+          "text": "Cometary Tail",
+          "url": "https://www.astro4edu.org/resources/glossary/term/64/",
+          "text_ru": "Хвост кометы"
+        },
+        {
+          "text": "Dwarf Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/87/",
+          "text_ru": "Карликовая планета"
+        },
+        {
+          "text": "Near-Earth Objects",
+          "url": "https://www.astro4edu.org/resources/glossary/term/207/",
+          "text_ru": "Околоземные объекты"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Trojans",
+          "url": "https://www.astro4edu.org/resources/glossary/term/369/",
+          "text_ru": "Троянцы"
+        },
+        {
+          "text": "Small Solar System Body",
+          "url": "https://www.astro4edu.org/resources/glossary/term/513/",
+          "text_ru": "Малое тело Солнечной системы"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Asteroid</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An asteroid is a small body that orbits around the Sun or another star or stellar remnant. Asteroids are solid bodies of various compositions: a number of them are rich in carbon, some contain more rocky material (silicates), and others are mainly composed of metals. <br/><br/>Most asteroids are piles of rubble bound together by gravity, with bumpy, uneven shapes. Some asteroids have moons – other small asteroids which orbit them.<br/><br/>Asteroids are smaller than dwarf planets (which have enough mass for gravity to pull them into a nearly round shape). They are larger than meteoroids; the lower size limit of an asteroid is commonly set at between one and 10 meters across. If heating by the Sun or star causes the small body to emit gas and dust, the body is a comet and not an asteroid (although the distinction is not always clear). <br/><br/>Historically, the name asteroid was given to any astronomical body that orbits the Sun that was too small to resolve with a telescope. As  they appeared as star-like points through a telescope they were named asteroids after the Greek word for star-like.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/18/\">Asteroid Belt</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/19/\">Asteroid Family</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/61/\">Cometary Coma</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/62/\">Comet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/64/\">Cometary Tail</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/87/\">Dwarf Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/207/\">Near-Earth Objects</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/369/\">Trojans</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/513/\">Small Solar System Body</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Астероид",
+      "body_ru": "Астероид — это небольшое тело, которое обращается вокруг Солнца или другой звезды или звёздного остатка. Астероиды — это твёрдые тела различного состава: некоторые из них богаты углеродом, некоторые содержат больше каменистого материала (силикатов), а другие в основном состоят из металлов. Большинство астероидов представляют собой груды обломков, связанных гравитацией, с неровными, неправильными формами. У некоторых астероидов есть спутники — другие небольшие астероиды, которые обращаются вокруг них. Астероиды меньше карликовых планет (которые имеют достаточно массы, чтобы гравитация придала им почти круглую форму). Они больше метеороидов; нижний предел размера астероида обычно устанавливается от одного до 10 метров в поперечнике. Если нагрев Солнцем или звездой заставляет небольшое тело выделять газ и пыль, это тело является кометой, а не астероидом (хотя различие не всегда чёткое). Исторически название «астероид» давалось любому астрономическому телу, обращающемуся вокруг Солнца, которое было слишком малым, чтобы его можно было различить в телескоп. Поскольку они выглядели как звёздоподобные точки в телескоп, их назвали астероидами от греческого слова, означающего «звёздоподобный»."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "小惑星 (external link)",
+          "url": "https://astro-dic.jp/asteroids/",
+          "text_ru": "Астероид (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/17/\">كويكب </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/17/\">Asteroid </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/17/\">Asteroide </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/17/\">Astéroïde </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/17/\">Asteroide </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/asteroids/\">小惑星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/17/\">소행성 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/17/\">Asteroide </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/17/\">小行星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/17/\">小行星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Rp185f99e568/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://photojournal.jpl.nasa.gov/catalog/PIA00136",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:Rp185f99e568"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Rp185f99e568/\"><img alt=\"The asteroid Ida is grey and shaped like a potato with lots of shallow craters. It's moon Dactyl is 40 times smaller\" src=\"/media/multimedia/thumbnails/PIA00136_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ida and Dactyl</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This picture of the asteroid Ida with its satellite Dactyl was taken by the Galileo space probe in August 1993 from a range of 10,870 kilometers (6,755 miles). Ida is a heavily cratered, irregularly shaped asteroid in the main asteroid belt between Mars and Jupiter. This image is proof that asteroids like the 56 km large Ida can possess their own moons.<br/>\n<b>Credit:</b> NASA/JPL\n\t  <a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA00136\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Creating Asteroids astroEDU educational activity (links to astroEDU website) Description: Have fun, building asteroids using clay! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Pre-school \n  \n, Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Communicating information \n  \n, Developing and using models Impact Craters astroEDU educational activity (links to astroEDU website) Description: A literal Earth-Shattering experiment License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Impact \n  \n  , Experiment Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking Meteoroids, Meteors and Meteorites astroEDU educational activity (links to astroEDU website) Description: Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geology Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Interactive Lecture Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence Asteroid miners astroEDU educational activity (links to astroEDU website) Description: Develop a scientific plan for mining asteroids and extracting space resources! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary Areas of Learning: Guided-discovery learning \n  \n, Observation based \n  \n, Problem-solving \n  \n, Project-based learning \n  \n, Structured-inquiry learning \n  \n, Technology-based Costs: Free Duration: 3-6 hours Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Asteroid&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/creating-asteroids/\"><img alt=\"Creating Asteroids\" src=\"/media/astroedu/images/creating-asteroids_en_thumbnail_RT6hgAY.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/creating-asteroids/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Creating Asteroids</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Have fun, building asteroids using clay!\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n  \n\n  <b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n\n\n\n\n  <b>Education Level:</b>\n\nPre-school \n  \n, Primary \n  \n\n\n\n  <b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/impact-craters/\"><img alt=\"Impact Craters\" src=\"/media/astroedu/images/impact-craters_en_thumbnail_BfjEIAY.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/impact-craters/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Impact Craters</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>A literal Earth-Shattering experiment\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Impact \n  \n  , Experiment \n  \n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/meteoroids-meteors-and-meteorites/\"><img alt=\"Meteoroids, Meteors and Meteorites\" src=\"/media/astroedu/images/meteoroids-meteors-and-meteorites_en_thumbnail_4ViJtQ4.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/meteoroids-meteors-and-meteorites/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Meteoroids, Meteors and Meteorites</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Geology \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/asteroid-miners/\"><img alt=\"Asteroid miners\" src=\"/media/astroedu/images/asteroid-miners_en_thumbnail_XO6Z1dj.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/asteroid-miners/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Asteroid miners</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Develop a scientific plan for mining asteroids and extracting space resources!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nSecondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Observation based \n  \n, Problem-solving \n  \n, Project-based learning \n  \n, Structured-inquiry learning \n  \n, Technology-based \n  \n<b>Costs:</b>\nFree \n\n<b>Duration:</b>\n3-6 hours \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Asteroid&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Создание астероидов образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Весело лепите астероиды из глины! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Дошкольное \n  \n, Начальное Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средние Затраты Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Передача информации \n  \n, Разработка и использование моделей Ударные кратеры образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Буквально сокрушительный эксперимент Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , Удар \n  \n  , Эксперимент Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Начальное \n  \n, Среднее Области обучения: Обучение через открытие \n  \n, Моделирование \n  \n, Традиционный научный эксперимент Затраты: Низкие Затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Построение объяснений \n  \n, Участие в аргументации на основе доказательств \n  \n, Использование математики и вычислительного мышления Метеороиды, метеоры и метеориты образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Раскрытие тайны «падающих звёзд»: метеоры, метеориты и метеороиды Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Геология Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальное Области обучения: Интерактивная лекция Затраты: Низкие Затраты Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Участие в аргументации на основе доказательств Добытчики астероидов образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Разработайте научный план добычи астероидов и извлечения космических ресурсов! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Среднее Области обучения: Обучение через открытие \n  \n, На основе наблюдений \n  \n, Решение проблем \n  \n, Проектное обучение \n  \n, Структурированное исследовательское обучение \n  \n, На основе технологий Затраты: Бесплатно Продолжительность: 3-6 часов Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Asteroid",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Asteroid",
+          "body": "An asteroid is a small body that orbits around the Sun or another star or stellar remnant. Asteroids are solid bodies of various compositions: a number of them are rich in carbon, some contain more rocky material (silicates), and others are mainly composed of metals. Most asteroids are piles of rubble bound together by gravity, with bumpy, uneven shapes. Some asteroids have moons – other small asteroids which orbit them. Asteroids are smaller than dwarf planets (which have enough mass for gravity to pull them into a nearly round shape). They are larger than meteoroids; the lower size limit of an asteroid is commonly set at between one and 10 meters across. If heating by the Sun or star causes the small body to emit gas and dust, the body is a comet and not an asteroid (although the distinction is not always clear). Historically, the name asteroid was given to any astronomical body that orbits the Sun that was too small to resolve with a telescope. As  they appeared as star-like points through a telescope they were named asteroids after the Greek word for star-like."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Creating Asteroids astroEDU educational activity (links to astroEDU website) Description: Have fun, building asteroids using clay! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Pre-school \n  \n, Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Communicating information \n  \n, Developing and using models Impact Craters astroEDU educational activity (links to astroEDU website) Description: A literal Earth-Shattering experiment License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Impact \n  \n  , Experiment Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking Meteoroids, Meteors and Meteorites astroEDU educational activity (links to astroEDU website) Description: Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geology Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Interactive Lecture Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence Asteroid miners astroEDU educational activity (links to astroEDU website) Description: Develop a scientific plan for mining asteroids and extracting space resources! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary Areas of Learning: Guided-discovery learning \n  \n, Observation based \n  \n, Problem-solving \n  \n, Project-based learning \n  \n, Structured-inquiry learning \n  \n, Technology-based Costs: Free Duration: 3-6 hours Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Астероид",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Астероид",
+          "body": "Астероид — это небольшое тело, которое обращается вокруг Солнца или другой звезды или звёздного остатка. Астероиды — это твёрдые тела различного состава: некоторые из них богаты углеродом, некоторые содержат больше каменистого материала (силикатов), а другие в основном состоят из металлов. Большинство астероидов представляют собой груды обломков, связанных гравитацией, с неровными, неправильными формами. У некоторых астероидов есть спутники — другие небольшие астероиды, которые обращаются вокруг них. Астероиды меньше карликовых планет (которые имеют достаточно массы, чтобы гравитация придала им почти круглую форму). Они больше метеороидов; нижний предел размера астероида обычно устанавливается от одного до 10 метров в поперечнике. Если нагрев Солнцем или звездой заставляет небольшое тело выделять газ и пыль, это тело является кометой, а не астероидом (хотя различие не всегда чёткое). Исторически название «астероид» давалось любому астрономическому телу, обращающемуся вокруг Солнца, которое было слишком малым, чтобы его можно было различить в телескоп. Поскольку они выглядели как звёздоподобные точки в телескоп, их назвали астероидами от греческого слова, означающего «звёздоподобный»."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Создание астероидов образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Весело лепите астероиды из глины! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Дошкольное \n  \n, Начальное Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средние Затраты Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Передача информации \n  \n, Разработка и использование моделей Ударные кратеры образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Буквально сокрушительный эксперимент Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , Удар \n  \n  , Эксперимент Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Начальное \n  \n, Среднее Области обучения: Обучение через открытие \n  \n, Моделирование \n  \n, Традиционный научный эксперимент Затраты: Низкие Затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Построение объяснений \n  \n, Участие в аргументации на основе доказательств \n  \n, Использование математики и вычислительного мышления Метеороиды, метеоры и метеориты образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Раскрытие тайны «падающих звёзд»: метеоры, метеориты и метеороиды Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Геология Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальное Области обучения: Интерактивная лекция Затраты: Низкие Затраты Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Участие в аргументации на основе доказательств Добытчики астероидов образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Разработайте научный план добычи астероидов и извлечения космических ресурсов! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Среднее Области обучения: Обучение через открытие \n  \n, На основе наблюдений \n  \n, Решение проблем \n  \n, Проектное обучение \n  \n, Структурированное исследовательское обучение \n  \n, На основе технологий Затраты: Бесплатно Продолжительность: 3-6 часов Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Rp185f99e568",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA00136.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Rp185f99e568/",
+      "original_path": "data/media/original/media_Rp185f99e568.jpg",
+      "ru_path": null,
+      "sha256": "a2999a1510cc014a062287378dbf7e2e8e3a97fd1dc7be0a58390ca47a712613",
+      "size": 56800,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The asteroid Ida with its satellite Dactyl",
+      "short_caption_ru": "Астероид Ида со своим спутником Дактилем",
+      "caption_en": "This picture of the asteroid Ida with its satellite Dactyl was taken by the Galileo space probe in August 1993 from a range of 10,870 kilometers (6,755 miles). Ida is a heavily cratered, irregularly shaped asteroid in the main asteroid belt between Mars and Jupiter. This image is proof that asteroids like the 56 km large Ida can possess their own moons.",
+      "caption_ru": "Этот снимок астероида Ида с его спутником Дактилем был сделан космическим зондом «Галилео» в августе 1993 года с расстояния 10 870 километров (6 755 миль). Ида — сильно кратерированный астероид неправильной формы в главном поясе астероидов между Марсом и Юпитером. Это изображение является доказательством того, что такие астероиды, как Ида размером 56 км, могут иметь собственные луны.",
+      "alt_en": "The asteroid Ida is grey and shaped like a potato with lots of shallow craters. It's moon Dactyl is 40 times smaller",
+      "alt_ru": "Астероид Ида серый и имеет форму картофелины с множеством неглубоких кратеров. Его луна Дактиль в 40 раз меньше",
+      "credit": "NASA/JPL",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA00136",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        17,
+        18,
+        204
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

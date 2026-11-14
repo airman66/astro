@@ -1,0 +1,197 @@
+{
+  "id": "term:288",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 288,
+    "url": "https://astro4edu.org/resources/glossary/term/288/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=288",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:42.317351+00:00",
+    "sha256": "64279867c7805587f23f4e39385f1d79e7a7d5108af083a64992c33ec75a1d62"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Space Exploration"
+    ],
+    "category_ids": [
+      10
+    ],
+    "categories_ru": [
+      "Исследование космоса"
+    ],
+    "related_term_numbers": [
+      324
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Rocket",
+      "body": "A rocket is a device that is commonly used to launch spacecraft from Earth's surface into outer space. To that end, a rocket consists of rocket engines and fuel tanks. Rocket engines are also used to control spacecraft motion in outer space, changing the speed or performing course corrections. The basic principle of a rocket engine is to produce a stream of high-speed particles, usually by burning rocket fuel. When such a stream is pointed in a specific direction the rocket engine is accelerated in the opposite direction – a consequence of a fundamental law of physics called momentum conservation. Note that the particle stream does not need to push against anything for this effect to occur: rockets work perfectly even in the near-vacuum of outer space.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Spacecraft",
+          "url": "https://www.astro4edu.org/resources/glossary/term/324/",
+          "text_ru": "Космический аппарат"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Rocket</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A rocket is a device that is commonly used to launch spacecraft from Earth's surface into outer space. To that end, a rocket consists of rocket engines and fuel tanks. Rocket engines are also used to control spacecraft motion in outer space, changing the speed or performing course corrections. The basic principle of a rocket engine is to produce a stream of high-speed particles, usually by burning rocket fuel. When such a stream is pointed in a specific direction the rocket engine is accelerated in the opposite direction – a consequence of a fundamental law of physics called momentum conservation. Note that the particle stream does not need to push against anything for this effect to occur: rockets work perfectly even in the near-vacuum of outer space.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/324/\">Spacecraft</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Ракета",
+      "body_ru": "Ракета — это устройство, которое обычно используется для запуска космических аппаратов с поверхности Земли в открытый космос. Для этого ракета состоит из ракетных двигателей и топливных баков. Ракетные двигатели также используются для управления движением космических аппаратов в открытом космосе, изменения скорости или выполнения коррекции курса. Основной принцип работы ракетного двигателя — создание потока высокоскоростных частиц, обычно путем сжигания ракетного топлива. Когда такой поток направлен в определенную сторону, ракетный двигатель ускоряется в противоположном направлении — следствие фундаментального закона физики, называемого сохранением импульса. Обратите внимание, что поток частиц не должен отталкиваться от чего-либо для возникновения этого эффекта: ракеты прекрасно работают даже в почти вакуумном космическом пространстве."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/288/\">صاروخ </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/288/\">Rakete </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/288/\">Cohete </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/288/\">Fusée </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/288/\">Razzo </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/288/\">Foguete </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/288/\">火箭 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/288/\">火箭 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Vz99Qo242M50/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.flickr.com/photos/nasahqphoto/41898551494/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-NC-ND-2.0",
+          "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en",
+          "text_ru": "CC-BY-NC-ND-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/GA661d219d71/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Vz99Qo242M50"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Vz99Qo242M50/\"><img alt=\"A Soyuz rocket clears the launch tower, taking a crewed Soyuz spaceship to the ISS.\" src=\"/media/multimedia/thumbnails/41898551494_906d2eb194_o_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Soyuz Rocket launch</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Soyuz MS-09 rocket launched from the Baikonur Cosmodrome in Kazakhstan on 6 June 2018, taking the Expedition 56 crew to the International Space Station (ISS). The crew consisted of Soyuz Commander Sergey Prokopyev of Roscosmos, flight engineer Serena Auñón-Chancellor of NASA, and flight engineer Alexander Gerst of ESA (European Space Agency).<br/>\n<b>Credit:</b> NASA/Joel Kowsky\n\t  <a href=\"https://www.flickr.com/photos/nasahqphoto/41898551494/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en\" rel=\"license\">CC-BY-NC-ND-2.0</a> <a href=\"https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-nd\"></i><i class=\"fab fa-creative-commons-nc\"></i><span class=\"sr-only\">Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/GA661d219d71/\"><img alt=\"A space shuttle with it boosters still attached with Arabic text in the foreground\" src=\"/media/multimedia/thumbnails/Speed_of_a_spacecraft_ar_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Speed of Spacecraft</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This infographic is part of the \"Simplifying Astronomy for Arabic Speakers\" project, aiming to present scientific concepts in a simple and accessible way. The design focuses on the speed of spacecraft during the various stages of their launch, illustrating how velocity changes as the spacecraft progresses to reach the desired orbit.\nDetails of the Stages:\nStage One (Launch):\n The spacecraft begins its journey by launching from the launch pad with an increasing speed. The velocity in this stage is influenced by Earth's gravity and atmospheric resistance.\n\nAfter One Minute:\n The spacecraft reaches a speed of approximately 1,600 kilometers per hour (km/h), reflecting a rapid acceleration powered by its engines.\n\nAfter Two and a Half Minutes:\n The rocket boosters are jettisoned, allowing the spacecraft to reach a speed of about 4,800 km/h. At this point, the spacecraft becomes lighter, enabling it to accelerate more efficiently.\n\nFinal Stage:\nBy the end of the ascent phase, the spacecraft achieves its final speed of approximately 28,000 km/h, allowing it to enter the desired orbit around Earth.\n\nThrough educational designs like this, the project provides enthusiasts with an opportunity to understand the intricate details of space missions in an engaging and simplified manner.<br/>\n<b>Credit:</b> Ali Al-Edhari ; Background image credit - NASA\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Rocket",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Rocket",
+          "body": "A rocket is a device that is commonly used to launch spacecraft from Earth's surface into outer space. To that end, a rocket consists of rocket engines and fuel tanks. Rocket engines are also used to control spacecraft motion in outer space, changing the speed or performing course corrections. The basic principle of a rocket engine is to produce a stream of high-speed particles, usually by burning rocket fuel. When such a stream is pointed in a specific direction the rocket engine is accelerated in the opposite direction – a consequence of a fundamental law of physics called momentum conservation. Note that the particle stream does not need to push against anything for this effect to occur: rockets work perfectly even in the near-vacuum of outer space."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Ракета",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Ракета",
+          "body": "Ракета — это устройство, которое обычно используется для запуска космических аппаратов с поверхности Земли в открытый космос. Для этого ракета состоит из ракетных двигателей и топливных баков. Ракетные двигатели также используются для управления движением космических аппаратов в открытом космосе, изменения скорости или выполнения коррекции курса. Основной принцип работы ракетного двигателя — создание потока высокоскоростных частиц, обычно путем сжигания ракетного топлива. Когда такой поток направлен в определенную сторону, ракетный двигатель ускоряется в противоположном направлении — следствие фундаментального закона физики, называемого сохранением импульса. Обратите внимание, что поток частиц не должен отталкиваться от чего-либо для возникновения этого эффекта: ракеты прекрасно работают даже в почти вакуумном космическом пространстве."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Vz99Qo242M50",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/41898551494_906d2eb194_o.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Vz99Qo242M50/",
+      "original_path": "data/media/original/media_Vz99Qo242M50.jpg",
+      "ru_path": null,
+      "sha256": "0efaf33eaba8d50a069ed38e6fd7844ff46ec7b0a685b2717ae396efa3dea49e",
+      "size": 667291,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Soyuz MS-09 rocket launched from the Baikonur Cosmodrome in Kazakhstan",
+      "short_caption_ru": "Ракета «Союз МС-09» запущена с космодрома Байконур в Казахстане",
+      "caption_en": "The Soyuz MS-09 rocket launched from the Baikonur Cosmodrome in Kazakhstan on 6 June 2018, taking the Expedition 56 crew to the International Space Station (ISS). The crew consisted of Soyuz Commander Sergey Prokopyev of Roscosmos, flight engineer Serena Auñón-Chancellor of NASA, and flight engineer Alexander Gerst of ESA (European Space Agency).",
+      "caption_ru": "Ракета «Союз МС-09» стартовала с космодрома Байконур в Казахстане 6 июня 2018, доставив экипаж экспедиции 56 на Международную космическую станцию (МКС). В состав экипажа вошли командир «Союза» Сергей Прокопьев (Роскосмос), бортинженер Серена Ауньон-Чэнселлор (НАСА) и бортинженер Александр Герст (ЕКА — Европейское космическое агентство).",
+      "alt_en": "A Soyuz rocket clears the launch tower, taking a crewed Soyuz spaceship to the ISS.",
+      "alt_ru": "Ракета «Союз» покидает стартовую башню, унося пилотируемый корабль «Союз» к МКС.",
+      "credit": "NASA/Joel Kowsky",
+      "credit_url": "https://www.flickr.com/photos/nasahqphoto/41898551494/",
+      "license": "CC-BY-NC-ND-2.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en",
+      "term_numbers": [
+        288
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "term:355",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 355,
+    "url": "https://astro4edu.org/resources/glossary/term/355/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=355",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:02.274642+00:00",
+    "sha256": "16d7efe422887a0dcabc938d83518b0ad8eabcdd22558bb58db0c5d0f7365d78"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society"
+    ],
+    "category_ids": [
+      11
+    ],
+    "categories_ru": [
+      "Астрономия и общество"
+    ],
+    "related_term_numbers": [
+      152,
+      295
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Theory",
+      "body": "The term theory in science has a very specific definition, in contrast to how it is used and perceived in daily life, where it is usually used interchangeably with the term hypothesis. However, they are quite different in the context of the scientific ways of building knowledge. Theory in science refers to coherent mathematical constructs that can be used to make predictions, which can then be tested experimentally by independent scientists. Theories provide well-supported explanations of natural phenomena – they provide insights into the \"why\". A hypothesis is the initial idea that scientists have which they then set out to explore and find supporting evidence for, in order to build models, theories, and laws, all of which are vital to the process of science and understanding the Universe.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Hypothesis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/152/",
+          "text_ru": "Гипотеза"
+        },
+        {
+          "text": "Science",
+          "url": "https://www.astro4edu.org/resources/glossary/term/295/",
+          "text_ru": "Наука"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Theory</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The term theory in science has a very specific definition, in contrast to how it is used and perceived in daily life, where it is usually used interchangeably with the term hypothesis. However, they are quite different in the context of the scientific ways of building knowledge. Theory in science refers to coherent mathematical constructs that can be used to make predictions, which can then be tested experimentally by independent scientists. Theories provide well-supported explanations of natural phenomena – they provide insights into the \"why\".<br/><br/>A hypothesis is the initial idea that scientists have which they then set out to explore and find supporting evidence for, in order to build models, theories, and laws, all of which are vital to the process of science and understanding the Universe.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/152/\">Hypothesis</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/295/\">Science</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Теория",
+      "body_ru": "В науке термин «теория» имеет очень конкретное определение, в отличие от того, как он используется и воспринимается в повседневной жизни, где его обычно используют как синоним термина «гипотеза». Однако в контексте научных способов построения знания они сильно различаются. Теория в науке относится к связным математическим конструкциям, которые можно использовать для составления предсказаний, которые затем могут быть проверены экспериментально независимыми учёными. Теории дают хорошо обоснованные объяснения природных явлений – они дают понимание «почему». Гипотеза – это первоначальная идея, которая есть у учёных, которую они затем начинают исследовать и искать подтверждающие доказательства, чтобы строить модели, теории и законы, все из которых жизненно важны для процесса науки и понимания Вселенной."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/355/\">نظرية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/355/\">Theorie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/355/\">Teoría </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/355/\">Théorie </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/355/\">Teoria </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/355/\">Teoria </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/355/\">理论 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/355/\">理論 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Theory",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Theory",
+          "body": "The term theory in science has a very specific definition, in contrast to how it is used and perceived in daily life, where it is usually used interchangeably with the term hypothesis. However, they are quite different in the context of the scientific ways of building knowledge. Theory in science refers to coherent mathematical constructs that can be used to make predictions, which can then be tested experimentally by independent scientists. Theories provide well-supported explanations of natural phenomena – they provide insights into the \"why\". A hypothesis is the initial idea that scientists have which they then set out to explore and find supporting evidence for, in order to build models, theories, and laws, all of which are vital to the process of science and understanding the Universe."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Теория",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Теория",
+          "body": "В науке термин «теория» имеет очень конкретное определение, в отличие от того, как он используется и воспринимается в повседневной жизни, где его обычно используют как синоним термина «гипотеза». Однако в контексте научных способов построения знания они сильно различаются. Теория в науке относится к связным математическим конструкциям, которые можно использовать для составления предсказаний, которые затем могут быть проверены экспериментально независимыми учёными. Теории дают хорошо обоснованные объяснения природных явлений – они дают понимание «почему». Гипотеза – это первоначальная идея, которая есть у учёных, которую они затем начинают исследовать и искать подтверждающие доказательства, чтобы строить модели, теории и законы, все из которых жизненно важны для процесса науки и понимания Вселенной."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

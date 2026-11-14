@@ -1,0 +1,181 @@
+{
+  "id": "term:525",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 525,
+    "url": "https://astro4edu.org/resources/glossary/term/525/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=525",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:53.732044+00:00",
+    "sha256": "5892a37a06d4c5676f1e2952cb28ba2c3440c787c23a081c83a260f1ad5d35b6"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": 264,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Protostar",
+      "body": "A protostar is an early stage in the star formation process. It is a large mass of gas and dust formed as a result of the contraction of a giant molecular cloud in the interstellar medium. As the cloud collapses, gravitational energy is converted into heat, warming the still-forming protostar. This phase may take anywhere from 10 5 to 10 7 years, depending on the mass of the star, with more massive stars forming more quickly. It begins with an increase in density in the molecular cloud core and ends with the formation of a pre-main-sequence star. Pre-main-sequence stars of similar mass to the Sun are known as T-Tauri stars. Once hydrogen fusion ignites in the core of a star it begins producing energy and becomes a main sequence star.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Main Sequence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/186/",
+          "text_ru": "Главная последовательность"
+        },
+        {
+          "text": "Star Formation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/333/",
+          "text_ru": "Звёздообразование"
+        },
+        {
+          "text": "Interstellar Medium",
+          "url": "https://www.astro4edu.org/resources/glossary/term/450/",
+          "text_ru": "Межзвёздная среда"
+        },
+        {
+          "text": "Molecular Cloud",
+          "url": "https://www.astro4edu.org/resources/glossary/term/517/",
+          "text_ru": "Молекулярное облако"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Protostar</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Pre-main-sequence Star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A protostar is an early stage in the star formation process. It is a large mass of gas and dust formed as a result of the contraction of a giant molecular cloud in the interstellar medium. As the cloud collapses, gravitational energy is converted into heat, warming the still-forming protostar. This phase may take anywhere from 10<sup>5</sup> to 10<sup>7</sup> years, depending on the mass of the star, with more massive stars forming more quickly. It begins with an increase in density in the molecular cloud core and ends with the formation of a pre-main-sequence star. Pre-main-sequence stars of similar mass to the Sun are known as T-Tauri stars. Once hydrogen fusion ignites in the core of a star it begins producing energy and becomes a main sequence star.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/186/\">Main Sequence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/333/\">Star Formation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/450/\">Interstellar Medium</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/517/\">Molecular Cloud</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Протозвезда",
+      "body_ru": "Протозвезда — ранняя стадия процесса звездообразования. Это большая масса газа и пыли, образовавшаяся в результате сжатия гигантского молекулярного облака в межзвёздной среде. По мере коллапса облака гравитационная энергия превращается в тепло, нагревая ещё формирующуюся протозвезду. Эта фаза может длиться от 10 5 до 10 7 лет в зависимости от массы звезды, причём более массивные звёзды формируются быстрее. Она начинается с увеличения плотности в ядре молекулярного облака и заканчивается образованием звезды до главной последовательности. Звёзды до главной последовательности, подобные по массе Солнцу, известны как звёзды типа T Тельца. Как только в ядре звезды зажигается термоядерный синтез водорода, она начинает производить энергию и становится звездой главной последовательности."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "原始星 (external link)",
+          "url": "https://astro-dic.jp/protostar/",
+          "text_ru": "Протозвезда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/264/\">النجوم البدائية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/264/\">Protostern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/264/\">Protoestrella </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/264/\">Protoétoile </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/264/\">प्रोटोस्टार </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/264/\">Protostella </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/protostar/\">原始星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/264/\">원시별 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/264/\">प्रोटोस्टार </a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/264/\">भ्रूण तारा / प्रोटोतारा </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/264/\">Protoestrela </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/264/\">原恒星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/264/\">原恆星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/0h38kF381l18/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1336a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-3.0",
+          "url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "text_ru": "CC-BY-3.0"
+        },
+        {
+          "text": "Creative Commons Attribution 3.0 Unported icons",
+          "url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution 3.0 Unported"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/8Y15Xv32B67/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://public.nrao.edu/gallery/protostars-in-orion-molecular-clouds/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-3.0",
+          "url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "text_ru": "CC-BY-3.0"
+        },
+        {
+          "text": "Creative Commons Attribution 3.0 Unported icons",
+          "url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution 3.0 Unported"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/0h38kF381l18/\"><img alt=\"A dark cloud blocks out background stars. Infront, two jets of material shoot in opposite directions from a central object\" src=\"/media/multimedia/thumbnails/eso1336a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Witnessing the birth of a star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> A combination of radio and visible light imaged with the Atacama Large Millimeter/submillimeter Array (ALMA) and European Southern Observatory's New Technology Telescope (NTT) revealing birth of a star forming the Herbig-Haro object HH 46/47. ALMA observations shown in orange and green unveil the energetic jet from the central protostar otherwise hidden at visible wavelength due to dust obscuration and dense gas. NTT observations in pink and purple highlight the visible light from the jet emitted towards the observer.<br/>\n<b>Credit:</b> ESO/ALMA (ESO/NAOJ/NRAO)/H. Arce. Acknowledgements: Bo Reipurth\n\t  <a href=\"https://www.eso.org/public/images/eso1336a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" rel=\"license\">CC-BY-3.0</a> <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 3.0 Unported icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/8Y15Xv32B67/\"><img alt=\"Young stars form along a ribbon of gas\" src=\"/media/multimedia/thumbnails/nrao20in02_herschellayout_NoLabels02062020-scaled_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stellar birth environment</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Snapshot of the formation of multiple protostars in the Orion Molecular Clouds with a closer look at each of them with the Atacama Large Millimeter/submillimeter Array and Very Large Array. Such an image provides unique insights of the process and early stages of star formation as well as the influence of the parent cloud in which they form.<br/>\n<b>Credit:</b> ALMA (ESO/NAOJ/NRAO), J. Tobin; NRAO/AUI/NSF, S. Dagnello; Herschel/ESA\n\t  <a href=\"https://public.nrao.edu/gallery/protostars-in-orion-molecular-clouds/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" rel=\"license\">CC-BY-3.0</a> <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 3.0 Unported icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Pre-main-sequence Star",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Protostar",
+          "body": "A protostar is an early stage in the star formation process. It is a large mass of gas and dust formed as a result of the contraction of a giant molecular cloud in the interstellar medium. As the cloud collapses, gravitational energy is converted into heat, warming the still-forming protostar. This phase may take anywhere from 10 5 to 10 7 years, depending on the mass of the star, with more massive stars forming more quickly. It begins with an increase in density in the molecular cloud core and ends with the formation of a pre-main-sequence star. Pre-main-sequence stars of similar mass to the Sun are known as T-Tauri stars. Once hydrogen fusion ignites in the core of a star it begins producing energy and becomes a main sequence star."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда до главной последовательности",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Протозвезда",
+          "body": "Протозвезда — ранняя стадия процесса звездообразования. Это большая масса газа и пыли, образовавшаяся в результате сжатия гигантского молекулярного облака в межзвёздной среде. По мере коллапса облака гравитационная энергия превращается в тепло, нагревая ещё формирующуюся протозвезду. Эта фаза может длиться от 10 5 до 10 7 лет в зависимости от массы звезды, причём более массивные звёзды формируются быстрее. Она начинается с увеличения плотности в ядре молекулярного облака и заканчивается образованием звезды до главной последовательности. Звёзды до главной последовательности, подобные по массе Солнцу, известны как звёзды типа T Тельца. Как только в ядре звезды зажигается термоядерный синтез водорода, она начинает производить энергию и становится звездой главной последовательности."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

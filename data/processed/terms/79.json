@@ -1,0 +1,159 @@
+{
+  "id": "term:79",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 79,
+    "url": "https://astro4edu.org/resources/glossary/term/79/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=79",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:29.840410+00:00",
+    "sha256": "c0dc1825fbdc8e16f3f13ddb670206d4a39cf5efe30b950ee9643477a2199135"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      3,
+      6,
+      36,
+      50,
+      78,
+      145,
+      171,
+      179,
+      286,
+      390
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Degree",
+      "body": "In mathematics a degree (symbol °) is a measure of angle. One degree is 1/360th of a full circle. It can be expressed as a decimal number or it can be divided into arcminutes (symbol ′) where 60′ is 1°, and arcseconds (symbol ″) where 60″ is 1′. One arcsecond is 1/3600th of a degree, an extremely small angle. Degrees measure the apparent size of an object (see angular diameter) and its position on the celestial sphere. See also: declination, right ascension, altitude, and azimuth. On Earth: latitude and longitude. They are also used to measure angular distance between objects on the celestial sphere. The width of your fist at arm’s length is about 10°; from the horizon to the zenith is 90°. Depending on the scale, a telescope’s resolution and field-of-view can be expressed in degrees, arcminutes, or arcseconds. Alternate meaning: A unit in the measure of temperature, used with the Fahrenheit or Celsius scales. The Celsius scale is defined by the freezing point of water at sea level being 0°C and the boiling point of water being 100°C.  A change of one degree Celsius is the same as a change of one kelvin but they have different zero points. The zero point of the kelvin scale is absolute zero, the lowest temperature, -273.15°C.  In the older Fahrenheit system a change of one degree is the same as a change of 5/9ths of a degree Celsius or kelvin.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Absolute Zero",
+          "url": "https://www.astro4edu.org/resources/glossary/term/3/",
+          "text_ru": "Абсолютный нуль"
+        },
+        {
+          "text": "Altitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/6/",
+          "text_ru": "Высота"
+        },
+        {
+          "text": "Azimuth",
+          "url": "https://www.astro4edu.org/resources/glossary/term/36/",
+          "text_ru": "Азимут"
+        },
+        {
+          "text": "Celestial Coordinates",
+          "url": "https://www.astro4edu.org/resources/glossary/term/50/",
+          "text_ru": "Небесные координаты"
+        },
+        {
+          "text": "Declination",
+          "url": "https://www.astro4edu.org/resources/glossary/term/78/",
+          "text_ru": "Склонение"
+        },
+        {
+          "text": "Horizon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/145/",
+          "text_ru": "Горизонт"
+        },
+        {
+          "text": "Latitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/171/",
+          "text_ru": "Широта"
+        },
+        {
+          "text": "Longitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/179/",
+          "text_ru": "Долгота"
+        },
+        {
+          "text": "Right Ascension (RA)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/286/",
+          "text_ru": "Прямое восхождение (RA)"
+        },
+        {
+          "text": "Zenith",
+          "url": "https://www.astro4edu.org/resources/glossary/term/390/",
+          "text_ru": "Зенит"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Degree</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In mathematics a degree (symbol °) is a measure of angle. One degree is 1/360th of a full circle. It can be expressed as a decimal number or it can be divided into arcminutes (symbol ′) where 60′ is 1°, and arcseconds (symbol ″) where 60″ is 1′. One arcsecond is 1/3600th of a degree, an extremely small angle.<br/><br/>Degrees measure the apparent size of an object (see angular diameter) and its position on the celestial sphere. See also: declination, right ascension, altitude, and azimuth. On Earth: latitude and longitude. They are also used to measure angular distance between objects on the celestial sphere. The width of your fist at arm’s length is about 10°; from the horizon to the zenith is 90°. Depending on the scale, a telescope’s resolution and field-of-view can be expressed in degrees, arcminutes, or arcseconds.<br/><br/>Alternate meaning: A unit in the measure of temperature, used with the Fahrenheit or Celsius scales. The Celsius scale is defined by the freezing point of water at sea level being 0°C and the boiling point of water being 100°C.  A change of one degree Celsius is the same as a change of one kelvin but they have different zero points. The zero point of the kelvin scale is absolute zero, the lowest temperature, -273.15°C.  In the older Fahrenheit system a change of one degree is the same as a change of 5/9ths of a degree Celsius or kelvin.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/3/\">Absolute Zero</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/6/\">Altitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/36/\">Azimuth</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/50/\">Celestial Coordinates</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/78/\">Declination</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/145/\">Horizon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/171/\">Latitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/179/\">Longitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/286/\">Right Ascension (RA)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/390/\">Zenith</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Градус",
+      "body_ru": "В математике градус (символ °) — это мера угла. Один градус составляет 1/360 полного круга. Его можно выразить десятичным числом или разделить на угловые минуты (символ ′), где 60′ составляет 1°, и угловые секунды (символ ″), где 60″ составляет 1′. Одна угловая секунда — это 1/3600 градуса, чрезвычайно малый угол. Градусы измеряют видимый размер объекта (см. угловой диаметр) и его положение на небесной сфере. См. также: склонение, прямое восхождение, высота и азимут. На Земле: широта и долгота. Они также используются для измерения углового расстояния между объектами на небесной сфере. Ширина вашего кулака на расстоянии вытянутой руки составляет около 10°; от горизонта до зенита — 90°. В зависимости от масштаба разрешение и поле зрения телескопа могут выражаться в градусах, угловых минутах или угловых секундах. Альтернативное значение: единица измерения температуры, используемая в шкалах Фаренгейта или Цельсия. Шкала Цельсия определяется точкой замерзания воды на уровне моря, равной 0°C, и точкой кипения воды, равной 100°C. Изменение на один градус Цельсия такое же, как изменение на один кельвин, но у них разные нулевые точки. Нулевая точка шкалы Кельвина — это абсолютный нуль, самая низкая температура, -273.15°C. В старой системе Фаренгейта изменение на один градус такое же, как изменение на 5/9 градуса Цельсия или кельвина."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/79/\">الدرجة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/79/\">Grad </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/79/\">Grado </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/79/\">Degré </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/79/\">Grado </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/79/\">도 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/79/\">Grau </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/79/\">度 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/79/\">度 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Degree",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Degree",
+          "body": "In mathematics a degree (symbol °) is a measure of angle. One degree is 1/360th of a full circle. It can be expressed as a decimal number or it can be divided into arcminutes (symbol ′) where 60′ is 1°, and arcseconds (symbol ″) where 60″ is 1′. One arcsecond is 1/3600th of a degree, an extremely small angle. Degrees measure the apparent size of an object (see angular diameter) and its position on the celestial sphere. See also: declination, right ascension, altitude, and azimuth. On Earth: latitude and longitude. They are also used to measure angular distance between objects on the celestial sphere. The width of your fist at arm’s length is about 10°; from the horizon to the zenith is 90°. Depending on the scale, a telescope’s resolution and field-of-view can be expressed in degrees, arcminutes, or arcseconds. Alternate meaning: A unit in the measure of temperature, used with the Fahrenheit or Celsius scales. The Celsius scale is defined by the freezing point of water at sea level being 0°C and the boiling point of water being 100°C.  A change of one degree Celsius is the same as a change of one kelvin but they have different zero points. The zero point of the kelvin scale is absolute zero, the lowest temperature, -273.15°C.  In the older Fahrenheit system a change of one degree is the same as a change of 5/9ths of a degree Celsius or kelvin."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Градус",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Градус",
+          "body": "В математике градус (символ °) — это мера угла. Один градус составляет 1/360 полного круга. Его можно выразить десятичным числом или разделить на угловые минуты (символ ′), где 60′ составляет 1°, и угловые секунды (символ ″), где 60″ составляет 1′. Одна угловая секунда — это 1/3600 градуса, чрезвычайно малый угол. Градусы измеряют видимый размер объекта (см. угловой диаметр) и его положение на небесной сфере. См. также: склонение, прямое восхождение, высота и азимут. На Земле: широта и долгота. Они также используются для измерения углового расстояния между объектами на небесной сфере. Ширина вашего кулака на расстоянии вытянутой руки составляет около 10°; от горизонта до зенита — 90°. В зависимости от масштаба разрешение и поле зрения телескопа могут выражаться в градусах, угловых минутах или угловых секундах. Альтернативное значение: единица измерения температуры, используемая в шкалах Фаренгейта или Цельсия. Шкала Цельсия определяется точкой замерзания воды на уровне моря, равной 0°C, и точкой кипения воды, равной 100°C. Изменение на один градус Цельсия такое же, как изменение на один кельвин, но у них разные нулевые точки. Нулевая точка шкалы Кельвина — это абсолютный нуль, самая низкая температура, -273.15°C. В старой системе Фаренгейта изменение на один градус такое же, как изменение на 5/9 градуса Цельсия или кельвина."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

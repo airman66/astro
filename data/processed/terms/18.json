@@ -1,0 +1,260 @@
+{
+  "id": "term:18",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 18,
+    "url": "https://astro4edu.org/resources/glossary/term/18/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=18",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:10.031122+00:00",
+    "sha256": "9314efc6fbe5f10e291b3646505f04b31f6f36b8a2c945bc0fee33d015e95b55"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      17,
+      169,
+      189,
+      207,
+      314,
+      369
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Asteroid Belt",
+      "body": "The asteroid belt is located in a region between the planets Mars and Jupiter; orbiting in this region are the dwarf planet Ceres and a huge number of mainly small asteroids that consist primarily of rocks and some minerals. The asteroid belt has been described as the main asteroid belt in order to distinguish it from other small bodies that are found in the Solar System, i.e. the near-Earth objects and the Trojan group.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Asteroid",
+          "url": "https://www.astro4edu.org/resources/glossary/term/17/",
+          "text_ru": "Астероид"
+        },
+        {
+          "text": "Kepler's Laws",
+          "url": "https://www.astro4edu.org/resources/glossary/term/169/",
+          "text_ru": "Законы Кеплера"
+        },
+        {
+          "text": "Mars",
+          "url": "https://www.astro4edu.org/resources/glossary/term/189/",
+          "text_ru": "Марс"
+        },
+        {
+          "text": "Near-Earth Objects",
+          "url": "https://www.astro4edu.org/resources/glossary/term/207/",
+          "text_ru": "Околоземные объекты"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Trojans",
+          "url": "https://www.astro4edu.org/resources/glossary/term/369/",
+          "text_ru": "Троянцы"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Asteroid Belt</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The asteroid belt is located in a region between the planets Mars and Jupiter; orbiting in this region are the dwarf planet Ceres and a huge number of mainly small asteroids that consist primarily of rocks and some minerals. The asteroid belt has been described as the main asteroid belt in order to distinguish it from other small bodies that are found in the Solar System, i.e. the near-Earth objects and the Trojan group.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/17/\">Asteroid</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/169/\">Kepler's Laws</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/189/\">Mars</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/207/\">Near-Earth Objects</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/369/\">Trojans</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Пояс астероидов",
+      "body_ru": "Пояс астероидов расположен в области между планетами Марс и Юпитер; на орбите в этой области находятся карликовая планета Церера и огромное количество в основном небольших астероидов, состоящих преимущественно из горных пород и некоторых минералов. Пояс астероидов был описан как главный пояс астероидов, чтобы отличить его от других малых тел, обнаруженных в Солнечной системе, то есть околоземных объектов и группы Троянцев."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "小惑星帯 (external link)",
+          "url": "https://astro-dic.jp/asteroid-belt/",
+          "text_ru": "Пояс астероидов (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/18/\">حزام الكويكبات </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/18/\">Asteroidengürtel </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/18/\">Cinturón de Asteroides </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/18/\">Ceinture d'astéroïdes </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/18/\">क्षुद्रग्रह घेरा (ऐस्टरौएड बेल्ट) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/18/\">Fascia degli asteroidi </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/asteroid-belt/\">小惑星帯 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/18/\">소행성대 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/18/\">लघुग्रहांचा पट्टा </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/18/\">Cinturão de asteroides </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/18/\">小行星带 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/18/\">小行星帶 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/IM0jA0k975/"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Rp185f99e568/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://photojournal.jpl.nasa.gov/catalog/PIA00136",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:IM0jA0k975",
+        "media:Rp185f99e568"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/IM0jA0k975/\"><img alt=\"The asteroid Ceres, roughly spherical with a grey surface, many craters, some of which reveal white subsurface water ice.\" src=\"/media/multimedia/thumbnails/Ceres_-_RC3_-_Haulani_Crater_22381131691_cropped_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ceres</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn in May 2015, at a distance of 13641 km. The prominent, bright crater at right is Haulani. The smaller bright spot to its left is exposed on the floor of Oxo. Ejecta from these impacts appears to have exposed bright material, probably water ice.<br/>\n<b>Credit:</b> NASA / JPL-Caltech / UCLA / MPS / DLR / IDA / Justin Cowart\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Rp185f99e568/\"><img alt=\"The asteroid Ida is grey and shaped like a potato with lots of shallow craters. It's moon Dactyl is 40 times smaller\" src=\"/media/multimedia/thumbnails/PIA00136_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ida and Dactyl</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This picture of the asteroid Ida with its satellite Dactyl was taken by the Galileo space probe in August 1993 from a range of 10,870 kilometers (6,755 miles). Ida is a heavily cratered, irregularly shaped asteroid in the main asteroid belt between Mars and Jupiter. This image is proof that asteroids like the 56 km large Ida can possess their own moons.<br/>\n<b>Credit:</b> NASA/JPL\n\t  <a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA00136\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Asteroid Belt",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Asteroid Belt",
+          "body": "The asteroid belt is located in a region between the planets Mars and Jupiter; orbiting in this region are the dwarf planet Ceres and a huge number of mainly small asteroids that consist primarily of rocks and some minerals. The asteroid belt has been described as the main asteroid belt in order to distinguish it from other small bodies that are found in the Solar System, i.e. the near-Earth objects and the Trojan group."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Пояс астероидов",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Пояс астероидов",
+          "body": "Пояс астероидов расположен в области между планетами Марс и Юпитер; на орбите в этой области находятся карликовая планета Церера и огромное количество в основном небольших астероидов, состоящих преимущественно из горных пород и некоторых минералов. Пояс астероидов был описан как главный пояс астероидов, чтобы отличить его от других малых тел, обнаруженных в Солнечной системе, то есть околоземных объектов и группы Троянцев."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:IM0jA0k975",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Ceres_-_RC3_-_Haulani_Crater_22381131691_cropped.jpg",
+      "record_url": "https://astro4edu.org/resources/media/IM0jA0k975/",
+      "original_path": "data/media/original/media_IM0jA0k975.jpg",
+      "ru_path": null,
+      "sha256": "0c855604d72e1b9883d10af0f5b80b2d484964a9139d3527acbceeae709e40ed",
+      "size": 269287,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn",
+      "short_caption_ru": "Изображение астероида Церера в истинных цветах, полученное космическим зондом Dawn",
+      "caption_en": "True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn in May 2015, at a distance of 13641 km. The prominent, bright crater at right is Haulani. The smaller bright spot to its left is exposed on the floor of Oxo. Ejecta from these impacts appears to have exposed bright material, probably water ice.",
+      "caption_ru": "Изображение астероида Церера в истинных цветах, полученное космическим зондом Dawn в мае 2015 года на расстоянии 13 641 км. Заметный яркий кратер справа — Хаулани. Меньшее яркое пятно слева от него обнажено на дне Оксо. Выбросы от этих ударов, по-видимому, обнажили яркий материал, вероятно, водяной лёд.",
+      "alt_en": "The asteroid Ceres, roughly spherical with a grey surface, many craters, some of which reveal white subsurface water ice.",
+      "alt_ru": "Астероид Церера, примерно сферической формы с серой поверхностью, множество кратеров, некоторые из которых обнажают белый подповерхностный водяной лёд.",
+      "credit": "NASA / JPL-Caltech / UCLA / MPS / DLR / IDA / Justin Cowart",
+      "credit_url": null,
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        18,
+        74,
+        87,
+        154
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Rp185f99e568",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA00136.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Rp185f99e568/",
+      "original_path": "data/media/original/media_Rp185f99e568.jpg",
+      "ru_path": null,
+      "sha256": "a2999a1510cc014a062287378dbf7e2e8e3a97fd1dc7be0a58390ca47a712613",
+      "size": 56800,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The asteroid Ida with its satellite Dactyl",
+      "short_caption_ru": "Астероид Ида со своим спутником Дактилем",
+      "caption_en": "This picture of the asteroid Ida with its satellite Dactyl was taken by the Galileo space probe in August 1993 from a range of 10,870 kilometers (6,755 miles). Ida is a heavily cratered, irregularly shaped asteroid in the main asteroid belt between Mars and Jupiter. This image is proof that asteroids like the 56 km large Ida can possess their own moons.",
+      "caption_ru": "Этот снимок астероида Ида с его спутником Дактилем был сделан космическим зондом «Галилео» в августе 1993 года с расстояния 10 870 километров (6 755 миль). Ида — сильно кратерированный астероид неправильной формы в главном поясе астероидов между Марсом и Юпитером. Это изображение является доказательством того, что такие астероиды, как Ида размером 56 км, могут иметь собственные луны.",
+      "alt_en": "The asteroid Ida is grey and shaped like a potato with lots of shallow craters. It's moon Dactyl is 40 times smaller",
+      "alt_ru": "Астероид Ида серый и имеет форму картофелины с множеством неглубоких кратеров. Его луна Дактиль в 40 раз меньше",
+      "credit": "NASA/JPL",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA00136",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        17,
+        18,
+        204
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "id": "term:164",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 164,
+    "url": "https://astro4edu.org/resources/glossary/term/164/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=164",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:05.154893+00:00",
+    "sha256": "6a468d331981380ae7268eebc76ff3ac9e34431c1851fbbbe454007e620c9dfe"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies"
+    ],
+    "category_ids": [
+      8
+    ],
+    "categories_ru": [
+      "Галактики"
+    ],
+    "related_term_numbers": [
+      99,
+      119,
+      330
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Irregular Galaxy",
+      "body": "An irregular galaxy is a type of galaxy with little or no symmetry (it has a distorted morphology or shape). They are typically smaller than spiral and elliptical galaxies, and they often contain significant amounts of star-forming gas. The Large and Small Magellanic Clouds are irregular galaxies, relatively close (approximately 160,000 light years, and 200,000 light years) to our Milky Way galaxy, that can be observed from Earth's southern hemisphere with the unaided eye.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Elliptical Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/99/",
+          "text_ru": "Эллиптическая галактика"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Spiral Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/330/",
+          "text_ru": "Спиральная галактика"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Irregular Galaxy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An irregular galaxy is a type of galaxy with little or no symmetry (it has a distorted morphology or shape). They are typically smaller than spiral and elliptical galaxies, and they often contain significant amounts of star-forming gas. The Large and Small Magellanic Clouds are irregular galaxies, relatively close (approximately 160,000 light years, and 200,000 light years) to our Milky Way galaxy, that can be observed from Earth's southern hemisphere with the unaided eye.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/99/\">Elliptical Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/330/\">Spiral Galaxy</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Неправильная галактика",
+      "body_ru": "Неправильная галактика — это тип галактики с малой симметрией или без неё (она имеет искажённую морфологию или форму). Они обычно меньше спиральных и эллиптических галактик и часто содержат значительное количество газа, образующего звёзды. Большое и Малое Магеллановы Облака — это неправильные галактики, относительно близкие (примерно 160,000 световых лет и 200,000 световых лет) к нашей галактике Млечный Путь, которые можно наблюдать с Земли в южном полушарии невооружённым глазом."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "不規則銀河 (external link)",
+          "url": "https://astro-dic.jp/irregular-galaxy/",
+          "text_ru": "Неправильная галактика (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/164/\">المجرة غير المنتظمة </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/164/\">নৈমিত্তিক  ছায়াপথ </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/164/\">Irreguläre Galaxie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/164/\">Galaxia irregular </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/164/\">Galaxie irrégulière </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/164/\">Galassia irregolare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/irregular-galaxy/\">不規則銀河 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/164/\">불규칙은하 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/164/\">Galáxia Irregular </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/164/\">不规则星系 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/164/\">不規則星系 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/aG91RF977M99/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:NGC_5264_-_Potw1634a.tif",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:aG91RF977M99"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/aG91RF977M99/\"><img alt=\"NGC 5264 appears as a light, fuzzy, ragged oval on a dark background. Some single stars are visible amongst its diffuse glow\" src=\"/media/multimedia/thumbnails/ngc-5264-an-irregular-island_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">NGC 5264 - An irregular island</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The dwarf irregular galaxy NGC 5264 is located 15 million light years away. It is only about 11,000 light years across, much smaller than our Milky Way, and consists of approximately a billion stars. It lacks the spiral structure of our home Galaxy. The small blue patches in NGC 5264 mark groups of young hot blue stars. This suggests that stars formation in this galaxy is still on-going.<br/>\n<b>Credit:</b> ESA/Hubble and NASA\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:NGC_5264_-_Potw1634a.tif\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/ZO82p521KX42/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:ZO82p521KX42"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/ZO82p521KX42/\"><img alt=\"Sculptor’s stars form hook shape with the curve of the hook pointing west\" src=\"/media/diagrams/multimedia/thumbnails/sculptor-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sculptor Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Sculptor with its brighter stars and surrounding constellations. Sculptor is surrounded by (going clockwise from the top):  Cetus, Aquarius, Piscis Austrinus, Grus, Phoenix and Fornax. \n\nSculptor is a southern constellation and thus the whole constellation is visible at some point in the year throughout the southern hemisphere. The whole constellation is also visible in equatorial and most temperate regions of the northern hemisphere. Parts of the constellation are also visible to the remaining northern temperate regions. Sculptor is best viewed in the evening in the late northern hemisphere autumn and late southern hemisphere spring. \n\nThe irregular galaxy NGC 55, and the spiral galaxies NGC 253 and NGC 300 all lie in Sculptor. There are marked here with red ellipses.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Irregular Galaxy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Irregular Galaxy",
+          "body": "An irregular galaxy is a type of galaxy with little or no symmetry (it has a distorted morphology or shape). They are typically smaller than spiral and elliptical galaxies, and they often contain significant amounts of star-forming gas. The Large and Small Magellanic Clouds are irregular galaxies, relatively close (approximately 160,000 light years, and 200,000 light years) to our Milky Way galaxy, that can be observed from Earth's southern hemisphere with the unaided eye."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Неправильная галактика",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Неправильная галактика",
+          "body": "Неправильная галактика — это тип галактики с малой симметрией или без неё (она имеет искажённую морфологию или форму). Они обычно меньше спиральных и эллиптических галактик и часто содержат значительное количество газа, образующего звёзды. Большое и Малое Магеллановы Облака — это неправильные галактики, относительно близкие (примерно 160,000 световых лет и 200,000 световых лет) к нашей галактике Млечный Путь, которые можно наблюдать с Земли в южном полушарии невооружённым глазом."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:aG91RF977M99",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/ngc-5264-an-irregular-island.png",
+      "record_url": "https://astro4edu.org/resources/media/aG91RF977M99/",
+      "original_path": "data/media/original/media_aG91RF977M99.png",
+      "ru_path": null,
+      "sha256": "85b043f64bc69715e85cfb4cce20b414880c6174731d9053c903f06a3422b573",
+      "size": 28870303,
+      "title_en": "NGC 5264 - An irregular island",
+      "title_ru": "NGC 5264 — неправильный остров",
+      "short_caption_en": "NGC 5264 - An irregular island",
+      "short_caption_ru": "NGC 5264 — неправильный остров",
+      "caption_en": "The dwarf irregular galaxy NGC 5264 is located 15 million light years away. It is only about 11,000 light years across, much smaller than our Milky Way, and consists of approximately a billion stars. It lacks the spiral structure of our home Galaxy. The small blue patches in NGC 5264 mark groups of young hot blue stars. This suggests that stars formation in this galaxy is still on-going.",
+      "caption_ru": "Карликовая неправильная галактика NGC 5264 находится на расстоянии 15 миллионов световых лет. Её диаметр составляет всего около 11,000 световых лет, что гораздо меньше нашего Млечного Пути, и она состоит примерно из миллиарда звёзд. У неё отсутствует спиральная структура нашей родной Галактики. Небольшие голубые пятна в NGC 5264 отмечают группы молодых горячих голубых звёзд. Это говорит о том, что звездообразование в этой галактике всё ещё продолжается.",
+      "alt_en": "NGC 5264 appears as a light, fuzzy, ragged oval on a dark background. Some single stars are visible amongst its diffuse glow",
+      "alt_ru": "NGC 5264 выглядит как светлый, размытый, неровный овал на тёмном фоне. Среди его диффузного свечения видны некоторые отдельные звёзды",
+      "credit": "ESA/Hubble and NASA",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:NGC_5264_-_Potw1634a.tif",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        86,
+        164
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:ZO82p521KX42",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sculptor-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/ZO82p521KX42/",
+      "original_path": "data/media/original/diagram_ZO82p521KX42.png",
+      "ru_path": null,
+      "sha256": "8ee26b6a593b1542c207155125ba411079558cb850aea501e40f0cdd72512424",
+      "size": 90517,
+      "title_en": "Sculptor Constellation Map",
+      "title_ru": "Карта созвездия Скульптор",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Sculptor with its brighter stars and surrounding constellations. Sculptor is surrounded by (going clockwise from the top):  Cetus, Aquarius, Piscis Austrinus, Grus, Phoenix and Fornax. \r\n\r\nSculptor is a southern constellation and thus the whole constellation is visible at some point in the year throughout the southern hemisphere. The whole constellation is also visible in equatorial and most temperate regions of the northern hemisphere. Parts of the constellation are also visible to the remaining northern temperate regions. Sculptor is best viewed in the evening in the late northern hemisphere autumn and late southern hemisphere spring. \r\n\r\nThe irregular galaxy NGC 55, and the spiral galaxies NGC 253 and NGC 300 all lie in Sculptor. There are marked here with red ellipses.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Скульптор с его более яркими звёздами и окружающими созвездиями. Скульптор окружён (по часовой стрелке сверху): Кит, Водолей, Южная Рыба, Журавль, Феникс и Печь. \r\n\r\nСкульптор — южное созвездие, поэтому всё созвездие видно в какой-то момент в течение года на всей территории южного полушария. Всё созвездие также видно в экваториальных и большинстве умеренных регионах северного полушария. Части созвездия также видны в остальных северных умеренных регионах. Скульптор лучше всего наблюдать вечером поздней осенью в северном полушарии и поздней весной в южном полушарии. \r\n\r\nНеправильная галактика NGC 55 и спиральные галактики NGC 253 и NGC 300 все находятся в Скульпторе. Здесь они отмечены красными эллипсами.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Sculptor’s stars form hook shape with the curve of the hook pointing west",
+      "alt_ru": "Звёзды Скульптора образуют форму крюка, изгиб которого направлен на запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        164,
+        286,
+        330
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

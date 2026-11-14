@@ -1,0 +1,141 @@
+{
+  "id": "term:457",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 457,
+    "url": "https://astro4edu.org/resources/glossary/term/457/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=457",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:34.407781+00:00",
+    "sha256": "4e6ff65175bc5ad0d541d8666ce7acedeb5116ac31c5f3730a540243abd63774"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      130,
+      199,
+      221,
+      349,
+      430
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Metal",
+      "body": "The word metal in astronomy is generally used to mean any chemical element except hydrogen or helium. Nucleosynthesis shortly after the Big Bang resulted in a Universe that was almost entirely hydrogen and helium with only trace amounts of other elements. Over time, nuclear fusion in the cores of stars converted some of this hydrogen and helium into heavier elements such as carbon, oxygen, nitrogen, and iron. These new heavier elements were further transformed by slow nuclear reactions inside giant stars and rapid nuclear reactions in supernova explosions and neutron star collisions to form the natural elements we know today. The metal content (called metallicity) of stars increases with each generation of stars. In our Milky Way galaxy, the oldest stars typically have the lowest metallicity.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Giant Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/130/",
+          "text_ru": "Звезда-гигант"
+        },
+        {
+          "text": "Milky Way",
+          "url": "https://www.astro4edu.org/resources/glossary/term/199/",
+          "text_ru": "Млечный Путь"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "Big Bang Nucleosynthesis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/430/",
+          "text_ru": "Нуклеосинтез Большого взрыва"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Metal</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The word metal in astronomy is generally used to mean any chemical element except hydrogen or helium. Nucleosynthesis shortly after the Big Bang resulted in a Universe that was almost entirely hydrogen and helium with only trace amounts of other elements. Over time, nuclear fusion in the cores of stars converted some of this hydrogen and helium into heavier elements such as carbon, oxygen, nitrogen, and iron. These new heavier elements were further transformed by slow nuclear reactions inside giant stars and rapid nuclear reactions in supernova explosions and neutron star collisions to form the natural elements we know today. The metal content (called metallicity) of stars increases with each generation of stars. In our Milky Way galaxy, the oldest stars typically have the lowest metallicity.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/130/\">Giant Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/199/\">Milky Way</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/430/\">Big Bang Nucleosynthesis</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Металл",
+      "body_ru": "Слово «металл» в астрономии обычно используется для обозначения любого химического элемента, кроме водорода или гелия. Нуклеосинтез вскоре после Большого взрыва привёл к тому, что Вселенная почти полностью состояла из водорода и гелия с лишь следовыми количествами других элементов. Со временем термоядерный синтез в ядрах звёзд превратил часть этого водорода и гелия в более тяжёлые элементы, такие как углерод, кислород, азот и железо. Эти новые более тяжёлые элементы были дополнительно преобразованы медленными ядерными реакциями внутри звёзд-гигантов и быстрыми ядерными реакциями во взрывах сверхновых и столкновениях нейтронных звёзд, образовав известные нам сегодня природные элементы. Содержание металлов (называемое металличностью) в звёздах увеличивается с каждым поколением звёзд. В нашей галактике Млечный Путь самые старые звёзды, как правило, имеют самую низкую металличность."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "金属 (external link)",
+          "url": "https://astro-dic.jp/metal/",
+          "text_ru": "Металл (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/457/\">فلز </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/457/\">Metall </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/457/\">Metal </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/457/\">métal </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/457/\">धातु </a></span></li>\n<li><b>Indonesian: </b><span dir=\"LTR\" lang=\"id\"><a class=\"link-bold\" href=\"/id/resources/glossary/term/457/\">Logam </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/457/\">metallo </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/metal/\">金属 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/457/\">금속 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/457/\">धातू </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/457/\">Metal </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/457/\">金属 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/457/\">金屬 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Metal",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Metal",
+          "body": "The word metal in astronomy is generally used to mean any chemical element except hydrogen or helium. Nucleosynthesis shortly after the Big Bang resulted in a Universe that was almost entirely hydrogen and helium with only trace amounts of other elements. Over time, nuclear fusion in the cores of stars converted some of this hydrogen and helium into heavier elements such as carbon, oxygen, nitrogen, and iron. These new heavier elements were further transformed by slow nuclear reactions inside giant stars and rapid nuclear reactions in supernova explosions and neutron star collisions to form the natural elements we know today. The metal content (called metallicity) of stars increases with each generation of stars. In our Milky Way galaxy, the oldest stars typically have the lowest metallicity."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Металл",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Металл",
+          "body": "Слово «металл» в астрономии обычно используется для обозначения любого химического элемента, кроме водорода или гелия. Нуклеосинтез вскоре после Большого взрыва привёл к тому, что Вселенная почти полностью состояла из водорода и гелия с лишь следовыми количествами других элементов. Со временем термоядерный синтез в ядрах звёзд превратил часть этого водорода и гелия в более тяжёлые элементы, такие как углерод, кислород, азот и железо. Эти новые более тяжёлые элементы были дополнительно преобразованы медленными ядерными реакциями внутри звёзд-гигантов и быстрыми ядерными реакциями во взрывах сверхновых и столкновениях нейтронных звёзд, образовав известные нам сегодня природные элементы. Содержание металлов (называемое металличностью) в звёздах увеличивается с каждым поколением звёзд. В нашей галактике Млечный Путь самые старые звёзды, как правило, имеют самую низкую металличность."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

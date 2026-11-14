@@ -1,0 +1,268 @@
+{
+  "id": "term:135",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 135,
+    "url": "https://astro4edu.org/resources/glossary/term/135/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=135",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:54.952547+00:00",
+    "sha256": "7c158c46ec9e88ae5576314d2ee65775b090cb830785d7a0c064a7f16b2fce79"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      190
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Gravity",
+      "body": "Gravity is the mutual attraction of objects with mass. In classical mechanics, any object with a mass always exerts a force of attraction on another object with a mass. This attractive force is what we know as gravity. Einstein's theory of general relativity recasts gravity as a curvature of spacetime rather than a force. However the classical approximation of gravity is still accurate in most scenarios. The more massive an object is, the stronger its gravitational force/distortion of spacetime and hence the stronger the pull on other objects.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Mass",
+          "url": "https://www.astro4edu.org/resources/glossary/term/190/",
+          "text_ru": "Масса"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Gravity</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Gravity is the mutual attraction of objects with mass. In classical mechanics, any object with a mass always exerts a force of attraction on another object with a mass. This attractive force is what we know as gravity. Einstein's theory of general relativity recasts gravity as a curvature of spacetime rather than a force. However the classical approximation of gravity is still accurate in most scenarios. The more massive an object is, the stronger its gravitational force/distortion of spacetime and hence the stronger the pull on other objects.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/190/\">Mass</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Гравитация",
+      "body_ru": "Гравитация — это взаимное притяжение объектов с массой. В классической механике любой объект с массой всегда оказывает силу притяжения на другой объект с массой. Эта сила притяжения — то, что мы знаем как гравитацию. Общая теория относительности Эйнштейна переосмысливает гравитацию как искривление пространства-времени, а не как силу. Однако классическое приближение гравитации всё ещё точно в большинстве сценариев. Чем массивнее объект, тем сильнее его гравитационная сила/искажение пространства-времени и, следовательно, сильнее притяжение других объектов."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "重力 (external link)",
+          "url": "https://astro-dic.jp/gravity/",
+          "text_ru": "гравитация (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/135/\">الجاذبية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/135/\">Schwerkraft </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/135/\">Gravedad </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/135/\">Gravité </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/135/\">गुरुत्वाकर्षण </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/135/\">Gravità </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/gravity/\">重力 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/135/\">गुरुत्वाकर्षण </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/135/\">Gravidade </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/135/\">万有引力 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/135/\">萬有引力 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Is35Tq19o343/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Is35Tq19o343"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Is35Tq19o343/\"><img alt=\"Line drawing of a scientific apparatus with pairs of larger and smaller spherical masses suspended from balanced by strings\" src=\"/media/multimedia/thumbnails/apparatus-for-determining-the-gravitional-constant_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Apparatus for determining the gravitional constant</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Observations of the motions of the planets around the Sun, or the Moon around the Earth, could not yield the gravitational constant, as in those cases, the mass of the central body is not initially known. Measuring the gravitational constant required a situation where the masses involved had been determined independent of measuring their gravitational attraction. The device shown here was built by John Michell (1724–1793), but Michell died before he could perform the experiment.  Henry Cavendish (1731–1810) inherited the device, modified it so as to suppress external disturbances, and successfully completed the experiment. Cavendish's report to the Royal Society was under the title of \"Experiments to determine the density of the Earth\" as, from knowledge of the gravitational constant, the gravitational acceleration at Earth's surface and the Earth's radius, one can determine the Earth's mass and its mean density. From the modern perspective, what is now known as the \"Cavendish experiment\" is seen as a way of determining Newton's gravitational constant G.\n\nThe image shows a cross-section of the apparatus, which Cavendish had further isolated from environmental influences by putting it into a separate room and inside a wooden box. The devices allowing Cavendish to illuminate, observe and manipulate the experiment from the outside are pictured as well. The core of the experiment is a torsion balance using two small lead spheres. The restoring force of the torsion pendulum is deduced from its natural oscillation frequency in the absence of the large masses. The gravitational attraction of the small lead spheres to their larger counterparts can then be determined by measuring how far it makes the torsion pendulum masses deviate from their null position.\n\nThe image is a slightly modified (cropped, contrast and brightness adjusted) version of Fig. 1 in Cavendish's article in the Philosophical Transactions of the Royal Society, Volume 88 (December 1798), pp. 469–526 [DOI: 10.1098/rstl.1798.0022]. The permission of the Royal Society to publish this image under a CC BY licenses gratefully acknowledged.<br/>\n<b>Credit:</b> Henry Cavendish in Philosophical Transactions of the Royal Society, DOI: 10.1098/rstl.1798.0022\n\t  <a href=\"https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Model of a Black Hole astroEDU educational activity (links to astroEDU website) Description: Understand the mystery of black holes through a hands-on activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Interactive \n  \n  , Space-time \n  \n  , Black holes Age Ranges: 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Developing and using models Levitating Astronaut astroEDU educational activity (links to astroEDU website) Description: Levitate an astronaut with the power of magnetism. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Levitation \n  \n  , Magnets \n  \n  , Magnetism \n  \n  , Force \n  \n  , Charge Age Ranges: 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Modelling Costs: Low Cost Group Size: Group Skills: Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Impact Craters astroEDU educational activity (links to astroEDU website) Description: A literal Earth-Shattering experiment License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Impact \n  \n  , Experiment Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking Big Telescopes: Gravity astroEDU educational activity (links to astroEDU website) Description: Observing what gravity is doing to the Universe License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling Costs: High Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy astroEDU educational activity (links to astroEDU website) Description: Let's investigate the nature of dark matter and energy with gravitational lensing! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment \n  \n  , Invisible Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/"
+        },
+        {
+          "text": "Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy",
+          "url": "https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/",
+          "text_ru": "Темная материя и темная энергия (Часть 2) – Понимание природы темной материи и темной энергии"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Gravity&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/model-of-a-black-hole/\"><img alt=\"Model of a Black Hole\" src=\"/media/astroedu/images/model-of-a-black-hole_en_thumbnail_UoPoGBq.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/model-of-a-black-hole/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Model of a Black Hole</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Understand the mystery of black holes through a hands-on activity.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n  , Interactive \n  \n  , Space-time \n  \n  , Black holes \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/levitating-astronaut/\"><img alt=\"Levitating Astronaut\" src=\"/media/astroedu/images/levitating-astronaut_en_thumbnail_7ZSbJFn.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/levitating-astronaut/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Levitating Astronaut</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Levitate an astronaut with the power of magnetism.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Levitation \n  \n  , Magnets \n  \n  , Magnetism \n  \n  , Force \n  \n  , Charge \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/impact-craters/\"><img alt=\"Impact Craters\" src=\"/media/astroedu/images/impact-craters_en_thumbnail_BfjEIAY.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/impact-craters/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Impact Craters</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>A literal Earth-Shattering experiment\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Impact \n  \n  , Experiment \n  \n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/big-telescopes-gravity/\"><img alt=\"Big Telescopes: Gravity\" src=\"/media/astroedu/images/big-telescopes-gravity_en_thumbnail_hJcp2mv.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/big-telescopes-gravity/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Telescopes: Gravity</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Observing what gravity is doing to the Universe\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Experiment \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nHigh Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/\"><img alt=\"Dark matter &amp; dark energy (Part 2) – Understanding the nature of dark matter and dark energy\" src=\"/media/astroedu/images/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-a_XTqFLCa.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dark matter &amp; dark energy (Part 2) – Understanding the nature of dark matter and dark energy</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's investigate the nature of dark matter and energy with gravitational lensing!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Experiment \n  \n  , Invisible \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nConstructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Gravity&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Модель черной дыры образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Поймите тайну черных дыр с помощью практической деятельности. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Модель \n  \n  , Интерактивность \n  \n  , Пространство-время \n  \n  , Черные дыры Возрастные диапазоны: 8-10 \n  \n, 10-12 Уровень образования: Начальное \n  \n, Среднее Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов \n  \n, Разработка и использование моделей Левитирующий астронавт образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Левитируйте астронавта с помощью силы магнетизма. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Левитация \n  \n  , Магниты \n  \n  , Магнетизм \n  \n  , Сила \n  \n  , Заряд Возрастные диапазоны: 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальное \n  \n, Среднее Области обучения: Моделирование Затраты: Низкая стоимость Размер группы: Группа Навыки: Задавание вопросов \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Ударные кратеры образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Буквально потрясающий Землю эксперимент Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , Удар \n  \n  , Эксперимент Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Начальное \n  \n, Среднее Области обучения: Обучение через направляемое открытие \n  \n, Моделирование \n  \n, Традиционный научный эксперимент Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Построение объяснений \n  \n, Участие в аргументации на основе доказательств \n  \n, Использование математики и вычислительного мышления Большие телескопы: Гравитация образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Наблюдение за тем, что гравитация делает с Вселенной Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент Возрастные диапазоны: 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Среднее Области обучения: Обучение через направляемое открытие \n  \n, Интерактивная лекция \n  \n, Моделирование Затраты: Высокая стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Темная материя и темная энергия (Часть 2) – Понимание природы темной материи и темной энергии образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем природу темной материи и энергии с помощью гравитационного линзирования! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент \n  \n  , Невидимое Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа Области обучения: Обучение через направляемое открытие \n  \n, Интерактивная лекция \n  \n, Моделирование \n  \n, Решение проблем Затраты: Средняя стоимость Продолжительность: 45 мин Размер группы: Группа Навыки: Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств Просмотреть все мероприятия для этого семестра"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Gravity",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Gravity",
+          "body": "Gravity is the mutual attraction of objects with mass. In classical mechanics, any object with a mass always exerts a force of attraction on another object with a mass. This attractive force is what we know as gravity. Einstein's theory of general relativity recasts gravity as a curvature of spacetime rather than a force. However the classical approximation of gravity is still accurate in most scenarios. The more massive an object is, the stronger its gravitational force/distortion of spacetime and hence the stronger the pull on other objects."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Model of a Black Hole astroEDU educational activity (links to astroEDU website) Description: Understand the mystery of black holes through a hands-on activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Interactive \n  \n  , Space-time \n  \n  , Black holes Age Ranges: 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Developing and using models Levitating Astronaut astroEDU educational activity (links to astroEDU website) Description: Levitate an astronaut with the power of magnetism. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Levitation \n  \n  , Magnets \n  \n  , Magnetism \n  \n  , Force \n  \n  , Charge Age Ranges: 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Modelling Costs: Low Cost Group Size: Group Skills: Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Impact Craters astroEDU educational activity (links to astroEDU website) Description: A literal Earth-Shattering experiment License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Impact \n  \n  , Experiment Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Modelling \n  \n, Traditional Science Experiment Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking Big Telescopes: Gravity astroEDU educational activity (links to astroEDU website) Description: Observing what gravity is doing to the Universe License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling Costs: High Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy astroEDU educational activity (links to astroEDU website) Description: Let's investigate the nature of dark matter and energy with gravitational lensing! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment \n  \n  , Invisible Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Гравитация",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Гравитация",
+          "body": "Гравитация — это взаимное притяжение объектов с массой. В классической механике любой объект с массой всегда оказывает силу притяжения на другой объект с массой. Эта сила притяжения — то, что мы знаем как гравитацию. Общая теория относительности Эйнштейна переосмысливает гравитацию как искривление пространства-времени, а не как силу. Однако классическое приближение гравитации всё ещё точно в большинстве сценариев. Чем массивнее объект, тем сильнее его гравитационная сила/искажение пространства-времени и, следовательно, сильнее притяжение других объектов."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Модель черной дыры образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Поймите тайну черных дыр с помощью практической деятельности. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Модель \n  \n  , Интерактивность \n  \n  , Пространство-время \n  \n  , Черные дыры Возрастные диапазоны: 8-10 \n  \n, 10-12 Уровень образования: Начальное \n  \n, Среднее Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов \n  \n, Разработка и использование моделей Левитирующий астронавт образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Левитируйте астронавта с помощью силы магнетизма. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Левитация \n  \n  , Магниты \n  \n  , Магнетизм \n  \n  , Сила \n  \n  , Заряд Возрастные диапазоны: 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальное \n  \n, Среднее Области обучения: Моделирование Затраты: Низкая стоимость Размер группы: Группа Навыки: Задавание вопросов \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Ударные кратеры образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Буквально потрясающий Землю эксперимент Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , Удар \n  \n  , Эксперимент Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Начальное \n  \n, Среднее Области обучения: Обучение через направляемое открытие \n  \n, Моделирование \n  \n, Традиционный научный эксперимент Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Построение объяснений \n  \n, Участие в аргументации на основе доказательств \n  \n, Использование математики и вычислительного мышления Большие телескопы: Гравитация образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Наблюдение за тем, что гравитация делает с Вселенной Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент Возрастные диапазоны: 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Среднее Области обучения: Обучение через направляемое открытие \n  \n, Интерактивная лекция \n  \n, Моделирование Затраты: Высокая стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Темная материя и темная энергия (Часть 2) – Понимание природы темной материи и темной энергии образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем природу темной материи и энергии с помощью гравитационного линзирования! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент \n  \n  , Невидимое Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа Области обучения: Обучение через направляемое открытие \n  \n, Интерактивная лекция \n  \n, Моделирование \n  \n, Решение проблем Затраты: Средняя стоимость Продолжительность: 45 мин Размер группы: Группа Навыки: Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств Просмотреть все мероприятия для этого семестра"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Is35Tq19o343",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/apparatus-for-determining-the-gravitional-constant.png",
+      "record_url": "https://astro4edu.org/resources/media/Is35Tq19o343/",
+      "original_path": "data/media/original/media_Is35Tq19o343.png",
+      "ru_path": null,
+      "sha256": "4bc21a1e8aa640b56519115dfca8df6da0ce3c2c93f0c81ff0e1f0fd82dfd557",
+      "size": 864505,
+      "title_en": "Apparatus for determining the gravitional constant",
+      "title_ru": "Установка для определения гравитационной постоянной",
+      "short_caption_en": "Apparatus for determining the gravitional constant",
+      "short_caption_ru": "Установка для определения гравитационной постоянной",
+      "caption_en": "Observations of the motions of the planets around the Sun, or the Moon around the Earth, could not yield the gravitational constant, as in those cases, the mass of the central body is not initially known. Measuring the gravitational constant required a situation where the masses involved had been determined independent of measuring their gravitational attraction. The device shown here was built by John Michell (1724–1793), but Michell died before he could perform the experiment.  Henry Cavendish (1731–1810) inherited the device, modified it so as to suppress external disturbances, and successfully completed the experiment. Cavendish's report to the Royal Society was under the title of \"Experiments to determine the density of the Earth\" as, from knowledge of the gravitational constant, the gravitational acceleration at Earth's surface and the Earth's radius, one can determine the Earth's mass and its mean density. From the modern perspective, what is now known as the \"Cavendish experiment\" is seen as a way of determining Newton's gravitational constant G.\r\n\r\nThe image shows a cross-section of the apparatus, which Cavendish had further isolated from environmental influences by putting it into a separate room and inside a wooden box. The devices allowing Cavendish to illuminate, observe and manipulate the experiment from the outside are pictured as well. The core of the experiment is a torsion balance using two small lead spheres. The restoring force of the torsion pendulum is deduced from its natural oscillation frequency in the absence of the large masses. The gravitational attraction of the small lead spheres to their larger counterparts can then be determined by measuring how far it makes the torsion pendulum masses deviate from their null position.\r\n\r\nThe image is a slightly modified (cropped, contrast and brightness adjusted) version of Fig. 1 in Cavendish's article in the Philosophical Transactions of the Royal Society, Volume 88 (December 1798), pp. 469–526 [DOI: 10.1098/rstl.1798.0022]. The permission of the Royal Society to publish this image under a CC BY licenses gratefully acknowledged.",
+      "caption_ru": "Наблюдения движений планет вокруг Солнца или Луны вокруг Земли не могли дать гравитационную постоянную, так как в этих случаях масса центрального тела изначально неизвестна. Измерение гравитационной постоянной требовало ситуации, когда вовлечённые массы были определены независимо от измерения их гравитационного притяжения. Устройство, показанное здесь, было построено Джоном Мичеллом (1724–1793), но Мичелл умер, прежде чем смог провести эксперимент. Генри Кавендиш (1731–1810) унаследовал устройство, модифицировал его так, чтобы подавить внешние помехи, и успешно завершил эксперимент. Отчёт Кавендиша Королевскому обществу был озаглавлен «Эксперименты по определению плотности Земли», поскольку, зная гравитационную постоянную, гравитационное ускорение на поверхности Земли и радиус Земли, можно определить массу Земли и её среднюю плотность. С современной точки зрения то, что теперь известно как «эксперимент Кавендиша», рассматривается как способ определения ньютоновской гравитационной постоянной G.\r\n\r\nНа изображении показан разрез аппарата, который Кавендиш дополнительно изолировал от воздействий окружающей среды, поместив его в отдельную комнату и внутрь деревянного ящика. Также изображены устройства, позволявшие Кавендишу освещать, наблюдать и управлять экспериментом снаружи. Ядром эксперимента являются крутильные весы, использующие две маленькие свинцовые сферы. Возвращающая сила крутильного маятника определяется по его собственной частоте колебаний в отсутствие больших масс. Гравитационное притяжение маленьких свинцовых сфер к их более крупным аналогам можно затем определить, измерив, насколько оно отклоняет массы крутильного маятника от их нулевого положения.\r\n\r\nИзображение представляет собой слегка изменённую (обрезанную, с скорректированными контрастом и яркостью) версию рис. 1 из статьи Кавендиша в Philosophical Transactions of the Royal Society, том 88 (декабрь 1798), стр. 469–526 [DOI: 10.1098/rstl.1798.0022]. Разрешение Королевского общества на публикацию этого изображения под лицензией CC BY с благодарностью подтверждается.",
+      "alt_en": "Line drawing of a scientific apparatus with pairs of larger and smaller spherical masses suspended from balanced by strings",
+      "alt_ru": "Линейный рисунок научного аппарата с парами более крупных и мелких сферических масс, подвешенных на нитях и уравновешенных",
+      "credit": "Henry Cavendish in Philosophical Transactions of the Royal Society, DOI: 10.1098/rstl.1798.0022",
+      "credit_url": "https://royalsocietypublishing.org/doi/10.1098/rstl.1798.0022",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        133,
+        135
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

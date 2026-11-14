@@ -1,0 +1,152 @@
+{
+  "id": "term:353",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 353,
+    "url": "https://astro4edu.org/resources/glossary/term/353/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=353",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:01.305231+00:00",
+    "sha256": "d00b160bc56c129d498060d8b956bb7fb8e659e44202e060b1aefb786059eff5"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      3,
+      100,
+      358
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Temperature",
+      "body": "In a physical system that has \"settled down\" over time, reaching what is called thermal equilibrium, each way the system can change (each \"degree of freedom\") has, on average, the same energy. The system's temperature is a measure of how large that average energy is. Temperature is important in all disciplines of natural science as well as most aspects of everyday life. The most common temperature scales are the Celsius scale (former name centigrade, denoted as °C), the Fahrenheit scale (denoted as °F), and the kelvin scale (denoted as K). The latter is predominantly used for scientific purposes. The lowest theoretical temperature is absolute zero (0 K = -273.15 °C), at which no more thermal energy can be extracted from a body. In the nucleus of stars, the temperature exceeds 10 million K, while in cold molecular clouds of interstellar gas it can be as cold as 10 K.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Absolute Zero",
+          "url": "https://www.astro4edu.org/resources/glossary/term/3/",
+          "text_ru": "Абсолютный нуль"
+        },
+        {
+          "text": "Energy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/100/",
+          "text_ru": "Энергия"
+        },
+        {
+          "text": "Thermal Radiation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/358/",
+          "text_ru": "Тепловое излучение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Temperature</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In a physical system that has \"settled down\" over time, reaching what is called thermal equilibrium, each way the system can change (each \"degree of freedom\") has, on average, the same energy. The system's temperature is a measure of how large that average energy is.<br/><br/>Temperature is important in all disciplines of natural science as well as most aspects of everyday life. The most common temperature scales are the Celsius scale (former name centigrade, denoted as °C), the Fahrenheit scale (denoted as °F), and the kelvin scale (denoted as K). The latter is predominantly used for scientific purposes. The lowest theoretical temperature is absolute zero (0 K = -273.15 °C), at which no more thermal energy can be extracted from a body. In the nucleus of stars, the temperature exceeds 10 million K, while in cold molecular clouds of interstellar gas it can be as cold as 10 K.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/3/\">Absolute Zero</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/100/\">Energy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/358/\">Thermal Radiation</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Температура",
+      "body_ru": "В физической системе, которая со временем «успокоилась», достигнув так называемого теплового равновесия, каждый способ, которым система может изменяться (каждая «степень свободы»), имеет в среднем одинаковую энергию. Температура системы является мерой того, насколько велика эта средняя энергия. Температура важна во всех дисциплинах естественных наук, а также в большинстве аспектов повседневной жизни. Наиболее распространённые температурные шкалы — шкала Цельсия (прежнее название — стоградусная, обозначается как °C), шкала Фаренгейта (обозначается как °F) и шкала Кельвина (обозначается как K). Последняя преимущественно используется для научных целей. Самая низкая теоретическая температура — абсолютный нуль (0 K = -273.15 °C), при которой из тела нельзя извлечь больше тепловой энергии. В ядрах звёзд температура превышает 10 миллионов K, тогда как в холодных молекулярных облаках межзвёздного газа она может быть такой же низкой, как 10 K."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/353/\">درجة الحرارة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/353/\">Temperatur </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/353/\">Temperatura </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/353/\">Température </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/353/\">Temperatura </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/353/\">온도 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/353/\">Temperaturas </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/353/\">温度 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/353/\">溫度 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Oceans As A Heat Reservoir astroEDU educational activity (links to astroEDU website) Description: Why do oceans play an important role in mitigating global warming? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Climate change \n  \n  , Oceans \n  \n  , heat Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Temperature&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/oceans-as-a-heat-reservoir/\"><img alt=\"Oceans As A Heat Reservoir\" src=\"/media/astroedu/images/oceans-as-a-heat-reservoir_en_thumbnail_5k0X6rd.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/oceans-as-a-heat-reservoir/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Oceans As A Heat Reservoir</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Why do oceans play an important role in mitigating global warming?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Climate change \n  \n  , Oceans \n  \n  , heat \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Temperature&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Океаны как резервуар тепла — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Почему океаны играют важную роль в смягчении глобального потепления? Лицензия: CC-BY-4.0 значки Creative Commons Attribution 4.0 International (CC BY 4.0) Теги: Жизнь\n  \n  , Изменение климата\n  \n  , Океаны\n  \n  , тепло Возрастные диапазоны: 12-14\n  \n, 14-16\n  \n, 16-19 Уровень образования: Средняя школа Области обучения: Моделирование\n  \n, Обучение через структурированное исследование\n  \n, Традиционный научный эксперимент Затраты: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных\n  \n, Построение объяснений\n  \n, Разработка и использование моделей\n  \n, Участие в аргументации на основе доказательств\n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Temperature",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Temperature",
+          "body": "In a physical system that has \"settled down\" over time, reaching what is called thermal equilibrium, each way the system can change (each \"degree of freedom\") has, on average, the same energy. The system's temperature is a measure of how large that average energy is. Temperature is important in all disciplines of natural science as well as most aspects of everyday life. The most common temperature scales are the Celsius scale (former name centigrade, denoted as °C), the Fahrenheit scale (denoted as °F), and the kelvin scale (denoted as K). The latter is predominantly used for scientific purposes. The lowest theoretical temperature is absolute zero (0 K = -273.15 °C), at which no more thermal energy can be extracted from a body. In the nucleus of stars, the temperature exceeds 10 million K, while in cold molecular clouds of interstellar gas it can be as cold as 10 K."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Oceans As A Heat Reservoir astroEDU educational activity (links to astroEDU website) Description: Why do oceans play an important role in mitigating global warming? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Climate change \n  \n  , Oceans \n  \n  , heat Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Температура",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Температура",
+          "body": "В физической системе, которая со временем «успокоилась», достигнув так называемого теплового равновесия, каждый способ, которым система может изменяться (каждая «степень свободы»), имеет в среднем одинаковую энергию. Температура системы является мерой того, насколько велика эта средняя энергия. Температура важна во всех дисциплинах естественных наук, а также в большинстве аспектов повседневной жизни. Наиболее распространённые температурные шкалы — шкала Цельсия (прежнее название — стоградусная, обозначается как °C), шкала Фаренгейта (обозначается как °F) и шкала Кельвина (обозначается как K). Последняя преимущественно используется для научных целей. Самая низкая теоретическая температура — абсолютный нуль (0 K = -273.15 °C), при которой из тела нельзя извлечь больше тепловой энергии. В ядрах звёзд температура превышает 10 миллионов K, тогда как в холодных молекулярных облаках межзвёздного газа она может быть такой же низкой, как 10 K."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Океаны как резервуар тепла — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Почему океаны играют важную роль в смягчении глобального потепления? Лицензия: CC-BY-4.0 значки Creative Commons Attribution 4.0 International (CC BY 4.0) Теги: Жизнь\n  \n  , Изменение климата\n  \n  , Океаны\n  \n  , тепло Возрастные диапазоны: 12-14\n  \n, 14-16\n  \n, 16-19 Уровень образования: Средняя школа Области обучения: Моделирование\n  \n, Обучение через структурированное исследование\n  \n, Традиционный научный эксперимент Затраты: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных\n  \n, Построение объяснений\n  \n, Разработка и использование моделей\n  \n, Участие в аргументации на основе доказательств\n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

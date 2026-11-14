@@ -1,0 +1,117 @@
+{
+  "id": "term:105",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 105,
+    "url": "https://astro4edu.org/resources/glossary/term/105/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=105",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:41.493508+00:00",
+    "sha256": "a6a912a7d35bdadf3ef799bf5a216b6d81fdba384527c4ee2a81dacd9c1aa8ce"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Space Exploration"
+    ],
+    "category_ids": [
+      10
+    ],
+    "categories_ru": [
+      "Исследование космоса"
+    ],
+    "related_term_numbers": [
+      135
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Escape Velocity",
+      "body": "Escape velocity is the minimum speed that an object must have to permanently escape from the gravitational field of a celestial body. This is a scalar quantity so should more correctly be referred to as escape speed; however, the term escape velocity is commonly used. The simplest case is that of a body that is spherically symmetric – which is an excellent approximation for describing stars and planets. In this case, the escape velocity at a distance r from the center of a body of mass m, is given by √(2Gm/r), where G is the gravitational constant. At the surface of a spherical body the distance from its center is its radius. This means that the escape velocity at the surface of an approximately spherical celestial body depends on the radius and its mass. In the case of the Sun, it is 617.5 kilometers per second (km/s), and for Earth, 11.2 km/s. It is 2.4 km/s for the Moon, which means that an object on the Moon needs to attain a lower speed to escape the Moon's gravity than an object on Earth would need to leave Earth's gravity.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Gravity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/135/",
+          "text_ru": "Гравитация"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Escape Velocity</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Escape velocity is the minimum speed that an object must have to permanently escape from the gravitational field of a celestial body. This is a scalar quantity so should more correctly be referred to as escape speed; however, the term escape velocity is commonly used. The simplest case is that of a body that is spherically symmetric – which is an excellent approximation for describing stars and planets. In this case, the escape velocity at a distance r from the center of a body of mass m, is given by √(2Gm/r), where G is the gravitational constant. At the surface of a spherical body the distance from its center is its radius. This means that the escape velocity at the surface of an approximately spherical celestial body depends on the radius and its mass. In the case of the Sun, it is 617.5 kilometers per second (km/s), and for Earth, 11.2 km/s. It is 2.4 km/s for the Moon, which means that an object on the Moon needs to attain a lower speed to escape the Moon's gravity than an object on Earth would need to leave Earth's gravity.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/135/\">Gravity</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Вторая космическая скорость",
+      "body_ru": "Вторая космическая скорость — это минимальная скорость, которую должно иметь тело, чтобы навсегда покинуть гравитационное поле небесного тела. Это скалярная величина, поэтому правильнее называть её скоростью убегания; однако термин «вторая космическая скорость» широко используется. Простейший случай — это тело, обладающее сферической симметрией, что является отличным приближением для описания звёзд и планет. В этом случае вторая космическая скорость на расстоянии r от центра тела массой m задаётся как √(2Gm/r), где G — гравитационная постоянная. На поверхности сферического тела расстояние от его центра равно его радиусу. Это означает, что вторая космическая скорость на поверхности приблизительно сферического небесного тела зависит от радиуса и его массы. В случае Солнца она составляет 617.5 километров в секунду (км/с), а для Земли — 11.2 км/с. Для Луны она равна 2.4 км/с, что означает, что объекту на Луне нужно достичь меньшей скорости, чтобы покинуть гравитацию Луны, чем объекту на Земле, чтобы покинуть гравитацию Земли."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "脱出速度 (external link)",
+          "url": "https://astro-dic.jp/escape-velocity/",
+          "text_ru": "Вторая космическая скорость (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/105/\">سرعة الإفلات </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/105/\">Fluchtgeschwindigkeit </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/105/\">Velocidad de escape </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/105/\">Vitesse de libération </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/105/\">Velocità di fuga </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/escape-velocity/\">脱出速度 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/105/\">Velocidade de escape </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/105/\">逃逸速度 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/105/\">逃逸速度 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Escape Velocity",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Escape Velocity",
+          "body": "Escape velocity is the minimum speed that an object must have to permanently escape from the gravitational field of a celestial body. This is a scalar quantity so should more correctly be referred to as escape speed; however, the term escape velocity is commonly used. The simplest case is that of a body that is spherically symmetric – which is an excellent approximation for describing stars and planets. In this case, the escape velocity at a distance r from the center of a body of mass m, is given by √(2Gm/r), where G is the gravitational constant. At the surface of a spherical body the distance from its center is its radius. This means that the escape velocity at the surface of an approximately spherical celestial body depends on the radius and its mass. In the case of the Sun, it is 617.5 kilometers per second (km/s), and for Earth, 11.2 km/s. It is 2.4 km/s for the Moon, which means that an object on the Moon needs to attain a lower speed to escape the Moon's gravity than an object on Earth would need to leave Earth's gravity."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Вторая космическая скорость",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Вторая космическая скорость",
+          "body": "Вторая космическая скорость — это минимальная скорость, которую должно иметь тело, чтобы навсегда покинуть гравитационное поле небесного тела. Это скалярная величина, поэтому правильнее называть её скоростью убегания; однако термин «вторая космическая скорость» широко используется. Простейший случай — это тело, обладающее сферической симметрией, что является отличным приближением для описания звёзд и планет. В этом случае вторая космическая скорость на расстоянии r от центра тела массой m задаётся как √(2Gm/r), где G — гравитационная постоянная. На поверхности сферического тела расстояние от его центра равно его радиусу. Это означает, что вторая космическая скорость на поверхности приблизительно сферического небесного тела зависит от радиуса и его массы. В случае Солнца она составляет 617.5 километров в секунду (км/с), а для Земли — 11.2 км/с. Для Луны она равна 2.4 км/с, что означает, что объекту на Луне нужно достичь меньшей скорости, чтобы покинуть гравитацию Луны, чем объекту на Земле, чтобы покинуть гравитацию Земли."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

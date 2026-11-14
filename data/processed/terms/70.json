@@ -1,0 +1,123 @@
+{
+  "id": "term:70",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 70,
+    "url": "https://astro4edu.org/resources/glossary/term/70/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=70",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:25.663775+00:00",
+    "sha256": "38e300ed6c2d0d2c6cf9db3c61e4b28ff3893fd6e89c56fff67b04b433f117d2"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      241,
+      435,
+      441
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Cosmic Ray",
+      "body": "Cosmic rays are energetic charged particles (e.g. protons, nuclei of heavy elements, and electrons) that move through the cosmos. Cosmic rays can enter Earth's atmosphere. Primary cosmic rays could come from the Sun, Solar System, our Milky Way, or distant galaxies. They are composed of protons (about 90%), helium nuclei (about 9%), heavier atomic nuclei and electrons (about 1%), and a very small amount of antimatter. Light coming from the cosmos is not cosmic rays. If an energetic primary cosmic ray enters the Earth's atmosphere it can interact with atmospheric particles and produce a large number of secondary charged particles, called secondary cosmic rays. The highest energy cosmic rays are nuclear particles that have kinetic energy equivalent to a tennis ball moving at about 150 kilometers per hour. However, such highest energy particles are rare and most have lower energies.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Particle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/241/",
+          "text_ru": "Частица"
+        },
+        {
+          "text": "Cosmic Ray Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/435/",
+          "text_ru": "Астрономия космических лучей"
+        },
+        {
+          "text": "Electron",
+          "url": "https://www.astro4edu.org/resources/glossary/term/441/",
+          "text_ru": "Электрон"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Cosmic Ray</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Cosmic rays are energetic charged particles (e.g. protons, nuclei of heavy elements, and electrons) that move through the cosmos. <br/><br/>Cosmic rays can enter Earth's atmosphere. Primary cosmic rays could come from the Sun, Solar System, our Milky Way, or distant galaxies. They are composed of protons (about 90%), helium nuclei (about 9%), heavier atomic nuclei and electrons (about 1%), and a very small amount of antimatter. Light coming from the cosmos is not cosmic rays. <br/><br/>If an energetic primary cosmic ray enters the Earth's atmosphere it can interact with atmospheric particles and produce a large number of secondary charged particles, called secondary cosmic rays. The highest energy cosmic rays are nuclear particles that have kinetic energy equivalent to a tennis ball moving at about 150 kilometers per hour. However, such highest energy particles are rare and most have lower energies.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/241/\">Particle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/435/\">Cosmic Ray Astronomy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/441/\">Electron</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Космический луч",
+      "body_ru": "Космические лучи — это энергичные заряженные частицы (например, протоны, ядра тяжёлых элементов и электроны), которые движутся через космос. Космические лучи могут проникать в атмосферу Земли. Первичные космические лучи могут приходить от Солнца, из Солнечной системы, нашей Галактики Млечный Путь или далёких галактик. Они состоят из протонов (около 90%), ядер гелия (около 9%), более тяжёлых атомных ядер и электронов (около 1%) и очень малого количества антиматерии. Свет, приходящий из космоса, не является космическими лучами. Если энергичный первичный космический луч входит в атмосферу Земли, он может взаимодействовать с атмосферными частицами и производить большое количество вторичных заряженных частиц, называемых вторичными космическими лучами. Космические лучи с наибольшей энергией — это ядерные частицы, обладающие кинетической энергией, эквивалентной энергии теннисного мяча, движущегося со скоростью около 150 километров в час. Однако такие частицы с наибольшей энергией редки, и большинство имеет более низкие энергии."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "宇宙線 (external link)",
+          "url": "https://astro-dic.jp/cosmic-ray/",
+          "text_ru": "Космические лучи (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/70/\">الأشعة الكونية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/70/\">Kosmische Strahlung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/70/\">Rayo cósmico </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/70/\">پرتوهای کیهانی </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/70/\">Rayon cosmique (ou Rayonnement cosmique) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/70/\">Raggio cosmico </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/cosmic-ray/\">宇宙線 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/70/\">우주선(Cosmic Ray) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/70/\">Raio Cósmico </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/70/\">宇宙射线 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/70/\">宇宙射線 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Cosmic Ray",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Cosmic Ray",
+          "body": "Cosmic rays are energetic charged particles (e.g. protons, nuclei of heavy elements, and electrons) that move through the cosmos. Cosmic rays can enter Earth's atmosphere. Primary cosmic rays could come from the Sun, Solar System, our Milky Way, or distant galaxies. They are composed of protons (about 90%), helium nuclei (about 9%), heavier atomic nuclei and electrons (about 1%), and a very small amount of antimatter. Light coming from the cosmos is not cosmic rays. If an energetic primary cosmic ray enters the Earth's atmosphere it can interact with atmospheric particles and produce a large number of secondary charged particles, called secondary cosmic rays. The highest energy cosmic rays are nuclear particles that have kinetic energy equivalent to a tennis ball moving at about 150 kilometers per hour. However, such highest energy particles are rare and most have lower energies."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Космический луч",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Космический луч",
+          "body": "Космические лучи — это энергичные заряженные частицы (например, протоны, ядра тяжёлых элементов и электроны), которые движутся через космос. Космические лучи могут проникать в атмосферу Земли. Первичные космические лучи могут приходить от Солнца, из Солнечной системы, нашей Галактики Млечный Путь или далёких галактик. Они состоят из протонов (около 90%), ядер гелия (около 9%), более тяжёлых атомных ядер и электронов (около 1%) и очень малого количества антиматерии. Свет, приходящий из космоса, не является космическими лучами. Если энергичный первичный космический луч входит в атмосферу Земли, он может взаимодействовать с атмосферными частицами и производить большое количество вторичных заряженных частиц, называемых вторичными космическими лучами. Космические лучи с наибольшей энергией — это ядерные частицы, обладающие кинетической энергией, эквивалентной энергии теннисного мяча, движущегося со скоростью около 150 километров в час. Однако такие частицы с наибольшей энергией редки, и большинство имеет более низкие энергии."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

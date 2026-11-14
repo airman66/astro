@@ -1,0 +1,377 @@
+{
+  "id": "term:65",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 65,
+    "url": "https://astro4edu.org/resources/glossary/term/65/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=65",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:25.323585+00:00",
+    "sha256": "a363e2e3b12a237f9fc8f793f88e19d0469752ea485a9750f52d1271d9b5d259"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      91,
+      182,
+      228,
+      367
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Conjunction",
+      "body": "From the perspective of an observer on Earth, when two astronomical objects appear to be in close proximity in the sky they are said to be in conjunction. The conjunction does not need to be actually visible – for instance, the Moon and the Sun are approximately lined up whenever there is a new Moon, but we cannot see the Moon under those conditions, unless there is a solar eclipse. In that case, and whenever a conjunction is so close that one object appears to cover the other, astronomers would describe it as a transit or eclipse.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Eclipse",
+          "url": "https://www.astro4edu.org/resources/glossary/term/91/",
+          "text_ru": "Затмение"
+        },
+        {
+          "text": "Lunar Phase",
+          "url": "https://www.astro4edu.org/resources/glossary/term/182/",
+          "text_ru": "Лунная фаза"
+        },
+        {
+          "text": "Opposition",
+          "url": "https://www.astro4edu.org/resources/glossary/term/228/",
+          "text_ru": "Противостояние"
+        },
+        {
+          "text": "Transit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/367/",
+          "text_ru": "Прохождение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Conjunction</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> From the perspective of an observer on Earth, when two astronomical objects appear to be in close proximity in the sky they are said to be in conjunction. The conjunction does not need to be actually visible – for instance, the Moon and the Sun are approximately lined up whenever there is a new Moon, but we cannot see the Moon under those conditions, unless there is a solar eclipse. In that case, and whenever a conjunction is so close that one object appears to cover the other, astronomers would describe it as a transit or eclipse.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/91/\">Eclipse</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/182/\">Lunar Phase</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/228/\">Opposition</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/367/\">Transit</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Соединение",
+      "body_ru": "С точки зрения наблюдателя на Земле, когда два астрономических объекта кажутся находящимися близко друг к другу на небе, говорят, что они находятся в соединении. Соединение не обязательно должно быть фактически видимым — например, Луна и Солнце приблизительно выстраиваются в линию при каждом новолунии, но мы не можем видеть Луну в этих условиях, если только не происходит солнечное затмение. В этом случае, а также всякий раз, когда соединение настолько тесное, что один объект, по-видимому, покрывает другой, астрономы назвали бы это прохождением или затмением."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "合 (external link)",
+          "url": "https://astro-dic.jp/conjunction/",
+          "text_ru": "Соединение (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/65/\">الاقتران </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/65/\">Konjunktion </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/65/\">Conjunción </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/65/\">Conjonction </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/65/\">Congiunzione </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/conjunction/\">合 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/65/\">합 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/65/\">Conjunção </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/65/\">合 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/65/\">合 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Xt27xR35UJ97/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/HV96bL4x836/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/gl95Ya76dB28/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:Mercury,_Venus_and_the_Moon_Align.jpg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Xt27xR35UJ97",
+        "media:HV96bL4x836",
+        "media:gl95Ya76dB28"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Xt27xR35UJ97/\"><img alt=\"Three bright objects in the sky with one top left, one in the middle and one lower centre.\" src=\"/media/multimedia/thumbnails/jupiter-venus-moon-conjunction_thumbnail_au0E69y.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter, Venus, Moon Conjunction</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nCaptured with a smartphone in February 2023, over the skies of Luzerne County, Pennsylvania, USA, this photograph offers a glimpse into a conjunction, an enthralling astronomical phenomenon that occurs when two or more celestial objects are seen in close proximity in the sky from our perspective, despite the objects not being physically near to each other. In this image, the brilliance of Jupiter (top), the allure of Venus (middle), and the familiar glow of our Moon (bottom) dance together against a backdrop of delicate clouds and a treeline silhouette, making it a moment worth treasuring.<br/>\n<b>Credit:</b> Joslynn Appel/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/HV96bL4x836/\"><img alt=\"The crescent Moon sits to the left of two bright planets. On the right side the Pleiades star cluster can be seen.\" src=\"/media/multimedia/thumbnails/moon-mercury-pleiades-conjunction_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Moon-Mercury-Pleiades Conjunction</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nThis photograph shows the young lunar crescent, some of the nine brightest stars of the Pleiades (with one behind a cloud) on the right, and the planet Mercury, looking slightly red, in the middle of the image.\n\nThis picture is rather suggestive of the idea that the Pleiades might possibly consist of seven stars. However, the viewer is misled by the clouds; five of the stars form a tiny chariot, one is next to the handle, and three are at the other end of the quadrilateral. Eight stars would be clearly visible if there were no clouds.\n\nThis configuration of the young Moon next to the Pleiades is visible only in the northern hemisphere spring. Thus it was used by the ancient Babylonians to determine the second month of their year and to judge whether or not an intercalary month was necessary. At least as early as the second millennium before the common era, the Babylonians used several asterisms for each month, with another one of them reappearing every five days after invisibility during daylight. To determine the necessity of intercalation in order to synchronise the solar and the lunar year, the Babylonians used several asterisms, not only the Pleiades. For instance, they also made use of the bright stars Arcturus and Sirius, and they observed a configuration with the Moon as well as heliacal phenomena. The modern Jewish and modern Islamic traditions still make use of some of the Babylonian astronomical rules. However, given that the constellations have shifted as a result of precession, and the fact that nowadays we also have computational means to calculate our calendars, this configuration of the small crescent Moon and the Pleiades is less useful, though it remains exceptionally beautiful. Thus the ancient Babylonian and middle Babylonian tradition survives only rudimentarily. Furthermore, it is unlikely that it is depicted in the Nebra Disc from Bronze Age Europe, as has long been claimed.\n\nThis image was taken on Elba Island, Italy, in May 2022.<br/>\n<b>Credit:</b> Giulio Colombo/ IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/gl95Ya76dB28/\"><img alt=\"The crescent Moon with Venus &amp; Mercury above it in a line in a bright twilight sky above a silhouetted telescope dome\" src=\"/media/multimedia/thumbnails/conjunction-of-mercury-and-venus-above-the-moon_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Conjunction of Mercury and Venus above the Moon</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> From the observing deck at the European Southern Observatory’s Paranal site in Chile, in March 2008, astronomers captured a conjunction of celestial objects—a moment when two or more astronomical objects appear close together in the sky as seen from Earth. In this scene, the innermost planets Mercury and Venus appear aligned above the Moon, forming a pattern against the sky just before dawn. Although they are at very different distances from Earth, the geometry of their orbits brought them into almost the same line of sight, creating this beautiful cosmic alignment.\n\nIn the image, the bright crescent Moon is visible low in the sky near the horizon, forming the most prominent object in the lower part of the scene. Just above the Moon, the brighter planet Venus can be seen, while Mercury, fainter and further from the horizon, appears nearby in the upper part of the image.<br/>\n<b>Credit:</b> ESO/Y. Beletsky\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:Mercury,_Venus_and_the_Moon_Align.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Lw38WF49Ih98/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:Lw38WF49Ih98"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Lw38WF49Ih98/\"><img alt=\"The Earth's orbit around the Sun with one planet orbiting outside the Earth's orbit and one orbiting inside\" src=\"/media/diagrams/multimedia/thumbnails/Opposition_Conjunction_en_thumbnail_U48Zs6t.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Opposition and Conjunction</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the Earth's orbit around the Sun and the orbits of two other planets, one orbiting the Sun outside the Earth's orbit and one orbiting the Sun inside the Earth's orbit. At different times in the orbits of both of these planets, their positions appear to line up with the Earth and the Sun. At these points each planet would appear close to the Sun when viewed from Earth. When this happens each planet is said to be in conjunction with the Sun.\n\nFor the planet that orbits the Sun within the Earth's orbit it can be in conjunction with the Sun twice in its orbit, once when it is between the Sun and the Earth and once when it is on the other side of the Sun from the Earth. When the planet is in conjunction between the the Sun and Earth it is said to be in inferior conjunction and when it is in conjunction on the far side of the Sun from the Earth it is said to be in superior conjunction.\n\nFor the planet orbiting the Sun outside the Earth's orbit, it can sometimes be on the other side of the sky. At this point the Earth lies between the planet and the Sun. The planet in this case is said to be in opposition.\n\nOpposition and conjunction are not just limited to planets and other types of solar system objects such as dwarf planets, comets and asteroids can also be in opposition and conjunction. However only those objects that have an orbit that takes them outside the Earth's orbit can be in opposition.\n\nConjunction is also used to refer to alignments in the sky between planets in the Solar System. For example when Jupiter and Venus appear very close on the sky when viewed from Earth they are said to be in conjunction with each other.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Conjunction",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Conjunction",
+          "body": "From the perspective of an observer on Earth, when two astronomical objects appear to be in close proximity in the sky they are said to be in conjunction. The conjunction does not need to be actually visible – for instance, the Moon and the Sun are approximately lined up whenever there is a new Moon, but we cannot see the Moon under those conditions, unless there is a solar eclipse. In that case, and whenever a conjunction is so close that one object appears to cover the other, astronomers would describe it as a transit or eclipse."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Соединение",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Соединение",
+          "body": "С точки зрения наблюдателя на Земле, когда два астрономических объекта кажутся находящимися близко друг к другу на небе, говорят, что они находятся в соединении. Соединение не обязательно должно быть фактически видимым — например, Луна и Солнце приблизительно выстраиваются в линию при каждом новолунии, но мы не можем видеть Луну в этих условиях, если только не происходит солнечное затмение. В этом случае, а также всякий раз, когда соединение настолько тесное, что один объект, по-видимому, покрывает другой, астрономы назвали бы это прохождением или затмением."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Xt27xR35UJ97",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359555/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Jupiter,%20Venus,%20Moon%20Conjunction,%20by%20Joslynn%20Appel.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/Xt27xR35UJ97/",
+      "original_path": "data/media/original/media_Xt27xR35UJ97.jpg",
+      "ru_path": null,
+      "sha256": "3df56119e7286a1c663e0988f121e4c206fa2b536b2f95733a3fdd0ce48f1ca5",
+      "size": 132001,
+      "title_en": "Jupiter, Venus, Moon Conjunction",
+      "title_ru": "Соединение Юпитера, Венеры и Луны",
+      "short_caption_en": "Jupiter, Venus, Moon Conjunction",
+      "short_caption_ru": "Соединение Юпитера, Венеры и Луны",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nCaptured with a smartphone in February 2023, over the skies of Luzerne County, Pennsylvania, USA, this photograph offers a glimpse into a conjunction, an enthralling astronomical phenomenon that occurs when two or more celestial objects are seen in close proximity in the sky from our perspective, despite the objects not being physically near to each other. In this image, the brilliance of Jupiter (top), the allure of Venus (middle), and the familiar glow of our Moon (bottom) dance together against a backdrop of delicate clouds and a treeline silhouette, making it a moment worth treasuring.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2023 в категории «Неподвижные изображения, сделанные исключительно на смартфоны/мобильные устройства».\r\n\r\nСнятый на смартфон в феврале 2023 над небом округа Лузерн, Пенсильвания, США, этот снимок даёт представление о соединении — захватывающем астрономическом явлении, которое происходит, когда два или более небесных объекта видны с нашей точки зрения близко друг к другу на небе, хотя физически они не находятся рядом. На этом изображении блеск Юпитера (вверху), очарование Венеры (в середине) и знакомое свечение нашей Луны (внизу) танцуют вместе на фоне нежных облаков и силуэта лесополосы, что делает этот момент достойным восхищения.",
+      "alt_en": "Three bright objects in the sky with one top left, one in the middle and one lower centre.",
+      "alt_ru": "Три ярких объекта в небе: один вверху слева, один в середине и один ниже по центру.",
+      "credit": "Joslynn Appel/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        65,
+        167,
+        203,
+        377
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:HV96bL4x836",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425575/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Moon-Mercury-Pleiades%20Conjunction%2C%20by%20Giulio%20Colombo.jpg",
+      "record_url": "https://astro4edu.org/resources/media/HV96bL4x836/",
+      "original_path": "data/media/original/media_HV96bL4x836.jpg",
+      "ru_path": null,
+      "sha256": "6de016849f2a8aef11dafaae3abd31e5c43db56189556b4f29adc56c7ad3434d",
+      "size": 420899,
+      "title_en": "Moon-Mercury-Pleiades Conjunction",
+      "title_ru": "Соединение Луны, Меркурия и Плеяд",
+      "short_caption_en": "Moon-Mercury-Pleiades Conjunction",
+      "short_caption_ru": "Соединение Луны, Меркурия и Плеяд",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis photograph shows the young lunar crescent, some of the nine brightest stars of the Pleiades (with one behind a cloud) on the right, and the planet Mercury, looking slightly red, in the middle of the image.\r\n\r\nThis picture is rather suggestive of the idea that the Pleiades might possibly consist of seven stars. However, the viewer is misled by the clouds; five of the stars form a tiny chariot, one is next to the handle, and three are at the other end of the quadrilateral. Eight stars would be clearly visible if there were no clouds.\r\n\r\nThis configuration of the young Moon next to the Pleiades is visible only in the northern hemisphere spring. Thus it was used by the ancient Babylonians to determine the second month of their year and to judge whether or not an intercalary month was necessary. At least as early as the second millennium before the common era, the Babylonians used several asterisms for each month, with another one of them reappearing every five days after invisibility during daylight. To determine the necessity of intercalation in order to synchronise the solar and the lunar year, the Babylonians used several asterisms, not only the Pleiades. For instance, they also made use of the bright stars Arcturus and Sirius, and they observed a configuration with the Moon as well as heliacal phenomena. The modern Jewish and modern Islamic traditions still make use of some of the Babylonian astronomical rules. However, given that the constellations have shifted as a result of precession, and the fact that nowadays we also have computational means to calculate our calendars, this configuration of the small crescent Moon and the Pleiades is less useful, though it remains exceptionally beautiful. Thus the ancient Babylonian and middle Babylonian tradition survives only rudimentarily. Furthermore, it is unlikely that it is depicted in the Nebra Disc from Bronze Age Europe, as has long been claimed.\r\n\r\nThis image was taken on Elba Island, Italy, in May 2022.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nНа этой фотографии показан молодой серп Луны, некоторые из девяти ярчайших звёзд Плеяд (одна за облаком) справа и планета Меркурий, выглядящая слегка красноватой, в середине изображения.\r\n\r\nЭтот снимок скорее наводит на мысль, что Плеяды, возможно, состоят из семи звёзд. Однако зритель введён в заблуждение облаками; пять звёзд образуют крошечную колесницу, одна находится рядом с ручкой, а три — на другом конце четырёхугольника. Восемь звёзд были бы ясно видны, если бы не было облаков.\r\n\r\nЭта конфигурация молодой Луны рядом с Плеядами видна только весной в Северном полушарии. Таким образом, она использовалась древними вавилонянами для определения второго месяца их года и для суждения о необходимости вставного месяца. По крайней мере, уже во втором тысячелетии до нашей эры вавилоняне использовали несколько астеризмов для каждого месяца, причём один из них снова появлялся каждые пять дней после невидимости в течение дневного света. Чтобы определить необходимость интеркаляции для синхронизации солнечного и лунного года, вавилоняне использовали несколько астеризмов, не только Плеяды. Например, они также использовали яркие звёзды Арктур и Сириус и наблюдали конфигурацию с Луной, а также гелиакические явления. Современные еврейские и современные исламские традиции всё ещё используют некоторые из вавилонских астрономических правил. Однако, учитывая, что созвездия сместились в результате прецессии, и тот факт, что в настоящее время у нас также есть вычислительные средства для расчёта наших календарей, эта конфигурация маленького серпа Луны и Плеяд менее полезна, хотя она остаётся исключительно красивой. Таким образом, древневавилонская и средневавилонская традиция сохраняется лишь рудиментарно. Более того, маловероятно, что она изображена на Небрском диске из Европы бронзового века, как давно утверждалось.\r\n\r\nЭто изображение было сделано на острове Эльба, Италия, в мае 2022.",
+      "alt_en": "The crescent Moon sits to the left of two bright planets. On the right side the Pleiades star cluster can be seen.",
+      "alt_ru": "Серп Луны находится слева от двух ярких планет. Справа видно звёздное скопление Плеяды.",
+      "credit": "Giulio Colombo/ IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        65,
+        192,
+        203,
+        383,
+        397,
+        469
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:gl95Ya76dB28",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/conjunction-of-mercury-and-venus-above-the-moon.png",
+      "record_url": "https://astro4edu.org/resources/media/gl95Ya76dB28/",
+      "original_path": "data/media/original/media_gl95Ya76dB28.png",
+      "ru_path": null,
+      "sha256": "e1c27f65e32e0fc881bc69067af3a7be0f8bbd760faaf44e92abf580b533428e",
+      "size": 2427480,
+      "title_en": "Conjunction of Mercury and Venus above the Moon",
+      "title_ru": "Соединение Меркурия и Венеры над Луной",
+      "short_caption_en": "Conjunction of Mercury and Venus above the Moon",
+      "short_caption_ru": "Соединение Меркурия и Венеры над Луной",
+      "caption_en": "From the observing deck at the European Southern Observatory’s Paranal site in Chile, in March 2008, astronomers captured a conjunction of celestial objects—a moment when two or more astronomical objects appear close together in the sky as seen from Earth. In this scene, the innermost planets Mercury and Venus appear aligned above the Moon, forming a pattern against the sky just before dawn. Although they are at very different distances from Earth, the geometry of their orbits brought them into almost the same line of sight, creating this beautiful cosmic alignment.\r\n\r\nIn the image, the bright crescent Moon is visible low in the sky near the horizon, forming the most prominent object in the lower part of the scene. Just above the Moon, the brighter planet Venus can be seen, while Mercury, fainter and further from the horizon, appears nearby in the upper part of the image.",
+      "caption_ru": "С наблюдательной площадки на плато Паранал Европейской южной обсерватории в Чили в марте 2008 астрономы запечатлели соединение небесных объектов — момент, когда два или более астрономических объекта кажутся близкими друг к другу на небе, если смотреть с Земли. На этом снимке самые внутренние планеты Меркурий и Венера выстроились над Луной, образуя узор на небе перед рассветом. Хотя они находятся на очень разных расстояниях от Земли, геометрия их орбит привела их почти на одну линию зрения, создав это прекрасное космическое выравнивание.\r\n\r\nНа изображении яркий серп Луны виден низко над горизонтом, образуя самый заметный объект в нижней части сцены. Чуть выше Луны видна более яркая планета Венера, а Меркурий, более тусклый и дальше от горизонта, появляется рядом в верхней части изображения.",
+      "alt_en": "The crescent Moon with Venus & Mercury above it in a line in a bright twilight sky above a silhouetted telescope dome",
+      "alt_ru": "Серп Луны с Венерой и Меркурием над ней в линию на ярком сумеречном небе над силуэтом купола телескопа",
+      "credit": "ESO/Y. Beletsky",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Mercury,_Venus_and_the_Moon_Align.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        65
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:Lw38WF49Ih98",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Opposition_Conjunction_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Lw38WF49Ih98/",
+      "original_path": "data/media/original/diagram_Lw38WF49Ih98.png",
+      "ru_path": null,
+      "sha256": "7b1ab4250d4b2dcb4818ec2bc205ad7f4dfc91ca9722be4155a3169915c8b8df",
+      "size": 251818,
+      "title_en": "Opposition and Conjunction",
+      "title_ru": "Противостояние и соединение",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the Earth's orbit around the Sun and the orbits of two other planets, one orbiting the Sun outside the Earth's orbit and one orbiting the Sun inside the Earth's orbit. At different times in the orbits of both of these planets, their positions appear to line up with the Earth and the Sun. At these points each planet would appear close to the Sun when viewed from Earth. When this happens each planet is said to be in conjunction with the Sun.\r\n\r\nFor the planet that orbits the Sun within the Earth's orbit it can be in conjunction with the Sun twice in its orbit, once when it is between the Sun and the Earth and once when it is on the other side of the Sun from the Earth. When the planet is in conjunction between the the Sun and Earth it is said to be in inferior conjunction and when it is in conjunction on the far side of the Sun from the Earth it is said to be in superior conjunction.\r\n\r\nFor the planet orbiting the Sun outside the Earth's orbit, it can sometimes be on the other side of the sky. At this point the Earth lies between the planet and the Sun. The planet in this case is said to be in opposition.\r\n\r\nOpposition and conjunction are not just limited to planets and other types of solar system objects such as dwarf planets, comets and asteroids can also be in opposition and conjunction. However only those objects that have an orbit that takes them outside the Earth's orbit can be in opposition.\r\n\r\nConjunction is also used to refer to alignments in the sky between planets in the Solar System. For example when Jupiter and Venus appear very close on the sky when viewed from Earth they are said to be in conjunction with each other.",
+      "caption_ru": "Эта диаграмма показывает орбиту Земли вокруг Солнца и орбиты двух других планет: одна обращается вокруг Солнца вне орбиты Земли, а другая — внутри орбиты Земли. В разное время на орбитах обеих этих планет их положения кажутся выстраивающимися в линию с Землёй и Солнцем. В этих точках каждая планета казалась бы близкой к Солнцу при наблюдении с Земли. Когда это происходит, говорят, что каждая планета находится в соединении с Солнцем.\r\n\r\nДля планеты, которая обращается вокруг Солнца внутри орбиты Земли, она может быть в соединении с Солнцем дважды за свою орбиту: один раз, когда она находится между Солнцем и Землёй, и один раз, когда она находится на другой стороне Солнца от Земли. Когда планета находится в соединении между Солнцем и Землёй, говорят, что она находится в нижнем соединении, а когда она находится в соединении на дальней стороне Солнца от Земли, говорят, что она находится в верхнем соединении.\r\n\r\nДля планеты, обращающейся вокруг Солнца вне орбиты Земли, она иногда может находиться на другой стороне неба. В этот момент Земля находится между планетой и Солнцем. В этом случае говорят, что планета находится в противостоянии.\r\n\r\nПротивостояние и соединение не ограничиваются только планетами; другие типы объектов Солнечной системы, такие как карликовые планеты, кометы и астероиды, также могут быть в противостоянии и соединении. Однако только те объекты, чья орбита выводит их за пределы орбиты Земли, могут быть в противостоянии.\r\n\r\nСоединение также используется для обозначения выравниваний на небе между планетами Солнечной системы. Например, когда Юпитер и Венера кажутся очень близкими на небе при наблюдении с Земли, говорят, что они находятся в соединении друг с другом.",
+      "alt_en": "The Earth's orbit around the Sun with one planet orbiting outside the Earth's orbit and one orbiting inside",
+      "alt_ru": "Орбита Земли вокруг Солнца с одной планетой, обращающейся вне орбиты Земли, и одной, обращающейся внутри",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        65,
+        228
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

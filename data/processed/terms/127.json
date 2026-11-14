@@ -1,0 +1,183 @@
+{
+  "id": "term:127",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 127,
+    "url": "https://astro4edu.org/resources/glossary/term/127/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=127",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:51.982635+00:00",
+    "sha256": "544a589a14e3e00b0abb67a41968f2b4dcc3fe0e7950a857cf6571191dd7d18a"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Solar System"
+    ],
+    "category_ids": [
+      11,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      141
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Geocentric Model",
+      "body": "Early models of the Universe were geocentric, placing Earth at the center of the cosmos, with the Moon, Sun, and planets moving around it relative to the \"fixed\" stars. Geocentric models existed in many cultures in antiquity alongside heliocentric models which put the Sun in the center. An influential geocentric model is the Ptolemaic system, named after Claudius Ptolemy, an astronomer from the 2nd century. This became the most prominent model of the cosmos for over a thousand years in Europe, North Africa, and the Middle East. Late in the 16th century a shift began towards a heliocentric model, which is commonly associated with the name of Nicolaus Copernicus. Today, we know that the Solar System is only one of many such systems, and certainly not the center of the Universe. In practice, geocentric descriptions of the sky are still in use, but only as a way of calculating which astronomical objects are visible from a given location at a given time.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Heliocentric Model",
+          "url": "https://www.astro4edu.org/resources/glossary/term/141/",
+          "text_ru": "Гелиоцентрическая модель"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Geocentric Model</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Early models of the Universe were geocentric, placing Earth at the center of the cosmos, with the Moon, Sun, and planets moving around it relative to the \"fixed\" stars. Geocentric models existed in many cultures in antiquity alongside heliocentric models which put the Sun in the center. An influential geocentric model is the Ptolemaic system, named after Claudius Ptolemy, an astronomer from the 2nd century. This became the most prominent model of the cosmos for over a thousand years in Europe, North Africa, and the Middle East. Late in the 16th century a shift began towards a heliocentric model, which is commonly associated with the name of Nicolaus Copernicus. Today, we know that the Solar System is only one of many such systems, and certainly not the center of the Universe. In practice, geocentric descriptions of the sky are still in use, but only as a way of calculating which astronomical objects are visible from a given location at a given time.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/141/\">Heliocentric Model</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Геоцентрическая модель",
+      "body_ru": "Ранние модели Вселенной были геоцентрическими: Земля помещалась в центр космоса, а Луна, Солнце и планеты двигались вокруг неё относительно «неподвижных» звёзд. Геоцентрические модели существовали во многих культурах древности наряду с гелиоцентрическими моделями, которые помещали Солнце в центр. Влиятельной геоцентрической моделью является птолемеевская система, названная в честь Клавдия Птолемея, астронома 2 века. Она стала наиболее выдающейся моделью космоса на более чем тысячу лет в Европе, Северной Африке и на Ближнем Востоке. В конце 16 века начался переход к гелиоцентрической модели, которую обычно связывают с именем Николая Коперника. Сегодня мы знаем, что Солнечная система — лишь одна из многих подобных систем и, конечно, не центр Вселенной. На практике геоцентрические описания неба всё ещё используются, но только как способ вычисления, какие астрономические объекты видны из данного места в данное время."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "天動説 (external link)",
+          "url": "https://astro-dic.jp/geocentrism/",
+          "text_ru": "Геоцентрическая система (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/127/\">نموذج مركزية الأرض </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/127/\">Geozentrisches Modell </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/127/\">Modelo geocéntrico </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/127/\">Modèle géocentrique </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/127/\">भूकेन्द्रित मॉडल </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/127/\">Modello geocentrico </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/geocentrism/\">天動説 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/127/\">भूकेन्द्रित मॉडल </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/127/\">Modelo geocêntrico </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/127/\">地心说 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/127/\">地心說 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/3D15QF49qP95/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://en.wikipedia.org/wiki/File:Bartolomeu_Velho_1568.jpg",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:3D15QF49qP95"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/3D15QF49qP95/\"><img alt=\"Views of Earth's Western &amp; Eastern hemispheres. Each surrounded by 8 concentric semicircles for Moon, planets, Sun &amp; stars.\" src=\"/media/multimedia/thumbnails/a-geocentric-chart-from-1568_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A Geocentric chart from 1568</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This map, created in 1568 by the Portuguese cartographer Bartolomeu Velho, depicts the worldview of the time, when many scholars believed in a geocentric model of the cosmos — the idea that Earth sits at the centre of the Universe with the Sun, Moon, the five planets known at the time, and stars moving around it. The design and layout of this map were influenced by astronomical understanding rooted in geocentric thinking. \n\nThe geocentric model was widely accepted for many centuries, especially in Europe, based on interpretations of celestial motions and philosophical traditions that placed Earth at the centre. It was only later, with observations by astronomers such as, Galileo Galilei, that this model was replaced by the heliocentric model, which places the Sun at the centre of the Solar System.<br/>\n<b>Credit:</b> Bartolomeu Velho\n\t  <a href=\"https://en.wikipedia.org/wiki/File:Bartolomeu_Velho_1568.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Geocentric Model",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Geocentric Model",
+          "body": "Early models of the Universe were geocentric, placing Earth at the center of the cosmos, with the Moon, Sun, and planets moving around it relative to the \"fixed\" stars. Geocentric models existed in many cultures in antiquity alongside heliocentric models which put the Sun in the center. An influential geocentric model is the Ptolemaic system, named after Claudius Ptolemy, an astronomer from the 2nd century. This became the most prominent model of the cosmos for over a thousand years in Europe, North Africa, and the Middle East. Late in the 16th century a shift began towards a heliocentric model, which is commonly associated with the name of Nicolaus Copernicus. Today, we know that the Solar System is only one of many such systems, and certainly not the center of the Universe. In practice, geocentric descriptions of the sky are still in use, but only as a way of calculating which astronomical objects are visible from a given location at a given time."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Геоцентрическая модель",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Геоцентрическая модель",
+          "body": "Ранние модели Вселенной были геоцентрическими: Земля помещалась в центр космоса, а Луна, Солнце и планеты двигались вокруг неё относительно «неподвижных» звёзд. Геоцентрические модели существовали во многих культурах древности наряду с гелиоцентрическими моделями, которые помещали Солнце в центр. Влиятельной геоцентрической моделью является птолемеевская система, названная в честь Клавдия Птолемея, астронома 2 века. Она стала наиболее выдающейся моделью космоса на более чем тысячу лет в Европе, Северной Африке и на Ближнем Востоке. В конце 16 века начался переход к гелиоцентрической модели, которую обычно связывают с именем Николая Коперника. Сегодня мы знаем, что Солнечная система — лишь одна из многих подобных систем и, конечно, не центр Вселенной. На практике геоцентрические описания неба всё ещё используются, но только как способ вычисления, какие астрономические объекты видны из данного места в данное время."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:3D15QF49qP95",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/a-geocentric-chart-from-1568.png",
+      "record_url": "https://astro4edu.org/resources/media/3D15QF49qP95/",
+      "original_path": "data/media/original/media_3D15QF49qP95.png",
+      "ru_path": null,
+      "sha256": "3948b6c99dec30753ecc222c944f479220b8ed8becdb92fe769bfa01ab03075b",
+      "size": 12986976,
+      "title_en": "A Geocentric chart from 1568",
+      "title_ru": "Геоцентрическая карта из 1568",
+      "short_caption_en": "A Geocentric chart from 1568",
+      "short_caption_ru": "Геоцентрическая карта из 1568",
+      "caption_en": "This map, created in 1568 by the Portuguese cartographer Bartolomeu Velho, depicts the worldview of the time, when many scholars believed in a geocentric model of the cosmos — the idea that Earth sits at the centre of the Universe with the Sun, Moon, the five planets known at the time, and stars moving around it. The design and layout of this map were influenced by astronomical understanding rooted in geocentric thinking. \r\n\r\nThe geocentric model was widely accepted for many centuries, especially in Europe, based on interpretations of celestial motions and philosophical traditions that placed Earth at the centre. It was only later, with observations by astronomers such as, Galileo Galilei, that this model was replaced by the heliocentric model, which places the Sun at the centre of the Solar System.",
+      "caption_ru": "Эта карта, созданная в 1568 португальским картографом Бартоломеу Велью, изображает мировоззрение того времени, когда многие учёные верили в геоцентрическую модель космоса — идею о том, что Земля находится в центре Вселенной, а Солнце, Луна, пять известных тогда планет и звёзды движутся вокруг неё. Дизайн и компоновка этой карты были основаны на астрономических представлениях, укоренённых в геоцентрическом мышлении. \r\n\r\nГеоцентрическая модель была широко принята на протяжении многих веков, особенно в Европе, на основе интерпретаций небесных движений и философских традиций, помещавших Землю в центр. Лишь позже, благодаря наблюдениям таких астрономов, как Галилео Галилей, эта модель была заменена гелиоцентрической моделью, которая помещает Солнце в центр Солнечной системы.",
+      "alt_en": "Views of Earth's Western & Eastern hemispheres. Each surrounded by 8 concentric semicircles for Moon, planets, Sun & stars.",
+      "alt_ru": "Виды Западного и Восточного полушарий Земли. Каждое окружено 8 концентрическими полукругами для Луны, планет, Солнца и звёзд.",
+      "credit": "Bartolomeu Velho",
+      "credit_url": "https://en.wikipedia.org/wiki/File:Bartolomeu_Velho_1568.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        127,
+        297
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

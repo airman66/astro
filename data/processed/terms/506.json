@@ -1,0 +1,239 @@
+{
+  "id": "term:506",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 506,
+    "url": "https://astro4edu.org/resources/glossary/term/506/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=506",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:49.338220+00:00",
+    "sha256": "3d23a7c4f80bc7e09a39c450d18705584bf22e23263bdb5e00a807a4040bfaae"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": 485,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Variable Star",
+      "body": "A variable star is a star that shows marked changes in brightness over time to observers. The brightness of all stars changes over millions or billions of years due to stellar evolution. The term variable star is typically reserved for stars whose brightness varies on timescales much shorter than their evolutionary timescales. There are several possible physical mechanisms that can lead to variability. Some stars, such as Cepheid variables or RR Lyrae stars, are unstable and pulsate, changing their size and brightness. Other stars can eject bright material that increases the overall observed brightness (\"eruptive variables\"). Stars called cataclysmic variables or novae show a sudden increase in brightness followed by a return to their previous level. In such systems, the scenario involves a pair of stars, with matter from one flowing onto the other, and igniting in a nuclear fusion reaction as soon as a certain threshold is reached. One companion or the other undergoes the cataclysmic explosion and brightening. Other stars appear variable because they are rotating, showing us alternately a brighter and a less bright side, or because there are really two stars orbiting each other, with one star periodically being eclipsed behind its companion. This latter class of binary is known as an eclipsing binary.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Cepheid Variable",
+          "url": "https://www.astro4edu.org/resources/glossary/term/54/",
+          "text_ru": "Цефеида"
+        },
+        {
+          "text": "Nova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/219/",
+          "text_ru": "Новая"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Stellar Evolution",
+          "url": "https://www.astro4edu.org/resources/glossary/term/334/",
+          "text_ru": "Звездная эволюция"
+        },
+        {
+          "text": "Sunspot",
+          "url": "https://www.astro4edu.org/resources/glossary/term/345/",
+          "text_ru": "Солнечное пятно"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "White Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/386/",
+          "text_ru": "Белый карлик"
+        },
+        {
+          "text": "Accretion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/425/",
+          "text_ru": "Аккреция"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Variable Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>RR Lyrae Star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A variable star is a star that shows marked changes in brightness over time to observers. The brightness of all stars changes over millions or billions of years due to stellar evolution. The term variable star is typically reserved for stars whose brightness varies on timescales much shorter than their evolutionary timescales.<br/><br/>There are several possible physical mechanisms that can lead to variability. Some stars, such as Cepheid variables or RR Lyrae stars, are unstable and pulsate, changing their size and brightness.<br/><br/>Other stars can eject bright material that increases the overall observed brightness (\"eruptive variables\"). Stars called cataclysmic variables or novae show a sudden increase in brightness followed by a return to their previous level. In such systems, the scenario involves a pair of stars, with matter from one flowing onto the other, and igniting in a nuclear fusion reaction as soon as a certain threshold is reached. One companion or the other undergoes the cataclysmic explosion and brightening. <br/><br/>Other stars appear variable because they are rotating, showing us alternately a brighter and a less bright side, or because there are really two stars orbiting each other, with one star periodically being eclipsed behind its companion. This latter class of binary is known as an eclipsing binary.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/54/\">Cepheid Variable</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/219/\">Nova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/334/\">Stellar Evolution</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/345/\">Sunspot</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/386/\">White Dwarf</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/425/\">Accretion</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Переменная звезда",
+      "body_ru": "Переменная звезда — это звезда, которая демонстрирует заметные изменения яркости со временем для наблюдателей. Яркость всех звёзд меняется на протяжении миллионов или миллиардов лет из-за звёздной эволюции. Термин «переменная звезда» обычно применяется к звёздам, яркость которых меняется на временных масштабах, гораздо более коротких, чем их эволюционные временные масштабы. Существует несколько возможных физических механизмов, которые могут приводить к переменности. Некоторые звёзды, такие как цефеиды или звёзды типа RR Лиры, нестабильны и пульсируют, меняя свой размер и яркость. Другие звёзды могут выбрасывать яркое вещество, которое увеличивает общую наблюдаемую яркость («эруптивные переменные»). Звёзды, называемые катаклизмическими переменными или новыми, показывают внезапное увеличение яркости с последующим возвратом к предыдущему уровню. В таких системах сценарий включает пару звёзд, где вещество от одной перетекает на другую и воспламеняется в реакции ядерного синтеза, как только достигается определённый порог. Один компаньон или другой претерпевает катаклизмический взрыв и яркость возрастает. Другие звёзды кажутся переменными из-за их вращения, показывая нам попеременно более яркую и менее яркую сторону, или потому что на самом деле две звезды обращаются друг вокруг друга, причём одна звезда периодически затмевается своим компаньоном. Этот последний класс двойных известен как затменная двойная."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "変光星 (external link)",
+          "url": "https://astro-dic.jp/variable-star/",
+          "text_ru": "Переменная звезда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/485/\">النجم المتغير </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/485/\">Veränderlicher Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/485/\">Estrella variable </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/485/\">Étoile variable </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/485/\">stella variabile </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/variable-star/\">変光星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/485/\">변광성 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/485/\">Estrela variável </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/485/\">变星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/485/\">變星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/dg783o76n014/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/uM753a62k218/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/FP68yg670w90/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/ml6jp6Ph60/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/SN20Ne16hj18/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/dg783o76n014/\"><img alt=\"Orion appears as an hourglass-shaped pattern with two strings of stars extending northeast and northwest\" src=\"/media/diagrams/multimedia/thumbnails/orion-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Orion Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Orion along with its bright stars and surrounding constellations. Orion is surrounded by (going clockwise from the top) Taurus, Eridanus, Lepus, Monoceros and Gemini. Orion’s brightest stars Betelgeuse and Rigel appear at the northern (upper on this diagram) and southern (lower) end of the constellation respectively with the famous three star “belt” in the middle.\n\nOrion spans the celestial equator and is thus visible at some time in the year from all of planet Earth. In the most arctic or antarctic regions of the world, some parts of the constellation may not be visible. Orion is most visible in the evenings in the northern hemisphere winter and southern hemisphere summer. The blue line above Orion marks the ecliptic, the path the Sun appears to travel across the sky over the course of a year. The Sun never passes through Orion, but one can occasionally find the other planets of the Solar System and the Moon in Orion.\n\nJust south of Orion’s belt lie two Messier objects M42 (the Orion nebula) and M43, marked by green squares. These nebulae along with M78 (here the green square to the left of the belt) are part of the huge Orion Molecular Cloud Complex. This covers most of the constellation and includes regions where these molecular clouds are collapsing to form young starts. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Betelgeuse indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/uM753a62k218/\"><img alt=\"Scorpius appears as a letter T joined to a letter J. The ecliptic runs ESE to WNW and clips one arm of the T\" src=\"/media/diagrams/multimedia/thumbnails/scorpius-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Scorpius Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Scorpius (often commonly called Scorpio) along with its bright stars and surrounding constellations. Scorpius is surrounded by (going clockwise from the top) Ophiuchus, Serpens Caput, Libra, Lupus, Norma, Ara, Corona Australis and Sagittarius. Scorpius’s brightest star Antares appears in the heart of the constellation with the famous tail of Scoprius in the south-east (lower left). Scorpius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun only spends a short amount of time in late November in Scorpius. The other planets of the Solar System can often be found in Scorpius.\n\nScorpius lies south of the celestial equator. The whole constellation is not visible from the most arctic regions of the world with parts of Scorpius obscured for observers in northern parts of Asia, Europe and North America. Scorpius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \n\nThe yellow circles mark the positions of the open clusters M6, M7 &amp; NGC 6231 while the yellow circles with plus signs superimposed on them mark the globular clusters M4 and M80. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Antares indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line marks the ecliptic, the path the Sun appears to travel across the sky over the course of one year. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/FP68yg670w90/\"><img alt=\"Cetus appears as two ellipses, the smaller one north-east of the larger one, connected by a line.\" src=\"/media/diagrams/multimedia/thumbnails/cetus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Cetus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Cetus along with its bright stars and surrounding constellations. Cetus is surrounded by (going clockwise from the top): Pisces, Aquarius, Sculptor, Fornax, Eridanus, Taurus and Aries. Cetus lies just south of the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. While the Sun does not pass through Cetus, the other planets of the solar system and the Moon can sometimes be found in Cetus. The star Omicron Ceti or Mira is a famous variable star. This red giant varies in brightness by a factor of 600 over the course of its eleven month period. \n\nCetus spans the celestial equator, thus some part of the constellation is visible from all the the Earth at some point in the year. The full constellation is visible from equatorial and temperate regions of both hemispheres. Cetus is most visible in the evenings in the northern hemisphere late autumn and the southern hemisphere late spring. \n\nThe barred spiral galaxy M77 lies in Cetus as does the spiral galaxy NGC 247 and the dwarf irregular galaxy IC 1613. All three are marked here with red ellipses. \n \nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. Mira is marked with an open circle as it is a variable star not always visible to the naked eye. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/ml6jp6Ph60/\"><img alt=\"Carina appears as the hull of a line drawing of a ship which faces left (east). Canopus is on its right (west) edge\" src=\"/media/diagrams/multimedia/thumbnails/carina-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Carina Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Carina along with its bright stars and surrounding constellations. Carina is surrounded by (going clockwise from the top): Vela, Puppis, Pictor, Volans, Chamaeleon, Musca and Centaurus. Carina is notable for Canopus, the second brightest star in the night sky and for the famous variable star Eta Carinae. This latter object is a binary star system of two young very massive stars. Its brightness has varied greatly over the past few centuries. At one point it outshone Canopus before dimming by a factor of four thousand to become invisible to the naked eye. In recent years it has brightened enough to again be visible without the aid of a telescope. \n\nCarina is a southern constellation and thus the whole constellation is visible at some point in the year to the entire southern hemisphere. The whole constellation is also visible from equatorial regions of the northern hemisphere with parts of the constellation visible from northern temperate regions. \n\nThe open clusters NGC 2516, NGC 3532 and IC 2602 lie in Carina. These are marked here by yellow circles. The Carina Nebula, also known as NGC 3372, lies in the constellation. This large nebula contains many massive young stars, including Eta Carinae. \n\nThis diagram maps an area around the south celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. Carina was previously part of the larger Argo Navis constellation along with Vela and Puppis. As the letter designations for stars were created before this division took place, Greek letter designations are now divided between the three constellations with Carina having stars designated alpha and beta but no gamma or delta. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/SN20Ne16hj18/\"><img alt=\"Perseus resembles a crudely-drawn person with a round body and head tilting to the north west\" src=\"/media/diagrams/multimedia/thumbnails/perseus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Perseus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Perseus with its bright stars and surrounding constellations. Perseus is surrounded by (going clockwise from the top): Camelopardalis, Cassiopeia, Andromeda, Triangulum, Aries, Taurus and Auriga. Perseus is home to the notable variable star Algol.\n\nPerseus is a northern constellation and thus the whole constellation is visible at some point in the year throughout the northern hemisphere. The whole constellation is also visible to equatorial regions of the southern hemisphere with parts of the constellation visible to southern temperate regions. Perseus is best viewed in the evenings in the northern hemisphere winter and southern hemisphere summer. \n\nThe open clusters NGC 869 and NGC 884 (commonly known as the Double Cluster) lie in Perseus as does the open cluster M34. These are all marked with yellow circles. The brightest star in Perseus, Mirfak (alpha Persei), along with some of the surrounding stars are members of the Alpha Persei open cluster. The planetary nebula M76 also lies in Perseus, it is marked here with a green circle superimposed on a plus sign. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dot marking Algol is surrounded by a circle, showing it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line at the bottom left of the diagram marks the ecliptic. Neither the constellation boundaries, nor the lines joining the stars, nor the ecliptic, appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "RR Lyrae Star",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Variable Star",
+          "body": "A variable star is a star that shows marked changes in brightness over time to observers. The brightness of all stars changes over millions or billions of years due to stellar evolution. The term variable star is typically reserved for stars whose brightness varies on timescales much shorter than their evolutionary timescales. There are several possible physical mechanisms that can lead to variability. Some stars, such as Cepheid variables or RR Lyrae stars, are unstable and pulsate, changing their size and brightness. Other stars can eject bright material that increases the overall observed brightness (\"eruptive variables\"). Stars called cataclysmic variables or novae show a sudden increase in brightness followed by a return to their previous level. In such systems, the scenario involves a pair of stars, with matter from one flowing onto the other, and igniting in a nuclear fusion reaction as soon as a certain threshold is reached. One companion or the other undergoes the cataclysmic explosion and brightening. Other stars appear variable because they are rotating, showing us alternately a brighter and a less bright side, or because there are really two stars orbiting each other, with one star periodically being eclipsed behind its companion. This latter class of binary is known as an eclipsing binary."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда типа RR Лиры",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Переменная звезда",
+          "body": "Переменная звезда — это звезда, которая демонстрирует заметные изменения яркости со временем для наблюдателей. Яркость всех звёзд меняется на протяжении миллионов или миллиардов лет из-за звёздной эволюции. Термин «переменная звезда» обычно применяется к звёздам, яркость которых меняется на временных масштабах, гораздо более коротких, чем их эволюционные временные масштабы. Существует несколько возможных физических механизмов, которые могут приводить к переменности. Некоторые звёзды, такие как цефеиды или звёзды типа RR Лиры, нестабильны и пульсируют, меняя свой размер и яркость. Другие звёзды могут выбрасывать яркое вещество, которое увеличивает общую наблюдаемую яркость («эруптивные переменные»). Звёзды, называемые катаклизмическими переменными или новыми, показывают внезапное увеличение яркости с последующим возвратом к предыдущему уровню. В таких системах сценарий включает пару звёзд, где вещество от одной перетекает на другую и воспламеняется в реакции ядерного синтеза, как только достигается определённый порог. Один компаньон или другой претерпевает катаклизмический взрыв и яркость возрастает. Другие звёзды кажутся переменными из-за их вращения, показывая нам попеременно более яркую и менее яркую сторону, или потому что на самом деле две звезды обращаются друг вокруг друга, причём одна звезда периодически затмевается своим компаньоном. Этот последний класс двойных известен как затменная двойная."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

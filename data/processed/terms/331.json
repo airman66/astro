@@ -1,0 +1,351 @@
+{
+  "id": "term:331",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 331,
+    "url": "https://astro4edu.org/resources/glossary/term/331/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=331",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:54.304793+00:00",
+    "sha256": "cc51f2e39fab42649ef9937c38d476a2dc5da8a0b14d9c591c8b0854a6596a9d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      4,
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      119,
+      214,
+      221,
+      258,
+      337,
+      386
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Star",
+      "body": "A star is a ball of plasma – atomic nuclei separated from their electrons – that is held together by its own gravity, and prevented from collapse by inner pressure that is the consequence of nuclear fusion processes in the star's core regions. Astronomers, in a slight abuse of physical terminology, commonly use \"gas\" and \"plasma\" interchangeably, and hence also refer to stars as balls of gas. In the atmosphere of a star the plasma may only be partially ionized and (depending on the temperature of the star) even contain some atoms. The star closest to Earth is the Sun. In a more general sense, the word \"star\" is taken to include protostars where nuclear fusion has not yet begun, and stellar remnants such as neutron stars or white dwarfs, which are two possibilities (depending on mass) for what stars turn into once they have exhausted the fuel for their nuclear fusion. Such stellar remnants are not simply plasma balls – a white dwarf can crystallize into an unusual kind of solid after cooling down for billions of years, and neutron stars bear a close similarity to gigantic atomic nuclei. Whether viewed with the naked eye or with visible-light telescopes, stars are the most obvious objects in the night sky. In the cosmos, they are typically found within galaxies, each star generally accompanied by one or more planets. The study of how stars form and evolve is an important subfield of astrophysics.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Neutron Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/214/",
+          "text_ru": "Нейтронная звезда"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Plasma",
+          "url": "https://www.astro4edu.org/resources/glossary/term/258/",
+          "text_ru": "Плазма"
+        },
+        {
+          "text": "Stellar Remnants",
+          "url": "https://www.astro4edu.org/resources/glossary/term/337/",
+          "text_ru": "Звёздные остатки"
+        },
+        {
+          "text": "White Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/386/",
+          "text_ru": "Белый карлик"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A star is a ball of plasma – atomic nuclei separated from their electrons – that is held together by its own gravity, and prevented from collapse by inner pressure that is the consequence of nuclear fusion processes in the star's core regions. Astronomers, in a slight abuse of physical terminology, commonly use \"gas\" and \"plasma\" interchangeably, and hence also refer to stars as balls of gas. In the atmosphere of a star the plasma may only be partially ionized and (depending on the temperature of the star) even contain some atoms.<br/><br/>The star closest to Earth is the Sun. <br/><br/>In a more general sense, the word \"star\" is taken to include protostars where nuclear fusion has not yet begun, and stellar remnants such as neutron stars or white dwarfs, which are two possibilities (depending on mass) for what stars turn into once they have exhausted the fuel for their nuclear fusion. Such stellar remnants are not simply plasma balls – a white dwarf can crystallize into an unusual kind of solid after cooling down for billions of years, and neutron stars bear a close similarity to gigantic atomic nuclei.<br/><br/>Whether viewed with the naked eye or with visible-light telescopes, stars are the most obvious objects in the night sky. In the cosmos, they are typically found within galaxies, each star generally accompanied by one or more planets. The study of how stars form and evolve is an important subfield of astrophysics.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/214/\">Neutron Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/258/\">Plasma</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/337/\">Stellar Remnants</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/386/\">White Dwarf</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звезда",
+      "body_ru": "Звезда — это шар из плазмы (атомных ядер, отделённых от электронов), который удерживается собственной гравитацией и не сжимается благодаря внутреннему давлению, возникающему в результате процессов термоядерного синтеза в ядре звезды. Астрономы, несколько вольно обращаясь с физической терминологией, обычно используют слова «газ» и «плазма» как взаимозаменяемые и поэтому также называют звёзды газовыми шарами. В атмосфере звезды плазма может быть лишь частично ионизована и (в зависимости от температуры звезды) даже содержать некоторое количество атомов. Ближайшая к Земле звезда — Солнце. В более широком смысле слово «звезда» включает протозвёзды, в которых термоядерный синтез ещё не начался, и звёздные остатки, такие как нейтронные звёзды или белые карлики, которые представляют собой две возможности (в зависимости от массы) того, во что превращаются звёзды, исчерпав топливо для термоядерного синтеза. Такие звёздные остатки — не просто плазменные шары: белый карлик может кристаллизоваться в необычный вид твёрдого тела после охлаждения в течение миллиардов лет, а нейтронные звёзды очень похожи на гигантские атомные ядра. Наблюдаемые невооружённым глазом или с помощью телескопов видимого света, звёзды являются наиболее очевидными объектами ночного неба. В космосе они обычно находятся внутри галактик, и каждая звезда, как правило, сопровождается одной или несколькими планетами. Изучение того, как звёзды формируются и эволюционируют, является важным разделом астрофизики."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "星 (external link)",
+          "url": "https://astro-dic.jp/star/",
+          "text_ru": "Звезда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/331/\">نجمة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/331/\">Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/331/\">Estrella </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/331/\">Étoile </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/331/\">Stella </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/star/\">星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/331/\">별 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/331/\">Estrela </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/331/\">恒星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/331/\">恆星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Qi36hs25vp88/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2022/03/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/gb55uX42u43/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Qi36hs25vp88",
+        "media:gb55uX42u43"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Qi36hs25vp88/\"><img alt=\"On the outskirts of a cluster of galaxies is an arc of light. On this arc is a dot, an image of one of the first stars\" src=\"/media/multimedia/thumbnails/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A gravitational lens magnifies one of the first stars</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image zooms in on a star formed within the first billion years after the birth of the Universe (at a redshift of 6.2). The Hubble Space Telescope detected this light using a technique called gravitational lensing. A massive galaxy cluster between the observer and the imaged star creates a distorted and warped image of the parent galaxy and reveals its features.<br/>\n<b>Credit:</b> NASA, ESA, B. Welch (JHU), D. Coe (STScI), A. Pagan (STScI)\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Images/2022/03/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/gb55uX42u43/\"><img alt=\"Over a watery field, Orion is shaped like a bow-tie turned 45 degrees. The bright star Sirius is in the image's left half\" src=\"/media/multimedia/thumbnails/watchtower-and-paddy-fields-under-the-starry-sky_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Watchtower and Paddy Fields Under the Starry Sky</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nThis image, taken in April 2022, shows the sky over a plantation field around a century-old watchtower guarding a village in the province of Guangdong, China. Throughout the ages, the sky has been used as a tool for navigation and also as a calendar. By watching the apparent movement of the stars, it is possible to follow the passing of time, thereby understanding the change of the seasons which in turn helps to plan out the best timings of agricultural work.\n\nThe most prominent constellations in this image are Orion and Canis Major, the Great Dog. Commonly associated with a giant hunter in Greek mythology, Orion is followed by his hound in the shape of the constellation Canis Major.\n\nIn China, the seven bright stars of the constellation Orion are paradoxically called Three Stars (Shen) and this is one of the 28 Lunar Mansions. The Babylonian pre-zodiac, the so-called “Path of the Moon”, had 17 constellations and included Orion (therein named “True Shepherd of the Heavens”). This is not really surprising because, even in the system of the 88 modern constellations, the Moon sometimes stands in the constellation Orion. The modern constellation boundaries were defined in the 1920s in such a way that the area of Orion ends a half degree south of the ecliptic, in order to avoid the Sun entering it. Still, the Moon and the planets do occasionally. Therefore, Orion is part of the Zodiac (a stripe 5 to 10 degrees around the ecliptic), part of the path of the Moon and, of course, also used by many cultural calendars all over the world.\n\nSirius, the bright star in the left half of the photograph, is the brightest star in the night sky, and has been used by many indigenous cultures to determine their calendars; the Egyptians awaited the Nile flood with Sirius’s heliacal rise, while the Romans connected its reappearance after its invisibility in daylight with the hottest summer time. In Old China, Sirius was considered a single-star asterism called The Wolf. The adjacent area was called The Market for Soldiers and the area in the southern part of Canis Major was imagined as the Bow with an Arrow.\n\nThe reddish bright star in the top right corner is Betelgeuse, a red supergiant and one of the largest stars that can be seen with the naked eye. Orion’s Great Nebula below Orion’s Belt should be mentioned, but also the fainter huge red arc that is called Barnard’s Loop is clearly shown in this photograph. This galactic nebula and the circular red nebula around Orion’s not-so-bright head are both parts of star-forming regions, while the red nebula to the upper left of Orion is the Rosette Nebula in the unrecognisable constellation of Monoceros.<br/>\n<b>Credit:</b> Likai Lin/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities What is a Constellation? astroEDU educational activity (links to astroEDU website) Description: Investigate three dimensional objects and perspective using constellations License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models Star in a Box: Advanced astroEDU educational activity (links to astroEDU website) Description: Explore the life-cycle of stars with Star in a Box activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Interactive \n  \n  , Software Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Technology-based Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations Star in a Box: High School astroEDU educational activity (links to astroEDU website) Description: Explore the life-cycle of stars with Star in a Box activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Interactive \n  \n  , Software Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Technology-based Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations This page describes an educational activity Star Hats astroEDU educational activity (links to astroEDU website) Description: Make your star hat, learning about the stars License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Hands-on Age Ranges: 4-6 Education Level: Pre-school Areas of Learning: Fine Art focussed \n  \n, Interactive Lecture Costs: Low Cost Duration: 30 mins Group Size: Individual Skills: Asking questions \n  \n, Communicating information How Light Pollution Affects the Stars: Magnitude Readers astroEDU educational activity (links to astroEDU website) Description: Build a Magnitude Reader to explore the magnitude of stars. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Dark skies \n  \n  , ecology Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Star&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/what-is-a-constellation/\"><img alt=\"What is a Constellation?\" src=\"/media/astroedu/images/what-is-a-constellation_en_thumbnail_FZVfRkk.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/what-is-a-constellation/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">What is a Constellation?</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Investigate three dimensional objects and perspective using constellations\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  \n\n  <b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n\n\n\n\n  <b>Education Level:</b>\n\nPrimary \n  \n\n\n\n  <b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/star-in-a-box-advanced/\"><img alt=\"Star in a Box: Advanced\" src=\"/media/astroedu/images/star-in-a-box-advanced_en_thumbnail_it5OGhz.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/star-in-a-box-advanced/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Star in a Box: Advanced</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore the life-cycle of stars with Star in a Box activity.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Interactive \n  \n  , Software \n  \n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nTechnology-based \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/star-in-a-box-high-school/\"><img alt=\"Star in a Box: High School\" src=\"/media/astroedu/images/star-in-a-box-high-school_en_28b1EZL_thumbnail_dCfL0ae.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/star-in-a-box-high-school/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Star in a Box: High School</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore the life-cycle of stars with Star in a Box activity.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Interactive \n  \n  , Software \n  \n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nTechnology-based \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<a class=\"caps\" href=\"http://astroedu.iau.org/en/activities/star-hats/\"><i aria-hidden=\"true\" class=\"fas fa-chalkboard fa-10x\" title=\"This page describes\n  an educational activity\"></i><span class=\"sr-only\">This page describes an educational activity</span></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/star-hats/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Star Hats</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Make your star hat, learning about the stars\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n<b>Education Level:</b>\n\nPre-school \n  \n<b>Areas of Learning:</b>\n\nFine Art focussed \n  \n, Interactive Lecture \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n30 mins \n\n<b>Group Size:</b>\nIndividual \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/how-light-pollution-affects-the-stars-magnitude-readers/\"><img alt=\"How Light Pollution Affects the Stars: Magnitude Readers\" src=\"/media/astroedu/images/how-light-pollution-affects-the-stars-magnitude-readers_en_thumbnail_qul1IT9.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/how-light-pollution-affects-the-stars-magnitude-readers/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">How Light Pollution Affects the Stars: Magnitude Readers</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a Magnitude Reader to explore the magnitude of stars.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Dark skies \n  \n  , ecology \n  \n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Observation based \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Star&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Что такое созвездие? Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте трёхмерные объекты и перспективу с помощью созвездий Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальная школа Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Стоимость: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Построение объяснений \n  \n, Разработка и использование моделей Звезда в коробке: Продвинутый уровень Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте жизненный цикл звёзд с помощью мероприятия «Звезда в коробке». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Интерактивное \n  \n  , Программное обеспечение Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: На основе технологий Стоимость: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений Звезда в коробке: Старшая школа Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте жизненный цикл звёзд с помощью мероприятия «Звезда в коробке». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Интерактивное \n  \n  , Программное обеспечение Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: На основе технологий Стоимость: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений Эта страница описывает образовательное мероприятие Звёздные шляпы Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Сделайте свою звёздную шляпу, узнавая о звёздах Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Искусство \n  \n  , Творчество \n  \n  , Практическое занятие Возрастные диапазоны: 4-6 Уровень образования: Дошкольное Области обучения: С акцентом на изобразительное искусство \n  \n, Интерактивная лекция Стоимость: Низкая стоимость Продолжительность: 30 мин Размер группы: Индивидуально Навыки: Постановка вопросов \n  \n, Передача информации Как световое загрязнение влияет на звёзды: измерители звёздной величины Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Создайте измеритель звёздной величины, чтобы исследовать звёздную величину звёзд. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Тёмное небо \n  \n  , экология Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: Моделирование \n  \n, На основе наблюдений Стоимость: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Постановка вопросов \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Star",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Star",
+          "body": "A star is a ball of plasma – atomic nuclei separated from their electrons – that is held together by its own gravity, and prevented from collapse by inner pressure that is the consequence of nuclear fusion processes in the star's core regions. Astronomers, in a slight abuse of physical terminology, commonly use \"gas\" and \"plasma\" interchangeably, and hence also refer to stars as balls of gas. In the atmosphere of a star the plasma may only be partially ionized and (depending on the temperature of the star) even contain some atoms. The star closest to Earth is the Sun. In a more general sense, the word \"star\" is taken to include protostars where nuclear fusion has not yet begun, and stellar remnants such as neutron stars or white dwarfs, which are two possibilities (depending on mass) for what stars turn into once they have exhausted the fuel for their nuclear fusion. Such stellar remnants are not simply plasma balls – a white dwarf can crystallize into an unusual kind of solid after cooling down for billions of years, and neutron stars bear a close similarity to gigantic atomic nuclei. Whether viewed with the naked eye or with visible-light telescopes, stars are the most obvious objects in the night sky. In the cosmos, they are typically found within galaxies, each star generally accompanied by one or more planets. The study of how stars form and evolve is an important subfield of astrophysics."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities What is a Constellation? astroEDU educational activity (links to astroEDU website) Description: Investigate three dimensional objects and perspective using constellations License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models Star in a Box: Advanced astroEDU educational activity (links to astroEDU website) Description: Explore the life-cycle of stars with Star in a Box activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Interactive \n  \n  , Software Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Technology-based Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations Star in a Box: High School astroEDU educational activity (links to astroEDU website) Description: Explore the life-cycle of stars with Star in a Box activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Interactive \n  \n  , Software Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Technology-based Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations This page describes an educational activity Star Hats astroEDU educational activity (links to astroEDU website) Description: Make your star hat, learning about the stars License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Hands-on Age Ranges: 4-6 Education Level: Pre-school Areas of Learning: Fine Art focussed \n  \n, Interactive Lecture Costs: Low Cost Duration: 30 mins Group Size: Individual Skills: Asking questions \n  \n, Communicating information How Light Pollution Affects the Stars: Magnitude Readers astroEDU educational activity (links to astroEDU website) Description: Build a Magnitude Reader to explore the magnitude of stars. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Dark skies \n  \n  , ecology Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звезда",
+          "body": "Звезда — это шар из плазмы (атомных ядер, отделённых от электронов), который удерживается собственной гравитацией и не сжимается благодаря внутреннему давлению, возникающему в результате процессов термоядерного синтеза в ядре звезды. Астрономы, несколько вольно обращаясь с физической терминологией, обычно используют слова «газ» и «плазма» как взаимозаменяемые и поэтому также называют звёзды газовыми шарами. В атмосфере звезды плазма может быть лишь частично ионизована и (в зависимости от температуры звезды) даже содержать некоторое количество атомов. Ближайшая к Земле звезда — Солнце. В более широком смысле слово «звезда» включает протозвёзды, в которых термоядерный синтез ещё не начался, и звёздные остатки, такие как нейтронные звёзды или белые карлики, которые представляют собой две возможности (в зависимости от массы) того, во что превращаются звёзды, исчерпав топливо для термоядерного синтеза. Такие звёздные остатки — не просто плазменные шары: белый карлик может кристаллизоваться в необычный вид твёрдого тела после охлаждения в течение миллиардов лет, а нейтронные звёзды очень похожи на гигантские атомные ядра. Наблюдаемые невооружённым глазом или с помощью телескопов видимого света, звёзды являются наиболее очевидными объектами ночного неба. В космосе они обычно находятся внутри галактик, и каждая звезда, как правило, сопровождается одной или несколькими планетами. Изучение того, как звёзды формируются и эволюционируют, является важным разделом астрофизики."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Что такое созвездие? Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте трёхмерные объекты и перспективу с помощью созвездий Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальная школа Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Стоимость: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Построение объяснений \n  \n, Разработка и использование моделей Звезда в коробке: Продвинутый уровень Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте жизненный цикл звёзд с помощью мероприятия «Звезда в коробке». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Интерактивное \n  \n  , Программное обеспечение Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: На основе технологий Стоимость: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений Звезда в коробке: Старшая школа Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте жизненный цикл звёзд с помощью мероприятия «Звезда в коробке». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Интерактивное \n  \n  , Программное обеспечение Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: На основе технологий Стоимость: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений Эта страница описывает образовательное мероприятие Звёздные шляпы Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Сделайте свою звёздную шляпу, узнавая о звёздах Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Искусство \n  \n  , Творчество \n  \n  , Практическое занятие Возрастные диапазоны: 4-6 Уровень образования: Дошкольное Области обучения: С акцентом на изобразительное искусство \n  \n, Интерактивная лекция Стоимость: Низкая стоимость Продолжительность: 30 мин Размер группы: Индивидуально Навыки: Постановка вопросов \n  \n, Передача информации Как световое загрязнение влияет на звёзды: измерители звёздной величины Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Создайте измеритель звёздной величины, чтобы исследовать звёздную величину звёзд. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Тёмное небо \n  \n  , экология Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: Моделирование \n  \n, На основе наблюдений Стоимость: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Постановка вопросов \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Qi36hs25vp88",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Qi36hs25vp88/",
+      "original_path": "data/media/original/media_Qi36hs25vp88.jpg",
+      "ru_path": null,
+      "sha256": "03b15264e314089e6ca813eac337adae3fed38ff84d610f13b56a96ee70057c8",
+      "size": 6122740,
+      "title_en": "A gravitational lens magnifies one of the first stars",
+      "title_ru": "Гравитационная линза увеличивает одну из первых звёзд",
+      "short_caption_en": "A gravitational lens magnifies one of the first stars",
+      "short_caption_ru": "Гравитационная линза увеличивает одну из первых звёзд",
+      "caption_en": "This image zooms in on a star formed within the first billion years after the birth of the Universe (at a redshift of 6.2). The Hubble Space Telescope detected this light using a technique called gravitational lensing. A massive galaxy cluster between the observer and the imaged star creates a distorted and warped image of the parent galaxy and reveals its features.",
+      "caption_ru": "Это изображение приближает звезду, сформировавшуюся в течение первого миллиарда лет после рождения Вселенной (при красном смещении 6.2). Космический телескоп Хаббл обнаружил этот свет, используя технику, называемую гравитационным линзированием. Массивное скопление галактик между наблюдателем и изображённой звездой создаёт искажённое и искривлённое изображение родительской галактики и раскрывает её особенности.",
+      "alt_en": "On the outskirts of a cluster of galaxies is an arc of light. On this arc is a dot, an image of one of the first stars",
+      "alt_ru": "На окраине скопления галактик находится дуга света. На этой дуге есть точка — изображение одной из первых звёзд",
+      "credit": "NASA, ESA, B. Welch (JHU), D. Coe (STScI), A. Pagan (STScI)",
+      "credit_url": "https://www.esa.int/ESA_Multimedia/Images/2022/03/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        134,
+        331
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:gb55uX42u43",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425219/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Watchtower%20and%20Paddy%20Fields%20Under%20the%20Starry%20Sky%2C%20by%20Likai%20Lin.jpg",
+      "record_url": "https://astro4edu.org/resources/media/gb55uX42u43/",
+      "original_path": "data/media/original/media_gb55uX42u43.jpg",
+      "ru_path": null,
+      "sha256": "1d2d2ed80dade371918300231d9ef48a312a7e06b1441083f0aa605dc5dfc6d9",
+      "size": 19985797,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Watchtower and Paddy Fields Under the Starry Sky",
+      "short_caption_ru": "Сторожевая башня и рисовые поля под звёздным небом",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image, taken in April 2022, shows the sky over a plantation field around a century-old watchtower guarding a village in the province of Guangdong, China. Throughout the ages, the sky has been used as a tool for navigation and also as a calendar. By watching the apparent movement of the stars, it is possible to follow the passing of time, thereby understanding the change of the seasons which in turn helps to plan out the best timings of agricultural work.\r\n\r\nThe most prominent constellations in this image are Orion and Canis Major, the Great Dog. Commonly associated with a giant hunter in Greek mythology, Orion is followed by his hound in the shape of the constellation Canis Major.\r\n\r\nIn China, the seven bright stars of the constellation Orion are paradoxically called Three Stars (Shen) and this is one of the 28 Lunar Mansions. The Babylonian pre-zodiac, the so-called “Path of the Moon”, had 17 constellations and included Orion (therein named “True Shepherd of the Heavens”). This is not really surprising because, even in the system of the 88 modern constellations, the Moon sometimes stands in the constellation Orion. The modern constellation boundaries were defined in the 1920s in such a way that the area of Orion ends a half degree south of the ecliptic, in order to avoid the Sun entering it. Still, the Moon and the planets do occasionally. Therefore, Orion is part of the Zodiac (a stripe 5 to 10 degrees around the ecliptic), part of the path of the Moon and, of course, also used by many cultural calendars all over the world.\r\n\r\nSirius, the bright star in the left half of the photograph, is the brightest star in the night sky, and has been used by many indigenous cultures to determine their calendars; the Egyptians awaited the Nile flood with Sirius’s heliacal rise, while the Romans connected its reappearance after its invisibility in daylight with the hottest summer time. In Old China, Sirius was considered a single-star asterism called The Wolf. The adjacent area was called The Market for Soldiers and the area in the southern part of Canis Major was imagined as the Bow with an Arrow.\r\n\r\nThe reddish bright star in the top right corner is Betelgeuse, a red supergiant and one of the largest stars that can be seen with the naked eye. Orion’s Great Nebula below Orion’s Belt should be mentioned, but also the fainter huge red arc that is called Barnard’s Loop is clearly shown in this photograph. This galactic nebula and the circular red nebula around Orion’s not-so-bright head are both parts of star-forming regions, while the red nebula to the upper left of Orion is the Rosette Nebula in the unrecognisable constellation of Monoceros.",
+      "caption_ru": "Победитель на конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение, снятое в апреле 2022, показывает небо над плантационным полем вокруг вековой сторожевой башни, охраняющей деревню в провинции Гуандун, Китай. На протяжении веков небо использовалось как инструмент для навигации, а также как календарь. Наблюдая за видимым движением звёзд, можно следить за течением времени, тем самым понимая смену времён года, что, в свою очередь, помогает планировать лучшее время для сельскохозяйственных работ.\r\n\r\nНаиболее заметные созвездия на этом изображении — Орион и Большой Пёс. Обычно ассоциируемый с гигантским охотником в греческой мифологии, Орион сопровождается своей гончей в виде созвездия Большого Пса.\r\n\r\nВ Китае семь ярких звёзд созвездия Ориона парадоксально называются Три Звезды (Шэнь), и это одно из 28 лунных стоянок. Вавилонский пред-зодиак, так называемый «Путь Луны», имел 17 созвездий и включал Орион (там называемый «Истинный Пастырь Небес»). Это не удивительно, потому что даже в системе 88 современных созвездий Луна иногда находится в созвездии Ориона. Границы современных созвездий были определены в 1920-х годах таким образом, чтобы область Ориона заканчивалась на полградуса южнее эклиптики, чтобы Солнце не входило в неё. Тем не менее, Луна и планеты иногда это делают. Поэтому Орион является частью Зодиака (полосы от 5 до 10 градусов вокруг эклиптики), частью пути Луны и, конечно, также используется многими культурными календарями по всему миру.\r\n\r\nСириус, яркая звезда в левой половине фотографии, — самая яркая звезда ночного неба, и многие коренные культуры использовали её для определения своих календарей; египтяне ожидали разлива Нила с гелиакическим восходом Сириуса, а римляне связывали его повторное появление после невидимости в дневное время с самым жарким летним временем. В Древнем Китае Сириус считался односозвездием под названием Волк. Прилегающая область называлась Рынком для Солдат, а область в южной части Большого Пса представлялась как Лук со Стрелой.\r\n\r\nКрасноватая яркая звезда в правом верхнем углу — Бетельгейзе, красный сверхгигант и одна из крупнейших звёзд, видимых невооружённым глазом. Следует упомянуть Большую туманность Ориона под Поясом Ориона, а также более слабую огромную красную дугу, называемую Петлёй Барнарда, которая ясно видна на этой фотографии. Эта галактическая туманность и круглая красная туманность вокруг не очень яркой головы Ориона обе являются частями областей звездообразования, а красная туманность в верхнем левом углу от Ориона — это туманность Розетка в неузнаваемом созвездии Единорога.",
+      "alt_en": "Over a watery field, Orion is shaped like a bow-tie turned 45 degrees. The bright star Sirius is in the image's left half",
+      "alt_ru": "Над водной гладью Орион имеет форму галстука-бабочки, повернутого на 45 градусов. Яркая звезда Сириус находится в левой половине изображения",
+      "credit": "Likai Lin/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        66,
+        278,
+        331,
+        467
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

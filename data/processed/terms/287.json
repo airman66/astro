@@ -1,0 +1,265 @@
+{
+  "id": "term:287",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 287,
+    "url": "https://astro4edu.org/resources/glossary/term/287/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=287",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:41.776643+00:00",
+    "sha256": "88e349159597e31a6e68a6452088afcb523bd3d85e8b999d7f8b83794d79a7c0"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Solar System"
+    ],
+    "category_ids": [
+      6,
+      1
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      129,
+      167,
+      212,
+      294,
+      360,
+      375
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Ring",
+      "body": "The four giant planets in our Solar System (Jupiter, Saturn, Uranus, and Neptune) – for exoplanets, we cannot yet tell – are surrounded by numerous small pieces of ice or rock, micrometers to meters in size, in the shape of large rings. The most spectacular rings are those surrounding Saturn: An intricate system of rings separated by gaps. Some of that structure comes about through interaction with Saturn's larger moons, and two gaps are opened up by tiny moons orbiting inside them. There are several hypotheses about how the rings formed, most of them involving a moon torn apart or stripped through Saturn's gravity. There are estimates that Saturn's rings will have dissolved in a few 100 million years – not a very long time by astronomical standards. Jupiter, Uranus, and Neptune have less pronounced ring systems.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Giant Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/129/",
+          "text_ru": "Гигантская планета"
+        },
+        {
+          "text": "Jupiter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/167/",
+          "text_ru": "Юпитер"
+        },
+        {
+          "text": "Neptune",
+          "url": "https://www.astro4edu.org/resources/glossary/term/212/",
+          "text_ru": "Нептун"
+        },
+        {
+          "text": "Saturn",
+          "url": "https://www.astro4edu.org/resources/glossary/term/294/",
+          "text_ru": "Сатурн"
+        },
+        {
+          "text": "Tide",
+          "url": "https://www.astro4edu.org/resources/glossary/term/360/",
+          "text_ru": "Прилив"
+        },
+        {
+          "text": "Uranus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/375/",
+          "text_ru": "Уран"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Ring</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The four giant planets in our Solar System (Jupiter, Saturn, Uranus, and Neptune) – for exoplanets, we cannot yet tell – are surrounded by numerous small pieces of ice or rock, micrometers to meters in size, in the shape of large rings. The most spectacular rings are those surrounding Saturn: An intricate system of rings separated by gaps. Some of that structure comes about through interaction with Saturn's larger moons, and two gaps are opened up by tiny moons orbiting inside them. There are several hypotheses about how the rings formed, most of them involving a moon torn apart or stripped through Saturn's gravity. There are estimates that Saturn's rings will have dissolved in a few 100 million years – not a very long time by astronomical standards. Jupiter, Uranus, and Neptune have less pronounced ring systems.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/129/\">Giant Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/167/\">Jupiter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/212/\">Neptune</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/294/\">Saturn</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/360/\">Tide</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/375/\">Uranus</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Кольцо",
+      "body_ru": "Четыре планеты-гиганта в нашей Солнечной системе (Юпитер, Сатурн, Уран и Нептун) — для экзопланет мы пока не можем сказать — окружены многочисленными мелкими кусочками льда или камня, размером от микрометров до метров, в форме больших колец. Самые впечатляющие кольца — те, что окружают Сатурн: сложная система колец, разделенных промежутками. Часть этой структуры возникает в результате взаимодействия с более крупными спутниками Сатурна, а два промежутка открываются крошечными спутниками, обращающимися внутри них. Существует несколько гипотез о том, как образовались кольца, большинство из которых предполагают, что спутник был разорван на части или лишен вещества гравитацией Сатурна. Есть оценки, что кольца Сатурна растворятся через несколько 100 миллионов лет — не очень долгий срок по астрономическим меркам. Юпитер, Уран и Нептун имеют менее выраженные системы колец."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/287/\">الحلقة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/287/\">Planetenring </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/287/\">Anillo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/287/\">Anneau </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/287/\">Anello </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/287/\">고리 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/287/\">Anel </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/287/\">行星环 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/287/\">行星環 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/T291MZ505v97/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic1917a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/i799RL125F73/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://hubblesite.org/contents/media/images/2007/32/2177-Image.html",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:T291MZ505v97",
+        "media:i799RL125F73"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/T291MZ505v97/\"><img alt=\"The planet Saturn with pale brownish cloud ribbons and its thin and extended greyish rings\" src=\"/media/multimedia/thumbnails/heic1917a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Saturn</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The NASA/ESA Hubble Space Telescope’s Wide Field Camera 3 observed Saturn on 20 June 2019 as the planet made its closest approach to Earth this year, at approximately 1.36 billion kilometres away. The image shows coloured bands of gas on the planet's surface as well as its prominent rings made of ice and rocky material.<br/>\n<b>Credit:</b> NASA, ESA, A. Simon (Goddard Space Flight Center), and M.H. Wong (University of California, Berkeley)\n\t  <a href=\"https://esahubble.org/images/heic1917a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/i799RL125F73/\"><img alt=\"Uranus appears as a light blue disk with and a pale polar region. Thin white rings surround the planet\" src=\"/media/multimedia/thumbnails/STScI-01EVVHWVY4VZJ71M8ZTQ8FGBBM_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Uranus with rings</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The NASA/ESA Hubble Space Telescope’s ACS/HRC camera observed Uranus in August 2005. The surface depicts white clouds and a bright polar region. The rings around Uranus are narrow and contain rocky material from tiny dust particles up to metre-sized boulders.<br/>\n<b>Credit:</b> NASA, ESA, and M. Showalter (SETI Institute)\n\t  <a href=\"https://hubblesite.org/contents/media/images/2007/32/2177-Image.html\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Ring",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Ring",
+          "body": "The four giant planets in our Solar System (Jupiter, Saturn, Uranus, and Neptune) – for exoplanets, we cannot yet tell – are surrounded by numerous small pieces of ice or rock, micrometers to meters in size, in the shape of large rings. The most spectacular rings are those surrounding Saturn: An intricate system of rings separated by gaps. Some of that structure comes about through interaction with Saturn's larger moons, and two gaps are opened up by tiny moons orbiting inside them. There are several hypotheses about how the rings formed, most of them involving a moon torn apart or stripped through Saturn's gravity. There are estimates that Saturn's rings will have dissolved in a few 100 million years – not a very long time by astronomical standards. Jupiter, Uranus, and Neptune have less pronounced ring systems."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Кольцо",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Кольцо",
+          "body": "Четыре планеты-гиганта в нашей Солнечной системе (Юпитер, Сатурн, Уран и Нептун) — для экзопланет мы пока не можем сказать — окружены многочисленными мелкими кусочками льда или камня, размером от микрометров до метров, в форме больших колец. Самые впечатляющие кольца — те, что окружают Сатурн: сложная система колец, разделенных промежутками. Часть этой структуры возникает в результате взаимодействия с более крупными спутниками Сатурна, а два промежутка открываются крошечными спутниками, обращающимися внутри них. Существует несколько гипотез о том, как образовались кольца, большинство из которых предполагают, что спутник был разорван на части или лишен вещества гравитацией Сатурна. Есть оценки, что кольца Сатурна растворятся через несколько 100 миллионов лет — не очень долгий срок по астрономическим меркам. Юпитер, Уран и Нептун имеют менее выраженные системы колец."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:T291MZ505v97",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/heic1917a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/T291MZ505v97/",
+      "original_path": "data/media/original/media_T291MZ505v97.jpg",
+      "ru_path": null,
+      "sha256": "c7861c116b5b4da2ab7bb4f33002c802e5a2e23acbe8af3be5f5ef6349f898de",
+      "size": 262208,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A Hubble Space Telescope image of Saturn",
+      "short_caption_ru": "Изображение Сатурна, полученное космическим телескопом Хаббл",
+      "caption_en": "The NASA/ESA Hubble Space Telescope’s Wide Field Camera 3 observed Saturn on 20 June 2019 as the planet made its closest approach to Earth this year, at approximately 1.36 billion kilometres away. The image shows coloured bands of gas on the planet's surface as well as its prominent rings made of ice and rocky material.",
+      "caption_ru": "Wide Field Camera 3 космического телескопа Хаббл NASA/ESA наблюдала Сатурн 20 июня 2019 года, когда планета находилась в ближайшей к Земле точке за этот год, на расстоянии примерно 1,36 миллиарда километров. На изображении видны цветные полосы газа на поверхности планеты, а также её заметные кольца, состоящие из льда и каменистого материала.",
+      "alt_en": "The planet Saturn with pale brownish cloud ribbons and its thin and extended greyish rings",
+      "alt_ru": "Планета Сатурн с бледно-коричневыми облачными лентами и тонкими и протяжёнными сероватыми кольцами",
+      "credit": "NASA, ESA, A. Simon (Goddard Space Flight Center), and M.H. Wong (University of California, Berkeley)",
+      "credit_url": "https://esahubble.org/images/heic1917a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        125,
+        129,
+        234,
+        287,
+        294
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:i799RL125F73",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/STScI-01EVVHWVY4VZJ71M8ZTQ8FGBBM.jpg",
+      "record_url": "https://astro4edu.org/resources/media/i799RL125F73/",
+      "original_path": "data/media/original/media_i799RL125F73.jpg",
+      "ru_path": null,
+      "sha256": "d34a700adb3ca9bf0e9fe1c5e8bf454addeffd1909958695ada8f1f035b951cf",
+      "size": 54698,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Uranus with its rings",
+      "short_caption_ru": "Уран с его кольцами",
+      "caption_en": "The NASA/ESA Hubble Space Telescope’s ACS/HRC camera observed Uranus in August 2005. The surface depicts white clouds and a bright polar region. The rings around Uranus are narrow and contain rocky material from tiny dust particles up to metre-sized boulders.",
+      "caption_ru": "Космический телескоп «Хаббл» NASA/ESA с помощью камеры ACS/HRC наблюдал Уран в августе 2005. На поверхности видны белые облака и яркая полярная область. Кольца вокруг Урана узкие и содержат каменистый материал от мельчайших пылевых частиц до валунов размером в метр.",
+      "alt_en": "Uranus appears as a light blue disk with and a pale polar region. Thin white rings surround the planet",
+      "alt_ru": "Уран выглядит как светло-голубой диск с бледной полярной областью. Планету окружают тонкие белые кольца",
+      "credit": "NASA, ESA, and M. Showalter (SETI Institute)",
+      "credit_url": "https://hubblesite.org/contents/media/images/2007/32/2177-Image.html",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        129,
+        153,
+        234,
+        287,
+        375
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

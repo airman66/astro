@@ -1,0 +1,303 @@
+{
+  "id": "term:1",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 1,
+    "url": "https://astro4edu.org/resources/glossary/term/1/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=1",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:40:22.853133+00:00",
+    "sha256": "0540cc67254c665c763fb5a5233a9ac5d385203b92a9e1a56551e43ec414cb04"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      15,
+      304,
+      325,
+      331,
+      396,
+      440,
+      515
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: A-type Star",
+      "body": "A star with spectral type \"A\". Astronomers identify A-type stars by the presence of strong absorption lines from hydrogen in their spectra. They have typical (effective) temperatures between around 7400 kelvins (K) and 10,000 K. Compared to other stars, they appear white or bluish white to human eyes unless affected by interstellar or atmospheric reddening. Sirius, the brightest star in the night sky, and Vega, the star against which all other stars' brightnesses are measured in the apparent magnitude scale, are A-type stars.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Apparent Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/15/",
+          "text_ru": "Видимая звёздная величина"
+        },
+        {
+          "text": "Sirius",
+          "url": "https://www.astro4edu.org/resources/glossary/term/304/",
+          "text_ru": "Сириус"
+        },
+        {
+          "text": "Spectral Type",
+          "url": "https://www.astro4edu.org/resources/glossary/term/325/",
+          "text_ru": "Спектральный класс"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Reddening",
+          "url": "https://www.astro4edu.org/resources/glossary/term/396/",
+          "text_ru": "Покраснение"
+        },
+        {
+          "text": "Effective Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/440/",
+          "text_ru": "Эффективная температура"
+        },
+        {
+          "text": "Absorption Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/515/",
+          "text_ru": "Линия поглощения"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Управление IAU по астрономическому\nпросвещению (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: A-type Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>A Star</b> or <b>A-Star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A star with spectral type \"A\". Astronomers identify A-type stars by the presence of strong absorption lines from hydrogen in their spectra. They have typical (effective) temperatures between around 7400 kelvins (K) and 10,000 K. Compared to other stars, they appear white or bluish white to human eyes unless affected by interstellar or atmospheric reddening. Sirius, the brightest star in the night sky, and Vega, the star against which all other stars' brightnesses are measured in the apparent magnitude scale, are A-type stars.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/15/\">Apparent Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/304/\">Sirius</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/325/\">Spectral Type</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/396/\">Reddening</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/440/\">Effective Temperature</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/515/\">Absorption Line</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: звезда спектрального класса A",
+      "body_ru": "Звезда спектрального класса «A». Астрономы идентифицируют звёзды класса A по наличию сильных линий поглощения водорода в их спектрах. Их типичные (эффективные) температуры составляют примерно от 7400 кельвинов (K) до 10,000 K. По сравнению с другими звёздами они кажутся человеческому глазу белыми или голубовато-белыми, если на них не влияет межзвёздное или атмосферное покраснение. Сириус, самая яркая звезда ночного неба, и Вега, звезда, относительно которой по шкале видимой звёздной величины измеряются яркости всех остальных звёзд, являются звёздами класса A."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "A型星 (external link)",
+          "url": "https://astro-dic.jp/a-type-star/",
+          "text_ru": "A型星 (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/1/\">نجوم النسق الأساسي نوع A </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/1/\">\"A\"-টাইপ নক্ষত্র </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/1/\">A-Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/1/\">Estrella tipo A </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/1/\">Étoile de type A </a></span></li>\n<li><b>Hebrew: </b><span dir=\"RTL\" lang=\"he\"><a class=\"link-bold\" href=\"/he/resources/glossary/term/1/\">כוכב מסוג A </a></span></li>\n<li><b>Indonesian: </b><span dir=\"LTR\" lang=\"id\"><a class=\"link-bold\" href=\"/id/resources/glossary/term/1/\">Bintang kelas A </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/1/\">Stella di tipo A </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/a-type-star/\">A型星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/1/\">Estrela de tipo A </a></span></li>\n<li><b>Portuguese: </b><span dir=\"LTR\" lang=\"pt-PT\"><a class=\"link-bold\" href=\"/pt-pt/resources/glossary/term/1/\">Estrela de classe A </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/1/\">A型星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/1/\">A型星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/h111Wi173458/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic0516a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:h111Wi173458"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/h111Wi173458/\"><img alt=\"Sirius A, a bright star with x-shaped diffraction spikes. Sirius B is a faint dot to the lower left.\" src=\"/media/multimedia/thumbnails/sirius-a-with-his-faint-white-dwarf-companion-sirius-b_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sirius A with his faint white dwarf companion Sirius B</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This Hubble Space Telescope image highlights Sirius, the brightest star in Earth’s night sky, appearing as an intensely luminous object at the center with prominent cross-shaped diffraction spikes. These spikes, along with the saturated glow around the main star, are caused by the Sirius' light being spread out by the telescope and camera used to make this image. Slightly below and to the left of the main star, a tiny point of light marks Sirius B, a much dimmer object captured thanks to Hubble’s high sensitivity.\n\nSirius A is an A-type star, known for its high surface temperature and strong white-blue light, while Sirius B is a compact white dwarf, the dense remnant of a star that has exhausted its nuclear fuel. Together, they form a well-known Binary star system located about 8.6 light-years from Earth.\n\nSirius B was originally a higher mass and brighter star that burned through its hydrogen fuel more quickly than Sirius A. This led to Sirius B evolving into a red giant and eventually ending its life as a planetary nebula, leaving only the remains of its core as a white dwarf orbiting Sirius A.<br/>\n<b>Credit:</b> NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester)\n\t  <a href=\"https://esahubble.org/images/heic0516a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/2149RS77wy92/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:2149RS77wy92"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/2149RS77wy92/\"><img alt=\"A smooth line peaking about 420 nm then declining at longer wavelengths with a few fairly broad dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-an-a-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of an A-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the A-type star BD-11 1212. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. Lines from hydrogen atoms dominate the spectra of A-type stars and are strongest at this spectral type.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "A-type Star",
+      "aliases": [
+        "A Star",
+        "A-Star"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: A-type Star",
+          "body": "A star with spectral type \"A\". Astronomers identify A-type stars by the presence of strong absorption lines from hydrogen in their spectra. They have typical (effective) temperatures between around 7400 kelvins (K) and 10,000 K. Compared to other stars, they appear white or bluish white to human eyes unless affected by interstellar or atmospheric reddening. Sirius, the brightest star in the night sky, and Vega, the star against which all other stars' brightnesses are measured in the apparent magnitude scale, are A-type stars."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда типа A",
+      "aliases": [
+        "Звезда A",
+        "A-звезда"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: звезда типа A",
+          "body": "Звезда спектрального класса \"A\". Астрономы идентифицируют звёзды типа A по наличию сильных линий поглощения водорода в их спектрах. Их типичные (эффективные) температуры составляют примерно от 7400 кельвинов (K) до 10,000 K. По сравнению с другими звёздами они кажутся человеческому глазу белыми или голубовато-белыми, если на них не влияет межзвёздное или атмосферное покраснение. Сириус, самая яркая звезда ночного неба, и Вега, звезда, по которой измеряются яркости всех остальных звёзд в шкале видимой звёздной величины, являются звёздами типа A."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные медиа",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:h111Wi173458",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/sirius-a-with-his-faint-white-dwarf-companion-sirius-b.png",
+      "record_url": "https://astro4edu.org/resources/media/h111Wi173458/",
+      "original_path": "data/media/original/media_h111Wi173458.png",
+      "ru_path": null,
+      "sha256": "11284e811fb69578d6b4f50641e4f2f114494b637e69bcabb09c84f916302aae",
+      "size": 1454728,
+      "title_en": "Sirius A with his faint white dwarf companion Sirius B",
+      "title_ru": "Сириус A со своим тусклым компаньоном — белым карликом Сириусом B",
+      "short_caption_en": "Sirius A with his faint white dwarf companion Sirius B",
+      "short_caption_ru": "Сириус A со своим тусклым компаньоном — белым карликом Сириусом B",
+      "caption_en": "This Hubble Space Telescope image highlights Sirius, the brightest star in Earth’s night sky, appearing as an intensely luminous object at the center with prominent cross-shaped diffraction spikes. These spikes, along with the saturated glow around the main star, are caused by the Sirius' light being spread out by the telescope and camera used to make this image. Slightly below and to the left of the main star, a tiny point of light marks Sirius B, a much dimmer object captured thanks to Hubble’s high sensitivity.\r\n\r\nSirius A is an A-type star, known for its high surface temperature and strong white-blue light, while Sirius B is a compact white dwarf, the dense remnant of a star that has exhausted its nuclear fuel. Together, they form a well-known Binary star system located about 8.6 light-years from Earth.\r\n\r\nSirius B was originally a higher mass and brighter star that burned through its hydrogen fuel more quickly than Sirius A. This led to Sirius B evolving into a red giant and eventually ending its life as a planetary nebula, leaving only the remains of its core as a white dwarf orbiting Sirius A.",
+      "caption_ru": "На этом снимке космического телескопа «Хаббл» показан Сириус — самая яркая звезда ночного неба Земли; в центре он предстаёт как чрезвычайно яркий объект с заметными крестообразными дифракционными лучами. Эти лучи, как и пересвеченное свечение вокруг главной звезды, возникают из-за того, как телескоп и камера, использованные для получения этого изображения, распределяют свет Сириуса. Чуть ниже и левее главной звезды крошечная точка света обозначает Сириус B — гораздо более тусклый объект, запечатлённый благодаря высокой чувствительности «Хаббла».\r\n\r\nСириус A — звезда класса A, известная своей высокой температурой поверхности и интенсивным бело-голубым светом, а Сириус B — компактный белый карлик, плотный остаток звезды, исчерпавшей своё ядерное топливо. Вместе они образуют известную двойную звёздную систему, расположенную примерно в 8.6 светового года от Земли.\r\n\r\nСириус B изначально был более массивной и яркой звездой, которая израсходовала своё водородное топливо быстрее, чем Сириус A. Это привело к тому, что Сириус B превратился в красный гигант и в конечном итоге завершил свою жизнь как планетарная туманность, оставив лишь остатки своего ядра в виде белого карлика, обращающегося вокруг Сириуса A.",
+      "alt_en": "Sirius A, a bright star with x-shaped diffraction spikes. Sirius B is a faint dot to the lower left.",
+      "alt_ru": "Сириус A — яркая звезда с X-образными дифракционными лучами. Сириус B — тусклая точка слева внизу.",
+      "credit": "NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester)",
+      "credit_url": "https://esahubble.org/images/heic0516a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        1,
+        40,
+        304,
+        386
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:2149RS77wy92",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-an-a-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/2149RS77wy92/",
+      "original_path": "data/media/original/diagram_2149RS77wy92.png",
+      "ru_path": "data/media/ru/diagram_2149RS77wy92.png",
+      "sha256": "7d95353fffa858b323072bda45184dc0b406e85c50147094e184c6bc54f88167",
+      "size": 84675,
+      "title_en": "Spectrum of an A-type star",
+      "title_ru": "Спектр звезды класса A",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the A-type star BD-11 1212. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. Lines from hydrogen atoms dominate the spectra of A-type stars and are strongest at this spectral type.",
+      "caption_ru": "Спектр звезды класса A BD-11 1212. Цвет линии в диапазоне от 400 nm до 700 nm примерно соответствует цвету, который человеческий глаз воспринимал бы для света с такой длиной волны. Ниже 400 nm и выше 700 nm, где человеческий глаз почти не видит света или не видит его вовсе, линии окрашены соответственно в синий и красный цвет.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могли бы иметь спектры с совершенно разными наборами линий, если температуры их атмосфер различны. Линии атомов водорода доминируют в спектрах звёзд класса A и наиболее сильны у этого спектрального класса.",
+      "alt_en": "A smooth line peaking about 420 nm then declining at longer wavelengths with a few fairly broad dips.",
+      "alt_ru": "Плавная линия с пиком около 420 nm, затем спадающая на более длинных волнах, с несколькими довольно широкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        1,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "9389ac6c725b6c7b70fc55687354c4eaae3fb16395922f993614ef9d8a7dfecd"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

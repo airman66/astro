@@ -1,0 +1,292 @@
+{
+  "id": "term:134",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 134,
+    "url": "https://astro4edu.org/resources/glossary/term/134/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=134",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:54.892745+00:00",
+    "sha256": "e4dced4579067b8a523cc245d4792e9f906f31672defbc140a47a1470e203511"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      76,
+      119,
+      120,
+      348,
+      413
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Gravitational Lens",
+      "body": "Objects with mass can bend the path followed by light that passes nearby their gravitational influence. This effect, predicted by Einstein's theory of general relativity, was first observed during the solar eclipse of 1919 when the bending of starlight from several stars near the Sun was measured. Gravitational lensing is most apparent for very massive objects such as galaxies or galaxy clusters. If observers on Earth are looking at a distant object whose light is thus bent (by \"the lens\"), the object will appear distorted. This distortion always implies light (de)magnification, typically allowing us to better see otherwise faint background objects. When the lens has enough mass concentrated in a small angular area, multiple images of the same background object are produced, each having its light reaching the observer at different times. Measuring these so-called \"time delays\" is one of the best ways to determine the value of the Hubble Constant on extragalactic scales. Multiple images from a lens, on the other hand, allow us to precisely determine its mass (using modelling); this is a very useful method for finding the mass of galaxies and, especially, galaxy clusters.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Dark Matter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/76/",
+          "text_ru": "Тёмная материя"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Galaxy Cluster",
+          "url": "https://www.astro4edu.org/resources/glossary/term/120/",
+          "text_ru": "Скопление галактик"
+        },
+        {
+          "text": "Supermassive Black Hole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/348/",
+          "text_ru": "Сверхмассивная чёрная дыра"
+        },
+        {
+          "text": "Hubble Parameter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/413/",
+          "text_ru": "Параметр Хаббла"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Gravitational Lens</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Gravitational lensing</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Objects with mass can bend the path followed by light that passes nearby their gravitational influence. This effect, predicted by Einstein's theory of general relativity, was first observed during the solar eclipse of 1919 when the bending of starlight from several stars near the Sun was measured. Gravitational lensing is most apparent for very massive objects such as galaxies or galaxy clusters. If observers on Earth are looking at a distant object whose light is thus bent (by \"the lens\"), the object will appear distorted. This distortion always implies light (de)magnification, typically allowing us to better see otherwise faint background objects. When the lens has enough mass concentrated in a small angular area, multiple images of the same background object are produced, each having its light reaching the observer at different times. Measuring these so-called \"time delays\" is one of the best ways to determine the value of the Hubble Constant on extragalactic scales. Multiple images from a lens, on the other hand, allow us to precisely determine its mass (using modelling); this is a very useful method for finding the mass of galaxies and, especially, galaxy clusters.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/76/\">Dark Matter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/120/\">Galaxy Cluster</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/348/\">Supermassive Black Hole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/413/\">Hubble Parameter</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Гравитационная линза",
+      "body_ru": "Объекты с массой могут искривлять путь света, проходящего вблизи их гравитационного влияния. Этот эффект, предсказанный общей теорией относительности Эйнштейна, был впервые наблюдён во время солнечного затмения 1919 года, когда было измерено искривление звёздного света от нескольких звёзд вблизи Солнца. Гравитационное линзирование наиболее заметно для очень массивных объектов, таких как галактики или скопления галактик. Если наблюдатели на Земле смотрят на далёкий объект, свет которого таким образом искривлён («линзой»), объект будет выглядеть искажённым. Это искажение всегда подразумевает (де)увеличение света, обычно позволяя нам лучше видеть иначе слабые фоновые объекты. Когда линза имеет достаточно массы, сосредоточенной в малой угловой области, создаются множественные изображения одного и того же фонового объекта, причём свет каждого достигает наблюдателя в разное время. Измерение этих так называемых «временных задержек» — один из лучших способов определить значение постоянной Хаббла на внегалактических масштабах. Множественные изображения от линзы, с другой стороны, позволяют нам точно определить её массу (с помощью моделирования); это очень полезный метод для нахождения массы галактик и, особенно, скоплений галактик."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "重力レンズ (external link)",
+          "url": "https://astro-dic.jp/gravitational-lensing/",
+          "text_ru": "Гравитационная линза (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/134/\">عدسة الجاذبية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/134/\">Gravitationslinse </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/134/\">Lente gravitacional </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/134/\">Lentille gravitationnelle </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/134/\">गुरुत्वाकर्षण लेंस </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/134/\">Lente gravitazionale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/gravitational-lensing/\">重力レンズ (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/134/\">गुरुत्वीय भिंग (ग्रॅव्हिटेशनल लेन्सिंग) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/134/\">Lente gravitacional </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/134/\">引力透镜 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/134/\">引力透鏡 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Qi36hs25vp88/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2022/03/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zb49sa63nw14/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:HST-Smiling-GalaxyClusterSDSS-J1038%2B4849-20150210.jpg",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:Qi36hs25vp88",
+        "media:zb49sa63nw14"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Qi36hs25vp88/\"><img alt=\"On the outskirts of a cluster of galaxies is an arc of light. On this arc is a dot, an image of one of the first stars\" src=\"/media/multimedia/thumbnails/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A gravitational lens magnifies one of the first stars</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image zooms in on a star formed within the first billion years after the birth of the Universe (at a redshift of 6.2). The Hubble Space Telescope detected this light using a technique called gravitational lensing. A massive galaxy cluster between the observer and the imaged star creates a distorted and warped image of the parent galaxy and reveals its features.<br/>\n<b>Credit:</b> NASA, ESA, B. Welch (JHU), D. Coe (STScI), A. Pagan (STScI)\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Images/2022/03/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zb49sa63nw14/\"><img alt='Hubble image of the \"happy face\" galaxy cluster with bright galaxies forming eyes and arcs due to gravitational lensing.' src=\"/media/multimedia/thumbnails/the-happy-face-of-gravitational-lensing_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Happy Face of Gravitational Lensing</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Captured by the NASA/ESA Hubble Space Telescope, this image showcases the galaxy cluster SDSS J1038+4849, affectionately dubbed the \"happy face\" cluster due to its striking resemblance to a smiling face. The two bright galaxies at the center resemble orange eyes, while the arcs surrounding them form the illusion of a smile. These arcs are actually a result of strong gravitational lensing, a phenomenon where the cluster's immense gravitational pull distorts and magnifies light from background objects. This particular case of gravitational lensing has produced an Einstein Ring, a ring-like structure formed by the precise alignment of the source, lens, and observer. By studying these gravitational lenses, astronomers gain insights into the properties of massive galaxies, allowing for a deeper understanding of the early Universe.<br/>\n<b>Credit:</b> NASA/ESA\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:HST-Smiling-GalaxyClusterSDSS-J1038%2B4849-20150210.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy astroEDU educational activity (links to astroEDU website) Description: Let's investigate the nature of dark matter and energy with gravitational lensing! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment \n  \n  , Invisible Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence",
+      "links": [
+        {
+          "text": "",
+          "url": "https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/"
+        },
+        {
+          "text": "Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy",
+          "url": "https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/",
+          "text_ru": "Темная материя и темная энергия (Часть 2) – Понимание природы темной материи и темной энергии"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/\"><img alt=\"Dark matter &amp; dark energy (Part 2) – Understanding the nature of dark matter and dark energy\" src=\"/media/astroedu/images/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-a_XTqFLCa.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dark matter &amp; dark energy (Part 2) – Understanding the nature of dark matter and dark energy</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's investigate the nature of dark matter and energy with gravitational lensing!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Experiment \n  \n  , Invisible \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nConstructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Тёмная материя и тёмная энергия (Часть 2) – Понимание природы тёмной материи и тёмной энергии образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем природу тёмной материи и энергии с помощью гравитационного линзирования! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент \n  \n  , Невидимый Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальный \n  \n, Средняя школа Области обучения: Обучение через исследование \n  \n, Интерактивная лекция \n  \n, Моделирование \n  \n, Решение задач Затраты: Средняя стоимость Продолжительность: 45 мин Размер группы: Группа Навыки: Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Gravitational Lens",
+      "aliases": [
+        "Gravitational lensing"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Gravitational Lens",
+          "body": "Objects with mass can bend the path followed by light that passes nearby their gravitational influence. This effect, predicted by Einstein's theory of general relativity, was first observed during the solar eclipse of 1919 when the bending of starlight from several stars near the Sun was measured. Gravitational lensing is most apparent for very massive objects such as galaxies or galaxy clusters. If observers on Earth are looking at a distant object whose light is thus bent (by \"the lens\"), the object will appear distorted. This distortion always implies light (de)magnification, typically allowing us to better see otherwise faint background objects. When the lens has enough mass concentrated in a small angular area, multiple images of the same background object are produced, each having its light reaching the observer at different times. Measuring these so-called \"time delays\" is one of the best ways to determine the value of the Hubble Constant on extragalactic scales. Multiple images from a lens, on the other hand, allow us to precisely determine its mass (using modelling); this is a very useful method for finding the mass of galaxies and, especially, galaxy clusters."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy astroEDU educational activity (links to astroEDU website) Description: Let's investigate the nature of dark matter and energy with gravitational lensing! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment \n  \n  , Invisible Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence"
+        }
+      }
+    },
+    "ru": {
+      "title": "Гравитационная линза",
+      "aliases": [
+        "Гравитационное линзирование"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Гравитационная линза",
+          "body": "Объекты с массой могут искривлять путь света, проходящего вблизи их гравитационного влияния. Этот эффект, предсказанный общей теорией относительности Эйнштейна, был впервые наблюдён во время солнечного затмения 1919 года, когда было измерено искривление звёздного света от нескольких звёзд вблизи Солнца. Гравитационное линзирование наиболее заметно для очень массивных объектов, таких как галактики или скопления галактик. Если наблюдатели на Земле смотрят на далёкий объект, свет которого таким образом искривлён («линзой»), объект будет выглядеть искажённым. Это искажение всегда подразумевает (де)увеличение света, обычно позволяя нам лучше видеть иначе слабые фоновые объекты. Когда линза имеет достаточно массы, сосредоточенной в малой угловой области, создаются множественные изображения одного и того же фонового объекта, причём свет каждого достигает наблюдателя в разное время. Измерение этих так называемых «временных задержек» — один из лучших способов определить значение постоянной Хаббла на внегалактических масштабах. Множественные изображения от линзы, с другой стороны, позволяют нам точно определить её массу (с помощью моделирования); это очень полезный метод для нахождения массы галактик и, особенно, скоплений галактик."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Тёмная материя и тёмная энергия (Часть 2) – Понимание природы тёмной материи и тёмной энергии образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем природу тёмной материи и энергии с помощью гравитационного линзирования! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент \n  \n  , Невидимый Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальный \n  \n, Средняя школа Области обучения: Обучение через исследование \n  \n, Интерактивная лекция \n  \n, Моделирование \n  \n, Решение задач Затраты: Средняя стоимость Продолжительность: 45 мин Размер группы: Группа Навыки: Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Qi36hs25vp88",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Qi36hs25vp88/",
+      "original_path": "data/media/original/media_Qi36hs25vp88.jpg",
+      "ru_path": null,
+      "sha256": "03b15264e314089e6ca813eac337adae3fed38ff84d610f13b56a96ee70057c8",
+      "size": 6122740,
+      "title_en": "A gravitational lens magnifies one of the first stars",
+      "title_ru": "Гравитационная линза увеличивает одну из первых звёзд",
+      "short_caption_en": "A gravitational lens magnifies one of the first stars",
+      "short_caption_ru": "Гравитационная линза увеличивает одну из первых звёзд",
+      "caption_en": "This image zooms in on a star formed within the first billion years after the birth of the Universe (at a redshift of 6.2). The Hubble Space Telescope detected this light using a technique called gravitational lensing. A massive galaxy cluster between the observer and the imaged star creates a distorted and warped image of the parent galaxy and reveals its features.",
+      "caption_ru": "Это изображение приближает звезду, сформировавшуюся в течение первого миллиарда лет после рождения Вселенной (при красном смещении 6.2). Космический телескоп Хаббл обнаружил этот свет, используя технику, называемую гравитационным линзированием. Массивное скопление галактик между наблюдателем и изображённой звездой создаёт искажённое и искривлённое изображение родительской галактики и раскрывает её особенности.",
+      "alt_en": "On the outskirts of a cluster of galaxies is an arc of light. On this arc is a dot, an image of one of the first stars",
+      "alt_ru": "На окраине скопления галактик находится дуга света. На этой дуге есть точка — изображение одной из первых звёзд",
+      "credit": "NASA, ESA, B. Welch (JHU), D. Coe (STScI), A. Pagan (STScI)",
+      "credit_url": "https://www.esa.int/ESA_Multimedia/Images/2022/03/The_Sunrise_Arc_galaxy_with_lensed_tar_Earendel_annotated",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        134,
+        331
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zb49sa63nw14",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-happy-face-of-gravitational-lensing.png",
+      "record_url": "https://astro4edu.org/resources/media/zb49sa63nw14/",
+      "original_path": "data/media/original/media_zb49sa63nw14.png",
+      "ru_path": null,
+      "sha256": "87c5bc8710566384559f7efdb5d0bc6068450e15305c762d0165452754b38d64",
+      "size": 1532923,
+      "title_en": "The Happy Face of Gravitational Lensing",
+      "title_ru": "Счастливое лицо гравитационного линзирования",
+      "short_caption_en": "The Happy Face of Gravitational Lensing",
+      "short_caption_ru": "Счастливое лицо гравитационного линзирования",
+      "caption_en": "Captured by the NASA/ESA Hubble Space Telescope, this image showcases the galaxy cluster SDSS J1038+4849, affectionately dubbed the \"happy face\" cluster due to its striking resemblance to a smiling face. The two bright galaxies at the center resemble orange eyes, while the arcs surrounding them form the illusion of a smile. These arcs are actually a result of strong gravitational lensing, a phenomenon where the cluster's immense gravitational pull distorts and magnifies light from background objects. This particular case of gravitational lensing has produced an Einstein Ring, a ring-like structure formed by the precise alignment of the source, lens, and observer. By studying these gravitational lenses, astronomers gain insights into the properties of massive galaxies, allowing for a deeper understanding of the early Universe.",
+      "caption_ru": "Снятое космическим телескопом Хаббл NASA/ESA, это изображение демонстрирует скопление галактик SDSS J1038+4849, ласково прозванное скоплением «счастливое лицо» из-за его поразительного сходства с улыбающимся лицом. Две яркие галактики в центре напоминают оранжевые глаза, а дуги вокруг них создают иллюзию улыбки. Эти дуги на самом деле являются результатом сильного гравитационного линзирования — явления, при котором огромное гравитационное притяжение скопления искажает и увеличивает свет от фоновых объектов. Этот конкретный случай гравитационного линзирования породил кольцо Эйнштейна — кольцеобразную структуру, образованную точным выравниванием источника, линзы и наблюдателя. Изучая эти гравитационные линзы, астрономы получают представление о свойствах массивных галактик, что позволяет глубже понять раннюю Вселенную.",
+      "alt_en": "Hubble image of the \"happy face\" galaxy cluster with bright galaxies forming eyes and arcs due to gravitational lensing.",
+      "alt_ru": "Изображение Хаббла скопления галактик «счастливое лицо» с яркими галактиками, образующими глаза, и дугами из-за гравитационного линзирования.",
+      "credit": "NASA/ESA",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:HST-Smiling-GalaxyClusterSDSS-J1038%2B4849-20150210.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        134
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

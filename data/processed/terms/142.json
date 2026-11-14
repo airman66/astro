@@ -1,0 +1,125 @@
+{
+  "id": "term:142",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 142,
+    "url": "https://astro4edu.org/resources/glossary/term/142/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=142",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:58.069881+00:00",
+    "sha256": "c8df9b24ffb192f69489c135db41aa77c130475900a342d35127812b2f398cc6"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": 221,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Nuclear Fusion",
+      "body": "Nuclear fusion is the process where the atomic nuclei of lighter elements join together to form the nucleus of a heavier element. In the Universe, nuclear fusion plays two important roles. For one, it provides the energy supply for the radiation emitted by stars like our Sun. When sufficiently light nuclei fuse, the total rest mass of the resulting nucleus is slightly smaller than the combined rest masses of the initial nuclei. This \"mass deficit\" corresponds to the energy released by the fusion reaction, via Einstein's famous formula E=mc 2 , which links mass m, energy E, and the speed of light c. For example, in the core of the Sun, hydrogen nuclei fuse together to form helium and release energy in the form of radiation as well as neutrino particles. The second role of nuclear fusion is that it is responsible for producing elements in the Universe that are more complex than hydrogen and helium. After the Big Bang, only hydrogen, helium, and trace amounts of lithium nuclei existed in the Universe. Fusion reactions in the cores of stars, in the course of supernova explosions, and from explosions caused by colliding neutron stars, are the source of (essentially) all the remaining heavier chemical elements in the Universe. The chemical elements that make up the greatest part of the human body by mass, notably oxygen and carbon, were formed by nuclear fusion in the core of stars or during supernova explosions, prompting the expression \"we are star dust\".",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Hydrogen Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/150/",
+          "text_ru": "Водородный синтез"
+        },
+        {
+          "text": "Nuclear Fission",
+          "url": "https://www.astro4edu.org/resources/glossary/term/220/",
+          "text_ru": "Деление ядра"
+        },
+        {
+          "text": "Nucleus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/224/",
+          "text_ru": "Ядро"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Nuclear Fusion</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Thermonuclear fusion</b> or <b>fusion</b><br/>\n\n\n\t\t\n\t\t\n\t      Redirected from <b>Helium Fusion</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Nuclear fusion is the process where the atomic nuclei of lighter elements join together to form the nucleus of a heavier element. <br/><br/>In the Universe, nuclear fusion plays two important roles. For one, it provides the energy supply for the radiation emitted by stars like our Sun. When sufficiently light nuclei fuse, the total rest mass of the resulting nucleus is slightly smaller than the combined rest masses of the initial nuclei. This \"mass deficit\" corresponds to the energy released by the fusion reaction, via Einstein's famous formula E=mc<sup>2</sup>, which links mass m, energy E, and the speed of light c. For example, in the core of the Sun, hydrogen nuclei fuse together to form helium and release energy in the form of radiation as well as neutrino particles. <br/><br/>The second role of nuclear fusion is that it is responsible for producing elements in the Universe that are more complex than hydrogen and helium. After the Big Bang, only hydrogen, helium, and trace amounts of lithium nuclei existed in the Universe. Fusion reactions in the cores of stars, in the course of supernova explosions, and from explosions caused by colliding neutron stars, are the source of (essentially) all the remaining heavier chemical elements in the Universe. The chemical elements that make up the greatest part of the human body by mass, notably oxygen and carbon, were formed by nuclear fusion in the core of stars or during supernova explosions, prompting the expression \"we are star dust\".</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/150/\">Hydrogen Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/220/\">Nuclear Fission</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/224/\">Nucleus</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: термоядерный синтез",
+      "body_ru": "Термоядерный синтез — это процесс, в котором атомные ядра более лёгких элементов соединяются, образуя ядро более тяжёлого элемента. Во Вселенной термоядерный синтез играет две важные роли. Во-первых, он служит источником энергии для излучения, испускаемого такими звёздами, как наше Солнце. Когда достаточно лёгкие ядра сливаются, суммарная масса покоя образовавшегося ядра оказывается немного меньше суммы масс покоя исходных ядер. Этот «дефицит массы» соответствует энергии, выделяемой в реакции синтеза, согласно знаменитой формуле Эйнштейна E=mc 2, которая связывает массу m, энергию E и скорость света c. Например, в ядре Солнца ядра водорода сливаются, образуя гелий, и выделяют энергию в виде излучения, а также частиц нейтрино. Вторая роль термоядерного синтеза состоит в том, что он отвечает за образование во Вселенной элементов сложнее водорода и гелия. После Большого взрыва во Вселенной существовали только ядра водорода, гелия и следовые количества лития. Реакции синтеза в ядрах звёзд, в ходе взрывов сверхновых и при взрывах, вызванных столкновениями нейтронных звёзд, являются источником (по существу) всех остальных более тяжёлых химических элементов во Вселенной. Химические элементы, составляющие наибольшую часть массы человеческого тела, в частности кислород и углерод, образовались в результате термоядерного синтеза в ядрах звёзд или во время взрывов сверхновых, что породило выражение «мы — звёздная пыль»."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "核融合 (external link)",
+          "url": "https://astro-dic.jp/nuclear-fusion/",
+          "text_ru": "Ядерный синтез (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/221/\">الاندماج النووي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/221/\">Kernfusion </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/221/\">Fusión nuclear </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/221/\">Fusion nucléaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/221/\">Fusione nucleare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/nuclear-fusion/\">核融合 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/221/\">Fusão nuclear </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/221/\">核聚变 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/221/\">核聚變 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Helium Fusion",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Nuclear Fusion",
+          "body": "Nuclear fusion is the process where the atomic nuclei of lighter elements join together to form the nucleus of a heavier element. In the Universe, nuclear fusion plays two important roles. For one, it provides the energy supply for the radiation emitted by stars like our Sun. When sufficiently light nuclei fuse, the total rest mass of the resulting nucleus is slightly smaller than the combined rest masses of the initial nuclei. This \"mass deficit\" corresponds to the energy released by the fusion reaction, via Einstein's famous formula E=mc 2 , which links mass m, energy E, and the speed of light c. For example, in the core of the Sun, hydrogen nuclei fuse together to form helium and release energy in the form of radiation as well as neutrino particles. The second role of nuclear fusion is that it is responsible for producing elements in the Universe that are more complex than hydrogen and helium. After the Big Bang, only hydrogen, helium, and trace amounts of lithium nuclei existed in the Universe. Fusion reactions in the cores of stars, in the course of supernova explosions, and from explosions caused by colliding neutron stars, are the source of (essentially) all the remaining heavier chemical elements in the Universe. The chemical elements that make up the greatest part of the human body by mass, notably oxygen and carbon, were formed by nuclear fusion in the core of stars or during supernova explosions, prompting the expression \"we are star dust\"."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Синтез гелия",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: термоядерный синтез",
+          "body": "Термоядерный синтез — это процесс, в котором атомные ядра более лёгких элементов соединяются, образуя ядро более тяжёлого элемента. Во Вселенной термоядерный синтез играет две важные роли. Во-первых, он служит источником энергии для излучения, испускаемого такими звёздами, как наше Солнце. Когда достаточно лёгкие ядра сливаются, суммарная масса покоя образовавшегося ядра оказывается немного меньше суммы масс покоя исходных ядер. Этот «дефицит массы» соответствует энергии, выделяемой в реакции синтеза, согласно знаменитой формуле Эйнштейна E=mc 2, которая связывает массу m, энергию E и скорость света c. Например, в ядре Солнца ядра водорода сливаются, образуя гелий, и выделяют энергию в виде излучения, а также частиц нейтрино. Вторая роль термоядерного синтеза состоит в том, что он отвечает за образование во Вселенной элементов сложнее водорода и гелия. После Большого взрыва во Вселенной существовали только ядра водорода, гелия и следовые количества лития. Реакции синтеза в ядрах звёзд, в ходе взрывов сверхновых и при взрывах, вызванных столкновениями нейтронных звёзд, являются источником (по существу) всех остальных более тяжёлых химических элементов во Вселенной. Химические элементы, составляющие наибольшую часть массы человеческого тела, в частности кислород и углерод, образовались в результате термоядерного синтеза в ядрах звёзд или во время взрывов сверхновых, что породило выражение «мы — звёздная пыль»."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

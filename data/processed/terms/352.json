@@ -1,0 +1,384 @@
+{
+  "id": "term:352",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 352,
+    "url": "https://astro4edu.org/resources/glossary/term/352/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=352",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:01.325132+00:00",
+    "sha256": "bf33d5f1a43c875af1d4afd0c528943ff226fa7d362ed1af828960da6fdbb897"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      3
+    ],
+    "categories_ru": [
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      96,
+      157,
+      273,
+      279,
+      281,
+      284,
+      388,
+      451,
+      459
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Telescope",
+      "body": "A telescope is a device that collects photons (of visible light or other wavelengths) from distant objects and provides information (e.g. an image) about them to an observer. Early telescopes (from the beginning of the 17th century) used lenses as optical elements (see refracting telescope). Lenses are limited in how large they can be made, so in order to see fainter objects in greater detail with larger telescopes, mirrors (see reflecting telescope) were instead used to focus the light. The largest optical telescopes are reflecting telescopes. In the 20th century, telescopes for studying other regions of the electromagnetic spectrum were invented, so there now exist radio telescopes, infrared telescopes, X-ray telescopes, etc. Because celestial sources are faint, astronomers tend to build large aperture telescopes to collect more light and reach finer angular resolutions.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Electromagnetic Radiation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/96/",
+          "text_ru": "Электромагнитное излучение"
+        },
+        {
+          "text": "Infrared Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/157/",
+          "text_ru": "Инфракрасный телескоп"
+        },
+        {
+          "text": "Radio Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/273/",
+          "text_ru": "Радиотелескоп"
+        },
+        {
+          "text": "Reflecting Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/279/",
+          "text_ru": "Зеркальный телескоп"
+        },
+        {
+          "text": "Refracting Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/281/",
+          "text_ru": "Рефракторный телескоп"
+        },
+        {
+          "text": "Angular Resolution",
+          "url": "https://www.astro4edu.org/resources/glossary/term/284/",
+          "text_ru": "Угловое разрешение"
+        },
+        {
+          "text": "X-ray Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/388/",
+          "text_ru": "Рентгеновский телескоп"
+        },
+        {
+          "text": "Lens",
+          "url": "https://www.astro4edu.org/resources/glossary/term/451/",
+          "text_ru": "Линза"
+        },
+        {
+          "text": "Mirror",
+          "url": "https://www.astro4edu.org/resources/glossary/term/459/",
+          "text_ru": "Зеркало"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Telescope</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A telescope is a device that collects photons (of visible light or other wavelengths) from distant objects and provides information (e.g. an image) about them to an observer. Early telescopes (from the beginning of the 17th century) used lenses as optical elements (see refracting telescope). Lenses are limited in how large they can be made, so in order to see fainter objects in greater detail with larger telescopes, mirrors (see reflecting telescope) were instead used to focus the light. The largest optical telescopes are reflecting telescopes. In the 20th century, telescopes for studying other regions of the electromagnetic spectrum were invented, so there now exist radio telescopes, infrared telescopes, X-ray telescopes, etc. Because celestial sources are faint, astronomers tend to build large aperture telescopes to collect more light and reach finer angular resolutions.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/96/\">Electromagnetic Radiation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/157/\">Infrared Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/273/\">Radio Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/279/\">Reflecting Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/281/\">Refracting Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/284/\">Angular Resolution</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/388/\">X-ray Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/451/\">Lens</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/459/\">Mirror</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Телескоп",
+      "body_ru": "Телескоп — это устройство, которое собирает фотоны (видимого света или других длин волн) от далёких объектов и предоставляет наблюдателю информацию о них (например, изображение). Ранние телескопы (с начала 17 века) использовали линзы в качестве оптических элементов (см. рефрактор). Размер линз ограничен, поэтому, чтобы видеть более слабые объекты в больших подробностях с помощью больших телескопов, вместо них для фокусировки света использовались зеркала (см. рефлектор). Крупнейшие оптические телескопы являются рефлекторами. В 20 веке были изобретены телескопы для изучения других областей электромагнитного спектра, поэтому теперь существуют радиотелескопы, инфракрасные телескопы, рентгеновские телескопы и т. д. Поскольку небесные источники слабы, астрономы склонны строить телескопы с большой апертурой, чтобы собирать больше света и достигать более высокого углового разрешения."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "望遠鏡 (external link)",
+          "url": "https://astro-dic.jp/telescope/",
+          "text_ru": "Телескоп (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/352/\">تليسكوب </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/352/\">Teleskop </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/352/\">Telescopio </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/352/\">Télescope </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/352/\">दूरबीन (टेलिस्कोप) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/352/\">Telescopio </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/telescope/\">望遠鏡 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/352/\">दूरदर्शक दुर्बीण (टेलिस्कोप) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/352/\">Telescópio </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/352/\">望远镜 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/352/\">望遠鏡 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/sz73qI11nt9/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/qi97PS43UE8/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/6a73Ll0nJ36/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://images.nasa.gov/details/PIA13033",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:sz73qI11nt9",
+        "media:qi97PS43UE8",
+        "media:6a73Ll0nJ36"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/sz73qI11nt9/\"><img alt=\"Two astronomers view a lunar eclipse. Between them in the partly cloudy sky, a series of bright circles trace a curved path\" src=\"/media/multimedia/thumbnails/the-eclipse-between-us-by-muhammad-rayhan-indonesia_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Eclipse Between Us, by Muhammad Rayhan, Indonesia</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\n\nTotal lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope. Here we see the stages of the total lunar eclipse of 31.1.2018 photographed in Indonesia: starting with the entry of the full moon disk into Earth's round umbra, the totality as Blood Moon, and the beginning of the Moon's exit from Earth's umbra until moonset.<br/>\n<b>Credit:</b> Muhammad Rayhan/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/qi97PS43UE8/\"><img alt=\"A telescope points to the sky where the Milky Way sits with mottled dark and light patches.\" src=\"/media/multimedia/thumbnails/learning-nights_thumbnail_bCt8wNT.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Learning Nights</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nBeneath the sprawling expanse of the night sky over Colombia's Tatacoa Desert, a telescope finds its alignment with the majestic galactic core, while a smartphone captures this cosmic encounter. This snapshot, taken on 9 June 2023 during an astronomy camp, epitomises the accessible beauty of celestial marvels. It showcases the mesmerising grandeur of the night sky, inviting both the casual stargazer and the passionate astronomer alike. The splendour of the Milky Way, elegantly captured through a mobile device, seamlessly bridges the gap between sophisticated equipment and the pure, profound joy of observing the stars.<br/>\n<b>Credit:</b> Juan Pablo Botero Londoño/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/6a73Ll0nJ36/\"><img alt=\"The Hale Telescope mounted inside a large observatory dome, showing its massive optical tube and support structure.\" src=\"/media/multimedia/thumbnails/the-hale-telescope_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Hale Telescope</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the Hale Telescope at the Palomar Observatory in northern San Diego County, California, USA and operated by the California Institute of Technology (Caltech). With its 5.1 m primary mirror, the Hale Telescope was the largest effective optical telescope in the world from its first light in 1949 until 1993.\n\nHere we see the Hale Telescope when not in operation. The telescope itself is the large, vertical, approximately cylindrical object in the centre of the image. Telescopes like this use mirrors to gather faint light and form clear images of distant targets, enabling scientists to study everything from nearby stars and planets to remote galaxies. The primary mirror, seen here at the bottom of the telescope, focusses light from the sky to the prime focus at the top of the telescope. Instruments such as cameras and spectrographs can be placed at this prime focus or alternatively a secondary mirror can reflect light back down the telescope and through a hole in the primary mirror to instruments.\n\nThe telescope is supported by a large mount, seen here at an angle to the telescope. This particular mount is a type of equatorial mount. This means that one of the rotation axes of the mount points to the celestial poles. When a star or galaxy moves across the sky due to the Earth's rotation, the telescope only has rotate on this axis to keep pointing at that star or galaxy. Most modern large telescopes use a different kind of mount and rely on computer calculations to accurately track an object across the sky. \n\nThe Hale Telescope is housed under a large rotating dome that opens at night so the telescope can track objects across the sky.<br/>\n<b>Credit:</b> JPL/Caltech/Palomar Observatory\n\t  <a href=\"https://images.nasa.gov/details/PIA13033\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Big Telescopes: Gravity astroEDU educational activity (links to astroEDU website) Description: Observing what gravity is doing to the Universe License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling Costs: High Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations The 4-Point Backyard Diurnal Parallax Method astroEDU educational activity (links to astroEDU website) Description: Measure the distance to an asteroid with a novel technique License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Measurement \n  \n  , Distances \n  \n  , CCD imaging \n  \n  , astrometry Age Ranges: 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Secondary \n  \n, University Areas of Learning: Guided-discovery learning \n  \n, Project-based learning Costs: High Cost Duration: several days Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking How do telescopes work? astroEDU educational activity (links to astroEDU website) Description: Let's discover telescopes and experiment simple optics License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 Education Level: Primary Areas of Learning: Guided-discovery learning \n  \n, Historical focussed activity \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Telescope&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/big-telescopes-gravity/\"><img alt=\"Big Telescopes: Gravity\" src=\"/media/astroedu/images/big-telescopes-gravity_en_thumbnail_hJcp2mv.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/big-telescopes-gravity/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Telescopes: Gravity</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Observing what gravity is doing to the Universe\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Experiment \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nHigh Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/the-4-point-backyard-diurnal-parallax-method/\"><img alt=\"The 4-Point Backyard Diurnal Parallax Method\" src=\"/media/astroedu/images/the-4-point-backyard-diurnal-parallax-method_en_thumbnail_PzVDYjx.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/the-4-point-backyard-diurnal-parallax-method/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The 4-Point Backyard Diurnal Parallax Method</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Measure the distance to an asteroid with a novel technique\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Measurement \n  \n  , Distances \n  \n  , CCD imaging \n  \n  , astrometry \n  \n<b>Age Ranges:</b>\n\n16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Secondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Project-based learning \n  \n<b>Costs:</b>\nHigh Cost \n\n<b>Duration:</b>\nseveral days \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/how-do-telescopes-work/\"><img alt=\"How do telescopes work?\" src=\"/media/astroedu/images/how-do-telescopes-work_en_thumbnail_1NOFjzY.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/how-do-telescopes-work/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">How do telescopes work?</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's discover telescopes and experiment simple optics\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Historical focussed activity \n  \n, Observation based \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Telescope&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Большие телескопы: гравитация — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Наблюдение за тем, что гравитация делает с Вселенной Лицензия: CC-BY-4.0 значки Creative Commons Attribution 4.0 International (CC BY 4.0) Теги: Эксперимент Возрастные диапазоны: 12-14\n  \n, 14-16 Уровень образования: Средняя школа\n  \n, Старшая школа Области обучения: Обучение через направляемое открытие\n  \n, Интерактивная лекция\n  \n, Моделирование Затраты: Высокая стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных\n  \n, Постановка вопросов\n  \n, Разработка и использование моделей\n  \n, Планирование и проведение исследований Метод суточного параллакса на заднем дворе с 4 точками — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Измерение расстояния до астероида с помощью нового метода Лицензия: CC-BY-4.0 значки Creative Commons Attribution 4.0 International (CC BY 4.0) Теги: Практическое занятие\n  \n  , Измерение\n  \n  , Расстояния\n  \n  , ПЗС-визуализация\n  \n  , Астрометрия Возрастные диапазоны: 16-19\n  \n, 19+ Уровень образования: Неформальное\n  \n, Старшая школа\n  \n, Университет Области обучения: Обучение через направляемое открытие\n  \n, Проектное обучение Затраты: Высокая стоимость Продолжительность: несколько дней Размер группы: Группа Навыки: Анализ и интерпретация данных\n  \n, Постановка вопросов\n  \n, Передача информации\n  \n, Построение объяснений\n  \n, Планирование и проведение исследований\n  \n, Использование математики и вычислительного мышления Как работают телескопы? — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте откроем телескопы и поэкспериментируем с простой оптикой Лицензия: CC-BY-4.0 значки Creative Commons Attribution 4.0 International (CC BY 4.0) Возрастные диапазоны: 10-12 Уровень образования: Начальная школа Области обучения: Обучение через направляемое открытие\n  \n, Исторически ориентированная деятельность\n  \n, Наблюдательная деятельность Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Постановка вопросов Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Telescope",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Telescope",
+          "body": "A telescope is a device that collects photons (of visible light or other wavelengths) from distant objects and provides information (e.g. an image) about them to an observer. Early telescopes (from the beginning of the 17th century) used lenses as optical elements (see refracting telescope). Lenses are limited in how large they can be made, so in order to see fainter objects in greater detail with larger telescopes, mirrors (see reflecting telescope) were instead used to focus the light. The largest optical telescopes are reflecting telescopes. In the 20th century, telescopes for studying other regions of the electromagnetic spectrum were invented, so there now exist radio telescopes, infrared telescopes, X-ray telescopes, etc. Because celestial sources are faint, astronomers tend to build large aperture telescopes to collect more light and reach finer angular resolutions."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Big Telescopes: Gravity astroEDU educational activity (links to astroEDU website) Description: Observing what gravity is doing to the Universe License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Secondary Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling Costs: High Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Developing and using models \n  \n, Planning and carrying out investigations The 4-Point Backyard Diurnal Parallax Method astroEDU educational activity (links to astroEDU website) Description: Measure the distance to an asteroid with a novel technique License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Measurement \n  \n  , Distances \n  \n  , CCD imaging \n  \n  , astrometry Age Ranges: 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Secondary \n  \n, University Areas of Learning: Guided-discovery learning \n  \n, Project-based learning Costs: High Cost Duration: several days Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking How do telescopes work? astroEDU educational activity (links to astroEDU website) Description: Let's discover telescopes and experiment simple optics License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 Education Level: Primary Areas of Learning: Guided-discovery learning \n  \n, Historical focussed activity \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Телескоп",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Телескоп",
+          "body": "Телескоп — это устройство, которое собирает фотоны (видимого света или других длин волн) от далёких объектов и предоставляет наблюдателю информацию о них (например, изображение). Ранние телескопы (с начала 17 века) использовали линзы в качестве оптических элементов (см. рефрактор). Размер линз ограничен, поэтому, чтобы видеть более слабые объекты в больших подробностях с помощью больших телескопов, вместо них для фокусировки света использовались зеркала (см. рефлектор). Крупнейшие оптические телескопы являются рефлекторами. В 20 веке были изобретены телескопы для изучения других областей электромагнитного спектра, поэтому теперь существуют радиотелескопы, инфракрасные телескопы, рентгеновские телескопы и т. д. Поскольку небесные источники слабы, астрономы склонны строить телескопы с большой апертурой, чтобы собирать больше света и достигать более высокого углового разрешения."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Большие телескопы: гравитация — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Наблюдение за тем, что гравитация делает с Вселенной Лицензия: CC-BY-4.0 значки Creative Commons Attribution 4.0 International (CC BY 4.0) Теги: Эксперимент Возрастные диапазоны: 12-14\n  \n, 14-16 Уровень образования: Средняя школа\n  \n, Старшая школа Области обучения: Обучение через направляемое открытие\n  \n, Интерактивная лекция\n  \n, Моделирование Затраты: Высокая стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных\n  \n, Постановка вопросов\n  \n, Разработка и использование моделей\n  \n, Планирование и проведение исследований Метод суточного параллакса на заднем дворе с 4 точками — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Измерение расстояния до астероида с помощью нового метода Лицензия: CC-BY-4.0 значки Creative Commons Attribution 4.0 International (CC BY 4.0) Теги: Практическое занятие\n  \n  , Измерение\n  \n  , Расстояния\n  \n  , ПЗС-визуализация\n  \n  , Астрометрия Возрастные диапазоны: 16-19\n  \n, 19+ Уровень образования: Неформальное\n  \n, Старшая школа\n  \n, Университет Области обучения: Обучение через направляемое открытие\n  \n, Проектное обучение Затраты: Высокая стоимость Продолжительность: несколько дней Размер группы: Группа Навыки: Анализ и интерпретация данных\n  \n, Постановка вопросов\n  \n, Передача информации\n  \n, Построение объяснений\n  \n, Планирование и проведение исследований\n  \n, Использование математики и вычислительного мышления Как работают телескопы? — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте откроем телескопы и поэкспериментируем с простой оптикой Лицензия: CC-BY-4.0 значки Creative Commons Attribution 4.0 International (CC BY 4.0) Возрастные диапазоны: 10-12 Уровень образования: Начальная школа Области обучения: Обучение через направляемое открытие\n  \n, Исторически ориентированная деятельность\n  \n, Наблюдательная деятельность Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Постановка вопросов Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:sz73qI11nt9",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5419327/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Total%20lunar%20eclipse%3A%20The%20Eclipse%20Between%20Us%2C%20by%20Muhammad%20Rayhan%2C%20Indonesia.jpg",
+      "record_url": "https://astro4edu.org/resources/media/sz73qI11nt9/",
+      "original_path": "data/media/original/media_sz73qI11nt9.jpg",
+      "ru_path": null,
+      "sha256": "002418b536418528514068ba55f0030a5b968e99a9f69651cdcda91ab022641c",
+      "size": 12572686,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Total lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope.",
+      "short_caption_ru": "Полные лунные затмения относятся к довольно зрелищным небесным явлениям и легко наблюдаются как с телескопом, так и без него.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\r\n\r\nTotal lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope. Here we see the stages of the total lunar eclipse of 31.1.2018 photographed in Indonesia: starting with the entry of the full moon disk into Earth's round umbra, the totality as Blood Moon, and the beginning of the Moon's exit from Earth's umbra until moonset.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2021 года, категория Полное лунное затмение.\r\n\r\nПолные лунные затмения относятся к довольно зрелищным небесным явлениям и легко наблюдаются как с телескопом, так и без него. Здесь мы видим этапы полного лунного затмения 31.1.2018, сфотографированного в Индонезии: начиная с входа полного диска Луны в круглую тень Земли, полная фаза как Кровавая Луна, и начало выхода Луны из тени Земли до захода Луны.",
+      "alt_en": "Two astronomers view a lunar eclipse. Between them in the partly cloudy sky, a series of bright circles trace a curved path",
+      "alt_ru": "Два астронома наблюдают лунное затмение. Между ними в частично облачном небе серия ярких кругов очерчивает изогнутый путь",
+      "credit": "Muhammad Rayhan/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        24,
+        27,
+        91,
+        181,
+        226,
+        352,
+        364
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:qi97PS43UE8",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359731/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Learning%20Nights,%20by%20Juan%20Pablo%20Botero%20Londoño.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/qi97PS43UE8/",
+      "original_path": "data/media/original/media_qi97PS43UE8.jpg",
+      "ru_path": null,
+      "sha256": "dded56a7b1c03ca404929148ed18c68441504c214a5b33d30e72454a37421305",
+      "size": 5349171,
+      "title_en": "Learning Nights",
+      "title_ru": "Обучающие вечера",
+      "short_caption_en": "Learning Nights",
+      "short_caption_ru": "Обучающие вечера",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nBeneath the sprawling expanse of the night sky over Colombia's Tatacoa Desert, a telescope finds its alignment with the majestic galactic core, while a smartphone captures this cosmic encounter. This snapshot, taken on 9 June 2023 during an astronomy camp, epitomises the accessible beauty of celestial marvels. It showcases the mesmerising grandeur of the night sky, inviting both the casual stargazer and the passionate astronomer alike. The splendour of the Milky Way, elegantly captured through a mobile device, seamlessly bridges the gap between sophisticated equipment and the pure, profound joy of observing the stars.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория неподвижных изображений, сделанных исключительно смартфонами/мобильными устройствами.\r\n\r\nПод обширным простором ночного неба над колумбийской пустыней Татакоа телескоп находит своё выравнивание с величественным галактическим ядром, в то время как смартфон запечатлевает эту космическую встречу. Этот снимок, сделанный 9 июня 2023 года во время астрономического лагеря, олицетворяет доступную красоту небесных чудес. Он демонстрирует завораживающее величие ночного неба, приглашая как случайного наблюдателя звёзд, так и страстного астронома. Великолепие Млечного Пути, элегантно запечатлённое с помощью мобильного устройства, плавно преодолевает разрыв между сложным оборудованием и чистой, глубокой радостью наблюдения за звёздами.",
+      "alt_en": "A telescope points to the sky where the Milky Way sits with mottled dark and light patches.",
+      "alt_ru": "Телескоп направлен в небо, где находится Млечный Путь с пятнистыми тёмными и светлыми участками.",
+      "credit": "Juan Pablo Botero Londoño/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        27,
+        226,
+        279,
+        352
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:6a73Ll0nJ36",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-hale-telescope.png",
+      "record_url": "https://astro4edu.org/resources/media/6a73Ll0nJ36/",
+      "original_path": "data/media/original/media_6a73Ll0nJ36.png",
+      "ru_path": null,
+      "sha256": "66e9981723ec0d24cd06972373d1f537f4e93db18f51adf2a0ec0dd6eeee6e97",
+      "size": 12645023,
+      "title_en": "The Hale Telescope",
+      "title_ru": "Телескоп Хейла",
+      "short_caption_en": "The Hale Telescope",
+      "short_caption_ru": "Телескоп Хейла",
+      "caption_en": "This image shows the Hale Telescope at the Palomar Observatory in northern San Diego County, California, USA and operated by the California Institute of Technology (Caltech). With its 5.1 m primary mirror, the Hale Telescope was the largest effective optical telescope in the world from its first light in 1949 until 1993.\r\n\r\nHere we see the Hale Telescope when not in operation. The telescope itself is the large, vertical, approximately cylindrical object in the centre of the image. Telescopes like this use mirrors to gather faint light and form clear images of distant targets, enabling scientists to study everything from nearby stars and planets to remote galaxies. The primary mirror, seen here at the bottom of the telescope, focusses light from the sky to the prime focus at the top of the telescope. Instruments such as cameras and spectrographs can be placed at this prime focus or alternatively a secondary mirror can reflect light back down the telescope and through a hole in the primary mirror to instruments.\r\n\r\nThe telescope is supported by a large mount, seen here at an angle to the telescope. This particular mount is a type of equatorial mount. This means that one of the rotation axes of the mount points to the celestial poles. When a star or galaxy moves across the sky due to the Earth's rotation, the telescope only has rotate on this axis to keep pointing at that star or galaxy. Most modern large telescopes use a different kind of mount and rely on computer calculations to accurately track an object across the sky. \r\n\r\nThe Hale Telescope is housed under a large rotating dome that opens at night so the telescope can track objects across the sky.",
+      "caption_ru": "На этом изображении показан телескоп Хейла в обсерватории Паломар в северной части округа Сан-Диего, Калифорния, США, управляемый Калифорнийским технологическим институтом (Caltech). С его главным зеркалом 5,1 м телескоп Хейла был крупнейшим действующим оптическим телескопом в мире с момента первого света в 1949 до 1993.\r\n\r\nЗдесь мы видим телескоп Хейла, когда он не работает. Сам телескоп — это большой вертикальный, приблизительно цилиндрический объект в центре изображения. Подобные телескопы используют зеркала для сбора слабого света и формирования чётких изображений далёких целей, позволяя учёным изучать всё: от близких звёзд и планет до удалённых галактик. Главное зеркало, видимое здесь в нижней части телескопа, фокусирует свет с неба в главный фокус в верхней части телескопа. Инструменты, такие как камеры и спектрографы, могут быть размещены в этом главном фокусе, или, альтернативно, вторичное зеркало может отражать свет обратно вниз по телескопу и через отверстие в главном зеркале к инструментам.\r\n\r\nТелескоп поддерживается большой монтировкой, видимой здесь под углом к телескопу. Эта конкретная монтировка является типом экваториальной монтировки. Это означает, что одна из осей вращения монтировки направлена на небесные полюса. Когда звезда или галактика движется по небу из-за вращения Земли, телескопу нужно вращаться только вокруг этой оси, чтобы продолжать указывать на эту звезду или галактику. Большинство современных больших телескопов используют другой тип монтировки и полагаются на компьютерные расчёты для точного отслеживания объекта по небу.\r\n\r\nТелескоп Хейла размещён под большим вращающимся куполом, который открывается ночью, чтобы телескоп мог отслеживать объекты по небу.",
+      "alt_en": "The Hale Telescope mounted inside a large observatory dome, showing its massive optical tube and support structure.",
+      "alt_ru": "Телескоп Хейла, установленный внутри большого купола обсерватории, показывающий его массивную оптическую трубу и поддерживающую конструкцию.",
+      "credit": "JPL/Caltech/Palomar Observatory",
+      "credit_url": "https://images.nasa.gov/details/PIA13033",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        279,
+        352
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

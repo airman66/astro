@@ -1,0 +1,264 @@
+{
+  "id": "term:131",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 131,
+    "url": "https://astro4edu.org/resources/glossary/term/131/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=131",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:53.800708+00:00",
+    "sha256": "87947d18c502083834debaf37af12aa177b38d0fff8a1c5fac1ff6b0e174edad"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society"
+    ],
+    "category_ids": [
+      11
+    ],
+    "categories_ru": [
+      "Астрономия и общество"
+    ],
+    "related_term_numbers": [
+      137
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Global Warming",
+      "body": "Global warming is a warming of a planet's atmosphere by greenhouse gases, such as water molecules, carbon dioxide, methane, etc. This is caused by an increase in the greenhouse effect where more infrared radiation is trapped by the atmosphere, thus increasing the global mean temperature of a planet. The sources of greenhouse gases can be natural or (on Earth) additionally caused by human industrial activity. Global warming on Earth will have significant very long-term effects on the planet, including short- and medium-term changes in local weather patterns, habitat destruction, and sea level rise.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Greenhouse Effect",
+          "url": "https://www.astro4edu.org/resources/glossary/term/137/",
+          "text_ru": "Парниковый эффект"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Global Warming</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>climate change</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Global warming is a warming of a planet's atmosphere by greenhouse gases, such as water molecules, carbon dioxide, methane, etc. This is caused by an increase in the greenhouse effect where more infrared radiation is trapped by the atmosphere, thus increasing the global mean temperature of a planet. The sources of greenhouse gases can be natural or (on Earth) additionally caused by human industrial activity. Global warming on Earth will have significant very long-term effects on the planet, including short- and medium-term changes in local weather patterns, habitat destruction, and sea level rise.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/137/\">Greenhouse Effect</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Глобальное потепление",
+      "body_ru": "Глобальное потепление — это потепление атмосферы планеты парниковыми газами, такими как молекулы воды, углекислый газ, метан и т. д. Это вызвано усилением парникового эффекта, при котором атмосфера удерживает больше инфракрасного излучения, что повышает среднюю глобальную температуру планеты. Источники парниковых газов могут быть естественными или (на Земле) дополнительно вызванными промышленной деятельностью человека. Глобальное потепление на Земле будет иметь значительные очень долгосрочные последствия для планеты, включая краткосрочные и среднесрочные изменения местных погодных условий, разрушение местообитаний и повышение уровня моря."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "地球温暖化 (external link)",
+          "url": "https://astro-dic.jp/global-warming/",
+          "text_ru": "Глобальное потепление (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/131/\">الإحتباس الحرارى </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/131/\">Globale Erwärmung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/131/\">Calentamiento global </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/131/\">Réchauffement climatique </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/131/\">Riscaldamento globale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/global-warming/\">地球温暖化 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/131/\">전지구온난화 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/131/\">Aquecimento global </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/131/\">全球气候变暖 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/131/\">全球氣候變暖 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/ZY935z21c855/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://data.giss.nasa.gov/gistemp/maps/index_v4.html",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:ZY935z21c855"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/ZY935z21c855/\"><img alt=\"A map showing increasing temperatures across almost the whole world with the most warming in the Arctic\" src=\"/media/multimedia/thumbnails/global-temperature-trends-past-50-years_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Global Temperature Trends: Past 50 Years</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This map visualizes the changes in surface air temperature across the globe over the past half-century. Through meticulous analysis of annual averages, the map highlights the most significant trends in temperature change, particularly emphasizing shifts in northern latitudes and over land masses.<br/>\n<b>Credit:</b> NASA’s Scientific Visualization Studio, Key and Title by Eric Fisk\n\t  <a href=\"https://data.giss.nasa.gov/gistemp/maps/index_v4.html\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Continental Climate and Oceanic Climate astroEDU educational activity (links to astroEDU website) Description: Find out why, in the summer it is cooler by the sea than on the land! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate change \n  \n  , Climate \n  \n  , Ocean Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations The Intertropical Convergence Zone astroEDU educational activity (links to astroEDU website) Description: The air circulation system: how are winds created? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations The Climate in Numbers and Graphs astroEDU educational activity (links to astroEDU website) Description: Learn about climate from data and graphs License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate \n  \n  , Average \n  \n  , Climate zone \n  \n  , Weather Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking Oceans As A Heat Reservoir astroEDU educational activity (links to astroEDU website) Description: Why do oceans play an important role in mitigating global warming? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Climate change \n  \n  , Oceans \n  \n  , heat Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations The Big Meltdown astroEDU educational activity (links to astroEDU website) Description: Learn what would happen on Earth if all the ice melted! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Climate change \n  \n  , Remote sensing \n  \n  , Oceans \n  \n  , Water \n  \n  , Antarctic \n  \n  , Arctic \n  \n  , Ice \n  \n  , Archimedes Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/continental-climate-and-oceanic-climate/\"><img alt=\"Continental Climate and Oceanic Climate\" src=\"/media/astroedu/images/continental-climate-and-oceanic-climate_en_thumbnail_OIYI9yU.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/continental-climate-and-oceanic-climate/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Continental Climate and Oceanic Climate</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Find out why, in the summer it is cooler by the sea than on the land!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Climate change \n  \n  , Climate \n  \n  , Ocean \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/the-intertropical-convergence-zone/\"><img alt=\"The Intertropical Convergence Zone\" src=\"/media/astroedu/images/the-intertropical-convergence-zone_en_thumbnail_F3mBMlE.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/the-intertropical-convergence-zone/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Intertropical Convergence Zone</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>The air circulation system: how are winds created?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/the-climate-in-numbers-and-graphs/\"><img alt=\"The Climate in Numbers and Graphs\" src=\"/media/astroedu/images/the-climate-in-numbers-and-graphs_en_thumbnail_7XdWmi0.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/the-climate-in-numbers-and-graphs/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Climate in Numbers and Graphs</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn about climate from data and graphs\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Climate \n  \n  , Average \n  \n  , Climate zone \n  \n  , Weather \n  \n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nSecondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/oceans-as-a-heat-reservoir/\"><img alt=\"Oceans As A Heat Reservoir\" src=\"/media/astroedu/images/oceans-as-a-heat-reservoir_en_thumbnail_5k0X6rd.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/oceans-as-a-heat-reservoir/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Oceans As A Heat Reservoir</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Why do oceans play an important role in mitigating global warming?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Climate change \n  \n  , Oceans \n  \n  , heat \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/the-big-meltdown/\"><img alt=\"The Big Meltdown\" src=\"/media/astroedu/images/the-big-meltdown_en_thumbnail_2zydE0c.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/the-big-meltdown/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Big Meltdown</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn what would happen on Earth if all the ice melted!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Climate change \n  \n  , Remote sensing \n  \n  , Oceans \n  \n  , Water \n  \n  , Antarctic \n  \n  , Arctic \n  \n  , Ice \n  \n  , Archimedes \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Континентальный климат и океанический климат — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте, почему летом у моря прохладнее, чем на суше! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Изменение климата, Климат, Океан. Возрастные диапазоны: 6-8, 8-10. Уровень образования: Начальная школа. Области обучения: Моделирование, Структурированное исследовательское обучение, Традиционный научный эксперимент. Стоимость: Средняя стоимость. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Построение объяснений, Участие в аргументации на основе доказательств, Планирование и проведение исследований. Межтропическая зона конвергенции — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Система циркуляции воздуха: как возникают ветры? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Климат, Восходящий поток, Конвекция, Ветры. Возрастные диапазоны: 12-14, 14-16. Уровень образования: Средняя школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение. Стоимость: Средняя стоимость. Продолжительность: 1 час. Размер группы: Группа. Навыки: Передача информации, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Планирование и проведение исследований. Климат в числах и графиках — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте о климате из данных и графиков. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Климат, Среднее значение, Климатическая зона, Погода. Возрастные диапазоны: 14-16, 16-19. Уровень образования: Старшая школа. Области обучения: Структурированное исследовательское обучение. Стоимость: Низкая стоимость. Продолжительность: 2 часов. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Использование математики и вычислительного мышления. Океаны как тепловой резервуар — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Почему океаны играют важную роль в смягчении глобального потепления? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Жизнь, Изменение климата, Океаны, тепло. Возрастные диапазоны: 12-14, 14-16, 16-19. Уровень образования: Средняя школа. Области обучения: Моделирование, Структурированное исследовательское обучение, Традиционный научный эксперимент. Стоимость: Средняя стоимость. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Планирование и проведение исследований. Великое таяние — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте, что произошло бы на Земле, если бы весь лёд растаял! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Жизнь, Изменение климата, Дистанционное зондирование, Океаны, Вода, Антарктика, Арктика, Лёд, Архимед. Возрастные диапазоны: 8-10, 10-12, 12-14. Уровень образования: Средняя школа, Начальная школа, Старшая школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение, Традиционный научный эксперимент. Стоимость: Средняя стоимость. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Планирование и проведение исследований"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Global Warming",
+      "aliases": [
+        "climate change"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Global Warming",
+          "body": "Global warming is a warming of a planet's atmosphere by greenhouse gases, such as water molecules, carbon dioxide, methane, etc. This is caused by an increase in the greenhouse effect where more infrared radiation is trapped by the atmosphere, thus increasing the global mean temperature of a planet. The sources of greenhouse gases can be natural or (on Earth) additionally caused by human industrial activity. Global warming on Earth will have significant very long-term effects on the planet, including short- and medium-term changes in local weather patterns, habitat destruction, and sea level rise."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Continental Climate and Oceanic Climate astroEDU educational activity (links to astroEDU website) Description: Find out why, in the summer it is cooler by the sea than on the land! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate change \n  \n  , Climate \n  \n  , Ocean Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations The Intertropical Convergence Zone astroEDU educational activity (links to astroEDU website) Description: The air circulation system: how are winds created? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations The Climate in Numbers and Graphs astroEDU educational activity (links to astroEDU website) Description: Learn about climate from data and graphs License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate \n  \n  , Average \n  \n  , Climate zone \n  \n  , Weather Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Using mathematics and computational thinking Oceans As A Heat Reservoir astroEDU educational activity (links to astroEDU website) Description: Why do oceans play an important role in mitigating global warming? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Climate change \n  \n  , Oceans \n  \n  , heat Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations The Big Meltdown astroEDU educational activity (links to astroEDU website) Description: Learn what would happen on Earth if all the ice melted! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Climate change \n  \n  , Remote sensing \n  \n  , Oceans \n  \n  , Water \n  \n  , Antarctic \n  \n  , Arctic \n  \n  , Ice \n  \n  , Archimedes Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations"
+        }
+      }
+    },
+    "ru": {
+      "title": "Глобальное потепление",
+      "aliases": [
+        "изменение климата"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Глобальное потепление",
+          "body": "Глобальное потепление — это потепление атмосферы планеты парниковыми газами, такими как молекулы воды, углекислый газ, метан и т. д. Это вызвано усилением парникового эффекта, при котором атмосфера удерживает больше инфракрасного излучения, что повышает среднюю глобальную температуру планеты. Источники парниковых газов могут быть естественными или (на Земле) дополнительно вызванными промышленной деятельностью человека. Глобальное потепление на Земле будет иметь значительные очень долгосрочные последствия для планеты, включая краткосрочные и среднесрочные изменения местных погодных условий, разрушение местообитаний и повышение уровня моря."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Континентальный климат и океанический климат — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте, почему летом у моря прохладнее, чем на суше! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Изменение климата, Климат, Океан. Возрастные диапазоны: 6-8, 8-10. Уровень образования: Начальная школа. Области обучения: Моделирование, Структурированное исследовательское обучение, Традиционный научный эксперимент. Стоимость: Средняя стоимость. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Построение объяснений, Участие в аргументации на основе доказательств, Планирование и проведение исследований. Межтропическая зона конвергенции — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Система циркуляции воздуха: как возникают ветры? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Климат, Восходящий поток, Конвекция, Ветры. Возрастные диапазоны: 12-14, 14-16. Уровень образования: Средняя школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение. Стоимость: Средняя стоимость. Продолжительность: 1 час. Размер группы: Группа. Навыки: Передача информации, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Планирование и проведение исследований. Климат в числах и графиках — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте о климате из данных и графиков. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Климат, Среднее значение, Климатическая зона, Погода. Возрастные диапазоны: 14-16, 16-19. Уровень образования: Старшая школа. Области обучения: Структурированное исследовательское обучение. Стоимость: Низкая стоимость. Продолжительность: 2 часов. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Использование математики и вычислительного мышления. Океаны как тепловой резервуар — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Почему океаны играют важную роль в смягчении глобального потепления? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Жизнь, Изменение климата, Океаны, тепло. Возрастные диапазоны: 12-14, 14-16, 16-19. Уровень образования: Средняя школа. Области обучения: Моделирование, Структурированное исследовательское обучение, Традиционный научный эксперимент. Стоимость: Средняя стоимость. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Планирование и проведение исследований. Великое таяние — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте, что произошло бы на Земле, если бы весь лёд растаял! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Жизнь, Изменение климата, Дистанционное зондирование, Океаны, Вода, Антарктика, Арктика, Лёд, Архимед. Возрастные диапазоны: 8-10, 10-12, 12-14. Уровень образования: Средняя школа, Начальная школа, Старшая школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение, Традиционный научный эксперимент. Стоимость: Средняя стоимость. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Планирование и проведение исследований"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:ZY935z21c855",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/global-temperature-trends-past-50-years.jpg",
+      "record_url": "https://astro4edu.org/resources/media/ZY935z21c855/",
+      "original_path": "data/media/original/media_ZY935z21c855.jpg",
+      "ru_path": "data/media/ru/media_ZY935z21c855.png",
+      "sha256": "3f503f8d73befd370f178a11ad93770e9909c1ca41ae8ec160b52892d693ef6f",
+      "size": 108483,
+      "title_en": "Global Temperature Trends: Past 50 Years",
+      "title_ru": "Тенденции глобальной температуры: последние 50 лет",
+      "short_caption_en": "Global Temperature Trends: Past 50 Years",
+      "short_caption_ru": "Тенденции глобальной температуры: последние 50 лет",
+      "caption_en": "This map visualizes the changes in surface air temperature across the globe over the past half-century. Through meticulous analysis of annual averages, the map highlights the most significant trends in temperature change, particularly emphasizing shifts in northern latitudes and over land masses.",
+      "caption_ru": "Эта карта визуализирует изменения приземной температуры воздуха по всему земному шару за последние полвека. Благодаря тщательному анализу среднегодовых значений карта выделяет наиболее значимые тенденции изменения температуры, особенно подчёркивая сдвиги в северных широтах и над массивами суши.",
+      "alt_en": "A map showing increasing temperatures across almost the whole world with the most warming in the Arctic",
+      "alt_ru": "Карта, показывающая повышение температуры почти по всему миру с наибольшим потеплением в Арктике",
+      "credit": "NASA’s Scientific Visualization Studio, Key and Title by Eric Fisk",
+      "credit_url": "https://data.giss.nasa.gov/gistemp/maps/index_v4.html",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        131
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "1be54cb7aa96c7e9246fe1e335ca12cd3e62a2f1f9ea9c7df077703107bf26b5"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

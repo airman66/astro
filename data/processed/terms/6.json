@@ -1,0 +1,201 @@
+{
+  "id": "term:6",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 6,
+    "url": "https://astro4edu.org/resources/glossary/term/6/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=6",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:06.817181+00:00",
+    "sha256": "9e056cdd3d1688610135c093e731cdccbc11b7ecdbefda07eb8b85ca71598b64"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Space Exploration"
+    ],
+    "category_ids": [
+      10
+    ],
+    "categories_ru": [
+      "Исследование космоса"
+    ],
+    "related_term_numbers": [
+      36,
+      145,
+      390,
+      460
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Altitude",
+      "body": "Altitude has two meanings: it denotes either a specific angle in a certain type of coordinate system (\"the altitude of a star\") or a vertical distance relative to a given reference level (\"5000 m above sea level\"). In astronomy (and surveying), altitude is an angle in so-called horizontal coordinate systems. That angle measures how high an object is above the horizon  – if you point your finger at the object, and then move that finger straight down to the horizon, the direction of your arm will have changed by the angle that is the altitude. Altitude is measured either in degrees or in radians. An object on the horizon would have an altitude of 0°,  and an object that is directly overhead, \"at the zenith,\" would have an altitude of 90°. Negative altitude values are assigned to objects that are currently below the horizon – there, the altitude angle measures how far the object is below the horizon. An object that is straight below your feet, \"at the nadir,\" would have an altitude of –90°. In other contexts, such as aviation or atmospheric physics, the altitude is a measure of how high a place is above some given reference level. On Earth, altitude is often defined as the height above mean sea level. With this meaning, altitude is measured in a unit of length, such as meters.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Azimuth",
+          "url": "https://www.astro4edu.org/resources/glossary/term/36/",
+          "text_ru": "Азимут"
+        },
+        {
+          "text": "Horizon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/145/",
+          "text_ru": "Горизонт"
+        },
+        {
+          "text": "Zenith",
+          "url": "https://www.astro4edu.org/resources/glossary/term/390/",
+          "text_ru": "Зенит"
+        },
+        {
+          "text": "Nadir",
+          "url": "https://www.astro4edu.org/resources/glossary/term/460/",
+          "text_ru": "Надир"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Altitude</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Altitude has two meanings: it denotes either a specific angle in a certain type of coordinate system (\"the altitude of a star\") or a vertical distance relative to a given reference level (\"5000 m above sea level\").<br/><br/>In astronomy (and surveying), altitude is an angle in so-called horizontal coordinate systems. That angle measures how high an object is above the horizon  – if you point your finger at the object, and then move that finger straight down to the horizon, the direction of your arm will have changed by the angle that is the altitude. Altitude is measured either in degrees or in radians. An object on the horizon would have an altitude of 0°,  and an object that is directly overhead, \"at the zenith,\" would have an altitude of 90°. Negative altitude values are assigned to objects that are currently below the horizon – there, the altitude angle measures how far the object is below the horizon. An object that is straight below your feet, \"at the nadir,\" would have an altitude of –90°. <br/><br/>In other contexts, such as aviation or atmospheric physics, the altitude is a measure of how high a place is above some given reference level. On Earth, altitude is often defined as the height above mean sea level. With this meaning, altitude is measured in a unit of length, such as meters.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/36/\">Azimuth</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/145/\">Horizon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/390/\">Zenith</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/460/\">Nadir</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Высота",
+      "body_ru": "Высота имеет два значения: она обозначает либо определённый угол в некотором типе системы координат («высота звезды»), либо вертикальное расстояние относительно заданного опорного уровня («5000 м над уровнем моря»). В астрономии (и геодезии) высота — это угол в так называемых горизонтальных системах координат. Этот угол измеряет, насколько высоко объект находится над горизонтом — если вы укажете пальцем на объект, а затем переместите этот палец прямо вниз к горизонту, направление вашей руки изменится на угол, который и является высотой. Высота измеряется либо в градусах, либо в радианах. Объект на горизонте имел бы высоту 0°, а объект, находящийся прямо над головой, «в зените», имел бы высоту 90°. Отрицательные значения высоты присваиваются объектам, которые в данный момент находятся ниже горизонта — там угол высоты измеряет, насколько объект находится ниже горизонта. Объект, находящийся прямо под вашими ногами, «в надире», имел бы высоту –90°. В других контекстах, таких как авиация или физика атмосферы, высота — это мера того, насколько высоко место находится над некоторым заданным опорным уровнем. На Земле высота часто определяется как высота над средним уровнем моря. В этом значении высота измеряется в единицах длины, таких как метры."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/6/\">الارتفاع </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/6/\">উচ্চতা </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/6/\">Höhe </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/6/\">Altitud </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/6/\">ارتفاع </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/6/\">Altitude </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/6/\">ऊंचाई </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/6/\">Altitudine </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/6/\">고도 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/6/\">उंची </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/6/\">Altitude </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/6/\">高度角 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/6/\">高度角 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/4g46V657yk21/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:4g46V657yk21"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/4g46V657yk21/\"><img alt=\"Two diagrams, on the right the sky forms a dome over the observer. On the left we see this dome on the Earth's surface\" src=\"/media/diagrams/multimedia/thumbnails/altitude_azimuth_en_thumbnail_OjFSaio.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Horizontal Coordinate System</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the horizontal coordinate system of an observer on Earth. On the right we see the coordinate system in the local context of the observer. The observer appears here as a point surrounded by the celestial sphere. The ground appears as a plane, while the Earth is round, we can approximate the ground in the area around the observer as a plane. The line where this plane intersects with the celestial sphere is the horizon. The point directly above the observer is the zenith, the point directly below the observer is the nadir which is hidden by the ground. \n\nTwo coordinates define this coordinate system, altitude and azimuth, hence the reason this sometimes called an alt-az coordinate system. The altitude is zero at the horizon, maximum (90°) at the zenith and minimum (-90°) at the nadir. Azimuth is the angle around the horizon. Most commonly this is defined to be zero in the direction of north. Any point on the celestial sphere can be defined by these two coordinates. However what objects appear on these position will depend on the time and the location of the observer.\n\nOn the left-hand part of the diagram, we can see that when we put the observer and their local horizontal coordinate system in a global context, that the parts of the sky the observer can see depend on their position on the Earth and on the rotation of the Earth. The zenith points perpendicular to the Earth's surface so the position on the sky the zenith and nadir correspond to is dependent on the observer's latitude. The horizon also depends on the observer's position on the Earth.<br/>\n<b>Credit:</b> Maria Cristina Fortuna/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Altitude",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Altitude",
+          "body": "Altitude has two meanings: it denotes either a specific angle in a certain type of coordinate system (\"the altitude of a star\") or a vertical distance relative to a given reference level (\"5000 m above sea level\"). In astronomy (and surveying), altitude is an angle in so-called horizontal coordinate systems. That angle measures how high an object is above the horizon  – if you point your finger at the object, and then move that finger straight down to the horizon, the direction of your arm will have changed by the angle that is the altitude. Altitude is measured either in degrees or in radians. An object on the horizon would have an altitude of 0°,  and an object that is directly overhead, \"at the zenith,\" would have an altitude of 90°. Negative altitude values are assigned to objects that are currently below the horizon – there, the altitude angle measures how far the object is below the horizon. An object that is straight below your feet, \"at the nadir,\" would have an altitude of –90°. In other contexts, such as aviation or atmospheric physics, the altitude is a measure of how high a place is above some given reference level. On Earth, altitude is often defined as the height above mean sea level. With this meaning, altitude is measured in a unit of length, such as meters."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Высота",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Высота",
+          "body": "Высота имеет два значения: она обозначает либо определённый угол в некотором типе системы координат («высота звезды»), либо вертикальное расстояние относительно заданного опорного уровня («5000 м над уровнем моря»). В астрономии (и геодезии) высота — это угол в так называемых горизонтальных системах координат. Этот угол измеряет, насколько высоко объект находится над горизонтом — если вы укажете пальцем на объект, а затем переместите этот палец прямо вниз к горизонту, направление вашей руки изменится на угол, который и является высотой. Высота измеряется либо в градусах, либо в радианах. Объект на горизонте имел бы высоту 0°, а объект, находящийся прямо над головой, «в зените», имел бы высоту 90°. Отрицательные значения высоты присваиваются объектам, которые в данный момент находятся ниже горизонта — там угол высоты измеряет, насколько объект находится ниже горизонта. Объект, находящийся прямо под вашими ногами, «в надире», имел бы высоту –90°. В других контекстах, таких как авиация или физика атмосферы, высота — это мера того, насколько высоко место находится над некоторым заданным опорным уровнем. На Земле высота часто определяется как высота над средним уровнем моря. В этом значении высота измеряется в единицах длины, таких как метры."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:4g46V657yk21",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/altitude_azimuth_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/4g46V657yk21/",
+      "original_path": "data/media/original/diagram_4g46V657yk21.png",
+      "ru_path": "data/media/ru/diagram_4g46V657yk21.png",
+      "sha256": "dc5fc7cf1ff84a7b6559db4d40f7fe49cfd0040664d57f5c184932e90257a2f1",
+      "size": 1756707,
+      "title_en": "Horizontal Coordinate System",
+      "title_ru": "Горизонтальная система координат",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This image shows the horizontal coordinate system of an observer on Earth. On the right we see the coordinate system in the local context of the observer. The observer appears here as a point surrounded by the celestial sphere. The ground appears as a plane, while the Earth is round, we can approximate the ground in the area around the observer as a plane. The line where this plane intersects with the celestial sphere is the horizon. The point directly above the observer is the zenith, the point directly below the observer is the nadir which is hidden by the ground. \r\n\r\nTwo coordinates define this coordinate system, altitude and azimuth, hence the reason this sometimes called an alt-az coordinate system. The altitude is zero at the horizon, maximum (90°) at the zenith and minimum (-90°) at the nadir. Azimuth is the angle around the horizon. Most commonly this is defined to be zero in the direction of north. Any point on the celestial sphere can be defined by these two coordinates. However what objects appear on these position will depend on the time and the location of the observer.\r\n\r\nOn the left-hand part of the diagram, we can see that when we put the observer and their local horizontal coordinate system in a global context, that the parts of the sky the observer can see depend on their position on the Earth and on the rotation of the Earth. The zenith points perpendicular to the Earth's surface so the position on the sky the zenith and nadir correspond to is dependent on the observer's latitude. The horizon also depends on the observer's position on the Earth.",
+      "caption_ru": "Это изображение показывает горизонтальную систему координат наблюдателя на Земле. Справа мы видим систему координат в локальном контексте наблюдателя. Наблюдатель здесь представлен точкой, окружённой небесной сферой. Земля представляется плоскостью, хотя Земля круглая, мы можем аппроксимировать землю в области вокруг наблюдателя как плоскость. Линия, где эта плоскость пересекается с небесной сферой, — это горизонт. Точка прямо над наблюдателем — это зенит, точка прямо под наблюдателем — это надир, который скрыт землёй. \r\n\r\nДве координаты определяют эту систему координат: высота и азимут, отсюда причина, по которой её иногда называют альт-азимутальной системой координат. Высота равна нулю на горизонте, максимальна (90°) в зените и минимальна (-90°) в надире. Азимут — это угол вокруг горизонта. Чаще всего он определяется как ноль в направлении севера. Любая точка на небесной сфере может быть определена этими двумя координатами. Однако то, какие объекты появятся в этих положениях, будет зависеть от времени и местоположения наблюдателя.\r\n\r\nВ левой части диаграммы мы видим, что когда мы помещаем наблюдателя и его локальную горизонтальную систему координат в глобальный контекст, части неба, которые наблюдатель может видеть, зависят от его положения на Земле и от вращения Земли. Зенит направлен перпендикулярно поверхности Земли, поэтому положение на небе, которому соответствуют зенит и надир, зависит от широты наблюдателя. Горизонт также зависит от положения наблюдателя на Земле.",
+      "alt_en": "Two diagrams, on the right the sky forms a dome over the observer. On the left we see this dome on the Earth's surface",
+      "alt_ru": "Две диаграммы: справа небо образует купол над наблюдателем. Слева мы видим этот купол на поверхности Земли",
+      "credit": "Maria Cristina Fortuna/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        6,
+        36,
+        145,
+        390,
+        460
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "19548ac8771df4fcc06c5269c3d5e4085b58dc05d48755ebf5c069227538a484"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

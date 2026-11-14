@@ -1,0 +1,432 @@
+{
+  "id": "term:102",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 102,
+    "url": "https://astro4edu.org/resources/glossary/term/102/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=102",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:40.503668+00:00",
+    "sha256": "5d49b02edb061ff853267778c61a334bd0bc704b39c99e2a95026c485abe061d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      35,
+      171,
+      179,
+      424,
+      436,
+      439,
+      462,
+      483,
+      496,
+      497
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Equator",
+      "body": "The equator is an imaginary line running around Earth, equidistant from the North and South Poles and perpendicular to the Earth's rotation axis. The equator marks the line on the Earth's surface furthest from the rotation axis. At the poles the rotation axis intersects with the surface. In the latitude and longitude coordinate system on the Earth's surface, the equator is defined as having zero degrees latitude. The equator divides the Earth into a northern and a southern hemisphere. Places in the northern hemisphere have positive latitude; places in the southern hemisphere have negative latitude.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Axis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/35/",
+          "text_ru": "Ось"
+        },
+        {
+          "text": "Latitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/171/",
+          "text_ru": "Широта"
+        },
+        {
+          "text": "Longitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/179/",
+          "text_ru": "Долгота"
+        },
+        {
+          "text": "Polar Circle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/424/",
+          "text_ru": "Полярный круг"
+        },
+        {
+          "text": "Day",
+          "url": "https://www.astro4edu.org/resources/glossary/term/436/",
+          "text_ru": "День"
+        },
+        {
+          "text": "Earth's Axis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/439/",
+          "text_ru": "Ось Земли"
+        },
+        {
+          "text": "Night",
+          "url": "https://www.astro4edu.org/resources/glossary/term/462/",
+          "text_ru": "Ночь"
+        },
+        {
+          "text": "Tropic",
+          "url": "https://www.astro4edu.org/resources/glossary/term/483/",
+          "text_ru": "Тропик"
+        },
+        {
+          "text": "North Pole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/496/",
+          "text_ru": "Северный полюс"
+        },
+        {
+          "text": "South Pole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/497/",
+          "text_ru": "Южный полюс"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Equator</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The equator is an imaginary line running around Earth, equidistant from the North and South Poles and perpendicular to the Earth's rotation axis. The equator marks the line on the Earth's surface furthest from the rotation axis. At the poles the rotation axis intersects with the surface. In the latitude and longitude coordinate system on the Earth's surface, the equator is defined as having zero degrees latitude. The equator divides the Earth into a northern and a southern hemisphere. Places in the northern hemisphere have positive latitude; places in the southern hemisphere have negative latitude.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/35/\">Axis</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/171/\">Latitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/179/\">Longitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/424/\">Polar Circle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/436/\">Day</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/439/\">Earth's Axis</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/462/\">Night</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/483/\">Tropic</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/496/\">North Pole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/497/\">South Pole</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Экватор",
+      "body_ru": "Экватор — это воображаемая линия, опоясывающая Землю, равноудалённая от Северного и Южного полюсов и перпендикулярная оси вращения Земли. Экватор отмечает линию на поверхности Земли, наиболее удалённую от оси вращения. На полюсах ось вращения пересекается с поверхностью. В системе координат широты и долготы на поверхности Земли экватор определяется как имеющий нулевую широту. Экватор делит Землю на северное и южное полушария. Места в северном полушарии имеют положительную широту; места в южном полушарии имеют отрицательную широту."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/102/\">خط الاستواء </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/102/\">Äquator </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/102/\">Ecuador </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/102/\">Équateur </a></span></li>\n<li><b>Hungarian: </b><span dir=\"LTR\" lang=\"hu\"><a class=\"link-bold\" href=\"/hu/resources/glossary/term/102/\">Egyenlítő </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/102/\">Equatore </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/102/\">적도 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/102/\">Equador </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/102/\">赤道 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/102/\">赤道 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/6H75mH49Qh62/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:Primemeridian_nolabels.jpg",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:6H75mH49Qh62"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/6H75mH49Qh62/\"><img alt=\"A map with the red prime meridian line running through London &amp; crossing the darker horizontal equator in the Gulf of Guinea.\" src=\"/media/multimedia/thumbnails/the-prime-meridian_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Prime Meridian</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The prime meridian is defined as zero degrees longitude and runs from the North Pole through Greenwich in London to the South Pole. It is represented as a bright red line on this schematic Earth map. The horizontal line corresponds to the equator, while the antimeridian itself forms the outer edges at 180 degrees to the west and east.<br/>\n<b>Credit:</b> Wikicommons user Kmf164\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:Primemeridian_nolabels.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Qf59LF190B19/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/pK42J863un19/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:Qf59LF190B19",
+        "diagram:pK42J863un19"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Qf59LF190B19/\"><img alt=\"Two views of the Earth with important lines of latitude and longitude marked\" src=\"/media/diagrams/multimedia/thumbnails/latitude_longitude_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Latitude and Longitude</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Two views of the Earth, one viewing the Northern Hemisphere, one viewing the Southern Hemisphere. The Earth rotates around its axis, an imaginary line that runs through the Earth from the North Pole to the South Pole. The Equator is an imaginary line that is the same distant from both the North Pole and the South Pole.\n\nThe positions of two cities, Rome in the Northern Hemisphere and Sydney in the Southern Hemisphere are marked here with red dots. Arrows indicate the two spherical coordinates latitude and longitude. \n\nLatitude marks the position north or south of the equator. Here we can see Rome has the letter N in its latitude as it is in the Northern Hemisphere and Sydney has the letter S in its latitude as it is in the Southern Hemisphere. Latitude can vary from 90° N at the North Pole to 0° at the Equator to 90° S at the South Pole.\n\nLongitude measures the position around the equator. While the choice of the zero point for latitude as the equator seems obvious, the choice of the zero point for longitude is more subjective. By convention the zero point in longitude is the prime meridian which passes through the Royal Greenwich Observatory in the UK. This is marked here as a solid line originating at the North Pole. Longitude is measured in degrees east or west of the prime meridian. As both Rome and Sydney lie to the east of Greenwich, they have the letter E as part of their longitude. Moving west to east, longitude varies from 180° W on the other side of the world from the prime meridian to 0° on the prime meridian before reaching 180° E again on the other side of world from the prime meridian.\n\nThis diagram shows the Earth at the December solstice. Two views are presented, one viewing the Northern Hemisphere and one viewing the Southern Hemisphere about nine hours later. The shaded region shows the night side of the Earth, with the day side being lighter. As it is the December solstice, the Sun appears overhead at the Tropic of Capricorn. This is a line of constant latitude at 23°26′09.3″ S. Six months later, at the June solstice, the Sun will appear to be overhead at the Tropic of Cancer at 23°26′09.3″ N. As the Sun appears over the Tropic of Capricorn more of the Southern Hemisphere is illuminated than the Northern Hemisphere. Indeed below the Antarctic Circle (the Polar Circle around the South Pole) the Sun does not set at this time of year leading to a Polar Day. Conversely, north of the Arctic Circle (the Polar Circle around the North Pole) the Sun does not rise at this time of year, leading to a Polar Night.<br/>\n<b>Credit:</b> Maria Cristina Fortuna/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/pK42J863un19/\"><img alt=\"Parallel horizontal rays of light from the Sun hit the Earth at various angles\" src=\"/media/diagrams/multimedia/thumbnails/seasons_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Seasons</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the Earth at the June solstice which is known as the summer solstice in the Northern Hemisphere and the winter solstice in the Southern Hemisphere. The Earth’s axis of rotation is tilted from the axis of the Earth’s orbit around the Sun by 23.4°. Here we see light from the sun represented as parallel lines, in the diagram the Sun would lie far off the right-hand edge. Five lines are marked with angles. These lines hit the Earth at special latitudes. From top to bottom these lines hit the Earth at the North Pole, the Tropic of Cancer, the Equator, the Tropic of Capricorn and the Antarctic Circle. The lines are shown hitting the Earth at the longitude where it is currently noon. For the last four lines, the angles marked show the angle above the horizon (the altitude) which the Sun appears in the sky at at local noon. \n\nAt the June solstice, the Sun will appear directly overhead at local noon on every point on the Tropic of Capricorn. By contrast the Sun reaches a maximum altitude of 0° at local noon on every point in the Antarctic Circle. This means the Sun never rises and every point south of the Antarctic Circle experiences a long Polar Night. By contrast the Sun never sets on this day north of the Arctic Circle and the regions here experience a Polar Day.  The at the North Pole the Sun will remain at a constant altitude all day. This altitude will be the angle 180°-156.6° (23.4°).\n\nThe altitude the Sun appears at is important as it defines how spread out the Sun’s rays are on the Earth’s surface. Look at the thick, faint parallel lines in the background. Notice how at the Tropic of Cancer the area the lines intersect with the Earth’s surface perpendicularly and the line only covers a small part of the Earth’s surface. Now look at a line near the Tropic of Capricorn and see that this intersects with the Earth at a grazing angle and the line is spread out, covering a much wider area of the Earth’s surface. This means that a given amount of light from the Sun that hits the Tropic of Cancer is more concentrated and the same amount of light hitting the Tropic of Capricorn would be more spread out. This leads to more energy per unit area from the Sun hitting the Tropic of Cancer and less energy per unit area hitting the Tropic of Capricorn. This means it will be warmer at the Tropic of Cancer than at the Tropic of Capricorn. It is thus summer at the Tropic of Cancer and winter at the Tropic of Capricorn. \n\nSix months later this situation will be reversed and it will be summer at the Tropic of Capricorn and winter at the Tropic of Cancer.<br/>\n<b>Credit:</b> Maria Cristina Fortuna/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Seasons Around the World astroEDU educational activity (links to astroEDU website) Description: Demonstrate the seasons on Earth using a model. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations The Intertropical Convergence Zone astroEDU educational activity (links to astroEDU website) Description: The air circulation system: how are winds created? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations The Quest for Longitude astroEDU educational activity (links to astroEDU website) Description: How to navigate at sea like an explorer? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Clocks \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , James Cook \n  \n  , Exploration Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking Navigating with the Kamal – Northern Hemisphere astroEDU educational activity (links to astroEDU website) Description: How did Arabian sailors navigate at sea? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Discover Earth's climate with a balloon astroEDU educational activity (links to astroEDU website) Description: Discover the secrets of Earth's climate zones with a hands-on experience License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Fun activity \n  \n, Guided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 45 mins Group Size: Group Skills: Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Equator&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/seasons-around-the-world/\"><img alt=\"Seasons Around the World\" src=\"/media/astroedu/images/seasons-around-the-world_en_thumbnail_M4Usg8C.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/seasons-around-the-world/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Seasons Around the World</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Demonstrate the seasons on Earth using a model.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/the-intertropical-convergence-zone/\"><img alt=\"The Intertropical Convergence Zone\" src=\"/media/astroedu/images/the-intertropical-convergence-zone_en_thumbnail_F3mBMlE.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/the-intertropical-convergence-zone/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Intertropical Convergence Zone</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>The air circulation system: how are winds created?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/the-quest-for-longitude/\"><img alt=\"The Quest for Longitude\" src=\"/media/astroedu/images/the-quest-for-longitude_en_thumbnail_x6A5dYj.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/the-quest-for-longitude/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Quest for Longitude</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>How to navigate at sea like an explorer?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Clocks \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , James Cook \n  \n  , Exploration \n  \n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/navigating-with-the-kamal-northern-hemisphere/\"><img alt=\"Navigating with the Kamal – Northern Hemisphere\" src=\"/media/astroedu/images/navigating-with-the-kamal-northern-hemisphere_en_thumbnail_eg4aiiQ.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/navigating-with-the-kamal-northern-hemisphere/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Navigating with the Kamal – Northern Hemisphere</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>How did Arabian sailors navigate at sea?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal \n  \n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/discover-earths-climate-with-a-balloon/\"><img alt=\"Discover Earth's climate with a balloon\" src=\"/media/astroedu/images/discover-earths-climate-with-a-balloon_en_thumbnail_0EXUsz0.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/discover-earths-climate-with-a-balloon/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Discover Earth's climate with a balloon</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Discover the secrets of Earth's climate zones with a hands-on experience\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nFun activity \n  \n, Guided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Equator&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Времена года по всему миру — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Продемонстрируйте времена года на Земле с помощью модели. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Практическое занятие, Модель. Возрастные диапазоны: 6-8, 8-10, 10-12. Уровень образования: Средняя школа, Начальная школа. Области обучения: Моделирование, Структурированное исследовательское обучение. Затраты: Средние. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Построение объяснений, Разработка и использование моделей, Планирование и проведение исследований. Внутритропическая зона конвергенции — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Система циркуляции воздуха: как создаются ветры? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Климат, Восходящий поток, Конвекция, Ветры. Возрастные диапазоны: 12-14, 14-16. Уровень образования: Средняя школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение. Затраты: Средние. Продолжительность: 1 час. Размер группы: Группа. Навыки: Передача информации, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Планирование и проведение исследований. В поисках долготы — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Как ориентироваться в море, как исследователь? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Часы, География, Координаты, Небесная навигация, Джеймс Кук, Исследование. Возрастные диапазоны: 14-16, 16-19. Уровень образования: Средняя школа, Старшая школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 2 часа. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Разработка и использование моделей, Планирование и проведение исследований, Использование математики и вычислительного мышления. Навигация с помощью камаля – Северное полушарие — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Как арабские моряки ориентировались в море? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: История, География, Координаты, Небесная навигация, Аравия, Камаль. Возрастные диапазоны: 14-16, 16-19. Уровень образования: Средняя школа, Старшая школа. Области обучения: Моделирование, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Разработка и использование моделей, Планирование и проведение исследований. Откройте климат Земли с помощью воздушного шара — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Откройте секреты климатических зон Земли с помощью практического опыта. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Возрастные диапазоны: 8-10, 10-12. Уровень образования: Средняя школа, Начальная школа. Области обучения: Развлекательное занятие, Обучение через направляемое открытие, Моделирование, Наблюдение, Проектное обучение, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Постановка вопросов, Построение объяснений, Разработка и использование моделей. Просмотреть все мероприятия по этой теме"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Equator",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Equator",
+          "body": "The equator is an imaginary line running around Earth, equidistant from the North and South Poles and perpendicular to the Earth's rotation axis. The equator marks the line on the Earth's surface furthest from the rotation axis. At the poles the rotation axis intersects with the surface. In the latitude and longitude coordinate system on the Earth's surface, the equator is defined as having zero degrees latitude. The equator divides the Earth into a northern and a southern hemisphere. Places in the northern hemisphere have positive latitude; places in the southern hemisphere have negative latitude."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Seasons Around the World astroEDU educational activity (links to astroEDU website) Description: Demonstrate the seasons on Earth using a model. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations The Intertropical Convergence Zone astroEDU educational activity (links to astroEDU website) Description: The air circulation system: how are winds created? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations The Quest for Longitude astroEDU educational activity (links to astroEDU website) Description: How to navigate at sea like an explorer? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Clocks \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , James Cook \n  \n  , Exploration Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking Navigating with the Kamal – Northern Hemisphere astroEDU educational activity (links to astroEDU website) Description: How did Arabian sailors navigate at sea? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Discover Earth's climate with a balloon astroEDU educational activity (links to astroEDU website) Description: Discover the secrets of Earth's climate zones with a hands-on experience License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Fun activity \n  \n, Guided-discovery learning \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 45 mins Group Size: Group Skills: Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Экватор",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Экватор",
+          "body": "Экватор — это воображаемая линия, опоясывающая Землю, равноудалённая от Северного и Южного полюсов и перпендикулярная оси вращения Земли. Экватор отмечает линию на поверхности Земли, наиболее удалённую от оси вращения. На полюсах ось вращения пересекается с поверхностью. В системе координат широты и долготы на поверхности Земли экватор определяется как имеющий нулевую широту. Экватор делит Землю на северное и южное полушария. Места в северном полушарии имеют положительную широту; места в южном полушарии имеют отрицательную широту."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Времена года по всему миру — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Продемонстрируйте времена года на Земле с помощью модели. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Практическое занятие, Модель. Возрастные диапазоны: 6-8, 8-10, 10-12. Уровень образования: Средняя школа, Начальная школа. Области обучения: Моделирование, Структурированное исследовательское обучение. Затраты: Средние. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Построение объяснений, Разработка и использование моделей, Планирование и проведение исследований. Внутритропическая зона конвергенции — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Система циркуляции воздуха: как создаются ветры? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Климат, Восходящий поток, Конвекция, Ветры. Возрастные диапазоны: 12-14, 14-16. Уровень образования: Средняя школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение. Затраты: Средние. Продолжительность: 1 час. Размер группы: Группа. Навыки: Передача информации, Построение объяснений, Разработка и использование моделей, Участие в аргументации на основе доказательств, Планирование и проведение исследований. В поисках долготы — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Как ориентироваться в море, как исследователь? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Часы, География, Координаты, Небесная навигация, Джеймс Кук, Исследование. Возрастные диапазоны: 14-16, 16-19. Уровень образования: Средняя школа, Старшая школа. Области обучения: Дискуссионные группы, Моделирование, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 2 часа. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Разработка и использование моделей, Планирование и проведение исследований, Использование математики и вычислительного мышления. Навигация с помощью камаля – Северное полушарие — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Как арабские моряки ориентировались в море? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: История, География, Координаты, Небесная навигация, Аравия, Камаль. Возрастные диапазоны: 14-16, 16-19. Уровень образования: Средняя школа, Старшая школа. Области обучения: Моделирование, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Разработка и использование моделей, Планирование и проведение исследований. Откройте климат Земли с помощью воздушного шара — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Откройте секреты климатических зон Земли с помощью практического опыта. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Возрастные диапазоны: 8-10, 10-12. Уровень образования: Средняя школа, Начальная школа. Области обучения: Развлекательное занятие, Обучение через направляемое открытие, Моделирование, Наблюдение, Проектное обучение, Структурированное исследовательское обучение. Затраты: Низкие. Продолжительность: 45 мин. Размер группы: Группа. Навыки: Постановка вопросов, Построение объяснений, Разработка и использование моделей. Просмотреть все мероприятия по этой теме"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:6H75mH49Qh62",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-prime-meridian.png",
+      "record_url": "https://astro4edu.org/resources/media/6H75mH49Qh62/",
+      "original_path": "data/media/original/media_6H75mH49Qh62.png",
+      "ru_path": null,
+      "sha256": "2dd9c44174af97dd6ceeebac2001ee12973545a2944ad928034ec0006c87c042",
+      "size": 563808,
+      "title_en": "The Prime Meridian",
+      "title_ru": "Нулевой меридиан",
+      "short_caption_en": "The Prime Meridian",
+      "short_caption_ru": "Нулевой меридиан",
+      "caption_en": "The prime meridian is defined as zero degrees longitude and runs from the North Pole through Greenwich in London to the South Pole. It is represented as a bright red line on this schematic Earth map. The horizontal line corresponds to the equator, while the antimeridian itself forms the outer edges at 180 degrees to the west and east.",
+      "caption_ru": "Нулевой меридиан определяется как нулевая долгота и проходит от Северного полюса через Гринвич в Лондоне до Южного полюса. На этой схематичной карте Земли он изображён ярко-красной линией. Горизонтальная линия соответствует экватору, а сам антимеридиан образует внешние края на 180 градусах к западу и востоку.",
+      "alt_en": "A map with the red prime meridian line running through London & crossing the darker horizontal equator in the Gulf of Guinea.",
+      "alt_ru": "Карта с красной линией нулевого меридиана, проходящей через Лондон и пересекающей более тёмный горизонтальный экватор в Гвинейском заливе.",
+      "credit": "Wikicommons user Kmf164",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Primemeridian_nolabels.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        102,
+        421
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:Qf59LF190B19",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/latitude_longitude_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Qf59LF190B19/",
+      "original_path": "data/media/original/diagram_Qf59LF190B19.png",
+      "ru_path": null,
+      "sha256": "2a98adcfea05d7f840611dd32ccb7c9dd60bba28bf57d9fc45e44bd347669beb",
+      "size": 434218,
+      "title_en": "Latitude and Longitude",
+      "title_ru": "Широта и долгота",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "Two views of the Earth, one viewing the Northern Hemisphere, one viewing the Southern Hemisphere. The Earth rotates around its axis, an imaginary line that runs through the Earth from the North Pole to the South Pole. The Equator is an imaginary line that is the same distant from both the North Pole and the South Pole.\r\n\r\nThe positions of two cities, Rome in the Northern Hemisphere and Sydney in the Southern Hemisphere are marked here with red dots. Arrows indicate the two spherical coordinates latitude and longitude. \r\n\r\nLatitude marks the position north or south of the equator. Here we can see Rome has the letter N in its latitude as it is in the Northern Hemisphere and Sydney has the letter S in its latitude as it is in the Southern Hemisphere. Latitude can vary from 90° N at the North Pole to 0° at the Equator to 90° S at the South Pole.\r\n\r\nLongitude measures the position around the equator. While the choice of the zero point for latitude as the equator seems obvious, the choice of the zero point for longitude is more subjective. By convention the zero point in longitude is the prime meridian which passes through the Royal Greenwich Observatory in the UK. This is marked here as a solid line originating at the North Pole. Longitude is measured in degrees east or west of the prime meridian. As both Rome and Sydney lie to the east of Greenwich, they have the letter E as part of their longitude. Moving west to east, longitude varies from 180° W on the other side of the world from the prime meridian to 0° on the prime meridian before reaching 180° E again on the other side of world from the prime meridian.\r\n\r\nThis diagram shows the Earth at the December solstice. Two views are presented, one viewing the Northern Hemisphere and one viewing the Southern Hemisphere about nine hours later. The shaded region shows the night side of the Earth, with the day side being lighter. As it is the December solstice, the Sun appears overhead at the Tropic of Capricorn. This is a line of constant latitude at 23°26′09.3″ S. Six months later, at the June solstice, the Sun will appear to be overhead at the Tropic of Cancer at 23°26′09.3″ N. As the Sun appears over the Tropic of Capricorn more of the Southern Hemisphere is illuminated than the Northern Hemisphere. Indeed below the Antarctic Circle (the Polar Circle around the South Pole) the Sun does not set at this time of year leading to a Polar Day. Conversely, north of the Arctic Circle (the Polar Circle around the North Pole) the Sun does not rise at this time of year, leading to a Polar Night.",
+      "caption_ru": "Два вида Земли: один — Северного полушария, другой — Южного полушария. Земля вращается вокруг своей оси — воображаемой линии, проходящей через Землю от Северного полюса до Южного полюса. Экватор — это воображаемая линия, одинаково удалённая от Северного и Южного полюсов.\r\n\r\nПоложения двух городов — Рима в Северном полушарии и Сиднея в Южном полушарии — отмечены здесь красными точками. Стрелки указывают на две сферические координаты: широту и долготу.\r\n\r\nШирота отмечает положение к северу или югу от экватора. Здесь мы видим, что в широте Рима есть буква N, так как он находится в Северном полушарии, а в широте Сиднея есть буква S, так как он находится в Южном полушарии. Широта может изменяться от 90° N на Северном полюсе до 0° на экваторе и до 90° S на Южном полюсе.\r\n\r\nДолгота измеряет положение вдоль экватора. Хотя выбор нулевой точки для широты — экватора — кажется очевидным, выбор нулевой точки для долготы более субъективен. По соглашению нулевой точкой долготы является нулевой меридиан, проходящий через Королевскую Гринвичскую обсерваторию в Великобритании. Здесь он отмечен сплошной линией, исходящей от Северного полюса. Долгота измеряется в градусах к востоку или западу от нулевого меридиана. Поскольку и Рим, и Сидней находятся к востоку от Гринвича, в их долготе есть буква E. При движении с запада на восток долгота изменяется от 180° W на противоположной стороне мира от нулевого меридиана до 0° на нулевом меридиане, а затем снова достигает 180° E на противоположной стороне мира от нулевого меридиана.\r\n\r\nЭта диаграмма показывает Землю в день декабрьского солнцестояния. Представлены два вида: один — Северного полушария, другой — Южного полушария примерно девятью часами позже. Заштрихованная область показывает ночную сторону Земли, а дневная сторона светлее. Поскольку это декабрьское солнцестояние, Солнце находится в зените над тропиком Козерога. Это линия постоянной широты на 23°26′09.3″ S. Через шесть месяцев, в день июньского солнцестояния, Солнце будет находиться в зените над тропиком Рака на 23°26′09.3″ N. Поскольку Солнце находится над тропиком Козерога, Южное полушарие освещено больше, чем Северное. Действительно, ниже Южного полярного круга (полярного круга вокруг Южного полюса) Солнце в это время года не заходит, что приводит к полярному дню. И наоборот, к северу от Северного полярного круга (полярного круга вокруг Северного полюса) Солнце в это время года не восходит, что приводит к полярной ночи.",
+      "alt_en": "Two views of the Earth with important lines of latitude and longitude marked",
+      "alt_ru": "Два вида Земли с отмеченными важными линиями широты и долготы",
+      "credit": "Maria Cristina Fortuna/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        90,
+        102,
+        171,
+        179,
+        424,
+        439,
+        483,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:pK42J863un19",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/seasons.png",
+      "record_url": "https://astro4edu.org/resources/diagram/pK42J863un19/",
+      "original_path": "data/media/original/diagram_pK42J863un19.png",
+      "ru_path": "data/media/ru/diagram_pK42J863un19.png",
+      "sha256": "6dff5c81a5030f9c153090e9143454609e1ed5b297c90389056b255755a3d79c",
+      "size": 1087463,
+      "title_en": "Seasons",
+      "title_ru": "Времена года",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the Earth at the June solstice which is known as the summer solstice in the Northern Hemisphere and the winter solstice in the Southern Hemisphere. The Earth’s axis of rotation is tilted from the axis of the Earth’s orbit around the Sun by 23.4°. Here we see light from the sun represented as parallel lines, in the diagram the Sun would lie far off the right-hand edge. Five lines are marked with angles. These lines hit the Earth at special latitudes. From top to bottom these lines hit the Earth at the North Pole, the Tropic of Cancer, the Equator, the Tropic of Capricorn and the Antarctic Circle. The lines are shown hitting the Earth at the longitude where it is currently noon. For the last four lines, the angles marked show the angle above the horizon (the altitude) which the Sun appears in the sky at at local noon. \r\n\r\nAt the June solstice, the Sun will appear directly overhead at local noon on every point on the Tropic of Capricorn. By contrast the Sun reaches a maximum altitude of 0° at local noon on every point in the Antarctic Circle. This means the Sun never rises and every point south of the Antarctic Circle experiences a long Polar Night. By contrast the Sun never sets on this day north of the Arctic Circle and the regions here experience a Polar Day.  The at the North Pole the Sun will remain at a constant altitude all day. This altitude will be the angle 180°-156.6° (23.4°).\r\n\r\nThe altitude the Sun appears at is important as it defines how spread out the Sun’s rays are on the Earth’s surface. Look at the thick, faint parallel lines in the background. Notice how at the Tropic of Cancer the area the lines intersect with the Earth’s surface perpendicularly and the line only covers a small part of the Earth’s surface. Now look at a line near the Tropic of Capricorn and see that this intersects with the Earth at a grazing angle and the line is spread out, covering a much wider area of the Earth’s surface. This means that a given amount of light from the Sun that hits the Tropic of Cancer is more concentrated and the same amount of light hitting the Tropic of Capricorn would be more spread out. This leads to more energy per unit area from the Sun hitting the Tropic of Cancer and less energy per unit area hitting the Tropic of Capricorn. This means it will be warmer at the Tropic of Cancer than at the Tropic of Capricorn. It is thus summer at the Tropic of Cancer and winter at the Tropic of Capricorn. \r\n\r\nSix months later this situation will be reversed and it will be summer at the Tropic of Capricorn and winter at the Tropic of Cancer.",
+      "caption_ru": "Эта диаграмма показывает Землю в июньское солнцестояние, которое известно как летнее солнцестояние в Северном полушарии и зимнее солнцестояние в Южном полушарии. Ось вращения Земли наклонена к оси орбиты Земли вокруг Солнца на 23.4°. Здесь мы видим свет от Солнца, представленный параллельными линиями; на диаграмме Солнце находилось бы далеко за правым краем. Пять линий отмечены углами. Эти линии падают на Землю на особых широтах. Сверху вниз эти линии падают на Землю на Северном полюсе, Северном тропике, Экваторе, Южном тропике и Южном полярном круге. Показано, что линии падают на Землю на той долготе, где сейчас полдень. Для последних четырёх линий отмеченные углы показывают угол над горизонтом (высоту), под которым Солнце видно в небе в местный полдень.\r\n\r\nВ июньское солнцестояние Солнце будет видно прямо над головой в местный полдень в каждой точке Южного тропика. Напротив, Солнце достигает максимальной высоты 0° в местный полдень в каждой точке Южного полярного круга. Это означает, что Солнце никогда не восходит, и каждая точка к югу от Южного полярного круга испытывает долгую полярную ночь. Напротив, Солнце никогда не заходит в этот день к северу от Северного полярного круга, и регионы здесь испытывают полярный день. На Северном полюсе Солнце будет оставаться на постоянной высоте весь день. Эта высота будет углом 180°-156.6° (23.4°).\r\n\r\nВысота, под которой видно Солнце, важна, так как она определяет, насколько рассеяны солнечные лучи на поверхности Земли. Посмотрите на толстые, слабые параллельные линии на фоне. Обратите внимание, как на Северном тропике область, где линии пересекают поверхность Земли перпендикулярно, и линия покрывает лишь небольшую часть поверхности Земли. Теперь посмотрите на линию около Южного тропика и увидите, что она пересекает Землю под скользящим углом, и линия растянута, покрывая гораздо более широкую область поверхности Земли. Это означает, что данное количество света от Солнца, попадающее на Северный тропик, более концентрировано, а то же количество света, попадающее на Южный тропик, было бы более рассеяно. Это приводит к тому, что больше энергии на единицу площади от Солнца попадает на Северный тропик и меньше энергии на единицу площади попадает на Южный тропик. Это означает, что на Северном тропике будет теплее, чем на Южном тропике. Таким образом, на Северном тропике лето, а на Южном тропике зима.\r\n\r\nЧерез шесть месяцев эта ситуация изменится на противоположную, и будет лето на Южном тропике и зима на Северном тропике.",
+      "alt_en": "Parallel horizontal rays of light from the Sun hit the Earth at various angles",
+      "alt_ru": "Параллельные горизонтальные лучи света от Солнца падают на Землю под различными углами",
+      "credit": "Maria Cristina Fortuna/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        102,
+        317,
+        341,
+        403,
+        404,
+        488,
+        489,
+        493,
+        494,
+        496
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "c60e6102edd9c9e72d257743bfc2dd2a2c1edaf7454f49eb984f8c1c5e4b3000"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

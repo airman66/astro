@@ -1,0 +1,353 @@
+{
+  "id": "term:177",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 177,
+    "url": "https://astro4edu.org/resources/glossary/term/177/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=177",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:10.106042+00:00",
+    "sha256": "319d0b4721c8b83638a4eb9987048491ba47d2f103233ce2a846be566f7d2d4a"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Naked Eye Astronomy",
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      11,
+      4,
+      3
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Астрономия невооружённым глазом",
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      462
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Light Pollution",
+      "body": "Light pollution is the presence of excessive or defective (emitted in a direction above the horizon) artificial lighting, such as streetlights, that causes the brightening of the night sky. This is inappropriate as it disrupts the observation of stars, planets, and other astronomical objects, and changes ecosystems and many natural cycles that affect living beings. Furthermore, light pollution is also an inefficient use of finances and resources.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Night",
+          "url": "https://www.astro4edu.org/resources/glossary/term/462/",
+          "text_ru": "Ночь"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Light Pollution</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Light pollution is the presence of excessive or defective (emitted in a direction above the horizon) artificial lighting, such as streetlights, that causes the brightening of the night sky. This is inappropriate as it disrupts the observation of stars, planets, and other astronomical objects, and changes ecosystems and many natural cycles that affect living beings. Furthermore, light pollution is also an inefficient use of finances and resources.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/462/\">Night</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Световое загрязнение",
+      "body_ru": "Световое загрязнение — это наличие чрезмерного или нерационального (излучаемого в направлении выше горизонта) искусственного освещения, например уличных фонарей, которое вызывает повышение яркости ночного неба. Это недопустимо, так как нарушает наблюдение звёзд, планет и других астрономических объектов, а также изменяет экосистемы и многие природные циклы, влияющие на живые существа. Кроме того, световое загрязнение является неэффективным использованием финансов и ресурсов."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "光害 (external link)",
+          "url": "https://astro-dic.jp/light-pollution/",
+          "text_ru": "Световое загрязнение (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/177/\">التلوث الضوئي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/177/\">Lichtverschmutzung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/177/\">Contaminación lumínica </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/177/\">Pollution lumineuse </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/177/\">Inquinamento luminoso </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/light-pollution/\">光害 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/177/\">광공해 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/177/\">Poluição luminosa </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/177/\">光污染 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/177/\">光汙染 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/mZ87Si57ve75/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/e416zQ57ND98/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/pN676r135a4/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:mZ87Si57ve75",
+        "media:e416zQ57ND98",
+        "media:pN676r135a4"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/mZ87Si57ve75/\"><img alt=\"A tree in-front of the night sky. A yellow glow spreading from the horizon overwhelms the stars in the lower part of the sky\" src=\"/media/multimedia/thumbnails/starry-night-over-eifel-national-park-by-dong-han-china_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Starry Night over Eifel national park, by Dong Han, China</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Light pollution.\n\nLight pollution results from the excess of artificial light produced by human endeavours mainly as a side effect of industrialisation. This kind of pollution is usually most noticeable around well populated areas associated with intense human activities, such as street lighting, lights from the transportation system, buildings and houses. But it can also come from other places, such as ships and oil platforms in the sea. This image taken in a national park in Belgium in 2018 shows the detrimental effect of light pollution on the most precious resource that connects all humans together – the night sky.<br/>\n<b>Credit:</b> Dong Han/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/e416zQ57ND98/\"><img alt=\"A composite of six images as vertical stripes. The starry sky on the right-most image is gradually drowned out moving left\" src=\"/media/multimedia/thumbnails/real-light-pollution-panorama-by-tomas-slovinsky-slovakia_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Real Light Pollution Panorama, by Tomáš Slovinský, Slovakia</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Light pollution.\n\nThis composite image taken in Slovakia in 2020 illustrates the effect due to artificial illumination of light polluted areas. The higher the level of light pollution, the less we can observe in the sky, notice how the number of stars visible even to a sensitive digital camera decreases from right to left. Light pollution not only affects the visibility of objects in the night sky, but also significantly impacts ecosystems, negatively affecting many animals, such as migratory night birds, which may encounter difficulties to find the direction to where they should migrate to, or the sea turtles, which may be confused by the lights from coastal cities located near the beaches where they are supposed to spawn. Light pollution can also negatively impact some human health. Therefore, it is important to preserve the dark and quiet night sky for the benefit of the entire planet and all the diverse life it supports.<br/>\n<b>Credit:</b> Tomáš Slovinský/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/pN676r135a4/\"><img alt=\"Bright streaks form vertical bars, obscuring the starry sky\" src=\"/media/multimedia/thumbnails/satellite-swarm-versus-night-sky-beauty-by-torsten-hansen-germany__S62EXUn.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Satellite swarm versus night sky beauty, by Torsten Hansen, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Light pollution.\n\nThis image of Venus and the Pleiades also shows the tracks of the Starlink satellites. These satellites which are located at an altitude of approximately 550 kilometres, are part of an ever-growing constellation of satellites aimed to provide worldwide internet access. The reflective surfaces of the satellites, coupled with the fact that they are orbiting around the Earth, means that astronomical observations which require very long exposures capture “tracks” of the satellites in their images. Astronomical images used for scientific research are not usable because the measurements and data will contain these “tracks”. Because the number of satellites is expected to grow, it is likely that in the near future there will be no place on Earth where these satellites will not be visible crossing the sky. This is a new type of light pollution that seems to be an upcoming problem we will have to deal with, as these satellites might prevent optimal observation of the sky.<br/>\n<b>Credit:</b> Torsten Hansen/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities How Light Pollution Affects the Stars: Magnitude Readers astroEDU educational activity (links to astroEDU website) Description: Build a Magnitude Reader to explore the magnitude of stars. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Dark skies \n  \n  , ecology Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Planning and carrying out investigations Globe at Night Activity Guide astroEDU educational activity (links to astroEDU website) Description: Learn to observe and record the faintest visible stars to measure the light pollution. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Dark skies \n  \n  , ecology \n  \n  , Citizen science Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School \n  \n, Other \n  \n, Primary \n  \n, Secondary \n  \n, University Areas of Learning: Observation based \n  \n, Project-based learning Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Planning and carrying out investigations How Many Stars Can You See at Night? astroEDU educational activity (links to astroEDU website) Description: Investigate the effects of light pollution on night sky observation. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Software \n  \n  , ecology \n  \n  , Observation of sky \n  \n  , Pollution \n  \n  , Constellations \n  \n  , stellarium Age Ranges: 12-14 Education Level: Middle School Areas of Learning: Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Communicating information \n  \n, Planning and carrying out investigations Evening Sky Watching for Students astroEDU educational activity (links to astroEDU website) Description: Let's observe the evening sky with the naked eye License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Observation of sky \n  \n  , Sky watching \n  \n  , Motion of star Age Ranges: 4-6 \n  \n, 6-8 Education Level: Pre-school \n  \n, Primary Areas of Learning: Discussion Groups \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Free Duration: 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information Let there be light… but not too much! astroEDU educational activity (links to astroEDU website) Description: Build a model to learn what light pollution is and what its effects are. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Pollution \n  \n  , sky observation \n  \n  , lighting source Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning Costs: Medium Cost Duration: 2 hours Group Size: Group Skills: Asking questions \n  \n, Developing and using models \n  \n, Engaging in argument from evidence",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/how-light-pollution-affects-the-stars-magnitude-readers/\"><img alt=\"How Light Pollution Affects the Stars: Magnitude Readers\" src=\"/media/astroedu/images/how-light-pollution-affects-the-stars-magnitude-readers_en_thumbnail_qul1IT9.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/how-light-pollution-affects-the-stars-magnitude-readers/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">How Light Pollution Affects the Stars: Magnitude Readers</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a Magnitude Reader to explore the magnitude of stars.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Dark skies \n  \n  , ecology \n  \n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Observation based \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/globe-at-night-activity-guide/\"><img alt=\"Globe at Night Activity Guide\" src=\"/media/astroedu/images/globe-at-night-activity-guide_en_thumbnail_EOIZjg2.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/globe-at-night-activity-guide/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Globe at Night Activity Guide</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn to observe and record the faintest visible stars to measure the light pollution.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Dark skies \n  \n  , ecology \n  \n  , Citizen science \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n, Other \n  \n, Primary \n  \n, Secondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nObservation based \n  \n, Project-based learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/how-many-stars-can-you-see-at-night/\"><img alt=\"How Many Stars Can You See at Night?\" src=\"/media/astroedu/images/how-many-stars-can-you-see-at-night_en_thumbnail_KW2QdUC.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/how-many-stars-can-you-see-at-night/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">How Many Stars Can You See at Night?</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Investigate the effects of light pollution on night sky observation.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Software \n  \n  , ecology \n  \n  , Observation of sky \n  \n  , Pollution \n  \n  , Constellations \n  \n  , stellarium \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nObservation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Communicating information \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/evening-sky-watching-for-students/\"><img alt=\"Evening Sky Watching for Students\" src=\"/media/astroedu/images/evening-sky-watching-for-students_en_thumbnail_0uaBpYK.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/evening-sky-watching-for-students/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Evening Sky Watching for Students</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's observe the evening sky with the naked eye\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Art \n  \n  , Observation of sky \n  \n  , Sky watching \n  \n  , Motion of star \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n<b>Education Level:</b>\n\nPre-school \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Observation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nFree \n\n<b>Duration:</b>\n30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/let-there-be-light-but-not-too-much/\"><img alt=\"Let there be light… but not too much!\" src=\"/media/astroedu/images/let-there-be-light-but-not-too-much_en_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/let-there-be-light-but-not-too-much/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Let there be light… but not too much!</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a model to learn what light pollution is and what its effects are.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Pollution \n  \n  , sky observation \n  \n  , lighting source \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Как световое загрязнение влияет на звёзды: измерители звёздной величины образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте измеритель звёздной величины, чтобы исследовать звёздные величины. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Тёмное небо \n  \n  , экология Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: Моделирование \n  \n, Наблюдение в основе Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Постановка вопросов \n  \n, Планирование и проведение исследований Руководство по деятельности Globe at Night образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Научитесь наблюдать и записывать самые слабые видимые звёзды, чтобы измерить световое загрязнение. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Тёмное небо \n  \n  , экология \n  \n  , Гражданская наука Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Другое \n  \n, Начальная школа \n  \n, Среднее образование \n  \n, Университет Области обучения: Наблюдение в основе \n  \n, Проектное обучение Затраты: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Планирование и проведение исследований Сколько звёзд вы можете увидеть ночью? образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте влияние светового загрязнения на наблюдение ночного неба. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Программное обеспечение \n  \n  , экология \n  \n  , Наблюдение неба \n  \n  , Загрязнение \n  \n  , Созвездия \n  \n  , stellarium Возрастные диапазоны: 12-14 Уровень образования: Средняя школа Области обучения: Наблюдение в основе \n  \n, Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 45 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Передача информации \n  \n, Планирование и проведение исследований Вечернее наблюдение неба для учащихся образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте наблюдать вечернее небо невооружённым глазом Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Искусство \n  \n  , Наблюдение неба \n  \n  , Наблюдение за небом \n  \n  , Движение звёзд Возрастные диапазоны: 4-6 \n  \n, 6-8 Уровень образования: Дошкольное \n  \n, Начальная школа Области обучения: Дискуссионные группы \n  \n, Наблюдение в основе \n  \n, Структурированное исследовательское обучение Затраты: Бесплатно Продолжительность: 30 мин Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации Да будет свет… но не слишком много! образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте модель, чтобы узнать, что такое световое загрязнение и каковы его последствия. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Загрязнение \n  \n  , наблюдение неба \n  \n  , источник освещения Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная школа Области обучения: Дискуссионные группы \n  \n, Моделирование \n  \n, Наблюдение в основе \n  \n, Проектное обучение Затраты: Средняя стоимость Продолжительность: 2 часа Размер группы: Группа Навыки: Постановка вопросов \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Light Pollution",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Light Pollution",
+          "body": "Light pollution is the presence of excessive or defective (emitted in a direction above the horizon) artificial lighting, such as streetlights, that causes the brightening of the night sky. This is inappropriate as it disrupts the observation of stars, planets, and other astronomical objects, and changes ecosystems and many natural cycles that affect living beings. Furthermore, light pollution is also an inefficient use of finances and resources."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities How Light Pollution Affects the Stars: Magnitude Readers astroEDU educational activity (links to astroEDU website) Description: Build a Magnitude Reader to explore the magnitude of stars. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Dark skies \n  \n  , ecology Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Modelling \n  \n, Observation based Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Planning and carrying out investigations Globe at Night Activity Guide astroEDU educational activity (links to astroEDU website) Description: Learn to observe and record the faintest visible stars to measure the light pollution. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Dark skies \n  \n  , ecology \n  \n  , Citizen science Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School \n  \n, Other \n  \n, Primary \n  \n, Secondary \n  \n, University Areas of Learning: Observation based \n  \n, Project-based learning Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Planning and carrying out investigations How Many Stars Can You See at Night? astroEDU educational activity (links to astroEDU website) Description: Investigate the effects of light pollution on night sky observation. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Software \n  \n  , ecology \n  \n  , Observation of sky \n  \n  , Pollution \n  \n  , Constellations \n  \n  , stellarium Age Ranges: 12-14 Education Level: Middle School Areas of Learning: Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Communicating information \n  \n, Planning and carrying out investigations Evening Sky Watching for Students astroEDU educational activity (links to astroEDU website) Description: Let's observe the evening sky with the naked eye License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Observation of sky \n  \n  , Sky watching \n  \n  , Motion of star Age Ranges: 4-6 \n  \n, 6-8 Education Level: Pre-school \n  \n, Primary Areas of Learning: Discussion Groups \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Free Duration: 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information Let there be light… but not too much! astroEDU educational activity (links to astroEDU website) Description: Build a model to learn what light pollution is and what its effects are. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Pollution \n  \n  , sky observation \n  \n  , lighting source Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Observation based \n  \n, Project-based learning Costs: Medium Cost Duration: 2 hours Group Size: Group Skills: Asking questions \n  \n, Developing and using models \n  \n, Engaging in argument from evidence"
+        }
+      }
+    },
+    "ru": {
+      "title": "Световое загрязнение",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Световое загрязнение",
+          "body": "Световое загрязнение — это наличие чрезмерного или нерационального (излучаемого в направлении выше горизонта) искусственного освещения, например уличных фонарей, которое вызывает повышение яркости ночного неба. Это недопустимо, так как нарушает наблюдение звёзд, планет и других астрономических объектов, а также изменяет экосистемы и многие природные циклы, влияющие на живые существа. Кроме того, световое загрязнение является неэффективным использованием финансов и ресурсов."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Как световое загрязнение влияет на звёзды: измерители звёздной величины образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте измеритель звёздной величины, чтобы исследовать звёздные величины. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Тёмное небо \n  \n  , экология Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: Моделирование \n  \n, Наблюдение в основе Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Постановка вопросов \n  \n, Планирование и проведение исследований Руководство по деятельности Globe at Night образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Научитесь наблюдать и записывать самые слабые видимые звёзды, чтобы измерить световое загрязнение. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Тёмное небо \n  \n  , экология \n  \n  , Гражданская наука Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Другое \n  \n, Начальная школа \n  \n, Среднее образование \n  \n, Университет Области обучения: Наблюдение в основе \n  \n, Проектное обучение Затраты: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Планирование и проведение исследований Сколько звёзд вы можете увидеть ночью? образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте влияние светового загрязнения на наблюдение ночного неба. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Программное обеспечение \n  \n  , экология \n  \n  , Наблюдение неба \n  \n  , Загрязнение \n  \n  , Созвездия \n  \n  , stellarium Возрастные диапазоны: 12-14 Уровень образования: Средняя школа Области обучения: Наблюдение в основе \n  \n, Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 45 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Передача информации \n  \n, Планирование и проведение исследований Вечернее наблюдение неба для учащихся образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте наблюдать вечернее небо невооружённым глазом Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Искусство \n  \n  , Наблюдение неба \n  \n  , Наблюдение за небом \n  \n  , Движение звёзд Возрастные диапазоны: 4-6 \n  \n, 6-8 Уровень образования: Дошкольное \n  \n, Начальная школа Области обучения: Дискуссионные группы \n  \n, Наблюдение в основе \n  \n, Структурированное исследовательское обучение Затраты: Бесплатно Продолжительность: 30 мин Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации Да будет свет… но не слишком много! образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте модель, чтобы узнать, что такое световое загрязнение и каковы его последствия. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Загрязнение \n  \n  , наблюдение неба \n  \n  , источник освещения Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная школа Области обучения: Дискуссионные группы \n  \n, Моделирование \n  \n, Наблюдение в основе \n  \n, Проектное обучение Затраты: Средняя стоимость Продолжительность: 2 часа Размер группы: Группа Навыки: Постановка вопросов \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:mZ87Si57ve75",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5366218/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Light%20pollution%2C%20Starry%20Night%20over%20Eifel%20national%20park%2C%20by%20Dong%20Han%2C%20China.jpg",
+      "record_url": "https://astro4edu.org/resources/media/mZ87Si57ve75/",
+      "original_path": "data/media/original/media_mZ87Si57ve75.jpg",
+      "ru_path": null,
+      "sha256": "0a0cae41400516a7f92cda0bf3c3758f24601eb871af3ce3bb8f77121ea83dca",
+      "size": 532954,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Light pollution results from the excess of artificial light produced by human endeavours mainly as a side effect of industrialisation.",
+      "short_caption_ru": "Световое загрязнение возникает из-за избытка искусственного света, производимого деятельностью человека, главным образом как побочный эффект индустриализации.",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Light pollution.\r\n\r\nLight pollution results from the excess of artificial light produced by human endeavours mainly as a side effect of industrialisation. This kind of pollution is usually most noticeable around well populated areas associated with intense human activities, such as street lighting, lights from the transportation system, buildings and houses. But it can also come from other places, such as ships and oil platforms in the sea. This image taken in a national park in Belgium in 2018 shows the detrimental effect of light pollution on the most precious resource that connects all humans together – the night sky.",
+      "caption_ru": "Первое место в конкурсе астрофотографии IAU OAE 2021, категория «Световое загрязнение».\r\n\r\nСветовое загрязнение возникает из-за избытка искусственного света, производимого деятельностью человека, главным образом как побочный эффект индустриализации. Этот вид загрязнения обычно наиболее заметен вокруг густонаселённых районов, связанных с интенсивной человеческой деятельностью, такой как уличное освещение, огни транспортной системы, зданий и домов. Но оно также может исходить из других мест, например с кораблей и нефтяных платформ в море. Этот снимок, сделанный в национальном парке в Бельгии в 2018, показывает пагубное воздействие светового загрязнения на самый ценный ресурс, объединяющий всех людей, — ночное небо.",
+      "alt_en": "A tree in-front of the night sky. A yellow glow spreading from the horizon overwhelms the stars in the lower part of the sky",
+      "alt_ru": "Дерево на фоне ночного неба. Жёлтое свечение, распространяющееся от горизонта, подавляет звёзды в нижней части неба",
+      "credit": "Dong Han/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        177
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:e416zQ57ND98",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5366334/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Light%20pollution%3A%20Real%20Light%20Pollution%20Panorama%2C%20by%20Tomas%20Slovinsky%2C%20Slovakia.jpg",
+      "record_url": "https://astro4edu.org/resources/media/e416zQ57ND98/",
+      "original_path": "data/media/original/media_e416zQ57ND98.jpg",
+      "ru_path": null,
+      "sha256": "11ac899f736e8a9e1c7cb4e11ab12a68a5663ca5b1b44001be4aed2003f1315b",
+      "size": 7601252,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This composite image taken in Slovakia in 2020 illustrates the effect due to artificial illumination of light polluted areas.",
+      "short_caption_ru": "Это композитное изображение, сделанное в Словакии в 2020, иллюстрирует эффект, обусловленный искусственным освещением светозагрязнённых территорий.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Light pollution.\r\n\r\nThis composite image taken in Slovakia in 2020 illustrates the effect due to artificial illumination of light polluted areas. The higher the level of light pollution, the less we can observe in the sky, notice how the number of stars visible even to a sensitive digital camera decreases from right to left. Light pollution not only affects the visibility of objects in the night sky, but also significantly impacts ecosystems, negatively affecting many animals, such as migratory night birds, which may encounter difficulties to find the direction to where they should migrate to, or the sea turtles, which may be confused by the lights from coastal cities located near the beaches where they are supposed to spawn. Light pollution can also negatively impact some human health. Therefore, it is important to preserve the dark and quiet night sky for the benefit of the entire planet and all the diverse life it supports.",
+      "caption_ru": "Второе место в конкурсе астрофотографии IAU OAE 2021, категория «Световое загрязнение».\r\n\r\nЭто композитное изображение, сделанное в Словакии в 2020, иллюстрирует эффект, обусловленный искусственным освещением светозагрязнённых территорий. Чем выше уровень светового загрязнения, тем меньше мы можем наблюдать на небе; обратите внимание, как количество звёзд, видимых даже чувствительной цифровой камерой, уменьшается справа налево. Световое загрязнение влияет не только на видимость объектов в ночном небе, но и значительно воздействует на экосистемы, негативно сказываясь на многих животных, например на перелётных ночных птицах, которые могут испытывать трудности с поиском направления, куда им следует мигрировать, или на морских черепахах, которых могут сбивать с толку огни прибрежных городов, расположенных рядом с пляжами, где они должны откладывать яйца. Световое загрязнение также может негативно влиять на здоровье некоторых людей. Поэтому важно сохранять тёмное и тихое ночное небо на благо всей планеты и всего разнообразия жизни, которую она поддерживает.",
+      "alt_en": "A composite of six images as vertical stripes. The starry sky on the right-most image is gradually drowned out moving left",
+      "alt_ru": "Композит из шести изображений в виде вертикальных полос. Звёздное небо на крайнем правом изображении постепенно заглушается при движении влево",
+      "credit": "Tomáš Slovinský/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        177
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:pN676r135a4",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5366442/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Light%20pollution%3A%20Satellite%20swarm%20versus%20night%20sky%20beauty%2C%20by%20Torsten%20Hansen%2C%20Germany.jpg",
+      "record_url": "https://astro4edu.org/resources/media/pN676r135a4/",
+      "original_path": "data/media/original/media_pN676r135a4.jpg",
+      "ru_path": null,
+      "sha256": "cdbb174f215869853487c1b481ffaaf5a3fbfe5d3b9ea9fa024f8062f30b3259",
+      "size": 5661387,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This image of Venus and the Pleiades also shows the tracks of the Starlink satellites.",
+      "short_caption_ru": "На этом изображении Венеры и Плеяд также видны треки спутников Starlink.",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Light pollution.\r\n\r\nThis image of Venus and the Pleiades also shows the tracks of the Starlink satellites. These satellites which are located at an altitude of approximately 550 kilometres, are part of an ever-growing constellation of satellites aimed to provide worldwide internet access. The reflective surfaces of the satellites, coupled with the fact that they are orbiting around the Earth, means that astronomical observations which require very long exposures capture “tracks” of the satellites in their images. Astronomical images used for scientific research are not usable because the measurements and data will contain these “tracks”. Because the number of satellites is expected to grow, it is likely that in the near future there will be no place on Earth where these satellites will not be visible crossing the sky. This is a new type of light pollution that seems to be an upcoming problem we will have to deal with, as these satellites might prevent optimal observation of the sky.",
+      "caption_ru": "Третье место в конкурсе астрофотографии IAU OAE 2021, категория «Световое загрязнение».\r\n\r\nНа этом изображении Венеры и Плеяд также видны треки спутников Starlink. Эти спутники, находящиеся на высоте примерно 550 километров, являются частью постоянно растущего созвездия спутников, предназначенного для обеспечения доступа в интернет по всему миру. Отражающие поверхности спутников в сочетании с тем, что они вращаются вокруг Земли, означают, что астрономические наблюдения, требующие очень длинных выдержек, фиксируют «треки» спутников на своих изображениях. Астрономические изображения, используемые для научных исследований, непригодны, поскольку измерения и данные будут содержать эти «треки». Поскольку ожидается рост числа спутников, вполне вероятно, что в ближайшем будущем на Земле не останется места, где эти спутники не будут видны пересекающими небо. Это новый тип светового загрязнения, который, по-видимому, станет предстоящей проблемой, с которой нам придётся иметь дело, поскольку эти спутники могут помешать оптимальному наблюдению неба.",
+      "alt_en": "Bright streaks form vertical bars, obscuring the starry sky",
+      "alt_ru": "Яркие полосы образуют вертикальные столбы, заслоняя звёздное небо",
+      "credit": "Torsten Hansen/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        177,
+        293
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

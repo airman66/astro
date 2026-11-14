@@ -1,0 +1,264 @@
+{
+  "id": "term:373",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 373,
+    "url": "https://astro4edu.org/resources/glossary/term/373/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=373",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:06.425214+00:00",
+    "sha256": "a7ca6f59490130bb88f3745a47c1f9e55f99a8541a97b72e453297e79b7d8a36"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society"
+    ],
+    "category_ids": [
+      11
+    ],
+    "categories_ru": [
+      "Астрономия и общество"
+    ],
+    "related_term_numbers": [
+      193,
+      361,
+      362
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Universal Time (UT)",
+      "body": "Universal Time, abbreviated UT, is an umbrella term for several ways of defining the measurement of time. UT1 is the mean solar time at longitude zero (the historical location of the Royal Greenwich Observatory). Mean solar time defines the length of a day as the average duration between one noon (highest position of the Sun in the sky) and the next. In practice, the necessary measurements are made not with the Sun, but with distant astronomical objects such as quasars at night. UTC, Universal Time Coordinated, is a time standard based on the timekeeping of a specific large set of atomic clocks (\"international atomic time\" or TAI), but with occasional extra seconds (\"leap seconds\") added to some days to ensure UTC and UT1 never diverge by more than 0.9 seconds.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Meridian",
+          "url": "https://www.astro4edu.org/resources/glossary/term/193/",
+          "text_ru": "Меридиан"
+        },
+        {
+          "text": "Time",
+          "url": "https://www.astro4edu.org/resources/glossary/term/361/",
+          "text_ru": "Время"
+        },
+        {
+          "text": "Time Zone",
+          "url": "https://www.astro4edu.org/resources/glossary/term/362/",
+          "text_ru": "Часовой пояс"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Universal Time (UT)</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Universal Time, abbreviated UT, is an umbrella term for several ways of defining the measurement of time. UT1 is the mean solar time at longitude zero (the historical location of the Royal Greenwich Observatory). Mean solar time defines the length of a day as the average duration between one noon (highest position of the Sun in the sky) and the next. In practice, the necessary measurements are made not with the Sun, but with distant astronomical objects such as quasars at night. UTC, Universal Time Coordinated, is a time standard based on the timekeeping of a specific large set of atomic clocks (\"international atomic time\" or TAI), but with occasional extra seconds (\"leap seconds\") added to some days to ensure UTC and UT1 never diverge by more than 0.9 seconds.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/193/\">Meridian</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/361/\">Time</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/362/\">Time Zone</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Всемирное время (UT)",
+      "body_ru": "Всемирное время, сокращённо UT, — это общий термин для нескольких способов определения измерения времени. UT1 — это среднее солнечное время на нулевом меридиане (историческое местоположение Королевской Гринвичской обсерватории). Среднее солнечное время определяет длительность суток как средний интервал между одним полднем (наивысшим положением Солнца в небе) и следующим. На практике необходимые измерения проводятся не по Солнцу, а по далёким астрономическим объектам, таким как квазары, ночью. UTC, Всемирное координированное время, — это стандарт времени, основанный на показаниях определённого большого набора атомных часов («международное атомное время» или TAI), но с периодически добавляемыми секундами («високосными секундами»), добавляемыми к некоторым дням, чтобы гарантировать, что UTC и UT1 никогда не расходятся более чем на 0.9 секунд."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "世界時 (external link)",
+          "url": "https://astro-dic.jp/universal-time/",
+          "text_ru": "Всемирное время (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/373/\">التوقيت العالمي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/373/\">Universalzeit (UT) </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/373/\">Tiempo Universal (UT) </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/373/\">Temps Universel (UT) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/373/\">Tempo Universale (UT) </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/universal-time/\">世界時 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/373/\">Horário Universal (UT) </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/373/\">世界时（UT） </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/373/\">世界時（UT） </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/jh312430Ry7/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:World_Time_Zones_Map.png",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:jh312430Ry7"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/jh312430Ry7/\"><img alt=\"Map of the world with different time zones marked by color. The basic pattern is timezones as 15-degree swathes of longitude.\" src=\"/media/multimedia/thumbnails/map-of-de-facto-time-zones-on-earth_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Map of de-facto time zones on Earth</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Due to the Earth's spherical shape and its rotation around its own axis, local noon – the moment in time when, for an observer at a specific geographic location, the Sun reaches its highest position in the sky varies with longitude. That is why a time coordinate, such as Universal Time (UT or UTC), might be of advantage for specifying moments in time in a unified way. But a global time coordinate will be out of synch with the local day-night rhythm in most locations on Earth. A compromise is to divide Earth into zones each comprising 15 degrees of longitude, and in each zone define time as UTC plus or minus an integer number of hours, with the offset chosen so as to make time match as closely with local time at the middle longitude of the time zone. In practice, political considerations have altered the time zone boundaries somewhat. When a country straddles several time zones, it is not uncommon for the country's government to choose one of those time zones to define the country's official time. \n\nThis map, originally created by the CIA and updated by several Wikimedia Commons users, shows the current definitions of the world's time zones. The IAU OAE is not the original author of this map. The designations employed and the presentation of the material on this maps do not imply the expression of any opinion whatsoever on the part of the IAU or the IAU OAE concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.<br/>\n<b>Credit:</b> Wikimedia Users UnaitxuGV, Heitordp and others based on a map created by the U.S. Central Intelligence Agency (CIA)\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:World_Time_Zones_Map.png\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/xo4V340iY17/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:xo4V340iY17"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/xo4V340iY17/\"><img alt=\"A map of the Earth with 24 vertical timezones. The International Date Line runs between Russian and Alaska and bisects the Pacific\" src=\"/media/diagrams/multimedia/thumbnails/international_date_line_en_thumbnail_ltHNGy8.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">International Date Line</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The International Date Line (shown here as a solid line) is a specific meridian which roughly follows the meridian of longitude 180°. The International Date Line passes north–south between Russia and Alaska, through the Pacific Ocean including parts of Micronesia and Polynesia, and to the east of Australia/New Zealand before reaching the South Pole on Antarctica. The International Date Line marks the boundary where calendar dates change by one. Therefore, regions to the west of the International Date line are one calendar day ahead of regions to the east. \n\nThe International Date Line does not always exactly follow the meridian of longitude 180°. This is partly to stop some territory of a country falling on the other side of the International Date Line than the rest of that country (the Aleutian Islands in the United States being a good example). Some countries also choose which side of the International Date Line they lie on. Samoa changed which side of the date line it lay on in 2011. At this point the International Date Line was moved to lie to the east of Samoa having previously passed to the west of Samoa.\n\nOn the opposite side of the world the dashed line marks the prime meridian (the meridian of longitude 0°). This is a line that passes through the Royal Greenwich Observatory in the UK. All time zones are measure relative to Universal Time which is the zero point for all timezones. The time zones marked at the top of the diagram are the timezones in the shaded regions excluding the effects of daylight savings time.<br/>\n<b>Credit:</b> Maria Cristina Fortuna/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Universal Time (UT)",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Universal Time (UT)",
+          "body": "Universal Time, abbreviated UT, is an umbrella term for several ways of defining the measurement of time. UT1 is the mean solar time at longitude zero (the historical location of the Royal Greenwich Observatory). Mean solar time defines the length of a day as the average duration between one noon (highest position of the Sun in the sky) and the next. In practice, the necessary measurements are made not with the Sun, but with distant astronomical objects such as quasars at night. UTC, Universal Time Coordinated, is a time standard based on the timekeeping of a specific large set of atomic clocks (\"international atomic time\" or TAI), but with occasional extra seconds (\"leap seconds\") added to some days to ensure UTC and UT1 never diverge by more than 0.9 seconds."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Всемирное время (UT)",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Всемирное время (UT)",
+          "body": "Всемирное время, сокращённо UT, — это общий термин для нескольких способов определения измерения времени. UT1 — это среднее солнечное время на нулевом меридиане (историческое местоположение Королевской Гринвичской обсерватории). Среднее солнечное время определяет длительность суток как средний интервал между одним полднем (наивысшим положением Солнца в небе) и следующим. На практике необходимые измерения проводятся не по Солнцу, а по далёким астрономическим объектам, таким как квазары, ночью. UTC, Всемирное координированное время, — это стандарт времени, основанный на показаниях определённого большого набора атомных часов («международное атомное время» или TAI), но с периодически добавляемыми секундами («високосными секундами»), добавляемыми к некоторым дням, чтобы гарантировать, что UTC и UT1 никогда не расходятся более чем на 0.9 секунд."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:jh312430Ry7",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/map-of-de-facto-time-zones-on-earth.png",
+      "record_url": "https://astro4edu.org/resources/media/jh312430Ry7/",
+      "original_path": "data/media/original/media_jh312430Ry7.png",
+      "ru_path": null,
+      "sha256": "b96c03baf54e8139934a4ded5aefdf42abefc70ba8521258577b2b9551a8af59",
+      "size": 2881798,
+      "title_en": "Map of de-facto time zones on Earth",
+      "title_ru": "Карта фактических часовых поясов на Земле",
+      "short_caption_en": "Map of de-facto time zones on Earth",
+      "short_caption_ru": "Карта фактических часовых поясов на Земле",
+      "caption_en": "Due to the Earth's spherical shape and its rotation around its own axis, local noon – the moment in time when, for an observer at a specific geographic location, the Sun reaches its highest position in the sky varies with longitude. That is why a time coordinate, such as Universal Time (UT or UTC), might be of advantage for specifying moments in time in a unified way. But a global time coordinate will be out of synch with the local day-night rhythm in most locations on Earth. A compromise is to divide Earth into zones each comprising 15 degrees of longitude, and in each zone define time as UTC plus or minus an integer number of hours, with the offset chosen so as to make time match as closely with local time at the middle longitude of the time zone. In practice, political considerations have altered the time zone boundaries somewhat. When a country straddles several time zones, it is not uncommon for the country's government to choose one of those time zones to define the country's official time. \r\n\r\nThis map, originally created by the CIA and updated by several Wikimedia Commons users, shows the current definitions of the world's time zones. The IAU OAE is not the original author of this map. The designations employed and the presentation of the material on this maps do not imply the expression of any opinion whatsoever on the part of the IAU or the IAU OAE concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.",
+      "caption_ru": "Из-за сферической формы Земли и её вращения вокруг своей оси местный полдень – момент времени, когда для наблюдателя в определённом географическом месте Солнце достигает своего наивысшего положения в небе, – изменяется с долготой. Вот почему временная координата, такая как Всемирное время (UT или UTC), может быть полезной для указания моментов времени унифицированным способом. Но глобальная временная координата будет не синхронизирована с местным суточным ритмом в большинстве мест на Земле. Компромисс состоит в том, чтобы разделить Землю на зоны, каждая из которых охватывает 15 градусов долготы, и в каждой зоне определить время как UTC плюс или минус целое число часов, причём смещение выбирается так, чтобы время как можно точнее соответствовало местному времени на средней долготе часового пояса. На практике политические соображения несколько изменили границы часовых поясов. Когда страна охватывает несколько часовых поясов, нередко правительство страны выбирает один из этих часовых поясов для определения официального времени страны. \r\n\r\nЭта карта, первоначально созданная ЦРУ и обновлённая несколькими пользователями Викисклада, показывает текущие определения часовых поясов мира. IAU OAE не является первоначальным автором этой карты. Обозначения, используемые и представление материала на этой карте, не подразумевают выражения какого-либо мнения со стороны IAU или IAU OAE относительно правового статуса какой-либо страны, территории, города или района или их властей, или относительно делимитации их границ.",
+      "alt_en": "Map of the world with different time zones marked by color. The basic pattern is timezones as 15-degree swathes of longitude.",
+      "alt_ru": "Карта мира с различными часовыми поясами, отмеченными цветом. Основной шаблон — часовые пояса в виде полос долготы по 15 градусов.",
+      "credit": "Wikimedia Users UnaitxuGV, Heitordp and others based on a map created by the U.S. Central Intelligence Agency (CIA)",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:World_Time_Zones_Map.png",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        138,
+        179,
+        362,
+        373
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:xo4V340iY17",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/international_date_line_en_pAlUbFq.png",
+      "record_url": "https://astro4edu.org/resources/diagram/xo4V340iY17/",
+      "original_path": "data/media/original/diagram_xo4V340iY17.png",
+      "ru_path": "data/media/ru/diagram_xo4V340iY17.png",
+      "sha256": "c5e1d8b48b4f891c86e2664036073eb729dac4528febe9581bb38956ab4742c8",
+      "size": 214475,
+      "title_en": "International Date Line",
+      "title_ru": "Линия перемены дат",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The International Date Line (shown here as a solid line) is a specific meridian which roughly follows the meridian of longitude 180°. The International Date Line passes north–south between Russia and Alaska, through the Pacific Ocean including parts of Micronesia and Polynesia, and to the east of Australia/New Zealand before reaching the South Pole on Antarctica. The International Date Line marks the boundary where calendar dates change by one. Therefore, regions to the west of the International Date line are one calendar day ahead of regions to the east. \r\n\r\nThe International Date Line does not always exactly follow the meridian of longitude 180°. This is partly to stop some territory of a country falling on the other side of the International Date Line than the rest of that country (the Aleutian Islands in the United States being a good example). Some countries also choose which side of the International Date Line they lie on. Samoa changed which side of the date line it lay on in 2011. At this point the International Date Line was moved to lie to the east of Samoa having previously passed to the west of Samoa.\r\n\r\nOn the opposite side of the world the dashed line marks the prime meridian (the meridian of longitude 0°). This is a line that passes through the Royal Greenwich Observatory in the UK. All time zones are measure relative to Universal Time which is the zero point for all timezones. The time zones marked at the top of the diagram are the timezones in the shaded regions excluding the effects of daylight savings time.",
+      "caption_ru": "Линия перемены дат (показана здесь сплошной линией) — это конкретный меридиан, который примерно следует меридиану долготы 180°. Линия перемены дат проходит с севера на юг между Россией и Аляской, через Тихий океан, включая части Микронезии и Полинезии, и к востоку от Австралии/Новой Зеландии, прежде чем достичь Южного полюса в Антарктиде. Линия перемены дат отмечает границу, где календарные даты изменяются на единицу. Поэтому регионы к западу от линии перемены дат опережают регионы к востоку на один календарный день.\r\n\r\nЛиния перемены дат не всегда точно следует меридиану долготы 180°. Это частично делается для того, чтобы не допустить, чтобы некоторые территории страны оказались по другую сторону линии перемены дат, чем остальная часть этой страны (Алеутские острова в США являются хорошим примером). Некоторые страны также выбирают, по какую сторону линии перемены дат они находятся. Самоа изменило сторону линии перемены дат, на которой оно находилось, в 2011. В этот момент линия перемены дат была перемещена так, чтобы проходить к востоку от Самоа, тогда как ранее она проходила к западу от Самоа.\r\n\r\nНа противоположной стороне мира пунктирная линия обозначает нулевой меридиан (меридиан долготы 0°). Это линия, которая проходит через Королевскую Гринвичскую обсерваторию в Великобритании. Все часовые пояса измеряются относительно Всемирного времени, которое является нулевой точкой для всех часовых поясов. Часовые пояса, отмеченные в верхней части диаграммы, — это часовые пояса в заштрихованных областях без учета эффектов перехода на летнее время.",
+      "alt_en": "A map of the Earth with 24 vertical timezones. The International Date Line runs between Russian and Alaska and bisects the Pacific",
+      "alt_ru": "Карта Земли с 24 вертикальными часовыми поясами. Линия перемены дат проходит между Россией и Аляской и пересекает Тихий океан",
+      "credit": "Maria Cristina Fortuna/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        362,
+        373,
+        421,
+        422
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "f8dc4c557f71a111b18403f89634f807473bcaca849f0e6fc7dd0b49c67f81c8"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

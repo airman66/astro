@@ -1,0 +1,189 @@
+{
+  "id": "term:505",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 505,
+    "url": "https://astro4edu.org/resources/glossary/term/505/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=505",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:48.367188+00:00",
+    "sha256": "3e49c54084e9c040cdb5a2ae7c7cea72b742c2da9a7d29e464f7bdb3c320e30f"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      33,
+      311
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Coronal Mass Ejection (CME)",
+      "body": "A coronal mass ejection (or CME) is the explosive expulsion of solar plasma and its magnetic field from the Sun (and other similar stars) into the heliosphere (or asterosphere in other stars). CMEs are magnetic explosions, typically associated with solar flares. A CME is a physical ejection of material, as opposed to a \"flare\", which is limited to the visible radiation. CMEs vary widely in structure, density, and velocity. Earth-impacting CMEs can result in significant geomagnetic storms.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Aurora",
+          "url": "https://www.astro4edu.org/resources/glossary/term/33/",
+          "text_ru": "Полярное сияние"
+        },
+        {
+          "text": "Solar Flare",
+          "url": "https://www.astro4edu.org/resources/glossary/term/311/",
+          "text_ru": "Солнечная вспышка"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Coronal Mass Ejection (CME)</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A coronal mass ejection (or CME) is the explosive expulsion of solar plasma and its magnetic field from the Sun (and other similar stars) into the heliosphere (or asterosphere in other stars). CMEs are magnetic explosions, typically associated with solar flares. A CME is a physical ejection of material, as opposed to a \"flare\", which is limited to the visible radiation. CMEs vary widely in structure, density, and velocity. Earth-impacting CMEs can result in significant geomagnetic storms.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/33/\">Aurora</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/311/\">Solar Flare</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Корональный выброс массы (КВМ)",
+      "body_ru": "Корональный выброс массы (или КВМ) — это взрывное извержение солнечной плазмы и её магнитного поля из Солнца (и других подобных звёзд) в гелиосферу (или астросферу у других звёзд). КВМ — это магнитные взрывы, обычно связанные с солнечными вспышками. КВМ — это физический выброс материала, в отличие от «вспышки», которая ограничивается видимым излучением. КВМ сильно различаются по структуре, плотности и скорости. КВМ, воздействующие на Землю, могут вызывать значительные геомагнитные бури."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "コロナ質量放出 (external link)",
+          "url": "https://astro-dic.jp/coronal-mass-ejection/",
+          "text_ru": "Корональный выброс массы (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/505/\">قذف الكتلة الإكليلي (CME) </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/505/\">Koronaler Massenauswurf (CME) </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/505/\">Eyección de masa coronal (CME) </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/505/\">Éjection de masse coronale (EMC ou CME en anglais) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/505/\">Espulsione di massa coronale (CME) </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/coronal-mass-ejection/\">コロナ質量放出 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/505/\">코로나질량방출(CME) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/505/\">Ejeção de massa coronal (CME) </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/505/\">日冕物质抛射（CME） </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/505/\">日冕物質拋射（CME） </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/sL63JE126671/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://images.nasa.gov/details/cme-blow-out_18529951894_o",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:sL63JE126671"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/sL63JE126671/\"><img alt=\"Two bright arcs of material, two halves of a broken loop, project outwards from a section of the Sun.\" src=\"/media/multimedia/thumbnails/a-coronal-mass-ejection_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A Coronal Mass Ejection</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> A burst of solar material can be seen erupting from the Sun in this view, illustrating a coronal mass ejection (CME)—a large eruption of plasma and magnetic field from the Sun’s outer atmosphere, or corona. These CMEs are caused by magnetic explosions in the Sun's corona. During a CME, huge amounts of electrically charged particles are launched into space at great speeds, carrying part of the Sun’s magnetic field with them. These events are driven by changes in the Sun’s magnetic structure and release vast clouds of hot gas that travel outward into the solar system. When a CME moves through space, it can interact with a planet’s magnetic field and atmosphere, sometimes creating spectacular auroras or, in strong cases, interfering with artificial satellites and power systems. \n\nCMEs are often associated with a temporary brightening of the region of the Sun where the CME originated. This is known as a solar flare. Stars other than the Sun can also have CMEs and flares.\n\nThis image was taken by NASA's Solar Dynamics Observatory (SDO). This is a space mission to monitor the Sun. The image here is taken at a special wavelength which partially ionised helium emits strongly at.<br/>\n<b>Credit:</b> NASA/Goddard/SDO\n\t  <a href=\"https://images.nasa.gov/details/cme-blow-out_18529951894_o\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Coronal Mass Ejection (CME)",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Coronal Mass Ejection (CME)",
+          "body": "A coronal mass ejection (or CME) is the explosive expulsion of solar plasma and its magnetic field from the Sun (and other similar stars) into the heliosphere (or asterosphere in other stars). CMEs are magnetic explosions, typically associated with solar flares. A CME is a physical ejection of material, as opposed to a \"flare\", which is limited to the visible radiation. CMEs vary widely in structure, density, and velocity. Earth-impacting CMEs can result in significant geomagnetic storms."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Корональный выброс массы (CME)",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Корональный выброс массы (КВМ)",
+          "body": "Корональный выброс массы (или КВМ) — это взрывное извержение солнечной плазмы и её магнитного поля из Солнца (и других подобных звёзд) в гелиосферу (или астросферу у других звёзд). КВМ — это магнитные взрывы, обычно связанные с солнечными вспышками. КВМ — это физический выброс материала, в отличие от «вспышки», которая ограничивается видимым излучением. КВМ сильно различаются по структуре, плотности и скорости. КВМ, воздействующие на Землю, могут вызывать значительные геомагнитные бури."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:sL63JE126671",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/a-coronal-mass-ejection.png",
+      "record_url": "https://astro4edu.org/resources/media/sL63JE126671/",
+      "original_path": "data/media/original/media_sL63JE126671.png",
+      "ru_path": null,
+      "sha256": "dbe6d8df50b56392972ed6716bd9d6e52befa6c25a9ba5d3a53354790814b3ed",
+      "size": 596217,
+      "title_en": "A Coronal Mass Ejection",
+      "title_ru": "Корональный выброс массы",
+      "short_caption_en": "A Coronal Mass Ejection",
+      "short_caption_ru": "Корональный выброс массы",
+      "caption_en": "A burst of solar material can be seen erupting from the Sun in this view, illustrating a coronal mass ejection (CME)—a large eruption of plasma and magnetic field from the Sun’s outer atmosphere, or corona. These CMEs are caused by magnetic explosions in the Sun's corona. During a CME, huge amounts of electrically charged particles are launched into space at great speeds, carrying part of the Sun’s magnetic field with them. These events are driven by changes in the Sun’s magnetic structure and release vast clouds of hot gas that travel outward into the solar system. When a CME moves through space, it can interact with a planet’s magnetic field and atmosphere, sometimes creating spectacular auroras or, in strong cases, interfering with artificial satellites and power systems. \r\n\r\nCMEs are often associated with a temporary brightening of the region of the Sun where the CME originated. This is known as a solar flare. Stars other than the Sun can also have CMEs and flares.\r\n\r\nThis image was taken by NASA's Solar Dynamics Observatory (SDO). This is a space mission to monitor the Sun. The image here is taken at a special wavelength which partially ionised helium emits strongly at.",
+      "caption_ru": "На этом снимке видно, как из Солнца вырывается всплеск солнечного материала, что иллюстрирует корональный выброс массы (КВМ) — крупное извержение плазмы и магнитного поля из внешней атмосферы Солнца, или короны. Эти КВМ вызваны магнитными взрывами в короне Солнца. Во время КВМ огромные количества электрически заряженных частиц выбрасываются в космос с огромными скоростями, унося с собой часть магнитного поля Солнца. Эти события обусловлены изменениями в магнитной структуре Солнца и высвобождают огромные облака горячего газа, которые распространяются наружу в Солнечную систему. Когда КВМ движется в космосе, он может взаимодействовать с магнитным полем и атмосферой планеты, иногда создавая впечатляющие полярные сияния или, в сильных случаях, нарушая работу искусственных спутников и энергосистем. \r\n\r\nКВМ часто связаны с временным усилением яркости области Солнца, где возник КВМ. Это явление известно как солнечная вспышка. Звёзды, отличные от Солнца, также могут иметь КВМ и вспышки.\r\n\r\nЭто изображение было получено Обсерваторией солнечной динамики (SDO) НАСА. Это космическая миссия по мониторингу Солнца. Представленное здесь изображение получено на специальной длине волны, на которой сильно излучает частично ионизированный гелий.",
+      "alt_en": "Two bright arcs of material, two halves of a broken loop, project outwards from a section of the Sun.",
+      "alt_ru": "Две яркие дуги материала, две половины разорванной петли, выступают наружу из участка Солнца.",
+      "credit": "NASA/Goddard/SDO",
+      "credit_url": "https://images.nasa.gov/details/cme-blow-out_18529951894_o",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        342,
+        505
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

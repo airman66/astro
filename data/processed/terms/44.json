@@ -1,0 +1,154 @@
+{
+  "id": "term:44",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 44,
+    "url": "https://astro4edu.org/resources/glossary/term/44/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=44",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:18.056507+00:00",
+    "sha256": "b91c8bf482c68438031241cddd0333acfabfaf2e5815d34512eac8a9152c08b8"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      96,
+      440
+    ],
+    "redirect_term_number": 42,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Blackbody Radiation",
+      "body": "Blackbody radiation is electromagnetic radiation from an idealized object (blackbody) that absorbs all radiation that falls on it and re-emits it at a rate that maintains a state of thermal equilibrium. The spectrum of blackbody radiation is completely specified by the body's temperature according to known laws. Most stars emit light similar to that of a blackbody at a temperature of several thousand kelvins. To be contrasted with synchrotron radiation and other forms of \"non-thermal\" radiation.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Blackbody Radiation</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Blackbody</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Blackbody radiation is electromagnetic radiation from an idealized object (blackbody) that absorbs all radiation that falls on it and re-emits it at a rate that maintains a state of thermal equilibrium. The spectrum of blackbody radiation is completely specified by the body's temperature according to known laws. Most stars emit light similar to that of a blackbody at a temperature of several thousand kelvins. To be contrasted with synchrotron radiation and other forms of \"non-thermal\" radiation.</p>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Чернотельное излучение",
+      "body_ru": "Чернотельное излучение — это электромагнитное излучение от идеализированного объекта (абсолютно чёрного тела), который поглощает всё падающее на него излучение и переизлучает его со скоростью, поддерживающей состояние теплового равновесия. Спектр чернотельного излучения полностью определяется температурой тела согласно известным законам. Большинство звёзд испускают свет, подобный излучению абсолютно чёрного тела при температуре в несколько тысяч кельвинов. Следует отличать от синхротронного излучения и других форм «нетеплового» излучения."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "黒体放射 (external link)",
+          "url": "https://astro-dic.jp/black-body-radiation/",
+          "text_ru": "Излучение абсолютно чёрного тела (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/42/\">إشعاع الجسم الأسود </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/42/\">Schwarzkörperstrahlung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/42/\">Radiación de cuerpo negro </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/42/\">Rayonnement du Corps noir </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/42/\">Radiazione di corpo nero </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/black-body-radiation/\">黒体放射 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/42/\">흑체복사 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/42/\">कृष्णिका प्रारण </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/42/\">Radiação do corpo negro </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/42/\">黑体辐射 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/42/\">黑體輻射 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/8m97bG23XT57/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/p90iM23hm85/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/8m97bG23XT57/\"><img alt=\"Three curves with radiation on the y-axis &amp; wavelength on the x-axis. The cooler curves have redder &amp; lower peaks\" src=\"/media/diagrams/multimedia/thumbnails/blackbody-radiation_en_thumbnail_EAnBoDi.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Blackbody Radiation</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The curves of emitted radiation from blackbodies of different temperatures. The x-axis shows wavelength and the y-axis shows the amount of energy emitted every second by a square meter of the surface of that blackbody at each wavelength.\n\nThe hotter the body, the shorter the wavelength and the bluer the light it emits its maximum amount of energy at. Despite the coolest body in this plot peaking in red light, the other hotter bodies all emit more red light than the coolest body.<br/>\n<b>Credit:</b> IAU OAE/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/p90iM23hm85/\"><img alt=\"Three curves with radiation on the y-axis &amp; wavelength on the x-axis. The cooler curves have redder &amp; lower peaks\" src=\"/media/diagrams/multimedia/thumbnails/blackbody-radiation-ultraviolet-catastrophe_en_thumbnail_qrjyUtg.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Blackbody Radiation - UV Catastrophe</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The curves of emitted radiation from blackbodies of different temperatures. The x-axis shows wavelength and the y-axis shows the amount of energy emitted every second by a square meter of the surface of that blackbody at each wavelength.\n\nThe hotter the body, the shorter the wavelength and the bluer the light it emits its maximum amount of energy at. Despite the coolest body in this plot peaking in red light, the other hotter bodies all emit more red light than the coolest body. \n\nThe dotted line shows the emitted radiation predicted by classical theory prior to modern quantum mechanics. This prediction tends to infinity at shorter wavelengths for any blackbody temperature above zero and was dubbed the ‘ultraviolet catastrophe’.<br/>\n<b>Credit:</b> IAU OAE/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Blackbody",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Blackbody Radiation",
+          "body": "Blackbody radiation is electromagnetic radiation from an idealized object (blackbody) that absorbs all radiation that falls on it and re-emits it at a rate that maintains a state of thermal equilibrium. The spectrum of blackbody radiation is completely specified by the body's temperature according to known laws. Most stars emit light similar to that of a blackbody at a temperature of several thousand kelvins. To be contrasted with synchrotron radiation and other forms of \"non-thermal\" radiation."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Абсолютно черное тело",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Чернотельное излучение",
+          "body": "Чернотельное излучение — это электромагнитное излучение от идеализированного объекта (абсолютно чёрного тела), который поглощает всё падающее на него излучение и переизлучает его со скоростью, поддерживающей состояние теплового равновесия. Спектр чернотельного излучения полностью определяется температурой тела согласно известным законам. Большинство звёзд испускают свет, подобный излучению абсолютно чёрного тела при температуре в несколько тысяч кельвинов. Следует отличать от синхротронного излучения и других форм «нетеплового» излучения."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

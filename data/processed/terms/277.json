@@ -1,0 +1,230 @@
+{
+  "id": "term:277",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 277,
+    "url": "https://astro4edu.org/resources/glossary/term/277/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=277",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:39.712290+00:00",
+    "sha256": "9a80c5afa1394e55bd8a74a01eac69e987b10f1a88f4ba25b264b26318cb371d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Stars"
+    ],
+    "category_ids": [
+      4,
+      2
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      186,
+      278,
+      331,
+      334,
+      349,
+      453
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Red Giant",
+      "body": "A red giant is a star that has a comparatively cool surface, but a diameter typically tens, or sometimes hundreds,  times larger than that of a main sequence star like our Sun. The comparatively low temperature gives the surface a reddish appearance, while the large diameter makes the star shine considerably brighter than our Sun. Red giants were originally main sequence stars, that is, Sun-like stars that burn hydrogen to helium in their cores via nuclear fusion. When such a star runs out of hydrogen fuel, it begins to burn helium into heavier elements. At that time,  the star expands, its surface cooling down in the process, and with its increased size the star becomes more luminous. The Sun will enter the red giant phase billions of years from now, at which time life on Earth will likely not survive. Examples of red giants are Arcturus in the constellation Boötes and Mira in the constellation Cetus. Red giants are unstable to pulsation (an oscillation where the star repeatedly becomes smaller and larger in turn) and, as they pulsate, can vary in brightness. The star Mira is an extreme example that can vary in brightness by a factor of 1000. In the spectral classification used by astronomers, red giants are mostly of spectral type M, and some are of spectral type K. Red giants are similar to so-called red supergiants, but with a lower mass.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Main Sequence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/186/",
+          "text_ru": "Главная последовательность"
+        },
+        {
+          "text": "Red Supergiant",
+          "url": "https://www.astro4edu.org/resources/glossary/term/278/",
+          "text_ru": "Красный сверхгигант"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Stellar Evolution",
+          "url": "https://www.astro4edu.org/resources/glossary/term/334/",
+          "text_ru": "Звездная эволюция"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "M-type Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/453/",
+          "text_ru": "Звезда M-типа"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Red Giant</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>M giant</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A red giant is a star that has a comparatively cool surface, but a diameter typically tens, or sometimes hundreds,  times larger than that of a main sequence star like our Sun. The comparatively low temperature gives the surface a reddish appearance, while the large diameter makes the star shine considerably brighter than our Sun. Red giants were originally main sequence stars, that is, Sun-like stars that burn hydrogen to helium in their cores via nuclear fusion. When such a star runs out of hydrogen fuel, it begins to burn helium into heavier elements. At that time,  the star expands, its surface cooling down in the process, and with its increased size the star becomes more luminous. The Sun will enter the red giant phase billions of years from now, at which time life on Earth will likely not survive. Examples of red giants are Arcturus in the constellation Boötes and Mira in the constellation Cetus. Red giants are unstable to pulsation (an oscillation where the star repeatedly becomes smaller and larger in turn) and, as they pulsate, can vary in brightness. The star Mira is an extreme example that can vary in brightness by a factor of 1000. In the spectral classification used by astronomers, red giants are mostly of spectral type M, and some are of spectral type K. Red giants are similar to so-called red supergiants, but with a lower mass.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/186/\">Main Sequence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/278/\">Red Supergiant</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/334/\">Stellar Evolution</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/453/\">M-type Star</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Красный гигант",
+      "body_ru": "Красный гигант — это звезда со сравнительно холодной поверхностью, но диаметром, обычно в десятки, а иногда и в сотни раз превышающим диаметр звезды главной последовательности, подобной нашему Солнцу. Сравнительно низкая температура придаёт поверхности красноватый вид, а большой диаметр делает звезду значительно ярче нашего Солнца. Красные гиганты изначально были звёздами главной последовательности, то есть звёздами, подобными Солнцу, которые сжигают водород в гелий в своих ядрах посредством термоядерного синтеза. Когда такая звезда исчерпывает водородное топливо, она начинает сжигать гелий в более тяжёлые элементы. В это время звезда расширяется, её поверхность при этом охлаждается, и с увеличением размера звезда становится более светимой. Солнце войдёт в фазу красного гиганта через миллиарды лет, и к тому времени жизнь на Земле, вероятно, не выживет. Примерами красных гигантов являются Арктур в созвездии Волопаса и Мира в созвездии Кита. Красные гиганты неустойчивы к пульсациям (колебаниям, при которых звезда попеременно становится то меньше, то больше) и, пульсируя, могут менять яркость. Звезда Мира — крайний пример, её яркость может меняться в 1000 раз. В спектральной классификации, используемой астрономами, красные гиганты в основном относятся к спектральному типу M, а некоторые — к спектральному типу K. Красные гиганты похожи на так называемые красные сверхгиганты, но имеют меньшую массу."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "赤色巨星 (external link)",
+          "url": "https://astro-dic.jp/red-giant-star/",
+          "text_ru": "Красный гигант (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/277/\">العملاق الأحمر </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/277/\">Roter Riese </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/277/\">Gigante roja </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/277/\">Géante rouge </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/277/\">Gigante rossa </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/red-giant-star/\">赤色巨星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/277/\">Gigante Vermelha </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/277/\">红巨星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/277/\">紅巨星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/6H69M193VT57/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/germany/images/potw1726a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:6H69M193VT57"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/6H69M193VT57/\"><img alt=\"The nearby red supergiant Betelgeuse, seen as orange blob showing a non-symmetric shape with a bright spot to the upper left\" src=\"/media/multimedia/thumbnails/the-red-supergiant-betelgeuse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The red supergiant Betelgeuse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The image shows Betelgeuse, a red supergiant in the constellation Orion, observed by the Atacama Large Millimeter/submillimeter Array (ALMA). ALMA consists of many antennae spread across a plain in Northern Chile. The observations from all of these receivers is synthesised together by a central computer to form an image. The wide distances between the antennae mean that is can resolve very fine details.   \n\nMost stars we observe are just seen as points of light, but Betelgeuse is so large (with a radius about 1,400 times larger than the Sun) and is sufficiently nearby that it is one of the few stars to have been resolved to show it as an extended object. \n\nBetelgeuse is a massive star, more than 14 times the mass of the Sun and is relatively young for a star (less than 14 million years old). However, its high mass led to it having a very hot core which burned through its hydrogen fuel quickly. It has since evolved through many stages and now appears as a red supergiant, it's final stage before exploding as a supernova. When such an explosion will happen is not known for certain, but it could be in around 100,000 years. Such an explosion would be visible from Earth, even during the day.<br/>\n<b>Credit:</b> ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella\n\t  <a href=\"https://www.eso.org/public/germany/images/potw1726a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Red Giant",
+      "aliases": [
+        "M giant"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Red Giant",
+          "body": "A red giant is a star that has a comparatively cool surface, but a diameter typically tens, or sometimes hundreds,  times larger than that of a main sequence star like our Sun. The comparatively low temperature gives the surface a reddish appearance, while the large diameter makes the star shine considerably brighter than our Sun. Red giants were originally main sequence stars, that is, Sun-like stars that burn hydrogen to helium in their cores via nuclear fusion. When such a star runs out of hydrogen fuel, it begins to burn helium into heavier elements. At that time,  the star expands, its surface cooling down in the process, and with its increased size the star becomes more luminous. The Sun will enter the red giant phase billions of years from now, at which time life on Earth will likely not survive. Examples of red giants are Arcturus in the constellation Boötes and Mira in the constellation Cetus. Red giants are unstable to pulsation (an oscillation where the star repeatedly becomes smaller and larger in turn) and, as they pulsate, can vary in brightness. The star Mira is an extreme example that can vary in brightness by a factor of 1000. In the spectral classification used by astronomers, red giants are mostly of spectral type M, and some are of spectral type K. Red giants are similar to so-called red supergiants, but with a lower mass."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Красный гигант",
+      "aliases": [
+        "Красный гигант"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Красный гигант",
+          "body": "Красный гигант — это звезда со сравнительно холодной поверхностью, но диаметром, обычно в десятки, а иногда и в сотни раз превышающим диаметр звезды главной последовательности, подобной нашему Солнцу. Сравнительно низкая температура придаёт поверхности красноватый вид, а большой диаметр делает звезду значительно ярче нашего Солнца. Красные гиганты изначально были звёздами главной последовательности, то есть звёздами, подобными Солнцу, которые сжигают водород в гелий в своих ядрах посредством термоядерного синтеза. Когда такая звезда исчерпывает водородное топливо, она начинает сжигать гелий в более тяжёлые элементы. В это время звезда расширяется, её поверхность при этом охлаждается, и с увеличением размера звезда становится более светимой. Солнце войдёт в фазу красного гиганта через миллиарды лет, и к тому времени жизнь на Земле, вероятно, не выживет. Примерами красных гигантов являются Арктур в созвездии Волопаса и Мира в созвездии Кита. Красные гиганты неустойчивы к пульсациям (колебаниям, при которых звезда попеременно становится то меньше, то больше) и, пульсируя, могут менять яркость. Звезда Мира — крайний пример, её яркость может меняться в 1000 раз. В спектральной классификации, используемой астрономами, красные гиганты в основном относятся к спектральному типу M, а некоторые — к спектральному типу K. Красные гиганты похожи на так называемые красные сверхгиганты, но имеют меньшую массу."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:6H69M193VT57",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-red-supergiant-betelgeuse.png",
+      "record_url": "https://astro4edu.org/resources/media/6H69M193VT57/",
+      "original_path": "data/media/original/media_6H69M193VT57.png",
+      "ru_path": null,
+      "sha256": "029a4bcb01dbaa28ec7a03f2d66f48a92d24aa3217b032a679b3e5377f371574",
+      "size": 4860538,
+      "title_en": "The red supergiant Betelgeuse",
+      "title_ru": "Красный сверхгигант Бетельгейзе",
+      "short_caption_en": "The red supergiant Betelgeuse",
+      "short_caption_ru": "Красный сверхгигант Бетельгейзе",
+      "caption_en": "The image shows Betelgeuse, a red supergiant in the constellation Orion, observed by the Atacama Large Millimeter/submillimeter Array (ALMA). ALMA consists of many antennae spread across a plain in Northern Chile. The observations from all of these receivers is synthesised together by a central computer to form an image. The wide distances between the antennae mean that is can resolve very fine details.   \r\n\r\nMost stars we observe are just seen as points of light, but Betelgeuse is so large (with a radius about 1,400 times larger than the Sun) and is sufficiently nearby that it is one of the few stars to have been resolved to show it as an extended object. \r\n\r\nBetelgeuse is a massive star, more than 14 times the mass of the Sun and is relatively young for a star (less than 14 million years old). However, its high mass led to it having a very hot core which burned through its hydrogen fuel quickly. It has since evolved through many stages and now appears as a red supergiant, it's final stage before exploding as a supernova. When such an explosion will happen is not known for certain, but it could be in around 100,000 years. Such an explosion would be visible from Earth, even during the day.",
+      "caption_ru": "На изображении показана Бетельгейзе — красный сверхгигант в созвездии Ориона, наблюдаемый с помощью Атакамского большого миллиметрового/субмиллиметрового массива (ALMA). ALMA состоит из множества антенн, рассредоточенных по равнине на севере Чили. Наблюдения со всех этих приёмников синтезируются центральным компьютером для формирования изображения. Большие расстояния между антеннами означают, что можно разрешать очень мелкие детали.\n\nБольшинство наблюдаемых нами звёзд видны просто как точки света, но Бетельгейзе настолько велика (с радиусом примерно в 1,400 раз больше Солнца) и находится достаточно близко, что является одной из немногих звёзд, разрешённых настолько, чтобы показать её как протяжённый объект.\n\nБетельгейзе — массивная звезда, более чем в 14 раз превышающая массу Солнца, и относительно молодая для звезды (менее 14 миллионов лет). Однако её высокая масса привела к тому, что у неё очень горячее ядро, которое быстро сожгло своё водородное топливо. С тех пор она прошла через многие стадии и теперь предстаёт как красный сверхгигант — её последняя стадия перед взрывом как сверхновая. Когда произойдёт такой взрыв, точно неизвестно, но это может случиться примерно через 100,000 лет. Такой взрыв был бы виден с Земли даже днём.",
+      "alt_en": "The nearby red supergiant Betelgeuse, seen as orange blob showing a non-symmetric shape with a bright spot to the upper left",
+      "alt_ru": "Близлежащий красный сверхгигант Бетельгейзе, видимый как оранжевое пятно несимметричной формы с ярким пятном в верхней левой части",
+      "credit": "ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella",
+      "credit_url": "https://www.eso.org/public/germany/images/potw1726a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        130,
+        277,
+        278,
+        347,
+        453
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

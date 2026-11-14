@@ -1,0 +1,223 @@
+{
+  "id": "term:442",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 442,
+    "url": "https://astro4edu.org/resources/glossary/term/442/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=442",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:29.311391+00:00",
+    "sha256": "e0b2c0cb92020899bfa9b95ef13cbe6a7844cd058fb92c196636b240938e2107"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      325,
+      331,
+      342,
+      396,
+      440,
+      515
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: G-type Star",
+      "body": "A star with spectral type \"G\". Astronomers identify G-type stars by the presence of strong absorption lines from ionized calcium; more generally, absorption lines from metals are stronger in G-type stars than in hotter stars (such as F-type stars) and weaker than in cooler stars (such as K-type stars). G-type stars have typical (effective) temperatures between around 5200 kelvins (K) and 6000 K. Compared to other stars, they appear yellow to human eyes, unless interstellar or atmospheric reddening is important. G-type stars that are main sequence stars, that is, that are burning hydrogen to helium in their core region with nuclear fusion, are called yellow dwarfs. The Sun is an example of a G-type star that is a yellow dwarf.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Spectral Type",
+          "url": "https://www.astro4edu.org/resources/glossary/term/325/",
+          "text_ru": "Спектральный класс"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Sun",
+          "url": "https://www.astro4edu.org/resources/glossary/term/342/",
+          "text_ru": "Солнце"
+        },
+        {
+          "text": "Reddening",
+          "url": "https://www.astro4edu.org/resources/glossary/term/396/",
+          "text_ru": "Покраснение"
+        },
+        {
+          "text": "Effective Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/440/",
+          "text_ru": "Эффективная температура"
+        },
+        {
+          "text": "Absorption Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/515/",
+          "text_ru": "Линия поглощения"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: G-type Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>G star</b> or <b>G-star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A star with spectral type \"G\". Astronomers identify G-type stars by the presence of strong absorption lines from ionized calcium; more generally, absorption lines from metals are stronger in G-type stars than in hotter stars (such as F-type stars) and weaker than in cooler stars (such as K-type stars). G-type stars have typical (effective) temperatures between around 5200 kelvins (K) and 6000 K. Compared to other stars, they appear yellow to human eyes, unless interstellar or atmospheric reddening is important. G-type stars that are main sequence stars, that is, that are burning hydrogen to helium in their core region with nuclear fusion, are called yellow dwarfs. The Sun is an example of a G-type star that is a yellow dwarf.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/325/\">Spectral Type</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/342/\">Sun</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/396/\">Reddening</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/440/\">Effective Temperature</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/515/\">Absorption Line</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звезда G-типа",
+      "body_ru": "Звезда спектрального класса «G». Астрономы идентифицируют звёзды G-типа по наличию сильных линий поглощения ионизированного кальция; в более общем смысле линии поглощения металлов сильнее у звёзд G-типа, чем у более горячих звёзд (таких как звёзды F-типа), и слабее, чем у более холодных звёзд (таких как звёзды K-типа). Типичные (эффективные) температуры звёзд G-типа составляют примерно от 5200 кельвинов (K) до 6000 K. По сравнению с другими звёздами они кажутся человеческому глазу жёлтыми, если только межзвёздное или атмосферное покраснение не имеет важного значения. Звёзды G-типа, являющиеся звёздами главной последовательности, то есть сжигающие водород в гелий в своей центральной области посредством термоядерного синтеза, называются жёлтыми карликами. Солнце является примером звезды G-типа, которая является жёлтым карликом."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "G型星 (external link)",
+          "url": "https://astro-dic.jp/g-type-star/",
+          "text_ru": "Звезда типа G (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/442/\">نجم من النوع G </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/442/\">G-Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/442/\">Estrella de tipo G </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/442/\">Étoile de type G </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/442/\">Stella di tipo G </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/g-type-star/\">G型星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/442/\">Estrela do tipo G </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/442/\">G 型星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/442/\">G 型星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/mX21es50Pj16/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:mX21es50Pj16"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/mX21es50Pj16/\"><img alt=\"A quite ragged line peaking about 470 nm then declining at longer wavelengths with a few deeper dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-a-g-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of a G-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the G-type star UCAC4 700-069569. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. In G-type stars lines from hydrogen atoms are weaker than in F-type stars and lines from ionised calcium stronger. Lines from metal atoms such as atoms of iron, sodium and calcium also begin to become prominent.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "G-type Star",
+      "aliases": [
+        "G star",
+        "G-star"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: G-type Star",
+          "body": "A star with spectral type \"G\". Astronomers identify G-type stars by the presence of strong absorption lines from ionized calcium; more generally, absorption lines from metals are stronger in G-type stars than in hotter stars (such as F-type stars) and weaker than in cooler stars (such as K-type stars). G-type stars have typical (effective) temperatures between around 5200 kelvins (K) and 6000 K. Compared to other stars, they appear yellow to human eyes, unless interstellar or atmospheric reddening is important. G-type stars that are main sequence stars, that is, that are burning hydrogen to helium in their core region with nuclear fusion, are called yellow dwarfs. The Sun is an example of a G-type star that is a yellow dwarf."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда типа G",
+      "aliases": [
+        "Звезда G",
+        "Звезда G"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звезда G-типа",
+          "body": "Звезда спектрального класса «G». Астрономы идентифицируют звёзды G-типа по наличию сильных линий поглощения ионизированного кальция; в более общем смысле линии поглощения металлов сильнее у звёзд G-типа, чем у более горячих звёзд (таких как звёзды F-типа), и слабее, чем у более холодных звёзд (таких как звёзды K-типа). Типичные (эффективные) температуры звёзд G-типа составляют примерно от 5200 кельвинов (K) до 6000 K. По сравнению с другими звёздами они кажутся человеческому глазу жёлтыми, если только межзвёздное или атмосферное покраснение не имеет важного значения. Звёзды G-типа, являющиеся звёздами главной последовательности, то есть сжигающие водород в гелий в своей центральной области посредством термоядерного синтеза, называются жёлтыми карликами. Солнце является примером звезды G-типа, которая является жёлтым карликом."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:mX21es50Pj16",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-a-g-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/mX21es50Pj16/",
+      "original_path": "data/media/original/diagram_mX21es50Pj16.png",
+      "ru_path": "data/media/ru/diagram_mX21es50Pj16.png",
+      "sha256": "c3184d68140303109b389aa98f152dd94c1d441e8ecd9157ad026104ab3cab1b",
+      "size": 98845,
+      "title_en": "Spectrum of a G-type star",
+      "title_ru": "Спектр звезды G-типа",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the G-type star UCAC4 700-069569. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. In G-type stars lines from hydrogen atoms are weaker than in F-type stars and lines from ionised calcium stronger. Lines from metal atoms such as atoms of iron, sodium and calcium also begin to become prominent.",
+      "caption_ru": "Спектр звезды G-типа UCAC4 700-069569. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. У звёзд G-типа линии атомов водорода слабее, чем у звёзд F-типа, а линии ионизированного кальция сильнее. Линии атомов металлов, таких как атомы железа, натрия и кальция, также начинают становиться заметными.",
+      "alt_en": "A quite ragged line peaking about 470 nm then declining at longer wavelengths with a few deeper dips.",
+      "alt_ru": "Довольно изрезанная линия, достигающая пика около 470 нм, затем спадающая на более длинных волнах с несколькими более глубокими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        328,
+        382,
+        442
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "147a61e97cb967d1a60328b1d54e39dfabfbd41afb31b870504898f4f5a2fe09"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

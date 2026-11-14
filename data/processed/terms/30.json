@@ -1,0 +1,147 @@
+{
+  "id": "term:30",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 30,
+    "url": "https://astro4edu.org/resources/glossary/term/30/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=30",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:14.500919+00:00",
+    "sha256": "7aa418a87d5ae5bb77df50af36c492db8dbbe2a422223248941b42512e4bf80c"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      29,
+      107,
+      156,
+      229,
+      272,
+      472
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Atmospheric Extinction",
+      "body": "Atmospheric extinction is the scattering or absorption of the light from celestial objects passing through the Earth's atmosphere. Atmospheric gases allow the entry of visible light and are transparent to radio and some infrared light, so these types of ground-based telescopes are widely used. To avoid this phenomenon and to observe light of other wavelengths, some telescopes are located beyond the atmosphere.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Atmosphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/29/",
+          "text_ru": "Атмосфера"
+        },
+        {
+          "text": "Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/107/",
+          "text_ru": "Поглощение"
+        },
+        {
+          "text": "Infrared Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/156/",
+          "text_ru": "Инфракрасная астрономия"
+        },
+        {
+          "text": "Optical Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/229/",
+          "text_ru": "Оптическая астрономия"
+        },
+        {
+          "text": "Radio Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/272/",
+          "text_ru": "Радиоастрономия"
+        },
+        {
+          "text": "Interstellar Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/472/",
+          "text_ru": "Межзвёздное поглощение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Atmospheric Extinction</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Atmospheric extinction is the scattering or absorption of the light from celestial objects passing through the Earth's atmosphere. Atmospheric gases allow the entry of visible light and are transparent to radio and some infrared light, so these types of ground-based telescopes are widely used. To avoid this phenomenon and to observe light of other wavelengths, some telescopes are located beyond the atmosphere.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/29/\">Atmosphere</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/107/\">Extinction</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/156/\">Infrared Astronomy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/229/\">Optical Astronomy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/272/\">Radio Astronomy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/472/\">Interstellar Extinction</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Атмосферное поглощение",
+      "body_ru": "Атмосферное поглощение — это рассеяние или поглощение света от небесных объектов, проходящего через атмосферу Земли. Атмосферные газы пропускают видимый свет и прозрачны для радио- и некоторого инфракрасного излучения, поэтому такие наземные телескопы широко используются. Чтобы избежать этого явления и наблюдать свет других длин волн, некоторые телескопы размещают за пределами атмосферы."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "大気吸収 (external link)",
+          "url": "https://astro-dic.jp/atmospheric-absorption/",
+          "text_ru": "Атмосферное поглощение (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/30/\">التوهين الجوي للضوء </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/30/\">Atmosphärische Extinktion </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/30/\">Extinción Atmosférica </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/30/\">Extinction atmosphérique </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/30/\">Estinzione atmosferica </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/atmospheric-absorption/\">大気吸収 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/30/\">대기소광 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/30/\">Extinção atmosférica </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/30/\">大气消光 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/30/\">大氣消光 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Atmospheric Extinction",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Atmospheric Extinction",
+          "body": "Atmospheric extinction is the scattering or absorption of the light from celestial objects passing through the Earth's atmosphere. Atmospheric gases allow the entry of visible light and are transparent to radio and some infrared light, so these types of ground-based telescopes are widely used. To avoid this phenomenon and to observe light of other wavelengths, some telescopes are located beyond the atmosphere."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Атмосферное поглощение",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Атмосферное поглощение",
+          "body": "Атмосферное поглощение — это рассеяние или поглощение света от небесных объектов, проходящего через атмосферу Земли. Атмосферные газы пропускают видимый свет и прозрачны для радио- и некоторого инфракрасного излучения, поэтому такие наземные телескопы широко используются. Чтобы избежать этого явления и наблюдать свет других длин волн, некоторые телескопы размещают за пределами атмосферы."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

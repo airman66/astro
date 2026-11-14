@@ -1,0 +1,214 @@
+{
+  "id": "term:440",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 440,
+    "url": "https://astro4edu.org/resources/glossary/term/440/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=440",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:28.838559+00:00",
+    "sha256": "5425656284de0bd115ca02449b921529b5a33c533e7a35952948187e94fe3f0d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      42,
+      251,
+      325,
+      353
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Effective Temperature",
+      "body": "The effective temperature of a star is the temperature of a theoretical perfect emitter (a \"blackbody\") that has the same surface area and the same total light output as the star. Stars have different layers with different temperatures, several of which contribute to what we eventually receive as starlight. Often astronomers find it useful to represent a star by a much simpler model, namely an idealized light-emitter called a \"blackbody\". A blackbody's total energy output is completely determined by specifying two parameters: its temperature and its surface area. The star's effective temperature is the temperature of a blackbody which has the same surface area and same total energy output as the star. The effective temperature is one useful way to average the contributions to the star's light output from different parts of its outer layers and typically has a value very similar to the temperature of the star's photosphere – the surface layer where most of the star's light originates.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Blackbody Radiation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/42/",
+          "text_ru": "Чернотельное излучение"
+        },
+        {
+          "text": "Photosphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/251/",
+          "text_ru": "Фотосфера"
+        },
+        {
+          "text": "Spectral Type",
+          "url": "https://www.astro4edu.org/resources/glossary/term/325/",
+          "text_ru": "Спектральный класс"
+        },
+        {
+          "text": "Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/353/",
+          "text_ru": "Температура"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Effective Temperature</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The effective temperature of a star is the temperature of a theoretical perfect emitter (a \"blackbody\") that has the same surface area and the same total light output as the star.<br/><br/>Stars have different layers with different temperatures, several of which contribute to what we eventually receive as starlight. Often astronomers find it useful to represent a star by a much simpler model, namely an idealized light-emitter called a \"blackbody\". A blackbody's total energy output is completely determined by specifying two parameters: its temperature and its surface area. The star's effective temperature is the temperature of a blackbody which has the same surface area and same total energy output as the star. <br/><br/>The effective temperature is one useful way to average the contributions to the star's light output from different parts of its outer layers and typically has a value very similar to the temperature of the star's photosphere – the surface layer where most of the star's light originates.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/42/\">Blackbody Radiation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/251/\">Photosphere</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/325/\">Spectral Type</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/353/\">Temperature</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Эффективная температура",
+      "body_ru": "Эффективная температура звезды — это температура теоретического идеального излучателя («абсолютно чёрного тела»), который имеет ту же площадь поверхности и ту же общую светимость, что и звезда. Звёзды имеют разные слои с разными температурами, некоторые из которых вносят вклад в то, что мы в конечном итоге получаем как звёздный свет. Часто астрономам полезно представлять звезду с помощью гораздо более простой модели, а именно идеализированного излучателя света, называемого «абсолютно чёрным телом». Общий выход энергии абсолютно чёрного тела полностью определяется заданием двух параметров: его температуры и площади поверхности. Эффективная температура звезды — это температура абсолютно чёрного тела, которое имеет ту же площадь поверхности и тот же общий выход энергии, что и звезда. Эффективная температура — это один из полезных способов усреднения вкладов в светимость звезды от разных частей её внешних слоёв, и обычно её значение очень близко к температуре фотосферы звезды — поверхностного слоя, где возникает большая часть света звезды."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "有効温度 (external link)",
+          "url": "https://astro-dic.jp/effective-temperature/",
+          "text_ru": "Эффективная температура (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/440/\">درجة الحرارة الفعالة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/440/\">Effektivtemperatur </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/440/\">Temperatura efectiva </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/440/\">Température effective </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/440/\">Temperatura effettiva </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/effective-temperature/\">有効温度 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/440/\">Temperatura efetiva </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/440/\">有效温度 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/440/\">有效溫度 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/iq40Hc92ni31/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:iq40Hc92ni31"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/iq40Hc92ni31/\"><img alt=\"A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line\" src=\"/media/diagrams/multimedia/thumbnails/hr_diagram_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hertzsprung-Russell diagram</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\n \nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\n \nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.<br/>\n<b>Credit:</b> IAU OAE/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Effective Temperature",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Effective Temperature",
+          "body": "The effective temperature of a star is the temperature of a theoretical perfect emitter (a \"blackbody\") that has the same surface area and the same total light output as the star. Stars have different layers with different temperatures, several of which contribute to what we eventually receive as starlight. Often astronomers find it useful to represent a star by a much simpler model, namely an idealized light-emitter called a \"blackbody\". A blackbody's total energy output is completely determined by specifying two parameters: its temperature and its surface area. The star's effective temperature is the temperature of a blackbody which has the same surface area and same total energy output as the star. The effective temperature is one useful way to average the contributions to the star's light output from different parts of its outer layers and typically has a value very similar to the temperature of the star's photosphere – the surface layer where most of the star's light originates."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Эффективная температура",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Эффективная температура",
+          "body": "Эффективная температура звезды — это температура теоретического идеального излучателя («абсолютно чёрного тела»), который имеет ту же площадь поверхности и ту же общую светимость, что и звезда. Звёзды имеют разные слои с разными температурами, некоторые из которых вносят вклад в то, что мы в конечном итоге получаем как звёздный свет. Часто астрономам полезно представлять звезду с помощью гораздо более простой модели, а именно идеализированного излучателя света, называемого «абсолютно чёрным телом». Общий выход энергии абсолютно чёрного тела полностью определяется заданием двух параметров: его температуры и площади поверхности. Эффективная температура звезды — это температура абсолютно чёрного тела, которое имеет ту же площадь поверхности и тот же общий выход энергии, что и звезда. Эффективная температура — это один из полезных способов усреднения вкладов в светимость звезды от разных частей её внешних слоёв, и обычно её значение очень близко к температуре фотосферы звезды — поверхностного слоя, где возникает большая часть света звезды."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:iq40Hc92ni31",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hr_diagram_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/iq40Hc92ni31/",
+      "original_path": "data/media/original/diagram_iq40Hc92ni31.png",
+      "ru_path": "data/media/ru/diagram_iq40Hc92ni31.png",
+      "sha256": "031aed503f490c077502cc7087d8513da6a8f909cb63d2e84ab377b6111d2345",
+      "size": 66045,
+      "title_en": "Hertzsprung-Russell diagram",
+      "title_ru": "Диаграмма Герцшпрунга — Рассела",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\r\n \r\nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\r\n \r\nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.",
+      "caption_ru": "На этой диаграмме показаны температура и светимость различных звёзд. Размер каждой точки соответствует радиусу звезды, а её цвет — это цвет, который увидел бы человеческий глаз. Цвета звёзд варьируются от бледно-голубого до бледно-красновато-оранжевого. Ни одна звезда не имеет чистого цвета, такого как красный, зелёный или синий, поскольку спектры звёзд включают свет множества разных цветов. Однако самые красные звёзды обычно называют красными, а самые голубые — синими. Выборка звёзд, использованная для построения этой диаграммы, была подобрана так, чтобы показать широкий диапазон звёзд разных типов, поэтому относительное количество каждого типа звёзд не отражает того, насколько часто встречается каждый тип.\r\n \r\nОт верхнего левого угла к нижнему правому идёт длинная линия звёзд, сжигающих водород в своих ядрах. Это называется главной последовательностью. На этой линии видны звёзды Минтака, Ахернар, Сириус A, Солнце и Проксима Центавра. Объекты вокруг Проксимы Центавра на нижнем правом конце главной последовательности известны как красные карлики. Ниже и правее красных карликов находятся Тейде 1 и Келу-1 A. Эти два объекта — коричневые карлики, объекты со слишком малой массой, чтобы их ядра были достаточно горячими для длительного синтеза водорода. Поскольку они не сжигают водород, коричневые карлики не считаются звёздами главной последовательности. Название «коричневый карлик» не связано с их цветом.\r\n \r\nНад главной последовательностью мы находим субгиганты, гиганты и сверхгиганты. Это звёзды, которые завершили сжигание водорода в своём ядре и превратились в более крупные объекты. Яркость звезды зависит от её температуры и размера, поэтому звёзды-гиганты ярче звёзд с меньшим радиусом, но той же температурой. Со временем эти объекты приблизятся к концу своей жизни и пройдут либо фазу планетарной туманности, либо станут сверхновыми. Звёзды, завершающие жизнь фазой планетарной туманности, становятся типом звёздного остатка, называемым белым карликом. Такие объекты гораздо меньше звёзд той же температуры и, следовательно, слабее, и находятся значительно ниже главной последовательности. Звёзды, завершающие жизнь как сверхновые, становятся либо чёрными дырами, либо нейтронными звёздами. Они не показаны на этом графике.",
+      "alt_en": "A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line",
+      "alt_ru": "Линия звёзд идёт от холодных слабых звёзд к горячим ярким звёздам. Некоторые звёзды лежат выше или ниже этой линии",
+      "credit": "IAU OAE/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        46,
+        59,
+        130,
+        143,
+        180,
+        186,
+        334,
+        347,
+        386,
+        440,
+        481,
+        503
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "968a1f2e187f12de7451aef8a3b18cf42dbb0a047cac3b2eaab106a35408146d"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

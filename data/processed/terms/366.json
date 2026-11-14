@@ -1,0 +1,212 @@
+{
+  "id": "term:366",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 366,
+    "url": "https://astro4edu.org/resources/glossary/term/366/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=366",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:04.530245+00:00",
+    "sha256": "a11553baee665deefc3f9a9330e3d9819798cc7ccdf2f4a3685a47bbb977d0d8"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      26,
+      87,
+      170,
+      212,
+      314,
+      393
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Trans-Neptunian Object",
+      "body": "Trans-Neptunian objects (TNOs) are a class of small objects and dwarf planets that orbit the Sun beyond the orbit of Neptune. These are defined as having a typical distance from the Sun (the semi-major axis of their orbit) that is greater than Neptune's typical distance from the Sun (30.1 astronomical units or Earth–Sun distances). There are over 2000 known TNOs. Most are members of the Kuiper Belt although more distant objects are members of a population called the scattered disk.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astronomical Unit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/26/",
+          "text_ru": "Астрономическая единица"
+        },
+        {
+          "text": "Dwarf Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/87/",
+          "text_ru": "Карликовая планета"
+        },
+        {
+          "text": "Kuiper Belt",
+          "url": "https://www.astro4edu.org/resources/glossary/term/170/",
+          "text_ru": "Пояс Койпера"
+        },
+        {
+          "text": "Neptune",
+          "url": "https://www.astro4edu.org/resources/glossary/term/212/",
+          "text_ru": "Нептун"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Semi-Major Axis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/393/",
+          "text_ru": "Большая полуось"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Trans-Neptunian Object</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Trans-Neptunian objects (TNOs) are a class of small objects and dwarf planets that orbit the Sun beyond the orbit of Neptune. These are defined as having a typical distance from the Sun (the semi-major axis of their orbit) that is greater than Neptune's typical distance from the Sun (30.1 astronomical units or Earth–Sun distances). There are over 2000 known TNOs. Most are members of the Kuiper Belt although more distant objects are members of a population called the scattered disk.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/26/\">Astronomical Unit</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/87/\">Dwarf Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/170/\">Kuiper Belt</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/212/\">Neptune</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/393/\">Semi-Major Axis</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Транснептуновый объект",
+      "body_ru": "Транснептуновые объекты (ТНО) — это класс малых объектов и карликовых планет, которые обращаются вокруг Солнца за орбитой Нептуна. Они определяются как имеющие типичное расстояние от Солнца (большая полуось их орбиты), которое больше типичного расстояния Нептуна от Солнца (30.1 астрономических единиц или расстояний Земля–Солнце). Известно более 2000 ТНО. Большинство из них являются членами пояса Койпера, хотя более далекие объекты являются членами популяции, называемой рассеянным диском."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "太陽系外縁天体 (external link)",
+          "url": "https://astro-dic.jp/trans-neptunian-object-5/",
+          "text_ru": "Транснептуновый объект (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/366/\">الجرم الوراء نبتوني </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/366/\">Transneptunisches Objekt </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/366/\">Objeto transneptuniano </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/366/\">Objet transneptunien </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/366/\">Oggetto trans-nettuniano </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/trans-neptunian-object-5/\">太陽系外縁天体 (external link)</a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/366/\">ट्रान्स-नेप्च्युनियन वस्तु / वरुण पारका वस्तु </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/366/\">Objeto transnetuniano </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/366/\">外海王星天体 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/366/\">外海王星天體 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/iY71I1998m13/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://photojournal.jpl.nasa.gov/catalog/PIA19952",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:iY71I1998m13"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/iY71I1998m13/\"><img alt=\"Image of Pluto in enhanced colour to bring out differences in surface composition. They include craters, ridges and plains.\" src=\"/media/multimedia/thumbnails/PIA19952_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Pluto</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> NASA's New Horizons spacecraft captured this high-resolution enhanced colour view of the dwarf planet Pluto on in July 2015. The image combines blue, red and infrared images taken by the Ralph/Multispectral Visual Imaging Camera (MVIC). Pluto’s surface appears enhanced in this view to a rainbow of pale blues, yellows, oranges, and deep reds. The image resolves details and colours on scales as small as 1.3 kilometers.<br/>\n<b>Credit:</b> NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute\n\t  <a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA19952\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Trans-Neptunian Object",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Trans-Neptunian Object",
+          "body": "Trans-Neptunian objects (TNOs) are a class of small objects and dwarf planets that orbit the Sun beyond the orbit of Neptune. These are defined as having a typical distance from the Sun (the semi-major axis of their orbit) that is greater than Neptune's typical distance from the Sun (30.1 astronomical units or Earth–Sun distances). There are over 2000 known TNOs. Most are members of the Kuiper Belt although more distant objects are members of a population called the scattered disk."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Транснептуновый объект",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Транснептуновый объект",
+          "body": "Транснептуновые объекты (ТНО) — это класс малых объектов и карликовых планет, которые обращаются вокруг Солнца за орбитой Нептуна. Они определяются как имеющие типичное расстояние от Солнца (большая полуось их орбиты), которое больше типичного расстояния Нептуна от Солнца (30.1 астрономических единиц или расстояний Земля–Солнце). Известно более 2000 ТНО. Большинство из них являются членами пояса Койпера, хотя более далекие объекты являются членами популяции, называемой рассеянным диском."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:iY71I1998m13",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA19952.jpg",
+      "record_url": "https://astro4edu.org/resources/media/iY71I1998m13/",
+      "original_path": "data/media/original/media_iY71I1998m13.jpg",
+      "ru_path": null,
+      "sha256": "9ff70a2bc500fef4d9e53e3e73080b866cdde3dcb5d0cf6903ac1396a7ca5879",
+      "size": 2554610,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Pluto imaged by NASA's New Horizons mission",
+      "short_caption_ru": "Плутон, снятый миссией NASA «Новые горизонты»",
+      "caption_en": "NASA's New Horizons spacecraft captured this high-resolution enhanced colour view of the dwarf planet Pluto on in July 2015. The image combines blue, red and infrared images taken by the Ralph/Multispectral Visual Imaging Camera (MVIC). Pluto’s surface appears enhanced in this view to a rainbow of pale blues, yellows, oranges, and deep reds. The image resolves details and colours on scales as small as 1.3 kilometers.",
+      "caption_ru": "Космический аппарат NASA «Новые горизонты» получил это цветное изображение карликовой планеты Плутон с высоким разрешением в июле 2015 года. Изображение объединяет синие, красные и инфракрасные снимки, сделанные камерой Ralph/Multispectral Visual Imaging Camera (MVIC). На этом снимке поверхность Плутона усилена до радуги бледно-голубых, жёлтых, оранжевых и тёмно-красных оттенков. Изображение позволяет различать детали и цвета в масштабе до 1,3 километра.",
+      "alt_en": "Image of Pluto in enhanced colour to bring out differences in surface composition. They include craters, ridges and plains.",
+      "alt_ru": "Изображение Плутона в усиленном цвете, чтобы подчеркнуть различия в составе поверхности. На нём видны кратеры, хребты и равнины.",
+      "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA19952",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        87,
+        170,
+        259,
+        366
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

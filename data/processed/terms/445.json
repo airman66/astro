@@ -1,0 +1,308 @@
+{
+  "id": "term:445",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 445,
+    "url": "https://astro4edu.org/resources/glossary/term/445/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=445",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:30.366627+00:00",
+    "sha256": "33d1ff16ea3533804f841b21d6b00923e10d69ae475513416bef681640b44c88"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": 450,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Interstellar Medium",
+      "body": "The interstellar medium (ISM) is a term to describe all of the gas and dust that lies between star systems in a galaxy. Our Solar System lies in the disk of the Milky Way where most of the ISM is atomic hydrogen mixed with atomic helium and dust. The ISM has a very low density compared to planetary atmospheres, with a typical density less than one particle per cubic centimeter, roughly 50 billion, billion times less dense than the Earth's atmosphere. This density varies greatly, along with the temperature, across the Galaxy with the ISM split into several different components. The largest components by volume in the galactic disk are the warm atomic gas and warm ionized gas, both with temperatures around 8000 kelvins (K) and densities around half an atom or ion per cubic centimeter. A smaller volume is in the form of colder, denser atomic gas with a temperature around 40 K. A still smaller volume of the ISM is in the form of denser (up to a million molecules per cubic centimeter), colder (<20 K) clouds of molecular hydrogen. Some of these molecular clouds will collapse under their own gravity, leading to the formation of new stars. Molecular clouds in the Milky Way are mostly found in its spiral arms. The gas surrounding the Milky Way's disk is very hot (millions of kelvins) and very low density. Stars put gas and dust back into the ISM through stellar winds and supernovae. The gas and dust returned to the ISM have a higher fraction of heavy elements (metals), thus enriching the galaxy over time. The gas and dust in the interstellar medium is the main cause of interstellar extinction.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Dust",
+          "url": "https://www.astro4edu.org/resources/glossary/term/85/",
+          "text_ru": "Пыль"
+        },
+        {
+          "text": "Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/107/",
+          "text_ru": "Поглощение"
+        },
+        {
+          "text": "Galactic Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/117/",
+          "text_ru": "Галактический диск"
+        },
+        {
+          "text": "Gas",
+          "url": "https://www.astro4edu.org/resources/glossary/term/124/",
+          "text_ru": "Газ"
+        },
+        {
+          "text": "Milky Way",
+          "url": "https://www.astro4edu.org/resources/glossary/term/199/",
+          "text_ru": "Млечный Путь"
+        },
+        {
+          "text": "Planetary Nebula",
+          "url": "https://www.astro4edu.org/resources/glossary/term/256/",
+          "text_ru": "Планетарная туманность"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Solar Wind",
+          "url": "https://www.astro4edu.org/resources/glossary/term/315/",
+          "text_ru": "Солнечный ветер"
+        },
+        {
+          "text": "Spiral Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/330/",
+          "text_ru": "Спиральная галактика"
+        },
+        {
+          "text": "Star Formation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/333/",
+          "text_ru": "Звёздообразование"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "Interstellar Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/472/",
+          "text_ru": "Межзвёздное поглощение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Interstellar Medium</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Gas Cloud</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The interstellar medium (ISM) is a term to describe all of the gas and dust that lies between star systems in a galaxy. Our Solar System lies in the disk of the Milky Way where most of the ISM is atomic hydrogen mixed with atomic helium and dust. <br/><br/>The ISM has a very low density compared to planetary atmospheres, with a typical density less than one particle per cubic centimeter, roughly 50 billion, billion times less dense than the Earth's atmosphere. This density varies greatly, along with the temperature, across the Galaxy with the ISM split into several different components. <br/><br/>The largest components by volume in the galactic disk are the warm atomic gas and warm ionized gas, both with temperatures around 8000 kelvins (K) and densities around half an atom or ion per cubic centimeter. A smaller volume is in the form of colder, denser atomic gas with a temperature around 40 K. A still smaller volume of the ISM is in the form of denser (up to a million molecules per cubic centimeter), colder (&lt;20 K) clouds of molecular hydrogen. Some of these molecular clouds will collapse under their own gravity, leading to the formation of new stars. Molecular clouds in the Milky Way are mostly found in its spiral arms. The gas surrounding the Milky Way's disk is very hot (millions of kelvins) and very low density.<br/><br/>Stars put gas and dust back into the ISM through stellar winds and supernovae. The gas and dust returned to the ISM have a higher fraction of heavy elements (metals), thus enriching the galaxy over time. The gas and dust in the interstellar medium is the main cause of interstellar extinction.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/85/\">Dust</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/107/\">Extinction</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/117/\">Galactic Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/124/\">Gas</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/199/\">Milky Way</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/256/\">Planetary Nebula</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/315/\">Solar Wind</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/330/\">Spiral Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/333/\">Star Formation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/472/\">Interstellar Extinction</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Межзвёздная среда",
+      "body_ru": "Межзвёздная среда (МЗС) — это термин, описывающий весь газ и пыль, которые находятся между звёздными системами в галактике. Наша Солнечная система находится в диске Млечного Пути, где большая часть МЗС состоит из атомарного водорода, смешанного с атомарным гелием и пылью. МЗС имеет очень низкую плотность по сравнению с планетными атмосферами, типичная плотность составляет менее одной частицы на кубический сантиметр, примерно в 50 миллиардов миллиардов раз менее плотная, чем атмосфера Земли. Эта плотность сильно варьируется вместе с температурой по всей Галактике, при этом МЗС разделена на несколько различных компонентов. Наибольшие по объёму компоненты в галактическом диске — это тёплый атомарный газ и тёплый ионизированный газ, оба с температурами около 8000 кельвинов (К) и плотностями около половины атома или иона на кубический сантиметр. Меньший объём приходится на более холодный, более плотный атомарный газ с температурой около 40 К. Ещё меньший объём МЗС представлен более плотными (до миллиона молекул на кубический сантиметр), более холодными (<20 К) облаками молекулярного водорода. Некоторые из этих молекулярных облаков коллапсируют под действием собственной гравитации, что приводит к формированию новых звёзд. Молекулярные облака в Млечном Пути в основном находятся в его спиральных рукавах. Газ, окружающий диск Млечного Пути, очень горячий (миллионы кельвинов) и очень низкой плотности. Звёзды возвращают газ и пыль в МЗС через звёздные ветры и сверхновые. Газ и пыль, возвращённые в МЗС, имеют более высокую долю тяжёлых элементов (металлов), таким образом обогащая галактику со временем. Газ и пыль в межзвёздной среде являются основной причиной межзвёздного поглощения."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "星間媒質 (external link)",
+          "url": "https://astro-dic.jp/interstellar-medium/",
+          "text_ru": "Межзвёздная среда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/450/\">الوسط بين النجمي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/450/\">Interstellares Medium </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/450/\">Medio interestelar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/450/\">Milieu interstellaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/450/\">Mezzo interstellare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/interstellar-medium/\">星間媒質 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/450/\">Meio interestelar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/450/\">星际介质 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/450/\">星際介質 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Ab24Np72995/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/MN2Yx61VC6/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/WS23f368jp95/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2017/09/Herschel_s_view_of_new_stars_and_molecular_clouds",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-3.0-IGO",
+          "url": "https://creativecommons.org/licenses/by/3.0/igo/deed.en",
+          "text_ru": "CC-BY-3.0-IGO"
+        },
+        {
+          "text": "Creative Commons Attribution 3.0 IGO icons",
+          "url": "https://creativecommons.org/licenses/by/3.0/igo/deed.en",
+          "text_ru": "Значки Creative Commons Attribution 3.0 IGO"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Ai54em239E15/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1027a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/98346s38n272/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1501a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:MN2Yx61VC6"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Ab24Np72995/\"><img alt=\"Above a volcano, a bow-tie-shaped Orion is peppered with bright sweeps of nebular gas\" src=\"/media/multimedia/thumbnails/orion-rises-over-mount-etna_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Orion Rises Over Mount Etna</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nTaken in February 2021, this image is a composite of an astronomy picture in the background and Mount Etna, the famous volcano in Sicily, Italy, in the foreground. Prominently, we see the red hydrogen clouds in space in the area of Orion. Barnard’s Loop is the gigantic bow with the Great Orion Nebula and the Horsehead Nebula in its centre. The deeper-coloured Horse Head is below the southernmost stars in Orion’s Belt, which is the line of white stars above the red nebula. Clearly visible is also the division between the Small and the Great Orion Nebula, the circular and the trapezium-shaped structure in light pink within which one of the nearest star-forming regions is located. The nebula is only a bit more than a thousand light-years away.\n\nIn the middle-left, close to the edge of the image, the small red structure is the Monkey Head Nebula still in the constellation Orion. It hosts a young star cluster and the deep red colour of this hydrogen cloud indicates its potential to build new stars in the future if the material is compressed again. All these reddish objects are strongly processed in this image, as they are not visible to the unaided eye.\n\nStill, this image provides an interesting feature; the red supergiant star Betelgeuse lies in the middle of the image and it seems to be directly above the active volcano Mount Etna. At the foot of this volcano is an ancient settlement, the city of Catania. We consider both Betelgeuse and Mount Etna somehow dangerous — but which of them will erupt first?\n\n\nOk, we know that Etna occasionally erupts. Normally it exhibits only small eruptions, but the bigger ones happen every few centuries. We also know that Betelgeuse as a giant star will become a supernova in the future. Astronomers call the timescale for the potential supernova short, implying that it will be only 10 000 or maybe 100 000 years until this star explodes. This is “soon” for astronomers, meaning that on Earth, two to four precession cycles will pass by (with the consequence that the Sahara will turn green and dry again two to four times), continental drift will take Africa further north and cause the Alps to grow in height, the Niagara falls in America will wash the rock completely away and only after all this (and much more) happening on Earth will Betelgeuse explode as a supernova. Mount Etna is much more dangerous for the people in Sicily, and Catania in particular, because it will erupt sooner.<br/>\n<b>Credit:</b> Dario Giannobile/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/MN2Yx61VC6/\"><img alt=\"A cluster of brilliant blue stars illuminate the surrounding nebular gas.\" src=\"/media/multimedia/thumbnails/the-pleiades-m45-with-majestic-dust_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Pleiades M45 with Majestic Dust</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nTaken in Dar Eid in Saint Catherine/Sinai, Egypt, in October 2021, this image shows the Pleiades, an open cluster also known as The Seven Sisters.\n\nThe Pleiades are located in the north-western part of the constellation Taurus, the Bull. This constellation originates from ancient Babylonian or even Sumerian belief, where it was designated the Bull of Heaven, a mighty creature owned by the sky god. In Late Babylonian times, the Pleiades were called The Bristle at the hunchback of The Bull. In China, the asterism is also called The Hair, but this does not necessarily imply any relationship between the East Asian and West Asian names of this asterism, although exchange is hypothesised with the establishment of the Silk Road.\n\nIn ancient Babylonian texts the term The Hair does not appear. Instead, the Pleiades are only called The Star Cluster in Sumerian, and the Sumerian term was used in later languages as a loanword. The Sumerian and early Babylonian religion associated all constellations with specific deities, including gods, demons, messengers of gods. The Star Cluster was associated with a deity of the Netherworld that was called The Seven and was considered an ensemble of seven speaking weapons or strongly armed gods. The later Greek name of the Seven Sisters might possibly have sprung from an intercultural misunderstanding of this older religious association, since, in fact, seven stars are not seen in this cluster.\n\nThe star cluster of the Pleiades is really prominent in the sky, and thus was used for several cultural purposes, such as determining the calendar and the spring equinox. However, its significance is frequently overstated in cultural astronomy. As the tradition of representing it with seven dots originates from an ancient Sumerian belief, we should be careful about interpreting any group of seven dots on cave walls and archaeological sites across Europe, Asia and America from the Stone Age onwards as a representation of the Pleiades.\n\nModern astrophysics has found that the star cluster of the Pleiades is extraordinarily young, so there was certainly not an additional star in ancient times. Furthermore, we know that the bright stars are only the core region of an open star cluster that consists of hundreds of stars scattered over an area of the sky which exceeds the bright core by one or two of its diameters in any direction. The photograph does not even show the whole cluster. The group is thought to be about 400 light-years away from Earth, which is relatively close in astronomical terms.<br/>\n<b>Credit:</b> Mohamed Usama/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/WS23f368jp95/\"><img alt=\"A red patch mass of gas with a few dark bubbles with lighter edges and several lighter colored clusters and filaments\" src=\"/media/multimedia/thumbnails/herschels-view-of-new-stars-and-molecular-clouds_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Herschel’s view of new stars and molecular clouds</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the Westerhout 3, 4 and 5 star formation regions. This area has huge amounts of gas and dust. This gas and dust hides the physical processes going on in this region from studies using visible light. This image was taken in infrared light by the Herschel Space Observatory. This infrared light allowed Herschel to see deep into these star forming regions.\n\nIn Westerhout 3, 4 and 5, huge, cold clouds of molecular hydrogen have collapsed into dense knots and filaments. Within these new structures the gas is dense and cold enough for it to collapse and form stars. These new stars give off powerful winds of charged particles, like stronger versions of the solar wind our sun gives off. These winds have combined to blow massive bubbles in the surrounding gas and dust. These are visible as the large darker voids in the image.<br/>\n<b>Credit:</b> ESA/Herschel/NASA/JPL-Caltech; acknowledgement: R. Hurt (JPL-Caltech)\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Images/2017/09/Herschel_s_view_of_new_stars_and_molecular_clouds\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/3.0/igo/deed.en\" rel=\"license\">CC-BY-3.0-IGO</a> <a href=\"https://creativecommons.org/licenses/by/3.0/igo/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 3.0 IGO icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Ai54em239E15/\"><img alt=\"A field of stars with a large blue wispy feature is interrupted by a huge black void covering almost a quarter of the image\" src=\"/media/multimedia/thumbnails/dust-clouds-and-nebulae-near-r-coronae-australis_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dust Clouds and Nebulae near R Coronae Australis</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The image shows a dark and dusty cloud and some bright reflection nebulae near the binary star R Coronae Australis. The dark cloud spans several light-years and is located in the constellation Corona Australis near the constellation Sagittarius, in the direction of the Milky Way's center. The cloud appears to swallow the light of distant stars behind it as the dust particles in it scatter light passing through in all directions. This gives it the appearance of a void in the sky. This dark nebula is part of the broader Corona Australis Molecular Clouds. R Coronae Australis forms part of the Coronet Cluster, a collection of young stars which formed at some point in the last two million years.\n\nAround R Coronae Australis in the center of the image is the small reflection nebula NGC 6729 with two blueish reflection nebulae NGC 6726 and NGC 6727 lying to the upper right of it. In these nebulae the dust scatters light from bright stars near the nebula towards an observer on Earth, making it glow in this image.<br/>\n<b>Credit:</b> ESO\n\t  <a href=\"https://www.eso.org/public/images/eso1027a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/98346s38n272/\"><img alt=\"The dense interstellar dust cloud LDN 483 appears as several dark blobs against a rich background of stars.\" src=\"/media/multimedia/thumbnails/the-ldn-483-dark-nebula_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The LDN 483 Dark Nebula</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows a dark molecular cloud known as LDN 483, captured by the Wide Field Imager on the MPG/ESO 2.2-metre telescope at the La Silla Observatory in Chile. At first glance, the patch of sky looks like a region where stars are missing, but the effect is due to interstellar extinction — dust and gas within LDN 483 absorb and scatter light from background stars, making them appear faint or invisible to telescopes that observe visible light. Interstellar extinction is the dimming of light from distant objects caused by dust and gas between the object and the observer, a common phenomenon in astronomy that must be accounted for when measuring stellar brightness and color.\n\nDark nebulae like LDN 483 are dense concentrations of interstellar matter located within our Milky Way Galaxy. This particular cloud lies about 700 light-years from Earth in the constellation Serpens and contains enough material to block most visible light from stars behind it. Because dust grains preferentially scatter shorter (bluer) wavelengths of light, extinction can also make objects appear redder than they truly are — a related effect known as interstellar reddening. Understanding and correcting for extinction is essential for astronomers to reveal the true brightness, distance, and physical properties of celestial objects seen through dusty regions of space.<br/>\n<b>Credit:</b> ESO\n\t  <a href=\"https://www.eso.org/public/images/eso1501a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Gas Cloud",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Interstellar Medium",
+          "body": "The interstellar medium (ISM) is a term to describe all of the gas and dust that lies between star systems in a galaxy. Our Solar System lies in the disk of the Milky Way where most of the ISM is atomic hydrogen mixed with atomic helium and dust. The ISM has a very low density compared to planetary atmospheres, with a typical density less than one particle per cubic centimeter, roughly 50 billion, billion times less dense than the Earth's atmosphere. This density varies greatly, along with the temperature, across the Galaxy with the ISM split into several different components. The largest components by volume in the galactic disk are the warm atomic gas and warm ionized gas, both with temperatures around 8000 kelvins (K) and densities around half an atom or ion per cubic centimeter. A smaller volume is in the form of colder, denser atomic gas with a temperature around 40 K. A still smaller volume of the ISM is in the form of denser (up to a million molecules per cubic centimeter), colder (<20 K) clouds of molecular hydrogen. Some of these molecular clouds will collapse under their own gravity, leading to the formation of new stars. Molecular clouds in the Milky Way are mostly found in its spiral arms. The gas surrounding the Milky Way's disk is very hot (millions of kelvins) and very low density. Stars put gas and dust back into the ISM through stellar winds and supernovae. The gas and dust returned to the ISM have a higher fraction of heavy elements (metals), thus enriching the galaxy over time. The gas and dust in the interstellar medium is the main cause of interstellar extinction."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Газовое облако",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Межзвёздная среда",
+          "body": "Межзвёздная среда (МЗС) — это термин, описывающий весь газ и пыль, которые находятся между звёздными системами в галактике. Наша Солнечная система находится в диске Млечного Пути, где большая часть МЗС состоит из атомарного водорода, смешанного с атомарным гелием и пылью. МЗС имеет очень низкую плотность по сравнению с планетными атмосферами, типичная плотность составляет менее одной частицы на кубический сантиметр, примерно в 50 миллиардов миллиардов раз менее плотная, чем атмосфера Земли. Эта плотность сильно варьируется вместе с температурой по всей Галактике, при этом МЗС разделена на несколько различных компонентов. Наибольшие по объёму компоненты в галактическом диске — это тёплый атомарный газ и тёплый ионизированный газ, оба с температурами около 8000 кельвинов (К) и плотностями около половины атома или иона на кубический сантиметр. Меньший объём приходится на более холодный, более плотный атомарный газ с температурой около 40 К. Ещё меньший объём МЗС представлен более плотными (до миллиона молекул на кубический сантиметр), более холодными (<20 К) облаками молекулярного водорода. Некоторые из этих молекулярных облаков коллапсируют под действием собственной гравитации, что приводит к формированию новых звёзд. Молекулярные облака в Млечном Пути в основном находятся в его спиральных рукавах. Газ, окружающий диск Млечного Пути, очень горячий (миллионы кельвинов) и очень низкой плотности. Звёзды возвращают газ и пыль в МЗС через звёздные ветры и сверхновые. Газ и пыль, возвращённые в МЗС, имеют более высокую долю тяжёлых элементов (металлов), таким образом обогащая галактику со временем. Газ и пыль в межзвёздной среде являются основной причиной межзвёздного поглощения."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:MN2Yx61VC6",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425589/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20The%20Pleiades%20M45%20with%20Majestic%20Dust%2C%20by%20Mohamed%20Usama%20Ismail.jpg",
+      "record_url": "https://astro4edu.org/resources/media/MN2Yx61VC6/",
+      "original_path": "data/media/original/media_MN2Yx61VC6.jpg",
+      "ru_path": null,
+      "sha256": "6bbd628b109405e65b7f4cb01cd629b850e8cc103a86a13340b896b9563a5d2e",
+      "size": 5829196,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Pleiades M45 with Majestic Dust",
+      "short_caption_ru": "Плеяды M45 с величественной пылью",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nTaken in Dar Eid in Saint Catherine/Sinai, Egypt, in October 2021, this image shows the Pleiades, an open cluster also known as The Seven Sisters.\r\n\r\nThe Pleiades are located in the north-western part of the constellation Taurus, the Bull. This constellation originates from ancient Babylonian or even Sumerian belief, where it was designated the Bull of Heaven, a mighty creature owned by the sky god. In Late Babylonian times, the Pleiades were called The Bristle at the hunchback of The Bull. In China, the asterism is also called The Hair, but this does not necessarily imply any relationship between the East Asian and West Asian names of this asterism, although exchange is hypothesised with the establishment of the Silk Road.\r\n\r\nIn ancient Babylonian texts the term The Hair does not appear. Instead, the Pleiades are only called The Star Cluster in Sumerian, and the Sumerian term was used in later languages as a loanword. The Sumerian and early Babylonian religion associated all constellations with specific deities, including gods, demons, messengers of gods. The Star Cluster was associated with a deity of the Netherworld that was called The Seven and was considered an ensemble of seven speaking weapons or strongly armed gods. The later Greek name of the Seven Sisters might possibly have sprung from an intercultural misunderstanding of this older religious association, since, in fact, seven stars are not seen in this cluster.\r\n\r\nThe star cluster of the Pleiades is really prominent in the sky, and thus was used for several cultural purposes, such as determining the calendar and the spring equinox. However, its significance is frequently overstated in cultural astronomy. As the tradition of representing it with seven dots originates from an ancient Sumerian belief, we should be careful about interpreting any group of seven dots on cave walls and archaeological sites across Europe, Asia and America from the Stone Age onwards as a representation of the Pleiades.\r\n\r\nModern astrophysics has found that the star cluster of the Pleiades is extraordinarily young, so there was certainly not an additional star in ancient times. Furthermore, we know that the bright stars are only the core region of an open star cluster that consists of hundreds of stars scattered over an area of the sky which exceeds the bright core by one or two of its diameters in any direction. The photograph does not even show the whole cluster. The group is thought to be about 400 light-years away from Earth, which is relatively close in astronomical terms.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nСнятый в Дар-Эйд в Санта-Катрин/Синай, Египет, в октябре 2021, этот снимок показывает Плеяды — рассеянное скопление, также известное как Семь сестёр.\r\n\r\nПлеяды расположены в северо-западной части созвездия Тельца. Это созвездие происходит из древневавилонских или даже шумерских верований, где оно обозначалось как Небесный бык — могущественное существо, принадлежащее небесному богу. В поздневавилонские времена Плеяды называли «Щетиной на горбе Быка». В Китае этот астеризм также называют «Волосами», но это не обязательно подразумевает какую-либо связь между восточноазиатскими и западноазиатскими названиями этого астеризма, хотя обмен и предполагается с установлением Шёлкового пути.\r\n\r\nВ древневавилонских текстах термин «Волосы» не встречается. Вместо этого Плеяды называются только «Звёздным скоплением» на шумерском, и шумерский термин использовался в более поздних языках как заимствованное слово. Шумерская и ранневавилонская религия связывала все созвездия с конкретными божествами, включая богов, демонов, посланников богов. Звёздное скопление ассоциировалось с божеством подземного мира, которое называлось «Семёрка» и считалось ансамблем из семи говорящих оружий или сильно вооружённых богов. Более позднее греческое название «Семь сестёр» могло возникнуть из межкультурного непонимания этой более древней религиозной ассоциации, поскольку на самом деле в этом скоплении не видно семи звёзд.\r\n\r\nЗвёздное скопление Плеяд действительно очень заметно на небе и поэтому использовалось для нескольких культурных целей, таких как определение календаря и весеннего равноденствия. Однако его значение часто преувеличивается в культурной астрономии. Поскольку традиция изображать его семью точками происходит из древних шумерских верований, нам следует быть осторожными, интерпретируя любую группу из семи точек на стенах пещер и археологических памятниках по всей Европе, Азии и Америке начиная с каменного века как изображение Плеяд.\r\n\r\nСовременная астрофизика установила, что звёздное скопление Плеяд чрезвычайно молодо, поэтому в древности в нём определённо не было дополнительной звезды. Более того, мы знаем, что яркие звёзды — это лишь центральная область рассеянного звёздного скопления, состоящего из сотен звёзд, разбросанных по области неба, которая превышает яркое ядро на один или два его диаметра в любом направлении. На фотографии даже не показано всё скопление. Считается, что группа находится на расстоянии около 400 световых лет от Земли, что относительно близко в астрономических терминах.",
+      "alt_en": "A cluster of brilliant blue stars illuminate the surrounding nebular gas.",
+      "alt_ru": "Скопление ярких голубых звёзд освещает окружающий туманный газ.",
+      "credit": "Mohamed Usama/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        57,
+        194,
+        438,
+        445,
+        450,
+        466,
+        469
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

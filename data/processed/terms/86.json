@@ -1,0 +1,327 @@
+{
+  "id": "term:86",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 86,
+    "url": "https://astro4edu.org/resources/glossary/term/86/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=86",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:33.801129+00:00",
+    "sha256": "372e5b0a047f3e16d1230cc5f1b75f8b20d591af8bf8f8423cf7bfaa6d3b991b"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies"
+    ],
+    "category_ids": [
+      8
+    ],
+    "categories_ru": [
+      "Галактики"
+    ],
+    "related_term_numbers": [
+      119,
+      500
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Dwarf Galaxy",
+      "body": "A dwarf galaxy is a small galaxy that is unusually faint either because of its very small size, or its very low surface brightness, or both. Typically, dwarf galaxies are at most as luminous as a billion times the solar luminosity, corresponding to less than one percent of the luminosity of our own home galaxy, the Milky Way. There are numerous different types of dwarf galaxy including dwarf ellipticals, dwarf spheroidals, dwarf spirals, and dwarf irregular galaxies. One of the most important examples of dwarf galaxies is the Small Magellanic Cloud, which is a dwarf irregular satellite of our home galaxy, the Milky Way.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Small Magellanic Cloud (SMC)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/500/",
+          "text_ru": "Малое Магелланово Облако (ММО)"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Dwarf Galaxy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A dwarf galaxy is a small galaxy that is unusually faint either because of its very small size, or its very low surface brightness, or both. Typically, dwarf galaxies are at most as luminous as a billion times the solar luminosity, corresponding to less than one percent of the luminosity of our own home galaxy, the Milky Way. There are numerous different types of dwarf galaxy including dwarf ellipticals, dwarf spheroidals, dwarf spirals, and dwarf irregular galaxies. One of the most important examples of dwarf galaxies is the Small Magellanic Cloud, which is a dwarf irregular satellite of our home galaxy, the Milky Way.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/500/\">Small Magellanic Cloud (SMC)</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Карликовая галактика",
+      "body_ru": "Карликовая галактика — это небольшая галактика, которая необычно слаба либо из-за очень маленького размера, либо из-за очень низкой поверхностной яркости, либо из-за обоих факторов. Как правило, карликовые галактики имеют светимость не более миллиарда солнечных светимостей, что соответствует менее одного процента светимости нашей родной галактики — Млечного Пути. Существует множество различных типов карликовых галактик, включая карликовые эллиптические, карликовые сфероидальные, карликовые спиральные и карликовые неправильные галактики. Одним из наиболее важных примеров карликовых галактик является Малое Магелланово Облако, которое является карликовым неправильным спутником нашей родной галактики — Млечного Пути."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "矮小銀河 (external link)",
+          "url": "https://astro-dic.jp/dwarf-galaxy/",
+          "text_ru": "Карликовая галактика (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/86/\">المجرة القزمة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/86/\">Zwerggalaxie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/86/\">Galaxia enana </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/86/\">Galaxie naine </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/86/\">Galassia nana </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/dwarf-galaxy/\">矮小銀河 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/86/\">왜소은하 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/86/\">Galáxia anã </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/86/\">矮星系 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/86/\">矮星系 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/uF7sh13rR67/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:M31_09-01-2011_(cropped).jpg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/aG91RF977M99/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:NGC_5264_-_Potw1634a.tif",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:uF7sh13rR67",
+        "media:aG91RF977M99"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/uF7sh13rR67/\"><img alt=\"Andromeda is a bright disk, with dark spiral lines in it, tilted up at the west end. Two small bright blobs lie left &amp; right\" src=\"/media/multimedia/thumbnails/a-visible-light-image-of-the-andromeda-galaxy_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A visible light image of the Andromeda Galaxy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Andromeda Galaxy viewed in visible light. Like our Milky Way, Andromeda is a barred spiral galaxy. Here we can see its bright core and spiral disk. The glow from the stars in the disk is interrupted by lanes of dust that form part of its spiral structure.\n\nAndromeda is the largest galaxy in the Local Group of galaxies that includes the Milky Way.\n\nTo the left of the core and just above the disk we see the dwarf galaxy M32 and to the right and below the disk we see the dwarf galaxy M110. These are both satellite galaxies of the Andromeda Galaxy.<br/>\n<b>Credit:</b> Torben Hansen\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:M31_09-01-2011_(cropped).jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/aG91RF977M99/\"><img alt=\"NGC 5264 appears as a light, fuzzy, ragged oval on a dark background. Some single stars are visible amongst its diffuse glow\" src=\"/media/multimedia/thumbnails/ngc-5264-an-irregular-island_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">NGC 5264 - An irregular island</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The dwarf irregular galaxy NGC 5264 is located 15 million light years away. It is only about 11,000 light years across, much smaller than our Milky Way, and consists of approximately a billion stars. It lacks the spiral structure of our home Galaxy. The small blue patches in NGC 5264 mark groups of young hot blue stars. This suggests that stars formation in this galaxy is still on-going.<br/>\n<b>Credit:</b> ESA/Hubble and NASA\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:NGC_5264_-_Potw1634a.tif\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/VE43cn914B57/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:VE43cn914B57"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/VE43cn914B57/\"><img alt=\"Cassiopeia appears as a double-u shape tilted up at the left end by about 45 degrees\" src=\"/media/diagrams/multimedia/thumbnails/cassiopeia-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Cassiopeia Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Cassiopeia along with its bright stars and its surrounding constellations. Cassiopeia is surrounded by (going clockwise from the top):Cepheus, Andromeda, Perseus and Camelopardalis. \n\nCassiopeia is a northern constellation that is visible from all of the northern hemisphere and equatorial regions of the southern hemisphere. It is most visible in the evenings in the northern hemisphere late autumn and southern hemisphere late spring.\n\nThe open star clusters M52, M103, NGC 457 and NGC 663 all lie in this constellation. These are marked with yellow circles. Two dwarf elliptical galaxies NGC 147 and NGC 185 lie in the southern part of the constellation. These are marked with red ellipses and are gravitationally bound to the larger Andromeda galaxy which lies to the south in the constellation of Andromeda.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Dwarf Galaxy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Dwarf Galaxy",
+          "body": "A dwarf galaxy is a small galaxy that is unusually faint either because of its very small size, or its very low surface brightness, or both. Typically, dwarf galaxies are at most as luminous as a billion times the solar luminosity, corresponding to less than one percent of the luminosity of our own home galaxy, the Milky Way. There are numerous different types of dwarf galaxy including dwarf ellipticals, dwarf spheroidals, dwarf spirals, and dwarf irregular galaxies. One of the most important examples of dwarf galaxies is the Small Magellanic Cloud, which is a dwarf irregular satellite of our home galaxy, the Milky Way."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Карликовая галактика",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Карликовая галактика",
+          "body": "Карликовая галактика — это небольшая галактика, которая необычно слаба либо из-за очень маленького размера, либо из-за очень низкой поверхностной яркости, либо из-за обоих факторов. Как правило, карликовые галактики имеют светимость не более миллиарда солнечных светимостей, что соответствует менее одного процента светимости нашей родной галактики — Млечного Пути. Существует множество различных типов карликовых галактик, включая карликовые эллиптические, карликовые сфероидальные, карликовые спиральные и карликовые неправильные галактики. Одним из наиболее важных примеров карликовых галактик является Малое Магелланово Облако, которое является карликовым неправильным спутником нашей родной галактики — Млечного Пути."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:uF7sh13rR67",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/a-visible-light-image-of-the-andromeda-galaxy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/uF7sh13rR67/",
+      "original_path": "data/media/original/media_uF7sh13rR67.jpg",
+      "ru_path": null,
+      "sha256": "591ab055ba2342793f2387905923431f29dac60cf47ea061c0c9375328dcf51b",
+      "size": 1096385,
+      "title_en": "A visible light image of the Andromeda Galaxy",
+      "title_ru": "Изображение Галактики Андромеды в видимом свете",
+      "short_caption_en": "A visible light image of the Andromeda Galaxy",
+      "short_caption_ru": "Изображение Галактики Андромеды в видимом свете",
+      "caption_en": "The Andromeda Galaxy viewed in visible light. Like our Milky Way, Andromeda is a barred spiral galaxy. Here we can see its bright core and spiral disk. The glow from the stars in the disk is interrupted by lanes of dust that form part of its spiral structure.\r\n\r\nAndromeda is the largest galaxy in the Local Group of galaxies that includes the Milky Way.\r\n\r\nTo the left of the core and just above the disk we see the dwarf galaxy M32 and to the right and below the disk we see the dwarf galaxy M110. These are both satellite galaxies of the Andromeda Galaxy.",
+      "caption_ru": "Галактика Андромеды в видимом свете. Как и наш Млечный Путь, Андромеда является спиральной галактикой с перемычкой. Здесь мы можем видеть ее яркое ядро и спиральный диск. Свечение от звезд в диске прерывается полосами пыли, которые являются частью ее спиральной структуры.\r\n\r\nАндромеда — крупнейшая галактика в Местной группе галактик, которая включает Млечный Путь.\r\n\r\nСлева от ядра и чуть выше диска мы видим карликовую галактику M32, а справа и ниже диска мы видим карликовую галактику M110. Обе являются спутниковыми галактиками Галактики Андромеды.",
+      "alt_en": "Andromeda is a bright disk, with dark spiral lines in it, tilted up at the west end. Two small bright blobs lie left & right",
+      "alt_ru": "Андромеда — это яркий диск с темными спиральными линиями, наклоненный вверх на западном конце. Два небольших ярких пятна находятся слева и справа",
+      "credit": "Torben Hansen",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:M31_09-01-2011_(cropped).jpg",
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        8,
+        82,
+        86,
+        194,
+        330,
+        443
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:aG91RF977M99",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/ngc-5264-an-irregular-island.png",
+      "record_url": "https://astro4edu.org/resources/media/aG91RF977M99/",
+      "original_path": "data/media/original/media_aG91RF977M99.png",
+      "ru_path": null,
+      "sha256": "85b043f64bc69715e85cfb4cce20b414880c6174731d9053c903f06a3422b573",
+      "size": 28870303,
+      "title_en": "NGC 5264 - An irregular island",
+      "title_ru": "NGC 5264 — неправильный остров",
+      "short_caption_en": "NGC 5264 - An irregular island",
+      "short_caption_ru": "NGC 5264 — неправильный остров",
+      "caption_en": "The dwarf irregular galaxy NGC 5264 is located 15 million light years away. It is only about 11,000 light years across, much smaller than our Milky Way, and consists of approximately a billion stars. It lacks the spiral structure of our home Galaxy. The small blue patches in NGC 5264 mark groups of young hot blue stars. This suggests that stars formation in this galaxy is still on-going.",
+      "caption_ru": "Карликовая неправильная галактика NGC 5264 находится на расстоянии 15 миллионов световых лет. Её диаметр составляет всего около 11,000 световых лет, что гораздо меньше нашего Млечного Пути, и она состоит примерно из миллиарда звёзд. У неё отсутствует спиральная структура нашей родной Галактики. Небольшие голубые пятна в NGC 5264 отмечают группы молодых горячих голубых звёзд. Это говорит о том, что звездообразование в этой галактике всё ещё продолжается.",
+      "alt_en": "NGC 5264 appears as a light, fuzzy, ragged oval on a dark background. Some single stars are visible amongst its diffuse glow",
+      "alt_ru": "NGC 5264 выглядит как светлый, размытый, неровный овал на тёмном фоне. Среди его диффузного свечения видны некоторые отдельные звёзды",
+      "credit": "ESA/Hubble and NASA",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:NGC_5264_-_Potw1634a.tif",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        86,
+        164
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:VE43cn914B57",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cassiopeia-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/VE43cn914B57/",
+      "original_path": "data/media/original/diagram_VE43cn914B57.png",
+      "ru_path": null,
+      "sha256": "8eb8ee9b9b23accbda7c3928a806b651d1f713061c813c79db9d091545d37bb1",
+      "size": 125517,
+      "title_en": "Cassiopeia Constellation Map",
+      "title_ru": "Карта созвездия Кассиопея",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Cassiopeia along with its bright stars and its surrounding constellations. Cassiopeia is surrounded by (going clockwise from the top):Cepheus, Andromeda, Perseus and Camelopardalis. \r\n\r\nCassiopeia is a northern constellation that is visible from all of the northern hemisphere and equatorial regions of the southern hemisphere. It is most visible in the evenings in the northern hemisphere late autumn and southern hemisphere late spring.\r\n\r\nThe open star clusters M52, M103, NGC 457 and NGC 663 all lie in this constellation. These are marked with yellow circles. Two dwarf elliptical galaxies NGC 147 and NGC 185 lie in the southern part of the constellation. These are marked with red ellipses and are gravitationally bound to the larger Andromeda galaxy which lies to the south in the constellation of Andromeda.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Кассиопея вместе с его яркими звёздами и окружающими созвездиями. Кассиопею окружают (по часовой стрелке сверху): Цефей, Андромеда, Персей и Жираф.\r\n\r\nКассиопея — северное созвездие, видимое со всего Северного полушария и экваториальных областей Южного полушария. Оно лучше всего видно по вечерам поздней осенью в Северном полушарии и поздней весной в Южном полушарии.\r\n\r\nРассеянные звёздные скопления M52, M103, NGC 457 и NGC 663 находятся в этом созвездии. Они отмечены жёлтыми кружками. Две карликовые эллиптические галактики NGC 147 и NGC 185 находятся в южной части созвездия. Они отмечены красными эллипсами и гравитационно связаны с более крупной галактикой Андромеды, которая находится южнее в созвездии Андромеда.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Cassiopeia appears as a double-u shape tilted up at the left end by about 45 degrees",
+      "alt_ru": "Кассиопея выглядит как W-образная фигура, наклонённая вверх на левом конце примерно на 45 градусов",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        7,
+        8,
+        15,
+        50,
+        56,
+        66,
+        78,
+        86,
+        286,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "id": "term:261",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 261,
+    "url": "https://astro4edu.org/resources/glossary/term/261/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=261",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:35.650823+00:00",
+    "sha256": "91506a258b428ce2aae907961c8e19aa57a74684724d25e1b7e62f546015b895"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Polaris",
+      "body": "Polaris is the nearest bright star (within one degree) to the celestial North Pole. Its official designation is α Ursae Minoris, but it is commonly known as Polaris, the North Star, or the Pole Star. All the stars of the northern hemisphere appear to rotate around it, so it provides an excellent fixed point from which to perform measurements for navigation and astrometry. Its elevation above the horizon gives the approximate latitude of the observing site. However, its position on the celestial sphere is slowly changing due to the precession of the rotation axis of Earth, so in several centuries Polaris will not indicate the location of the celestial North Pole anymore. Polaris is a triple star system, composed of the primary, a yellow supergiant designated Polaris Aa, in orbit with a smaller companion, Polaris Ab, a very close main sequence star; the pair has a wide companion, Polaris B, a main sequence star orbiting at a distance of 2400 astronomical units. Polaris B can be resolved with a modest telescope. The Hubble Space Telescope was able to resolve all three members of the Polaris ternary system. The apparent visual magnitude of Polaris fluctuates because Polaris Aa is a Cepheid variable. The Polaris system is about 447 light years from Earth.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Polaris</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>alpha Ursae Minoris</b>, <b>North Star</b> or <b>Pole Star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Polaris is the nearest bright star (within one degree) to the celestial North Pole. Its official designation is α Ursae Minoris, but it is commonly known as Polaris, the North Star, or the Pole Star. All the stars of the northern hemisphere appear to rotate around it, so it provides an excellent fixed point from which to perform measurements for navigation and astrometry. Its elevation above the horizon gives the approximate latitude of the observing site. However, its position on the celestial sphere is slowly changing due to the precession of the rotation axis of Earth, so in several centuries Polaris will not indicate the location of the celestial North Pole anymore.<br/><br/>Polaris is a triple star system, composed of the primary, a yellow supergiant designated Polaris Aa, in orbit with a smaller companion, Polaris Ab, a very close main sequence star; the pair has a wide companion, Polaris B, a main sequence star orbiting at a distance of 2400 astronomical units. Polaris B can be resolved with a modest telescope. The Hubble Space Telescope was able to resolve all three members of the Polaris ternary system. The apparent visual magnitude of Polaris fluctuates because Polaris Aa is a Cepheid variable. The Polaris system is about 447 light years from Earth.</p>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Полярная звезда",
+      "body_ru": "Полярная звезда — ближайшая яркая звезда (в пределах одного градуса) к северному полюсу мира. Её официальное обозначение — α Малой Медведицы, но обычно её называют Полярной звездой, Северной звездой или Путеводной звездой. Все звёзды северного полушария, как кажется, вращаются вокруг неё, поэтому она служит превосходной фиксированной точкой для измерений в навигации и астрометрии. Её высота над горизонтом даёт приблизительную широту места наблюдения. Однако её положение на небесной сфере медленно меняется из-за прецессии оси вращения Земли, поэтому через несколько столетий Полярная звезда уже не будет указывать на северный полюс мира. Полярная звезда — тройная звёздная система, состоящая из главной звезды — жёлтого сверхгиганта, обозначенного как Полярная Aa, обращающегося по орбите с меньшим компаньоном Полярной Ab, очень близкой звездой главной последовательности; у пары есть широкий компаньон Полярная B — звезда главной последовательности, обращающаяся на расстоянии 2400 астрономических единиц. Полярную B можно разрешить с помощью скромного телескопа. Космический телескоп «Хаббл» смог разрешить всех трёх членов тройной системы Полярной звезды. Видимая визуальная величина Полярной звезды колеблется, потому что Полярная Aa является цефеидой. Система Полярной звезды находится на расстоянии около 447 световых лет от Земли."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "北極星 (external link)",
+          "url": "https://astro-dic.jp/polaris/",
+          "text_ru": "Полярная звезда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/261/\">النجم القطبي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/261/\">Polarstern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/261/\">Polaris </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/261/\">Polaris </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/261/\">Polaris </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/polaris/\">北極星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/261/\">북극성 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/261/\">Polaris </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/261/\">北极星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/261/\">北極星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Us94DH337Y14/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/4g12Pr80kF84/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/AB430t11jX43/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/8i19wv485F65/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/PP87mr753x68/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Polaris&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:Us94DH337Y14",
+        "media:4g12Pr80kF84",
+        "media:AB430t11jX43",
+        "media:8i19wv485F65",
+        "media:PP87mr753x68"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Us94DH337Y14/\"><img alt=\"The ladle-shaped Big Dipper with the orange star Arcturus to its left. Right is the diffuse disk-shaped Andromeda galaxy\" src=\"/media/multimedia/thumbnails/dreamlike-starry-sky-and-airglow_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dreamlike Starry Sky and Airglow</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nThis spectacular image shows a range of prominent constellations visible in the night sky over the desert of inner Mongolia, taken in August 2019. The yellowish star in the bottom left side is Arcturus, one of the brightest stars in the night sky, and the brightest in the constellation Boötes. The handle of the Big Dipper points towards this bright star and the Dipper is also visible above Boötes. The Northern Dipper (Bei Dou) is a traditional Chinese constellation. It is considered a chariot in which the Judges for Nobility are sitting. Arcturus is considered a single-star asterism, named the Horn, which forms part of the Chinese super-constellation for the spring, the Azure Dragon of the East. The front of the Northern Dipper points towards the star at the top of the photograph which is now called Polaris, the northern Pole Star. In ancient China, there was no bright star at the pole, so the stars in the nearest vicinity of the pole were considered to belong to the emperor and his family in the constellation the Purple Forbidden Palace. At least as early as mediaeval times, Polaris was considered part of the constellation of the Great Emperor of Heaven.\n\nCorona Borealis is also visible in the top right corner of this image, although not in its completeness. It is called the Coiled Thong in China. With its characteristic semi-circular shape, this is one of the smaller constellations of the 88 modern ones, but also can be traced back at least three or four millennia through the Roman “Crown”, the Greek wedding “Wreath”, and the Babylonian “Asterism of Dignity”. The modern name literally means “Northern Crown” in Latin.\n\nAt the upper-right edge of the image, we find the part of the modern constellation Cassiopeia that is considered the Flying Corridor and an Auxiliary Road in ancient China. The W-shape of Cassiopeia is cut off by the edge of the photograph but the constellations to its south and southeast, Andromeda and Perseus, are clearly recognisable. Prominently we see the Andromeda galaxy, the most distant object that is visible to the unaided eye. It is located at the outermost outliers of the band of the Milky Way, which could explain why it has not been mentioned explicitly in ancient star catalogues, as it was mistakenly thought to be part of the Milky Way. The photograph also shows clearly reddish parts of the Milky Way that don’t appear bright to the naked eye, and also open clusters that are formed from the same molecular cloud, i.e., groups of stars with similar ages. This region is part of many big and small asterisms in traditional Chinese uranology.<br/>\n<b>Credit:</b> Likai Lin/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/4g12Pr80kF84/\"><img alt=\"The Big Dipper, seven bright stars shaped like a ladle, viewed in 4 seasons, each time at a different angle\" src=\"/media/multimedia/thumbnails/big-dipper-in-four-seasons_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Dipper in Four Seasons</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nAs Earth moves around the Sun, the positions of the stars in the night sky appear to change over the course of the year. This is well exemplified in this mosaic, with images taken in all four seasons throughout 2020 in the region of Veneto, Italy, showing the apparent motion of the Ursa Minor and Ursa Major constellations.\n\nUrsa Minor, the Little Bear, is a constellation of the northern hemisphere, and it contains the northern celestial pole, in our current epoch marked by a bright star called Polaris or the Pole Star. For centuries Polaris has been used for navigation in the northern hemisphere, as it has been almost at the exact pole position for roughly 200 years. In the Middle Ages and antiquity, there was no pole star; the celestial north pole lay in a dark region and the Greeks considered the “Little She-Bear” as a companion of the “Great She-Bear”, which is more easily recognizable. The brightest stars of these constellations were alternatively also considered as chariots by the Greeks, as written in Aratus’s famous didactic poem from the 3rd century before the common era. The most famous asterism in Ursa Major, composed of seven stars, has different names across the (northern) world. While considered as a chariot by the Greeks, it is “The Northern Dipper” in China, and “The Seven Oxen” for the ancient Romans.\n\nIt was also the navigational purpose that led to the name The Great She-Bear, Ursa Major; for the Greeks, travelling towards the direction of the horizon above which Ursa Major appears meant moving towards the land of the bears (northern Europe). An animal is clearly recognizable when taking into account all the fainter stars in the vicinity of the seven bright ones. They considered it a female bear because Greek mythology connects this animal with the nymph Callisto, whose story describes the initiation rituals for women.\n\nIn the top left, we see an image taken on a spring evening, while the image below shows the same portion of the sky on a summer evening. Going counterclockwise, we see the sky during autumn in the bottom right image, while the top right finally shows this portion of the sky in the winter. Note that the relative positions of Ursa Minor and the Big Dipper don’t change, but all stars appear to be moved in a circle around Polaris. This star pointing due north lies at the point where Earth’s rotational axis intersects the celestial sphere.\n\nThe shift of constellations throughout the year is therefore a globe-clock or a globe-calendar, used by ancient civilizations to measure the year, and to predict the changes of seasons. It helps to establish, for instance, the best time for sowing and sailing as winds change with the seasons.<br/>\n<b>Credit:</b> Giorgia Hofer/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/AB430t11jX43/\"><img alt=\"The Big Dipper drifts lower towards the horizon on the left, on the right a comet rises in the sky.\" src=\"/media/multimedia/thumbnails/Big_Dipper_and_Comet_Neowise_C2020_F3_by_Giorgia_Hofer_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Dipper and Comet Neowise C2020 F3</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis time-lapse documents the trajectory of the iconic Big Dipper across three frames taken in July 2020. Captured from three locations in Italy, Tre Cime di Lavaredo Auronzo di Cadore, Monte Rite, Cibiana di Cadore, and Casera Razzo, Vigo di Cadore, this visual odyssey showcases the captivating journey of the Big Dipper with the addition of trails of stars painting a celestial canvas. It not only traces the path of this renowned asterism but also features the rare appearance of comet Neowise C/2020 F3, an extraordinary event that graced our skies during July 2020.<br/>\n<b>Credit:</b> Giorgia Hofer/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/8i19wv485F65/\"><img alt=\"The dish of a radio telescope rotates as the Big Dipper moves in the sky behind.\" src=\"/media/multimedia/thumbnails/The_Big_Dipper_with_the_Sardinia_Radio_Telescope_SRT_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Big Dipper with the Sardinia Radio Telescope SRT</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis time-lapse captures the movement of the stars alongside the majestic 64-metre Sardinia Radio Telescope (SRT) from the National Institute of Astrophysics (INAF), with special attention to the renowned Big Dipper against the backdrop of the celestial sphere. The camera pans as the famous asterism sinks in the sky while planes fly past and the radio telescope rotates. The harmonious interplay between the stellar pathways and the colossal dish of the radio telescope creates a mesmerising visual ode to the cosmic ballet taken in September 2019.<br/>\n<b>Credit:</b> Antonio Finazzi/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/PP87mr753x68/\"><img alt=\"The Big Dipper sinks in the sky with the handle sweeping out a larger circle than the bowl of the asterism.\" src=\"/media/multimedia/thumbnails/Big_Dipper_Over_the_Mono_Lake_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Dipper Over the Mono Lake</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThe Big Dipper asterism gracefully moves above the otherworldly tufa formations of Mono Lake, California. The time-lapse captures the Big Dipper’s movement across the northern horizon until its inferior conjunction. At Mono Lake’s latitude (+38°), the stars of the Big Dipper remain circumpolar, except for Alkaid. The North Star sits 38° above the horizon, just outside the field of view in the top right. The lunar illumination bathes the landscape in a soft glow, gradually fading as the Moon sets, cloaking the scene in darkness.<br/>\n<b>Credit:</b> Fabrizio Melandri/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Polaris&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/jp181P35rG35/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/wT49Db11i836/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:jp181P35rG35",
+        "diagram:wT49Db11i836"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/jp181P35rG35/\"><img alt=\"Octans appears as an elongated triangle\" src=\"/media/diagrams/multimedia/thumbnails/octans-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Octans Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Octans along with its bright stars and its surrounding constellations. Octans is surrounded by (going clockwise from the top): Hydrus, Indus, Pavo, Apus, Chameleon and Mensa. Octans is a relatively faint constellation that is notable as it lies at the south celestial pole. While the northern pole star is the relatively bright Polaris, sigma Octans, the southern pole star, is barely visible with the naked eye.\n\nOctans lies at the south celestial pole and is thus visible from the whole southern hemisphere with some of the constellation visible from equatorial regions of the northern hemisphere. The constellation is circumpolar for most of the southern hemisphere. It is best viewed in the evening in the northern hemisphere autumn and southern hemisphere spring. \n\nThis diagram maps an area around the south celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines (in hours) are marked on the x-axis above and below the diagram. The solid circle around the pole marks a line of -80° declination with the larger, incomplete circle to the right marking -70° declination. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/wT49Db11i836/\"><img alt=\"Ursa Minor appears as a small ladle with the end of the handle, the location of Polaris, at the north pole\" src=\"/media/diagrams/multimedia/thumbnails/ursa_minor-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ursa Minor Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Ursa Minor along with its bright stars and its surrounding constellations. Ursa Minor is surrounded by (going clockwise from the top): Cephus, Camelopardalis and Draco. Ursa Minor is notable as its brightest star, Polaris is the northern pole star. \n\nUrsa Minor is visible from the entire northern hemisphere with some parts of the constellation being visible from equatorial regions of the southern hemisphere. It is also circumpolar for temperate and arctic regions of the northern hemisphere. Polaris, lying very close the north celestial pole is circumpolar for the whole of the northern hemisphere. The constellation is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter.\n\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values (in hours) of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination (in degrees) are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Navigating with the Kamal – Northern Hemisphere astroEDU educational activity (links to astroEDU website) Description: How did Arabian sailors navigate at sea? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/navigating-with-the-kamal-northern-hemisphere/\"><img alt=\"Navigating with the Kamal – Northern Hemisphere\" src=\"/media/astroedu/images/navigating-with-the-kamal-northern-hemisphere_en_thumbnail_eg4aiiQ.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/navigating-with-the-kamal-northern-hemisphere/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Navigating with the Kamal – Northern Hemisphere</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>How did Arabian sailors navigate at sea?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal \n  \n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Навигация с помощью камаля — образовательная деятельность astroEDU для Северного полушария (ссылки на сайт astroEDU). Описание: Как арабские моряки ориентировались в море? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: История \n  \n  , География \n  \n  , Координаты \n  \n  , Небесная навигация \n  \n  , Аравия \n  \n  , Камаль. Возрастные диапазоны: 14-16 \n  \n, 16-19. Уровень образования: Средняя школа \n  \n, Среднее образование. Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение. Затраты: Низкие затраты. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Polaris",
+      "aliases": [
+        "alpha Ursae Minoris",
+        "North Star",
+        "Pole Star"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Polaris",
+          "body": "Polaris is the nearest bright star (within one degree) to the celestial North Pole. Its official designation is α Ursae Minoris, but it is commonly known as Polaris, the North Star, or the Pole Star. All the stars of the northern hemisphere appear to rotate around it, so it provides an excellent fixed point from which to perform measurements for navigation and astrometry. Its elevation above the horizon gives the approximate latitude of the observing site. However, its position on the celestial sphere is slowly changing due to the precession of the rotation axis of Earth, so in several centuries Polaris will not indicate the location of the celestial North Pole anymore. Polaris is a triple star system, composed of the primary, a yellow supergiant designated Polaris Aa, in orbit with a smaller companion, Polaris Ab, a very close main sequence star; the pair has a wide companion, Polaris B, a main sequence star orbiting at a distance of 2400 astronomical units. Polaris B can be resolved with a modest telescope. The Hubble Space Telescope was able to resolve all three members of the Polaris ternary system. The apparent visual magnitude of Polaris fluctuates because Polaris Aa is a Cepheid variable. The Polaris system is about 447 light years from Earth."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Navigating with the Kamal – Northern Hemisphere astroEDU educational activity (links to astroEDU website) Description: How did Arabian sailors navigate at sea? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Coordinates \n  \n  , Celestial navigation \n  \n  , Arabia \n  \n  , Kamal Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations"
+        }
+      }
+    },
+    "ru": {
+      "title": "Полярная звезда",
+      "aliases": [
+        "альфа Малой Медведицы",
+        "Полярная звезда",
+        "Полярная звезда"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Полярная звезда",
+          "body": "Полярная звезда — ближайшая яркая звезда (в пределах одного градуса) к северному полюсу мира. Её официальное обозначение — α Малой Медведицы, но обычно её называют Полярной звездой, Северной звездой или Путеводной звездой. Все звёзды северного полушария, как кажется, вращаются вокруг неё, поэтому она служит превосходной фиксированной точкой для измерений в навигации и астрометрии. Её высота над горизонтом даёт приблизительную широту места наблюдения. Однако её положение на небесной сфере медленно меняется из-за прецессии оси вращения Земли, поэтому через несколько столетий Полярная звезда уже не будет указывать на северный полюс мира. Полярная звезда — тройная звёздная система, состоящая из главной звезды — жёлтого сверхгиганта, обозначенного как Полярная Aa, обращающегося по орбите с меньшим компаньоном Полярной Ab, очень близкой звездой главной последовательности; у пары есть широкий компаньон Полярная B — звезда главной последовательности, обращающаяся на расстоянии 2400 астрономических единиц. Полярную B можно разрешить с помощью скромного телескопа. Космический телескоп «Хаббл» смог разрешить всех трёх членов тройной системы Полярной звезды. Видимая визуальная величина Полярной звезды колеблется, потому что Полярная Aa является цефеидой. Система Полярной звезды находится на расстоянии около 447 световых лет от Земли."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Навигация с помощью камаля — образовательная деятельность astroEDU для Северного полушария (ссылки на сайт astroEDU). Описание: Как арабские моряки ориентировались в море? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: История \n  \n  , География \n  \n  , Координаты \n  \n  , Небесная навигация \n  \n  , Аравия \n  \n  , Камаль. Возрастные диапазоны: 14-16 \n  \n, 16-19. Уровень образования: Средняя школа \n  \n, Среднее образование. Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение. Затраты: Низкие затраты. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Us94DH337Y14",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425254/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Dreamlike%20Starry%20Sky%20and%20Airglow%2C%20by%20Likai%20Lin.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Us94DH337Y14/",
+      "original_path": "data/media/original/media_Us94DH337Y14.jpg",
+      "ru_path": null,
+      "sha256": "2d0b30b77f7203f27c0c91038b4e4065400262038e88ebaa407e56f6436fc276",
+      "size": 9418988,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Dreamlike Starry Sky and Airglow",
+      "short_caption_ru": "Мечтательное звёздное небо и свечение атмосферы",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis spectacular image shows a range of prominent constellations visible in the night sky over the desert of inner Mongolia, taken in August 2019. The yellowish star in the bottom left side is Arcturus, one of the brightest stars in the night sky, and the brightest in the constellation Boötes. The handle of the Big Dipper points towards this bright star and the Dipper is also visible above Boötes. The Northern Dipper (Bei Dou) is a traditional Chinese constellation. It is considered a chariot in which the Judges for Nobility are sitting. Arcturus is considered a single-star asterism, named the Horn, which forms part of the Chinese super-constellation for the spring, the Azure Dragon of the East. The front of the Northern Dipper points towards the star at the top of the photograph which is now called Polaris, the northern Pole Star. In ancient China, there was no bright star at the pole, so the stars in the nearest vicinity of the pole were considered to belong to the emperor and his family in the constellation the Purple Forbidden Palace. At least as early as mediaeval times, Polaris was considered part of the constellation of the Great Emperor of Heaven.\r\n\r\nCorona Borealis is also visible in the top right corner of this image, although not in its completeness. It is called the Coiled Thong in China. With its characteristic semi-circular shape, this is one of the smaller constellations of the 88 modern ones, but also can be traced back at least three or four millennia through the Roman “Crown”, the Greek wedding “Wreath”, and the Babylonian “Asterism of Dignity”. The modern name literally means “Northern Crown” in Latin.\r\n\r\nAt the upper-right edge of the image, we find the part of the modern constellation Cassiopeia that is considered the Flying Corridor and an Auxiliary Road in ancient China. The W-shape of Cassiopeia is cut off by the edge of the photograph but the constellations to its south and southeast, Andromeda and Perseus, are clearly recognisable. Prominently we see the Andromeda galaxy, the most distant object that is visible to the unaided eye. It is located at the outermost outliers of the band of the Milky Way, which could explain why it has not been mentioned explicitly in ancient star catalogues, as it was mistakenly thought to be part of the Milky Way. The photograph also shows clearly reddish parts of the Milky Way that don’t appear bright to the naked eye, and also open clusters that are formed from the same molecular cloud, i.e., groups of stars with similar ages. This region is part of many big and small asterisms in traditional Chinese uranology.",
+      "caption_ru": "Победитель в конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭтот впечатляющий снимок показывает ряд заметных созвездий, видимых на ночном небе над пустыней Внутренней Монголии, сделанный в августе 2019 года. Желтоватая звезда в нижнем левом углу — Арктур, одна из ярчайших звёзд ночного неба и самая яркая в созвездии Волопаса. Рукоятка Большого Ковша указывает на эту яркую звезду, и сам Ковш также виден над Волопасом. Северный Ковш (Бэй Доу) — традиционное китайское созвездие. Он считается колесницей, в которой сидят Судьи Знатности. Арктур считается астеризмом из одной звезды под названием Рог, который является частью китайского супер-созвездия весны — Лазурного Дракона Востока. Передняя часть Северного Ковша указывает на звезду в верхней части фотографии, которая сейчас называется Полярной, северной Полярной звездой. В древнем Китае на полюсе не было яркой звезды, поэтому звёзды в ближайших окрестностях полюса считались принадлежащими императору и его семье в созвездии Пурпурного Запретного Дворца. По крайней мере, уже в средневековые времена Полярная звезда считалась частью созвездия Великого Императора Неба.\r\n\r\nВ правом верхнем углу этого изображения также видна Северная Корона, хотя и не полностью. В Китае она называется Свёрнутым Ремнём. Благодаря своей характерной полукруглой форме это одно из меньших созвездий из 88 современных, но его можно проследить по крайней мере на три-четыре тысячелетия назад через римскую «Корону», греческий свадебный «Венок» и вавилонский «Астеризм Достоинства». Современное название буквально означает «Северная Корона» на латыни.\r\n\r\nУ верхнего правого края изображения мы находим часть современного созвездия Кассиопеи, которая в древнем Китае считалась Летящим Коридором и Вспомогательной Дорогой. W-образная форма Кассиопеи обрезана краем фотографии, но созвездия к югу и юго-востоку от неё, Андромеда и Персей, ясно узнаваемы. Заметно мы видим галактику Андромеды, самый далёкий объект, видимый невооружённым глазом. Она расположена на самых внешних окраинах полосы Млечного Пути, что могло бы объяснить, почему она не упоминалась явно в древних звёздных каталогах, так как ошибочно считалась частью Млечного Пути. На фотографии также ясно видны красноватые части Млечного Пути, которые не кажутся яркими невооружённому глазу, а также рассеянные скопления, образованные из одного молекулярного облака, то есть группы звёзд с одинаковым возрастом. Этот регион является частью многих больших и малых астеризмов в традиционной китайской уранологии.",
+      "alt_en": "The ladle-shaped Big Dipper with the orange star Arcturus to its left. Right is the diffuse disk-shaped Andromeda galaxy",
+      "alt_ru": "Ковшеобразный Большой Ковш с оранжевой звездой Арктур слева от него. Справа — диффузная дисковидная галактика Андромеды",
+      "credit": "Likai Lin/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        56,
+        217,
+        261,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:4g12Pr80kF84",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425134/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Big%20Dipper%20in%20Four%20Seasons%2C%20by%20Giorgia%20Hofer.jpg",
+      "record_url": "https://astro4edu.org/resources/media/4g12Pr80kF84/",
+      "original_path": "data/media/original/media_4g12Pr80kF84.jpg",
+      "ru_path": null,
+      "sha256": "a82ba4ebb571fe3f7523ab07d4fecc14661ffc4a961d963e0071f81a7078fd9f",
+      "size": 2388562,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Big Dipper in Four Seasons",
+      "short_caption_ru": "Большой Ковш в четырёх сезонах",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nAs Earth moves around the Sun, the positions of the stars in the night sky appear to change over the course of the year. This is well exemplified in this mosaic, with images taken in all four seasons throughout 2020 in the region of Veneto, Italy, showing the apparent motion of the Ursa Minor and Ursa Major constellations.\r\n\r\nUrsa Minor, the Little Bear, is a constellation of the northern hemisphere, and it contains the northern celestial pole, in our current epoch marked by a bright star called Polaris or the Pole Star. For centuries Polaris has been used for navigation in the northern hemisphere, as it has been almost at the exact pole position for roughly 200 years. In the Middle Ages and antiquity, there was no pole star; the celestial north pole lay in a dark region and the Greeks considered the “Little She-Bear” as a companion of the “Great She-Bear”, which is more easily recognizable. The brightest stars of these constellations were alternatively also considered as chariots by the Greeks, as written in Aratus’s famous didactic poem from the 3rd century before the common era. The most famous asterism in Ursa Major, composed of seven stars, has different names across the (northern) world. While considered as a chariot by the Greeks, it is “The Northern Dipper” in China, and “The Seven Oxen” for the ancient Romans.\r\n\r\nIt was also the navigational purpose that led to the name The Great She-Bear, Ursa Major; for the Greeks, travelling towards the direction of the horizon above which Ursa Major appears meant moving towards the land of the bears (northern Europe). An animal is clearly recognizable when taking into account all the fainter stars in the vicinity of the seven bright ones. They considered it a female bear because Greek mythology connects this animal with the nymph Callisto, whose story describes the initiation rituals for women.\r\n\r\nIn the top left, we see an image taken on a spring evening, while the image below shows the same portion of the sky on a summer evening. Going counterclockwise, we see the sky during autumn in the bottom right image, while the top right finally shows this portion of the sky in the winter. Note that the relative positions of Ursa Minor and the Big Dipper don’t change, but all stars appear to be moved in a circle around Polaris. This star pointing due north lies at the point where Earth’s rotational axis intersects the celestial sphere.\r\n\r\nThe shift of constellations throughout the year is therefore a globe-clock or a globe-calendar, used by ancient civilizations to measure the year, and to predict the changes of seasons. It helps to establish, for instance, the best time for sowing and sailing as winds change with the seasons.",
+      "caption_ru": "Победитель в конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nПо мере движения Земли вокруг Солнца положения звёзд на ночном небе, как кажется, меняются в течение года. Это хорошо иллюстрируется в этой мозаике, с изображениями, сделанными во все четыре сезона в течение 2020 года в регионе Венето, Италия, показывающими видимое движение созвездий Малой Медведицы и Большой Медведицы.\r\n\r\nМалая Медведица — созвездие Северного полушария, и оно содержит северный небесный полюс, в нашу текущую эпоху отмеченный яркой звездой, называемой Полярной, или Полярной звездой. В течение столетий Полярная звезда использовалась для навигации в Северном полушарии, так как она находилась почти в точном положении полюса примерно 200 лет. В Средние века и в античности не было полярной звезды; северный небесный полюс лежал в тёмной области, и греки считали «Малую Медведицу» спутницей «Большой Медведицы», которая более легко узнаваема. Самые яркие звёзды этих созвездий также альтернативно считались греками колесницами, как написано в знаменитой дидактической поэме Арата из 3-го века до нашей эры. Самый известный астеризм в Большой Медведице, состоящий из семи звёзд, имеет разные названия по всему (северному) миру. В то время как греки считали его колесницей, в Китае это «Северный Ковш», а для древних римлян — «Семь Волов».\r\n\r\nИменно навигационное назначение привело к названию Большая Медведица, Ursa Major; для греков путешествие в направлении горизонта, над которым появляется Большая Медведица, означало движение к земле медведей (Северная Европа). Животное ясно узнаваемо, если принять во внимание все более слабые звёзды в окрестностях семи ярких. Они считали её медведицей, потому что греческая мифология связывает это животное с нимфой Каллисто, история которой описывает обряды инициации для женщин.\r\n\r\nВ верхнем левом углу мы видим изображение, сделанное весенним вечером, а изображение ниже показывает ту же часть неба летним вечером. Двигаясь против часовой стрелки, мы видим небо осенью на нижнем правом изображении, а верхнее правое, наконец, показывает эту часть неба зимой. Обратите внимание, что относительные положения Малой Медведицы и Большого Ковша не меняются, но все звёзды, как кажется, движутся по кругу вокруг Полярной звезды. Эта звезда, указывающая точно на север, лежит в точке, где ось вращения Земли пересекает небесную сферу.\r\n\r\nТаким образом, смещение созвездий в течение года — это глобус-часы или глобус-календарь, используемый древними цивилизациями для измерения года и предсказания смены сезонов. Это помогает установить, например, лучшее время для посева и плавания, так как ветры меняются с сезонами.",
+      "alt_en": "The Big Dipper, seven bright stars shaped like a ladle, viewed in 4 seasons, each time at a different angle",
+      "alt_ru": "Большой Ковш, семь ярких звёзд в форме ковша, наблюдаемый в 4 сезона, каждый раз под разным углом",
+      "credit": "Giorgia Hofer/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        56,
+        90,
+        217,
+        261,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:AB430t11jX43",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360171/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Big%20Dipper%20and%20Comet%20Neowise%20C2020%20F3,%20by%20Giorgia%20Hofer.avi/content",
+      "record_url": "https://astro4edu.org/resources/media/AB430t11jX43/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Big Dipper and Comet Neowise C2020 F3",
+      "title_ru": "Большой Ковш и комета NEOWISE C2020 F3",
+      "short_caption_en": "Big Dipper and Comet Neowise C2020 F3",
+      "short_caption_ru": "Большой Ковш и комета NEOWISE C2020 F3",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis time-lapse documents the trajectory of the iconic Big Dipper across three frames taken in July 2020. Captured from three locations in Italy, Tre Cime di Lavaredo Auronzo di Cadore, Monte Rite, Cibiana di Cadore, and Casera Razzo, Vigo di Cadore, this visual odyssey showcases the captivating journey of the Big Dipper with the addition of trails of stars painting a celestial canvas. It not only traces the path of this renowned asterism but also features the rare appearance of comet Neowise C/2020 F3, an extraordinary event that graced our skies during July 2020.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nЭтот таймлапс документирует траекторию культового Большого Ковша на трёх кадрах, сделанных в июле 2020 года. Снятый из трёх мест в Италии — Тре Чиме ди Лаваредо (Ауронцо ди Кадоре), Монте Рите (Чибиана ди Кадоре) и Казера Раццо (Виго ди Кадоре) — этот визуальный одиссей демонстрирует захватывающее путешествие Большого Ковша с добавлением следов звёзд, рисующих небесное полотно. Он не только прослеживает путь этого известного астеризма, но и показывает редкое появление кометы NEOWISE C/2020 F3 — экстраординарное событие, которое украсило наши небеса в июле 2020 года.",
+      "alt_en": "The Big Dipper drifts lower towards the horizon on the left, on the right a comet rises in the sky.",
+      "alt_ru": "Большой Ковш опускается ниже к горизонту слева, справа на небе поднимается комета.",
+      "credit": "Giorgia Hofer/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        56,
+        261,
+        305,
+        473
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:8i19wv485F65",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360188/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20The%20Big%20Dipper%20with%20the%20Sardinia%20Radio%20Telescope%20SRT,%20by%20Antonio%20Finazzi.mov/content",
+      "record_url": "https://astro4edu.org/resources/media/8i19wv485F65/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "The Big Dipper with the Sardinia Radio Telescope SRT",
+      "title_ru": "Большая Медведица с Сардинским радиотелескопом SRT",
+      "short_caption_en": "The Big Dipper with the Sardinia Radio Telescope SRT",
+      "short_caption_ru": "Большая Медведица с Сардинским радиотелескопом SRT",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis time-lapse captures the movement of the stars alongside the majestic 64-metre Sardinia Radio Telescope (SRT) from the National Institute of Astrophysics (INAF), with special attention to the renowned Big Dipper against the backdrop of the celestial sphere. The camera pans as the famous asterism sinks in the sky while planes fly past and the radio telescope rotates. The harmonious interplay between the stellar pathways and the colossal dish of the radio telescope creates a mesmerising visual ode to the cosmic ballet taken in September 2019.",
+      "caption_ru": "Почетное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория таймлапсов вращения Большой Медведицы или Южного Креста.\r\n\r\nЭтот таймлапс запечатлевает движение звезд рядом с величественным 64-метровым Сардинским радиотелескопом (SRT) Национального института астрофизики (INAF), с особым вниманием к знаменитой Большой Медведице на фоне небесной сферы. Камера панорамирует, пока известный астеризм опускается в небе, пролетают самолеты, а радиотелескоп вращается. Гармоничное взаимодействие между звездными путями и колоссальной тарелкой радиотелескопа создает завораживающую визуальную оду космическому балету, снятую в сентябре 2019 года.",
+      "alt_en": "The dish of a radio telescope rotates as the Big Dipper moves in the sky behind.",
+      "alt_ru": "Тарелка радиотелескопа вращается, а Большая Медведица движется по небу позади.",
+      "credit": "Antonio Finazzi/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        27,
+        39,
+        52,
+        53,
+        90,
+        226,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:PP87mr753x68",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360167/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Big%20Dipper%20Over%20the%20Mono%20Lake,%20by%20Fabrizio%20Melandri.mp4/content",
+      "record_url": "https://astro4edu.org/resources/media/PP87mr753x68/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Big Dipper Over the Mono Lake",
+      "title_ru": "Большой Ковш над озером Моно",
+      "short_caption_en": "Big Dipper Over the Mono Lake",
+      "short_caption_ru": "Большой Ковш над озером Моно",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThe Big Dipper asterism gracefully moves above the otherworldly tufa formations of Mono Lake, California. The time-lapse captures the Big Dipper’s movement across the northern horizon until its inferior conjunction. At Mono Lake’s latitude (+38°), the stars of the Big Dipper remain circumpolar, except for Alkaid. The North Star sits 38° above the horizon, just outside the field of view in the top right. The lunar illumination bathes the landscape in a soft glow, gradually fading as the Moon sets, cloaking the scene in darkness.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nАстеризм Большой Ковш изящно движется над потусторонними туфовыми образованиями озера Моно, Калифорния. Таймлапс запечатлевает движение Большого Ковша по северному горизонту до его нижней кульминации. На широте озера Моно (+38°) звёзды Большого Ковша остаются незаходящими, за исключением Алькаида. Полярная звезда находится на высоте 38° над горизонтом, чуть за пределами поля зрения в правом верхнем углу. Лунное освещение заливает пейзаж мягким светом, постепенно исчезающим при заходе Луны, окутывая сцену тьмой.",
+      "alt_en": "The Big Dipper sinks in the sky with the handle sweeping out a larger circle than the bowl of the asterism.",
+      "alt_ru": "Большой Ковш опускается в небе, при этом рукоятка описывает больший круг, чем чаша астеризма.",
+      "credit": "Fabrizio Melandri/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        56,
+        90,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Y71yJ65uJ83",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360123/files/Second%20place%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20The%20Rotating%20Planet,%20by%20Jianfeng%20Dai.mov/content",
+      "record_url": "https://astro4edu.org/resources/media/Y71yJ65uJ83/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "The Rotating Planet",
+      "title_ru": "Вращающаяся планета",
+      "short_caption_en": "The Rotating Planet",
+      "short_caption_ru": "Вращающаяся планета",
+      "caption_en": "Second place winner in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nA cosmic journey unfolds across continents in this time-lapse video which captures both iconic constellations from diverse corners of the world. Starting in China, the Big Dipper graces the night sky, a steadfast guide embedded in cultural narratives. Its luminance marks the beginning of this celestial odyssey. The two pointer stars on the end of the Big Dipper point to the North Star (Polaris) which appears to remain stationary as the sky rotates. From Nepal’s lofty peaks, the Big Dipper’s familiarity persists, a reliable fixture in the shifting panorama of the rotating planet. Moving to Chile, the Southern Cross adorns the firmament, emblematic of the southern skies. Frames from Chile showcase this constellation accompanied by the Milky Way Galaxy. In Namibia, a telescope from the H.E.S.S. Observatory appears in the video. Later, nestled beneath sheltering trees, the Big Dipper persists in its celestial prominence, appearing against a canvas of stars. Using varied techniques — fisheye lenses, static cameras, and Earth's movement-tracking — each frame unveils the Cross’s grandeur against diverse landscapes. These sequences — marked by star trails and Earth’s rotation—highlight the enduring presence of the Big Dipper and Southern Cross, bridging cultures and celestial beauty across hemispheres.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nКосмическое путешествие разворачивается через континенты в этом видео-таймлапсе, которое запечатлевает оба культовых созвездия из разных уголков мира. Начиная с Китая, Большой Ковш украшает ночное небо, являясь надёжным ориентиром, вписанным в культурные нарративы. Его сияние знаменует начало этого небесного одиссея. Две указательные звезды на конце Большого Ковша указывают на Полярную звезду, которая, как кажется, остаётся неподвижной, пока небо вращается. С высоких вершин Непала знакомство с Большим Ковшом сохраняется — это надёжный элемент в меняющейся панораме вращающейся планеты. Перемещаясь в Чили, Южный Крест украшает небосвод, являясь символом южных небес. Кадры из Чили показывают это созвездие в сопровождении галактики Млечный Путь. В Намибии в видео появляется телескоп обсерватории H.E.S.S. Позже, укрывшись под осеняющими деревьями, Большой Ковш сохраняет своё небесное великолепие, появляясь на фоне звёздного полотна. Используя различные техники — рыбий глаз, статические камеры и съёмку со слежением за движением неба — каждый кадр раскрывает величие Креста на фоне разнообразных ландшафтов. Эти последовательности, отмеченные звёздными следами и вращением Земли, подчёркивают неизменное присутствие Большого Ковша и Южного Креста, соединяя культуры и небесную красоту через полушария.",
+      "alt_en": "Timelapses of rotating skies behind trees, telescopes, mountains and observatories",
+      "alt_ru": "Таймлапсы вращающегося неба за деревьями, телескопами, горами и обсерваториями",
+      "credit": "Jianfeng Dai/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        90,
+        217,
+        261,
+        318,
+        518
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Oi91Gk8vW60",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10360019/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Star%20Trails%20of%20the%20Forbidden%20City,%20by%20Stephanie%20Ziyi%20Ye.JPEG/content",
+      "record_url": "https://astro4edu.org/resources/media/Oi91Gk8vW60/",
+      "original_path": "data/media/original/media_Oi91Gk8vW60.jpeg",
+      "ru_path": null,
+      "sha256": "2fecbcf7711e89fda7ebd52aa22ed1426901cd5f809421c2f48870e84b340428",
+      "size": 4120102,
+      "title_en": "Star Trails of the Forbidden City",
+      "title_ru": "Звёздные треки Запретного города",
+      "short_caption_en": "Star Trails of the Forbidden City",
+      "short_caption_ru": "Звёздные треки Запретного города",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nBeneath the celestial ballet of star trails that weave their way across the night sky, the Beijing Forbidden City stands as a testament to ancient celestial connections in this image captured in March 2022. Designed with a cosmic alignment in mind, the palace echoes the orientation of the North Star, also known as Polaris, a celestial anchor that has long guided navigators and symbolised steadiness in the sky. It was believed that the Emperor embodied the earthly representation of this pole star, bridging the realms between heaven and earth. In this harmonious one-hour exposure captured with a smartphone, the streaks of stars trace their nightly journey across the firmament, converging toward the North Star, reflecting the precision of both architectural design and celestial paths.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии 2023 МАС OAE в категории неподвижных изображений, снятых исключительно на смартфоны/мобильные устройства.\r\n\r\nПод небесным балетом звёздных треков, которые прочерчивают свой путь по ночному небу, пекинский Запретный город предстаёт свидетельством древних небесных связей на этом снимке, сделанном в марте 2022. Спроектированный с учётом космического выравнивания, дворец повторяет ориентацию Полярной звезды, также известной как Полярис, небесного якоря, который долго направлял мореплавателей и символизировал устойчивость в небе. Считалось, что император воплощал земное представление этой полярной звезды, соединяя миры неба и земли. На этой гармоничной часовой экспозиции, снятой на смартфон, полосы звёзд прочерчивают свой ночной путь по небосводу, сходясь к Полярной звезде, отражая точность как архитектурного замысла, так и небесных путей.",
+      "alt_en": "A traditional Chinese building. Above the streaks of stars form a circular pattern around the north star.",
+      "alt_ru": "Традиционное китайское здание. Над ним полосы звёзд образуют круговой узор вокруг Полярной звезды.",
+      "credit": "Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        52,
+        53,
+        56,
+        210,
+        217,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:jp181P35rG35",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/octans-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/jp181P35rG35/",
+      "original_path": "data/media/original/diagram_jp181P35rG35.png",
+      "ru_path": null,
+      "sha256": "4e7f8061b7fac9112cce786b7e15b5c193d7dcde756b609008859b8413096e2a",
+      "size": 109171,
+      "title_en": "Octans Constellation Map",
+      "title_ru": "Карта созвездия Октант",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Octans along with its bright stars and its surrounding constellations. Octans is surrounded by (going clockwise from the top): Hydrus, Indus, Pavo, Apus, Chameleon and Mensa. Octans is a relatively faint constellation that is notable as it lies at the south celestial pole. While the northern pole star is the relatively bright Polaris, sigma Octans, the southern pole star, is barely visible with the naked eye.\r\n\r\nOctans lies at the south celestial pole and is thus visible from the whole southern hemisphere with some of the constellation visible from equatorial regions of the northern hemisphere. The constellation is circumpolar for most of the southern hemisphere. It is best viewed in the evening in the northern hemisphere autumn and southern hemisphere spring. \r\n\r\nThis diagram maps an area around the south celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines (in hours) are marked on the x-axis above and below the diagram. The solid circle around the pole marks a line of -80° declination with the larger, incomplete circle to the right marking -70° declination. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Октант вместе с его яркими звёздами и окружающими созвездиями. Октант окружён (по часовой стрелке сверху): Южной Гидрой, Индейцем, Павлином, Райской Птицей, Хамелеоном и Столовой Горой. Октант — относительно слабое созвездие, примечательное тем, что оно находится на южном полюсе мира. В то время как северная полярная звезда — относительно яркая Полярная звезда, сигма Октанта, южная полярная звезда, едва видна невооружённым глазом.\r\n\r\nОктант лежит на южном полюсе мира и, таким образом, виден со всего южного полушария, причём часть созвездия видна из экваториальных областей северного полушария. Созвездие является околополярным для большей части южного полушария. Лучше всего его наблюдать вечером осенью в северном полушарии и весной в южном полушарии. \r\n\r\nЭта диаграмма отображает область вокруг южного полюса мира. Здесь сходятся линии постоянного прямого восхождения. Значения прямого восхождения этих линий (в часах) отмечены на оси x выше и ниже диаграммы. Сплошной круг вокруг полюса обозначает линию склонения -80° с большим незамкнутым кругом справа, обозначающим склонение -70°. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжируются по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные линии границ обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Octans appears as an elongated triangle",
+      "alt_ru": "Октант выглядит как вытянутый треугольник",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        261,
+        286,
+        518
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:wT49Db11i836",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa_minor-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/wT49Db11i836/",
+      "original_path": "data/media/original/diagram_wT49Db11i836.png",
+      "ru_path": null,
+      "sha256": "f08563386e38619088b898f35ced57d88b11a6ac5c4ba0d9fe5f806531833d69",
+      "size": 117257,
+      "title_en": "Ursa Minor Constellation Map",
+      "title_ru": "Карта созвездия Малая Медведица",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Ursa Minor along with its bright stars and its surrounding constellations. Ursa Minor is surrounded by (going clockwise from the top): Cephus, Camelopardalis and Draco. Ursa Minor is notable as its brightest star, Polaris is the northern pole star. \r\n\r\nUrsa Minor is visible from the entire northern hemisphere with some parts of the constellation being visible from equatorial regions of the southern hemisphere. It is also circumpolar for temperate and arctic regions of the northern hemisphere. Polaris, lying very close the north celestial pole is circumpolar for the whole of the northern hemisphere. The constellation is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter.\r\n\r\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values (in hours) of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination (in degrees) are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Малая Медведица вместе с его яркими звёздами и окружающими созвездиями. Малая Медведица окружена (по часовой стрелке сверху): Цефеем, Жирафом и Драконом. Малая Медведица примечательна тем, что её самая яркая звезда, Полярная звезда, является северной полярной звездой.\r\n\r\nМалая Медведица видна со всего северного полушария, причём некоторые части созвездия видны из экваториальных областей южного полушария. Она также является околополярной для умеренных и арктических регионов северного полушария. Полярная звезда, находящаяся очень близко к северному небесному полюсу, является околополярной для всего северного полушария. Созвездие наиболее видно по вечерам летом в северном полушарии и зимой в южном полушарии.\r\n\r\nЭта диаграмма отображает область вокруг северного небесного полюса. Здесь сходятся линии постоянного прямого восхождения. Значения прямого восхождения (в часах) этих линий отмечены на оси X выше и ниже диаграммы. Некоторые из линий постоянного склонения (в градусах) отмечены на оси Y. Размеры отмеченных здесь звёзд связаны с видимой величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначена альфой, вторая по яркости — бета и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные IAU, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Ursa Minor appears as a small ladle with the end of the handle, the location of Polaris, at the north pole",
+      "alt_ru": "Малая Медведица выглядит как небольшой ковш, конец ручки которого, местоположение Полярной звезды, находится на северном полюсе",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        217,
+        261,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

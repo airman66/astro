@@ -1,0 +1,185 @@
+{
+  "id": "term:141",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 141,
+    "url": "https://astro4edu.org/resources/glossary/term/141/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=141",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:57.937854+00:00",
+    "sha256": "2ee5551e8699054a7d6ac2cb34da2bf3e782af21486d5037e42a19b446cf280d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System",
+      "The Sun"
+    ],
+    "category_ids": [
+      1,
+      5
+    ],
+    "categories_ru": [
+      "Солнечная система",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      127
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Heliocentric Model",
+      "body": "The term heliocentric is from the Greek helios, which is the name for the Sun, and kentro meaning center. This model of the Solar System places the Sun at the center and the planets orbit around it, replacing the geocentric (Earth-centered) model. Although the origin of the model is attributed to Copernicus in the 16th century, Aristarchus of Samos developed a heliocentric model in Ancient Greece and astronomers in India, Europe, and the Islamic world discussed such models prior to Copernicus. Observational evidence for the heliocentric model came through the telescopic observations of Venus made by Galileo. The original heliocentric model placed the Sun at the geometric center of the Solar System; this view changed with the mathematical formulations of Kepler using Tycho Brahe’s data, which Newton built on and expanded with his law of gravitation.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Geocentric Model",
+          "url": "https://www.astro4edu.org/resources/glossary/term/127/",
+          "text_ru": "Геоцентрическая модель"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Heliocentric Model</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The term heliocentric is from the Greek helios, which is the name for the Sun, and kentro meaning center. This model of the Solar System places the Sun at the center and the planets orbit around it, replacing the geocentric (Earth-centered) model. Although the origin of the model is attributed to Copernicus in the 16th century, Aristarchus of Samos developed a heliocentric model in Ancient Greece and astronomers in India, Europe, and the Islamic world discussed such models prior to Copernicus. Observational evidence for the heliocentric model came through the telescopic observations of Venus made by Galileo. The original heliocentric model placed the Sun at the geometric center of the Solar System; this view changed with the mathematical formulations of Kepler using Tycho Brahe’s data, which Newton built on and expanded with his law of gravitation.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/127/\">Geocentric Model</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Гелиоцентрическая модель",
+      "body_ru": "Термин «гелиоцентрический» происходит от греческого helios, что означает Солнце, и kentro, означающего центр. Эта модель Солнечной системы помещает Солнце в центр, и планеты вращаются вокруг него, заменяя геоцентрическую (с центром на Земле) модель. Хотя происхождение модели приписывается Копернику в 16 веке, Аристарх Самосский разработал гелиоцентрическую модель в Древней Греции, и астрономы в Индии, Европе и исламском мире обсуждали такие модели до Коперника. Наблюдательные доказательства гелиоцентрической модели появились благодаря телескопическим наблюдениям Венеры, сделанным Галилеем. Первоначальная гелиоцентрическая модель помещала Солнце в геометрический центр Солнечной системы; этот взгляд изменился с математическими формулировками Кеплера, использующими данные Тихо Браге, которые Ньютон развил и расширил своим законом гравитации."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "地動説 (external link)",
+          "url": "https://astro-dic.jp/heliocentrism/",
+          "text_ru": "Гелиоцентрическая теория (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/141/\">نموذج مركزية الشمس </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/141/\">সূর্যকেন্দ্রিক মডেল </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/141/\">Heliozentrisches Modell </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/141/\">Modelo heliocéntrico </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/141/\">Modèle héliocentrique </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/141/\">Modello eliocentrico </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/heliocentrism/\">地動説 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/141/\">태양중심체계모형 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/141/\">Modelo Heliocêntrico </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/141/\">日心模型 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/141/\">日心模型 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/0N18tC72Yg2/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:0N18tC72Yg2"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/0N18tC72Yg2/\"><img alt=\"Image of part of a page of an old book, showing concentric circles (plus a little extra circle where the Earth is), labelled with Latin text.\" src=\"/media/multimedia/thumbnails/copernicuss-heliocentric-system_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Copernicus's heliocentric system</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Sketch of Copernicus's heliocentric model of the Solar System, from his book \"De revolutionibus orbium coelestium\" (On the revolution of the heavenly spheres) published in 1543. Shown are the Sun as well as the orbits of Mercury, Venus, the Earth (itself orbited by the Moon), Mars, Jupiter and Saturn. The outermost circle represents the sphere of the stars.\n\nIn this model, the Earth is not special – it is merely one planet, among several, orbiting the Sun. This was the first example for what is now known as the Copernican Principle: that our positions as observers in the universe is not special or privileged in any way. The shift from the geocentric to the heliocentric model of our universe is known as the Copernican revolution.<br/>\n<b>Credit:</b> Nicolaus Copernicus\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Heliocentric Model",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Heliocentric Model",
+          "body": "The term heliocentric is from the Greek helios, which is the name for the Sun, and kentro meaning center. This model of the Solar System places the Sun at the center and the planets orbit around it, replacing the geocentric (Earth-centered) model. Although the origin of the model is attributed to Copernicus in the 16th century, Aristarchus of Samos developed a heliocentric model in Ancient Greece and astronomers in India, Europe, and the Islamic world discussed such models prior to Copernicus. Observational evidence for the heliocentric model came through the telescopic observations of Venus made by Galileo. The original heliocentric model placed the Sun at the geometric center of the Solar System; this view changed with the mathematical formulations of Kepler using Tycho Brahe’s data, which Newton built on and expanded with his law of gravitation."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Гелиоцентрическая модель",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Гелиоцентрическая модель",
+          "body": "Термин «гелиоцентрический» происходит от греческого helios, что означает Солнце, и kentro, означающего центр. Эта модель Солнечной системы помещает Солнце в центр, и планеты вращаются вокруг него, заменяя геоцентрическую (с центром на Земле) модель. Хотя происхождение модели приписывается Копернику в 16 веке, Аристарх Самосский разработал гелиоцентрическую модель в Древней Греции, и астрономы в Индии, Европе и исламском мире обсуждали такие модели до Коперника. Наблюдательные доказательства гелиоцентрической модели появились благодаря телескопическим наблюдениям Венеры, сделанным Галилеем. Первоначальная гелиоцентрическая модель помещала Солнце в геометрический центр Солнечной системы; этот взгляд изменился с математическими формулировками Кеплера, использующими данные Тихо Браге, которые Ньютон развил и расширил своим законом гравитации."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:0N18tC72Yg2",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/copernicuss-heliocentric-system.jpg",
+      "record_url": "https://astro4edu.org/resources/media/0N18tC72Yg2/",
+      "original_path": "data/media/original/media_0N18tC72Yg2.jpg",
+      "ru_path": null,
+      "sha256": "1e430690d3cae102be70e521de9d9472a3e6241c30b9e03589a4ce89508d01b7",
+      "size": 702641,
+      "title_en": "Copernicus's heliocentric system",
+      "title_ru": "Гелиоцентрическая система Коперника",
+      "short_caption_en": "Copernicus's heliocentric system",
+      "short_caption_ru": "Гелиоцентрическая система Коперника",
+      "caption_en": "Sketch of Copernicus's heliocentric model of the Solar System, from his book \"De revolutionibus orbium coelestium\" (On the revolution of the heavenly spheres) published in 1543. Shown are the Sun as well as the orbits of Mercury, Venus, the Earth (itself orbited by the Moon), Mars, Jupiter and Saturn. The outermost circle represents the sphere of the stars.\r\n\r\nIn this model, the Earth is not special – it is merely one planet, among several, orbiting the Sun. This was the first example for what is now known as the Copernican Principle: that our positions as observers in the universe is not special or privileged in any way. The shift from the geocentric to the heliocentric model of our universe is known as the Copernican revolution.",
+      "caption_ru": "Набросок гелиоцентрической модели Солнечной системы Коперника из его книги \"De revolutionibus orbium coelestium\" (О вращении небесных сфер), опубликованной в 1543. Показаны Солнце, а также орбиты Меркурия, Венеры, Земли (вокруг которой обращается Луна), Марса, Юпитера и Сатурна. Самый внешний круг представляет сферу звёзд.\r\n\r\nВ этой модели Земля не является особенной – она всего лишь одна планета из нескольких, обращающихся вокруг Солнца. Это был первый пример того, что сейчас известно как принцип Коперника: наше положение как наблюдателей во Вселенной не является особенным или привилегированным каким-либо образом. Переход от геоцентрической к гелиоцентрической модели нашей Вселенной известен как коперниканская революция.",
+      "alt_en": "Image of part of a page of an old book, showing concentric circles (plus a little extra circle where the Earth is), labelled with Latin text.",
+      "alt_ru": "Изображение части страницы старинной книги, показывающее концентрические окружности (плюс небольшая дополнительная окружность там, где находится Земля), подписанные латинским текстом.",
+      "credit": "Nicolaus Copernicus",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        67,
+        141,
+        297,
+        434
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "id": "term:332",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 332,
+    "url": "https://astro4edu.org/resources/glossary/term/332/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=332",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:54.283273+00:00",
+    "sha256": "ae8ad557050d4480186cee04bb2030e23ccec87873aff51821868a169ebc23ee"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Milky Way and Interstellar Medium",
+      "Naked Eye Astronomy",
+      "Stars"
+    ],
+    "category_ids": [
+      7,
+      4,
+      2
+    ],
+    "categories_ru": [
+      "Млечный Путь и межзвёздная среда",
+      "Астрономия невооружённым глазом",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      117,
+      118,
+      132,
+      199,
+      331,
+      333,
+      466
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Star Cluster",
+      "body": "Star clusters are groups of stars where all the constituent stars are located in the same area of the sky, with similar distance to us, similar chemical composition, and motion, and are often approximately the same age. The stars in the cluster are likely to have been formed from the same parent cloud of gas. The density distribution could either be centrally concentrated and spherical, or have more complex shapes. They are broadly categorized into two types: Open star clusters and globular clusters. Open clusters are younger (few million years to about 4–5 billion years), have memberships of hundreds to thousands of stars, and could have associated gas and dust remnants from the parent cloud.  In the Milky Way, open clusters are typically found in the galactic disk. Globular clusters are among the oldest entities with most being more than 10 billion years old. They are centrally concentrated, spherical shaped clusters containing thousands to millions of stars. In the Milky Way, globular clusters are typically found in the galactic halo.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Galactic Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/117/",
+          "text_ru": "Галактический диск"
+        },
+        {
+          "text": "Galactic Halo",
+          "url": "https://www.astro4edu.org/resources/glossary/term/118/",
+          "text_ru": "Галактическое гало"
+        },
+        {
+          "text": "Globular Cluster",
+          "url": "https://www.astro4edu.org/resources/glossary/term/132/",
+          "text_ru": "Шаровое скопление"
+        },
+        {
+          "text": "Milky Way",
+          "url": "https://www.astro4edu.org/resources/glossary/term/199/",
+          "text_ru": "Млечный Путь"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Star Formation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/333/",
+          "text_ru": "Звёздообразование"
+        },
+        {
+          "text": "Open Cluster",
+          "url": "https://www.astro4edu.org/resources/glossary/term/466/",
+          "text_ru": "Рассеянное скопление"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Star Cluster</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Star clusters are groups of stars where all the constituent stars are located in the same area of the sky, with similar distance to us, similar chemical composition, and motion, and are often approximately the same age. The stars in the cluster are likely to have been formed from the same parent cloud of gas. The density distribution could either be centrally concentrated and spherical, or have more complex shapes. They are broadly categorized into two types: Open star clusters and globular clusters. Open clusters are younger (few million years to about 4–5 billion years), have memberships of hundreds to thousands of stars, and could have associated gas and dust remnants from the parent cloud.  In the Milky Way, open clusters are typically found in the galactic disk. Globular clusters are among the oldest entities with most being more than 10 billion years old. They are centrally concentrated, spherical shaped clusters containing thousands to millions of stars. In the Milky Way, globular clusters are typically found in the galactic halo.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/117/\">Galactic Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/118/\">Galactic Halo</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/132/\">Globular Cluster</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/199/\">Milky Way</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/333/\">Star Formation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/466/\">Open Cluster</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звёздное скопление",
+      "body_ru": "Звёздные скопления — это группы звёзд, в которых все составляющие звёзды расположены в одной области неба, имеют сходное расстояние до нас, сходный химический состав и движение и часто примерно одинаковый возраст. Звёзды в скоплении, вероятно, образовались из одного родительского газового облака. Распределение плотности может быть либо центрально-концентрированным и сферическим, либо иметь более сложные формы. Они широко подразделяются на два типа: рассеянные звёздные скопления и шаровые скопления. Рассеянные скопления моложе (от нескольких миллионов лет до примерно 4–5 миллиардов лет), насчитывают от сотен до тысяч звёзд и могут иметь связанные остатки газа и пыли от родительского облака. В Млечном Пути рассеянные скопления обычно находятся в галактическом диске. Шаровые скопления относятся к числу самых старых объектов, большинство из них старше 10 миллиардов лет. Это центрально-концентрированные сферические скопления, содержащие от тысяч до миллионов звёзд. В Млечном Пути шаровые скопления обычно находятся в галактическом гало."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "星団 (external link)",
+          "url": "https://astro-dic.jp/star-cluster/",
+          "text_ru": "Звёздное скопление (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/332/\">مجموعة النجوم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/332/\">Sternhaufen </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/332/\">Cúmulo estelar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/332/\">Amas d'étoiles </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/332/\">Ammasso stellare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/star-cluster/\">星団 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/332/\">Aglomerado de estrelas </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/332/\">星团 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/332/\">星團 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/cw25TR32lV2/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.nasa.gov/image-feature/a-sea-of-stars-like-sequins",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:cw25TR32lV2"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/cw25TR32lV2/\"><img alt=\"A cluster of stars of may different colours. The stars are heavily concentrated in the centre of the image\" src=\"/media/multimedia/thumbnails/hubble_terzan_9_potw2224a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stars in globular clusters near the heart of the Milky Way</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This Hubble Space Telescope image presents a view of the interiors of the densely packed globular cluster Terzan 9 which consists of millions of stars located close to the heart of our Milky Way galaxy. This globular cluster sits within the central galatic bulge amidst interstellar dust, which obscures light from these star clusters. This image is a combination of light seen in the visible and infrared parts of the electromagnetic spectrum. Multi-wavelength imaging of the color and brightness of stars helps determine their age and in turn age of the parent star cluster.<br/>\n<b>Credit:</b> ESA/Hubble &amp; NASA, R. Cohen\n\t  <a href=\"https://www.nasa.gov/image-feature/a-sea-of-stars-like-sequins\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Star Cluster",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Star Cluster",
+          "body": "Star clusters are groups of stars where all the constituent stars are located in the same area of the sky, with similar distance to us, similar chemical composition, and motion, and are often approximately the same age. The stars in the cluster are likely to have been formed from the same parent cloud of gas. The density distribution could either be centrally concentrated and spherical, or have more complex shapes. They are broadly categorized into two types: Open star clusters and globular clusters. Open clusters are younger (few million years to about 4–5 billion years), have memberships of hundreds to thousands of stars, and could have associated gas and dust remnants from the parent cloud.  In the Milky Way, open clusters are typically found in the galactic disk. Globular clusters are among the oldest entities with most being more than 10 billion years old. They are centrally concentrated, spherical shaped clusters containing thousands to millions of stars. In the Milky Way, globular clusters are typically found in the galactic halo."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звёздное скопление",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звёздное скопление",
+          "body": "Звёздные скопления — это группы звёзд, в которых все составляющие звёзды расположены в одной области неба, имеют сходное расстояние до нас, сходный химический состав и движение и часто примерно одинаковый возраст. Звёзды в скоплении, вероятно, образовались из одного родительского газового облака. Распределение плотности может быть либо центрально-концентрированным и сферическим, либо иметь более сложные формы. Они широко подразделяются на два типа: рассеянные звёздные скопления и шаровые скопления. Рассеянные скопления моложе (от нескольких миллионов лет до примерно 4–5 миллиардов лет), насчитывают от сотен до тысяч звёзд и могут иметь связанные остатки газа и пыли от родительского облака. В Млечном Пути рассеянные скопления обычно находятся в галактическом диске. Шаровые скопления относятся к числу самых старых объектов, большинство из них старше 10 миллиардов лет. Это центрально-концентрированные сферические скопления, содержащие от тысяч до миллионов звёзд. В Млечном Пути шаровые скопления обычно находятся в галактическом гало."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:cw25TR32lV2",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/hubble_terzan_9_potw2224a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/cw25TR32lV2/",
+      "original_path": "data/media/original/media_cw25TR32lV2.jpg",
+      "ru_path": null,
+      "sha256": "2df4149c6560331a72542a653ad952eac43a3f9bc200b7fc7ad17d80a40e42bd",
+      "size": 403467,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A Hubble Space Telescope image of a globular cluster",
+      "short_caption_ru": "Снимок шарового скопления, полученный космическим телескопом «Хаббл»",
+      "caption_en": "This Hubble Space Telescope image presents a view of the interiors of the densely packed globular cluster Terzan 9 which consists of millions of stars located close to the heart of our Milky Way galaxy. This globular cluster sits within the central galatic bulge amidst interstellar dust, which obscures light from these star clusters. This image is a combination of light seen in the visible and infrared parts of the electromagnetic spectrum. Multi-wavelength imaging of the color and brightness of stars helps determine their age and in turn age of the parent star cluster.",
+      "caption_ru": "Этот снимок космического телескопа «Хаббл» показывает внутреннюю часть плотно упакованного шарового скопления Terzan 9, состоящего из миллионов звёзд, расположенных близко к сердцу нашей галактики Млечный Путь. Это шаровое скопление находится в центральном галактическом балдже среди межзвёздной пыли, которая заслоняет свет от этих звёздных скоплений. Это изображение представляет собой комбинацию света, видимого в видимой и инфракрасной частях электромагнитного спектра. Многоволновое изображение цвета и яркости звёзд помогает определить их возраст и, в свою очередь, возраст родительского звёздного скопления.",
+      "alt_en": "A cluster of stars of may different colours. The stars are heavily concentrated in the centre of the image",
+      "alt_ru": "Скопление звёзд множества разных цветов. Звёзды сильно сконцентрированы в центре изображения",
+      "credit": "ESA/Hubble & NASA, R. Cohen",
+      "credit_url": "https://www.nasa.gov/image-feature/a-sea-of-stars-like-sequins",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        57,
+        132,
+        332
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

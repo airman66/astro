@@ -1,0 +1,169 @@
+{
+  "id": "term:315",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 315,
+    "url": "https://astro4edu.org/resources/glossary/term/315/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=315",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:50.980110+00:00",
+    "sha256": "a8cc684cd7a52d1061e88c3f12dc7c1b09c2aac729917a18ed0cf896d55603f0"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System",
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      1,
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Солнечная система",
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      33,
+      68,
+      184,
+      241,
+      323,
+      342,
+      441,
+      455
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Solar Wind",
+      "body": "The solar wind is a stream of particles, primarily protons and electrons, flowing outwards from the Sun at up to 900 kilometers per second. The solar wind is essentially the hot solar corona expanding into interplanetary space. Many stars have winds; cooler, magnetically active stars like the Sun have winds driven by the hot coronae created by their magnetic fields. Some hotter stars have winds driven by their huge luminosities pushing particles out of their upper atmospheres by radiation pressure. Cool red giants and supergiants can also have winds driven by radiation pressure. The general term for a wind from a star is a stellar wind. The bombardment of particles from a solar or stellar wind can be detrimental to any life that might be hosted by a planet. The Earth's magnetic field protects life on its surface from damaging effects of the solar wind. The interaction between the solar wind and Earth's magnetic field is the cause of aurorae close to the Earth's poles.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Aurora",
+          "url": "https://www.astro4edu.org/resources/glossary/term/33/",
+          "text_ru": "Полярное сияние"
+        },
+        {
+          "text": "Corona",
+          "url": "https://www.astro4edu.org/resources/glossary/term/68/",
+          "text_ru": "Корона"
+        },
+        {
+          "text": "Magnetic Poles",
+          "url": "https://www.astro4edu.org/resources/glossary/term/184/",
+          "text_ru": "Магнитные полюса"
+        },
+        {
+          "text": "Particle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/241/",
+          "text_ru": "Частица"
+        },
+        {
+          "text": "Space Weather",
+          "url": "https://www.astro4edu.org/resources/glossary/term/323/",
+          "text_ru": "Космическая погода"
+        },
+        {
+          "text": "Sun",
+          "url": "https://www.astro4edu.org/resources/glossary/term/342/",
+          "text_ru": "Солнце"
+        },
+        {
+          "text": "Electron",
+          "url": "https://www.astro4edu.org/resources/glossary/term/441/",
+          "text_ru": "Электрон"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Solar Wind</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Stellar wind</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The solar wind is a stream of particles, primarily protons and electrons, flowing outwards from the Sun at up to 900 kilometers per second. The solar wind is essentially the hot solar corona expanding into interplanetary space.<br/><br/>Many stars have winds; cooler, magnetically active stars like the Sun have winds driven by the hot coronae created by their magnetic fields. Some hotter stars have winds driven by their huge luminosities pushing particles out of their upper atmospheres by radiation pressure. Cool red giants and supergiants can also have winds driven by radiation pressure. The general term for a wind from a star is a stellar wind.<br/><br/>The bombardment of particles from a solar or stellar wind can be detrimental to any life that might be hosted by a planet. The Earth's magnetic field protects life on its surface from damaging effects of the solar wind. The interaction between the solar wind and Earth's magnetic field is the cause of aurorae close to the Earth's poles.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/33/\">Aurora</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/68/\">Corona</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/184/\">Magnetic Poles</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/241/\">Particle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/323/\">Space Weather</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/342/\">Sun</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/441/\">Electron</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Солнечный ветер",
+      "body_ru": "Солнечный ветер — это поток частиц, в основном протонов и электронов, вытекающих от Солнца со скоростью до 900 километров в секунду. Солнечный ветер по сути представляет собой горячую солнечную корону, расширяющуюся в межпланетное пространство. Многие звезды имеют ветры; более холодные, магнитно-активные звезды, такие как Солнце, имеют ветры, обусловленные горячими коронами, создаваемыми их магнитными полями. Некоторые более горячие звезды имеют ветры, обусловленные их огромной светимостью, которая выталкивает частицы из их верхних атмосфер давлением излучения. У холодных красных гигантов и сверхгигантов также могут быть ветры, обусловленные давлением излучения. Общий термин для ветра от звезды — звездный ветер. Бомбардировка частицами от солнечного или звездного ветра может быть вредной для любой жизни, которая может быть на планете. Магнитное поле Земли защищает жизнь на ее поверхности от вредных воздействий солнечного ветра. Взаимодействие между солнечным ветром и магнитным полем Земли является причиной полярных сияний вблизи полюсов Земли."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "太陽風 (external link)",
+          "url": "https://astro-dic.jp/solar-wind/",
+          "text_ru": "Солнечный ветер (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/315/\">الرياح الشمسية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/315/\">Sonnenwind </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/315/\">Viento solar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/315/\">Vent solaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/315/\">Vento solare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/solar-wind/\">太陽風 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/315/\">Vento solar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/315/\">太阳风 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/315/\">太陽風 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Solar Wind",
+      "aliases": [
+        "Stellar wind"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Solar Wind",
+          "body": "The solar wind is a stream of particles, primarily protons and electrons, flowing outwards from the Sun at up to 900 kilometers per second. The solar wind is essentially the hot solar corona expanding into interplanetary space. Many stars have winds; cooler, magnetically active stars like the Sun have winds driven by the hot coronae created by their magnetic fields. Some hotter stars have winds driven by their huge luminosities pushing particles out of their upper atmospheres by radiation pressure. Cool red giants and supergiants can also have winds driven by radiation pressure. The general term for a wind from a star is a stellar wind. The bombardment of particles from a solar or stellar wind can be detrimental to any life that might be hosted by a planet. The Earth's magnetic field protects life on its surface from damaging effects of the solar wind. The interaction between the solar wind and Earth's magnetic field is the cause of aurorae close to the Earth's poles."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Солнечный ветер",
+      "aliases": [
+        "Звездный ветер"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Солнечный ветер",
+          "body": "Солнечный ветер — это поток частиц, в основном протонов и электронов, вытекающих от Солнца со скоростью до 900 километров в секунду. Солнечный ветер по сути представляет собой горячую солнечную корону, расширяющуюся в межпланетное пространство. Многие звезды имеют ветры; более холодные, магнитно-активные звезды, такие как Солнце, имеют ветры, обусловленные горячими коронами, создаваемыми их магнитными полями. Некоторые более горячие звезды имеют ветры, обусловленные их огромной светимостью, которая выталкивает частицы из их верхних атмосфер давлением излучения. У холодных красных гигантов и сверхгигантов также могут быть ветры, обусловленные давлением излучения. Общий термин для ветра от звезды — звездный ветер. Бомбардировка частицами от солнечного или звездного ветра может быть вредной для любой жизни, которая может быть на планете. Магнитное поле Земли защищает жизнь на ее поверхности от вредных воздействий солнечного ветра. Взаимодействие между солнечным ветром и магнитным полем Земли является причиной полярных сияний вблизи полюсов Земли."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

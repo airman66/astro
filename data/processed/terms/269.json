@@ -1,0 +1,123 @@
+{
+  "id": "term:269",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 269,
+    "url": "https://astro4edu.org/resources/glossary/term/269/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=269",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:36.208084+00:00",
+    "sha256": "f08c8b42cab02cec74454da8bcff443eea2ced9ae37ed5699f7c2e64ca998f9e"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology"
+    ],
+    "category_ids": [
+      6
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология"
+    ],
+    "related_term_numbers": [
+      84,
+      328
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Radial Velocity",
+      "body": "When astronomers observe a distant object, the radial velocity is the part of the object's motion along the observer's line of sight – taking the object directly away from or directly towards the observer. Radial velocities are measured using the Doppler effect: For astronomical objects moving towards us, spectral lines are shifted towards smaller wavelengths (blueshift); for objects moving away from us, the lines are shifted towards larger wavelengths (redshift). Radial velocity is always relative to an observer. Precision measurements often give their results in terms of radial motion relative to the center of mass of the Solar System (\"barycentric\"), subtracting the influence of Earth's motion around the Sun. Objects that are orbiting each other have radial velocities that vary over time. The effect is strongest when we happen to see the orbital plane edge-on. In that case, orbital motion will periodically, and by turns, take each of the objects directly away from us and directly towards us. Radial velocity measurements can be used to deduce such orbital motions even when the objects themselves are not separately visible. Since higher masses induce higher velocities, such measurements can  be used to estimate the orbiting objects' masses. This has been used to discover binary stars, or exoplanets orbiting stars, and for reconstructing the masses of star clusters and whole galaxies. A systematic analysis of galaxies' distances and radial velocities led to the discovery of cosmic expansion.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Doppler Effect",
+          "url": "https://www.astro4edu.org/resources/glossary/term/84/",
+          "text_ru": "Эффект Доплера"
+        },
+        {
+          "text": "Spectrum",
+          "url": "https://www.astro4edu.org/resources/glossary/term/328/",
+          "text_ru": "Спектр"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Radial Velocity</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> When astronomers observe a distant object, the radial velocity is the part of the object's motion along the observer's line of sight – taking the object directly away from or directly towards the observer. Radial velocities are measured using the Doppler effect: For astronomical objects moving towards us, spectral lines are shifted towards smaller wavelengths (blueshift); for objects moving away from us, the lines are shifted towards larger wavelengths (redshift). Radial velocity is always relative to an observer. Precision measurements often give their results in terms of radial motion relative to the center of mass of the Solar System (\"barycentric\"), subtracting the influence of Earth's motion around the Sun. Objects that are orbiting each other have radial velocities that vary over time. The effect is strongest when we happen to see the orbital plane edge-on. In that case, orbital motion will periodically, and by turns, take each of the objects directly away from us and directly towards us. Radial velocity measurements can be used to deduce such orbital motions even when the objects themselves are not separately visible. Since higher masses induce higher velocities, such measurements can  be used to estimate the orbiting objects' masses. This has been used to discover binary stars, or exoplanets orbiting stars, and for reconstructing the masses of star clusters and whole galaxies. A systematic analysis of galaxies' distances and radial velocities led to the discovery of cosmic expansion.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/84/\">Doppler Effect</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/328/\">Spectrum</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Лучевая скорость",
+      "body_ru": "Когда астрономы наблюдают далёкий объект, лучевая скорость — это часть движения объекта вдоль линии зрения наблюдателя, то есть прямо от наблюдателя или прямо к нему. Лучевые скорости измеряются с использованием эффекта Доплера: для астрономических объектов, движущихся к нам, спектральные линии смещаются в сторону меньших длин волн (синее смещение); для объектов, движущихся от нас, линии смещаются в сторону больших длин волн (красное смещение). Лучевая скорость всегда относительна наблюдателя. Прецизионные измерения часто дают результаты в терминах радиального движения относительно центра масс Солнечной системы («барицентрические»), вычитая влияние движения Земли вокруг Солнца. Объекты, обращающиеся друг вокруг друга, имеют лучевые скорости, которые меняются со временем. Эффект наиболее силён, когда мы случайно видим орбитальную плоскость с ребра. В этом случае орбитальное движение будет периодически и поочерёдно уводить каждый из объектов прямо от нас и прямо к нам. Измерения лучевой скорости можно использовать для вывода таких орбитальных движений, даже когда сами объекты не видны по отдельности. Поскольку более высокие массы вызывают более высокие скорости, такие измерения можно использовать для оценки масс обращающихся объектов. Это использовалось для открытия двойных звёзд или экзопланет, обращающихся вокруг звёзд, а также для восстановления масс звёздных скоплений и целых галактик. Систематический анализ расстояний и лучевых скоростей галактик привёл к открытию космического расширения."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "視線速度 (external link)",
+          "url": "https://astro-dic.jp/radial-velocity/",
+          "text_ru": "Лучевая скорость (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/269/\">السُرْعة الشُعَاعِيّة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/269/\">Radialgeschwindigkeit </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/269/\">Velocidad radial </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/269/\">Vitesse radiale </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/269/\">Velocità radiale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/radial-velocity/\">視線速度 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/269/\">시선속도 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/269/\">Velocidade radial </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/269/\">视向速度 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/269/\">視向速度 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Radial Velocity",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Radial Velocity",
+          "body": "When astronomers observe a distant object, the radial velocity is the part of the object's motion along the observer's line of sight – taking the object directly away from or directly towards the observer. Radial velocities are measured using the Doppler effect: For astronomical objects moving towards us, spectral lines are shifted towards smaller wavelengths (blueshift); for objects moving away from us, the lines are shifted towards larger wavelengths (redshift). Radial velocity is always relative to an observer. Precision measurements often give their results in terms of radial motion relative to the center of mass of the Solar System (\"barycentric\"), subtracting the influence of Earth's motion around the Sun. Objects that are orbiting each other have radial velocities that vary over time. The effect is strongest when we happen to see the orbital plane edge-on. In that case, orbital motion will periodically, and by turns, take each of the objects directly away from us and directly towards us. Radial velocity measurements can be used to deduce such orbital motions even when the objects themselves are not separately visible. Since higher masses induce higher velocities, such measurements can  be used to estimate the orbiting objects' masses. This has been used to discover binary stars, or exoplanets orbiting stars, and for reconstructing the masses of star clusters and whole galaxies. A systematic analysis of galaxies' distances and radial velocities led to the discovery of cosmic expansion."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Лучевая скорость",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Лучевая скорость",
+          "body": "Когда астрономы наблюдают далёкий объект, лучевая скорость — это часть движения объекта вдоль линии зрения наблюдателя, то есть прямо от наблюдателя или прямо к нему. Лучевые скорости измеряются с использованием эффекта Доплера: для астрономических объектов, движущихся к нам, спектральные линии смещаются в сторону меньших длин волн (синее смещение); для объектов, движущихся от нас, линии смещаются в сторону больших длин волн (красное смещение). Лучевая скорость всегда относительна наблюдателя. Прецизионные измерения часто дают результаты в терминах радиального движения относительно центра масс Солнечной системы («барицентрические»), вычитая влияние движения Земли вокруг Солнца. Объекты, обращающиеся друг вокруг друга, имеют лучевые скорости, которые меняются со временем. Эффект наиболее силён, когда мы случайно видим орбитальную плоскость с ребра. В этом случае орбитальное движение будет периодически и поочерёдно уводить каждый из объектов прямо от нас и прямо к нам. Измерения лучевой скорости можно использовать для вывода таких орбитальных движений, даже когда сами объекты не видны по отдельности. Поскольку более высокие массы вызывают более высокие скорости, такие измерения можно использовать для оценки масс обращающихся объектов. Это использовалось для открытия двойных звёзд или экзопланет, обращающихся вокруг звёзд, а также для восстановления масс звёздных скоплений и целых галактик. Систематический анализ расстояний и лучевых скоростей галактик привёл к открытию космического расширения."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

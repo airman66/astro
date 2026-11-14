@@ -1,0 +1,145 @@
+{
+  "id": "term:208",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 208,
+    "url": "https://astro4edu.org/resources/glossary/term/208/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=208",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:19.309644+00:00",
+    "sha256": "b5d5b846eb4e4ac66580dca5fe408f57b7c077df8e38865e3214caa0cb6d7fe5"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Naked Eye Astronomy",
+      "Stars"
+    ],
+    "category_ids": [
+      11,
+      4,
+      2
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Астрономия невооружённым глазом",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      66,
+      106,
+      158,
+      331,
+      485
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Names of Stars",
+      "body": "Stars have been given different names by many different cultures over time. Most of these names are for bright stars visible with the naked eye. Most faint stars do not have names and are referred to either by a number or Greek letter followed by the constellation they belong to, or by a catalog number or coordinate. Variable stars are commonly referred to by two Latin letters followed by the name of their constellation. A small number of fainter stars have been named after the astronomer who first observed that star or who led an important study of it. Stars can often have multiple names from different cultures as well as names based on catalogs or their constellation. Stars in multiple systems have an uppercase Latin letter at the end of their name to distinguish them from stars in the same system. Exoplanets have lowercase Latin letters added to the end of the name of their host star. Some multiple star systems can also use lowercase latin letters for components. For example the star Mizar, which appears as one star in the Big Dipper asterism, is actually a multiple system of four stars with the names Mizar Aa, Ab, Ba and Bb. The International Astronomical Union (IAU) is the official body for assigning naming designations to celestial bodies and their surface features. The IAU has so far promoted two international public campaigns called NameExoWorlds, the first one in 2015 and the second one in 2019, resulting in exoplanets and their stars officially named after popular names suggested by the public and recognized by the IAU.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Constellation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/66/",
+          "text_ru": "Созвездие"
+        },
+        {
+          "text": "Exoplanet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/106/",
+          "text_ru": "Экзопланета"
+        },
+        {
+          "text": "International Astronomical Union",
+          "url": "https://www.astro4edu.org/resources/glossary/term/158/",
+          "text_ru": "Международный астрономический союз"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Variable Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/485/",
+          "text_ru": "Переменная звезда"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Names of Stars</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Star names</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Stars have been given different names by many different cultures over time. Most of these names are for bright stars visible with the naked eye.<br/><br/>Most faint stars do not have names and are referred to either by a number or Greek letter followed by the constellation they belong to, or by a catalog number or coordinate. Variable stars are commonly referred to by two Latin letters followed by the name of their constellation.<br/><br/>A small number of fainter stars have been named after the astronomer who first observed that star or who led an important study of it.<br/><br/>Stars can often have multiple names from different cultures as well as names based on catalogs or their constellation.<br/><br/>Stars in multiple systems have an uppercase Latin letter at the end of their name to distinguish them from stars in the same system. Exoplanets have lowercase Latin letters added to the end of the name of their host star. Some multiple star systems can also use lowercase latin letters for components. For example the star Mizar, which appears as one star in the Big Dipper asterism, is actually a multiple system of four stars with the names Mizar Aa, Ab, Ba and Bb.<br/><br/>The International Astronomical Union (IAU) is the official body for assigning naming designations to celestial bodies and their surface features. The IAU has so far promoted two international public campaigns called NameExoWorlds, the first one in 2015 and the second one in 2019, resulting in exoplanets and their stars officially named after popular names suggested by the public and recognized by the IAU.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/66/\">Constellation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/106/\">Exoplanet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/158/\">International Astronomical Union</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/485/\">Variable Star</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Названия звёзд",
+      "body_ru": "На протяжении истории многие различные культуры давали звёздам разные названия. Большинство этих названий относятся к ярким звёздам, видимым невооружённым глазом. Большинство слабых звёзд не имеют названий и обозначаются либо номером или греческой буквой, за которой следует созвездие, к которому они принадлежат, либо каталожным номером или координатой. Переменные звёзды обычно обозначаются двумя латинскими буквами, за которыми следует название их созвездия. Небольшое число более слабых звёзд было названо в честь астронома, который первым наблюдал эту звезду или руководил важным её исследованием. Звёзды часто могут иметь несколько названий от разных культур, а также названия на основе каталогов или их созвездия. Звёзды в кратных системах имеют заглавную латинскую букву в конце своего названия, чтобы отличать их от звёзд в той же системе. Экзопланеты имеют строчные латинские буквы, добавленные в конец названия их родительской звезды. Некоторые кратные звёздные системы также могут использовать строчные латинские буквы для компонентов. Например, звезда Мицар, которая выглядит как одна звезда в астеризме Большой Медведицы, на самом деле является кратной системой из четырёх звёзд с названиями Мицар Aa, Ab, Ba и Bb. Международный астрономический союз (МАС) является официальным органом, присваивающим обозначения небесным телам и их поверхностным особенностям. На данный момент МАС провёл две международные публичные кампании под названием NameExoWorlds, первая из которых состоялась в 2015 году, а вторая — в 2019 году, в результате чего экзопланеты и их звёзды получили официальные названия по популярным именам, предложенным общественностью и признанным МАС."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/208/\">أسماء النجوم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/208/\">Sternbenennung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/208/\">Nombres de estrellas </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/208/\">Noms des étoiles </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/208/\">Nomi delle stelle </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/208/\">Nomes das estrelas </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/208/\">恒星的命名 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/208/\">恆星的命名 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Names of Stars",
+      "aliases": [
+        "Star names"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Names of Stars",
+          "body": "Stars have been given different names by many different cultures over time. Most of these names are for bright stars visible with the naked eye. Most faint stars do not have names and are referred to either by a number or Greek letter followed by the constellation they belong to, or by a catalog number or coordinate. Variable stars are commonly referred to by two Latin letters followed by the name of their constellation. A small number of fainter stars have been named after the astronomer who first observed that star or who led an important study of it. Stars can often have multiple names from different cultures as well as names based on catalogs or their constellation. Stars in multiple systems have an uppercase Latin letter at the end of their name to distinguish them from stars in the same system. Exoplanets have lowercase Latin letters added to the end of the name of their host star. Some multiple star systems can also use lowercase latin letters for components. For example the star Mizar, which appears as one star in the Big Dipper asterism, is actually a multiple system of four stars with the names Mizar Aa, Ab, Ba and Bb. The International Astronomical Union (IAU) is the official body for assigning naming designations to celestial bodies and their surface features. The IAU has so far promoted two international public campaigns called NameExoWorlds, the first one in 2015 and the second one in 2019, resulting in exoplanets and their stars officially named after popular names suggested by the public and recognized by the IAU."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Названия звёзд",
+      "aliases": [
+        "Названия звёзд"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Названия звёзд",
+          "body": "На протяжении истории многие различные культуры давали звёздам разные названия. Большинство этих названий относятся к ярким звёздам, видимым невооружённым глазом. Большинство слабых звёзд не имеют названий и обозначаются либо номером или греческой буквой, за которой следует созвездие, к которому они принадлежат, либо каталожным номером или координатой. Переменные звёзды обычно обозначаются двумя латинскими буквами, за которыми следует название их созвездия. Небольшое число более слабых звёзд было названо в честь астронома, который первым наблюдал эту звезду или руководил важным её исследованием. Звёзды часто могут иметь несколько названий от разных культур, а также названия на основе каталогов или их созвездия. Звёзды в кратных системах имеют заглавную латинскую букву в конце своего названия, чтобы отличать их от звёзд в той же системе. Экзопланеты имеют строчные латинские буквы, добавленные в конец названия их родительской звезды. Некоторые кратные звёздные системы также могут использовать строчные латинские буквы для компонентов. Например, звезда Мицар, которая выглядит как одна звезда в астеризме Большой Медведицы, на самом деле является кратной системой из четырёх звёзд с названиями Мицар Aa, Ab, Ba и Bb. Международный астрономический союз (МАС) является официальным органом, присваивающим обозначения небесным телам и их поверхностным особенностям. На данный момент МАС провёл две международные публичные кампании под названием NameExoWorlds, первая из которых состоялась в 2015 году, а вторая — в 2019 году, в результате чего экзопланеты и их звёзды получили официальные названия по популярным именам, предложенным общественностью и признанным МАС."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

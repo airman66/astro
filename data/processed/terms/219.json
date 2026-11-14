@@ -1,0 +1,197 @@
+{
+  "id": "term:219",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 219,
+    "url": "https://astro4edu.org/resources/glossary/term/219/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=219",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:21.468170+00:00",
+    "sha256": "e9fcbd4f7736846bb13a0f9da4433097498ebc9eb560ee596deb02eb8cf373b7"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      221,
+      349,
+      386,
+      476
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Nova",
+      "body": "A nova is a star that suddenly brightens, becoming many times brighter than before. The name derives from the Latin nova stella or new star, which was used in early-Modern Europe to describe bright stars that suddenly appeared in the sky. Novae have been observed as \"guest stars\" by many different cultures. Novae are caused by white dwarfs which accrete gas from a close binary star companion. This gas builds up in the white dwarf's atmosphere until it is hot enough to ignite through nuclear fusion. This nuclear fireball causes the white dwarf to brighten by several orders of magnitude. Unlike a Type Ia supernova, the white dwarf remains intact after this explosion. This means that the whole process can start again and the nova can recur.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "White Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/386/",
+          "text_ru": "Белый карлик"
+        },
+        {
+          "text": "Standard Candle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/476/",
+          "text_ru": "Стандартная свеча"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Nova</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A nova is a star that suddenly brightens, becoming many times brighter than before. The name derives from the Latin nova stella or new star, which was used in early-Modern Europe to describe bright stars that suddenly appeared in the sky. Novae have been observed as \"guest stars\" by many different cultures.<br/><br/>Novae are caused by white dwarfs which accrete gas from a close binary star companion. This gas builds up in the white dwarf's atmosphere until it is hot enough to ignite through nuclear fusion. This nuclear fireball causes the white dwarf to brighten by several orders of magnitude. Unlike a Type Ia supernova, the white dwarf remains intact after this explosion. This means that the whole process can start again and the nova can recur.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/386/\">White Dwarf</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/476/\">Standard Candle</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Новая",
+      "body_ru": "Новая — это звезда, которая внезапно становится ярче, становясь во много раз ярче, чем раньше. Название происходит от латинского nova stella или новая звезда, которое использовалось в раннем Новом времени в Европе для описания ярких звёзд, внезапно появлявшихся на небе. Новые наблюдались как «гостевые звёзды» многими различными культурами. Новые вызываются белыми карликами, которые аккрецируют газ от близкого компаньона в двойной системе. Этот газ накапливается в атмосфере белого карлика, пока не станет достаточно горячим, чтобы воспламениться в результате ядерного синтеза. Этот ядерный огненный шар заставляет белый карлик стать ярче на несколько порядков. В отличие от сверхновой типа Ia, белый карлик остаётся целым после этого взрыва. Это означает, что весь процесс может начаться снова, и новая может повторяться."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "新星 (external link)",
+          "url": "https://astro-dic.jp/nova/",
+          "text_ru": "Новая (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/219/\">النجم المستعر </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/219/\">Nova </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/219/\">Nova </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/219/\">Nova </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/219/\">नोवा </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/219/\">Nova </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/nova/\">新星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/219/\">신성 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/219/\">नोव्हा </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/219/\">Nova </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/219/\">新星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/219/\">新星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/CT709040fp68/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.nasa.gov/image-article/mini-supernova-explosion-could-have-big-impact/",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:CT709040fp68"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/CT709040fp68/\"><img alt=\"A point-like source surrounded by a blue glow, yellow radial streaks and a pink shell.\" src=\"/media/multimedia/thumbnails/gk-persei-nova_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Classical Nova GK Persei</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This composite image shows the aftermath of a stellar explosion known as a nova, specifically the remnant of a classical nova called GK Persei. A nova occurs when a very dense star called a white dwarf pulls hydrogen-rich gas from a companion star in a binary system until the accumulated material ignites in a powerful thermonuclear explosion. This sudden release of energy sweeps material outward and produces bright X-ray, optical, and radio emission that can be studied long after the blast.\n\nGK Persei was for a very short time in 1901 one of the brightest stars in the sky. Classical novae like GK Persei temporarily brighten dramatically — sometimes to thousands of times their usual luminosity — before fading over months or years as the expanding shell moves through space.  In this image taken over 100 years since the nova's 1901 brightening, X-rays (shown in blue) reveal very hot gas left behind by the explosion, optical data (yellow) show clumps of matter ejected from the star’s surface, and radio information (pink) highlights high-energy electrons energized by the expanding nova shock wave. Studying novae helps scientists learn about how stars interact in binary systems and how powerful bursts of energy shape the material around them.\n\nThe nature of the pink blob in the lower left is not known.<br/>\n<b>Credit:</b> X-ray: NASA/CXC/RIKEN/D.Takei et al; Optical: NASA/STScI; Radio: NRAO/VLA\n\t  <a href=\"https://www.nasa.gov/image-article/mini-supernova-explosion-could-have-big-impact/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Nova",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Nova",
+          "body": "A nova is a star that suddenly brightens, becoming many times brighter than before. The name derives from the Latin nova stella or new star, which was used in early-Modern Europe to describe bright stars that suddenly appeared in the sky. Novae have been observed as \"guest stars\" by many different cultures. Novae are caused by white dwarfs which accrete gas from a close binary star companion. This gas builds up in the white dwarf's atmosphere until it is hot enough to ignite through nuclear fusion. This nuclear fireball causes the white dwarf to brighten by several orders of magnitude. Unlike a Type Ia supernova, the white dwarf remains intact after this explosion. This means that the whole process can start again and the nova can recur."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Новая",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Новая",
+          "body": "Новая — это звезда, которая внезапно становится ярче, становясь во много раз ярче, чем раньше. Название происходит от латинского nova stella или новая звезда, которое использовалось в раннем Новом времени в Европе для описания ярких звёзд, внезапно появлявшихся на небе. Новые наблюдались как «гостевые звёзды» многими различными культурами. Новые вызываются белыми карликами, которые аккрецируют газ от близкого компаньона в двойной системе. Этот газ накапливается в атмосфере белого карлика, пока не станет достаточно горячим, чтобы воспламениться в результате ядерного синтеза. Этот ядерный огненный шар заставляет белый карлик стать ярче на несколько порядков. В отличие от сверхновой типа Ia, белый карлик остаётся целым после этого взрыва. Это означает, что весь процесс может начаться снова, и новая может повторяться."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:CT709040fp68",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/gk-persei-nova.png",
+      "record_url": "https://astro4edu.org/resources/media/CT709040fp68/",
+      "original_path": "data/media/original/media_CT709040fp68.png",
+      "ru_path": null,
+      "sha256": "a449bac92155d22248443d85684b52c012311686bf614e7c2f70aceb61c9cc98",
+      "size": 5843609,
+      "title_en": "The Classical Nova GK Persei",
+      "title_ru": "Классическая новая GK Персея",
+      "short_caption_en": "The Classical Nova GK Persei",
+      "short_caption_ru": "Классическая новая GK Персея",
+      "caption_en": "This composite image shows the aftermath of a stellar explosion known as a nova, specifically the remnant of a classical nova called GK Persei. A nova occurs when a very dense star called a white dwarf pulls hydrogen-rich gas from a companion star in a binary system until the accumulated material ignites in a powerful thermonuclear explosion. This sudden release of energy sweeps material outward and produces bright X-ray, optical, and radio emission that can be studied long after the blast.\r\n\r\nGK Persei was for a very short time in 1901 one of the brightest stars in the sky. Classical novae like GK Persei temporarily brighten dramatically — sometimes to thousands of times their usual luminosity — before fading over months or years as the expanding shell moves through space.  In this image taken over 100 years since the nova's 1901 brightening, X-rays (shown in blue) reveal very hot gas left behind by the explosion, optical data (yellow) show clumps of matter ejected from the star’s surface, and radio information (pink) highlights high-energy electrons energized by the expanding nova shock wave. Studying novae helps scientists learn about how stars interact in binary systems and how powerful bursts of energy shape the material around them.\r\n\r\nThe nature of the pink blob in the lower left is not known.",
+      "caption_ru": "Это композитное изображение показывает последствия звёздного взрыва, известного как новая, а именно остаток классической новой под названием GK Персея. Новая возникает, когда очень плотная звезда, называемая белым карликом, притягивает богатый водородом газ от звезды-компаньона в двойной системе, пока накопленный материал не воспламенится в мощном термоядерном взрыве. Этот внезапный выброс энергии выметает вещество наружу и производит яркое рентгеновское, оптическое и радиоизлучение, которое можно изучать спустя долгое время после взрыва.\r\n\r\nGK Персея в течение очень короткого времени в 1901 была одной из самых ярких звёзд на небе. Классические новые, такие как GK Персея, временно становятся значительно ярче — иногда в тысячи раз превышая их обычную светимость — прежде чем потускнеть за месяцы или годы, пока расширяющаяся оболочка движется в пространстве. На этом изображении, полученном за 100 лет с момента яркого всплеска новой в 1901, рентгеновские лучи (показаны синим) выявляют очень горячий газ, оставшийся после взрыва, оптические данные (жёлтый) показывают сгустки вещества, выброшенного с поверхности звезды, а радиоинформация (розовый) выделяет высокоэнергетические электроны, ускоренные расширяющейся ударной волной новой. Изучение новых помогает учёным узнать, как звёзды взаимодействуют в двойных системах и как мощные вспышки энергии формируют окружающее их вещество.\r\n\r\nПрирода розового пятна в левом нижнем углу неизвестна.",
+      "alt_en": "A point-like source surrounded by a blue glow, yellow radial streaks and a pink shell.",
+      "alt_ru": "Точечный источник, окружённый синим свечением, жёлтыми радиальными полосами и розовой оболочкой.",
+      "credit": "X-ray: NASA/CXC/RIKEN/D.Takei et al; Optical: NASA/STScI; Radio: NRAO/VLA",
+      "credit_url": "https://www.nasa.gov/image-article/mini-supernova-explosion-could-have-big-impact/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        219
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

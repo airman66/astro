@@ -1,0 +1,217 @@
+{
+  "id": "term:37",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 37,
+    "url": "https://astro4edu.org/resources/glossary/term/37/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=37",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:15.890402+00:00",
+    "sha256": "eb74eae80b34b8e6ad4f6e1372ea7e625d1befca3b66a6a5463a9f61d7305ef1"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      325,
+      331,
+      396,
+      467,
+      514
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: B-type Star",
+      "body": "A star with spectral type \"B\". Astronomers identify B-type stars by the presence of neutral helium lines along with hydrogen lines in their spectra. They have typical (effective) temperatures between around 10,000 kelvins (K) to 30,000 K. Compared to other stars, they appear bluish white to human eyes unless interstellar or atmospheric reddening is important. Examples of B-type stars include Regulus in Leo, Rigel in Orion, and Spica in Virgo.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Spectral Type",
+          "url": "https://www.astro4edu.org/resources/glossary/term/325/",
+          "text_ru": "Спектральный класс"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Reddening",
+          "url": "https://www.astro4edu.org/resources/glossary/term/396/",
+          "text_ru": "Покраснение"
+        },
+        {
+          "text": "Orion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/467/",
+          "text_ru": "Орион"
+        },
+        {
+          "text": "Spectral Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/514/",
+          "text_ru": "Спектральная линия"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: B-type Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>B star</b> or <b>B-star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A star with spectral type \"B\". Astronomers identify B-type stars by the presence of neutral helium lines along with hydrogen lines in their spectra. They have typical (effective) temperatures between around 10,000 kelvins (K) to 30,000 K. Compared to other stars, they appear bluish white to human eyes unless interstellar or atmospheric reddening is important. Examples of B-type stars include Regulus in Leo, Rigel in Orion, and Spica in Virgo.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/325/\">Spectral Type</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/396/\">Reddening</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/467/\">Orion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/514/\">Spectral Line</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звезда спектрального класса B",
+      "body_ru": "Звезда спектрального класса «B». Астрономы идентифицируют звёзды спектрального класса B по наличию линий нейтрального гелия наряду с линиями водорода в их спектрах. Их типичные (эффективные) температуры составляют от примерно 10 000 кельвинов (K) до 30 000 K. По сравнению с другими звёздами они выглядят голубовато-белыми для человеческого глаза, если только межзвёздное или атмосферное покраснение не играет важной роли. Примеры звёзд спектрального класса B включают Регул во Льве, Ригель в Орионе и Спику в Деве."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "B型星 (external link)",
+          "url": "https://astro-dic.jp/b-type-star/",
+          "text_ru": "Звезда типа B (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/37/\">نجوم النسق الأساسي نوع-B </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/37/\">B-Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/37/\">Estrella de tipo B </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/37/\">Étoile de type B </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/37/\">Stella di tipo B </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/b-type-star/\">B型星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/37/\">Estrela do tipo B </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/37/\">B 型星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/37/\">B 型星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/QF74Q764Tb95/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:QF74Q764Tb95"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/QF74Q764Tb95/\"><img alt=\"A smooth line declining at longer wavelengths with a few sharp dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-a-b-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of a B-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the B-type star HD 258982. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. For B-type stars the most important lines are caused by helium atoms. These lines are strongest in B-type stars and weaker in hotter and cooler types. Lines from hydrogen atoms are also present but are not as strong as in cooler A-type stars.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "B-type Star",
+      "aliases": [
+        "B star",
+        "B-star"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: B-type Star",
+          "body": "A star with spectral type \"B\". Astronomers identify B-type stars by the presence of neutral helium lines along with hydrogen lines in their spectra. They have typical (effective) temperatures between around 10,000 kelvins (K) to 30,000 K. Compared to other stars, they appear bluish white to human eyes unless interstellar or atmospheric reddening is important. Examples of B-type stars include Regulus in Leo, Rigel in Orion, and Spica in Virgo."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда спектрального класса B",
+      "aliases": [
+        "B-звезда",
+        "B-звезда"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звезда спектрального класса B",
+          "body": "Звезда спектрального класса «B». Астрономы идентифицируют звёзды спектрального класса B по наличию линий нейтрального гелия наряду с линиями водорода в их спектрах. Их типичные (эффективные) температуры составляют от примерно 10 000 кельвинов (K) до 30 000 K. По сравнению с другими звёздами они выглядят голубовато-белыми для человеческого глаза, если только межзвёздное или атмосферное покраснение не играет важной роли. Примеры звёзд спектрального класса B включают Регул во Льве, Ригель в Орионе и Спику в Деве."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:QF74Q764Tb95",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-a-b-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/QF74Q764Tb95/",
+      "original_path": "data/media/original/diagram_QF74Q764Tb95.png",
+      "ru_path": "data/media/ru/diagram_QF74Q764Tb95.png",
+      "sha256": "2bdaab7de07aa3123a96dbff65d21c48b430a109537d28defc443d56b75aedb7",
+      "size": 76713,
+      "title_en": "Spectrum of a B-type star",
+      "title_ru": "Спектр звезды спектрального класса B",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the B-type star HD 258982. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. For B-type stars the most important lines are caused by helium atoms. These lines are strongest in B-type stars and weaker in hotter and cooler types. Lines from hydrogen atoms are also present but are not as strong as in cooler A-type stars.",
+      "caption_ru": "Спектр звезды спектрального класса B HD 258982. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могли бы иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. Для звёзд спектрального класса B наиболее важные линии вызваны атомами гелия. Эти линии наиболее сильны у звёзд спектрального класса B и слабее у более горячих и более холодных классов. Линии атомов водорода также присутствуют, но не так сильны, как у более холодных звёзд спектрального класса A.",
+      "alt_en": "A smooth line declining at longer wavelengths with a few sharp dips.",
+      "alt_ru": "Плавная линия, убывающая на больших длинах волн, с несколькими резкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        37,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "1784f09f8649761d8dc1ca471a004e0329fd3970b75e76eda8ab91666b2d09a7"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

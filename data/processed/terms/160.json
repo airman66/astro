@@ -1,0 +1,327 @@
+{
+  "id": "term:160",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 160,
+    "url": "https://astro4edu.org/resources/glossary/term/160/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=160",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:14.239324+00:00",
+    "sha256": "d60a43be1098a7094798a22efe09d984c2bdd2513e68ef1537283cf6fc5714a4"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      258,
+      441
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Ionization",
+      "body": "Ionization is the process of subtracting electrons from or adding electrons to previously neutral atoms, thereby changing a gas of neutral atoms (or molecules) to one made up of charged ions, i.e. a plasma.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Plasma",
+          "url": "https://www.astro4edu.org/resources/glossary/term/258/",
+          "text_ru": "Плазма"
+        },
+        {
+          "text": "Electron",
+          "url": "https://www.astro4edu.org/resources/glossary/term/441/",
+          "text_ru": "Электрон"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Ionization</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Ionization is the process of subtracting electrons from or adding electrons to previously neutral atoms, thereby changing a gas of neutral atoms (or molecules) to one made up of charged ions, i.e. a plasma.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/258/\">Plasma</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/441/\">Electron</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Ионизация",
+      "body_ru": "Ионизация — это процесс отрыва электронов от ранее нейтральных атомов или добавления электронов к ним, в результате чего газ нейтральных атомов (или молекул) превращается в газ, состоящий из заряженных ионов, то есть в плазму."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/160/\">التأيُّن </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/160/\">Ionisierung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/160/\">Ionización </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/160/\">Ionisation </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/160/\">Ionizzazione </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/160/\">이온화 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/160/\">Ionização </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/160/\">电离 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/160/\">電離 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Zu36MC18ty9/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/966138626D19/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/WC41Rk70Ij41/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Rr92UL1DP68/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Zu36MC18ty9",
+        "media:966138626D19",
+        "media:WC41Rk70Ij41",
+        "media:Rr92UL1DP68"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Zu36MC18ty9/\"><img alt=\"A Y-shaped band of light with light and dark patches, in the colours green and pink glows in the sky over some buildings\" src=\"/media/multimedia/thumbnails/Till_the_end_of_the_world_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Till the End of the World, by Hang Li, China</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses).\n\nAurorae are often called \"Northern Lights\" in Europe or North America but here we see that they also exist at the extreme south of our planet. Taken at Zhongshan Station, Antarctica, this time-lapse (speeded up) video shows how some bands of Aurora can remain stable over longer times while other features appear to \"dance\". See how many different patterns of swirls and waves you can spot in the video.<br/>\n<b>Credit:</b> Hang Li/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/966138626D19/\"><img alt=\"Curved green bands of light radiate out from the horizon, diffusing to wider bands at the top of the image.\" src=\"/media/multimedia/thumbnails/Icelandic_rivers_of_light.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Icelandic Rivers of Light, by Sergio Díaz Ruiz, Spain</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses)\n\nThis video shows how aurorae evolve slowly over timescales of a few minutes. Note the clouds being illuminated from behind in the last two shots. Aurorae are caused by interactions between the charged particles blown out in huge explosions from the Sun and the Earth's magnetic field. The changes over time are caused by huge waves of particles pushing the Earth's magnetic field into strange shapes before it snaps back into place.<br/>\n<b>Credit:</b> Sergio Díaz Ruiz/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/WC41Rk70Ij41/\"><img alt=\"The left side of the image shows the sky glowing green. The right side has a darker sky but has green streaks\" src=\"/media/multimedia/thumbnails/multicolored-aurora-in-iceland-by-marco-migliardi-on-behalf-of-ass_VJKSXIM.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Multicolored aurora in Iceland, by Marco Migliardi on behalf of Associazione Astronomica Cortina, Italy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\n\nAurorae are the result of ionisation and excitation processes in Earth's upper atmosphere, caused by charged particles from the solar wind or from coronal mass ejections. The different colours in an aurora display indicate the species of atmospheric atoms and molecules involved. The most common colour is a bright green, which, together with deep red, originates from atomic oxygen. Blue, purple and pink hues are much rarer and originate from molecular nitrogen. The reflection of the aurora in the water indicates the brightness of intense aurorae at higher latitudes.<br/>\n<b>Credit:</b> Marco Migliardi on behalf of Associazione Astronomica Cortina/IAU OAE.\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Rr92UL1DP68/\"><img alt=\"A green, curved, y-shaped band of light over a mountainous horizon\" src=\"/media/multimedia/thumbnails/northern-light-dragon-over-ersfjordbotnnorway_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Northern light dragon over Ersfjordbotn/Norway</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\n\nAurorae often display waving curtain-like patterns where arcs or bands form moving curls, folds, or even spirals. These irregular shapes mirror the small-scale structure of Earth's magnetic field interacting with charged particle flows. Although the full Moon illuminates both the landscape and the night sky, the auroa is easily visible, which demonstrates that it can be a very bright and colourful phenomenon.<br/>\n<b>Credit:</b> Rainer Sparenberg/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Ionization",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Ionization",
+          "body": "Ionization is the process of subtracting electrons from or adding electrons to previously neutral atoms, thereby changing a gas of neutral atoms (or molecules) to one made up of charged ions, i.e. a plasma."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Ионизация",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Ионизация",
+          "body": "Ионизация — это процесс отрыва электронов от ранее нейтральных атомов или добавления электронов к ним, в результате чего газ нейтральных атомов (или молекул) превращается в газ, состоящий из заряженных ионов, то есть в плазму."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Zu36MC18ty9",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5279614/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28time-lapses%29%3A%20Till%20the%20End%20of%20the%20World%2C%20by%20Hang%20Li%2C%20China.mp4",
+      "record_url": "https://astro4edu.org/resources/media/Zu36MC18ty9/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Aurora Australis from Zhongshan Station, Antarctica",
+      "short_caption_ru": "Южное сияние со станции Чжуншань, Антарктида",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses).\r\n\r\nAurorae are often called \"Northern Lights\" in Europe or North America but here we see that they also exist at the extreme south of our planet. Taken at Zhongshan Station, Antarctica, this time-lapse (speeded up) video shows how some bands of Aurora can remain stable over longer times while other features appear to \"dance\". See how many different patterns of swirls and waves you can spot in the video.",
+      "caption_ru": "Первое место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (таймлапсы).\r\n\r\nПолярные сияния часто называют «Северным сиянием» в Европе или Северной Америке, но здесь мы видим, что они существуют и на крайнем юге нашей планеты. Снятое на станции Чжуншань, Антарктида, это видео с ускоренной съемкой (таймлапс) показывает, как некоторые полосы сияния могут оставаться стабильными в течение длительного времени, в то время как другие элементы, кажется, «танцуют». Посмотрите, сколько различных узоров завихрений и волн вы сможете заметить в видео.",
+      "alt_en": "A Y-shaped band of light with light and dark patches, in the colours green and pink glows in the sky over some buildings",
+      "alt_ru": "Y-образная полоса света со светлыми и темными участками, в цветах зеленого и розового свечения в небе над некоторыми зданиями",
+      "credit": "Hang Li/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        160,
+        510
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:966138626D19",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5279740/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28time-lapses%29%3A%20Icelandic%20Rivers%20of%20Light%2C%20by%20Sergio%20D%C3%ADaz%20Ruiz%2C%20Spain.mp4",
+      "record_url": "https://astro4edu.org/resources/media/966138626D19/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This video shows how aurorae evolve slowly over timescales of a few minutes.",
+      "short_caption_ru": "Это видео показывает, как полярные сияния медленно развиваются на временных масштабах в несколько минут.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (time-lapses)\r\n\r\nThis video shows how aurorae evolve slowly over timescales of a few minutes. Note the clouds being illuminated from behind in the last two shots. Aurorae are caused by interactions between the charged particles blown out in huge explosions from the Sun and the Earth's magnetic field. The changes over time are caused by huge waves of particles pushing the Earth's magnetic field into strange shapes before it snaps back into place.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (таймлапсы)\r\n\r\nЭто видео показывает, как полярные сияния медленно развиваются на временных масштабах в несколько минут. Обратите внимание на облака, подсвеченные сзади в последних двух кадрах. Полярные сияния вызваны взаимодействием между заряженными частицами, выброшенными в результате огромных взрывов на Солнце, и магнитным полем Земли. Изменения со временем вызваны огромными волнами частиц, которые деформируют магнитное поле Земли в странные формы, прежде чем оно возвращается в исходное положение.",
+      "alt_en": "Curved green bands of light radiate out from the horizon, diffusing to wider bands at the top of the image.",
+      "alt_ru": "Изогнутые зеленые полосы света излучаются от горизонта, расширяясь до более широких полос в верхней части изображения.",
+      "credit": "Sergio Díaz Ruiz/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        160,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:WC41Rk70Ij41",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5273473/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28still%20images%29%3A%20Multicolored%20aurora%20in%20Iceland%2C%20by%20Marco%20Migliardi%20on%20behalf%20of%20Associazione%20Astronomica%20Cortina%2C%20Italy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/WC41Rk70Ij41/",
+      "original_path": "data/media/original/media_WC41Rk70Ij41.jpg",
+      "ru_path": null,
+      "sha256": "8f1cf437281fec0771b9404c6f3a36ffd009ed335b02580f04a3ffc1d4fe4c48",
+      "size": 3751934,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Aurorae are the result of ionisation and excitation processes in Earth's upper atmosphere, caused by charged particles from the solar wind or from coronal mass ejections.",
+      "short_caption_ru": "Полярные сияния являются результатом процессов ионизации и возбуждения в верхней атмосфере Земли, вызванных заряженными частицами солнечного ветра или корональных выбросов массы.",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\r\n\r\nAurorae are the result of ionisation and excitation processes in Earth's upper atmosphere, caused by charged particles from the solar wind or from coronal mass ejections. The different colours in an aurora display indicate the species of atmospheric atoms and molecules involved. The most common colour is a bright green, which, together with deep red, originates from atomic oxygen. Blue, purple and pink hues are much rarer and originate from molecular nitrogen. The reflection of the aurora in the water indicates the brightness of intense aurorae at higher latitudes.",
+      "caption_ru": "Первое место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (неподвижные изображения)\r\n\r\nПолярные сияния являются результатом процессов ионизации и возбуждения в верхних слоях атмосферы Земли, вызванных заряженными частицами солнечного ветра или корональными выбросами массы. Разные цвета в полярном сиянии указывают на виды атмосферных атомов и молекул, участвующих в процессе. Наиболее распространённый цвет — ярко-зелёный, который вместе с тёмно-красным происходит от атомарного кислорода. Синие, фиолетовые и розовые оттенки встречаются гораздо реже и происходят от молекулярного азота. Отражение сияния в воде указывает на яркость интенсивных полярных сияний в высоких широтах.",
+      "alt_en": "The left side of the image shows the sky glowing green. The right side has a darker sky but has green streaks",
+      "alt_ru": "Левая сторона изображения показывает небо, светящееся зелёным. Правая сторона имеет более тёмное небо, но с зелёными полосами",
+      "credit": "Marco Migliardi on behalf of Associazione Astronomica Cortina/IAU OAE.",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        160,
+        511
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Rr92UL1DP68",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5278430/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Aurorae%20%28still%20images%29%3A%20Northern%20light%20dragon%20over%20Ersfjordbotn%2C%20Norway%2C%20by%20Rainer%20Sparenberg%2C%20Germany.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Rr92UL1DP68/",
+      "original_path": "data/media/original/media_Rr92UL1DP68.jpg",
+      "ru_path": null,
+      "sha256": "617059125934f8f814a5df441e2e1b7e1da328119a1a4c79b87a4e6182e302b2",
+      "size": 1274494,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Aurorae often display waving curtain-like patterns where arcs or bands form moving curls, folds, or even spirals.",
+      "short_caption_ru": "Полярные сияния часто демонстрируют волнистые узоры, похожие на занавеси, где дуги или полосы образуют движущиеся завитки, складки или даже спирали.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Aurorae (still images)\r\n\r\nAurorae often display waving curtain-like patterns where arcs or bands form moving curls, folds, or even spirals. These irregular shapes mirror the small-scale structure of Earth's magnetic field interacting with charged particle flows. Although the full Moon illuminates both the landscape and the night sky, the auroa is easily visible, which demonstrates that it can be a very bright and colourful phenomenon.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2021 года, категория «Полярные сияния» (неподвижные изображения)\r\n\r\nПолярные сияния часто демонстрируют волнистые узоры, похожие на занавеси, где дуги или полосы образуют движущиеся завитки, складки или даже спирали. Эти неправильные формы отражают мелкомасштабную структуру магнитного поля Земли, взаимодействующего с потоками заряженных частиц. Хотя полная Луна освещает как ландшафт, так и ночное небо, сияние легко видно, что демонстрирует, что оно может быть очень ярким и красочным явлением.",
+      "alt_en": "A green, curved, y-shaped band of light over a mountainous horizon",
+      "alt_ru": "Зелёная изогнутая Y-образная полоса света над гористым горизонтом",
+      "credit": "Rainer Sparenberg/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        33,
+        128,
+        160
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

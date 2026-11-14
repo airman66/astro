@@ -1,0 +1,488 @@
+{
+  "id": "term:382",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 382,
+    "url": "https://astro4edu.org/resources/glossary/term/382/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=382",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:10.412483+00:00",
+    "sha256": "113ac3ffe2f6d2dafc822472edc9adb6ef85c52eefce6be9b65ae8e30c77f10d"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": 381,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Wave",
+      "body": "Any pattern that propagates through space with little or no change is a wave. Fourier's theorem shows how such travelling patterns can be understood as the sum of \"elementary waves\", each a regular pattern of repeating maxima or minima akin to a mathematical sine function. The distance between each maximum of such a regular elementary wave and the next maximum is called the wave's wavelength. Several kinds of wave phenomena play a role in astronomy. Electromagnetic radiation, our main source of information about astronomical objects, is a wave phenomenon, and in some observation techniques that wave nature plays an important role. Sound waves play a role for the interior structure of stars. Gravitational waves have emerged as a new source of information about astronomical objects.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Frequency",
+          "url": "https://www.astro4edu.org/resources/glossary/term/112/",
+          "text_ru": "Частота"
+        },
+        {
+          "text": "Visible Spectrum",
+          "url": "https://www.astro4edu.org/resources/glossary/term/378/",
+          "text_ru": "Видимый спектр"
+        },
+        {
+          "text": "Gravitational Waves",
+          "url": "https://www.astro4edu.org/resources/glossary/term/447/",
+          "text_ru": "Гравитационные волны"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Wave</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Wavelength</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Any pattern that propagates through space with little or no change is a wave. Fourier's theorem shows how such travelling patterns can be understood as the sum of \"elementary waves\", each a regular pattern of repeating maxima or minima akin to a mathematical sine function. The distance between each maximum of such a regular elementary wave and the next maximum is called the wave's wavelength. Several kinds of wave phenomena play a role in astronomy. Electromagnetic radiation, our main source of information about astronomical objects, is a wave phenomenon, and in some observation techniques that wave nature plays an important role. Sound waves play a role for the interior structure of stars. Gravitational waves have emerged as a new source of information about astronomical objects.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/112/\">Frequency</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/378/\">Visible Spectrum</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/447/\">Gravitational Waves</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Волна",
+      "body_ru": "Любой образец, который распространяется в пространстве с малым или нулевым изменением, является волной. Теорема Фурье показывает, как такие бегущие образцы можно понять как сумму «элементарных волн», каждая из которых представляет собой регулярный образец повторяющихся максимумов или минимумов, подобный математической синусоидальной функции. Расстояние между каждым максимумом такой регулярной элементарной волны и следующим максимумом называется длиной волны. Несколько видов волновых явлений играют роль в астрономии. Электромагнитное излучение, наш основной источник информации об астрономических объектах, является волновым явлением, и в некоторых методах наблюдения эта волновая природа играет важную роль. Звуковые волны играют роль для внутренней структуры звёзд. Гравитационные волны стали новым источником информации об астрономических объектах."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/381/\">الموجة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/381/\">Welle </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/381/\">Onda </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/381/\">Onde </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/381/\">लहर </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/381/\">Onda </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/381/\">파 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/381/\">तरंग </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/381/\">Onda </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/381/\">波 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/381/\">波 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Wavelength",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Wave",
+          "body": "Any pattern that propagates through space with little or no change is a wave. Fourier's theorem shows how such travelling patterns can be understood as the sum of \"elementary waves\", each a regular pattern of repeating maxima or minima akin to a mathematical sine function. The distance between each maximum of such a regular elementary wave and the next maximum is called the wave's wavelength. Several kinds of wave phenomena play a role in astronomy. Electromagnetic radiation, our main source of information about astronomical objects, is a wave phenomenon, and in some observation techniques that wave nature plays an important role. Sound waves play a role for the interior structure of stars. Gravitational waves have emerged as a new source of information about astronomical objects."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Длина волны",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Волна",
+          "body": "Любой образец, который распространяется в пространстве с малым или нулевым изменением, является волной. Теорема Фурье показывает, как такие бегущие образцы можно понять как сумму «элементарных волн», каждая из которых представляет собой регулярный образец повторяющихся максимумов или минимумов, подобный математической синусоидальной функции. Расстояние между каждым максимумом такой регулярной элементарной волны и следующим максимумом называется длиной волны. Несколько видов волновых явлений играют роль в астрономии. Электромагнитное излучение, наш основной источник информации об астрономических объектах, является волновым явлением, и в некоторых методах наблюдения эта волновая природа играет важную роль. Звуковые волны играют роль для внутренней структуры звёзд. Гравитационные волны стали новым источником информации об астрономических объектах."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:8m97bG23XT57",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/blackbody-radiation_en_Me9RD4R.png",
+      "record_url": "https://astro4edu.org/resources/diagram/8m97bG23XT57/",
+      "original_path": "data/media/original/diagram_8m97bG23XT57.png",
+      "ru_path": "data/media/ru/diagram_8m97bG23XT57.png",
+      "sha256": "174b78c62f8660bd82f04bc6b85c6de4596ea415df269213f34ee6ed70d682c1",
+      "size": 82268,
+      "title_en": "Blackbody Radiation",
+      "title_ru": "Чернотельное излучение",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The curves of emitted radiation from blackbodies of different temperatures. The x-axis shows wavelength and the y-axis shows the amount of energy emitted every second by a square meter of the surface of that blackbody at each wavelength.\r\n\r\nThe hotter the body, the shorter the wavelength and the bluer the light it emits its maximum amount of energy at. Despite the coolest body in this plot peaking in red light, the other hotter bodies all emit more red light than the coolest body.",
+      "caption_ru": "Кривые испускаемого излучения от абсолютно чёрных тел различных температур. По оси x отложена длина волны, а по оси y — количество энергии, испускаемой каждую секунду квадратным метром поверхности этого абсолютно чёрного тела на каждой длине волны.\r\n\r\nЧем горячее тело, тем короче длина волны и тем синее свет, на котором оно испускает максимальное количество энергии. Несмотря на то, что самое холодное тело на этом графике имеет пик в красном свете, все остальные более горячие тела испускают больше красного света, чем самое холодное тело.",
+      "alt_en": "Three curves with radiation on the y-axis & wavelength on the x-axis. The cooler curves have redder & lower peaks",
+      "alt_ru": "Три кривые с излучением по оси y и длиной волны по оси x. Более холодные кривые имеют более красные и низкие пики",
+      "credit": "IAU OAE/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        42,
+        96,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "7bed916f6b147397bd4cf55706c3d6b66066bf3ef1e4e5f23f467e73519b1618"
+    },
+    {
+      "id": "diagram:p90iM23hm85",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/blackbody-radiation-ultraviolet-catastrophe_en_IfcZd6D.png",
+      "record_url": "https://astro4edu.org/resources/diagram/p90iM23hm85/",
+      "original_path": "data/media/original/diagram_p90iM23hm85.png",
+      "ru_path": "data/media/ru/diagram_p90iM23hm85.png",
+      "sha256": "0b095c6492f2bdf80b09b53be08a8817cea7295b7b7b270f4897d56dfc8e875a",
+      "size": 99350,
+      "title_en": "Blackbody Radiation - UV Catastrophe",
+      "title_ru": "Чернотельное излучение — ультрафиолетовая катастрофа",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The curves of emitted radiation from blackbodies of different temperatures. The x-axis shows wavelength and the y-axis shows the amount of energy emitted every second by a square meter of the surface of that blackbody at each wavelength.\r\n\r\nThe hotter the body, the shorter the wavelength and the bluer the light it emits its maximum amount of energy at. Despite the coolest body in this plot peaking in red light, the other hotter bodies all emit more red light than the coolest body. \r\n\r\nThe dotted line shows the emitted radiation predicted by classical theory prior to modern quantum mechanics. This prediction tends to infinity at shorter wavelengths for any blackbody temperature above zero and was dubbed the ‘ultraviolet catastrophe’.",
+      "caption_ru": "Кривые испускаемого излучения от абсолютно чёрных тел различных температур. По оси x отложена длина волны, а по оси y — количество энергии, испускаемой каждую секунду квадратным метром поверхности этого абсолютно чёрного тела на каждой длине волны.\r\n\r\nЧем горячее тело, тем короче длина волны и тем синее свет, на котором оно испускает максимальное количество энергии. Несмотря на то, что самое холодное тело на этом графике имеет пик в красном свете, все остальные более горячие тела испускают больше красного света, чем самое холодное тело. \r\n\r\nПунктирная линия показывает испускаемое излучение, предсказанное классической теорией до современной квантовой механики. Это предсказание стремится к бесконечности на более коротких длинах волн для любой температуры абсолютно чёрного тела выше нуля и было названо «ультрафиолетовой катастрофой».",
+      "alt_en": "Three curves with radiation on the y-axis & wavelength on the x-axis. The cooler curves have redder & lower peaks",
+      "alt_ru": "Три кривые с излучением по оси y и длиной волны по оси x. Более холодные кривые имеют более красные и низкие пики",
+      "credit": "IAU OAE/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        42,
+        96,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "6919c2ea6ced1ee70b6ed51e31e760f18cdbfd66ff49d1f6ebb9e2f6698a118b"
+    },
+    {
+      "id": "diagram:m5801x5SA50",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-an-o-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/m5801x5SA50/",
+      "original_path": "data/media/original/diagram_m5801x5SA50.png",
+      "ru_path": "data/media/ru/diagram_m5801x5SA50.png",
+      "sha256": "3e3252999e602f4f0ea9b9ee933627617a7ad585f3c8f5660bb6775e5bd4d81b",
+      "size": 77137,
+      "title_en": "Spectrum of an O-type star",
+      "title_ru": "Спектр звезды O-типа",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the O-type star HD 235673 with wavelength in nanometers on the x-axis and flux on the y-axis. The top part of the plot shows the same spectrum but with bright patches for wavelengths with high flux and dark patches for wavelengths with low flux. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. For O-type stars the most important features are a small number of lines caused by ionized helium. These lines are stronger in O-type stars than in cooler stars. Lines from helium atoms and hydrogen atoms also appear in the spectrum. The spectrum has more flux at the blue end of the spectrum than at the red end of the spectrum.",
+      "caption_ru": "Спектр звезды O-типа HD 235673 с длиной волны в нанометрах по оси x и потоком по оси y. В верхней части графика показан тот же спектр, но с яркими участками для длин волн с высоким потоком и тёмными участками для длин волн с низким потоком. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. Для звёзд O-типа наиболее важными особенностями являются немногочисленные линии, вызванные ионизированным гелием. Эти линии сильнее у звёзд O-типа, чем у более холодных звёзд. В спектре также появляются линии атомов гелия и водорода. Спектр имеет больший поток в синем конце спектра, чем в красном.",
+      "alt_en": "A smooth line declining at longer wavelengths with a few sharp dips.",
+      "alt_ru": "Плавная линия, убывающая на больших длинах волн, с несколькими резкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        328,
+        382,
+        463
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "d43f29c159db66f713bf416e32c2065c2fceb11d1c4e72ff7d8b4a593d000fc7"
+    },
+    {
+      "id": "diagram:QF74Q764Tb95",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-a-b-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/QF74Q764Tb95/",
+      "original_path": "data/media/original/diagram_QF74Q764Tb95.png",
+      "ru_path": "data/media/ru/diagram_QF74Q764Tb95.png",
+      "sha256": "2bdaab7de07aa3123a96dbff65d21c48b430a109537d28defc443d56b75aedb7",
+      "size": 76713,
+      "title_en": "Spectrum of a B-type star",
+      "title_ru": "Спектр звезды спектрального класса B",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the B-type star HD 258982. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. For B-type stars the most important lines are caused by helium atoms. These lines are strongest in B-type stars and weaker in hotter and cooler types. Lines from hydrogen atoms are also present but are not as strong as in cooler A-type stars.",
+      "caption_ru": "Спектр звезды спектрального класса B HD 258982. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могли бы иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. Для звёзд спектрального класса B наиболее важные линии вызваны атомами гелия. Эти линии наиболее сильны у звёзд спектрального класса B и слабее у более горячих и более холодных классов. Линии атомов водорода также присутствуют, но не так сильны, как у более холодных звёзд спектрального класса A.",
+      "alt_en": "A smooth line declining at longer wavelengths with a few sharp dips.",
+      "alt_ru": "Плавная линия, убывающая на больших длинах волн, с несколькими резкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        37,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "1784f09f8649761d8dc1ca471a004e0329fd3970b75e76eda8ab91666b2d09a7"
+    },
+    {
+      "id": "diagram:2149RS77wy92",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-an-a-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/2149RS77wy92/",
+      "original_path": "data/media/original/diagram_2149RS77wy92.png",
+      "ru_path": "data/media/ru/diagram_2149RS77wy92.png",
+      "sha256": "7d95353fffa858b323072bda45184dc0b406e85c50147094e184c6bc54f88167",
+      "size": 84675,
+      "title_en": "Spectrum of an A-type star",
+      "title_ru": "Спектр звезды класса A",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the A-type star BD-11 1212. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. Lines from hydrogen atoms dominate the spectra of A-type stars and are strongest at this spectral type.",
+      "caption_ru": "Спектр звезды класса A BD-11 1212. Цвет линии в диапазоне от 400 nm до 700 nm примерно соответствует цвету, который человеческий глаз воспринимал бы для света с такой длиной волны. Ниже 400 nm и выше 700 nm, где человеческий глаз почти не видит света или не видит его вовсе, линии окрашены соответственно в синий и красный цвет.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могли бы иметь спектры с совершенно разными наборами линий, если температуры их атмосфер различны. Линии атомов водорода доминируют в спектрах звёзд класса A и наиболее сильны у этого спектрального класса.",
+      "alt_en": "A smooth line peaking about 420 nm then declining at longer wavelengths with a few fairly broad dips.",
+      "alt_ru": "Плавная линия с пиком около 420 nm, затем спадающая на более длинных волнах, с несколькими довольно широкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        1,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "9389ac6c725b6c7b70fc55687354c4eaae3fb16395922f993614ef9d8a7dfecd"
+    },
+    {
+      "id": "diagram:zY580V14PE47",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-an-f-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/zY580V14PE47/",
+      "original_path": "data/media/original/diagram_zY580V14PE47.png",
+      "ru_path": "data/media/ru/diagram_zY580V14PE47.png",
+      "sha256": "672cd5fbb17fe5c6432d95fb1b295e248a40a1ff5a184e070ff190708f68c783",
+      "size": 96473,
+      "title_en": "Spectrum of an F-type star",
+      "title_ru": "Спектр звезды спектрального класса F",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the F-type star 2MASS J22243289+4937443. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. The lines from hydrogen atoms that are strongest in A-type stars are still relatively strong in F-type stars but lines from metals, particularly ionised calcium begin to become strong at this spectral type.",
+      "caption_ru": "Спектр звезды спектрального класса F 2MASS J22243289+4937443. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, вызывая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различна. Линии от атомов водорода, которые наиболее сильны у звёзд класса A, всё ещё относительно сильны у звёзд класса F, но линии от металлов, особенно ионизированного кальция, начинают становиться сильными при этом спектральном классе.",
+      "alt_en": "A relatively smooth line peaking about 430 nm then declining at longer wavelengths with a few fairly broad dips.",
+      "alt_ru": "Относительно гладкая линия с пиком около 430 нм, затем спадающая на более длинных волнах с несколькими довольно широкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        110,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ec5f5e25f6f0fa8b4ebf5f40292092759055c2dacdb7daa35c79de120b981d28"
+    },
+    {
+      "id": "diagram:mX21es50Pj16",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-a-g-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/mX21es50Pj16/",
+      "original_path": "data/media/original/diagram_mX21es50Pj16.png",
+      "ru_path": "data/media/ru/diagram_mX21es50Pj16.png",
+      "sha256": "c3184d68140303109b389aa98f152dd94c1d441e8ecd9157ad026104ab3cab1b",
+      "size": 98845,
+      "title_en": "Spectrum of a G-type star",
+      "title_ru": "Спектр звезды G-типа",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the G-type star UCAC4 700-069569. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. In G-type stars lines from hydrogen atoms are weaker than in F-type stars and lines from ionised calcium stronger. Lines from metal atoms such as atoms of iron, sodium and calcium also begin to become prominent.",
+      "caption_ru": "Спектр звезды G-типа UCAC4 700-069569. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. У звёзд G-типа линии атомов водорода слабее, чем у звёзд F-типа, а линии ионизированного кальция сильнее. Линии атомов металлов, таких как атомы железа, натрия и кальция, также начинают становиться заметными.",
+      "alt_en": "A quite ragged line peaking about 470 nm then declining at longer wavelengths with a few deeper dips.",
+      "alt_ru": "Довольно изрезанная линия, достигающая пика около 470 нм, затем спадающая на более длинных волнах с несколькими более глубокими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        328,
+        382,
+        442
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "147a61e97cb967d1a60328b1d54e39dfabfbd41afb31b870504898f4f5a2fe09"
+    },
+    {
+      "id": "diagram:lH42QC364e69",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-a-k-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/lH42QC364e69/",
+      "original_path": "data/media/original/diagram_lH42QC364e69.png",
+      "ru_path": "data/media/ru/diagram_lH42QC364e69.png",
+      "sha256": "7aea9fb29660f37123d7cc42d75265d3211f2bfaa316370f9627b78bbe915e00",
+      "size": 111475,
+      "title_en": "Spectrum of a K-type star",
+      "title_ru": "Спектр звезды K-типа",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the K-type star 2MASS J19554455+4754531. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. The spectra of K-type stars are dominated by metal atoms such as iron, sodium and calcium atoms. There are so many lines from metal atoms, far too many to mark individually, that the spectrum has a choppy, ragged appearance. The lines of hydrogen atoms and calcium ions are much weaker than in the hotter G-type stars.",
+      "caption_ru": "Спектр звезды K-типа 2MASS J19554455+4754531. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. В спектрах звёзд K-типа преобладают атомы металлов, таких как железо, натрий и кальций. Линий от атомов металлов так много, что их слишком много, чтобы отмечать по отдельности, поэтому спектр выглядит неровным, изрезанным. Линии атомов водорода и ионов кальция гораздо слабее, чем у более горячих звёзд G-типа.",
+      "alt_en": "A ragged line peaking about 580 nm then declining at longer wavelengths with a few deeper dips.",
+      "alt_ru": "Изрезанная линия с пиком около 580 нм, затем спадающая на более длинных волнах с несколькими более глубокими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        168,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ca0b64d74b0397c9a864bdefa4b6aef9b08a2256b203126bfafd65a2ac11b4d7"
+    },
+    {
+      "id": "diagram:d156Ob46Ih98",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-an-m-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/d156Ob46Ih98/",
+      "original_path": "data/media/original/diagram_d156Ob46Ih98.png",
+      "ru_path": "data/media/ru/diagram_d156Ob46Ih98.png",
+      "sha256": "5d0654c2e149b02032121e3b9bf967dbd70c84dc4b5500c9a52cc7a0f2a34ab7",
+      "size": 100858,
+      "title_en": "Spectrum of an M-type star",
+      "title_ru": "Спектр звезды M-типа",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the M-type star 2MASS J15581272+8457104. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms, ions and molecules of different elements in the star’s atmosphere. These atoms, ions and molecules absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. The atmospheres of M-type stars are cool enough for some chemical compounds to form. These are often referred to as molecules in astronomy, even if they are not strictly molecules in chemistry. These molecules produce so many lines in an M-type star’s spectrum that the lines appear to merge together in huge bands that remove large chunks from the spectrum. In M-type stars, titanium oxide has a large number of these bands in visible light, dominating huge regions of the spectrum.",
+      "caption_ru": "Спектр звезды M-типа 2MASS J15581272+8457104. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами, ионами и молекулами различных элементов в атмосфере звезды. Эти атомы, ионы и молекулы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. Атмосферы звёзд M-типа достаточно холодны для образования некоторых химических соединений. В астрономии их часто называют молекулами, даже если строго с точки зрения химии они таковыми не являются. Эти молекулы создают так много линий в спектре звезды M-типа, что линии, по-видимому, сливаются в огромные полосы, которые удаляют большие участки из спектра. У звёзд M-типа оксид титана имеет большое количество таких полос в видимом свете, доминируя на огромных областях спектра.",
+      "alt_en": "A choppy line increasing at longer wavelengths with large wide dips and a few sharper dips.",
+      "alt_ru": "Рваная линия, возрастающая на более длинных волнах, с большими широкими провалами и несколькими более резкими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        328,
+        382,
+        453
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "54993e1c6576d60d93e6abe3bb87ce8658f1d6165d39f874a2fb108ff5d5892d"
+    },
+    {
+      "id": "diagram:Tt35DR10iI63",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectra-lines_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Tt35DR10iI63/",
+      "original_path": "data/media/original/diagram_Tt35DR10iI63.png",
+      "ru_path": "data/media/ru/diagram_Tt35DR10iI63.png",
+      "sha256": "ce7cdbba86eed15007f5f5664b8d6555dfdb9689c92c969cdc2a1923c793c153",
+      "size": 185710,
+      "title_en": "Stellar spectral types",
+      "title_ru": "Спектральные типы звёзд",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectra of seven stars ordered by spectral type ranging from the hottest (O-type) at the top to the coolest (M-type at the bottom). The x-axis shows the wavelength of light and the y-axis is a measure of the flux of light received at that wavelength. Each spectrum is normalized (the flux at each wavelength is divided by the maximum flux in that spectrum) and the spectra are then offset from each other along the y-axis to make the plot easier to view. The colour of the lines between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe hotter stars have more of their flux at the bluer end of the spectrum and the cooler stars have more of their flux at the redder end. However the total amount of flux a star emits depends on its size and temperature. Due to this, a hot star will emit more red light than a cool star of the same size even if the cool star emits almost all its light in red light but this is not visible in this plot due to the normalization mentioned above. The sharp, narrow drops in the spectra are absorption lines caused by atoms and ions in the stars’ atmospheres. The strength of a spectral line depends on the temperature of a star’s atmosphere. Take the hydrogen line at 656.5 nm as an example. All of the stars in this plot are primarily made of hydrogen, but the 656.5 nm hydrogen line is weak for the hottest and coolest stars but strongest for spectral types A and F. This is because hydrogen absorbs more light at 656.5 nm at the temperatures of A and F stars’ atmospheres than in hotter or cooler stars.\r\n\r\nThe coolest star here, the M-type star, has wide absorption bands in its spectra. This is because this star is cool enough to have compounds such as titanium oxide in its atmosphere. These compounds, often called molecules in astronomy, produce wider spectral absorption features than atoms or ions.",
+      "caption_ru": "Спектры семи звёзд, упорядоченные по спектральному типу от самой горячей (тип O) вверху до самой холодной (тип M внизу). По оси x отложена длина волны света, а по оси y — мера потока света, принимаемого на этой длине волны. Каждый спектр нормализован (поток на каждой длине волны делится на максимальный поток в этом спектре), и затем спектры смещены друг относительно друга вдоль оси y для облегчения просмотра графика. Цвет линий между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света этой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало или совсем не видит света, линии окрашены в синий и красный цвет соответственно.\r\n\r\nУ более горячих звёзд большая часть потока приходится на более синий конец спектра, а у более холодных звёзд — на более красный конец. Однако общее количество потока, излучаемого звездой, зависит от её размера и температуры. Из-за этого горячая звезда будет излучать больше красного света, чем холодная звезда того же размера, даже если холодная звезда излучает почти весь свой свет в красном диапазоне, но это не видно на этом графике из-за упомянутой выше нормализации. Резкие узкие провалы в спектрах — это линии поглощения, вызванные атомами и ионами в атмосферах звёзд. Сила спектральной линии зависит от температуры атмосферы звезды. Возьмём в качестве примера водородную линию на 656.5 нм. Все звёзды на этом графике состоят в основном из водорода, но водородная линия на 656.5 нм слаба для самых горячих и самых холодных звёзд, но наиболее сильна для спектральных типов A и F. Это происходит потому, что водород поглощает больше света на 656.5 нм при температурах атмосфер звёзд типов A и F, чем у более горячих или более холодных звёзд.\r\n\r\nСамая холодная звезда здесь, звезда типа M, имеет широкие полосы поглощения в своём спектре. Это потому, что эта звезда достаточно холодна, чтобы в её атмосфере присутствовали такие соединения, как оксид титана. Эти соединения, часто называемые в астрономии молекулами, создают более широкие спектральные особенности поглощения, чем атомы или ионы.",
+      "alt_en": "Seven lines. The peak of each line moves from short wavelengths for the top line to longer wavelengths for the bottom line.",
+      "alt_ru": "Семь линий. Пик каждой линии смещается от коротких длин волн для верхней линии к более длинным волнам для нижней линии.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        325,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "b6b791ef1df6efea6284c1ca636509c6d57f4b39ea4073fec658fefebb6d8267"
+    },
+    {
+      "id": "diagram:W970mQ74LZ29",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectra-bands_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/W970mQ74LZ29/",
+      "original_path": "data/media/original/diagram_W970mQ74LZ29.png",
+      "ru_path": "data/media/ru/diagram_W970mQ74LZ29.png",
+      "sha256": "84f5063260c7c1b6c1347a7a938eb58e0078b0cf31c3438a94c66c9ae4f049a7",
+      "size": 53912,
+      "title_en": "Stellar spectral types - bands",
+      "title_ru": "Спектральные типы звёзд - полосы",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectra of seven stars ordered by spectral type ranging from the hottest (O-type) at the top to the coolest (M-type at the bottom). The x-axis shows the wavelength of light while the brightness or darkness at each wavelength corresponds to the flux of light received from the star at that wavelength with darker patches having less flux and brighter patches more. Each spectrum is normalized (the flux at each wavelength is divided by the maximum flux for that spectrum) so that the maximum flux should appear with the same brightness for all the spectra. The colour plotted between 400 nm and 700 nm roughly corresponds to the color the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe hotter stars have more of their flux at the bluer end of the spectrum and the cooler stars have more of their flux at the redder end. However the total amount of flux a star emits depends on its size and temperature. Due to this, a hot star will emit more red light than a cool star of the same size even if the cool star emits almost all its light in red light but this is not visible in this plot due to the normalization mentioned above. The dark, narrow patches in the spectra are absorption lines caused by atoms and ions in the stars’ atmospheres. The strength of a spectral line depends on the temperature of a star’s atmosphere. Take the hydrogen line at 656.5 nm as an example. All of the stars in this plot are primarily made of hydrogen, but the 656.5 nm hydrogen line is weak for the hottest and coolest stars but strongest for spectral types A and F. This is because hydrogen absorbs more light at 656.5 nm at the temperatures of A and F stars’ atmospheres than in hotter or cooler stars.\r\n\r\nThe coolest star here, the M-type star, has wide absorption bands in its spectra. This is because this star is cool enough to have compounds such as titanium oxide in its atmosphere. These compounds, often called molecules in astronomy, produce wider spectral absorption features than atoms or ions.",
+      "caption_ru": "Спектры семи звёзд, упорядоченные по спектральному типу от самой горячей (тип O) вверху до самой холодной (тип M внизу). По оси x отложена длина волны света, а яркость или темнота на каждой длине волны соответствует потоку света, принимаемого от звезды на этой длине волны: более тёмные участки имеют меньший поток, а более яркие — больший. Каждый спектр нормализован (поток на каждой длине волны делится на максимальный поток для этого спектра), так что максимальный поток должен выглядеть одинаково ярким для всех спектров. Цвет, отображаемый между 400 нм и 700 нм, примерно соответствует цвету, который человеческий глаз увидел бы для света этой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало или совсем не видит света, линии окрашены в синий и красный цвет соответственно.\r\n\r\nУ более горячих звёзд большая часть потока приходится на более синий конец спектра, а у более холодных звёзд — на более красный конец. Однако общее количество потока, излучаемого звездой, зависит от её размера и температуры. Из-за этого горячая звезда будет излучать больше красного света, чем холодная звезда того же размера, даже если холодная звезда излучает почти весь свой свет в красном диапазоне, но это не видно на этом графике из-за упомянутой выше нормализации. Тёмные узкие участки в спектрах — это линии поглощения, вызванные атомами и ионами в атмосферах звёзд. Сила спектральной линии зависит от температуры атмосферы звезды. Возьмём в качестве примера водородную линию на 656.5 нм. Все звёзды на этом графике состоят в основном из водорода, но водородная линия на 656.5 нм слаба для самых горячих и самых холодных звёзд, но наиболее сильна для спектральных типов A и F. Это происходит потому, что водород поглощает больше света на 656.5 нм при температурах атмосфер звёзд типов A и F, чем у более горячих или более холодных звёзд.\r\n\r\nСамая холодная звезда здесь, звезда типа M, имеет широкие полосы поглощения в своём спектре. Это потому, что эта звезда достаточно холодна, чтобы в её атмосфере присутствовали такие соединения, как оксид титана. Эти соединения, часто называемые в астрономии молекулами, создают более широкие спектральные особенности поглощения, чем атомы или ионы.",
+      "alt_en": "Seven bands with bright and dark patches. The brightest part of the band moves from blue in the top band to red at the bottom",
+      "alt_ru": "Семь полос со светлыми и тёмными участками. Самая яркая часть полосы смещается от синей в верхней полосе к красной в нижней.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        325,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "d3f15206605864e281b5b2eca2dc9f9de134fdb2763ea5a3547f1fff0186e8d7"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "id": "term:427",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 427,
+    "url": "https://astro4edu.org/resources/glossary/term/427/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=427",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:24.864940+00:00",
+    "sha256": "4f7f758b6549d3b7b4464c974addd2c5e6ccc590c435e736233b51556be13b64"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      6,
+      3
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      231,
+      459
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Adaptive Optics",
+      "body": "When you look up at night, you might see the stars twinkle. The air in the atmosphere is always in motion, and as light from a star passes through a region with turbulence, it gets deflected by a varying amount. That is why what we can see in the sky is not a single steady point of light for each star, but a dancing, ever-changing, distorted succession of points. For astronomers, twinkling means that they cannot take images of celestial objects in as much detail as their large ground-based telescopes would otherwise allow. Adaptive optics is a way of mitigating that effect. Using either a real star or a laser-projected \"artificial star\", an adaptive optics (\"AO\") system monitors atmospheric distortion in real time. Light that has entered the telescope is guided onto a deformable mirror. Controlled by a computer, that mirror is continuously deformed in just the right way to counteract atmospheric distortion.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Optics",
+          "url": "https://www.astro4edu.org/resources/glossary/term/231/",
+          "text_ru": "Оптика"
+        },
+        {
+          "text": "Mirror",
+          "url": "https://www.astro4edu.org/resources/glossary/term/459/",
+          "text_ru": "Зеркало"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Adaptive Optics</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> When you look up at night, you might see the stars twinkle. The air in the atmosphere is always in motion, and as light from a star passes through a region with turbulence, it gets deflected by a varying amount. That is why what we can see in the sky is not a single steady point of light for each star, but a dancing, ever-changing, distorted succession of points. For astronomers, twinkling means that they cannot take images of celestial objects in as much detail as their large ground-based telescopes would otherwise allow. Adaptive optics is a way of mitigating that effect. Using either a real star or a laser-projected \"artificial star\", an adaptive optics (\"AO\") system monitors atmospheric distortion in real time. Light that has entered the telescope is guided onto a deformable mirror. Controlled by a computer, that mirror is continuously deformed in just the right way to counteract atmospheric distortion.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/231/\">Optics</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/459/\">Mirror</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Адаптивная оптика",
+      "body_ru": "Когда вы смотрите на ночное небо, вы можете увидеть мерцание звезд. Воздух в атмосфере всегда находится в движении, и когда свет от звезды проходит через область с турбулентностью, он отклоняется на изменяющуюся величину. Вот почему то, что мы видим в небе, — это не одна устойчивая точка света для каждой звезды, а танцующая, постоянно меняющаяся, искаженная последовательность точек. Для астрономов мерцание означает, что они не могут получать изображения небесных объектов с такой детализацией, какую позволяли бы их большие наземные телескопы. Адаптивная оптика — это способ смягчения этого эффекта. Используя либо реальную звезду, либо лазерно-проецируемую «искусственную звезду», система адаптивной оптики («АО») отслеживает атмосферные искажения в реальном времени. Свет, попавший в телескоп, направляется на деформируемое зеркало. Управляемое компьютером, это зеркало непрерывно деформируется именно так, чтобы противодействовать атмосферным искажениям."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "補償光学 (external link)",
+          "url": "https://astro-dic.jp/adaptive-optics/",
+          "text_ru": "Адаптивная оптика (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/427/\">البصريات المكيفة </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/427/\">অভিযোজনশীল আলোকবিজ্ঞান (Adaptive Optics) </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/427/\">Adaptive Optik </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/427/\">Óptica adaptativa </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/427/\">Optique adaptative </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/427/\">अनुकूली प्रकाशिकी </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/427/\">ottica adattiva </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/adaptive-optics/\">補償光学 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/427/\">अनुकूली प्रकाशिकी </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/427/\">Ótica Adaptativa </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/427/\">自适应光学 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/427/\">自適應光學 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/PE34qs98WJ63/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso0842a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/BG19pt84ol71/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/potw2044a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/xk31D628WY83/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1821a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:PE34qs98WJ63",
+        "media:BG19pt84ol71",
+        "media:xk31D628WY83"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/PE34qs98WJ63/\"><img alt=\"The planet beta Pictoris b is a bright dot close to its parent star. Around this we see a warm disk edge-on\" src=\"/media/multimedia/thumbnails/eso0842a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">beta Pictoris b</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This composite of two images shows the planet beta Pictoris b and a disk of material both of which orbit the young star beta Pictoris. Both are taken in infrared light. The inner image was one of the first pictures taken of a planet around another star (an exoplanet). This image was made using a technique called adaptive optics which removes the blurring effect of the Earth's atmosphere that spreads out a star's light. The star's light is then concentrated tightly enough that it can be hidden behind a blocking circle (shown here in black) called a coronagraph. The ripples around this are artifacts of the imaging process. Beta Pictoris b, a gas giant planet about twelve times the mass of Jupiter, appears as a dot above and to the left of the black circle.\n\nThe outer image shows the thermal emission from the warm disk of material surrounding the young star beta Pictoris. As we are viewing this disk edge-on it appears as a line. This disk of gas and dust provided the material to form beta Pictoris b.<br/>\n<b>Credit:</b> ESO/A.-M. Lagrange et al.\n\t  <a href=\"https://www.eso.org/public/images/eso0842a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/BG19pt84ol71/\"><img alt=\"The four telescope domes of VLT. One dome is open and firing laser beams. In the sky, the moon has a ring of light around it.\" src=\"/media/multimedia/thumbnails/potw2044a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">ESO's Very Large Telescope (VLT) at Paranal Observatory with a lunar halo</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Very Large Telescope on Cerro Paranal in Chile has four reflecting telescopes each with a primary mirror 8.2m across. In this image one dome is open and firing laser beams into the sky. These lasers create artificial stars in the sky that can be used to adjust the telescope optics to remove the blurring effect of the Earth's atmosphere. This process is known as adaptive optics.\n\nIn the sky the Moon is surrounded by a bright halo. This is caused by light from the moon reflecting inside ice crystals in the Earth's atmosphere.<br/>\n<b>Credit:</b> Juan Carlos Muñoz-Mateos/ESO\n\t  <a href=\"https://www.eso.org/public/images/potw2044a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/xk31D628WY83/\"><img alt=\"A bright oval with a dark circle in the center. To the right of the dark circle but still inside the oval is a bright dot.\" src=\"/media/multimedia/thumbnails/the-planet-pds-70b-inside-a-protoplanetary-disk_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The planet PDS 70b inside a protoplanetary disk</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> An image of the planet PDS 70b. The young star PDS 70b has a protoplanetary disk surrounding it. Disks like these contains gas, fine sandy particles that astronomers refer to as dust and also larger bodies ranging from objects the size of pebbles to protoplanets (planets that are still forming). \n\nThis image was taken in infrared light using adaptive optics. Adaptive optics is a technique that uses flexible mirrors and computer analysis to remove the blurring effect of the Earth's atmosphere. This allows astronomers to search regions close to stars like PDS 70 that would otherwise be swamped by light from the star spread out by the Earth's atmosphere. In the center is a black circle. This is caused by a coronograph, a small circle that blocks out light from the parent star. This is surrounded by a bright oval, infrared light emitted from the material in the protoplanetary disk. To the right of the black circle covering the star is a bright dot. This is PDS 70b, a giant planet that is still forming .<br/>\n<b>Credit:</b> ESO/ A. Müller, MPIA\n\t  <a href=\"https://www.eso.org/public/images/eso1821a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Adaptive Optics",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Adaptive Optics",
+          "body": "When you look up at night, you might see the stars twinkle. The air in the atmosphere is always in motion, and as light from a star passes through a region with turbulence, it gets deflected by a varying amount. That is why what we can see in the sky is not a single steady point of light for each star, but a dancing, ever-changing, distorted succession of points. For astronomers, twinkling means that they cannot take images of celestial objects in as much detail as their large ground-based telescopes would otherwise allow. Adaptive optics is a way of mitigating that effect. Using either a real star or a laser-projected \"artificial star\", an adaptive optics (\"AO\") system monitors atmospheric distortion in real time. Light that has entered the telescope is guided onto a deformable mirror. Controlled by a computer, that mirror is continuously deformed in just the right way to counteract atmospheric distortion."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Адаптивная оптика",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Адаптивная оптика",
+          "body": "Когда вы смотрите на ночное небо, вы можете увидеть мерцание звезд. Воздух в атмосфере всегда находится в движении, и когда свет от звезды проходит через область с турбулентностью, он отклоняется на изменяющуюся величину. Вот почему то, что мы видим в небе, — это не одна устойчивая точка света для каждой звезды, а танцующая, постоянно меняющаяся, искаженная последовательность точек. Для астрономов мерцание означает, что они не могут получать изображения небесных объектов с такой детализацией, какую позволяли бы их большие наземные телескопы. Адаптивная оптика — это способ смягчения этого эффекта. Используя либо реальную звезду, либо лазерно-проецируемую «искусственную звезду», система адаптивной оптики («АО») отслеживает атмосферные искажения в реальном времени. Свет, попавший в телескоп, направляется на деформируемое зеркало. Управляемое компьютером, это зеркало непрерывно деформируется именно так, чтобы противодействовать атмосферным искажениям."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:PE34qs98WJ63",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/eso0842a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/PE34qs98WJ63/",
+      "original_path": "data/media/original/media_PE34qs98WJ63.jpg",
+      "ru_path": null,
+      "sha256": "46ee2862ab910ff4a163afc47d5b7c21a4ef2e1fecd7f298f49c1e20e705bd62",
+      "size": 128051,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The exoplanet beta Pictoris b",
+      "short_caption_ru": "Экзопланета Бета Живописца b",
+      "caption_en": "This composite of two images shows the planet beta Pictoris b and a disk of material both of which orbit the young star beta Pictoris. Both are taken in infrared light. The inner image was one of the first pictures taken of a planet around another star (an exoplanet). This image was made using a technique called adaptive optics which removes the blurring effect of the Earth's atmosphere that spreads out a star's light. The star's light is then concentrated tightly enough that it can be hidden behind a blocking circle (shown here in black) called a coronagraph. The ripples around this are artifacts of the imaging process. Beta Pictoris b, a gas giant planet about twelve times the mass of Jupiter, appears as a dot above and to the left of the black circle.\r\n\r\nThe outer image shows the thermal emission from the warm disk of material surrounding the young star beta Pictoris. As we are viewing this disk edge-on it appears as a line. This disk of gas and dust provided the material to form beta Pictoris b.",
+      "caption_ru": "Этот композит из двух изображений показывает планету бета Живописца b и диск материала, оба из которых вращаются вокруг молодой звезды бета Живописца. Оба снимка сделаны в инфракрасном свете. Внутреннее изображение было одним из первых снимков планеты вокруг другой звезды (экзопланеты). Это изображение было получено с использованием метода, называемого адаптивной оптикой, который устраняет размывающий эффект атмосферы Земли, рассеивающей свет звезды. Затем свет звезды концентрируется достаточно плотно, чтобы его можно было скрыть за блокирующим кругом (показан здесь черным), называемым коронографом. Волнистые структуры вокруг него являются артефактами процесса получения изображения. Бета Живописца b, газовый гигант примерно в двенадцать раз массивнее Юпитера, выглядит как точка выше и левее черного круга.\n\nВнешнее изображение показывает тепловое излучение от теплого диска материала, окружающего молодую звезду бета Живописца. Поскольку мы наблюдаем этот диск с ребра, он выглядит как линия. Этот диск газа и пыли послужил материалом для формирования бета Живописца b.",
+      "alt_en": "The planet beta Pictoris b is a bright dot close to its parent star. Around this we see a warm disk edge-on",
+      "alt_ru": "Планета бета Живописца b — яркая точка вблизи своей родительской звезды. Вокруг нее мы видим теплый диск с ребра",
+      "credit": "ESO/A.-M. Lagrange et al.",
+      "credit_url": "https://www.eso.org/public/images/eso0842a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        106,
+        254,
+        427
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:BG19pt84ol71",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/potw2044a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/BG19pt84ol71/",
+      "original_path": "data/media/original/media_BG19pt84ol71.jpg",
+      "ru_path": null,
+      "sha256": "7fcf26eded5a5df44cc878c54c42cddce11a56f9adb7b909de234a2fdb97af8c",
+      "size": 4274249,
+      "title_en": "ESO's Very Large Telescope (VLT) at Paranal Observatory with a lunar halo",
+      "title_ru": "Очень Большой Телескоп (VLT) ESO в обсерватории Паранал с лунным гало",
+      "short_caption_en": "ESO's Very Large Telescope (VLT) at Paranal Observatory with a lunar halo",
+      "short_caption_ru": "Очень Большой Телескоп (VLT) ESO в обсерватории Паранал с лунным гало",
+      "caption_en": "The Very Large Telescope on Cerro Paranal in Chile has four reflecting telescopes each with a primary mirror 8.2m across. In this image one dome is open and firing laser beams into the sky. These lasers create artificial stars in the sky that can be used to adjust the telescope optics to remove the blurring effect of the Earth's atmosphere. This process is known as adaptive optics.\r\n\r\nIn the sky the Moon is surrounded by a bright halo. This is caused by light from the moon reflecting inside ice crystals in the Earth's atmosphere.",
+      "caption_ru": "Очень Большой Телескоп на Серро-Паранал в Чили имеет четыре отражающих телескопа, каждый с главным зеркалом диаметром 8.2 м. На этом изображении один купол открыт и испускает лазерные лучи в небо. Эти лазеры создают искусственные звезды в небе, которые можно использовать для настройки оптики телескопа, чтобы устранить эффект размытия атмосферы Земли. Этот процесс известен как адаптивная оптика.\r\n\r\nВ небе Луна окружена ярким гало. Это вызвано отражением света Луны внутри кристаллов льда в атмосфере Земли.",
+      "alt_en": "The four telescope domes of VLT. One dome is open and firing laser beams. In the sky, the moon has a ring of light around it.",
+      "alt_ru": "Четыре купола телескопов VLT. Один купол открыт и испускает лазерные лучи. В небе вокруг Луны видно светящееся кольцо.",
+      "credit": "Juan Carlos Muñoz-Mateos/ESO",
+      "credit_url": "https://www.eso.org/public/images/potw2044a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        227,
+        427,
+        448
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:xk31D628WY83",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-planet-pds-70b-inside-a-protoplanetary-disk.png",
+      "record_url": "https://astro4edu.org/resources/media/xk31D628WY83/",
+      "original_path": "data/media/original/media_xk31D628WY83.png",
+      "ru_path": null,
+      "sha256": "249212f647468a9adef1172791eed226817e10e0277067247689cedb8dd45821",
+      "size": 1586121,
+      "title_en": "The planet PDS 70b inside a protoplanetary disk",
+      "title_ru": "Планета PDS 70b внутри протопланетного диска",
+      "short_caption_en": "The planet PDS 70b inside a protoplanetary disk",
+      "short_caption_ru": "Планета PDS 70b внутри протопланетного диска",
+      "caption_en": "An image of the planet PDS 70b. The young star PDS 70b has a protoplanetary disk surrounding it. Disks like these contains gas, fine sandy particles that astronomers refer to as dust and also larger bodies ranging from objects the size of pebbles to protoplanets (planets that are still forming). \r\n\r\nThis image was taken in infrared light using adaptive optics. Adaptive optics is a technique that uses flexible mirrors and computer analysis to remove the blurring effect of the Earth's atmosphere. This allows astronomers to search regions close to stars like PDS 70 that would otherwise be swamped by light from the star spread out by the Earth's atmosphere. In the center is a black circle. This is caused by a coronograph, a small circle that blocks out light from the parent star. This is surrounded by a bright oval, infrared light emitted from the material in the protoplanetary disk. To the right of the black circle covering the star is a bright dot. This is PDS 70b, a giant planet that is still forming .",
+      "caption_ru": "Изображение планеты PDS 70b. Молодая звезда PDS 70b окружена протопланетным диском. Такие диски содержат газ, мелкие песчаные частицы, которые астрономы называют пылью, а также более крупные тела — от объектов размером с гальку до протопланет (планет, которые все еще формируются).\r\n\r\nЭто изображение было получено в инфракрасном свете с использованием адаптивной оптики. Адаптивная оптика — это метод, использующий гибкие зеркала и компьютерный анализ для устранения размывающего эффекта атмосферы Земли. Это позволяет астрономам исследовать области вблизи таких звезд, как PDS 70, которые иначе были бы затоплены светом звезды, рассеянным атмосферой Земли. В центре находится черный круг. Это вызвано коронографом — небольшим кругом, который блокирует свет от родительской звезды. Он окружен ярким овалом — инфракрасным светом, испускаемым материалом в протопланетном диске. Справа от черного круга, закрывающего звезду, находится яркая точка. Это PDS 70b, гигантская планета, которая все еще формируется.",
+      "alt_en": "A bright oval with a dark circle in the center. To the right of the dark circle but still inside the oval is a bright dot.",
+      "alt_ru": "Яркий овал с темным кругом в центре. Справа от темного круга, но все еще внутри овала, находится яркая точка.",
+      "credit": "ESO/ A. Müller, MPIA",
+      "credit_url": "https://www.eso.org/public/images/eso1821a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        254,
+        416,
+        417,
+        427
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

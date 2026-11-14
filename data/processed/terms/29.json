@@ -1,0 +1,317 @@
+{
+  "id": "term:29",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 29,
+    "url": "https://astro4edu.org/resources/glossary/term/29/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=29",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:13.380788+00:00",
+    "sha256": "0119fec908de17d2aa8a4638d5e38757d70055bc0234f5b9445d5e35757db17e"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Naked Eye Astronomy",
+      "Solar System",
+      "Space Exploration"
+    ],
+    "category_ids": [
+      6,
+      4,
+      1,
+      10
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Астрономия невооружённым глазом",
+      "Солнечная система",
+      "Исследование космоса"
+    ],
+    "related_term_numbers": [
+      124,
+      135,
+      315,
+      455
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Atmosphere",
+      "body": "Atmosphere is a layer of gas that surrounds a celestial body. It is maintained because of the gravitational pull of the celestial body and therefore it is densest at the surface and merges into interplanetary space at high altitudes. For planets with solid or liquid surfaces the lower boundary of the atmosphere is clear. Stars have gaseous interiors so have no clear lower bound to their atmospheres. A stellar atmosphere normally refers to the outer gaseous layer of a star through which light from the interior travels out into space. A magnetic field of a planet can protect its atmosphere from rapidly dissipating in space because of solar or stellar wind. In Earth's case, it also protects all organisms from genetic damage due to harmful effects of the solar wind and cosmic rays.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Gas",
+          "url": "https://www.astro4edu.org/resources/glossary/term/124/",
+          "text_ru": "Газ"
+        },
+        {
+          "text": "Gravity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/135/",
+          "text_ru": "Гравитация"
+        },
+        {
+          "text": "Solar Wind",
+          "url": "https://www.astro4edu.org/resources/glossary/term/315/",
+          "text_ru": "Солнечный ветер"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Atmosphere</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Atmosphere is a layer of gas that surrounds a celestial body. It is maintained because of the gravitational pull of the celestial body and therefore it is densest at the surface and merges into interplanetary space at high altitudes. <br/><br/>For planets with solid or liquid surfaces the lower boundary of the atmosphere is clear. Stars have gaseous interiors so have no clear lower bound to their atmospheres. A stellar atmosphere normally refers to the outer gaseous layer of a star through which light from the interior travels out into space. <br/><br/>A magnetic field of a planet can protect its atmosphere from rapidly dissipating in space because of solar or stellar wind. In Earth's case, it also protects all organisms from genetic damage due to harmful effects of the solar wind and cosmic rays.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/124/\">Gas</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/135/\">Gravity</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/315/\">Solar Wind</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Атмосфера",
+      "body_ru": "Атмосфера — это слой газа, окружающий небесное тело. Она поддерживается благодаря гравитационному притяжению небесного тела и поэтому наиболее плотна у поверхности, а на больших высотах сливается с межпланетным пространством. Для планет с твердой или жидкой поверхностью нижняя граница атмосферы четкая. Звезды имеют газообразные недра, поэтому у их атмосфер нет четкой нижней границы. Атмосфера звезды обычно относится к внешнему газовому слою звезды, через который свет из недр выходит в космос. Магнитное поле планеты может защитить ее атмосферу от быстрого рассеивания в космосе из-за солнечного или звездного ветра. В случае Земли оно также защищает все организмы от генетических повреждений из-за вредного воздействия солнечного ветра и космических лучей."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/29/\">الغلاف الجوي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/29/\">Atmosphäre </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/29/\">Atmósfera </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/29/\">Atmosphère </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/29/\">Atmosfera </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/29/\">대기 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/29/\">Atmosfera </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/29/\">大气层 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/29/\">大氣層 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/5p59P228iI38/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://eol.jsc.nasa.gov/searchphotos/photo.pl?mission=ISS042&roll=E&frame=307643",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/X1819290jo90/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://en.wikipedia.org/wiki/File:Venuspioneeruv.jpg",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:5p59P228iI38",
+        "media:X1819290jo90"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/5p59P228iI38/\"><img alt=\"The Moon in the far background and Earth's the blue of the Earth's atmosphere smoothly changes to the black of space\" src=\"/media/multimedia/thumbnails/moon-and-earths-thin-atmosphere_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Moon and Earth's thin atmosphere</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Taken from the International Space Station (ISS), approximately 400 kilometers above the ground, the picture shows the Moon far in the background and Earth's thin atmosphere. It appears blue as light in this wavelength is scattered more than in others by the gases in the upper layers. The photo was taken in March 2015 by a crew member. Clearly visible is the vanishingly small layer of gases compared to Earth's dimensions. There is no clear border between the atmosphere and space; it is a smooth transition with no sharp edges. The thickness to the upper limit of the stratosphere, roughly 50 kilometers, does not even amount to one percent of Earth's radius. Above 600 kilometers, particles reaching the critical escape velocity can leave into space. The total mass of the atmosphere is around 300 times less than that of all oceans combined or one million times less than Earth's total mass.<br/>\n<b>Credit:</b> Earth Science and Remote Sensing Unit, NASA Johnson Space Center\n\t  <a href=\"https://eol.jsc.nasa.gov/searchphotos/photo.pl?mission=ISS042&amp;roll=E&amp;frame=307643\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/X1819290jo90/\"><img alt=\"Venus as a circular disk against a dark background, with visible patterns and streaks in its atmosphere.\" src=\"/media/multimedia/thumbnails/atmosphere-of-venus_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Atmosphere of Venus</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image of Venus was captured in ultraviolet light by the Pioneer Venus Orbiter and highlights features of the planet’s thick atmosphere that are not visible in ordinary light. Venus has a dense, cloudy atmosphere composed mainly of carbon dioxide. In ultraviolet wavelengths, patterns in the upper cloud layers become visible, revealing swirling structures and bright and dark bands caused by differences in the composition and motion of the atmosphere. These ultraviolet features help scientists map wind patterns, atmospheric circulation, and cloud dynamics high above Venus’s surface.\n\nUnlike Earth’s atmosphere, which is relatively transparent in visible light, Venus’s atmosphere is so thick that no direct view of the surface is possible from space without special instruments. The extreme pressure and temperature near Venus’s surface are consequences of this dense gaseous envelope, making Venus a dramatic example of how different planetary atmospheres can be. This image demonstrates how observing a planet’s atmosphere in different wavelengths, such as ultraviolet, reveals details about its structure and behaviour.<br/>\n<b>Credit:</b> NASA\n\t  <a href=\"https://en.wikipedia.org/wiki/File:Venuspioneeruv.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Blue Marble in Empty Space astroEDU educational activity (links to astroEDU website) Description: Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models Fizzy Balloons – CO2 in School astroEDU educational activity (links to astroEDU website) Description: Investigate the properties of carbon dioxide with this fun demonstration. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Hands-on \n  \n  , Chemistry \n  \n  , Earth Science \n  \n  , Carbon Dioxide Age Ranges: 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Investigating the Atmosphere – Air Takes Up Space astroEDU educational activity (links to astroEDU website) Description: Air takes up space even though you cannot see it. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geography \n  \n  , Mathematics \n  \n  , Air Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations The Intertropical Convergence Zone astroEDU educational activity (links to astroEDU website) Description: The air circulation system: how are winds created? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Lightning on other planets astroEDU educational activity (links to astroEDU website) Description: A hands-on, Inquiry exploration of how lightning happens on Earth and other planets License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary Areas of Learning: Fun activity \n  \n, Modelling \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Atmosphere&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/blue-marble-in-empty-space/\"><img alt=\"Blue Marble in Empty Space\" src=\"/media/astroedu/images/blue-marble-in-empty-space_en_thumbnail_SCbs0Dz.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/blue-marble-in-empty-space/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Blue Marble in Empty Space</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space.\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS \n  \n  \n\n  <b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/fizzy-balloons-co2-in-school/\"><img alt=\"Fizzy Balloons – CO2 in School\" src=\"/media/astroedu/images/fizzy-balloons-co2-in-school_en_thumbnail_jeEbOSm.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/fizzy-balloons-co2-in-school/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Fizzy Balloons – CO2 in School</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Investigate the properties of carbon dioxide with this fun demonstration.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Hands-on \n  \n  , Chemistry \n  \n  , Earth Science \n  \n  , Carbon Dioxide \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/investigating-the-atmosphere-air-takes-up-space/\"><img alt=\"Investigating the Atmosphere – Air Takes Up Space\" src=\"/media/astroedu/images/investigating-the-atmosphere-air-takes-up-space_en_thumbnail_zcj3FXu.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/investigating-the-atmosphere-air-takes-up-space/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Investigating the Atmosphere – Air Takes Up Space</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Air takes up space even though you cannot see it.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Geography \n  \n  , Mathematics \n  \n  , Air \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/the-intertropical-convergence-zone/\"><img alt=\"The Intertropical Convergence Zone\" src=\"/media/astroedu/images/the-intertropical-convergence-zone_en_thumbnail_F3mBMlE.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/the-intertropical-convergence-zone/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Intertropical Convergence Zone</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>The air circulation system: how are winds created?\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/lightning-on-other-planets/\"><img alt=\"Lightning on other planets\" src=\"/media/astroedu/images/lightning-on-other-planets_en_thumbnail_TJ66eMa.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/lightning-on-other-planets/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lightning on other planets</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>A hands-on, Inquiry exploration of how lightning happens on Earth and other planets\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nSecondary \n  \n<b>Areas of Learning:</b>\n\nFun activity \n  \n, Modelling \n  \n, Observation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Atmosphere&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Голубой шар в пустом космосе образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Учащиеся отправляются в виртуальное путешествие в космос, чтобы испытать, что мы живем на крошечной планете, парящей в огромном и пустом пространстве. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Жизнь \n  \n  , Практическая работа \n  \n  , Модель \n  \n  , Масштабы \n  \n  , Расстояния \n  \n  , МКС Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкие затраты Продолжительность: 30 мин Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Шипучие шары – CO2 в школе образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте свойства углекислого газа с помощью этой веселой демонстрации. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Жизнь \n  \n  , Практическая работа \n  \n  , Химия \n  \n  , Науки о Земле \n  \n  , Углекислый газ Возрастные диапазоны: 8-10 \n  \n, 10-12 Уровень образования: Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Традиционный научный эксперимент Затраты: Средние затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Построение объяснений \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Исследование атмосферы – воздух занимает пространство образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Воздух занимает пространство, даже если вы его не видите. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: География \n  \n  , Математика \n  \n  , Воздух Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Планирование и проведение исследований Внутритропическая зона конвергенции образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Система циркуляции воздуха: как возникают ветры? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Климат \n  \n  , Восходящий поток \n  \n  , Конвекция \n  \n  , Ветры Возрастные диапазоны: 12-14 \n  \n, 14-16 Уровень образования: Средняя школа Области обучения: Дискуссионные группы \n  \n, Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средние затраты Продолжительность: 1 час Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Молнии на других планетах образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Практическое исследовательское изучение того, как возникают молнии на Земле и других планетах Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Средний Области обучения: Веселое занятие \n  \n, Моделирование \n  \n, На основе наблюдений \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все мероприятия по этой теме"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Atmosphere",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Atmosphere",
+          "body": "Atmosphere is a layer of gas that surrounds a celestial body. It is maintained because of the gravitational pull of the celestial body and therefore it is densest at the surface and merges into interplanetary space at high altitudes. For planets with solid or liquid surfaces the lower boundary of the atmosphere is clear. Stars have gaseous interiors so have no clear lower bound to their atmospheres. A stellar atmosphere normally refers to the outer gaseous layer of a star through which light from the interior travels out into space. A magnetic field of a planet can protect its atmosphere from rapidly dissipating in space because of solar or stellar wind. In Earth's case, it also protects all organisms from genetic damage due to harmful effects of the solar wind and cosmic rays."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Blue Marble in Empty Space astroEDU educational activity (links to astroEDU website) Description: Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models Fizzy Balloons – CO2 in School astroEDU educational activity (links to astroEDU website) Description: Investigate the properties of carbon dioxide with this fun demonstration. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Hands-on \n  \n  , Chemistry \n  \n  , Earth Science \n  \n  , Carbon Dioxide Age Ranges: 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Investigating the Atmosphere – Air Takes Up Space astroEDU educational activity (links to astroEDU website) Description: Air takes up space even though you cannot see it. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geography \n  \n  , Mathematics \n  \n  , Air Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations The Intertropical Convergence Zone astroEDU educational activity (links to astroEDU website) Description: The air circulation system: how are winds created? License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Climate \n  \n  , Updraft \n  \n  , Convection \n  \n  , Winds Age Ranges: 12-14 \n  \n, 14-16 Education Level: Middle School Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Lightning on other planets astroEDU educational activity (links to astroEDU website) Description: A hands-on, Inquiry exploration of how lightning happens on Earth and other planets License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 Education Level: Secondary Areas of Learning: Fun activity \n  \n, Modelling \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Атмосфера",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Атмосфера",
+          "body": "Атмосфера — это слой газа, окружающий небесное тело. Она поддерживается благодаря гравитационному притяжению небесного тела и поэтому наиболее плотна у поверхности, а на больших высотах сливается с межпланетным пространством. Для планет с твердой или жидкой поверхностью нижняя граница атмосферы четкая. Звезды имеют газообразные недра, поэтому у их атмосфер нет четкой нижней границы. Атмосфера звезды обычно относится к внешнему газовому слою звезды, через который свет из недр выходит в космос. Магнитное поле планеты может защитить ее атмосферу от быстрого рассеивания в космосе из-за солнечного или звездного ветра. В случае Земли оно также защищает все организмы от генетических повреждений из-за вредного воздействия солнечного ветра и космических лучей."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Голубой шар в пустом космосе образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Учащиеся отправляются в виртуальное путешествие в космос, чтобы испытать, что мы живем на крошечной планете, парящей в огромном и пустом пространстве. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Жизнь \n  \n  , Практическая работа \n  \n  , Модель \n  \n  , Масштабы \n  \n  , Расстояния \n  \n  , МКС Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкие затраты Продолжительность: 30 мин Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Шипучие шары – CO2 в школе образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте свойства углекислого газа с помощью этой веселой демонстрации. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Жизнь \n  \n  , Практическая работа \n  \n  , Химия \n  \n  , Науки о Земле \n  \n  , Углекислый газ Возрастные диапазоны: 8-10 \n  \n, 10-12 Уровень образования: Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Традиционный научный эксперимент Затраты: Средние затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Построение объяснений \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Исследование атмосферы – воздух занимает пространство образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Воздух занимает пространство, даже если вы его не видите. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: География \n  \n  , Математика \n  \n  , Воздух Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Планирование и проведение исследований Внутритропическая зона конвергенции образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Система циркуляции воздуха: как возникают ветры? Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Климат \n  \n  , Восходящий поток \n  \n  , Конвекция \n  \n  , Ветры Возрастные диапазоны: 12-14 \n  \n, 14-16 Уровень образования: Средняя школа Области обучения: Дискуссионные группы \n  \n, Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средние затраты Продолжительность: 1 час Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Молнии на других планетах образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Практическое исследовательское изучение того, как возникают молнии на Земле и других планетах Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Средний Области обучения: Веселое занятие \n  \n, Моделирование \n  \n, На основе наблюдений \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все мероприятия по этой теме"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:5p59P228iI38",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/moon-and-earths-thin-atmosphere.png",
+      "record_url": "https://astro4edu.org/resources/media/5p59P228iI38/",
+      "original_path": "data/media/original/media_5p59P228iI38.png",
+      "ru_path": null,
+      "sha256": "435a19a575d5ee66c20b1876b4ba43c9e3dd3070e4084ca01c8cbea15a76040e",
+      "size": 3992789,
+      "title_en": "Moon and Earth's thin atmosphere",
+      "title_ru": "Луна и тонкая атмосфера Земли",
+      "short_caption_en": "Moon and Earth's thin atmosphere",
+      "short_caption_ru": "Луна и тонкая атмосфера Земли",
+      "caption_en": "Taken from the International Space Station (ISS), approximately 400 kilometers above the ground, the picture shows the Moon far in the background and Earth's thin atmosphere. It appears blue as light in this wavelength is scattered more than in others by the gases in the upper layers. The photo was taken in March 2015 by a crew member. Clearly visible is the vanishingly small layer of gases compared to Earth's dimensions. There is no clear border between the atmosphere and space; it is a smooth transition with no sharp edges. The thickness to the upper limit of the stratosphere, roughly 50 kilometers, does not even amount to one percent of Earth's radius. Above 600 kilometers, particles reaching the critical escape velocity can leave into space. The total mass of the atmosphere is around 300 times less than that of all oceans combined or one million times less than Earth's total mass.",
+      "caption_ru": "Снимок сделан с Международной космической станции (МКС) на высоте примерно 400 километров над землёй; на изображении видны Луна вдалеке на фоне и тонкая атмосфера Земли. Она кажется голубой, поскольку свет этой длины волны рассеивается газами верхних слоёв сильнее, чем свет других длин волн. Фотография сделана в марте 2015 года членом экипажа. Отчётливо виден ничтожно малый слой газов по сравнению с размерами Земли. Чёткой границы между атмосферой и космосом нет; это плавный переход без резких краёв. Толщина до верхней границы стратосферы, примерно 50 километров, не составляет даже одного процента радиуса Земли. Выше 600 километров частицы, достигающие критической скорости убегания, могут уходить в космос. Общая масса атмосферы примерно в 300 раз меньше массы всех океанов вместе взятых или в миллион раз меньше общей массы Земли.",
+      "alt_en": "The Moon in the far background and Earth's the blue of the Earth's atmosphere smoothly changes to the black of space",
+      "alt_ru": "Луна вдалеке на фоне и голубизна атмосферы Земли плавно переходит в черноту космоса",
+      "credit": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
+      "credit_url": "https://eol.jsc.nasa.gov/searchphotos/photo.pl?mission=ISS042&roll=E&frame=307643",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        29
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:X1819290jo90",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/atmosphere-of-venus.png",
+      "record_url": "https://astro4edu.org/resources/media/X1819290jo90/",
+      "original_path": "data/media/original/media_X1819290jo90.png",
+      "ru_path": null,
+      "sha256": "a41a286a1bb7077b0a8087adc1c916363d5b48274b584506b62fa0283dc65244",
+      "size": 8091901,
+      "title_en": "Atmosphere of Venus",
+      "title_ru": "Атмосфера Венеры",
+      "short_caption_en": "Atmosphere of Venus",
+      "short_caption_ru": "Атмосфера Венеры",
+      "caption_en": "This image of Venus was captured in ultraviolet light by the Pioneer Venus Orbiter and highlights features of the planet’s thick atmosphere that are not visible in ordinary light. Venus has a dense, cloudy atmosphere composed mainly of carbon dioxide. In ultraviolet wavelengths, patterns in the upper cloud layers become visible, revealing swirling structures and bright and dark bands caused by differences in the composition and motion of the atmosphere. These ultraviolet features help scientists map wind patterns, atmospheric circulation, and cloud dynamics high above Venus’s surface.\r\n\r\nUnlike Earth’s atmosphere, which is relatively transparent in visible light, Venus’s atmosphere is so thick that no direct view of the surface is possible from space without special instruments. The extreme pressure and temperature near Venus’s surface are consequences of this dense gaseous envelope, making Venus a dramatic example of how different planetary atmospheres can be. This image demonstrates how observing a planet’s atmosphere in different wavelengths, such as ultraviolet, reveals details about its structure and behaviour.",
+      "caption_ru": "Это изображение Венеры было получено в ультрафиолетовом свете аппаратом «Пионер-Венера» и подчёркивает особенности плотной атмосферы планеты, невидимые в обычном свете. Венера обладает плотной облачной атмосферой, состоящей в основном из углекислого газа. В ультрафиолетовых длинах волн становятся видны узоры в верхних слоях облаков, обнаруживая вихревые структуры и светлые и тёмные полосы, вызванные различиями в составе и движении атмосферы. Эти ультрафиолетовые особенности помогают учёным картографировать схемы ветров, атмосферную циркуляцию и динамику облаков высоко над поверхностью Венеры.\r\n\r\nВ отличие от атмосферы Земли, которая относительно прозрачна в видимом свете, атмосфера Венеры настолько плотна, что без специальных приборов невозможно прямо увидеть поверхность из космоса. Экстремальное давление и температура вблизи поверхности Венеры являются следствием этой плотной газовой оболочки, что делает Венеру ярким примером того, насколько разными могут быть планетные атмосферы. Это изображение демонстрирует, как наблюдение атмосферы планеты в разных длинах волн, таких как ультрафиолет, раскрывает детали её структуры и поведения.",
+      "alt_en": "Venus as a circular disk against a dark background, with visible patterns and streaks in its atmosphere.",
+      "alt_ru": "Венера в виде круглого диска на тёмном фоне с видимыми узорами и полосами в её атмосфере.",
+      "credit": "NASA",
+      "credit_url": "https://en.wikipedia.org/wiki/File:Venuspioneeruv.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        29,
+        377
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

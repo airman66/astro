@@ -1,0 +1,613 @@
+{
+  "id": "term:342",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 342,
+    "url": "https://astro4edu.org/resources/glossary/term/342/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=342",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:58.697574+00:00",
+    "sha256": "0f511415e8b17fa65bc00fbbd9bf397252b29dcf9267cf9e7bbbc2128cfbd27d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System",
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      4,
+      1,
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система",
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      186,
+      221,
+      311,
+      331,
+      345,
+      440,
+      455,
+      461,
+      505
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Sun",
+      "body": "The Sun is the star that is closest to the Earth. For astronomers, it is a star of type \"G2V\". This means the Sun is a main sequence star with a typical temperature (\"effective temperature\") of 5800 kelvins (K). Main sequence stars are stable, with energy released by hydrogen fusion in their core balancing the inwards force due to gravity. The Sun appears white to the human eye as it emits lots of light all across the visible spectrum. When lower in the sky, increased atmospheric extinction can make the Sun appear yellow or orange, hence its common depiction as yellow. Stars range from more than 1000 times brighter than the Sun to some 1000 times fainter, but the brighter ones are relatively rare: the Sun is brighter (and heavier) than most (perhaps some 85%) of the stars in the Galaxy. For astronomers, the Sun is interesting because of its proximity, which means that the surface can be resolved in greater detail, allowing structures and phenomena to be studied. For example, detailed studies of solar activity, which is related to the Sun's magnetic fields, can include: sunspots (cooler areas), flares (short-lived bright flashes), and even coronal mass ejections (electrically charged particles flung away from the Sun). Physicists have also detected elementary particles known as neutrinos from the Sun's core; this is direct evidence for nuclear fusion processes. The element helium was first detected in the solar spectrum, hence the name helium, which comes from Helios (in Greek mythology the Sun god).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Main Sequence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/186/",
+          "text_ru": "Главная последовательность"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Solar Flare",
+          "url": "https://www.astro4edu.org/resources/glossary/term/311/",
+          "text_ru": "Солнечная вспышка"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Sunspot",
+          "url": "https://www.astro4edu.org/resources/glossary/term/345/",
+          "text_ru": "Солнечное пятно"
+        },
+        {
+          "text": "Effective Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/440/",
+          "text_ru": "Эффективная температура"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "Neutrino",
+          "url": "https://www.astro4edu.org/resources/glossary/term/461/",
+          "text_ru": "Нейтрино"
+        },
+        {
+          "text": "Coronal Mass Ejection (CME)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/505/",
+          "text_ru": "Корональный выброс массы (CME)"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Sun</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The Sun is the star that is closest to the Earth. For astronomers, it is a star of type \"G2V\". This means the Sun is a main sequence star with a typical temperature (\"effective temperature\") of 5800 kelvins (K). Main sequence stars are stable, with energy released by hydrogen fusion in their core balancing the inwards force due to gravity. The Sun appears white to the human eye as it emits lots of light all across the visible spectrum. When lower in the sky, increased atmospheric extinction can make the Sun appear yellow or orange, hence its common depiction as yellow. Stars range from more than 1000 times brighter than the Sun to some 1000 times fainter, but the brighter ones are relatively rare: the Sun is brighter (and heavier) than most (perhaps some 85%) of the stars in the Galaxy.<br/><br/>For astronomers, the Sun is interesting because of its proximity, which means that the surface can be resolved in greater detail, allowing structures and phenomena to be studied. For example, detailed studies of solar activity, which is related to the Sun's magnetic fields, can include: sunspots (cooler areas), flares (short-lived bright flashes), and even coronal mass ejections (electrically charged particles flung away from the Sun). Physicists have also detected elementary particles known as neutrinos from the Sun's core; this is direct evidence for nuclear fusion processes. The element helium was first detected in the solar spectrum, hence the name helium, which comes from Helios (in Greek mythology the Sun god).</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/186/\">Main Sequence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/311/\">Solar Flare</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/345/\">Sunspot</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/440/\">Effective Temperature</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/461/\">Neutrino</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/505/\">Coronal Mass Ejection (CME)</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Солнце",
+      "body_ru": "Солнце — это звезда, ближайшая к Земле. Для астрономов это звезда типа «G2V». Это означает, что Солнце — звезда главной последовательности с типичной температурой («эффективной температурой») 5800 кельвинов (K). Звёзды главной последовательности стабильны, энергия, выделяемая при синтезе водорода в их ядре, уравновешивает внутреннюю силу гравитации. Солнце кажется человеческому глазу белым, так как оно излучает много света во всём видимом спектре. Когда Солнце находится низко над горизонтом, усиленное атмосферное поглощение может придавать ему жёлтый или оранжевый оттенок, отсюда его обычное изображение жёлтым. Звёзды варьируются от более чем в 1000 раз ярче Солнца до некоторых в 1000 раз слабее, но более яркие относительно редки: Солнце ярче (и тяжелее) большинства (возможно, около 85%) звёзд Галактики. Для астрономов Солнце интересно своей близостью, что означает, что его поверхность можно разрешить с большей детализацией, позволяя изучать структуры и явления. Например, детальные исследования солнечной активности, связанной с магнитными полями Солнца, могут включать: солнечные пятна (более холодные области), вспышки (кратковременные яркие вспышки) и даже корональные выбросы массы (электрически заряженные частицы, выбрасываемые от Солнца). Физики также обнаружили элементарные частицы, известные как нейтрино, из ядра Солнца; это прямое доказательство процессов ядерного синтеза. Элемент гелий был впервые обнаружен в солнечном спектре, отсюда название гелий, происходящее от Гелиоса (в греческой мифологии — бога Солнца)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "太陽 (external link)",
+          "url": "https://astro-dic.jp/sun/",
+          "text_ru": "Солнце (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/342/\">الشمس </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/342/\">Sonne </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/342/\">Sol </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/342/\">Soleil </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/342/\">Sole </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/sun/\">太陽 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/342/\">Sol </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/342/\">太阳 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/342/\">太陽 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/T767jt9xC36/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/N7270j86V05/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://sdo.gsfc.nasa.gov/gallery/main/item/151",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/vh39bb71Ir24/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://blogs.nasa.gov/solarcycle25/2022/03/31/mid-level-solar-flare-erupts-from-sun/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/be0q761WO41/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Y9557v73is44/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://nso.edu/telescopes/dkist/inouye-first-sunspot/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Sun&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:T767jt9xC36",
+        "media:N7270j86V05",
+        "media:vh39bb71Ir24",
+        "media:be0q761WO41",
+        "media:Y9557v73is44"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/T767jt9xC36/\"><img alt=\"The Sun, surrounded by several bright circles and arcs, over a snowy, tree-lined landscape.\" src=\"/media/multimedia/thumbnails/winter-haloes-by-thomas-gigl-germany_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Winter Haloes, by Thomas Gigl, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\n\nCaptured in Jochberg located in the famous Austrian ski-region of Tirol, this image shows multiple features related to ice halos, which are a more common appearance around the sun, due to its brightness, than the moon. External and internal reflection of sun rays from ice crystal faces and within different types of ice crystals lead to these halo related phenomena. The 22° halo encircles the sun, with two bright spots at the edge called Sundogs, Parhelia or Mock Suns observed to the left and right at the same height as the sun. The horizontal white band called the parhelic circle, named after the sun god Helios, passes through the sun and the Sundogs at the same angular elevation. An Upper tangent arc, a suncave parry arc and a lower tangent arc are also seen touching the top and bottom of the 22° halo. An upside down rainbow like arc or the circumzenithal arc is seen touching the bright supralateral arc, both of which are less frequently observed.<br/>\n<b>Credit:</b> Thomas Gigl/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/N7270j86V05/\"><img alt=\"Image showing groups of sunspots as dark patches which lie in bands above and below the Sun's equator\" src=\"/media/multimedia/thumbnails/July_spots_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sunspots</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> In this image the sun peppered with groups of sunspots over almost nine days between July and August 2012. The sunspots seen in this image have been sources of the solar flares and coronal mass ejections (CME). In this image particulary, the sun is approaching solar maximum in its cycle (solar cycle), where we see many spots forming along the suns' equator. These sunspots and activity are seen in the southern hemisphere, before then most of the activity was on the northern hemisphere.<br/>\n<b>Credit:</b> NASA/SDO/HMI\n\t  <a href=\"https://sdo.gsfc.nasa.gov/gallery/main/item/151\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/vh39bb71Ir24/\"><img alt=\"The Sun in ultraviolet appears as a circle. The flare is a bright patch in the upper right 3/4 of the way from the center\" src=\"/media/multimedia/thumbnails/March-31-M9pt7-flare_131_4k-1024x1024_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Solar flare</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the mid-level solar flare that was observed in March 2022 by the Solar Dynamic Observatory (SDO). The SDO observes the Sun activity, hence it shows the regions on the Sun where there is activity. A solar flare is brief brightening on the sun's surface, this particular flare is an M-class, which means that it is a tenth of the size of the most intense flares, namely the X-flares. Solar flares are barely visible with the naked eye, thus the SDO. The image here, is captured in extreme ultravoilet light that was colourized by red in the SDO, the flare appears in the upper of the solar disk.<br/>\n<b>Credit:</b> NASA/SDO\n\t  <a href=\"https://blogs.nasa.gov/solarcycle25/2022/03/31/mid-level-solar-flare-erupts-from-sun/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/be0q761WO41/\"><img alt=\"The Sun as red disk with bright patches and long dark strands. Several small wispy features protrude from the disk's edge\" src=\"/media/multimedia/thumbnails/h-alpha-image-of-the-suns-chromosphere_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">H-alpha image of the Sun's chromosphere</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This false-color image was captured with a 10-cm telescope at the Big Bear Solar Observatory (BBSO) in the United States in July 2002. It depicts the full disk of the Sun using the H-alpha emission line of hydrogen. When observed in this spectral line, the Sun's chromosphere appears particularly prominent due to hydrogen atoms emitting light at the specific wavelength. This emission produces a distinctive red color, making features such as spicules (jets of plasma that look hair-like) and plage (bright patches in the chromosphere) highly visible. Several small solar prominences can be seen protruding from the edge of the solar disk. When prominences (also known as filaments) cross the face of the disk they appear as dark threads caused by the cooler material in the prominence absorbing light. The chromosphere is also visible in the violet part of the solar spectrum due to ionized calcium showing emissions in these wavelengths.<br/>\n<b>Credit:</b> Big Bear Solar Observatory (BBSO)/New Jersey Institut of Technology (NJIT)\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Y9557v73is44/\"><img alt=\"A dark, roughly circular, black sunspot sends dark fingers out into the bright orange surroundings\" src=\"/media/multimedia/thumbnails/close-up-view-of-a-sunspot_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Close-up view of a sunspot</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image of a sunspot was taken by the Daniel K Inouye Solar Telescope (DKIST), operated by the U.S. National Science Foundation. It was taken only in light with a wavelength of 530 nanometers, within the greenish-yellow part of the visible spectrum. \n\nThe picture reveals the detail of the spot's structure and the Sun’s photosphere. The dark central region, known as the umbra, is surrounded by a lighter area called the penumbra with radially elongated features stretching towards the umbra. Note that the umbra and penumbra here are not the same as the umbra and penumbra that occur during an eclipse. \n\nThe sunspot measures approximately 5000 kilometres in diameter, roughly equivalent to the east-west span of China. While the umbra appears black, it is actually hot and bright. It only appears dark because it is a few thousand kelvin cooler than the surrounding solar photosphere. Surrounding the sunspot, granulation patterns of plasma are visible on the photospheric surface of the Sun. <br/>\n<b>Credit:</b> NSO/NSF/AURA\n\t  <a href=\"https://nso.edu/telescopes/dkist/inouye-first-sunspot/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Sun&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/6464Zx69Rv2/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:6464Zx69Rv2"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/6464Zx69Rv2/\"><img alt=\"The Moon lies between the Sun and Earth casts a small shadow and large partial shadow\" src=\"/media/diagrams/multimedia/thumbnails/Total_Solar_Eclipse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Total Solar Eclipse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This not to scale diagram shows what happens during a total solar eclipse. The Moon orbits the Earth, but its orbit is slightly tilted with respect to the Earth’s orbit around the Sun. During the new moon lunar phase, the Moon lies between the Earth and the Sun, but due to the Moon’s tilted orbit around the Earth, the Moon normally lies above or below the Sun at this point. However twice a year the Moon’s orbit lines up in such a way that the Moon can lie in a direct line between the Earth and Sun. During each of these periods (each of which last roughly a month) solar (and lunar) eclipses can occur. The Moon is about 400 times smaller than the Sun, but is 400 times closer to the Earth than the Sun. Hence the Sun and Moon have approximately the same angular size when viewed from the Earth. This means that it is possible for the Moon to completely cover the Sun when viewed from Earth. This is known as a total solar eclipse. \n\nHere we see a schematic of such and eclipse. The Moon casts a shadow on the Earth known as the umbra. This is a roughly circular shadow a few hundred kilometres across although its shape can be severely distorted when the eclipse is at the edge of the illuminated part of the Earth. Any region within the umbra will see the Moon completely cover the Sun and thus will experience a total solar eclipse. Outside of the umbra there are regions where the Moon will cover part of the Sun. This partial shadow is known as the penumbra. Regions in the penumbra will experience a partial solar eclipse.\n\nAn eclipse is a dynamic event with the Moon moving in its orbit and the Earth rotating. Hence the umbra and penumbra move across the Earth’s surface together. The path the umbra takes across the Earth is known as the path of totality. Let’s consider one particular region that lies in the path of totality: except in rare cases where an eclipse begins at sunrise, a region that experiences totality will first see the Moon cover part of the Sun and gradually move across Sun until it is totally covered. From outside the Earth this would appear as the penumbra moving over this particular region followed by the umbra moving over this region. Once the Moon moves so that it no longer completely covers the Sun, totality ends and the umbra moves away from this particular region. The Moon will continue to uncover the Sun until (unless the Sun sets before the end of the eclipse) the Sun is completely uncovered. From outside the Earth this would appear as the umbra moving away from our particular region and the edge of the penumbra approaching and eventually passing over the region. \n\nOutside of the path or totality there is a much broader region that will lie in the penumbra but will be missed by the umbra. Such regions will not experience a total solar eclipse during this event, only a partial solar eclipse.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Measure the Solar Diameter astroEDU educational activity (links to astroEDU website) Description: Hands-on activity to measure the Sun by using household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Scales \n  \n  , Observing \n  \n  , Measurement Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Middle School Areas of Learning: Structured-inquiry learning Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking Counting Sunspots astroEDU educational activity (links to astroEDU website) Description: Counting the Sunspots using real solar images and data. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Sunspots \n  \n  , Data analysis Age Ranges: 16-19 Areas of Learning: Observation based Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking Meet Our Neighbours: Sun astroEDU educational activity (links to astroEDU website) Description: Explore the tactile version of our star; the Sun with household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Sunspots \n  \n  , Visually Impaired \n  \n  , Tactile Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models Build a Safe Sun Viewer astroEDU educational activity (links to astroEDU website) Description: Build a safe Sun viewer using cheap household items and learn why it is dangerous to look directly at the Sun, even briefly. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Safety Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Observation based Costs: Low Cost Group Size: Group Skills: Planning and carrying out investigations Solar System Model astroEDU educational activity (links to astroEDU website) Description: Make a model of the Solar System planets using household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Planets Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Pre-school \n  \n, Primary Areas of Learning: Modelling Costs: Low Cost Duration: 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Sun&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/measure-the-solar-diameter/\"><img alt=\"Measure the Solar Diameter\" src=\"/media/astroedu/images/measure-the-solar-diameter_en_thumbnail_w7nXUkh.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/measure-the-solar-diameter/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Measure the Solar Diameter</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Hands-on activity to measure the Sun by using household materials.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Scales \n  \n  , Observing \n  \n  , Measurement \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/counting-sunspots/\"><img alt=\"Counting Sunspots\" src=\"/media/astroedu/images/counting-sunspots_en_thumbnail_rHLYzUP.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/counting-sunspots/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Counting Sunspots</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Counting the Sunspots using real solar images and data.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Sunspots \n  \n  , Data analysis \n  \n<b>Age Ranges:</b>\n\n16-19 \n  \n<b>Areas of Learning:</b>\n\nObservation based \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-sun/\"><img alt=\"Meet Our Neighbours: Sun\" src=\"/media/astroedu/images/meet-our-neighbours-sun_en_thumbnail_Tzoh3id.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-sun/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Meet Our Neighbours: Sun</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore the tactile version of our star; the Sun with household materials.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n  , Sunspots \n  \n  , Visually Impaired \n  \n  , Tactile \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/build-a-safe-sun-viewer/\"><img alt=\"Build a Safe Sun Viewer\" src=\"/media/astroedu/images/build-a-safe-sun-viewer_en_thumbnail_edEsfbW.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/build-a-safe-sun-viewer/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Build a Safe Sun Viewer</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a safe Sun viewer using cheap household items and learn why it is dangerous to look directly at the Sun, even briefly.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Safety \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Observation based \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nPlanning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/solar-system-model/\"><img alt=\"Solar System Model\" src=\"/media/astroedu/images/solar-system-model_en_thumbnail_liEn8EB.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/solar-system-model/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Solar System Model</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Make a model of the Solar System planets using household materials.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n  , Planets \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPre-school \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Sun&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Измерение диаметра Солнца образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Практическое занятие по измерению Солнца с использованием подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Масштабы \n  \n  , Наблюдение \n  \n  , Измерение Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Средняя школа Области обучения: Структурированное исследовательское обучение Затраты: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений \n  \n, Использование математики и вычислительного мышления Подсчёт солнечных пятен образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Подсчёт солнечных пятен с использованием реальных солнечных изображений и данных. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Солнечные пятна \n  \n  , Анализ данных Возрастные диапазоны: 16-19 Области обучения: На основе наблюдений Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Построение объяснений \n  \n, Использование математики и вычислительного мышления Познакомьтесь с нашими соседями: Солнце образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте тактильную версию нашей звезды; Солнца с помощью подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Модель \n  \n  , Солнечные пятна \n  \n  , Слабовидящие \n  \n  , Тактильное Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная школа \n  \n, Среднее образование Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей Создайте безопасный солнечный наблюдатель образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте безопасный солнечный наблюдатель из дешёвых подручных предметов и узнайте, почему опасно смотреть прямо на Солнце, даже кратковременно. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Безопасность Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальная школа \n  \n, Среднее образование Области обучения: Моделирование \n  \n, На основе наблюдений Затраты: Низкая стоимость Размер группы: Группа Навыки: Планирование и проведение исследований Модель Солнечной системы образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте модель планет Солнечной системы с использованием подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Модель \n  \n  , Планеты Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Дошкольное \n  \n, Начальная школа Области обучения: Моделирование Затраты: Низкая стоимость Продолжительность: 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Просмотреть все мероприятия по этой теме"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Sun",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Sun",
+          "body": "The Sun is the star that is closest to the Earth. For astronomers, it is a star of type \"G2V\". This means the Sun is a main sequence star with a typical temperature (\"effective temperature\") of 5800 kelvins (K). Main sequence stars are stable, with energy released by hydrogen fusion in their core balancing the inwards force due to gravity. The Sun appears white to the human eye as it emits lots of light all across the visible spectrum. When lower in the sky, increased atmospheric extinction can make the Sun appear yellow or orange, hence its common depiction as yellow. Stars range from more than 1000 times brighter than the Sun to some 1000 times fainter, but the brighter ones are relatively rare: the Sun is brighter (and heavier) than most (perhaps some 85%) of the stars in the Galaxy. For astronomers, the Sun is interesting because of its proximity, which means that the surface can be resolved in greater detail, allowing structures and phenomena to be studied. For example, detailed studies of solar activity, which is related to the Sun's magnetic fields, can include: sunspots (cooler areas), flares (short-lived bright flashes), and even coronal mass ejections (electrically charged particles flung away from the Sun). Physicists have also detected elementary particles known as neutrinos from the Sun's core; this is direct evidence for nuclear fusion processes. The element helium was first detected in the solar spectrum, hence the name helium, which comes from Helios (in Greek mythology the Sun god)."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Measure the Solar Diameter astroEDU educational activity (links to astroEDU website) Description: Hands-on activity to measure the Sun by using household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Scales \n  \n  , Observing \n  \n  , Measurement Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Middle School Areas of Learning: Structured-inquiry learning Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking Counting Sunspots astroEDU educational activity (links to astroEDU website) Description: Counting the Sunspots using real solar images and data. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Sunspots \n  \n  , Data analysis Age Ranges: 16-19 Areas of Learning: Observation based Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking Meet Our Neighbours: Sun astroEDU educational activity (links to astroEDU website) Description: Explore the tactile version of our star; the Sun with household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Sunspots \n  \n  , Visually Impaired \n  \n  , Tactile Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models Build a Safe Sun Viewer astroEDU educational activity (links to astroEDU website) Description: Build a safe Sun viewer using cheap household items and learn why it is dangerous to look directly at the Sun, even briefly. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Safety Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Observation based Costs: Low Cost Group Size: Group Skills: Planning and carrying out investigations Solar System Model astroEDU educational activity (links to astroEDU website) Description: Make a model of the Solar System planets using household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Planets Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Pre-school \n  \n, Primary Areas of Learning: Modelling Costs: Low Cost Duration: 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Солнце",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Солнце",
+          "body": "Солнце — это звезда, ближайшая к Земле. Для астрономов это звезда типа «G2V». Это означает, что Солнце — звезда главной последовательности с типичной температурой («эффективной температурой») 5800 кельвинов (K). Звёзды главной последовательности стабильны, энергия, выделяемая при синтезе водорода в их ядре, уравновешивает внутреннюю силу гравитации. Солнце кажется человеческому глазу белым, так как оно излучает много света во всём видимом спектре. Когда Солнце находится низко над горизонтом, усиленное атмосферное поглощение может придавать ему жёлтый или оранжевый оттенок, отсюда его обычное изображение жёлтым. Звёзды варьируются от более чем в 1000 раз ярче Солнца до некоторых в 1000 раз слабее, но более яркие относительно редки: Солнце ярче (и тяжелее) большинства (возможно, около 85%) звёзд Галактики. Для астрономов Солнце интересно своей близостью, что означает, что его поверхность можно разрешить с большей детализацией, позволяя изучать структуры и явления. Например, детальные исследования солнечной активности, связанной с магнитными полями Солнца, могут включать: солнечные пятна (более холодные области), вспышки (кратковременные яркие вспышки) и даже корональные выбросы массы (электрически заряженные частицы, выбрасываемые от Солнца). Физики также обнаружили элементарные частицы, известные как нейтрино, из ядра Солнца; это прямое доказательство процессов ядерного синтеза. Элемент гелий был впервые обнаружен в солнечном спектре, отсюда название гелий, происходящее от Гелиоса (в греческой мифологии — бога Солнца)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Измерение диаметра Солнца образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Практическое занятие по измерению Солнца с использованием подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Масштабы \n  \n  , Наблюдение \n  \n  , Измерение Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Средняя школа Области обучения: Структурированное исследовательское обучение Затраты: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений \n  \n, Использование математики и вычислительного мышления Подсчёт солнечных пятен образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Подсчёт солнечных пятен с использованием реальных солнечных изображений и данных. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Солнечные пятна \n  \n  , Анализ данных Возрастные диапазоны: 16-19 Области обучения: На основе наблюдений Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Построение объяснений \n  \n, Использование математики и вычислительного мышления Познакомьтесь с нашими соседями: Солнце образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте тактильную версию нашей звезды; Солнца с помощью подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Модель \n  \n  , Солнечные пятна \n  \n  , Слабовидящие \n  \n  , Тактильное Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная школа \n  \n, Среднее образование Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей Создайте безопасный солнечный наблюдатель образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте безопасный солнечный наблюдатель из дешёвых подручных предметов и узнайте, почему опасно смотреть прямо на Солнце, даже кратковременно. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Безопасность Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальная школа \n  \n, Среднее образование Области обучения: Моделирование \n  \n, На основе наблюдений Затраты: Низкая стоимость Размер группы: Группа Навыки: Планирование и проведение исследований Модель Солнечной системы образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте модель планет Солнечной системы с использованием подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Модель \n  \n  , Планеты Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Дошкольное \n  \n, Начальная школа Области обучения: Моделирование Затраты: Низкая стоимость Продолжительность: 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Просмотреть все мероприятия по этой теме"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:T767jt9xC36",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5418795/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Sun%20and%20Moon%20haloes%3A%20Winter%20Haloes%2C%20by%20Thomas%20Gigl%2C%20Germany.jpg",
+      "record_url": "https://astro4edu.org/resources/media/T767jt9xC36/",
+      "original_path": "data/media/original/media_T767jt9xC36.jpg",
+      "ru_path": null,
+      "sha256": "a819042acd995b23e0ece947075b45bdbc14581cf92dca55d7d9951741190942",
+      "size": 10364722,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This image shows multiple features related to ice halos, which are a more common appearance around the sun, due to its brightness, than the moon.",
+      "short_caption_ru": "Это изображение показывает множество особенностей, связанных с ледяными гало, которые чаще встречаются вокруг Солнца, благодаря его яркости, чем вокруг Луны.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Sun/Moon haloes.\r\n\r\nCaptured in Jochberg located in the famous Austrian ski-region of Tirol, this image shows multiple features related to ice halos, which are a more common appearance around the sun, due to its brightness, than the moon. External and internal reflection of sun rays from ice crystal faces and within different types of ice crystals lead to these halo related phenomena. The 22° halo encircles the sun, with two bright spots at the edge called Sundogs, Parhelia or Mock Suns observed to the left and right at the same height as the sun. The horizontal white band called the parhelic circle, named after the sun god Helios, passes through the sun and the Sundogs at the same angular elevation. An Upper tangent arc, a suncave parry arc and a lower tangent arc are also seen touching the top and bottom of the 22° halo. An upside down rainbow like arc or the circumzenithal arc is seen touching the bright supralateral arc, both of which are less frequently observed.",
+      "caption_ru": "Второе место в конкурсе астрофотографии IAU OAE 2021, категория гало Солнца/Луны.\r\n\r\nСнятое в Йохберге, расположенном в известном австрийском горнолыжном регионе Тироль, это изображение показывает множество особенностей, связанных с ледяными гало, которые чаще встречаются вокруг Солнца, благодаря его яркости, чем вокруг Луны. Внешнее и внутреннее отражение солнечных лучей от граней ледяных кристаллов и внутри различных типов ледяных кристаллов приводят к этим явлениям, связанным с гало. Гало 22° окружает Солнце, с двумя яркими пятнами на краю, называемыми солнечными собаками, паргелиями или ложными солнцами, наблюдаемыми слева и справа на той же высоте, что и Солнце. Горизонтальная белая полоса, называемая паргелическим кругом, названная в честь бога Солнца Гелиоса, проходит через Солнце и солнечных собак на одинаковом угловом возвышении. Верхняя касательная дуга, вогнутая к Солнцу дуга Парри и нижняя касательная дуга также видны, касаясь верхней и нижней части гало 22°. Перевёрнутая радугоподобная дуга или циркумзенитальная дуга видна, касаясь яркой надбоковой дуги, обе из которых наблюдаются реже.",
+      "alt_en": "The Sun, surrounded by several bright circles and arcs, over a snowy, tree-lined landscape.",
+      "alt_ru": "Солнце, окружённое несколькими яркими кругами и дугами, над заснеженным пейзажем с деревьями.",
+      "credit": "Thomas Gigl/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        342,
+        448
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:N7270j86V05",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/July_spots.jpg",
+      "record_url": "https://astro4edu.org/resources/media/N7270j86V05/",
+      "original_path": "data/media/original/media_N7270j86V05.jpg",
+      "ru_path": null,
+      "sha256": "312ffcc91299c1cb116150565df1ad5d6d466717e77e6d0c60240cdaf448aa6c",
+      "size": 153318,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Sunspots",
+      "short_caption_ru": "Солнечные пятна",
+      "caption_en": "In this image the sun peppered with groups of sunspots over almost nine days between July and August 2012. The sunspots seen in this image have been sources of the solar flares and coronal mass ejections (CME). In this image particulary, the sun is approaching solar maximum in its cycle (solar cycle), where we see many spots forming along the suns' equator. These sunspots and activity are seen in the southern hemisphere, before then most of the activity was on the northern hemisphere.",
+      "caption_ru": "На этом изображении Солнце усеяно группами солнечных пятен на протяжении почти девяти дней между июлем и августом 2012. Солнечные пятна, видимые на этом изображении, были источниками солнечных вспышек и корональных выбросов массы (КВМ). В частности, на этом изображении Солнце приближается к солнечному максимуму своего цикла (солнечного цикла), когда мы видим множество пятен, образующихся вдоль экватора Солнца. Эти солнечные пятна и активность видны в южном полушарии, тогда как до этого большая часть активности была в северном полушарии.",
+      "alt_en": "Image showing groups of sunspots as dark patches which lie in bands above and below the Sun's equator",
+      "alt_ru": "Изображение, показывающее группы солнечных пятен в виде тёмных участков, которые располагаются полосами выше и ниже экватора Солнца",
+      "credit": "NASA/SDO/HMI",
+      "credit_url": "https://sdo.gsfc.nasa.gov/gallery/main/item/151",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        342,
+        345,
+        479
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:vh39bb71Ir24",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/March-31-M9pt7-flare_131_4k-1024x1024.jpg",
+      "record_url": "https://astro4edu.org/resources/media/vh39bb71Ir24/",
+      "original_path": "data/media/original/media_vh39bb71Ir24.jpg",
+      "ru_path": null,
+      "sha256": "1f28e1c171825a063f101a35265442196919186dedc34c209099c7534a804db8",
+      "size": 83144,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A mid-level solar flare observed by the Solar Dynamic Observatory (SDO)",
+      "short_caption_ru": "Солнечная вспышка среднего уровня, наблюдаемая Обсерваторией солнечной динамики (SDO)",
+      "caption_en": "This image shows the mid-level solar flare that was observed in March 2022 by the Solar Dynamic Observatory (SDO). The SDO observes the Sun activity, hence it shows the regions on the Sun where there is activity. A solar flare is brief brightening on the sun's surface, this particular flare is an M-class, which means that it is a tenth of the size of the most intense flares, namely the X-flares. Solar flares are barely visible with the naked eye, thus the SDO. The image here, is captured in extreme ultravoilet light that was colourized by red in the SDO, the flare appears in the upper of the solar disk.",
+      "caption_ru": "На этом изображении показана солнечная вспышка среднего уровня, наблюдавшаяся в марте 2022 года Обсерваторией солнечной динамики (SDO). SDO наблюдает за активностью Солнца, поэтому показывает области на Солнце, где наблюдается активность. Солнечная вспышка — это кратковременное яркое свечение на поверхности Солнца; эта конкретная вспышка относится к классу M, что означает, что она составляет одну десятую размера самых интенсивных вспышек, а именно вспышек класса X. Солнечные вспышки едва видны невооружённым глазом, поэтому используется SDO. Изображение здесь получено в экстремальном ультрафиолетовом свете, который в SDO был окрашен в красный цвет; вспышка видна в верхней части солнечного диска.",
+      "alt_en": "The Sun in ultraviolet appears as a circle. The flare is a bright patch in the upper right 3/4 of the way from the center",
+      "alt_ru": "Солнце в ультрафиолете выглядит как круг. Вспышка — это яркое пятно в верхней правой части 3/4 пути от центра",
+      "credit": "NASA/SDO",
+      "credit_url": "https://blogs.nasa.gov/solarcycle25/2022/03/31/mid-level-solar-flare-erupts-from-sun/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        311,
+        342,
+        479
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:be0q761WO41",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/h-alpha-image-of-the-suns-chromosphere.png",
+      "record_url": "https://astro4edu.org/resources/media/be0q761WO41/",
+      "original_path": "data/media/original/media_be0q761WO41.png",
+      "ru_path": null,
+      "sha256": "8e7f8899864830186451154aba974a01c733ade743b232c7d7fbe0f43c893a33",
+      "size": 2821426,
+      "title_en": "H-alpha image of the Sun's chromosphere",
+      "title_ru": "Изображение хромосферы Солнца в линии H-alpha",
+      "short_caption_en": "H-alpha image of the Sun's chromosphere",
+      "short_caption_ru": "Изображение хромосферы Солнца в линии H-alpha",
+      "caption_en": "This false-color image was captured with a 10-cm telescope at the Big Bear Solar Observatory (BBSO) in the United States in July 2002. It depicts the full disk of the Sun using the H-alpha emission line of hydrogen. When observed in this spectral line, the Sun's chromosphere appears particularly prominent due to hydrogen atoms emitting light at the specific wavelength. This emission produces a distinctive red color, making features such as spicules (jets of plasma that look hair-like) and plage (bright patches in the chromosphere) highly visible. Several small solar prominences can be seen protruding from the edge of the solar disk. When prominences (also known as filaments) cross the face of the disk they appear as dark threads caused by the cooler material in the prominence absorbing light. The chromosphere is also visible in the violet part of the solar spectrum due to ionized calcium showing emissions in these wavelengths.",
+      "caption_ru": "Это изображение в ложных цветах было получено с помощью телескопа диаметром 10 см в Солнечной обсерватории Биг-Бэр (BBSO) в США в июле 2002. На нём изображён полный диск Солнца в линии излучения водорода H-alpha. При наблюдении в этой спектральной линии хромосфера Солнца выглядит особенно отчётливо благодаря тому, что атомы водорода излучают свет на определённой длине волны. Это излучение придаёт характерный красный цвет, делая хорошо видимыми такие образования, как спикулы (похожие на волоски струи плазмы) и факелы (яркие пятна в хромосфере). По краю солнечного диска можно увидеть несколько небольших солнечных протуберанцев. Когда протуберанцы (также известные как волокна) пересекают диск, они выглядят как тёмные нити из-за того, что более холодное вещество протуберанца поглощает свет. Хромосфера также видна в фиолетовой части солнечного спектра благодаря ионизированному кальцию, излучающему на этих длинах волн.",
+      "alt_en": "The Sun as red disk with bright patches and long dark strands. Several small wispy features protrude from the disk's edge",
+      "alt_ru": "Солнце в виде красного диска с яркими пятнами и длинными тёмными волокнами. Несколько небольших тонких образований выступают за край диска",
+      "credit": "Big Bear Solar Observatory (BBSO)/New Jersey Institut of Technology (NJIT)",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        55,
+        313,
+        342,
+        514
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Y9557v73is44",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/close-up-view-of-a-sunspot.png",
+      "record_url": "https://astro4edu.org/resources/media/Y9557v73is44/",
+      "original_path": "data/media/original/media_Y9557v73is44.png",
+      "ru_path": null,
+      "sha256": "3787a914a4db203c892b6b941c858fa8d1e8dd94d2029dade7659038975a7818",
+      "size": 5225698,
+      "title_en": "Close-up view of a sunspot",
+      "title_ru": "Крупный план солнечного пятна",
+      "short_caption_en": "Close-up view of a sunspot",
+      "short_caption_ru": "Крупный план солнечного пятна",
+      "caption_en": "This image of a sunspot was taken by the Daniel K Inouye Solar Telescope (DKIST), operated by the U.S. National Science Foundation. It was taken only in light with a wavelength of 530 nanometers, within the greenish-yellow part of the visible spectrum. \r\n\r\nThe picture reveals the detail of the spot's structure and the Sun’s photosphere. The dark central region, known as the umbra, is surrounded by a lighter area called the penumbra with radially elongated features stretching towards the umbra. Note that the umbra and penumbra here are not the same as the umbra and penumbra that occur during an eclipse. \r\n\r\nThe sunspot measures approximately 5000 kilometres in diameter, roughly equivalent to the east-west span of China. While the umbra appears black, it is actually hot and bright. It only appears dark because it is a few thousand kelvin cooler than the surrounding solar photosphere. Surrounding the sunspot, granulation patterns of plasma are visible on the photospheric surface of the Sun. ",
+      "caption_ru": "Это изображение солнечного пятна было получено солнечным телескопом Дэниела К. Иноуэ (DKIST), управляемым Национальным научным фондом США. Оно было получено только в свете с длиной волны 530 нанометров, в зеленовато-жёлтой части видимого спектра.\n\nИзображение раскрывает детали структуры пятна и фотосферы Солнца. Тёмная центральная область, известная как тень (умбра), окружена более светлой областью, называемой полутенью (пенумбра), с радиально вытянутыми образованиями, простирающимися к тени. Обратите внимание, что тень и полутень здесь — это не то же самое, что тень и полутень, возникающие во время затмения.\n\nДиаметр солнечного пятна составляет примерно 5000 километров, что примерно соответствует протяжённости Китая с востока на запад. Хотя тень кажется чёрной, на самом деле она горячая и яркая. Она кажется тёмной только потому, что она на несколько тысяч кельвинов холоднее окружающей солнечной фотосферы. Вокруг солнечного пятна на фотосферной поверхности Солнца видны грануляционные структуры плазмы.",
+      "alt_en": "A dark, roughly circular, black sunspot sends dark fingers out into the bright orange surroundings",
+      "alt_ru": "Тёмное, почти круглое чёрное солнечное пятно выпускает тёмные пальцы в яркое оранжевое окружение",
+      "credit": "NSO/NSF/AURA",
+      "credit_url": "https://nso.edu/telescopes/dkist/inouye-first-sunspot/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        251,
+        342,
+        345,
+        446
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:sL63JE126671",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/a-coronal-mass-ejection.png",
+      "record_url": "https://astro4edu.org/resources/media/sL63JE126671/",
+      "original_path": "data/media/original/media_sL63JE126671.png",
+      "ru_path": null,
+      "sha256": "dbe6d8df50b56392972ed6716bd9d6e52befa6c25a9ba5d3a53354790814b3ed",
+      "size": 596217,
+      "title_en": "A Coronal Mass Ejection",
+      "title_ru": "Корональный выброс массы",
+      "short_caption_en": "A Coronal Mass Ejection",
+      "short_caption_ru": "Корональный выброс массы",
+      "caption_en": "A burst of solar material can be seen erupting from the Sun in this view, illustrating a coronal mass ejection (CME)—a large eruption of plasma and magnetic field from the Sun’s outer atmosphere, or corona. These CMEs are caused by magnetic explosions in the Sun's corona. During a CME, huge amounts of electrically charged particles are launched into space at great speeds, carrying part of the Sun’s magnetic field with them. These events are driven by changes in the Sun’s magnetic structure and release vast clouds of hot gas that travel outward into the solar system. When a CME moves through space, it can interact with a planet’s magnetic field and atmosphere, sometimes creating spectacular auroras or, in strong cases, interfering with artificial satellites and power systems. \r\n\r\nCMEs are often associated with a temporary brightening of the region of the Sun where the CME originated. This is known as a solar flare. Stars other than the Sun can also have CMEs and flares.\r\n\r\nThis image was taken by NASA's Solar Dynamics Observatory (SDO). This is a space mission to monitor the Sun. The image here is taken at a special wavelength which partially ionised helium emits strongly at.",
+      "caption_ru": "На этом снимке видно, как из Солнца вырывается всплеск солнечного материала, что иллюстрирует корональный выброс массы (КВМ) — крупное извержение плазмы и магнитного поля из внешней атмосферы Солнца, или короны. Эти КВМ вызваны магнитными взрывами в короне Солнца. Во время КВМ огромные количества электрически заряженных частиц выбрасываются в космос с огромными скоростями, унося с собой часть магнитного поля Солнца. Эти события обусловлены изменениями в магнитной структуре Солнца и высвобождают огромные облака горячего газа, которые распространяются наружу в Солнечную систему. Когда КВМ движется в космосе, он может взаимодействовать с магнитным полем и атмосферой планеты, иногда создавая впечатляющие полярные сияния или, в сильных случаях, нарушая работу искусственных спутников и энергосистем. \r\n\r\nКВМ часто связаны с временным усилением яркости области Солнца, где возник КВМ. Это явление известно как солнечная вспышка. Звёзды, отличные от Солнца, также могут иметь КВМ и вспышки.\r\n\r\nЭто изображение было получено Обсерваторией солнечной динамики (SDO) НАСА. Это космическая миссия по мониторингу Солнца. Представленное здесь изображение получено на специальной длине волны, на которой сильно излучает частично ионизированный гелий.",
+      "alt_en": "Two bright arcs of material, two halves of a broken loop, project outwards from a section of the Sun.",
+      "alt_ru": "Две яркие дуги материала, две половины разорванной петли, выступают наружу из участка Солнца.",
+      "credit": "NASA/Goddard/SDO",
+      "credit_url": "https://images.nasa.gov/details/cme-blow-out_18529951894_o",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        342,
+        505
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:6464Zx69Rv2",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Total_Solar_Eclipse.png",
+      "record_url": "https://astro4edu.org/resources/diagram/6464Zx69Rv2/",
+      "original_path": "data/media/original/diagram_6464Zx69Rv2.png",
+      "ru_path": "data/media/ru/diagram_6464Zx69Rv2.png",
+      "sha256": "1dfdabbe7616027e5fd98a9a9614c794939c996fe8ba0fb9e0bc8133c4208656",
+      "size": 2063193,
+      "title_en": "Total Solar Eclipse",
+      "title_ru": "Полное солнечное затмение",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This not to scale diagram shows what happens during a total solar eclipse. The Moon orbits the Earth, but its orbit is slightly tilted with respect to the Earth’s orbit around the Sun. During the new moon lunar phase, the Moon lies between the Earth and the Sun, but due to the Moon’s tilted orbit around the Earth, the Moon normally lies above or below the Sun at this point. However twice a year the Moon’s orbit lines up in such a way that the Moon can lie in a direct line between the Earth and Sun. During each of these periods (each of which last roughly a month) solar (and lunar) eclipses can occur. The Moon is about 400 times smaller than the Sun, but is 400 times closer to the Earth than the Sun. Hence the Sun and Moon have approximately the same angular size when viewed from the Earth. This means that it is possible for the Moon to completely cover the Sun when viewed from Earth. This is known as a total solar eclipse. \r\n\r\nHere we see a schematic of such and eclipse. The Moon casts a shadow on the Earth known as the umbra. This is a roughly circular shadow a few hundred kilometres across although its shape can be severely distorted when the eclipse is at the edge of the illuminated part of the Earth. Any region within the umbra will see the Moon completely cover the Sun and thus will experience a total solar eclipse. Outside of the umbra there are regions where the Moon will cover part of the Sun. This partial shadow is known as the penumbra. Regions in the penumbra will experience a partial solar eclipse.\r\n\r\nAn eclipse is a dynamic event with the Moon moving in its orbit and the Earth rotating. Hence the umbra and penumbra move across the Earth’s surface together. The path the umbra takes across the Earth is known as the path of totality. Let’s consider one particular region that lies in the path of totality: except in rare cases where an eclipse begins at sunrise, a region that experiences totality will first see the Moon cover part of the Sun and gradually move across Sun until it is totally covered. From outside the Earth this would appear as the penumbra moving over this particular region followed by the umbra moving over this region. Once the Moon moves so that it no longer completely covers the Sun, totality ends and the umbra moves away from this particular region. The Moon will continue to uncover the Sun until (unless the Sun sets before the end of the eclipse) the Sun is completely uncovered. From outside the Earth this would appear as the umbra moving away from our particular region and the edge of the penumbra approaching and eventually passing over the region. \r\n\r\nOutside of the path or totality there is a much broader region that will lie in the penumbra but will be missed by the umbra. Such regions will not experience a total solar eclipse during this event, only a partial solar eclipse.",
+      "caption_ru": "Эта схема (не в масштабе) показывает, что происходит во время полного солнечного затмения. Луна обращается вокруг Земли, но её орбита слегка наклонена по отношению к орбите Земли вокруг Солнца. В фазе новолуния Луна находится между Землёй и Солнцем, но из-за наклонной орбиты Луны вокруг Земли в этот момент Луна обычно находится выше или ниже Солнца. Однако дважды в год орбита Луны выстраивается таким образом, что Луна может оказаться на прямой линии между Землёй и Солнцем. В каждый из этих периодов (каждый длится примерно месяц) могут происходить солнечные (и лунные) затмения. Луна примерно в 400 раз меньше Солнца, но в 400 раз ближе к Земле, чем Солнце. Поэтому Солнце и Луна имеют примерно одинаковый угловой размер при наблюдении с Земли. Это означает, что Луна может полностью закрыть Солнце при наблюдении с Земли. Это называется полным солнечным затмением.\r\n\r\nЗдесь мы видим схему такого затмения. Луна отбрасывает на Землю тень, называемую умброй. Это примерно круглая тень диаметром в несколько сотен километров, хотя её форма может сильно искажаться, когда затмение происходит на краю освещённой части Земли. Любая область внутри умбры увидит, как Луна полностью закрывает Солнце, и, таким образом, испытает полное солнечное затмение. Вне умбры есть области, где Луна закроет часть Солнца. Эта частичная тень называется полутенью. Области в полутени испытают частное солнечное затмение.\r\n\r\nЗатмение — это динамическое событие: Луна движется по своей орбите, а Земля вращается. Поэтому умбра и полутень перемещаются по поверхности Земли вместе. Путь, который умбра проходит по Земле, называется полосой полного затмения. Рассмотрим одну конкретную область, лежащую в полосе полного затмения: за исключением редких случаев, когда затмение начинается на восходе Солнца, область, испытывающая полную фазу, сначала увидит, как Луна закрывает часть Солнца и постепенно перемещается по Солнцу, пока оно не будет полностью закрыто. С точки вне Земли это выглядело бы как перемещение полутени по этой конкретной области, а затем умбры по этой области. Как только Луна переместится так, что больше не будет полностью закрывать Солнце, полная фаза заканчивается, и умбра уходит из этой конкретной области. Луна будет продолжать открывать Солнце, пока (если Солнце не зайдёт до окончания затмения) Солнце не откроется полностью. С точки вне Земли это выглядело бы как удаление умбры от нашей конкретной области и приближение края полутени, которая в конечном итоге пройдёт над областью.\r\n\r\nВне полосы полного затмения есть гораздо более широкая область, которая будет находиться в полутени, но не будет затронута умброй. Такие области не испытают полного солнечного затмения во время этого события, только частное солнечное затмение.",
+      "alt_en": "The Moon lies between the Sun and Earth casts a small shadow and large partial shadow",
+      "alt_ru": "Луна находится между Солнцем и Землёй, отбрасывая небольшую тень и большую частичную тень",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        182,
+        203,
+        215,
+        240,
+        243,
+        310,
+        342,
+        365,
+        372
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "d6b95600091f361aa85163bca12eddeba7613faf754562a01c1a81ea6e0a5e26"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

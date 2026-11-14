@@ -1,0 +1,181 @@
+{
+  "id": "term:320",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 320,
+    "url": "https://astro4edu.org/resources/glossary/term/320/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=320",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:51.133700+00:00",
+    "sha256": "8b13857457b7f7f0887bcb0af9e056eb9597d0a71568a23a3a3ef62211f053c8"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Space Exploration"
+    ],
+    "category_ids": [
+      10
+    ],
+    "categories_ru": [
+      "Исследование космоса"
+    ],
+    "related_term_numbers": [
+      293,
+      324
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Space Debris",
+      "body": "Space debris or space junk is the term for artificial objects, or the remnants of such objects, which orbit Earth but serve no useful function. Examples are decommissioned or faulty satellites, broken pieces resulting from the collision of satellites, or upper stages of rockets that were used in the launch of spacecraft or satellites and discarded after having fulfilled their purpose. The more space debris there is, the greater the chance of damaging collisions as a serious hazard for spacecraft. In consequence, space agencies are discussing, and have begun to test, ways of removing space debris, and are making an effort to plan missions so that objects that have fulfilled their purpose are made to re-enter, and burn up in, Earth's atmosphere.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Artificial Satellite",
+          "url": "https://www.astro4edu.org/resources/glossary/term/293/",
+          "text_ru": "Искусственный спутник"
+        },
+        {
+          "text": "Spacecraft",
+          "url": "https://www.astro4edu.org/resources/glossary/term/324/",
+          "text_ru": "Космический аппарат"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Space Debris</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Space debris or space junk is the term for artificial objects, or the remnants of such objects, which orbit Earth but serve no useful function. Examples are decommissioned or faulty satellites, broken pieces resulting from the collision of satellites, or upper stages of rockets that were used in the launch of spacecraft or satellites and discarded after having fulfilled their purpose. The more space debris there is, the greater the chance of damaging collisions as a serious hazard for spacecraft. In consequence, space agencies are discussing, and have begun to test, ways of removing space debris, and are making an effort to plan missions so that objects that have fulfilled their purpose are made to re-enter, and burn up in, Earth's atmosphere.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/293/\">Artificial Satellite</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/324/\">Spacecraft</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Космический мусор",
+      "body_ru": "Космический мусор, или космический хлам, — это термин для искусственных объектов или остатков таких объектов, которые обращаются вокруг Земли, но не выполняют никакой полезной функции. Примеры: выведенные из эксплуатации или неисправные спутники, обломки, возникшие в результате столкновения спутников, или верхние ступени ракет, которые использовались при запуске космических аппаратов или спутников и были отброшены после выполнения своей задачи. Чем больше космического мусора, тем выше вероятность опасных столкновений, представляющих серьёзную угрозу для космических аппаратов. Вследствие этого космические агентства обсуждают и начали испытывать способы удаления космического мусора, а также прилагают усилия к планированию миссий таким образом, чтобы объекты, выполнившие свою задачу, входили в атмосферу Земли и сгорали в ней."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/320/\">الحطام الفضائي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/320/\">Weltraummüll </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/320/\">Basura espacial </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/320/\">Débris spatiaux </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/320/\">Detriti spaziali </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/320/\">Detritos espaciais </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/320/\">太空碎片 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/320/\">太空碎片 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zu33xi40X922/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://svs.gsfc.nasa.gov/5258/",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:zu33xi40X922"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zu33xi40X922/\"><img alt=\"The Earth surrounded by a swarm of green and orange points. Further out is a thin ring of green and orange points.\" src=\"/media/multimedia/thumbnails/space-debris-orbiting-the-earth_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Space debris orbiting the Earth</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This animation shows objects orbiting the Earth. The data date from February 2024 and are taken from space-track.org which maintains a public catalogue of objects tracked by the United States Space Command (USSPACECOM).\n\nAt first in this video we see green dots, each representing one of the 31,000 human-made objects orbiting Earth. These include both operational and decommissioned satellites, used rocket stages from space launches, and fragments larger than 10cm created by collisions or explosions. Later in the video, some of the green dots are replace by orange dots, each of these representing one of the 9,300 operational satellites orbiting the Earth. Note that since February 2024 more satellites and rockets have been launched in to space and some objects will have fallen back to Earth, so these numbers will have changed.\n\nWe see two main groups of objects. The first are those objects orbiting close to the Earth, objects in low Earth orbit. These include communication satellites (many from the satellite constellations used to provide satellite internet services), Earth observation satellites, military satellites, two operational space stations and other objects such as rocket stages and other debris. \n\nMore distant from Earth we see a thin ring of satellites. These are in geostationary orbit. This is a special orbit where the orbital period matches the rotation period of the Earth. This means that a satellite in geostationary orbit stays above the same point on the equator and, when observed from the side of the Earth facing the satellite, will appear to stay at a position on the sky that does not change over time. Because of this, geostationary orbit is used by many communications satellites as a satellite dish on Earth used to receive or transmit a signal to that satellite can point in a fixed direction and does not need to dynamically track the satellite. Geostationary orbit is also used by weather observation satellites.<br/>\n<b>Credit:</b> NASA's Scientific Visualization Studio\n\t  <a href=\"https://svs.gsfc.nasa.gov/5258/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Space Debris",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Space Debris",
+          "body": "Space debris or space junk is the term for artificial objects, or the remnants of such objects, which orbit Earth but serve no useful function. Examples are decommissioned or faulty satellites, broken pieces resulting from the collision of satellites, or upper stages of rockets that were used in the launch of spacecraft or satellites and discarded after having fulfilled their purpose. The more space debris there is, the greater the chance of damaging collisions as a serious hazard for spacecraft. In consequence, space agencies are discussing, and have begun to test, ways of removing space debris, and are making an effort to plan missions so that objects that have fulfilled their purpose are made to re-enter, and burn up in, Earth's atmosphere."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Космический мусор",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Космический мусор",
+          "body": "Космический мусор, или космический хлам, — это термин для искусственных объектов или остатков таких объектов, которые обращаются вокруг Земли, но не выполняют никакой полезной функции. Примеры: выведенные из эксплуатации или неисправные спутники, обломки, возникшие в результате столкновения спутников, или верхние ступени ракет, которые использовались при запуске космических аппаратов или спутников и были отброшены после выполнения своей задачи. Чем больше космического мусора, тем выше вероятность опасных столкновений, представляющих серьёзную угрозу для космических аппаратов. Вследствие этого космические агентства обсуждают и начали испытывать способы удаления космического мусора, а также прилагают усилия к планированию миссий таким образом, чтобы объекты, выполнившие свою задачу, входили в атмосферу Земли и сгорали в ней."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:zu33xi40X922",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://astro4edu.org/media/multimedia/all_trackable_wActive_1080p60.mp4",
+      "record_url": "https://astro4edu.org/resources/media/zu33xi40X922/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Space debris orbiting the Earth",
+      "title_ru": "Космический мусор на орбите Земли",
+      "short_caption_en": "Space debris orbiting the Earth",
+      "short_caption_ru": "Космический мусор на орбите Земли",
+      "caption_en": "This animation shows objects orbiting the Earth. The data date from February 2024 and are taken from space-track.org which maintains a public catalogue of objects tracked by the United States Space Command (USSPACECOM).\r\n\r\nAt first in this video we see green dots, each representing one of the 31,000 human-made objects orbiting Earth. These include both operational and decommissioned satellites, used rocket stages from space launches, and fragments larger than 10cm created by collisions or explosions. Later in the video, some of the green dots are replace by orange dots, each of these representing one of the 9,300 operational satellites orbiting the Earth. Note that since February 2024 more satellites and rockets have been launched in to space and some objects will have fallen back to Earth, so these numbers will have changed.\r\n\r\nWe see two main groups of objects. The first are those objects orbiting close to the Earth, objects in low Earth orbit. These include communication satellites (many from the satellite constellations used to provide satellite internet services), Earth observation satellites, military satellites, two operational space stations and other objects such as rocket stages and other debris. \r\n\r\nMore distant from Earth we see a thin ring of satellites. These are in geostationary orbit. This is a special orbit where the orbital period matches the rotation period of the Earth. This means that a satellite in geostationary orbit stays above the same point on the equator and, when observed from the side of the Earth facing the satellite, will appear to stay at a position on the sky that does not change over time. Because of this, geostationary orbit is used by many communications satellites as a satellite dish on Earth used to receive or transmit a signal to that satellite can point in a fixed direction and does not need to dynamically track the satellite. Geostationary orbit is also used by weather observation satellites.",
+      "caption_ru": "Эта анимация показывает объекты, обращающиеся вокруг Земли. Данные относятся к февралю 2024 года и взяты с сайта space-track.org, который ведёт публичный каталог объектов, отслеживаемых Космическим командованием США (USSPACECOM).\r\n\r\nВ начале видео мы видим зелёные точки, каждая из которых представляет один из 31,000 созданных человеком объектов на орбите Земли. К ним относятся как действующие, так и выведенные из эксплуатации спутники, отработанные ступени ракет-носителей и фрагменты размером более 10cm, образовавшиеся в результате столкновений или взрывов. Позже в видео некоторые зелёные точки заменяются оранжевыми, каждая из которых представляет один из 9,300 действующих спутников на орбите Земли. Обратите внимание, что с февраля 2024 года в космос было запущено больше спутников и ракет, а некоторые объекты упадут обратно на Землю, поэтому эти числа изменятся.\r\n\r\nМы видим две основные группы объектов. Первая — это объекты, обращающиеся вблизи Земли, на низкой околоземной орбите. К ним относятся спутники связи (многие из спутниковых группировок, используемых для предоставления услуг спутникового интернета), спутники наблюдения Земли, военные спутники, две действующие космические станции и другие объекты, такие как ступени ракет и прочий мусор. \r\n\r\nДальше от Земли мы видим тонкое кольцо спутников. Они находятся на геостационарной орбите. Это особая орбита, период обращения на которой совпадает с периодом вращения Земли. Это означает, что спутник на геостационарной орбите остаётся над одной и той же точкой экватора и, если наблюдать его со стороны Земли, обращённой к спутнику, будет казаться, что он находится в неизменной точке неба. Благодаря этому геостационарная орбита используется многими спутниками связи, поскольку спутниковая антенна на Земле, используемая для приёма или передачи сигнала этому спутнику, может быть направлена в фиксированном направлении и не нуждается в динамическом отслеживании спутника. Геостационарная орбита также используется метеорологическими спутниками.",
+      "alt_en": "The Earth surrounded by a swarm of green and orange points. Further out is a thin ring of green and orange points.",
+      "alt_ru": "Земля, окружённая роем зелёных и оранжевых точек. Дальше — тонкое кольцо зелёных и оранжевых точек.",
+      "credit": "NASA's Scientific Visualization Studio",
+      "credit_url": "https://svs.gsfc.nasa.gov/5258/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        293,
+        320,
+        324
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

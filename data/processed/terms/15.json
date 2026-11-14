@@ -1,0 +1,438 @@
+{
+  "id": "term:15",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 15,
+    "url": "https://astro4edu.org/resources/glossary/term/15/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=15",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:49:03.547147+00:00",
+    "sha256": "0bcafeeea8c37b17593765e354bbc36c34b0f2beb4904da9d5ebb1f9b7b041e6"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      2,
+      45,
+      185,
+      382
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Apparent Magnitude",
+      "body": "Apparent magnitude is a measure of how bright a celestial body appears to an observer. For historical reasons, the magnitude scale assigns larger numbers to fainter objects. Magnitude is a logarithmic scale with a difference of five magnitudes corresponding to a factor of 100 in measured brightness. There are many magnitude scales because brightness can be measured at different wavelengths and with different techniques. The common \"visual magnitude\" scale is set so that the bright star Vega has an apparent magnitude of zero. On this scale, Sirius, the brightest star in the night sky, has magnitude -1.46, and the magnitudes of the Sun and the full Moon are -26.7 and -12.7, respectively. The negative numbers indicate that these objects appear brighter than Vega. In very dark conditions, people with excellent vision can see stars up to about visual magnitude 6. The Hubble Ultra Deep Field reaches a visual magnitude near 31. This is about 100 to the power five or 10,000,000,000 times fainter than magnitude 6.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Absolute Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/2/",
+          "text_ru": "Абсолютная звёздная величина"
+        },
+        {
+          "text": "Brightness",
+          "url": "https://www.astro4edu.org/resources/glossary/term/45/",
+          "text_ru": "Яркость"
+        },
+        {
+          "text": "Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/185/",
+          "text_ru": "Звёздная величина"
+        },
+        {
+          "text": "Wavelength",
+          "url": "https://www.astro4edu.org/resources/glossary/term/382/",
+          "text_ru": "Длина волны"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Apparent Magnitude</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Apparent magnitude is a measure of how bright a celestial body appears to an observer. For historical reasons, the magnitude scale assigns larger numbers to fainter objects. Magnitude is a logarithmic scale with a difference of five magnitudes corresponding to a factor of 100 in measured brightness. There are many magnitude scales because brightness can be measured at different wavelengths and with different techniques. The common \"visual magnitude\" scale is set so that the bright star Vega has an apparent magnitude of zero. On this scale, Sirius, the brightest star in the night sky, has magnitude -1.46, and the magnitudes of the Sun and the full Moon are -26.7 and -12.7, respectively. The negative numbers indicate that these objects appear brighter than Vega. In very dark conditions, people with excellent vision can see stars up to about visual magnitude 6. The Hubble Ultra Deep Field reaches a visual magnitude near 31. This is about 100 to the power five or 10,000,000,000 times fainter than magnitude 6.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/2/\">Absolute Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/45/\">Brightness</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/185/\">Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/382/\">Wavelength</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Видимая звёздная величина",
+      "body_ru": "Видимая звёздная величина — это мера того, насколько ярким небесное тело кажется наблюдателю. По историческим причинам шкала звёздных величин присваивает большие числа более тусклым объектам. Звёздная величина — это логарифмическая шкала, в которой разница в пять звёздных величин соответствует коэффициенту 100 по измеренной яркости. Существует множество шкал звёздных величин, поскольку яркость можно измерять на разных длинах волн и разными методами. Обычная «визуальная звёздная величина» установлена так, что яркая звезда Вега имеет видимую звёздную величину ноль. По этой шкале Сириус, самая яркая звезда ночного неба, имеет величину -1.46, а величины Солнца и полной Луны составляют -26.7 и -12.7 соответственно. Отрицательные числа указывают на то, что эти объекты кажутся ярче Веги. В очень тёмных условиях люди с отличным зрением могут видеть звёзды до видимой звёздной величины около 6. Сверхглубокое поле Хаббла достигает видимой звёздной величины около 31. Это примерно в 100 в пятой степени или в 10,000,000,000 раз тусклее, чем величина 6."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "見かけの等級 (external link)",
+          "url": "https://astro-dic.jp/apparent-magnitude/",
+          "text_ru": "Видимая звёздная величина (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/15/\">القدرالظاهري </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/15/\">Scheinbare Helligkeit </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/15/\">Magnitud Aparente </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/15/\">Magnitude apparente </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/15/\">Magnitudine apparente </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/apparent-magnitude/\">見かけの等級 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/15/\">Magnitude aparente </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/15/\">视星等 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/15/\">視星等 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/6P43LB422a75/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Hj32Ua273O7/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/dg783o76n014/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/9P17by35Gr8/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/uM753a62k218/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all diagrams for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Apparent Magnitude&page=1&language_choice=en&file_type=dia&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все диаграммы для этого термина"
+        }
+      ],
+      "media_ids": [
+        "diagram:6P43LB422a75",
+        "diagram:Hj32Ua273O7",
+        "diagram:dg783o76n014",
+        "diagram:9P17by35Gr8",
+        "diagram:uM753a62k218"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/6P43LB422a75/\"><img alt=\"The bright stars in Andromeda form a Y-shape. Pegasus to the lower right. In the center is M31, marked with a red ellipse.\" src=\"/media/diagrams/multimedia/thumbnails/andromeda-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Andromeda Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Andromeda showing the bright stars and surrounding constellations. Andromeda is surrounded by (going clockwise from the top) Cassiopeia, Lacerta, Pegasus, Pisces, Aries, Triangulum and Perseus. The brightest star in Andromeda (Alpheratz) is in the lower part of the constellation. Together with three stars in Pegasus it forms the asterism known as the \"Great Square of Pegasus\". The next two bright stars in the constellation (Mirach and Almach) form a line extending north-east from Alpheratz.\n\nAndromeda is a northern constellation and is most visible in the evenings in the Northern Hemisphere autumn. It is visible from all of the Northern Hemisphere and most temperate regions of the Southern Hemisphere but is not visible from Antarctic and Subantarctic regions.\n\nThe most famous object in Andromeda, the Andromeda Galaxy is marked here with a red ellipse and its Messier catalog number M31.\n\nThe yellow circle on the left marks the position of the open cluster NGC 752 and the green circle on the right marks NGC 7662 (the blue snowball nebula), a planetary nebula.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Hj32Ua273O7/\"><img alt=\"The four bright stars of Crux form a kite shape with the long axis pointing vertically\" src=\"/media/diagrams/multimedia/thumbnails/crux-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Crux Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Crux (commonly known as the Southern Cross or Crux Australis) showing its bright stars and surrounding constellations. The Southern Cross is surrounding by (going clockwise from the top) Centaurus, Carina and Musca. The brightest star is alpha Crucis which appears at the bottom of the constellation's famous kite shape. The Southern Cross is visible from southern and equatorial regions of the world. In more southerly parts of the world it is circumpolar so is always above the horizon. In other parts of the southern hemisphere and in equatorial regions it is most visible in the evenings in the southern hemisphere autumn.\n\nThe yellow circles show the locations of two open clusters, NGC 4755 (known as the Jewel Box) and NGC 4609.\n\nThe line joining gamma and alpha Crucis (the third and first brightest stars in the Southern Cross) points in the approximate direction of the South Celestial Pole. This has led to the Southern Cross playing an important role in celestial navigation, allowing navigators from different astronomical traditions to find their bearings.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope.\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/dg783o76n014/\"><img alt=\"Orion appears as an hourglass-shaped pattern with two strings of stars extending northeast and northwest\" src=\"/media/diagrams/multimedia/thumbnails/orion-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Orion Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Orion along with its bright stars and surrounding constellations. Orion is surrounded by (going clockwise from the top) Taurus, Eridanus, Lepus, Monoceros and Gemini. Orion’s brightest stars Betelgeuse and Rigel appear at the northern (upper on this diagram) and southern (lower) end of the constellation respectively with the famous three star “belt” in the middle.\n\nOrion spans the celestial equator and is thus visible at some time in the year from all of planet Earth. In the most arctic or antarctic regions of the world, some parts of the constellation may not be visible. Orion is most visible in the evenings in the northern hemisphere winter and southern hemisphere summer. The blue line above Orion marks the ecliptic, the path the Sun appears to travel across the sky over the course of a year. The Sun never passes through Orion, but one can occasionally find the other planets of the Solar System and the Moon in Orion.\n\nJust south of Orion’s belt lie two Messier objects M42 (the Orion nebula) and M43, marked by green squares. These nebulae along with M78 (here the green square to the left of the belt) are part of the huge Orion Molecular Cloud Complex. This covers most of the constellation and includes regions where these molecular clouds are collapsing to form young starts. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Betelgeuse indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/9P17by35Gr8/\"><img alt=\"Libra appears as a triangle pointing north (up) with two lines hanging down. It is bisected by the ecliptic running ESE-WNW\" src=\"/media/diagrams/multimedia/thumbnails/libra-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Libra Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Libra along with its bright stars and surrounding constellations. Libra is surrounded by (going clockwise from the top) Serpens Caput, Virgo, Hydra, Centaurus, Lupus, Scorpius and Ophiuchus. Libra lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Libra from late October to late November. The other planets of the Solar System can often be found in Libra.\n\nLibra lies just south of the celestial equator and is thus visible at some time in all but the most arctic regions. Libra is most visible in the evenings in the northern hemisphere late spring/early summer and southern hemisphere late autumn/early winter. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/uM753a62k218/\"><img alt=\"Scorpius appears as a letter T joined to a letter J. The ecliptic runs ESE to WNW and clips one arm of the T\" src=\"/media/diagrams/multimedia/thumbnails/scorpius-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Scorpius Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Scorpius (often commonly called Scorpio) along with its bright stars and surrounding constellations. Scorpius is surrounded by (going clockwise from the top) Ophiuchus, Serpens Caput, Libra, Lupus, Norma, Ara, Corona Australis and Sagittarius. Scorpius’s brightest star Antares appears in the heart of the constellation with the famous tail of Scoprius in the south-east (lower left). Scorpius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun only spends a short amount of time in late November in Scorpius. The other planets of the Solar System can often be found in Scorpius.\n\nScorpius lies south of the celestial equator. The whole constellation is not visible from the most arctic regions of the world with parts of Scorpius obscured for observers in northern parts of Asia, Europe and North America. Scorpius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \n\nThe yellow circles mark the positions of the open clusters M6, M7 &amp; NGC 6231 while the yellow circles with plus signs superimposed on them mark the globular clusters M4 and M80. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Antares indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line marks the ecliptic, the path the Sun appears to travel across the sky over the course of one year. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Apparent Magnitude&amp;page=1&amp;language_choice=en&amp;file_type=dia&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all diagrams <br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Apparent Magnitude",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Apparent Magnitude",
+          "body": "Apparent magnitude is a measure of how bright a celestial body appears to an observer. For historical reasons, the magnitude scale assigns larger numbers to fainter objects. Magnitude is a logarithmic scale with a difference of five magnitudes corresponding to a factor of 100 in measured brightness. There are many magnitude scales because brightness can be measured at different wavelengths and with different techniques. The common \"visual magnitude\" scale is set so that the bright star Vega has an apparent magnitude of zero. On this scale, Sirius, the brightest star in the night sky, has magnitude -1.46, and the magnitudes of the Sun and the full Moon are -26.7 and -12.7, respectively. The negative numbers indicate that these objects appear brighter than Vega. In very dark conditions, people with excellent vision can see stars up to about visual magnitude 6. The Hubble Ultra Deep Field reaches a visual magnitude near 31. This is about 100 to the power five or 10,000,000,000 times fainter than magnitude 6."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Видимая звёздная величина",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Видимая звёздная величина",
+          "body": "Видимая звёздная величина — это мера того, насколько ярким небесное тело кажется наблюдателю. По историческим причинам шкала звёздных величин присваивает большие числа более тусклым объектам. Звёздная величина — это логарифмическая шкала, в которой разница в пять звёздных величин соответствует коэффициенту 100 по измеренной яркости. Существует множество шкал звёздных величин, поскольку яркость можно измерять на разных длинах волн и разными методами. Обычная «визуальная звёздная величина» установлена так, что яркая звезда Вега имеет видимую звёздную величину ноль. По этой шкале Сириус, самая яркая звезда ночного неба, имеет величину -1.46, а величины Солнца и полной Луны составляют -26.7 и -12.7 соответственно. Отрицательные числа указывают на то, что эти объекты кажутся ярче Веги. В очень тёмных условиях люди с отличным зрением могут видеть звёзды до видимой звёздной величины около 6. Сверхглубокое поле Хаббла достигает видимой звёздной величины около 31. Это примерно в 100 в пятой степени или в 10,000,000,000 раз тусклее, чем величина 6."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:6P43LB422a75",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/andromeda-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/6P43LB422a75/",
+      "original_path": "data/media/original/diagram_6P43LB422a75.png",
+      "ru_path": "data/media/ru/diagram_6P43LB422a75.png",
+      "sha256": "0bca418d79c1abc31e7518ba0416a0aad6d497b25da3c4d8a6f16771fb6256ad",
+      "size": 110522,
+      "title_en": "Andromeda Constellation Map",
+      "title_ru": "Карта созвездия Андромеда",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Andromeda showing the bright stars and surrounding constellations. Andromeda is surrounded by (going clockwise from the top) Cassiopeia, Lacerta, Pegasus, Pisces, Aries, Triangulum and Perseus. The brightest star in Andromeda (Alpheratz) is in the lower part of the constellation. Together with three stars in Pegasus it forms the asterism known as the \"Great Square of Pegasus\". The next two bright stars in the constellation (Mirach and Almach) form a line extending north-east from Alpheratz.\r\n\r\nAndromeda is a northern constellation and is most visible in the evenings in the Northern Hemisphere autumn. It is visible from all of the Northern Hemisphere and most temperate regions of the Southern Hemisphere but is not visible from Antarctic and Subantarctic regions.\r\n\r\nThe most famous object in Andromeda, the Andromeda Galaxy is marked here with a red ellipse and its Messier catalog number M31.\r\n\r\nThe yellow circle on the left marks the position of the open cluster NGC 752 and the green circle on the right marks NGC 7662 (the blue snowball nebula), a planetary nebula.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Андромеда с яркими звёздами и окружающими созвездиями. Андромеду окружают (по часовой стрелке сверху) Кассиопея, Ящерица, Пегас, Рыбы, Овен, Треугольник и Персей. Самая яркая звезда в Андромеде (Альферац) находится в нижней части созвездия. Вместе с тремя звёздами в Пегасе она образует астеризм, известный как «Большой квадрат Пегаса». Следующие две яркие звезды созвездия (Мирах и Альмах) образуют линию, простирающуюся на северо-восток от Альфераца.\r\n\r\nАндромеда — северное созвездие, лучше всего видимое по вечерам осенью в Северном полушарии. Оно видно со всей территории Северного полушария и большинства умеренных областей Южного полушария, но не видно из антарктических и субантарктических регионов.\r\n\r\nСамый известный объект в Андромеде, галактика Андромеды, отмечен здесь красным эллипсом и её номером в каталоге Мессье M31.\r\n\r\nЖёлтый кружок слева отмечает положение рассеянного скопления NGC 752, а зелёный кружок справа отмечает NGC 7662 (туманность Голубой снежок), планетарную туманность.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "The bright stars in Andromeda form a Y-shape. Pegasus to the lower right. In the center is M31, marked with a red ellipse.",
+      "alt_ru": "Яркие звёзды в Андромеде образуют Y-образную форму. Пегас справа внизу. В центре находится M31, отмеченная красным эллипсом.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        7,
+        8,
+        15,
+        66,
+        78,
+        256,
+        286,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "c5a27da7dc228d522174ef286aac0cf7a995924224ac4b426f4c64131542edbc"
+    },
+    {
+      "id": "diagram:Hj32Ua273O7",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/crux-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Hj32Ua273O7/",
+      "original_path": "data/media/original/diagram_Hj32Ua273O7.png",
+      "ru_path": null,
+      "sha256": "678442a23d8da1ade56825ecb718191b3b83d9c0b04df5767b40d7dc440fd134",
+      "size": 110073,
+      "title_en": "Crux Constellation Map",
+      "title_ru": "Карта созвездия Южный Крест",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Crux (commonly known as the Southern Cross or Crux Australis) showing its bright stars and surrounding constellations. The Southern Cross is surrounding by (going clockwise from the top) Centaurus, Carina and Musca. The brightest star is alpha Crucis which appears at the bottom of the constellation's famous kite shape. The Southern Cross is visible from southern and equatorial regions of the world. In more southerly parts of the world it is circumpolar so is always above the horizon. In other parts of the southern hemisphere and in equatorial regions it is most visible in the evenings in the southern hemisphere autumn.\r\n\r\nThe yellow circles show the locations of two open clusters, NGC 4755 (known as the Jewel Box) and NGC 4609.\r\n\r\nThe line joining gamma and alpha Crucis (the third and first brightest stars in the Southern Cross) points in the approximate direction of the South Celestial Pole. This has led to the Southern Cross playing an important role in celestial navigation, allowing navigators from different astronomical traditions to find their bearings.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Южный Крест (обычно известное как Южный Крест или Crux Australis) с его яркими звёздами и окружающими созвездиями. Южный Крест окружён (по часовой стрелке сверху) Центавром, Килем и Мухой. Самая яркая звезда — альфа Южного Креста, которая находится в нижней части знаменитой формы воздушного змея этого созвездия. Южный Крест виден из южных и экваториальных регионов мира. В более южных частях мира он является околополярным, поэтому всегда находится над горизонтом. В других частях южного полушария и в экваториальных регионах он наиболее виден по вечерам осенью южного полушария.\r\n\r\nЖёлтые кружки показывают расположение двух рассеянных скоплений, NGC 4755 (известного как Шкатулка с драгоценностями) и NGC 4609.\r\n\r\nЛиния, соединяющая гамму и альфу Южного Креста (третью и первую по яркости звёзды Южного Креста), указывает приблизительное направление на Южный небесный полюс. Это привело к тому, что Южный Крест играет важную роль в небесной навигации, позволяя навигаторам из разных астрономических традиций находить свои ориентиры.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные линии границ обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "The four bright stars of Crux form a kite shape with the long axis pointing vertically",
+      "alt_ru": "Четыре яркие звезды Южного Креста образуют форму воздушного змея с длинной осью, направленной вертикально",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope.",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        286,
+        318,
+        466,
+        518
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:dg783o76n014",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/orion-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/dg783o76n014/",
+      "original_path": "data/media/original/diagram_dg783o76n014.png",
+      "ru_path": "data/media/ru/diagram_dg783o76n014.png",
+      "sha256": "9a49feac2e6669db6dcf14131d0cd3b45e861e1ab827be0548c5fa538b74e257",
+      "size": 147678,
+      "title_en": "Orion Constellation Map",
+      "title_ru": "Карта созвездия Орион",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Orion along with its bright stars and surrounding constellations. Orion is surrounded by (going clockwise from the top) Taurus, Eridanus, Lepus, Monoceros and Gemini. Orion’s brightest stars Betelgeuse and Rigel appear at the northern (upper on this diagram) and southern (lower) end of the constellation respectively with the famous three star “belt” in the middle.\r\n\r\nOrion spans the celestial equator and is thus visible at some time in the year from all of planet Earth. In the most arctic or antarctic regions of the world, some parts of the constellation may not be visible. Orion is most visible in the evenings in the northern hemisphere winter and southern hemisphere summer. The blue line above Orion marks the ecliptic, the path the Sun appears to travel across the sky over the course of a year. The Sun never passes through Orion, but one can occasionally find the other planets of the Solar System and the Moon in Orion.\r\n\r\nJust south of Orion’s belt lie two Messier objects M42 (the Orion nebula) and M43, marked by green squares. These nebulae along with M78 (here the green square to the left of the belt) are part of the huge Orion Molecular Cloud Complex. This covers most of the constellation and includes regions where these molecular clouds are collapsing to form young starts. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Betelgeuse indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Орион вместе с его яркими звёздами и окружающими созвездиями. Орион окружён (по часовой стрелке сверху) Тельцом, Эриданом, Зайцем, Единорогом и Близнецами. Ярчайшие звёзды Ориона Бетельгейзе и Ригель видны соответственно на северном (верхнем на этой диаграмме) и южном (нижнем) конце созвездия, а знаменитый «пояс» из трёх звёзд находится в середине.\r\n\r\nОрион пересекает небесный экватор и поэтому виден в какое-то время года со всей планеты Земля. В самых арктических или антарктических регионах мира некоторые части созвездия могут быть не видны. Орион лучше всего виден по вечерам зимой в Северном полушарии и летом в Южном полушарии. Синяя линия над Орионом обозначает эклиптику — путь, который Солнце, как кажется, проходит по небу в течение года. Солнце никогда не проходит через Орион, но иногда в Орионе можно найти другие планеты Солнечной системы и Луну.\r\n\r\nЧуть южнее пояса Ориона находятся два объекта Мессье M42 (туманность Ориона) и M43, отмеченные зелёными квадратами. Эти туманности вместе с M78 (здесь зелёный квадрат слева от пояса) являются частью огромного молекулярного облачного комплекса Ориона. Он охватывает большую часть созвездия и включает области, где эти молекулярные облака коллапсируют, образуя молодые звёзды.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Круг вокруг Бетельгейзе указывает на то, что это переменная звезда. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Orion appears as an hourglass-shaped pattern with two strings of stars extending northeast and northwest",
+      "alt_ru": "Орион выглядит как фигура в форме песочных часов с двумя цепочками звёзд, простирающимися на северо-восток и северо-запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        126,
+        286,
+        351,
+        467,
+        485
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "5e6bc561a597e74cca14419dde0489496831653c6f690f565c42402de85ab793"
+    },
+    {
+      "id": "diagram:9P17by35Gr8",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/libra-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/9P17by35Gr8/",
+      "original_path": "data/media/original/diagram_9P17by35Gr8.png",
+      "ru_path": "data/media/ru/diagram_9P17by35Gr8.png",
+      "sha256": "303f7e780976b9d5ad2852def071e2cb2fdaefa4a2a85ed341d5dbdf1e6d6ede",
+      "size": 101254,
+      "title_en": "Libra Constellation Map",
+      "title_ru": "Карта созвездия Весы",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Libra along with its bright stars and surrounding constellations. Libra is surrounded by (going clockwise from the top) Serpens Caput, Virgo, Hydra, Centaurus, Lupus, Scorpius and Ophiuchus. Libra lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Libra from late October to late November. The other planets of the Solar System can often be found in Libra.\r\n\r\nLibra lies just south of the celestial equator and is thus visible at some time in all but the most arctic regions. Libra is most visible in the evenings in the northern hemisphere late spring/early summer and southern hemisphere late autumn/early winter. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Весы вместе с его яркими звёздами и окружающими созвездиями. Весы окружены (по часовой стрелке сверху) Змеёй (Голова), Девой, Гидрой, Центавром, Волком, Скорпионом и Змееносцем. Весы лежат на эклиптике (показана здесь синей линией) — это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Весах с конца октября до конца ноября. Другие планеты Солнечной системы также часто можно найти в Весах.\r\n\r\nВесы лежат чуть южнее небесного экватора и поэтому видны в какое-то время во всех регионах, кроме самых арктических. Весы лучше всего видны по вечерам поздней весной/ранним летом в Северном полушарии и поздней осенью/ранней зимой в Южном полушарии.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Libra appears as a triangle pointing north (up) with two lines hanging down. It is bisected by the ecliptic running ESE-WNW",
+      "alt_ru": "Весы выглядят как треугольник, направленный на север (вверх), с двумя свисающими вниз линиями. Их пересекает эклиптика, идущая с востоко-юго-востока на западо-северо-запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        173,
+        286,
+        299,
+        391,
+        486
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ac6a54d41e6992f0e66b036b9840106e276385980c329be434d074fcebbcf465"
+    },
+    {
+      "id": "diagram:uM753a62k218",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/scorpius-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/uM753a62k218/",
+      "original_path": "data/media/original/diagram_uM753a62k218.png",
+      "ru_path": null,
+      "sha256": "295390cb65436e178d6ae225ce984d4dc73852b10e0a0e1768def3166f1dd7b8",
+      "size": 152588,
+      "title_en": "Scorpius Constellation Map",
+      "title_ru": "Карта созвездия Скорпион",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Scorpius (often commonly called Scorpio) along with its bright stars and surrounding constellations. Scorpius is surrounded by (going clockwise from the top) Ophiuchus, Serpens Caput, Libra, Lupus, Norma, Ara, Corona Australis and Sagittarius. Scorpius’s brightest star Antares appears in the heart of the constellation with the famous tail of Scoprius in the south-east (lower left). Scorpius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun only spends a short amount of time in late November in Scorpius. The other planets of the Solar System can often be found in Scorpius.\r\n\r\nScorpius lies south of the celestial equator. The whole constellation is not visible from the most arctic regions of the world with parts of Scorpius obscured for observers in northern parts of Asia, Europe and North America. Scorpius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \r\n\r\nThe yellow circles mark the positions of the open clusters M6, M7 & NGC 6231 while the yellow circles with plus signs superimposed on them mark the globular clusters M4 and M80. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Antares indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line marks the ecliptic, the path the Sun appears to travel across the sky over the course of one year. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Скорпион (часто называемое просто Скорпио) вместе с его яркими звёздами и окружающими созвездиями. Скорпион окружён (по часовой стрелке сверху) Змееносцем, Змеёй (Голова), Весами, Волком, Наугольником, Жертвенником, Южной Короной и Стрельцом. Самая яркая звезда Скорпиона Антарес находится в сердце созвездия, а знаменитый хвост Скорпиона — на юго-востоке (внизу слева). Скорпион лежит на эклиптике (показана здесь синей линией) — это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце проводит в Скорпионе лишь короткое время в конце ноября. Другие планеты Солнечной системы также часто можно найти в Скорпионе.\r\n\r\nСкорпион лежит южнее небесного экватора. Всё созвездие не видно из самых арктических регионов мира, а части Скорпиона скрыты для наблюдателей в северных частях Азии, Европы и Северной Америки. Скорпион лучше всего виден по вечерам летом в Северном полушарии и зимой в Южном полушарии.\r\n\r\nЖёлтые круги обозначают положения рассеянных скоплений M6, M7 и NGC 6231, а жёлтые круги с наложенными на них знаками плюс обозначают шаровые скопления M4 и M80.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Круг вокруг Антареса указывает на то, что это переменная звезда. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия обозначает эклиптику — путь, который Солнце, как кажется, проходит по небу в течение одного года. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Scorpius appears as a letter T joined to a letter J. The ecliptic runs ESE to WNW and clips one arm of the T",
+      "alt_ru": "Скорпион выглядит как буква T, соединённая с буквой J. Эклиптика проходит с востоко-юго-востока на западо-северо-запад и пересекает одно плечо буквы T",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        132,
+        173,
+        286,
+        299,
+        391,
+        466,
+        474,
+        485
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

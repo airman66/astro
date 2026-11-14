@@ -1,0 +1,223 @@
+{
+  "id": "term:186",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 186,
+    "url": "https://astro4edu.org/resources/glossary/term/186/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=186",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:13.296985+00:00",
+    "sha256": "c97c56f4b0b8e9088adf33060b388b759ec416c1ab2f7bf8d1b977e05123499c"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      88,
+      130,
+      143,
+      150,
+      334
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Main Sequence",
+      "body": "The main sequence is a long, thin grouping of stars on the Hertzsprung–Russell diagram. This sequence is home to stars in the main hydrogen fusion phase of their evolution. For all but the least massive stars, after a star has finished core hydrogen fusion it moves off the main sequence and begins to evolve into the giant phase. Stars on the main sequence are often referred to as dwarfs to differentiate them from giants. Hot stars on the main sequence are brighter than cool stars on the main sequence. The hottest stars fuse hydrogen quickly so often only spend a few million years on the main sequence. Stars like the Sun will spend around ten billion years on the main sequence with cooler stars maintaining stable hydrogen fusion for even longer.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Dwarf Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/88/",
+          "text_ru": "Карликовая звезда"
+        },
+        {
+          "text": "Giant Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/130/",
+          "text_ru": "Звезда-гигант"
+        },
+        {
+          "text": "Hertzsprung–Russell (HR) Diagram",
+          "url": "https://www.astro4edu.org/resources/glossary/term/143/",
+          "text_ru": "Диаграмма Герцшпрунга–Рассела (HR)"
+        },
+        {
+          "text": "Hydrogen Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/150/",
+          "text_ru": "Водородный синтез"
+        },
+        {
+          "text": "Stellar Evolution",
+          "url": "https://www.astro4edu.org/resources/glossary/term/334/",
+          "text_ru": "Звездная эволюция"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Main Sequence</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The main sequence is a long, thin grouping of stars on the Hertzsprung–Russell diagram. This sequence is home to stars in the main hydrogen fusion phase of their evolution. For all but the least massive stars, after a star has finished core hydrogen fusion it moves off the main sequence and begins to evolve into the giant phase. Stars on the main sequence are often referred to as dwarfs to differentiate them from giants. Hot stars on the main sequence are brighter than cool stars on the main sequence. The hottest stars fuse hydrogen quickly so often only spend a few million years on the main sequence. Stars like the Sun will spend around ten billion years on the main sequence with cooler stars maintaining stable hydrogen fusion for even longer.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/88/\">Dwarf Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/130/\">Giant Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/143/\">Hertzsprung–Russell (HR) Diagram</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/150/\">Hydrogen Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/334/\">Stellar Evolution</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Главная последовательность",
+      "body_ru": "Главная последовательность — это длинная тонкая группировка звёзд на диаграмме Герцшпрунга–Рассела. Эта последовательность является домом для звёзд на основной фазе термоядерного горения водорода в их эволюции. Для всех, кроме наименее массивных звёзд, после завершения горения водорода в ядре звезда покидает главную последовательность и начинает эволюционировать в фазу гиганта. Звёзды на главной последовательности часто называют карликами, чтобы отличать их от гигантов. Горячие звёзды на главной последовательности ярче холодных звёзд на главной последовательности. Самые горячие звёзды быстро сжигают водород, поэтому часто проводят на главной последовательности всего несколько миллионов лет. Звёзды, подобные Солнцу, проведут на главной последовательности около десяти миллиардов лет, а более холодные звёзды поддерживают стабильное горение водорода ещё дольше."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "主系列 (external link)",
+          "url": "https://astro-dic.jp/main-sequence/",
+          "text_ru": "Главная последовательность (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/186/\">التسلسل الرئيسي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/186/\">Hauptreihe </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/186/\">Secuencia principal </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/186/\">رشته اصلی </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/186/\">Séquence principale </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/186/\">Sequenza principale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/main-sequence/\">主系列 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/186/\">Sequência Principal </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/186/\">主序 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/186/\">主序 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/iq40Hc92ni31/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:iq40Hc92ni31"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/iq40Hc92ni31/\"><img alt=\"A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line\" src=\"/media/diagrams/multimedia/thumbnails/hr_diagram_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hertzsprung-Russell diagram</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\n \nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\n \nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.<br/>\n<b>Credit:</b> IAU OAE/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Main Sequence",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Main Sequence",
+          "body": "The main sequence is a long, thin grouping of stars on the Hertzsprung–Russell diagram. This sequence is home to stars in the main hydrogen fusion phase of their evolution. For all but the least massive stars, after a star has finished core hydrogen fusion it moves off the main sequence and begins to evolve into the giant phase. Stars on the main sequence are often referred to as dwarfs to differentiate them from giants. Hot stars on the main sequence are brighter than cool stars on the main sequence. The hottest stars fuse hydrogen quickly so often only spend a few million years on the main sequence. Stars like the Sun will spend around ten billion years on the main sequence with cooler stars maintaining stable hydrogen fusion for even longer."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Главная последовательность",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Главная последовательность",
+          "body": "Главная последовательность — это длинная тонкая группировка звёзд на диаграмме Герцшпрунга–Рассела. Эта последовательность является домом для звёзд на основной фазе термоядерного горения водорода в их эволюции. Для всех, кроме наименее массивных звёзд, после завершения горения водорода в ядре звезда покидает главную последовательность и начинает эволюционировать в фазу гиганта. Звёзды на главной последовательности часто называют карликами, чтобы отличать их от гигантов. Горячие звёзды на главной последовательности ярче холодных звёзд на главной последовательности. Самые горячие звёзды быстро сжигают водород, поэтому часто проводят на главной последовательности всего несколько миллионов лет. Звёзды, подобные Солнцу, проведут на главной последовательности около десяти миллиардов лет, а более холодные звёзды поддерживают стабильное горение водорода ещё дольше."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:iq40Hc92ni31",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hr_diagram_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/iq40Hc92ni31/",
+      "original_path": "data/media/original/diagram_iq40Hc92ni31.png",
+      "ru_path": "data/media/ru/diagram_iq40Hc92ni31.png",
+      "sha256": "031aed503f490c077502cc7087d8513da6a8f909cb63d2e84ab377b6111d2345",
+      "size": 66045,
+      "title_en": "Hertzsprung-Russell diagram",
+      "title_ru": "Диаграмма Герцшпрунга — Рассела",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\r\n \r\nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\r\n \r\nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.",
+      "caption_ru": "На этой диаграмме показаны температура и светимость различных звёзд. Размер каждой точки соответствует радиусу звезды, а её цвет — это цвет, который увидел бы человеческий глаз. Цвета звёзд варьируются от бледно-голубого до бледно-красновато-оранжевого. Ни одна звезда не имеет чистого цвета, такого как красный, зелёный или синий, поскольку спектры звёзд включают свет множества разных цветов. Однако самые красные звёзды обычно называют красными, а самые голубые — синими. Выборка звёзд, использованная для построения этой диаграммы, была подобрана так, чтобы показать широкий диапазон звёзд разных типов, поэтому относительное количество каждого типа звёзд не отражает того, насколько часто встречается каждый тип.\r\n \r\nОт верхнего левого угла к нижнему правому идёт длинная линия звёзд, сжигающих водород в своих ядрах. Это называется главной последовательностью. На этой линии видны звёзды Минтака, Ахернар, Сириус A, Солнце и Проксима Центавра. Объекты вокруг Проксимы Центавра на нижнем правом конце главной последовательности известны как красные карлики. Ниже и правее красных карликов находятся Тейде 1 и Келу-1 A. Эти два объекта — коричневые карлики, объекты со слишком малой массой, чтобы их ядра были достаточно горячими для длительного синтеза водорода. Поскольку они не сжигают водород, коричневые карлики не считаются звёздами главной последовательности. Название «коричневый карлик» не связано с их цветом.\r\n \r\nНад главной последовательностью мы находим субгиганты, гиганты и сверхгиганты. Это звёзды, которые завершили сжигание водорода в своём ядре и превратились в более крупные объекты. Яркость звезды зависит от её температуры и размера, поэтому звёзды-гиганты ярче звёзд с меньшим радиусом, но той же температурой. Со временем эти объекты приблизятся к концу своей жизни и пройдут либо фазу планетарной туманности, либо станут сверхновыми. Звёзды, завершающие жизнь фазой планетарной туманности, становятся типом звёздного остатка, называемым белым карликом. Такие объекты гораздо меньше звёзд той же температуры и, следовательно, слабее, и находятся значительно ниже главной последовательности. Звёзды, завершающие жизнь как сверхновые, становятся либо чёрными дырами, либо нейтронными звёздами. Они не показаны на этом графике.",
+      "alt_en": "A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line",
+      "alt_ru": "Линия звёзд идёт от холодных слабых звёзд к горячим ярким звёздам. Некоторые звёзды лежат выше или ниже этой линии",
+      "credit": "IAU OAE/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        46,
+        59,
+        130,
+        143,
+        180,
+        186,
+        334,
+        347,
+        386,
+        440,
+        481,
+        503
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "968a1f2e187f12de7451aef8a3b18cf42dbb0a047cac3b2eaab106a35408146d"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

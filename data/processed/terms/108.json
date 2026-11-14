@@ -1,0 +1,260 @@
+{
+  "id": "term:108",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 108,
+    "url": "https://astro4edu.org/resources/glossary/term/108/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=108",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:51.982774+00:00",
+    "sha256": "4f8f0d600516eff83f053d5545565d115ac09aa6859435df1bb8d7768d6e6e43"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology"
+    ],
+    "category_ids": [
+      6
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология"
+    ],
+    "related_term_numbers": [
+      20,
+      109
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Extraterrestrial Intelligence",
+      "body": "Extraterrestrial intelligence refers to the possible existence of intelligent entities other than those on Earth. Searches for extraterrestrial intelligence have included looking for radio or other signals, but much current research is centered on determining whether the conditions for intelligent life are present elsewhere. Going by the available evidence, the necessary conditions for the emergence of life on Earth – a solid planet, at a distance from its star where liquid water can exist on the planet's surface, atoms like carbon and oxygen, and the conditions to form more complex molecules – should exist on numerous other planets within our Galaxy and beyond. It is not an unreasonable assumption that intelligent life might have arisen at least on some of those planets, although we have no solid basis for estimating the probability of that happening. Some astronomers have used radio signals to search for putative messages as part of a Search for Extraterrestrial Intelligence (SETI). The speed of light as a fundamental physical limit means that interstellar journeys would take very long times, limiting the ability for us to come into direct contact with extraterrestrial intelligences.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astrobiology",
+          "url": "https://www.astro4edu.org/resources/glossary/term/20/",
+          "text_ru": "Астробиология"
+        },
+        {
+          "text": "Extraterrestrial Life",
+          "url": "https://www.astro4edu.org/resources/glossary/term/109/",
+          "text_ru": "Внеземная жизнь"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Extraterrestrial Intelligence</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Extraterrestrial intelligence refers to the possible existence of intelligent entities other than those on Earth.<br/><br/>Searches for extraterrestrial intelligence have included looking for radio or other signals, but much current research is centered on determining whether the conditions for intelligent life are present elsewhere. Going by the available evidence, the necessary conditions for the emergence of life on Earth – a solid planet, at a distance from its star where liquid water can exist on the planet's surface, atoms like carbon and oxygen, and the conditions to form more complex molecules – should exist on numerous other planets within our Galaxy and beyond. It is not an unreasonable assumption that intelligent life might have arisen at least on some of those planets, although we have no solid basis for estimating the probability of that happening. <br/><br/>Some astronomers have used radio signals to search for putative messages as part of a Search for Extraterrestrial Intelligence (SETI). The speed of light as a fundamental physical limit means that interstellar journeys would take very long times, limiting the ability for us to come into direct contact with extraterrestrial intelligences.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/20/\">Astrobiology</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/109/\">Extraterrestrial Life</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Внеземной разум",
+      "body_ru": "Внеземной разум относится к возможному существованию разумных существ, отличных от тех, что на Земле. Поиски внеземного разума включали поиск радиосигналов или других сигналов, но многие текущие исследования сосредоточены на определении того, присутствуют ли условия для разумной жизни где-либо еще. Судя по имеющимся данным, необходимые условия для возникновения жизни на Земле — твердая планета, на расстоянии от своей звезды, где жидкая вода может существовать на поверхности планеты, атомы, такие как углерод и кислород, и условия для образования более сложных молекул — должны существовать на многочисленных других планетах в нашей Галактике и за ее пределами. Это не необоснованное предположение, что разумная жизнь могла возникнуть, по крайней мере, на некоторых из этих планет, хотя у нас нет твердой основы для оценки вероятности этого. Некоторые астрономы использовали радиосигналы для поиска предполагаемых сообщений в рамках программы Поиска внеземного разума (SETI). Скорость света как фундаментальный физический предел означает, что межзвездные путешествия займут очень много времени, ограничивая нашу способность вступить в прямой контакт с внеземными разумами."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/108/\">ذكاء من خارج الأرض </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/108/\">Extraterrestrische Intelligenz </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/108/\">Inteligencia extraterrestre </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/108/\">Intelligence extraterrestre </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/108/\">Intelligenza extraterrestre </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/108/\">Inteligência extraterrestre </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/108/\">外星智能 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/108/\">外星智能 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/as70Ly49bn92/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://en.wikipedia.org/wiki/File:Arecibo_message.svg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-SA-3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "text_ru": "CC-BY-SA-3.0"
+        },
+        {
+          "text": "Creative Commons Attribution-ShareAlike 3.0 Unported icons",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-ShareAlike 3.0 Unported"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/7Z43MS63Ln65/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://science.nasa.gov/resource/pioneer-plaque/",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:as70Ly49bn92",
+        "media:7Z43MS63Ln65"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/as70Ly49bn92/\"><img alt=\"An array of colored pixels showing graphics including a double helix and a stick figure drawing of a human\" src=\"/media/multimedia/thumbnails/arecibo-message_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Arecibo Message</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows a representation of an interstellar radio message, known as the “Arecibo Message”. As part of this visualisation different parts are highlighted by different colors. It was sent on the 16th of November in 1974 from the Arecibo Telescope in Puerto Rico, at this time the largest radio telescope on Earth, on the 16th of November in 1974. Its destination was the globular cluster M13 in the constellation of Hercules. M13 is one of the brightest of its kind, contains about half a million stars and is located at a distance of approximately 25 000 light years. It was chosen as a target because of its dense stellar population, meaning the message would reach more stars and hopefully planets. Moreover, it is one of the nearer globular clusters available in the sky at the time and place when the message was sent.\nThe Arecibo Message was a symbolic event, intended to show that humans could broadcast a message to the stars. The message contains 1679 (chosen as it is the product of two prime numbers) bits of data which, when arrange in a two dimensional array, form the image shown here. It consists of seven parts which contain representations of DNA, a human, and information on the Earth and Solar System. The message content was designed by a group of scientists from Cornell University and the Arecibo Observatory.<br/>\n<b>Credit:</b> Arne Nordmann (wikicommons user norro)\n\t  <a href=\"https://en.wikipedia.org/wiki/File:Arecibo_message.svg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" rel=\"license\">CC-BY-SA-3.0</a> <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-sa\"></i><span class=\"sr-only\">Creative Commons Attribution-ShareAlike 3.0 Unported icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/7Z43MS63Ln65/\"><img alt=\"Gold plaque with drawings of a man &amp; woman,  Pioneer spacecraft, solar system, a hydrogen atom and lines converging on Earth\" src=\"/media/multimedia/thumbnails/pioneer-plaques_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Pioneer Plaques</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Pioneer 10 and 11 spacecraft are the first human-made objects to leave the solar system and venture into interstellar space. To inform potentially intelligent species about our existence, they both carry small metal plaques identifying their time, place of origin and information about their builders. They provide the location of our solar system in the Milky Way by depicting the Solar System's position relative to 14 pulsars, with radiating lines that include information about their frequencies. A model of a hydrogen atom undergoing one particular atomic transition is depicted. The wavelength and frequency of this transition are used to express sizes and frequencies of the other items shown in the plaque. A more detailed view of Earth's position in the solar system, with the spacecraft's trajectory moving away from Earth, passing Mars and Jupiter is displayed at the bottom. The plaque also depicts a naked man and woman alongside the spacecraft to provide a sense of scale. The man’s hand is raised as a friendly gesture. \nThe 6-inch by 9-inch gold-anodized aluminum plate has the design engraved on it. It was attached to the support struts of the spacecraft's antenna to try to to protect it from  erosion by any interstellar dust the spacecraft may encounter on its journey. Designed by Carl Sagan and Frank Drake, with artwork by Linda Salzman Sagan, these plaques are meant to communicate the origin of the spacecraft to any extraterrestrial life that might encounter them. \nWhile Pioneer 10 is on a course towards the star Aldebaran in the Taurus constellation, which will take about two million years to reach, Pioneer 11 is heading in a different direction towards the constellation of Aquila. It will take approximately four million years to pass close to some of the constellation’s stars.<br/>\n<b>Credit:</b> NASA Ames\n\t  <a href=\"https://science.nasa.gov/resource/pioneer-plaque/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Identikit of an alien astroEDU educational activity (links to astroEDU website) Description: Let's build the identikit of an alien living on a distant exoplanet! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Debate \n  \n, Guided-discovery learning \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 3 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/identikit-of-an-alien/\"><img alt=\"Identikit of an alien\" src=\"/media/astroedu/images/identikit-of-an-alien_en_thumbnail_4XkDM7E.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/identikit-of-an-alien/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Identikit of an alien</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's build the identikit of an alien living on a distant exoplanet!\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n\n\n\n\n  <b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nDebate \n  \n, Guided-discovery learning \n  \n, Observation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n3 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Фоторобот инопланетянина — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Давайте создадим фоторобот инопланетянина, живущего на далекой экзопланете! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Возрастные диапазоны: 8-10, 10-12, 12-14. Уровень образования: Средняя школа, Начальная школа. Основные области обучения: Дебаты, Обучение через управляемое открытие, Обучение на основе наблюдений, Обучение через структурированное исследование. Затраты: Низкие затраты. Продолжительность: 3 часов. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Построение объяснений"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Extraterrestrial Intelligence",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Extraterrestrial Intelligence",
+          "body": "Extraterrestrial intelligence refers to the possible existence of intelligent entities other than those on Earth. Searches for extraterrestrial intelligence have included looking for radio or other signals, but much current research is centered on determining whether the conditions for intelligent life are present elsewhere. Going by the available evidence, the necessary conditions for the emergence of life on Earth – a solid planet, at a distance from its star where liquid water can exist on the planet's surface, atoms like carbon and oxygen, and the conditions to form more complex molecules – should exist on numerous other planets within our Galaxy and beyond. It is not an unreasonable assumption that intelligent life might have arisen at least on some of those planets, although we have no solid basis for estimating the probability of that happening. Some astronomers have used radio signals to search for putative messages as part of a Search for Extraterrestrial Intelligence (SETI). The speed of light as a fundamental physical limit means that interstellar journeys would take very long times, limiting the ability for us to come into direct contact with extraterrestrial intelligences."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Identikit of an alien astroEDU educational activity (links to astroEDU website) Description: Let's build the identikit of an alien living on a distant exoplanet! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Debate \n  \n, Guided-discovery learning \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 3 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations"
+        }
+      }
+    },
+    "ru": {
+      "title": "Внеземной разум",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Внеземной разум",
+          "body": "Внеземной разум относится к возможному существованию разумных существ, отличных от тех, что на Земле. Поиски внеземного разума включали поиск радиосигналов или других сигналов, но многие текущие исследования сосредоточены на определении того, присутствуют ли условия для разумной жизни где-либо еще. Судя по имеющимся данным, необходимые условия для возникновения жизни на Земле — твердая планета, на расстоянии от своей звезды, где жидкая вода может существовать на поверхности планеты, атомы, такие как углерод и кислород, и условия для образования более сложных молекул — должны существовать на многочисленных других планетах в нашей Галактике и за ее пределами. Это не необоснованное предположение, что разумная жизнь могла возникнуть, по крайней мере, на некоторых из этих планет, хотя у нас нет твердой основы для оценки вероятности этого. Некоторые астрономы использовали радиосигналы для поиска предполагаемых сообщений в рамках программы Поиска внеземного разума (SETI). Скорость света как фундаментальный физический предел означает, что межзвездные путешествия займут очень много времени, ограничивая нашу способность вступить в прямой контакт с внеземными разумами."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Фоторобот инопланетянина — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Давайте создадим фоторобот инопланетянина, живущего на далекой экзопланете! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Возрастные диапазоны: 8-10, 10-12, 12-14. Уровень образования: Средняя школа, Начальная школа. Основные области обучения: Дебаты, Обучение через управляемое открытие, Обучение на основе наблюдений, Обучение через структурированное исследование. Затраты: Низкие затраты. Продолжительность: 3 часов. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Построение объяснений"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:as70Ly49bn92",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/arecibo-message.png",
+      "record_url": "https://astro4edu.org/resources/media/as70Ly49bn92/",
+      "original_path": "data/media/original/media_as70Ly49bn92.png",
+      "ru_path": null,
+      "sha256": "db44fe676efbd1b983d9733d6d15a4b1ccda12d4a6d8acd70dde406deebd1f76",
+      "size": 61851,
+      "title_en": "Arecibo Message",
+      "title_ru": "Послание Аресибо",
+      "short_caption_en": "Arecibo Message",
+      "short_caption_ru": "Послание Аресибо",
+      "caption_en": "This image shows a representation of an interstellar radio message, known as the “Arecibo Message”. As part of this visualisation different parts are highlighted by different colors. It was sent on the 16th of November in 1974 from the Arecibo Telescope in Puerto Rico, at this time the largest radio telescope on Earth, on the 16th of November in 1974. Its destination was the globular cluster M13 in the constellation of Hercules. M13 is one of the brightest of its kind, contains about half a million stars and is located at a distance of approximately 25 000 light years. It was chosen as a target because of its dense stellar population, meaning the message would reach more stars and hopefully planets. Moreover, it is one of the nearer globular clusters available in the sky at the time and place when the message was sent.\r\nThe Arecibo Message was a symbolic event, intended to show that humans could broadcast a message to the stars. The message contains 1679 (chosen as it is the product of two prime numbers) bits of data which, when arrange in a two dimensional array, form the image shown here. It consists of seven parts which contain representations of DNA, a human, and information on the Earth and Solar System. The message content was designed by a group of scientists from Cornell University and the Arecibo Observatory.",
+      "caption_ru": "Это изображение представляет собой визуализацию межзвёздного радиопослания, известного как «Послание Аресибо». В рамках этой визуализации различные части выделены разными цветами. Оно было отправлено 16 ноября 1974 года с радиотелескопа Аресибо в Пуэрто-Рико, на тот момент крупнейшего радиотелескопа на Земле, 16 ноября 1974 года. Его целью было шаровое скопление M13 в созвездии Геркулеса. M13 — одно из самых ярких скоплений своего типа, содержит около полумиллиона звёзд и находится на расстоянии примерно 25 000 световых лет. Оно было выбрано в качестве цели из-за плотной звёздной популяции, что означало, что послание достигнет большего числа звёзд и, возможно, планет. Кроме того, это одно из ближайших шаровых скоплений, доступных на небе в то время и в том месте, когда было отправлено послание.\r\nПослание Аресибо было символическим событием, призванным показать, что люди могут передавать сообщения к звёздам. Послание содержит 1679 бит данных (выбрано, так как это произведение двух простых чисел), которые при расположении в двумерном массиве образуют изображение, показанное здесь. Оно состоит из семи частей, содержащих изображения ДНК, человека и информацию о Земле и Солнечной системе. Содержание послания было разработано группой учёных из Корнеллского университета и обсерватории Аресибо.",
+      "alt_en": "An array of colored pixels showing graphics including a double helix and a stick figure drawing of a human",
+      "alt_ru": "Массив цветных пикселей, отображающий графику, включая двойную спираль и схематичный рисунок человека",
+      "credit": "Arne Nordmann (wikicommons user norro)",
+      "credit_url": "https://en.wikipedia.org/wiki/File:Arecibo_message.svg",
+      "license": "CC-BY-SA-3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "term_numbers": [
+        108
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:7Z43MS63Ln65",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/pioneer-plaques.png",
+      "record_url": "https://astro4edu.org/resources/media/7Z43MS63Ln65/",
+      "original_path": "data/media/original/media_7Z43MS63Ln65.png",
+      "ru_path": null,
+      "sha256": "21388cac38820f0a4e07056709eef4bcf2793bae170744e82a2c343400833c67",
+      "size": 5943483,
+      "title_en": "Pioneer Plaques",
+      "title_ru": "Пластинки «Пионера»",
+      "short_caption_en": "Pioneer Plaques",
+      "short_caption_ru": "Пластинки «Пионера»",
+      "caption_en": "The Pioneer 10 and 11 spacecraft are the first human-made objects to leave the solar system and venture into interstellar space. To inform potentially intelligent species about our existence, they both carry small metal plaques identifying their time, place of origin and information about their builders. They provide the location of our solar system in the Milky Way by depicting the Solar System's position relative to 14 pulsars, with radiating lines that include information about their frequencies. A model of a hydrogen atom undergoing one particular atomic transition is depicted. The wavelength and frequency of this transition are used to express sizes and frequencies of the other items shown in the plaque. A more detailed view of Earth's position in the solar system, with the spacecraft's trajectory moving away from Earth, passing Mars and Jupiter is displayed at the bottom. The plaque also depicts a naked man and woman alongside the spacecraft to provide a sense of scale. The man’s hand is raised as a friendly gesture. \r\nThe 6-inch by 9-inch gold-anodized aluminum plate has the design engraved on it. It was attached to the support struts of the spacecraft's antenna to try to to protect it from  erosion by any interstellar dust the spacecraft may encounter on its journey. Designed by Carl Sagan and Frank Drake, with artwork by Linda Salzman Sagan, these plaques are meant to communicate the origin of the spacecraft to any extraterrestrial life that might encounter them. \r\nWhile Pioneer 10 is on a course towards the star Aldebaran in the Taurus constellation, which will take about two million years to reach, Pioneer 11 is heading in a different direction towards the constellation of Aquila. It will take approximately four million years to pass close to some of the constellation’s stars.",
+      "caption_ru": "Космические аппараты «Пионер 10» и «Пионер 11» — первые созданные человеком объекты, покинувшие Солнечную систему и вышедшие в межзвёздное пространство. Чтобы сообщить потенциально разумным видам о нашем существовании, оба аппарата несут небольшие металлические пластинки, указывающие их время, место происхождения и информацию об их создателях. Они показывают местоположение нашей Солнечной системы в Млечном Пути, изображая положение Солнечной системы относительно 14 пульсаров, с радиальными линиями, содержащими информацию об их частотах. Изображена модель атома водорода, совершающего один определённый атомный переход. Длина волны и частота этого перехода используются для выражения размеров и частот других элементов, показанных на пластинке. В нижней части показан более детальный вид положения Земли в Солнечной системе с траекторией космического аппарата, удаляющегося от Земли, проходящего мимо Марса и Юпитера. На пластинке также изображены обнажённые мужчина и женщина рядом с космическим аппаратом для передачи масштаба. Рука мужчины поднята в дружеском жесте.\r\nПластина из золотистого анодированного алюминия размером 6 на 9 дюймов имеет выгравированный на ней рисунок. Она была прикреплена к опорным стойкам антенны космического аппарата, чтобы попытаться защитить её от эрозии межзвёздной пылью, с которой аппарат может столкнуться в пути. Разработанные Карлом Саганом и Фрэнком Дрейком, с художественным оформлением Линды Зальцман Саган, эти пластинки предназначены для передачи информации о происхождении космического аппарата любой внеземной жизни, которая может их обнаружить.\r\nВ то время как «Пионер 10» направляется к звезде Альдебаран в созвездии Тельца, что займёт около двух миллионов лет, «Пионер 11» движется в другом направлении — к созвездию Орла. Ему потребуется примерно четыре миллиона лет, чтобы пройти вблизи некоторых звёзд этого созвездия.",
+      "alt_en": "Gold plaque with drawings of a man & woman,  Pioneer spacecraft, solar system, a hydrogen atom and lines converging on Earth",
+      "alt_ru": "Золотая пластинка с рисунками мужчины и женщины, космического аппарата «Пионер», Солнечной системы, атома водорода и линий, сходящихся к Земле",
+      "credit": "NASA Ames",
+      "credit_url": "https://science.nasa.gov/resource/pioneer-plaque/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        108
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

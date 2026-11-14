@@ -1,0 +1,184 @@
+{
+  "id": "term:24",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 24,
+    "url": "https://astro4edu.org/resources/glossary/term/24/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=24",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:10.892658+00:00",
+    "sha256": "e151b8ba35365a19a904b626a2bbe099471ae286c9e057289f7f1405d2053143"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society"
+    ],
+    "category_ids": [
+      11
+    ],
+    "categories_ru": [
+      "Астрономия и общество"
+    ],
+    "related_term_numbers": [
+      27
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Astronomer",
+      "body": "An astronomer studies the objects that make up the Universe. Astronomers can be professionals or amateurs. Professional astronomers and some amateur astronomers analyze scientific data obtained through telescopes on Earth and in space to answer questions about the composition of objects in the cosmos, their distribution, evolution, and future. With this information astronomers formulate new theories that explain what we see in the Universe from the small to large scales. Some amateur astronomers observe the sky simply to admire the wonder of the Universe. In practice, there is no difference between a professional astronomer and an astrophysicist. In modern astronomy, professional observations are always linked with attempts to model the physical processes producing the phenomena that are being observed, and university-level training in astronomy includes the relevant physics knowledge as a matter of course.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/27/",
+          "text_ru": "Астрономия"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Astronomer</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An astronomer studies the objects that make up the Universe. Astronomers can be professionals or amateurs. Professional astronomers and some amateur astronomers analyze scientific data obtained through telescopes on Earth and in space to answer questions about the composition of objects in the cosmos, their distribution, evolution, and future. With this information astronomers formulate new theories that explain what we see in the Universe from the small to large scales. Some amateur astronomers observe the sky simply to admire the wonder of the Universe. In practice, there is no difference between a professional astronomer and an astrophysicist. In modern astronomy, professional observations are always linked with attempts to model the physical processes producing the phenomena that are being observed, and university-level training in astronomy includes the relevant physics knowledge as a matter of course.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/27/\">Astronomy</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Астроном",
+      "body_ru": "Астроном изучает объекты, составляющие Вселенную. Астрономы могут быть профессионалами или любителями. Профессиональные астрономы и некоторые астрономы-любители анализируют научные данные, полученные с помощью телескопов на Земле и в космосе, чтобы ответить на вопросы о составе объектов в космосе, их распределении, эволюции и будущем. С помощью этой информации астрономы формулируют новые теории, объясняющие то, что мы видим во Вселенной от малых до больших масштабов. Некоторые астрономы-любители наблюдают небо просто для того, чтобы восхищаться чудом Вселенной. На практике нет разницы между профессиональным астрономом и астрофизиком. В современной астрономии профессиональные наблюдения всегда связаны с попытками моделирования физических процессов, производящих наблюдаемые явления, и университетское образование в области астрономии, как правило, включает соответствующие знания по физике."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/24/\">الفلكى </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/24/\">Astronom </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/24/\">Astrónomo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/24/\">Astronome </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/24/\">Astronomo </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/24/\">Astrônomo </a></span></li>\n<li><b>Albanian: </b><span dir=\"LTR\" lang=\"sq\"><a class=\"link-bold\" href=\"/sq/resources/glossary/term/24/\">Astronom </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/24/\">天文学家 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/24/\">天文學家 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/sz73qI11nt9/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:sz73qI11nt9"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/sz73qI11nt9/\"><img alt=\"Two astronomers view a lunar eclipse. Between them in the partly cloudy sky, a series of bright circles trace a curved path\" src=\"/media/multimedia/thumbnails/the-eclipse-between-us-by-muhammad-rayhan-indonesia_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Eclipse Between Us, by Muhammad Rayhan, Indonesia</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\n\nTotal lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope. Here we see the stages of the total lunar eclipse of 31.1.2018 photographed in Indonesia: starting with the entry of the full moon disk into Earth's round umbra, the totality as Blood Moon, and the beginning of the Moon's exit from Earth's umbra until moonset.<br/>\n<b>Credit:</b> Muhammad Rayhan/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Astronomer",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Astronomer",
+          "body": "An astronomer studies the objects that make up the Universe. Astronomers can be professionals or amateurs. Professional astronomers and some amateur astronomers analyze scientific data obtained through telescopes on Earth and in space to answer questions about the composition of objects in the cosmos, their distribution, evolution, and future. With this information astronomers formulate new theories that explain what we see in the Universe from the small to large scales. Some amateur astronomers observe the sky simply to admire the wonder of the Universe. In practice, there is no difference between a professional astronomer and an astrophysicist. In modern astronomy, professional observations are always linked with attempts to model the physical processes producing the phenomena that are being observed, and university-level training in astronomy includes the relevant physics knowledge as a matter of course."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Астроном",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Астроном",
+          "body": "Астроном изучает объекты, составляющие Вселенную. Астрономы могут быть профессионалами или любителями. Профессиональные астрономы и некоторые астрономы-любители анализируют научные данные, полученные с помощью телескопов на Земле и в космосе, чтобы ответить на вопросы о составе объектов в космосе, их распределении, эволюции и будущем. С помощью этой информации астрономы формулируют новые теории, объясняющие то, что мы видим во Вселенной от малых до больших масштабов. Некоторые астрономы-любители наблюдают небо просто для того, чтобы восхищаться чудом Вселенной. На практике нет разницы между профессиональным астрономом и астрофизиком. В современной астрономии профессиональные наблюдения всегда связаны с попытками моделирования физических процессов, производящих наблюдаемые явления, и университетское образование в области астрономии, как правило, включает соответствующие знания по физике."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:sz73qI11nt9",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5419327/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Total%20lunar%20eclipse%3A%20The%20Eclipse%20Between%20Us%2C%20by%20Muhammad%20Rayhan%2C%20Indonesia.jpg",
+      "record_url": "https://astro4edu.org/resources/media/sz73qI11nt9/",
+      "original_path": "data/media/original/media_sz73qI11nt9.jpg",
+      "ru_path": null,
+      "sha256": "002418b536418528514068ba55f0030a5b968e99a9f69651cdcda91ab022641c",
+      "size": 12572686,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Total lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope.",
+      "short_caption_ru": "Полные лунные затмения относятся к довольно зрелищным небесным явлениям и легко наблюдаются как с телескопом, так и без него.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Total lunar eclipse.\r\n\r\nTotal lunar eclipses belong to the rather spectacular celestial events and can be observed easily with and without a telescope. Here we see the stages of the total lunar eclipse of 31.1.2018 photographed in Indonesia: starting with the entry of the full moon disk into Earth's round umbra, the totality as Blood Moon, and the beginning of the Moon's exit from Earth's umbra until moonset.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2021 года, категория Полное лунное затмение.\r\n\r\nПолные лунные затмения относятся к довольно зрелищным небесным явлениям и легко наблюдаются как с телескопом, так и без него. Здесь мы видим этапы полного лунного затмения 31.1.2018, сфотографированного в Индонезии: начиная с входа полного диска Луны в круглую тень Земли, полная фаза как Кровавая Луна, и начало выхода Луны из тени Земли до захода Луны.",
+      "alt_en": "Two astronomers view a lunar eclipse. Between them in the partly cloudy sky, a series of bright circles trace a curved path",
+      "alt_ru": "Два астронома наблюдают лунное затмение. Между ними в частично облачном небе серия ярких кругов очерчивает изогнутый путь",
+      "credit": "Muhammad Rayhan/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        24,
+        27,
+        91,
+        181,
+        226,
+        352,
+        364
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

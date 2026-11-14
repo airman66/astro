@@ -1,0 +1,150 @@
+{
+  "id": "term:117",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 117,
+    "url": "https://astro4edu.org/resources/glossary/term/117/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=117",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:46.818138+00:00",
+    "sha256": "aef81ee636ec33089721ec9f5fe86b29e13f54f546f89be615bd236ba8a620b2"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies",
+      "Milky Way and Interstellar Medium"
+    ],
+    "category_ids": [
+      8,
+      7
+    ],
+    "categories_ru": [
+      "Галактики",
+      "Млечный Путь и межзвёздная среда"
+    ],
+    "related_term_numbers": [
+      115,
+      116,
+      118,
+      119,
+      178,
+      336
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Galactic Disk",
+      "body": "The galactic disk is the disk component of the Milky Way that contains stars, gas, and dust in circular coplanar motion around the galactic center. The galactic disk is very thin compared to its diameter of about 100,000 light years. It is sometimes divided into two components: the thin disk which is about 1000 light years thick and the thick disk about 5000 light years thick. Whether the thick disk is a separate component of the galaxy or an extension of the thin disk is a matter of debate amongst astronomers. The thin disk has four spiral arms where the rate of star formation is relatively high. The disk is surrounded by a large galactic halo. Although the Milky Way is well studied its precise structure is still a matter of some debate, particularly near the core where the large density of stars and extinction due to interstellar material makes study difficult. Many other galaxies, including spiral and lenticular galaxies, have their own galactic disks.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Galactic Bulge",
+          "url": "https://www.astro4edu.org/resources/glossary/term/115/",
+          "text_ru": "Галактическая выпуклость"
+        },
+        {
+          "text": "Galactic Center",
+          "url": "https://www.astro4edu.org/resources/glossary/term/116/",
+          "text_ru": "Галактический центр"
+        },
+        {
+          "text": "Galactic Halo",
+          "url": "https://www.astro4edu.org/resources/glossary/term/118/",
+          "text_ru": "Галактическое гало"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Light Year",
+          "url": "https://www.astro4edu.org/resources/glossary/term/178/",
+          "text_ru": "Световой год"
+        },
+        {
+          "text": "Stellar Population",
+          "url": "https://www.astro4edu.org/resources/glossary/term/336/",
+          "text_ru": "Звёздное население"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Galactic Disk</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The galactic disk is the disk component of the Milky Way that contains stars, gas, and dust in circular coplanar motion around the galactic center. The galactic disk is very thin compared to its diameter of about 100,000 light years. It is sometimes divided into two components: the thin disk which is about 1000 light years thick and the thick disk about 5000 light years thick. Whether the thick disk is a separate component of the galaxy or an extension of the thin disk is a matter of debate amongst astronomers. The thin disk has four spiral arms where the rate of star formation is relatively high. The disk is surrounded by a large galactic halo. <br/><br/>Although the Milky Way is well studied its precise structure is still a matter of some debate, particularly near the core where the large density of stars and extinction due to interstellar material makes study difficult.<br/><br/>Many other galaxies, including spiral and lenticular galaxies, have their own galactic disks.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/115/\">Galactic Bulge</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/116/\">Galactic Center</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/118/\">Galactic Halo</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/178/\">Light Year</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/336/\">Stellar Population</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Галактический диск",
+      "body_ru": "Галактический диск — это дисковая компонента Млечного Пути, содержащая звёзды, газ и пыль, движущиеся по круговым компланарным орбитам вокруг галактического центра. Галактический диск очень тонкий по сравнению с его диаметром около 100,000 световых лет. Иногда его делят на две компоненты: тонкий диск толщиной около 1000 световых лет и толстый диск толщиной около 5000 световых лет. Является ли толстый диск отдельной компонентой галактики или продолжением тонкого диска, является предметом дискуссий среди астрономов. Тонкий диск имеет четыре спиральных рукава, где скорость звездообразования относительно высока. Диск окружён большим галактическим гало. Хотя Млечный Путь хорошо изучен, его точная структура всё ещё является предметом некоторых дискуссий, особенно вблизи ядра, где большая плотность звёзд и поглощение межзвёздным материалом затрудняют изучение. Многие другие галактики, включая спиральные и линзовидные галактики, имеют свои собственные галактические диски."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "銀河円盤 (external link)",
+          "url": "https://astro-dic.jp/galactic-disk/",
+          "text_ru": "Галактический диск (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/117/\">القرص المجري </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/117/\">Galaktische Scheibe </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/117/\">Disco galáctico </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/117/\">Disque galactique </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/117/\">Disco galattico </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/galactic-disk/\">銀河円盤 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/117/\">Disco Galáctico </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/117/\">银盘 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/117/\">銀盤 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Galactic Disk",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Galactic Disk",
+          "body": "The galactic disk is the disk component of the Milky Way that contains stars, gas, and dust in circular coplanar motion around the galactic center. The galactic disk is very thin compared to its diameter of about 100,000 light years. It is sometimes divided into two components: the thin disk which is about 1000 light years thick and the thick disk about 5000 light years thick. Whether the thick disk is a separate component of the galaxy or an extension of the thin disk is a matter of debate amongst astronomers. The thin disk has four spiral arms where the rate of star formation is relatively high. The disk is surrounded by a large galactic halo. Although the Milky Way is well studied its precise structure is still a matter of some debate, particularly near the core where the large density of stars and extinction due to interstellar material makes study difficult. Many other galaxies, including spiral and lenticular galaxies, have their own galactic disks."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Галактический диск",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Галактический диск",
+          "body": "Галактический диск — это дисковая компонента Млечного Пути, содержащая звёзды, газ и пыль, движущиеся по круговым компланарным орбитам вокруг галактического центра. Галактический диск очень тонкий по сравнению с его диаметром около 100,000 световых лет. Иногда его делят на две компоненты: тонкий диск толщиной около 1000 световых лет и толстый диск толщиной около 5000 световых лет. Является ли толстый диск отдельной компонентой галактики или продолжением тонкого диска, является предметом дискуссий среди астрономов. Тонкий диск имеет четыре спиральных рукава, где скорость звездообразования относительно высока. Диск окружён большим галактическим гало. Хотя Млечный Путь хорошо изучен, его точная структура всё ещё является предметом некоторых дискуссий, особенно вблизи ядра, где большая плотность звёзд и поглощение межзвёздным материалом затрудняют изучение. Многие другие галактики, включая спиральные и линзовидные галактики, имеют свои собственные галактические диски."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

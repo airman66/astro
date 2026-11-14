@@ -1,0 +1,329 @@
+{
+  "id": "term:76",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 76,
+    "url": "https://astro4edu.org/resources/glossary/term/76/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=76",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:29.728901+00:00",
+    "sha256": "af29059eede4840bbadcdd830f7750f83f6118be51a80a6ee2f6a155ed4135d0"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Cosmology"
+    ],
+    "category_ids": [
+      9
+    ],
+    "categories_ru": [
+      "Космология"
+    ],
+    "related_term_numbers": [
+      72,
+      75,
+      119,
+      120,
+      134
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Dark Matter",
+      "body": "Dark matter is a proposed form of matter that has mass, but is completely transparent and does not emit light. It has been postulated as a joint explanation for a variety of phenomena related to gravitational interactions. Early evidence for the existence of dark matter came from galaxies in galaxy clusters, which were found to be moving at comparatively high speeds. Postulating additional mass served to explain why, in spite of their speeds, the galaxies in question were gravitationally bound to their cluster instead of escaping. Measurements by Vera Rubin and others of the speeds at which stars and gas orbit in disk galaxies led to a wider acceptance of the concept of dark matter: there, the usual laws of gravity require considerable mass in addition to the visible matter in order to explain the observed high rotation speeds. More recently, gravitational lensing observations have indicated considerable non-luminous mass in galaxy clusters. In cosmology, the expansion history of the Universe points to there being more matter in the Universe than is accounted for in the form of luminous matter. The common explanation for the growth of structure in the early Universe also relies on the presence of dark matter. For these reasons, the standard cosmological models are referred to as \"Lambda CDM models\", where CDM stands for cold (slow-moving) dark matter. The nature of dark matter is a topic of intense research and debate both in cosmology and particle physics. Evidence for dark matter remains indirect, relying on observations of the effects of dark matter's mass on luminous matter or light. Several proposals exist for species of as yet undetected elementary particles that could make up dark matter, but the experiments set up to find direct evidence for such candidate particles have not so far been successful. There are also alternative proposed explanations that claim to account for the relevant observations without the involvement of new particle species.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Cosmology",
+          "url": "https://www.astro4edu.org/resources/glossary/term/72/",
+          "text_ru": "Космология"
+        },
+        {
+          "text": "Dark Energy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/75/",
+          "text_ru": "Тёмная энергия"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Galaxy Cluster",
+          "url": "https://www.astro4edu.org/resources/glossary/term/120/",
+          "text_ru": "Скопление галактик"
+        },
+        {
+          "text": "Gravitational Lens",
+          "url": "https://www.astro4edu.org/resources/glossary/term/134/",
+          "text_ru": "Гравитационная линза"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Dark Matter</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Dark matter is a proposed form of matter that has mass, but is completely transparent and does not emit light. It has been postulated as a joint explanation for a variety of phenomena related to gravitational interactions. <br/><br/>Early evidence for the existence of dark matter came from galaxies in galaxy clusters, which were found to be moving at comparatively high speeds. Postulating additional mass served to explain why, in spite of their speeds, the galaxies in question were gravitationally bound to their cluster instead of escaping. Measurements by Vera Rubin and others of the speeds at which stars and gas orbit in disk galaxies led to a wider acceptance of the concept of dark matter: there, the usual laws of gravity require considerable mass in addition to the visible matter in order to explain the observed high rotation speeds. More recently, gravitational lensing observations have indicated considerable non-luminous mass in galaxy clusters.<br/><br/>In cosmology, the expansion history of the Universe points to there being more matter in the Universe than is accounted for in the form of luminous matter. The common explanation for the growth of structure in the early Universe also relies on the presence of dark matter. For these reasons, the standard cosmological models are referred to as \"Lambda CDM models\", where CDM stands for cold (slow-moving) dark matter.<br/><br/>The nature of dark matter is a topic of intense research and debate both in cosmology and particle physics. Evidence for dark matter remains indirect, relying on observations of the effects of dark matter's mass on luminous matter or light. Several proposals exist for species of as yet undetected elementary particles that could make up dark matter, but the experiments set up to find direct evidence for such candidate particles have not so far been successful. There are also alternative proposed explanations that claim to account for the relevant observations without the involvement of new particle species.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/72/\">Cosmology</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/75/\">Dark Energy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/120/\">Galaxy Cluster</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/134/\">Gravitational Lens</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Темная материя",
+      "body_ru": "Темная материя — это предполагаемая форма материи, которая имеет массу, но полностью прозрачна и не излучает свет. Она была постулирована как совместное объяснение различных явлений, связанных с гравитационными взаимодействиями. Ранние свидетельства существования темной материи были получены при наблюдении галактик в скоплениях галактик, которые, как было обнаружено, движутся с относительно высокими скоростями. Постулирование дополнительной массы послужило объяснением того, почему, несмотря на свои скорости, рассматриваемые галактики гравитационно связаны со своим скоплением, а не покидают его. Измерения Веры Рубин и других скоростей, с которыми звезды и газ обращаются в дисковых галактиках, привели к более широкому признанию концепции темной материи: там обычные законы гравитации требуют значительной массы в дополнение к видимой материи, чтобы объяснить наблюдаемые высокие скорости вращения. Совсем недавно наблюдения гравитационного линзирования указали на значительную несветящуюся массу в скоплениях галактик. В космологии история расширения Вселенной указывает на то, что во Вселенной больше материи, чем учтено в форме светящейся материи. Общепринятое объяснение роста структуры в ранней Вселенной также опирается на присутствие темной материи. По этим причинам стандартные космологические модели называются «моделями Lambda CDM», где CDM означает холодную (медленно движущуюся) темную материю. Природа темной материи является темой интенсивных исследований и дискуссий как в космологии, так и в физике элементарных частиц. Свидетельства темной материи остаются косвенными, опираясь на наблюдения эффектов массы темной материи на светящуюся материю или свет. Существует несколько предложений о видах еще не обнаруженных элементарных частиц, которые могли бы составлять темную материю, но эксперименты, созданные для поиска прямых доказательств таких частиц-кандидатов, до сих пор не увенчались успехом. Существуют также альтернативные предложенные объяснения, которые претендуют на объяснение соответствующих наблюдений без участия новых видов частиц."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "ダークマター (external link)",
+          "url": "https://astro-dic.jp/dark-matter-2/",
+          "text_ru": "Тёмная материя (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/76/\">المادة المظلمة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/76/\">Dunkle Materie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/76/\">Materia oscura </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/76/\">Matière noire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/76/\">Materia oscura </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/dark-matter-2/\">ダークマター (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/76/\">암흑물질 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/76/\">Matéria Escura </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/76/\">暗物质 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/76/\">暗物質 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Kt24UW56WW96/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic0709a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/yr85gl38FA11/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.sdss.org",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Kt24UW56WW96",
+        "media:yr85gl38FA11"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Kt24UW56WW96/\"><img alt='Measurements of how gravity distorts light in the galaxy cluster ZwCl0024+1652, shows a \"ring\" of dark matter in blue' src=\"/media/multimedia/thumbnails/heic0709a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dark matter</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image of the galaxy cluster ZwCl0024+1652 is created using mathematical modelling, together with observations from the Hubble Space Telescope (HST).\n\nThe Hubble observations were taken in November 2004 by the Advanced Camera for Surveys (ACS). The exquisite resolution of the ACS, allowed very detailed measurements to be made of the gravitational lensing in the cluster. The blue nebulosity is a superimposed \"\"map\"\" of the dark matter distribution in the galaxy cluster and is not visible in the observations, but is a mathematical model created based on the gravitational lensing data.\n\nThe \"\"dark matter ring\"\" the is present in the image is one of the strongest pieces of evidence to date for the existence of dark matter. Observational data provides evidence that Dark matter makes up about 1/4 of the Universe, and is believed to make up the underlying structure of the cosmos. In addition, a large percentage the mass in galaxies and galaxy clusters is dark matter, which is not visible via direct observations.<br/>\n<b>Credit:</b> NASA, ESA, M.J. Jee and H. Ford (Johns Hopkins University)\n\t  <a href=\"https://esahubble.org/images/heic0709a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/yr85gl38FA11/\"><img alt=\"Galaxies map, each dot is a galaxy, forming a web-like structure, the outer circle marks a distance of 2 billion light years\" src=\"/media/multimedia/thumbnails/orangepie_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">SDSS Redshift Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows a map of the distribution of galaxies and is based on redshift data from the Sloan Digital Sky Survey (SDSS). Redshift measurements provides information on the distances, positions and motions of the galaxies. \n\nThe Earth is located at the center of the image, and each dot represents a galaxy. The outer circle represents a \"\"distance\"\" of about 2 billion light years. The idea of distance in cosmology is complex because the usual measurement of distance is the separation between two points in space at the same time. However, because of the speed of light, the further a distance, the farther back in time we are observing. The numbers on the outer circle are Right Ascension coordinates mapped onto a flat circle, and provides information on the position of the galaxies on the sky. The colours used represent the ages of the stars in the galaxies, the redder, more strongly clustered points represent galaxies comprising of older stars. The dark wedges that do not contain any dots are regions that were not mapped by the SDSS due to dust from the Milky Way galaxy obscuring the view.<br/>\n<b>Credit:</b> M. Blanton and Sloan Digital Sky Survey\n\t  <a href=\"https://www.sdss.org\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy astroEDU educational activity (links to astroEDU website) Description: Let's investigate the nature of dark matter and energy with gravitational lensing! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment \n  \n  , Invisible Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence Dark matter and Dark energy (Part 1) – Discovering the main components of the Universe astroEDU educational activity (links to astroEDU website) Description: Lets' investigate gravity, dark matter and dark energy with some very simple experiments! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment \n  \n  , Galaxies Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Observation based \n  \n, Other \n  \n, Problem-solving Costs: Low Cost Duration: 45 mins Group Size: Group Skills: Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "",
+          "url": "https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/"
+        },
+        {
+          "text": "Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy",
+          "url": "https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/",
+          "text_ru": "Темная материя и темная энергия (Часть 2) – Понимание природы темной материи и темной энергии"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://astroedu.iau.org/en/activities/dark-matter-and-dark-energy-part-1-discovering-the-main-components-of-the-universe/"
+        },
+        {
+          "text": "Dark matter and Dark energy (Part 1) – Discovering the main components of the Universe",
+          "url": "https://astroedu.iau.org/en/activities/dark-matter-and-dark-energy-part-1-discovering-the-main-components-of-the-universe/",
+          "text_ru": "Темная материя и темная энергия (Часть 1) – Открытие основных компонентов Вселенной"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Dark Matter&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/\"><img alt=\"Dark matter &amp; dark energy (Part 2) – Understanding the nature of dark matter and dark energy\" src=\"/media/astroedu/images/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-a_XTqFLCa.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"https://astroedu.iau.org/en/activities/dark-matter-dark-energy-part-2-understanding-the-nature-of-dark-matter-and-dark-energy/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dark matter &amp; dark energy (Part 2) – Understanding the nature of dark matter and dark energy</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's investigate the nature of dark matter and energy with gravitational lensing!\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Experiment \n  \n  , Invisible \n  \n  \n\n  <b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n\n\n\n\n  <b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n\n\n\n  <b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nConstructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"https://astroedu.iau.org/en/activities/dark-matter-and-dark-energy-part-1-discovering-the-main-components-of-the-universe/\"><img alt=\"Dark matter and Dark energy (Part 1) – Discovering the main components of the Universe\" src=\"/media/astroedu/images/dark-matter-and-dark-energy-part-1-discovering-the-main-components-of-th_asqqa5L.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"https://astroedu.iau.org/en/activities/dark-matter-and-dark-energy-part-1-discovering-the-main-components-of-the-universe/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dark matter and Dark energy (Part 1) – Discovering the main components of the Universe</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Lets' investigate gravity, dark matter and dark energy with some very simple experiments!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Experiment \n  \n  , Galaxies \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Observation based \n  \n, Other \n  \n, Problem-solving \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nConstructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Dark Matter&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Темная материя и темная энергия (Часть 2) – Понимание природы темной материи и темной энергии образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем природу темной материи и энергии с помощью гравитационного линзирования! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент \n  \n  , Невидимое Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа Области обучения: Обучение через управляемое открытие \n  \n, Интерактивная лекция \n  \n, Моделирование \n  \n, Решение проблем Затраты: Средние затраты Продолжительность: 45 мин Размер группы: Группа Навыки: Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств Темная материя и темная энергия (Часть 1) – Открытие основных компонентов Вселенной образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем гравитацию, темную материю и темную энергию с помощью нескольких очень простых экспериментов! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент \n  \n  , Галактики Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа Области обучения: Обучение через управляемое открытие \n  \n, Интерактивная лекция \n  \n, Моделирование \n  \n, На основе наблюдений \n  \n, Другое \n  \n, Решение проблем Затраты: Низкие затраты Продолжительность: 45 мин Размер группы: Группа Навыки: Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все мероприятия по этой теме"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Dark Matter",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Dark Matter",
+          "body": "Dark matter is a proposed form of matter that has mass, but is completely transparent and does not emit light. It has been postulated as a joint explanation for a variety of phenomena related to gravitational interactions. Early evidence for the existence of dark matter came from galaxies in galaxy clusters, which were found to be moving at comparatively high speeds. Postulating additional mass served to explain why, in spite of their speeds, the galaxies in question were gravitationally bound to their cluster instead of escaping. Measurements by Vera Rubin and others of the speeds at which stars and gas orbit in disk galaxies led to a wider acceptance of the concept of dark matter: there, the usual laws of gravity require considerable mass in addition to the visible matter in order to explain the observed high rotation speeds. More recently, gravitational lensing observations have indicated considerable non-luminous mass in galaxy clusters. In cosmology, the expansion history of the Universe points to there being more matter in the Universe than is accounted for in the form of luminous matter. The common explanation for the growth of structure in the early Universe also relies on the presence of dark matter. For these reasons, the standard cosmological models are referred to as \"Lambda CDM models\", where CDM stands for cold (slow-moving) dark matter. The nature of dark matter is a topic of intense research and debate both in cosmology and particle physics. Evidence for dark matter remains indirect, relying on observations of the effects of dark matter's mass on luminous matter or light. Several proposals exist for species of as yet undetected elementary particles that could make up dark matter, but the experiments set up to find direct evidence for such candidate particles have not so far been successful. There are also alternative proposed explanations that claim to account for the relevant observations without the involvement of new particle species."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Dark matter & dark energy (Part 2) – Understanding the nature of dark matter and dark energy astroEDU educational activity (links to astroEDU website) Description: Let's investigate the nature of dark matter and energy with gravitational lensing! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment \n  \n  , Invisible Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Problem-solving Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence Dark matter and Dark energy (Part 1) – Discovering the main components of the Universe astroEDU educational activity (links to astroEDU website) Description: Lets' investigate gravity, dark matter and dark energy with some very simple experiments! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Experiment \n  \n  , Galaxies Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n, Observation based \n  \n, Other \n  \n, Problem-solving Costs: Low Cost Duration: 45 mins Group Size: Group Skills: Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Тёмная материя",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Темная материя",
+          "body": "Темная материя — это предполагаемая форма материи, которая имеет массу, но полностью прозрачна и не излучает свет. Она была постулирована как совместное объяснение различных явлений, связанных с гравитационными взаимодействиями. Ранние свидетельства существования темной материи были получены при наблюдении галактик в скоплениях галактик, которые, как было обнаружено, движутся с относительно высокими скоростями. Постулирование дополнительной массы послужило объяснением того, почему, несмотря на свои скорости, рассматриваемые галактики гравитационно связаны со своим скоплением, а не покидают его. Измерения Веры Рубин и других скоростей, с которыми звезды и газ обращаются в дисковых галактиках, привели к более широкому признанию концепции темной материи: там обычные законы гравитации требуют значительной массы в дополнение к видимой материи, чтобы объяснить наблюдаемые высокие скорости вращения. Совсем недавно наблюдения гравитационного линзирования указали на значительную несветящуюся массу в скоплениях галактик. В космологии история расширения Вселенной указывает на то, что во Вселенной больше материи, чем учтено в форме светящейся материи. Общепринятое объяснение роста структуры в ранней Вселенной также опирается на присутствие темной материи. По этим причинам стандартные космологические модели называются «моделями Lambda CDM», где CDM означает холодную (медленно движущуюся) темную материю. Природа темной материи является темой интенсивных исследований и дискуссий как в космологии, так и в физике элементарных частиц. Свидетельства темной материи остаются косвенными, опираясь на наблюдения эффектов массы темной материи на светящуюся материю или свет. Существует несколько предложений о видах еще не обнаруженных элементарных частиц, которые могли бы составлять темную материю, но эксперименты, созданные для поиска прямых доказательств таких частиц-кандидатов, до сих пор не увенчались успехом. Существуют также альтернативные предложенные объяснения, которые претендуют на объяснение соответствующих наблюдений без участия новых видов частиц."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Темная материя и темная энергия (Часть 2) – Понимание природы темной материи и темной энергии образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем природу темной материи и энергии с помощью гравитационного линзирования! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент \n  \n  , Невидимое Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа Области обучения: Обучение через управляемое открытие \n  \n, Интерактивная лекция \n  \n, Моделирование \n  \n, Решение проблем Затраты: Средние затраты Продолжительность: 45 мин Размер группы: Группа Навыки: Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств Темная материя и темная энергия (Часть 1) – Открытие основных компонентов Вселенной образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем гравитацию, темную материю и темную энергию с помощью нескольких очень простых экспериментов! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Эксперимент \n  \n  , Галактики Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа Области обучения: Обучение через управляемое открытие \n  \n, Интерактивная лекция \n  \n, Моделирование \n  \n, На основе наблюдений \n  \n, Другое \n  \n, Решение проблем Затраты: Низкие затраты Продолжительность: 45 мин Размер группы: Группа Навыки: Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все мероприятия по этой теме"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Kt24UW56WW96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/heic0709a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Kt24UW56WW96/",
+      "original_path": "data/media/original/media_Kt24UW56WW96.jpg",
+      "ru_path": null,
+      "sha256": "6f1aca3a47862ab8dd756f00ceeceda145e8b9c414fe0120e7cb8a33a0a98e0b",
+      "size": 12297382,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A ghost ring of dark matter",
+      "short_caption_ru": "Призрачное кольцо темной материи",
+      "caption_en": "This image of the galaxy cluster ZwCl0024+1652 is created using mathematical modelling, together with observations from the Hubble Space Telescope (HST).\r\n\r\nThe Hubble observations were taken in November 2004 by the Advanced Camera for Surveys (ACS). The exquisite resolution of the ACS, allowed very detailed measurements to be made of the gravitational lensing in the cluster. The blue nebulosity is a superimposed \"\"map\"\" of the dark matter distribution in the galaxy cluster and is not visible in the observations, but is a mathematical model created based on the gravitational lensing data.\r\n\r\nThe \"\"dark matter ring\"\" the is present in the image is one of the strongest pieces of evidence to date for the existence of dark matter. Observational data provides evidence that Dark matter makes up about 1/4 of the Universe, and is believed to make up the underlying structure of the cosmos. In addition, a large percentage the mass in galaxies and galaxy clusters is dark matter, which is not visible via direct observations.",
+      "caption_ru": "Это изображение скопления галактик ZwCl0024+1652 создано с использованием математического моделирования вместе с наблюдениями космического телескопа Хаббла (HST).\r\n\r\nНаблюдения Хаббла были выполнены в ноябре 2004 с помощью Advanced Camera for Surveys (ACS). Исключительное разрешение ACS позволило провести очень детальные измерения гравитационного линзирования в скоплении. Синяя туманность представляет собой наложенную «карту» распределения темной материи в скоплении галактик и не видна в наблюдениях, но является математической моделью, созданной на основе данных гравитационного линзирования.\r\n\r\n«Кольцо темной материи», присутствующее на изображении, является одним из самых сильных на сегодняшний день доказательств существования темной материи. Данные наблюдений свидетельствуют о том, что темная материя составляет около 1/4 Вселенной, и считается, что она образует основную структуру космоса. Кроме того, большая часть массы в галактиках и скоплениях галактик приходится на темную материю, которая не видна при прямых наблюдениях.",
+      "alt_en": "Measurements of how gravity distorts light in the galaxy cluster ZwCl0024+1652, shows a \"ring\" of dark matter in blue",
+      "alt_ru": "Измерения того, как гравитация искажает свет в скоплении галактик ZwCl0024+1652, показывают «кольцо» тёмной материи синим цветом",
+      "credit": "NASA, ESA, M.J. Jee and H. Ford (Johns Hopkins University)",
+      "credit_url": "https://esahubble.org/images/heic0709a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        76
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:yr85gl38FA11",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/orangepie.jpg",
+      "record_url": "https://astro4edu.org/resources/media/yr85gl38FA11/",
+      "original_path": "data/media/original/media_yr85gl38FA11.jpg",
+      "ru_path": "data/media/ru/media_yr85gl38FA11.png",
+      "sha256": "d7eebd98f9c5f53da596cc182bb390f7bf96d26b88cbb417f6f67fe6d52680a5",
+      "size": 507354,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The SDSS galaxies map",
+      "short_caption_ru": "Карта галактик SDSS",
+      "caption_en": "This image shows a map of the distribution of galaxies and is based on redshift data from the Sloan Digital Sky Survey (SDSS). Redshift measurements provides information on the distances, positions and motions of the galaxies. \r\n\r\nThe Earth is located at the center of the image, and each dot represents a galaxy. The outer circle represents a \"\"distance\"\" of about 2 billion light years. The idea of distance in cosmology is complex because the usual measurement of distance is the separation between two points in space at the same time. However, because of the speed of light, the further a distance, the farther back in time we are observing. The numbers on the outer circle are Right Ascension coordinates mapped onto a flat circle, and provides information on the position of the galaxies on the sky. The colours used represent the ages of the stars in the galaxies, the redder, more strongly clustered points represent galaxies comprising of older stars. The dark wedges that do not contain any dots are regions that were not mapped by the SDSS due to dust from the Milky Way galaxy obscuring the view.",
+      "caption_ru": "Это изображение показывает карту распределения галактик и основано на данных о красном смещении из Слоановского цифрового обзора неба (SDSS). Измерения красного смещения дают информацию о расстояниях, положениях и движениях галактик. \r\n\r\nЗемля находится в центре изображения, и каждая точка представляет галактику. Внешняя окружность обозначает «расстояние» около 2 миллиардов световых лет. Понятие расстояния в космологии сложно, поскольку обычное измерение расстояния — это разделение между двумя точками в пространстве в одно и то же время. Однако из-за скорости света, чем дальше расстояние, тем дальше в прошлое мы наблюдаем. Числа на внешней окружности — это координаты прямого восхождения, отображённые на плоскую окружность, и они дают информацию о положении галактик на небе. Используемые цвета представляют возрасты звёзд в галактиках: более красные, сильнее сгруппированные точки представляют галактики, состоящие из более старых звёзд. Тёмные клинья, не содержащие точек, — это области, которые не были картированы SDSS из-за пыли от галактики Млечный Путь, заслоняющей обзор.",
+      "alt_en": "Galaxies map, each dot is a galaxy, forming a web-like structure, the outer circle marks a distance of 2 billion light years",
+      "alt_ru": "Карта галактик, каждая точка — галактика, образующая сетчатую структуру, внешняя окружность отмечает расстояние в 2 миллиарда световых лет",
+      "credit": "M. Blanton and Sloan Digital Sky Survey",
+      "credit_url": "https://www.sdss.org",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        76,
+        471
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ef251109f86096dee0c16a2a8d41b18855502823117171a548cbdd67fe6ead7a"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

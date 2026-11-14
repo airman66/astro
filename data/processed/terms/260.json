@@ -1,0 +1,245 @@
+{
+  "id": "term:260",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 260,
+    "url": "https://astro4edu.org/resources/glossary/term/260/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=260",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:33.858887+00:00",
+    "sha256": "8f9df26f9ad1eb968b62b950e4c20246bea0fb9b5f971f81aa0fb1245fc191bf"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": 90,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Earth's Rotation",
+      "body": "Earth has two simultaneous motions: a daily rotation around its axis and an annual revolution (orbit) around the Sun. The rotation of Earth around its axis results in the phenomena of day and night, as the location of a particular place relative to the Sun changes in a gradual and regular manner over a 24-hour cycle as Earth turns from west to east.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Axis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/35/",
+          "text_ru": "Ось"
+        },
+        {
+          "text": "Sun Path (Day Arc)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/343/",
+          "text_ru": "Путь Солнца (дневная дуга)"
+        },
+        {
+          "text": "Night",
+          "url": "https://www.astro4edu.org/resources/glossary/term/462/",
+          "text_ru": "Ночь"
+        },
+        {
+          "text": "Rotation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/473/",
+          "text_ru": "Вращение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Earth's Rotation</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Polar Axis</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Earth has two simultaneous motions: a daily rotation around its axis and an annual revolution (orbit) around the Sun. The rotation of Earth around its axis results in the phenomena of day and night, as the location of a particular place relative to the Sun changes in a gradual and regular manner over a 24-hour cycle as Earth turns from west to east.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/35/\">Axis</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/343/\">Sun Path (Day Arc)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/462/\">Night</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/473/\">Rotation</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Вращение Земли",
+      "body_ru": "Земля совершает два одновременных движения: суточное вращение вокруг своей оси и годовое обращение (орбиту) вокруг Солнца. Вращение Земли вокруг своей оси приводит к явлениям дня и ночи, поскольку положение конкретного места относительно Солнца меняется постепенно и закономерно в течение 24-часового цикла, пока Земля поворачивается с запада на восток."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/90/\">دوران الأرض </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/90/\">Erdrotation </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/90/\">Rotación de la Tierra </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/90/\">La rotation de la Terre </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/90/\">Rotazione della Terra </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/90/\">지구자전 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/90/\">Rotação da Terra </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/90/\">地球自转 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/90/\">地球自轉 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/4g12Pr80kF84/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/5C82uL75Pc27/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Jq59Xa17ay16/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/LF10IZ41Yc54/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/8i19wv485F65/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Earth's Rotation&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/4g12Pr80kF84/\"><img alt=\"The Big Dipper, seven bright stars shaped like a ladle, viewed in 4 seasons, each time at a different angle\" src=\"/media/multimedia/thumbnails/big-dipper-in-four-seasons_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Dipper in Four Seasons</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nAs Earth moves around the Sun, the positions of the stars in the night sky appear to change over the course of the year. This is well exemplified in this mosaic, with images taken in all four seasons throughout 2020 in the region of Veneto, Italy, showing the apparent motion of the Ursa Minor and Ursa Major constellations.\n\nUrsa Minor, the Little Bear, is a constellation of the northern hemisphere, and it contains the northern celestial pole, in our current epoch marked by a bright star called Polaris or the Pole Star. For centuries Polaris has been used for navigation in the northern hemisphere, as it has been almost at the exact pole position for roughly 200 years. In the Middle Ages and antiquity, there was no pole star; the celestial north pole lay in a dark region and the Greeks considered the “Little She-Bear” as a companion of the “Great She-Bear”, which is more easily recognizable. The brightest stars of these constellations were alternatively also considered as chariots by the Greeks, as written in Aratus’s famous didactic poem from the 3rd century before the common era. The most famous asterism in Ursa Major, composed of seven stars, has different names across the (northern) world. While considered as a chariot by the Greeks, it is “The Northern Dipper” in China, and “The Seven Oxen” for the ancient Romans.\n\nIt was also the navigational purpose that led to the name The Great She-Bear, Ursa Major; for the Greeks, travelling towards the direction of the horizon above which Ursa Major appears meant moving towards the land of the bears (northern Europe). An animal is clearly recognizable when taking into account all the fainter stars in the vicinity of the seven bright ones. They considered it a female bear because Greek mythology connects this animal with the nymph Callisto, whose story describes the initiation rituals for women.\n\nIn the top left, we see an image taken on a spring evening, while the image below shows the same portion of the sky on a summer evening. Going counterclockwise, we see the sky during autumn in the bottom right image, while the top right finally shows this portion of the sky in the winter. Note that the relative positions of Ursa Minor and the Big Dipper don’t change, but all stars appear to be moved in a circle around Polaris. This star pointing due north lies at the point where Earth’s rotational axis intersects the celestial sphere.\n\nThe shift of constellations throughout the year is therefore a globe-clock or a globe-calendar, used by ancient civilizations to measure the year, and to predict the changes of seasons. It helps to establish, for instance, the best time for sowing and sailing as winds change with the seasons.<br/>\n<b>Credit:</b> Giorgia Hofer/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/5C82uL75Pc27/\"><img alt=\"Hundreds of small arcs made by stars form circles centred on a point near the horizon. A tree stands in the foreground.\" src=\"/media/multimedia/thumbnails/star-trail-in-the-southern-hemisphere-with-bortle-4-scale-light-po_alIdetR.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Star Trail in the Southern Hemisphere with Bortle 4 Scale Light Pollution</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nThis breathtaking photo, captured under the clear night sky of Linggamekar Village, Cilimus, Kuningan, West Java, Indonesia on 25 June 2020, displays star trails sweeping across the southern hemisphere’s heavens. The star trails are due to Earth’s rotation causing the apparent motion of stars, creating these mesmerising arcs of light when followed over extended periods. Here, the point the stars rotate around (the South Celestial Pole) is close to the horizon, as the image was taken close to the equator. The photographer used the star trail feature on a smartphone, which captured a series of images over an extended period and stacked them together. The striking tree in the foreground adds depth to the image, contrasting the celestial motion above with its Earthly stillness, while also masking some of the surrounding light pollution. Different parts of the world offer diverse and stunning perspectives on the night sky, emphasising the importance of preserving dark skies everywhere.<br/>\n<b>Credit:</b> Slamat Riyadi/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Jq59Xa17ay16/\"><img alt=\"The Milky Way appears as a diagonal stripe bottom left to top right. It becomes more horizontal as the video progresses.\" src=\"/media/multimedia/thumbnails/Southern_Sky_Over_La_Silla_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Southern Sky Over La Silla</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place winner in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis video shows the Milky Way’s sprawling brilliance across the celestial expanse. Among the stars’ grand theatre, the Southern Cross constellation claims its place in the scene, distinguished by its distinctive cross shape as seen in the top of this video and slightly to the right just over the Milky Way, slowly disappearing as the video progresses. This celestial marker, a prominent feature in the southern hemisphere, holds cultural and navigational significance, having served as a navigational guidepost for centuries. Accompanying the Milky Way’s grandeur are the two Magellanic clouds, celestial companions seen dancing in the distant sky. The Carina Nebula adds its ethereal glow to the cosmic panorama, painting a radiant hue against the darkness. In the midst of this celestial ballet, a gentle green hue envelops the atmosphere, a phenomenon known as airglow, adding a touch of subtle luminescence to the night sky. The terrestrial also makes an appearance, with planes flying overhead and vehicles driving between observatory buildings. This time-lapse, taken from the La Silla Observatory in Chile, is a window to the captivating dance of stars, offering a glimpse into the awe-inspiring beauty of our galaxy and the celestial landmarks that grace the southern sky.<br/>\n<b>Credit:</b> José Rodrigues/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/LF10IZ41Yc54/\"><img alt=\"The Southern Cross points out the South Celestial Pole, around which the sky appears to rotate\" src=\"/media/multimedia/thumbnails/Beautiful_Night_in_the_Atacama_Desert_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Beautiful Night in the Atacama Desert</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nTaken from San Pedro de Atacama, Chile, in June 2023, this time-lapse reveals the celestial ballet that unfolds as the Southern Cross takes its majestic journey across the sky, pointing the way to the South Celestial Pole around which the sky rotates, until it gracefully sets. The star-studded canvas showcases the grandeur of the Milky Way, adorned by the rotating Large and Small Magellanic Clouds swirling around the Southern Celestial Pole. The prominent constellations of Crux, Centaurus, Scorpius, and the former Argo Navis (Carina, Puppis, Vela) are also visible. The spectacle begins just after nightfall, capturing the radiant descent of Canopus, a beacon about to dip below the horizon. Throughout the sequence, there is a subtle presence of passing aeroplanes, fleeting headlights of cars, drifting clouds, and the ethereal airglow. At a stunning moment, a vivid meteor streaked across the sky, a breathtaking fireball briefly igniting the right lower corner around the 41st second mark. As the sequence progresses, the rising moon elegantly illuminates the landscape, casting its glow upon an ancient tree trunk resting on the dry, dusty grounds of the Salar de Atacama. This captivating journey through the night skies concludes before the break of dawn, offering a glimpse into the celestial marvels that are woven into the nocturnal tapestry of San Pedro de Atacama.<br/>\n<b>Credit:</b> Uwe Reichert/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/8i19wv485F65/\"><img alt=\"The dish of a radio telescope rotates as the Big Dipper moves in the sky behind.\" src=\"/media/multimedia/thumbnails/The_Big_Dipper_with_the_Sardinia_Radio_Telescope_SRT_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Big Dipper with the Sardinia Radio Telescope SRT</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis time-lapse captures the movement of the stars alongside the majestic 64-metre Sardinia Radio Telescope (SRT) from the National Institute of Astrophysics (INAF), with special attention to the renowned Big Dipper against the backdrop of the celestial sphere. The camera pans as the famous asterism sinks in the sky while planes fly past and the radio telescope rotates. The harmonious interplay between the stellar pathways and the colossal dish of the radio telescope creates a mesmerising visual ode to the cosmic ballet taken in September 2019.<br/>\n<b>Credit:</b> Antonio Finazzi/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Earth's Rotation&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Qf59LF190B19/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Qf59LF190B19/\"><img alt=\"Two views of the Earth with important lines of latitude and longitude marked\" src=\"/media/diagrams/multimedia/thumbnails/latitude_longitude_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Latitude and Longitude</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Two views of the Earth, one viewing the Northern Hemisphere, one viewing the Southern Hemisphere. The Earth rotates around its axis, an imaginary line that runs through the Earth from the North Pole to the South Pole. The Equator is an imaginary line that is the same distant from both the North Pole and the South Pole.\n\nThe positions of two cities, Rome in the Northern Hemisphere and Sydney in the Southern Hemisphere are marked here with red dots. Arrows indicate the two spherical coordinates latitude and longitude. \n\nLatitude marks the position north or south of the equator. Here we can see Rome has the letter N in its latitude as it is in the Northern Hemisphere and Sydney has the letter S in its latitude as it is in the Southern Hemisphere. Latitude can vary from 90° N at the North Pole to 0° at the Equator to 90° S at the South Pole.\n\nLongitude measures the position around the equator. While the choice of the zero point for latitude as the equator seems obvious, the choice of the zero point for longitude is more subjective. By convention the zero point in longitude is the prime meridian which passes through the Royal Greenwich Observatory in the UK. This is marked here as a solid line originating at the North Pole. Longitude is measured in degrees east or west of the prime meridian. As both Rome and Sydney lie to the east of Greenwich, they have the letter E as part of their longitude. Moving west to east, longitude varies from 180° W on the other side of the world from the prime meridian to 0° on the prime meridian before reaching 180° E again on the other side of world from the prime meridian.\n\nThis diagram shows the Earth at the December solstice. Two views are presented, one viewing the Northern Hemisphere and one viewing the Southern Hemisphere about nine hours later. The shaded region shows the night side of the Earth, with the day side being lighter. As it is the December solstice, the Sun appears overhead at the Tropic of Capricorn. This is a line of constant latitude at 23°26′09.3″ S. Six months later, at the June solstice, the Sun will appear to be overhead at the Tropic of Cancer at 23°26′09.3″ N. As the Sun appears over the Tropic of Capricorn more of the Southern Hemisphere is illuminated than the Northern Hemisphere. Indeed below the Antarctic Circle (the Polar Circle around the South Pole) the Sun does not set at this time of year leading to a Polar Day. Conversely, north of the Arctic Circle (the Polar Circle around the North Pole) the Sun does not rise at this time of year, leading to a Polar Night.<br/>\n<b>Credit:</b> Maria Cristina Fortuna/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Polar Axis",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Earth's Rotation",
+          "body": "Earth has two simultaneous motions: a daily rotation around its axis and an annual revolution (orbit) around the Sun. The rotation of Earth around its axis results in the phenomena of day and night, as the location of a particular place relative to the Sun changes in a gradual and regular manner over a 24-hour cycle as Earth turns from west to east."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Полярная ось",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Вращение Земли",
+          "body": "Земля совершает два одновременных движения: суточное вращение вокруг своей оси и годовое обращение (орбиту) вокруг Солнца. Вращение Земли вокруг своей оси приводит к явлениям дня и ночи, поскольку положение конкретного места относительно Солнца меняется постепенно и закономерно в течение 24-часового цикла, пока Земля поворачивается с запада на восток."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

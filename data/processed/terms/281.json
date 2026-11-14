@@ -1,0 +1,147 @@
+{
+  "id": "term:281",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 281,
+    "url": "https://astro4edu.org/resources/glossary/term/281/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=281",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:40.304260+00:00",
+    "sha256": "84ee2baf5d4310eb145ae3543f73aed0e0e466d2c3146b24b07fa3bbcce6c096"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      3
+    ],
+    "categories_ru": [
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      122,
+      279,
+      282,
+      352,
+      451,
+      459
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Refracting Telescope",
+      "body": "A refracting telescope is a telescope that uses a lens as its main light-gathering element. This is opposed to a reflecting telescope, which uses a mirror in this role. Refracting telescopes are still common as amateur telescopes, where a special combination of lenses that correct for unwanted color effects (\"achromatic telescopes\") can produce excellent image quality for visual observing and for astrophotography. In professional astronomy, refracting telescopes were largely displaced by mirror telescopes from the early 1900s onwards. Astronomers wanted ever-larger apertures (lens or mirror diameters), and it is difficult to make refracting telescopes beyond lens sizes of about one meter as a lens is only supported at the rim, leading to the heavy center of the lens sagging under gravity, distorting the lens's shape and optical properties.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Galilean Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/122/",
+          "text_ru": "Галилеевский телескоп"
+        },
+        {
+          "text": "Reflecting Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/279/",
+          "text_ru": "Зеркальный телескоп"
+        },
+        {
+          "text": "Refraction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/282/",
+          "text_ru": "Рефракция"
+        },
+        {
+          "text": "Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/352/",
+          "text_ru": "Телескоп"
+        },
+        {
+          "text": "Lens",
+          "url": "https://www.astro4edu.org/resources/glossary/term/451/",
+          "text_ru": "Линза"
+        },
+        {
+          "text": "Mirror",
+          "url": "https://www.astro4edu.org/resources/glossary/term/459/",
+          "text_ru": "Зеркало"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Refracting Telescope</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A refracting telescope is a telescope that uses a lens as its main light-gathering element. This is opposed to a reflecting telescope, which uses a mirror in this role. Refracting telescopes are still common as amateur telescopes, where a special combination of lenses that correct for unwanted color effects (\"achromatic telescopes\") can produce excellent image quality for visual observing and for astrophotography. In professional astronomy, refracting telescopes were largely displaced by mirror telescopes from the early 1900s onwards. Astronomers wanted ever-larger apertures (lens or mirror diameters), and it is difficult to make refracting telescopes beyond lens sizes of about one meter as a lens is only supported at the rim, leading to the heavy center of the lens sagging under gravity, distorting the lens's shape and optical properties.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/122/\">Galilean Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/279/\">Reflecting Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/282/\">Refraction</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/352/\">Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/451/\">Lens</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/459/\">Mirror</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: преломляющий телескоп",
+      "body_ru": "Преломляющий телескоп — это телескоп, который использует линзу в качестве основного светособирающего элемента. Это противоположно отражательному телескопу, который использует в этой роли зеркало. Преломляющие телескопы по-прежнему распространены как любительские телескопы, где специальная комбинация линз, корректирующая нежелательные цветовые эффекты («ахроматические телескопы»), может обеспечить отличное качество изображения для визуальных наблюдений и астрофотографии. В профессиональной астрономии преломляющие телескопы были в значительной степени вытеснены зеркальными телескопами с начала 1900-х годов. Астрономы хотели всё больших апертур (диаметров линз или зеркал), а изготовить преломляющие телескопы с размерами линз более примерно одного метра сложно, поскольку линза поддерживается только по краю, что приводит к провисанию тяжёлого центра линзы под действием силы тяжести, искажая форму линзы и её оптические свойства."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "屈折望遠鏡 (external link)",
+          "url": "https://astro-dic.jp/refractive-telescope/",
+          "text_ru": "Преломляющий телескоп (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/281/\">تلسكوب كاسر </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/281/\">Fernrohr </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/281/\">Telescopio refractor </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/281/\">Télescope réfracteur </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/281/\">अपवर्तक दूरबीन </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/281/\">Telescopio rifrattore </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/refractive-telescope/\">屈折望遠鏡 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/281/\">अपवर्तनीय दुर्बीण (रिफ्रॅक्टिंग टेलिस्कोप) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/281/\">Telescópio Refrator </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/281/\">折射式望远镜 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/281/\">折射式望遠鏡 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Refracting Telescope",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Refracting Telescope",
+          "body": "A refracting telescope is a telescope that uses a lens as its main light-gathering element. This is opposed to a reflecting telescope, which uses a mirror in this role. Refracting telescopes are still common as amateur telescopes, where a special combination of lenses that correct for unwanted color effects (\"achromatic telescopes\") can produce excellent image quality for visual observing and for astrophotography. In professional astronomy, refracting telescopes were largely displaced by mirror telescopes from the early 1900s onwards. Astronomers wanted ever-larger apertures (lens or mirror diameters), and it is difficult to make refracting telescopes beyond lens sizes of about one meter as a lens is only supported at the rim, leading to the heavy center of the lens sagging under gravity, distorting the lens's shape and optical properties."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Рефракторный телескоп",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: преломляющий телескоп",
+          "body": "Преломляющий телескоп — это телескоп, который использует линзу в качестве основного светособирающего элемента. Это противоположно отражательному телескопу, который использует в этой роли зеркало. Преломляющие телескопы по-прежнему распространены как любительские телескопы, где специальная комбинация линз, корректирующая нежелательные цветовые эффекты («ахроматические телескопы»), может обеспечить отличное качество изображения для визуальных наблюдений и астрофотографии. В профессиональной астрономии преломляющие телескопы были в значительной степени вытеснены зеркальными телескопами с начала 1900-х годов. Астрономы хотели всё больших апертур (диаметров линз или зеркал), а изготовить преломляющие телескопы с размерами линз более примерно одного метра сложно, поскольку линза поддерживается только по краю, что приводит к провисанию тяжёлого центра линзы под действием силы тяжести, искажая форму линзы и её оптические свойства."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

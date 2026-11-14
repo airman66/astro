@@ -1,0 +1,389 @@
+{
+  "id": "term:526",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 526,
+    "url": "https://astro4edu.org/resources/glossary/term/526/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=526",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:53.552265+00:00",
+    "sha256": "757d1155f5dd07ab3b8e2d74b17d9ea34a8dc8e00932bb8643a7340bd68f7479"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies"
+    ],
+    "category_ids": [
+      8
+    ],
+    "categories_ru": [
+      "Галактики"
+    ],
+    "related_term_numbers": [
+      70,
+      256,
+      337,
+      349,
+      450,
+      487
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Supernova Remnant",
+      "body": "A supernova remnant is the structure remaining from a supernova explosion. It consists of a huge structure of hot gas and plasma created by the shock of the supernova. In many supernova remnants the black hole or neutron star created from the star that exploded in the supernova is also present although in some this has been ejected by the force of the explosion. The explosive energy of a supernova results in a shockwave that impacts on the surrounding interstellar gas. This shock heats and ionizes the surrounding gas to extremely high temperatures (over a million kelvins). This hot gas emits light across various wavelengths, including being a significant source of X-rays. The shock also accelerates particles to high velocities, making supernova remnants a significant source of cosmic rays. By looking at how fast a supernova remnant is expanding, astronomers can estimate how long it would take to reach its current size. This allows astronomers to determine approximately when the supernova exploded. Several large supernova remnants in the Milky Way have been dated this way and linked to supernovae which were observed by astronomers hundreds of years ago.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Cosmic Ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/70/",
+          "text_ru": "Космический луч"
+        },
+        {
+          "text": "Planetary Nebula",
+          "url": "https://www.astro4edu.org/resources/glossary/term/256/",
+          "text_ru": "Планетарная туманность"
+        },
+        {
+          "text": "Stellar Remnants",
+          "url": "https://www.astro4edu.org/resources/glossary/term/337/",
+          "text_ru": "Звёздные остатки"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "Interstellar Medium",
+          "url": "https://www.astro4edu.org/resources/glossary/term/450/",
+          "text_ru": "Межзвёздная среда"
+        },
+        {
+          "text": "X-ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/487/",
+          "text_ru": "Рентгеновское излучение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Supernova Remnant</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A supernova remnant is the structure remaining from a supernova explosion. It consists of a huge structure of hot gas and plasma created by the shock of the supernova. In many supernova remnants the black hole or neutron star created from the star that exploded in the supernova is also present although in some this has been ejected by the force of the explosion.<br/><br/>The explosive energy of a supernova results in a shockwave that impacts on the surrounding interstellar gas. This shock heats and ionizes the surrounding gas to extremely high temperatures (over a million kelvins). This hot gas emits light across various wavelengths, including being a significant source of X-rays. The shock also accelerates particles to high velocities, making supernova remnants a significant source of cosmic rays.<br/><br/>By looking at how fast a supernova remnant is expanding, astronomers can estimate how long it would take to reach its current size. This allows astronomers to determine approximately when the supernova exploded. Several large supernova remnants in the Milky Way have been dated this way and linked to supernovae which were observed by astronomers hundreds of years ago.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/70/\">Cosmic Ray</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/256/\">Planetary Nebula</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/337/\">Stellar Remnants</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/450/\">Interstellar Medium</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/487/\">X-ray</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Остаток сверхновой",
+      "body_ru": "Остаток сверхновой — это структура, остающаяся после взрыва сверхновой. Он состоит из огромной структуры горячего газа и плазмы, созданной ударной волной сверхновой. Во многих остатках сверхновых также присутствует черная дыра или нейтронная звезда, образовавшаяся из звезды, взорвавшейся как сверхновая, хотя в некоторых она была выброшена силой взрыва. Энергия взрыва сверхновой приводит к ударной волне, которая воздействует на окружающий межзвездный газ. Эта ударная волна нагревает и ионизирует окружающий газ до чрезвычайно высоких температур (свыше миллиона кельвинов). Этот горячий газ излучает свет в различных диапазонах длин волн, включая значительный источник рентгеновских лучей. Ударная волна также ускоряет частицы до высоких скоростей, что делает остатки сверхновых значительным источником космических лучей. Глядя на то, как быстро расширяется остаток сверхновой, астрономы могут оценить, сколько времени потребуется, чтобы достичь его текущего размера. Это позволяет астрономам приблизительно определить, когда взорвалась сверхновая. Несколько крупных остатков сверхновых в Млечном Пути были датированы таким образом и связаны со сверхновыми, которые наблюдались астрономами сотни лет назад."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "超新星残骸 (external link)",
+          "url": "https://astro-dic.jp/supernova-remnant/",
+          "text_ru": "Остаток сверхновой (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/526/\">بقايا المستعر الأعظم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/526/\">Supernova-Überrest </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/526/\">Remanente de supernova </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/526/\">Rémanent de supernova </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/526/\">Resto di Supernova </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/supernova-remnant/\">超新星残骸 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/526/\">초신성잔해 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/526/\">Remanescente de supernova </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/526/\">超新星遗迹 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/526/\">超新星遺跡 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/pE82OY61wa42/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://chandra.harvard.edu/photo/2008/sn1006c/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/DM18pJ69aR59/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://svs.gsfc.nasa.gov/30485#media_group_341941",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:pE82OY61wa42",
+        "media:DM18pJ69aR59"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/pE82OY61wa42/\"><img alt=\"An irregular blue bubble with mottled red inside it on a field of background stars\" src=\"/media/multimedia/thumbnails/remnant-of-sn-1006_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Remnant of SN 1006</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the remnant of the supernova SN 1006. This was probably the result of a white dwarf that accreted so much material from a binary companion star that the white dwarf exploded (this is called a Type 1a supernova by astronomers). This explosion happened several thousand years ago, however it took time for the light from this event to reach Earth, only arriving in the year 1006. This bright explosion was noticed by observers across the Earth and its appearance was noted in the records of many different societies.\n\nHere we see the effect that supernova has had on its surroundings in the galaxy. The force of the explosion has blown a huge bubble in the surrounding interstellar gas with a hot shockwave at its edge. The image appears to be a simple color picture but it actually represents light far beyond what our eye can see. The blue is X-ray data from NASA's Chandra X-ray Observatory, the yellow and orange are data from optical telescopes and the red is detections in radio waves from the Very Large Array and the Green Bank Telescope. The bright blue of the outer shell shows the gas there is very hot and that the explosion produced  energetic shock waves.<br/>\n<b>Credit:</b> X-ray: NASA/CXC/Rutgers/G.Cassam-Chenai, Hughes et al.; Radio: NRAO/AUI/NSF/GBT/VLA/Dyer, Maddalena &amp; Cornwell; Optical: Middlebury College/F.Winkler, NOAO/AURA/NSF/CTIO Schmidt &amp; DSS\n\t  <a href=\"https://chandra.harvard.edu/photo/2008/sn1006c/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/DM18pJ69aR59/\"><img alt=\"The Crab Nebula is a ragged orange bubble with a faint blue glow inside.\" src=\"/media/multimedia/thumbnails/the-crab-nebula_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Crab Nebula</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Crab Nebula is situated 6500 light years away in the constellation Taurus. This is remnant of a supernova explosion caused by a massive star at the end of its life. This happened several thousand years ago but the light from this explosion only reached the Earth in the year 1054. This celestial event was viewed by people across the world with many different societies noting it in their records.\n\nThe force of the supernova explosion has pushed pushed the outer layers of the star out into the surrounding gas. Here we see this as the bubbly orange structure as the force of the explosions ploughs into the surrounding gas. At its heart lies the Crab Nebula Pulsar, a neutron star that is the remains of the exploded star. This neutron star has a strong magnetic field. Electrons in nebula dance in this magnetic field, emitting the diffuse blue light we see inside the orange bubble.<br/>\n<b>Credit:</b> NASA, ESA, J. Hester and A. Loll (Arizona State University)\n\t  <a href=\"https://svs.gsfc.nasa.gov/30485#media_group_341941\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/b237po71Gd6/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/HL453G70ED9/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:b237po71Gd6",
+        "diagram:HL453G70ED9"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/b237po71Gd6/\"><img alt=\"Taurus appears as a y shape with the open end pointing NE. The ecliptic passes WSW to ENE in Taurus’s northern half\" src=\"/media/diagrams/multimedia/thumbnails/taurus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Taurus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Taurus along with its bright stars and surrounding constellations. Taurus is surrounded by (going clockwise from the top) Perseus, Aries, Cetus, Eridanus, Orion, Gemini and Auriga. Taurus’s brightest star Aldebaran appears in the middle of the constellation. Taurus lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Taurus from mid May to late June. The other planets of the Solar System can often be found in Taurus.\n\nTaurus lies mostly north of the celestial equator with a small part in the celestial southern hemisphere. The whole constellation is visible at some point in the year to whole planet except for the Antarctic and a small region around the North Pole. Taurus is most visible in the evenings in the northern hemisphere winter and southern hemisphere summer. \n\nIn the eastern part of Taurus we can find the supernova remnant M1 (commonly known as the Crab Nebula), marked here with a green square. In Taurus’s north-east find one of the sky’s most famous open stars clusters M45 (the Pleiades), marked here with a yellow circle. Many of the stars near Aldebaran (but not) Aldebaran are members of another star cluster, the Hyades. However this cluster is close to the solar system so is too dispersed on the sky to have a Messier object designation like the Pleiades has.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/HL453G70ED9/\"><img alt=\"Cygnus looks like a swan in flight with the neck pointing to the lower right (south-west). Deneb is the tail\" src=\"/media/diagrams/multimedia/thumbnails/cygnus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Cygnus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Cygnus with its bright stars and surrounding constellations. Cygnus is surrounded by (going clockwise from the top): Cepheus, Draco, Lyra, Vulpecula, Pegasus and Lacerta. Cygnus is notable for its brightest star Deneb. This forms one vertex of the prominent Summer Triangle asterism that is visible in northern hemisphere summer evenings. \n\nCygnus is a northern constellation and thus the whole of the constellation is visible at some point in the year in the whole northern hemisphere. The whole constellation is also visible from equatorial regions of the southern hemisphere with parts of the constellation visible from temperate southern regions. \n\nThe plane of the Milky Way runs through Cygnus and thus the constellation is rich in nebulae and star clusters. These include the North America Nebula (NGC 7000) and the Crescent Nebula (NGC 6888). The Veil Nebula is a huge supernova remnant, parts of which are marked here as NGC 6960 and NGC 6992/5. All of the previously-mentioned nebulae are marked with green squares. The planetary nebula NGC 6826 is marked here with a green circle superimposed on a plus sign. The open star clusters M29 and M39 are marked here with yellow circles. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Supernova Remnant",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Supernova Remnant",
+          "body": "A supernova remnant is the structure remaining from a supernova explosion. It consists of a huge structure of hot gas and plasma created by the shock of the supernova. In many supernova remnants the black hole or neutron star created from the star that exploded in the supernova is also present although in some this has been ejected by the force of the explosion. The explosive energy of a supernova results in a shockwave that impacts on the surrounding interstellar gas. This shock heats and ionizes the surrounding gas to extremely high temperatures (over a million kelvins). This hot gas emits light across various wavelengths, including being a significant source of X-rays. The shock also accelerates particles to high velocities, making supernova remnants a significant source of cosmic rays. By looking at how fast a supernova remnant is expanding, astronomers can estimate how long it would take to reach its current size. This allows astronomers to determine approximately when the supernova exploded. Several large supernova remnants in the Milky Way have been dated this way and linked to supernovae which were observed by astronomers hundreds of years ago."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Остаток сверхновой",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Остаток сверхновой",
+          "body": "Остаток сверхновой — это структура, остающаяся после взрыва сверхновой. Он состоит из огромной структуры горячего газа и плазмы, созданной ударной волной сверхновой. Во многих остатках сверхновых также присутствует черная дыра или нейтронная звезда, образовавшаяся из звезды, взорвавшейся как сверхновая, хотя в некоторых она была выброшена силой взрыва. Энергия взрыва сверхновой приводит к ударной волне, которая воздействует на окружающий межзвездный газ. Эта ударная волна нагревает и ионизирует окружающий газ до чрезвычайно высоких температур (свыше миллиона кельвинов). Этот горячий газ излучает свет в различных диапазонах длин волн, включая значительный источник рентгеновских лучей. Ударная волна также ускоряет частицы до высоких скоростей, что делает остатки сверхновых значительным источником космических лучей. Глядя на то, как быстро расширяется остаток сверхновой, астрономы могут оценить, сколько времени потребуется, чтобы достичь его текущего размера. Это позволяет астрономам приблизительно определить, когда взорвалась сверхновая. Несколько крупных остатков сверхновых в Млечном Пути были датированы таким образом и связаны со сверхновыми, которые наблюдались астрономами сотни лет назад."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:pE82OY61wa42",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/remnant-of-sn-1006.png",
+      "record_url": "https://astro4edu.org/resources/media/pE82OY61wa42/",
+      "original_path": "data/media/original/media_pE82OY61wa42.png",
+      "ru_path": null,
+      "sha256": "e99a6169aeb527d20d3236aaffbb1ebfb810a0b0114fbffe2074514321f7563b",
+      "size": 16311517,
+      "title_en": "Remnant of SN 1006",
+      "title_ru": "Остаток SN 1006",
+      "short_caption_en": "Remnant of SN 1006",
+      "short_caption_ru": "Остаток SN 1006",
+      "caption_en": "This image shows the remnant of the supernova SN 1006. This was probably the result of a white dwarf that accreted so much material from a binary companion star that the white dwarf exploded (this is called a Type 1a supernova by astronomers). This explosion happened several thousand years ago, however it took time for the light from this event to reach Earth, only arriving in the year 1006. This bright explosion was noticed by observers across the Earth and its appearance was noted in the records of many different societies.\r\n\r\nHere we see the effect that supernova has had on its surroundings in the galaxy. The force of the explosion has blown a huge bubble in the surrounding interstellar gas with a hot shockwave at its edge. The image appears to be a simple color picture but it actually represents light far beyond what our eye can see. The blue is X-ray data from NASA's Chandra X-ray Observatory, the yellow and orange are data from optical telescopes and the red is detections in radio waves from the Very Large Array and the Green Bank Telescope. The bright blue of the outer shell shows the gas there is very hot and that the explosion produced  energetic shock waves.",
+      "caption_ru": "Это изображение показывает остаток сверхновой SN 1006. Вероятно, это результат того, что белый карлик накопил так много вещества от звезды-компаньона в двойной системе, что белый карлик взорвался (астрономы называют это сверхновой типа 1a). Этот взрыв произошёл несколько тысяч лет назад, однако свету от этого события потребовалось время, чтобы достичь Земли, и он прибыл только в 1006 году. Этот яркий взрыв был замечен наблюдателями по всей Земле, и его появление было отмечено в записях многих различных обществ.\r\n\r\nЗдесь мы видим, какое воздействие сверхновая оказала на своё окружение в галактике. Сила взрыва выдула огромный пузырь в окружающем межзвёздном газе с горячей ударной волной на его краю. Изображение выглядит как простая цветная картинка, но на самом деле оно представляет свет далеко за пределами того, что может видеть наш глаз. Синий цвет — это рентгеновские данные от рентгеновской обсерватории NASA «Чандра», жёлтый и оранжевый — данные оптических телескопов, а красный — обнаружения в радиоволнах от Very Large Array и Green Bank Telescope. Яркий синий цвет внешней оболочки показывает, что газ там очень горячий и что взрыв породил мощные ударные волны.",
+      "alt_en": "An irregular blue bubble with mottled red inside it on a field of background stars",
+      "alt_ru": "Неправильный синий пузырь с крапчатым красным внутри на фоне звёзд",
+      "credit": "X-ray: NASA/CXC/Rutgers/G.Cassam-Chenai, Hughes et al.; Radio: NRAO/AUI/NSF/GBT/VLA/Dyer, Maddalena & Cornwell; Optical: Middlebury College/F.Winkler, NOAO/AURA/NSF/CTIO Schmidt & DSS",
+      "credit_url": "https://chandra.harvard.edu/photo/2008/sn1006c/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        337,
+        349,
+        387,
+        526
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:DM18pJ69aR59",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-crab-nebula.png",
+      "record_url": "https://astro4edu.org/resources/media/DM18pJ69aR59/",
+      "original_path": "data/media/original/media_DM18pJ69aR59.png",
+      "ru_path": null,
+      "sha256": "a0e1492785662ebb88d4d6d0c98a59063a5a3243bcef36122210975e0bf8992f",
+      "size": 24554212,
+      "title_en": "The Crab Nebula",
+      "title_ru": "Крабовидная туманность",
+      "short_caption_en": "The Crab Nebula",
+      "short_caption_ru": "Крабовидная туманность",
+      "caption_en": "The Crab Nebula is situated 6500 light years away in the constellation Taurus. This is remnant of a supernova explosion caused by a massive star at the end of its life. This happened several thousand years ago but the light from this explosion only reached the Earth in the year 1054. This celestial event was viewed by people across the world with many different societies noting it in their records.\r\n\r\nThe force of the supernova explosion has pushed pushed the outer layers of the star out into the surrounding gas. Here we see this as the bubbly orange structure as the force of the explosions ploughs into the surrounding gas. At its heart lies the Crab Nebula Pulsar, a neutron star that is the remains of the exploded star. This neutron star has a strong magnetic field. Electrons in nebula dance in this magnetic field, emitting the diffuse blue light we see inside the orange bubble.",
+      "caption_ru": "Крабовидная туманность находится на расстоянии 6500 световых лет в созвездии Тельца. Это остаток взрыва сверхновой, вызванного массивной звездой в конце ее жизни. Это произошло несколько тысяч лет назад, но свет от этого взрыва достиг Земли только в 1054 году. Это небесное событие наблюдали люди по всему миру, и многие различные общества отметили его в своих записях.\r\n\r\nСила взрыва сверхновой вытолкнула внешние слои звезды в окружающий газ. Здесь мы видим это как пузырчатую оранжевую структуру, когда сила взрыва врезается в окружающий газ. В его сердце находится пульсар Крабовидной туманности, нейтронная звезда, которая является остатком взорвавшейся звезды. Эта нейтронная звезда имеет сильное магнитное поле. Электроны в туманности танцуют в этом магнитном поле, испуская диффузный синий свет, который мы видим внутри оранжевого пузыря.",
+      "alt_en": "The Crab Nebula is a ragged orange bubble with a faint blue glow inside.",
+      "alt_ru": "Крабовидная туманность представляет собой рваный оранжевый пузырь со слабым синим свечением внутри.",
+      "credit": "NASA, ESA, J. Hester and A. Loll (Arizona State University)",
+      "credit_url": "https://svs.gsfc.nasa.gov/30485#media_group_341941",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        526
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:b237po71Gd6",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/taurus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/b237po71Gd6/",
+      "original_path": "data/media/original/diagram_b237po71Gd6.png",
+      "ru_path": null,
+      "sha256": "e3d15cc8509f3201bca93033482b1e4ffda0d1b02f8deb7969669d7a2a8e24e7",
+      "size": 110135,
+      "title_en": "Taurus Constellation Map",
+      "title_ru": "Карта созвездия Телец",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Taurus along with its bright stars and surrounding constellations. Taurus is surrounded by (going clockwise from the top) Perseus, Aries, Cetus, Eridanus, Orion, Gemini and Auriga. Taurus’s brightest star Aldebaran appears in the middle of the constellation. Taurus lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Taurus from mid May to late June. The other planets of the Solar System can often be found in Taurus.\r\n\r\nTaurus lies mostly north of the celestial equator with a small part in the celestial southern hemisphere. The whole constellation is visible at some point in the year to whole planet except for the Antarctic and a small region around the North Pole. Taurus is most visible in the evenings in the northern hemisphere winter and southern hemisphere summer. \r\n\r\nIn the eastern part of Taurus we can find the supernova remnant M1 (commonly known as the Crab Nebula), marked here with a green square. In Taurus’s north-east find one of the sky’s most famous open stars clusters M45 (the Pleiades), marked here with a yellow circle. Many of the stars near Aldebaran (but not) Aldebaran are members of another star cluster, the Hyades. However this cluster is close to the solar system so is too dispersed on the sky to have a Messier object designation like the Pleiades has.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Телец вместе с его яркими звёздами и окружающими созвездиями. Телец окружён (по часовой стрелке сверху) Персеем, Овном, Китом, Эриданом, Орионом, Близнецами и Возничим. Самая яркая звезда Тельца Альдебаран появляется в середине созвездия. Телец лежит на эклиптике (показана здесь синей линией), это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Тельце с середины мая до конца июня. Другие планеты Солнечной системы также часто можно найти в Тельце.\r\n\r\nТелец лежит в основном к северу от небесного экватора, небольшая часть — в южном небесном полушарии. Всё созвездие видно в какое-то время года для всей планеты, кроме Антарктиды и небольшого региона вокруг Северного полюса. Телец наиболее виден по вечерам зимой в северном полушарии и летом в южном полушарии.\r\n\r\nВ восточной части Тельца мы можем найти остаток сверхновой M1 (обычно известный как Крабовидная туманность), отмеченный здесь зелёным квадратом. В северо-восточной части Тельца находится одно из самых известных звёздных скоплений неба M45 (Плеяды), отмеченное здесь жёлтым кругом. Многие из звёзд вблизи Альдебарана (но не сам Альдебаран) являются членами другого звёздного скопления — Гиад. Однако это скопление находится близко к Солнечной системе и слишком рассеяно на небе, чтобы иметь обозначение объекта Мессье, как у Плеяд.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжируются по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные линии границ обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для представления фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Taurus appears as a y shape with the open end pointing NE. The ecliptic passes WSW to ENE in Taurus’s northern half",
+      "alt_ru": "Телец выглядит как Y-образная фигура с открытым концом, направленным на северо-восток. Эклиптика проходит с западо-юго-запада на востоко-северо-восток в северной половине Тельца.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        16,
+        50,
+        66,
+        78,
+        92,
+        126,
+        286,
+        351,
+        391,
+        466,
+        467,
+        469,
+        526
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:HL453G70ED9",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cygnus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/HL453G70ED9/",
+      "original_path": "data/media/original/diagram_HL453G70ED9.png",
+      "ru_path": "data/media/ru/diagram_HL453G70ED9.png",
+      "sha256": "031ec51da8a80bb613a52393fb193e21f1a370fab52ecccdba0c8c1aca8520f9",
+      "size": 150095,
+      "title_en": "Cygnus Constellation Map",
+      "title_ru": "Карта созвездия Лебедь",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Cygnus with its bright stars and surrounding constellations. Cygnus is surrounded by (going clockwise from the top): Cepheus, Draco, Lyra, Vulpecula, Pegasus and Lacerta. Cygnus is notable for its brightest star Deneb. This forms one vertex of the prominent Summer Triangle asterism that is visible in northern hemisphere summer evenings. \r\n\r\nCygnus is a northern constellation and thus the whole of the constellation is visible at some point in the year in the whole northern hemisphere. The whole constellation is also visible from equatorial regions of the southern hemisphere with parts of the constellation visible from temperate southern regions. \r\n\r\nThe plane of the Milky Way runs through Cygnus and thus the constellation is rich in nebulae and star clusters. These include the North America Nebula (NGC 7000) and the Crescent Nebula (NGC 6888). The Veil Nebula is a huge supernova remnant, parts of which are marked here as NGC 6960 and NGC 6992/5. All of the previously-mentioned nebulae are marked with green squares. The planetary nebula NGC 6826 is marked here with a green circle superimposed on a plus sign. The open star clusters M29 and M39 are marked here with yellow circles. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Лебедь с его яркими звездами и окружающими созвездиями. Лебедь окружен (по часовой стрелке сверху): Цефеем, Драконом, Лирой, Лисичкой, Пегасом и Ящерицей. Лебедь примечателен своей самой яркой звездой Денеб. Она образует одну из вершин заметного астеризма Летний треугольник, видимого в летние вечера в северном полушарии.\r\n\r\nЛебедь — северное созвездие, поэтому все созвездие видно в какое-то время года во всем северном полушарии. Все созвездие также видно из экваториальных областей южного полушария, а части созвездия видны из умеренных южных областей.\r\n\r\nПлоскость Млечного Пути проходит через Лебедя, поэтому созвездие богато туманностями и звездными скоплениями. К ним относятся туманность Северная Америка (NGC 7000) и туманность Полумесяц (NGC 6888). Туманность Вуаль — огромный остаток сверхновой, части которого отмечены здесь как NGC 6960 и NGC 6992/5. Все вышеупомянутые туманности отмечены зелеными квадратами. Планетарная туманность NGC 6826 отмечена здесь зеленым кружком, наложенным на знак плюса. Рассеянные звездные скопления M29 и M39 отмечены здесь желтыми кружками.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звезд связаны с видимой звездной величиной, мерой их видимой яркости. Более крупные точки представляют более яркие звезды. Греческие буквы обозначают самые яркие звезды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зеленые линии обозначают одну из распространенных форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звезды, не видны на небе.",
+      "alt_en": "Cygnus looks like a swan in flight with the neck pointing to the lower right (south-west). Deneb is the tail",
+      "alt_ru": "Лебедь выглядит как летящий лебедь с шеей, направленной вправо вниз (на юго-запад). Денеб — это хвост",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        199,
+        211,
+        256,
+        286,
+        429,
+        466,
+        526
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "916af1bbffa8a2a914111603f93e92542c23951d0a79d130b2ef0ad81be8397d"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

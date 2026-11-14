@@ -1,0 +1,196 @@
+{
+  "id": "term:464",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 464,
+    "url": "https://astro4edu.org/resources/glossary/term/464/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=464",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:36.182072+00:00",
+    "sha256": "0853f77655ba0c0a877e0e3eb824eaa9ffd2b4085860a0571fb6d8387a0ae864"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Naked Eye Astronomy",
+      "Solar System",
+      "Stars"
+    ],
+    "category_ids": [
+      6,
+      4,
+      1,
+      2
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Астрономия невооружённым глазом",
+      "Солнечная система",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      170,
+      314,
+      367
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Occultation",
+      "body": "An occultation is when one object entirely hides another behind it. When viewed from Earth, the Moon frequently passes in front of stars. These stars are said to be occulted by the Moon. Other objects in the Solar System occasionally occult bright stars. Occultations are useful for studying the atmospheres of distant Kuiper Belt objects. When these icy bodies occult stars, the light from the star briefly passes through the Kuiper Belt object's atmosphere. This light is imprinted with the spectral signatures of the Kuiper Belt object's atmosphere when it reaches the Earth. When one object passes in front of another but does not entirely hide it, it is said to transit the other object.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Kuiper Belt",
+          "url": "https://www.astro4edu.org/resources/glossary/term/170/",
+          "text_ru": "Пояс Койпера"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Transit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/367/",
+          "text_ru": "Прохождение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Occultation</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An occultation is when one object entirely hides another behind it. When viewed from Earth, the Moon frequently passes in front of stars. These stars are said to be occulted by the Moon. Other objects in the Solar System occasionally occult bright stars. <br/><br/>Occultations are useful for studying the atmospheres of distant Kuiper Belt objects. When these icy bodies occult stars, the light from the star briefly passes through the Kuiper Belt object's atmosphere. This light is imprinted with the spectral signatures of the Kuiper Belt object's atmosphere when it reaches the Earth. <br/><br/>When one object passes in front of another but does not entirely hide it, it is said to transit the other object.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/170/\">Kuiper Belt</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/367/\">Transit</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Покрытие",
+      "body_ru": "Покрытие — это когда один объект полностью скрывает другой за собой. При наблюдении с Земли Луна часто проходит перед звёздами. Говорят, что эти звёзды покрываются Луной. Другие объекты Солнечной системы иногда покрывают яркие звёзды. Покрытия полезны для изучения атмосфер далёких объектов пояса Койпера. Когда эти ледяные тела покрывают звёзды, свет звезды на короткое время проходит через атмосферу объекта пояса Койпера. Этот свет несёт отпечаток спектральных сигнатур атмосферы объекта пояса Койпера, когда достигает Земли. Когда один объект проходит перед другим, но не полностью скрывает его, говорят, что он проходит по диску другого объекта."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/464/\">الاحتجاب </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/464/\">Bedeckung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/464/\">Ocultación </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/464/\">Occultation </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/464/\">occultazione </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/464/\">Ocultação </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/464/\">掩星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/464/\">掩星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/5x59vt446Q39/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://images.nasa.gov/details/PIA12515",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:5x59vt446Q39"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/5x59vt446Q39/\"><img alt=\"Saturn's moon Titan partially illuminated. Saturn's moon Rhea is partially obscured behind Titan's top left edge\" src=\"/media/multimedia/thumbnails/rhea-reappearing-after-occultation-by-titan_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Rhea reappearing after occultation by Titan</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> On October 27, 2009, NASA’s Cassini spacecraft orbiting around Saturn captured this view of Saturn's moon Rhea as it began to emerge after being hidden by Saturn's largest moon Titan during an occultation. An occultation is a celestial event in which one object moves in front of another and temporarily blocks the first object from view. \n\nIn this image, Titan — about 5,150 km across — was closer to the spacecraft at about 1 million km, while Rhea — roughly 1,528 km in diameter — was farther away at about 2.3 million km. Titan’s high-altitude atmospheric haze is visible as a faint glow around its limb, showing the difference in surface and atmospheric properties between these two moons.\n\nScientists study occultations like this because watching how one moon disappears behind or reappears from another helps refine our understanding of their orbits and physical characteristics.<br/>\n<b>Credit:</b> NASA/JPL/Space Science Institute\n\t  <a href=\"https://images.nasa.gov/details/PIA12515\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Occultation",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Occultation",
+          "body": "An occultation is when one object entirely hides another behind it. When viewed from Earth, the Moon frequently passes in front of stars. These stars are said to be occulted by the Moon. Other objects in the Solar System occasionally occult bright stars. Occultations are useful for studying the atmospheres of distant Kuiper Belt objects. When these icy bodies occult stars, the light from the star briefly passes through the Kuiper Belt object's atmosphere. This light is imprinted with the spectral signatures of the Kuiper Belt object's atmosphere when it reaches the Earth. When one object passes in front of another but does not entirely hide it, it is said to transit the other object."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Покрытие",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Покрытие",
+          "body": "Покрытие — это когда один объект полностью скрывает другой за собой. При наблюдении с Земли Луна часто проходит перед звёздами. Говорят, что эти звёзды покрываются Луной. Другие объекты Солнечной системы иногда покрывают яркие звёзды. Покрытия полезны для изучения атмосфер далёких объектов пояса Койпера. Когда эти ледяные тела покрывают звёзды, свет звезды на короткое время проходит через атмосферу объекта пояса Койпера. Этот свет несёт отпечаток спектральных сигнатур атмосферы объекта пояса Койпера, когда достигает Земли. Когда один объект проходит перед другим, но не полностью скрывает его, говорят, что он проходит по диску другого объекта."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:5x59vt446Q39",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/rhea-reappearing-after-occultation-by-titan.png",
+      "record_url": "https://astro4edu.org/resources/media/5x59vt446Q39/",
+      "original_path": "data/media/original/media_5x59vt446Q39.png",
+      "ru_path": null,
+      "sha256": "7f6d2634019e1f81f5d21d1fa52c2a5061d17270b5d04c4b8a30cf65a31a6cb7",
+      "size": 85731,
+      "title_en": "Rhea reappearing after occultation by Titan",
+      "title_ru": "Рея, появляющаяся после покрытия Титаном",
+      "short_caption_en": "Rhea reappearing after occultation by Titan",
+      "short_caption_ru": "Рея, появляющаяся после покрытия Титаном",
+      "caption_en": "On October 27, 2009, NASA’s Cassini spacecraft orbiting around Saturn captured this view of Saturn's moon Rhea as it began to emerge after being hidden by Saturn's largest moon Titan during an occultation. An occultation is a celestial event in which one object moves in front of another and temporarily blocks the first object from view. \r\n\r\nIn this image, Titan — about 5,150 km across — was closer to the spacecraft at about 1 million km, while Rhea — roughly 1,528 km in diameter — was farther away at about 2.3 million km. Titan’s high-altitude atmospheric haze is visible as a faint glow around its limb, showing the difference in surface and atmospheric properties between these two moons.\r\n\r\nScientists study occultations like this because watching how one moon disappears behind or reappears from another helps refine our understanding of their orbits and physical characteristics.",
+      "caption_ru": "27 октября 2009 года космический аппарат НАСА «Кассини», обращающийся вокруг Сатурна, запечатлел этот вид спутника Сатурна Реи, когда он начал появляться после того, как был скрыт крупнейшим спутником Сатурна Титаном во время покрытия. Покрытие — это небесное явление, при котором один объект проходит перед другим и временно закрывает первый объект от наблюдения.\r\n\r\nНа этом изображении Титан — диаметром около 5150 км — был ближе к космическому аппарату на расстоянии около 1 миллиона км, в то время как Рея — диаметром примерно 1528 км — была дальше на расстоянии около 2,3 миллиона км. Высотная атмосферная дымка Титана видна как слабое свечение вокруг его края, показывая разницу в свойствах поверхности и атмосферы между этими двумя спутниками.\r\n\r\nУчёные изучают такие покрытия, потому что наблюдение за тем, как один спутник исчезает за другим или появляется из-за него, помогает уточнить наше понимание их орбит и физических характеристик.",
+      "alt_en": "Saturn's moon Titan partially illuminated. Saturn's moon Rhea is partially obscured behind Titan's top left edge",
+      "alt_ru": "Спутник Сатурна Титан частично освещён. Спутник Сатурна Рея частично скрыт за верхним левым краем Титана",
+      "credit": "NASA/JPL/Space Science Institute",
+      "credit_url": "https://images.nasa.gov/details/PIA12515",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        204,
+        363,
+        464
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

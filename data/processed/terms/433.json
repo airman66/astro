@@ -1,0 +1,210 @@
+{
+  "id": "term:433",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 433,
+    "url": "https://astro4edu.org/resources/glossary/term/433/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=433",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:26.256472+00:00",
+    "sha256": "e8adfcaa684093c211d28d23adab58db42b099ccf8be912a112b0676d84ae9d4"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      271,
+      338,
+      478
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Convective Zone",
+      "body": "The convective zone is a region in a star where convection, rather than radiation is the main method of heat transportation. Convection requires a large difference of temperatures along a given region. When radiation is inefficient, convection sets in. In the convective zone, hot material deeper in the star rises up to cooler regions where it cools and then sinks back down. In the most massive main sequence stars the stellar core is convective while the outer layers are radiative. In main sequence stars similar to the Sun, the region below the atmosphere is convective while the region deeper than this is radiative. In the lowest mass stars, the entire star, from the core to just below the atmosphere, is convective. Convective motions result in large scale mixing of chemical elements. When convection reaches the surface of a star, it can transport freshly synthesized elements and isotopes to the surface, which leaves an imprint in the spectra recorded by astronomers.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Radiative Zone",
+          "url": "https://www.astro4edu.org/resources/glossary/term/271/",
+          "text_ru": "Лучистая зона"
+        },
+        {
+          "text": "Stellar Structure",
+          "url": "https://www.astro4edu.org/resources/glossary/term/338/",
+          "text_ru": "Строение звезды"
+        },
+        {
+          "text": "Stellar Core",
+          "url": "https://www.astro4edu.org/resources/glossary/term/478/",
+          "text_ru": "Звёздное ядро"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Convective Zone</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>convective envelope</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The convective zone is a region in a star where convection, rather than radiation is the main method of heat transportation. Convection requires a large difference of temperatures along a given region. When radiation is inefficient, convection sets in.<br/><br/>In the convective zone, hot material deeper in the star rises up to cooler regions where it cools and then sinks back down. In the most massive main sequence stars the stellar core is convective while the outer layers are radiative. In main sequence stars similar to the Sun, the region below the atmosphere is convective while the region deeper than this is radiative. In the lowest mass stars, the entire star, from the core to just below the atmosphere, is convective.<br/><br/>Convective motions result in large scale mixing of chemical elements. When convection reaches the surface of a star, it can transport freshly synthesized elements and isotopes to the surface, which leaves an imprint in the spectra recorded by astronomers.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/271/\">Radiative Zone</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/338/\">Stellar Structure</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/478/\">Stellar Core</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Конвективная зона",
+      "body_ru": "Конвективная зона — это область в звезде, где конвекция, а не излучение, является основным методом переноса тепла. Конвекция требует большого перепада температур вдоль данной области. Когда излучение неэффективно, начинается конвекция. В конвективной зоне горячий материал в более глубоких слоях звезды поднимается в более холодные области, где он охлаждается и затем опускается обратно. В самых массивных звёздах главной последовательности ядро звезды является конвективным, а внешние слои — лучистыми. В звёздах главной последовательности, подобных Солнцу, область под атмосферой является конвективной, а область глубже этой — лучистой. В звёздах наименьшей массы вся звезда, от ядра до области непосредственно под атмосферой, является конвективной. Конвективные движения приводят к крупномасштабному перемешиванию химических элементов. Когда конвекция достигает поверхности звезды, она может переносить свежесинтезированные элементы и изотопы к поверхности, что оставляет отпечаток в спектрах, регистрируемых астрономами."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "対流層 (external link)",
+          "url": "https://astro-dic.jp/convection-zone/",
+          "text_ru": "Конвективная зона (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/433/\">المنطقة الحملية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/433/\">Konvektionszone </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/433/\">Zona convectiva </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/433/\">Zone de convection </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/433/\">zona convettiva </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/convection-zone/\">対流層 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/433/\">Zona convectiva </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/433/\">对流区 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/433/\">對流區 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/vF35TW97K884/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:vF35TW97K884"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/vF35TW97K884/\"><img alt=\"Three stars with different onion-like layers for convection and radiation.\" src=\"/media/diagrams/multimedia/thumbnails/stellar_structure_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stellar Structure</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Stars are balls of plasma. For most of a star’s life it burns hydrogen into helium in its core. This phase of a star’s life is known as the main sequence. Burning hydrogen into helium produces heat, that heat travels out of the star’s core eventually reaching the star’s photosphere (often referred to as the “surface” of the star). From here the heat can radiate into space as various forms of electromagnetic radiation. However, how heat travels from the core to the photosphere depends on the star’s mass.\n\nImagine a parcel of gas rising inside a star. As it rises, it moves into an area of lower pressure, so it cools down and expands. If the parcel is still hotter, and therefore less dense than its surroundings, it keeps moving upward due to buoyancy. Eventually, it will rise far enough to cool and sink back down. This rising and sinking cycle is called convection. Whether convection occurs depends on how quickly temperature changes as you move away from the star’s core. If the temperature in a star drops rapidly, rising parcels of gas are more likely to stay hotter than their surroundings, so convection dominates as the mode of energy transfer in this part of the star. Conversely if the temperature drops more slowly (i.e. if the temperature gradient is small) then heat will mostly be transferred by radiation (photons).\n\nIn the most massive main sequence stars (more massive than about 1.5 times the mass of the Sun, seen here on the left), hydrogen is burned into helium using the CNO cycle. This is highly temperature dependent and thus energy production is concentrated near the center of the star. This leads to a larger temperature gradient and thus a convective core. Further out the temperature gradient becomes smaller and heat transport is dominated by radiation. This is called the radiative zone. \n\nFor lower mass stars like the Sun (between 0.3 and 1.5 solar masses, seen here in the middle) hydrogen is burned to helium using a different process (the pp chain). This depends less on the internal temperature than the CNO cycle and so energy production is more distributed in the star’s core. This leads to a smaller temperature gradient and thus a radiative core where convection occurs surrounded by a radiative zone. Going further out the gas becomes cool enough for some elements to hang to on some of their electrons, i.e. not being completely ionised. This partially ionised gas is more opaque to photons, trapping heat. This leads to a large temperature gradient and thus convection. \n\nThe lowest mass stars (below 0.3 solar masses, seen here on the right) have no radiative zone and are fully convective.\n\nThe arrows in the radiative zone are shown as wavy lines heading out of the star. However, a photon’s journey out of a star is much more complex with each individual photon travelling only a short distance before being deflected by some of the charged particles that make up the plasma of the star’s interior. This leads to a long and winding road that takes millennia instead of the few seconds it would take if the photon did not interact with particles in the plasma.<br/>\n<b>Credit:</b> Based on a vector diagram by Wikimedia user Д.Ильин which itself is based on a diagram from sun.org\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Convective Zone",
+      "aliases": [
+        "convective envelope"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Convective Zone",
+          "body": "The convective zone is a region in a star where convection, rather than radiation is the main method of heat transportation. Convection requires a large difference of temperatures along a given region. When radiation is inefficient, convection sets in. In the convective zone, hot material deeper in the star rises up to cooler regions where it cools and then sinks back down. In the most massive main sequence stars the stellar core is convective while the outer layers are radiative. In main sequence stars similar to the Sun, the region below the atmosphere is convective while the region deeper than this is radiative. In the lowest mass stars, the entire star, from the core to just below the atmosphere, is convective. Convective motions result in large scale mixing of chemical elements. When convection reaches the surface of a star, it can transport freshly synthesized elements and isotopes to the surface, which leaves an imprint in the spectra recorded by astronomers."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Конвективная зона",
+      "aliases": [
+        "конвективная оболочка"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Конвективная зона",
+          "body": "Конвективная зона — это область в звезде, где конвекция, а не излучение, является основным методом переноса тепла. Конвекция требует большого перепада температур вдоль данной области. Когда излучение неэффективно, начинается конвекция. В конвективной зоне горячий материал в более глубоких слоях звезды поднимается в более холодные области, где он охлаждается и затем опускается обратно. В самых массивных звёздах главной последовательности ядро звезды является конвективным, а внешние слои — лучистыми. В звёздах главной последовательности, подобных Солнцу, область под атмосферой является конвективной, а область глубже этой — лучистой. В звёздах наименьшей массы вся звезда, от ядра до области непосредственно под атмосферой, является конвективной. Конвективные движения приводят к крупномасштабному перемешиванию химических элементов. Когда конвекция достигает поверхности звезды, она может переносить свежесинтезированные элементы и изотопы к поверхности, что оставляет отпечаток в спектрах, регистрируемых астрономами."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:vF35TW97K884",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/stellar_structure_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/vF35TW97K884/",
+      "original_path": "data/media/original/diagram_vF35TW97K884.png",
+      "ru_path": "data/media/ru/diagram_vF35TW97K884.png",
+      "sha256": "e4d75a5efddc7236f641c53080f6a1478a8286c6bafb3ff72d37d86cdcbd6b12",
+      "size": 102934,
+      "title_en": "Stellar Structure",
+      "title_ru": "Строение звезды",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "Stars are balls of plasma. For most of a star’s life it burns hydrogen into helium in its core. This phase of a star’s life is known as the main sequence. Burning hydrogen into helium produces heat, that heat travels out of the star’s core eventually reaching the star’s photosphere (often referred to as the “surface” of the star). From here the heat can radiate into space as various forms of electromagnetic radiation. However, how heat travels from the core to the photosphere depends on the star’s mass.\r\n\r\nImagine a parcel of gas rising inside a star. As it rises, it moves into an area of lower pressure, so it cools down and expands. If the parcel is still hotter, and therefore less dense than its surroundings, it keeps moving upward due to buoyancy. Eventually, it will rise far enough to cool and sink back down. This rising and sinking cycle is called convection. Whether convection occurs depends on how quickly temperature changes as you move away from the star’s core. If the temperature in a star drops rapidly, rising parcels of gas are more likely to stay hotter than their surroundings, so convection dominates as the mode of energy transfer in this part of the star. Conversely if the temperature drops more slowly (i.e. if the temperature gradient is small) then heat will mostly be transferred by radiation (photons).\r\n\r\nIn the most massive main sequence stars (more massive than about 1.5 times the mass of the Sun, seen here on the left), hydrogen is burned into helium using the CNO cycle. This is highly temperature dependent and thus energy production is concentrated near the center of the star. This leads to a larger temperature gradient and thus a convective core. Further out the temperature gradient becomes smaller and heat transport is dominated by radiation. This is called the radiative zone. \r\n\r\nFor lower mass stars like the Sun (between 0.3 and 1.5 solar masses, seen here in the middle) hydrogen is burned to helium using a different process (the pp chain). This depends less on the internal temperature than the CNO cycle and so energy production is more distributed in the star’s core. This leads to a smaller temperature gradient and thus a radiative core where convection occurs surrounded by a radiative zone. Going further out the gas becomes cool enough for some elements to hang to on some of their electrons, i.e. not being completely ionised. This partially ionised gas is more opaque to photons, trapping heat. This leads to a large temperature gradient and thus convection. \r\n\r\nThe lowest mass stars (below 0.3 solar masses, seen here on the right) have no radiative zone and are fully convective.\r\n\r\nThe arrows in the radiative zone are shown as wavy lines heading out of the star. However, a photon’s journey out of a star is much more complex with each individual photon travelling only a short distance before being deflected by some of the charged particles that make up the plasma of the star’s interior. This leads to a long and winding road that takes millennia instead of the few seconds it would take if the photon did not interact with particles in the plasma.",
+      "caption_ru": "Звезды — это шары из плазмы. Большую часть жизни звезды она сжигает водород в гелий в своем ядре. Эта фаза жизни звезды известна как главная последовательность. Сжигание водорода в гелий производит тепло, которое распространяется из ядра звезды, в конечном итоге достигая фотосферы звезды (часто называемой «поверхностью» звезды). Отсюда тепло может излучаться в космос в виде различных форм электромагнитного излучения. Однако то, как тепло распространяется от ядра к фотосфере, зависит от массы звезды.\r\n\r\nПредставьте себе порцию газа, поднимающуюся внутри звезды. Поднимаясь, она перемещается в область более низкого давления, поэтому охлаждается и расширяется. Если эта порция все еще горячее и, следовательно, менее плотная, чем ее окружение, она продолжает двигаться вверх благодаря плавучести. В конце концов, она поднимется достаточно высоко, чтобы охладиться и опуститься обратно. Этот цикл подъема и опускания называется конвекцией. Происходит ли конвекция, зависит от того, насколько быстро меняется температура при удалении от ядра звезды. Если температура в звезде падает быстро, поднимающиеся порции газа с большей вероятностью останутся горячее своего окружения, поэтому конвекция доминирует как способ переноса энергии в этой части звезды. И наоборот, если температура падает медленнее (т.е. если градиент температуры мал), то тепло будет в основном переноситься излучением (фотонами).\r\n\r\nВ самых массивных звездах главной последовательности (более массивных, чем примерно 1.5 массы Солнца, показанных здесь слева) водород сжигается в гелий с использованием CNO-цикла. Это сильно зависит от температуры, и поэтому производство энергии сосредоточено вблизи центра звезды. Это приводит к большему градиенту температуры и, следовательно, к конвективному ядру. Дальше градиент температуры становится меньше, и перенос тепла осуществляется преимущественно излучением. Это называется лучистой зоной.\r\n\r\nДля звезд меньшей массы, таких как Солнце (между 0.3 и 1.5 солнечных масс, показанных здесь в середине), водород сжигается в гелий с использованием другого процесса (pp-цепочки). Это меньше зависит от внутренней температуры, чем CNO-цикл, и поэтому производство энергии более распределено в ядре звезды. Это приводит к меньшему градиенту температуры и, следовательно, к лучистому ядру, где происходит конвекция, окруженному лучистой зоной. Дальше газ становится достаточно холодным, чтобы некоторые элементы удерживали часть своих электронов, т.е. не были полностью ионизованы. Этот частично ионизованный газ более непрозрачен для фотонов, задерживая тепло. Это приводит к большому градиенту температуры и, следовательно, к конвекции.\r\n\r\nСамые маломассивные звезды (ниже 0.3 солнечных масс, показанные здесь справа) не имеют лучистой зоны и полностью конвективны.\r\n\r\nСтрелки в лучистой зоне показаны в виде волнистых линий, направляющихся из звезды. Однако путь фотона из звезды гораздо более сложен: каждый отдельный фотон проходит лишь короткое расстояние, прежде чем отклоняется некоторыми заряженными частицами, составляющими плазму внутренней части звезды. Это приводит к долгому и извилистому пути, который занимает тысячелетия вместо нескольких секунд, которые потребовались бы, если бы фотон не взаимодействовал с частицами в плазме.",
+      "alt_en": "Three stars with different onion-like layers for convection and radiation.",
+      "alt_ru": "Три звезды с различными слоями, подобными луковице, для конвекции и излучения.",
+      "credit": "Based on a vector diagram by Wikimedia user Д.Ильин which itself is based on a diagram from sun.org",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Heat_Transfer_in_Stars.svg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        96,
+        150,
+        251,
+        271,
+        338,
+        433,
+        478
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "803e97d55fd996c507f443e568179136f3cd1b285a38686d3e6888b87f835dc2"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

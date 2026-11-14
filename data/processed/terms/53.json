@@ -1,0 +1,561 @@
+{
+  "id": "term:53",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 53,
+    "url": "https://astro4edu.org/resources/glossary/term/53/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=53",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:21.284097+00:00",
+    "sha256": "f8ccbf7ec58013d218289161473320041665cd7726e8e6f38495dd03f6ad4580"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      50,
+      52,
+      145,
+      390,
+      436
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Celestial Sphere",
+      "body": "The celestial sphere is an imaginary, hollow sphere of indefinitely large radius, which can be centered on Earth, the center of the Sun, or any convenient place. Celestial objects appear to be attached to the inside of the celestial sphere, and the planets, Sun, and Moon appear to move slowly across it. It is used in spherical coordinate systems. The celestial sphere appears to turn once a day due to Earth’s rotation.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Celestial Coordinates",
+          "url": "https://www.astro4edu.org/resources/glossary/term/50/",
+          "text_ru": "Небесные координаты"
+        },
+        {
+          "text": "Celestial Pole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/52/",
+          "text_ru": "Небесный полюс"
+        },
+        {
+          "text": "Horizon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/145/",
+          "text_ru": "Горизонт"
+        },
+        {
+          "text": "Zenith",
+          "url": "https://www.astro4edu.org/resources/glossary/term/390/",
+          "text_ru": "Зенит"
+        },
+        {
+          "text": "Day",
+          "url": "https://www.astro4edu.org/resources/glossary/term/436/",
+          "text_ru": "День"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Celestial Sphere</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The celestial sphere is an imaginary, hollow sphere of indefinitely large radius, which can be centered on Earth, the center of the Sun, or any convenient place. Celestial objects appear to be attached to the inside of the celestial sphere, and the planets, Sun, and Moon appear to move slowly across it. It is used in spherical coordinate systems.<br/><br/>The celestial sphere appears to turn once a day due to Earth’s rotation.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/50/\">Celestial Coordinates</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/52/\">Celestial Pole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/145/\">Horizon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/390/\">Zenith</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/436/\">Day</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Небесная сфера",
+      "body_ru": "Небесная сфера — это воображаемая полая сфера бесконечно большого радиуса, которая может быть центрирована на Земле, в центре Солнца или в любом удобном месте. Кажется, что небесные объекты прикреплены к внутренней стороне небесной сферы, а планеты, Солнце и Луна медленно движутся по ней. Она используется в сферических системах координат. Кажется, что небесная сфера совершает один оборот в день из-за вращения Земли."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "天球 (external link)",
+          "url": "https://astro-dic.jp/celestial-sphere/",
+          "text_ru": "Небесная сфера (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/53/\">القبة السماوية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/53/\">Himmelskugel </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/53/\">Esfera celeste </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/53/\">Sphère Céleste </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/53/\">Sfera celeste </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/celestial-sphere/\">天球 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/53/\">천구 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/53/\">Esfera Celeste </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/53/\">天球 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/53/\">天球 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/5C82uL75Pc27/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/AB430t11jX43/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Jq59Xa17ay16/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/LF10IZ41Yc54/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/8i19wv485F65/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Celestial Sphere&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:5C82uL75Pc27",
+        "media:AB430t11jX43",
+        "media:Jq59Xa17ay16",
+        "media:LF10IZ41Yc54",
+        "media:8i19wv485F65"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/5C82uL75Pc27/\"><img alt=\"Hundreds of small arcs made by stars form circles centred on a point near the horizon. A tree stands in the foreground.\" src=\"/media/multimedia/thumbnails/star-trail-in-the-southern-hemisphere-with-bortle-4-scale-light-po_alIdetR.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Star Trail in the Southern Hemisphere with Bortle 4 Scale Light Pollution</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nThis breathtaking photo, captured under the clear night sky of Linggamekar Village, Cilimus, Kuningan, West Java, Indonesia on 25 June 2020, displays star trails sweeping across the southern hemisphere’s heavens. The star trails are due to Earth’s rotation causing the apparent motion of stars, creating these mesmerising arcs of light when followed over extended periods. Here, the point the stars rotate around (the South Celestial Pole) is close to the horizon, as the image was taken close to the equator. The photographer used the star trail feature on a smartphone, which captured a series of images over an extended period and stacked them together. The striking tree in the foreground adds depth to the image, contrasting the celestial motion above with its Earthly stillness, while also masking some of the surrounding light pollution. Different parts of the world offer diverse and stunning perspectives on the night sky, emphasising the importance of preserving dark skies everywhere.<br/>\n<b>Credit:</b> Slamat Riyadi/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/AB430t11jX43/\"><img alt=\"The Big Dipper drifts lower towards the horizon on the left, on the right a comet rises in the sky.\" src=\"/media/multimedia/thumbnails/Big_Dipper_and_Comet_Neowise_C2020_F3_by_Giorgia_Hofer_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Dipper and Comet Neowise C2020 F3</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis time-lapse documents the trajectory of the iconic Big Dipper across three frames taken in July 2020. Captured from three locations in Italy, Tre Cime di Lavaredo Auronzo di Cadore, Monte Rite, Cibiana di Cadore, and Casera Razzo, Vigo di Cadore, this visual odyssey showcases the captivating journey of the Big Dipper with the addition of trails of stars painting a celestial canvas. It not only traces the path of this renowned asterism but also features the rare appearance of comet Neowise C/2020 F3, an extraordinary event that graced our skies during July 2020.<br/>\n<b>Credit:</b> Giorgia Hofer/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Jq59Xa17ay16/\"><img alt=\"The Milky Way appears as a diagonal stripe bottom left to top right. It becomes more horizontal as the video progresses.\" src=\"/media/multimedia/thumbnails/Southern_Sky_Over_La_Silla_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Southern Sky Over La Silla</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place winner in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis video shows the Milky Way’s sprawling brilliance across the celestial expanse. Among the stars’ grand theatre, the Southern Cross constellation claims its place in the scene, distinguished by its distinctive cross shape as seen in the top of this video and slightly to the right just over the Milky Way, slowly disappearing as the video progresses. This celestial marker, a prominent feature in the southern hemisphere, holds cultural and navigational significance, having served as a navigational guidepost for centuries. Accompanying the Milky Way’s grandeur are the two Magellanic clouds, celestial companions seen dancing in the distant sky. The Carina Nebula adds its ethereal glow to the cosmic panorama, painting a radiant hue against the darkness. In the midst of this celestial ballet, a gentle green hue envelops the atmosphere, a phenomenon known as airglow, adding a touch of subtle luminescence to the night sky. The terrestrial also makes an appearance, with planes flying overhead and vehicles driving between observatory buildings. This time-lapse, taken from the La Silla Observatory in Chile, is a window to the captivating dance of stars, offering a glimpse into the awe-inspiring beauty of our galaxy and the celestial landmarks that grace the southern sky.<br/>\n<b>Credit:</b> José Rodrigues/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/LF10IZ41Yc54/\"><img alt=\"The Southern Cross points out the South Celestial Pole, around which the sky appears to rotate\" src=\"/media/multimedia/thumbnails/Beautiful_Night_in_the_Atacama_Desert_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Beautiful Night in the Atacama Desert</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nTaken from San Pedro de Atacama, Chile, in June 2023, this time-lapse reveals the celestial ballet that unfolds as the Southern Cross takes its majestic journey across the sky, pointing the way to the South Celestial Pole around which the sky rotates, until it gracefully sets. The star-studded canvas showcases the grandeur of the Milky Way, adorned by the rotating Large and Small Magellanic Clouds swirling around the Southern Celestial Pole. The prominent constellations of Crux, Centaurus, Scorpius, and the former Argo Navis (Carina, Puppis, Vela) are also visible. The spectacle begins just after nightfall, capturing the radiant descent of Canopus, a beacon about to dip below the horizon. Throughout the sequence, there is a subtle presence of passing aeroplanes, fleeting headlights of cars, drifting clouds, and the ethereal airglow. At a stunning moment, a vivid meteor streaked across the sky, a breathtaking fireball briefly igniting the right lower corner around the 41st second mark. As the sequence progresses, the rising moon elegantly illuminates the landscape, casting its glow upon an ancient tree trunk resting on the dry, dusty grounds of the Salar de Atacama. This captivating journey through the night skies concludes before the break of dawn, offering a glimpse into the celestial marvels that are woven into the nocturnal tapestry of San Pedro de Atacama.<br/>\n<b>Credit:</b> Uwe Reichert/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/8i19wv485F65/\"><img alt=\"The dish of a radio telescope rotates as the Big Dipper moves in the sky behind.\" src=\"/media/multimedia/thumbnails/The_Big_Dipper_with_the_Sardinia_Radio_Telescope_SRT_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Big Dipper with the Sardinia Radio Telescope SRT</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis time-lapse captures the movement of the stars alongside the majestic 64-metre Sardinia Radio Telescope (SRT) from the National Institute of Astrophysics (INAF), with special attention to the renowned Big Dipper against the backdrop of the celestial sphere. The camera pans as the famous asterism sinks in the sky while planes fly past and the radio telescope rotates. The harmonious interplay between the stellar pathways and the colossal dish of the radio telescope creates a mesmerising visual ode to the cosmic ballet taken in September 2019.<br/>\n<b>Credit:</b> Antonio Finazzi/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Celestial Sphere&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Celestial Sphere",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Celestial Sphere",
+          "body": "The celestial sphere is an imaginary, hollow sphere of indefinitely large radius, which can be centered on Earth, the center of the Sun, or any convenient place. Celestial objects appear to be attached to the inside of the celestial sphere, and the planets, Sun, and Moon appear to move slowly across it. It is used in spherical coordinate systems. The celestial sphere appears to turn once a day due to Earth’s rotation."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Небесная сфера",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Небесная сфера",
+          "body": "Небесная сфера — это воображаемая полая сфера бесконечно большого радиуса, которая может быть центрирована на Земле, в центре Солнца или в любом удобном месте. Кажется, что небесные объекты прикреплены к внутренней стороне небесной сферы, а планеты, Солнце и Луна медленно движутся по ней. Она используется в сферических системах координат. Кажется, что небесная сфера совершает один оборот в день из-за вращения Земли."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:5C82uL75Pc27",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10356977/files/Winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Star%20Trail%20in%20the%20Southern%20Hemisphere%20with%20Bortle%204%20Scale%20Light%20Pollution,%20by%20Slamat%20Riyadi.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/5C82uL75Pc27/",
+      "original_path": "data/media/original/media_5C82uL75Pc27.jpg",
+      "ru_path": null,
+      "sha256": "cbe7dd473dd93c4f6e34ee2cc80480c6e770324a23b79422d86f193832496229",
+      "size": 5353476,
+      "title_en": "Star Trail in the Southern Hemisphere with Bortle 4 Scale Light Pollution",
+      "title_ru": "Звёздные треки в Южном полушарии при световом загрязнении по шкале Бортля 4",
+      "short_caption_en": "Star Trail in the Southern Hemisphere with Bortle 4 Scale Light Pollution",
+      "short_caption_ru": "Звёздные треки в Южном полушарии при световом загрязнении по шкале Бортля 4",
+      "caption_en": "Winner in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nThis breathtaking photo, captured under the clear night sky of Linggamekar Village, Cilimus, Kuningan, West Java, Indonesia on 25 June 2020, displays star trails sweeping across the southern hemisphere’s heavens. The star trails are due to Earth’s rotation causing the apparent motion of stars, creating these mesmerising arcs of light when followed over extended periods. Here, the point the stars rotate around (the South Celestial Pole) is close to the horizon, as the image was taken close to the equator. The photographer used the star trail feature on a smartphone, which captured a series of images over an extended period and stacked them together. The striking tree in the foreground adds depth to the image, contrasting the celestial motion above with its Earthly stillness, while also masking some of the surrounding light pollution. Different parts of the world offer diverse and stunning perspectives on the night sky, emphasising the importance of preserving dark skies everywhere.",
+      "caption_ru": "Победитель в конкурсе астрофотографии МАС OAE 2023 в категории неподвижных изображений, сделанных исключительно на смартфонах/мобильных устройствах.\n\nЭто захватывающее фото, снятое под ясным ночным небом деревни Линггамекар, Чилимус, Кунинган, Западная Ява, Индонезия, 25 июня 2020, показывает звёздные треки, проносящиеся по небесам Южного полушария. Звёздные треки возникают из-за вращения Земли, вызывающего видимое движение звёзд, создавая эти завораживающие дуги света при наблюдении в течение длительного времени. Здесь точка, вокруг которой вращаются звёзды (Южный небесный полюс), находится близко к горизонту, так как изображение было снято вблизи экватора. Фотограф использовал функцию звёздных треков на смартфоне, которая захватила серию изображений за длительный период и сложила их вместе. Эффектное дерево на переднем плане добавляет глубину изображению, противопоставляя небесное движение наверху его земной неподвижности, а также маскируя часть окружающего светового загрязнения. Разные части мира предлагают разнообразные и потрясающие перспективы ночного неба, подчёркивая важность сохранения тёмного неба повсюду.",
+      "alt_en": "Hundreds of small arcs made by stars form circles centred on a point near the horizon. A tree stands in the foreground.",
+      "alt_ru": "Сотни небольших дуг, оставленных звёздами, образуют круги с центром в точке вблизи горизонта. На переднем плане стоит дерево.",
+      "credit": "Slamat Riyadi/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        52,
+        53,
+        90
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:AB430t11jX43",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360171/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Big%20Dipper%20and%20Comet%20Neowise%20C2020%20F3,%20by%20Giorgia%20Hofer.avi/content",
+      "record_url": "https://astro4edu.org/resources/media/AB430t11jX43/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Big Dipper and Comet Neowise C2020 F3",
+      "title_ru": "Большой Ковш и комета NEOWISE C2020 F3",
+      "short_caption_en": "Big Dipper and Comet Neowise C2020 F3",
+      "short_caption_ru": "Большой Ковш и комета NEOWISE C2020 F3",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis time-lapse documents the trajectory of the iconic Big Dipper across three frames taken in July 2020. Captured from three locations in Italy, Tre Cime di Lavaredo Auronzo di Cadore, Monte Rite, Cibiana di Cadore, and Casera Razzo, Vigo di Cadore, this visual odyssey showcases the captivating journey of the Big Dipper with the addition of trails of stars painting a celestial canvas. It not only traces the path of this renowned asterism but also features the rare appearance of comet Neowise C/2020 F3, an extraordinary event that graced our skies during July 2020.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nЭтот таймлапс документирует траекторию культового Большого Ковша на трёх кадрах, сделанных в июле 2020 года. Снятый из трёх мест в Италии — Тре Чиме ди Лаваредо (Ауронцо ди Кадоре), Монте Рите (Чибиана ди Кадоре) и Казера Раццо (Виго ди Кадоре) — этот визуальный одиссей демонстрирует захватывающее путешествие Большого Ковша с добавлением следов звёзд, рисующих небесное полотно. Он не только прослеживает путь этого известного астеризма, но и показывает редкое появление кометы NEOWISE C/2020 F3 — экстраординарное событие, которое украсило наши небеса в июле 2020 года.",
+      "alt_en": "The Big Dipper drifts lower towards the horizon on the left, on the right a comet rises in the sky.",
+      "alt_ru": "Большой Ковш опускается ниже к горизонту слева, справа на небе поднимается комета.",
+      "credit": "Giorgia Hofer/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        56,
+        261,
+        305,
+        473
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Jq59Xa17ay16",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360040/files/First%20place%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Southern%20Sky%20Over%20La%20Silla,%20by%20José%20Rodrigues.mp4/content",
+      "record_url": "https://astro4edu.org/resources/media/Jq59Xa17ay16/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Southern Sky Over La Silla",
+      "title_ru": "Южное небо над Ла-Сильей",
+      "short_caption_en": "Southern Sky Over La Silla",
+      "short_caption_ru": "Южное небо над Ла-Сильей",
+      "caption_en": "First place winner in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis video shows the Milky Way’s sprawling brilliance across the celestial expanse. Among the stars’ grand theatre, the Southern Cross constellation claims its place in the scene, distinguished by its distinctive cross shape as seen in the top of this video and slightly to the right just over the Milky Way, slowly disappearing as the video progresses. This celestial marker, a prominent feature in the southern hemisphere, holds cultural and navigational significance, having served as a navigational guidepost for centuries. Accompanying the Milky Way’s grandeur are the two Magellanic clouds, celestial companions seen dancing in the distant sky. The Carina Nebula adds its ethereal glow to the cosmic panorama, painting a radiant hue against the darkness. In the midst of this celestial ballet, a gentle green hue envelops the atmosphere, a phenomenon known as airglow, adding a touch of subtle luminescence to the night sky. The terrestrial also makes an appearance, with planes flying overhead and vehicles driving between observatory buildings. This time-lapse, taken from the La Silla Observatory in Chile, is a window to the captivating dance of stars, offering a glimpse into the awe-inspiring beauty of our galaxy and the celestial landmarks that grace the southern sky.",
+      "caption_ru": "Первое место в конкурсе астрофотографии 2023 МАС OAE в категории таймлапсов вращения Большой Медведицы или Южного Креста.\r\n\r\nЭто видео показывает разворачивающееся великолепие Млечного Пути по небесному простору. Среди величественного театра звёзд созвездие Южного Креста занимает своё место в сцене, выделяясь характерной крестообразной формой, видимой в верхней части видео и немного правее, прямо над Млечным Путём, медленно исчезая по мере продолжения видео. Этот небесный маркер, заметная особенность южного полушария, имеет культурное и навигационное значение, служа навигационным ориентиром на протяжении веков. Вместе с величием Млечного Пути видны два Магеллановых Облака, небесные спутники, танцующие в далёком небе. Туманность Киля добавляет своё эфирное свечение космической панораме, окрашивая тёмное небо в сияющий оттенок. В разгар этого небесного балета атмосферу окутывает нежный зелёный оттенок — явление, известное как свечение атмосферы, добавляющее ночному небу нотку тонкой люминесценции. Появляется и земное: самолёты пролетают над головой, а автомобили едут между зданиями обсерватории. Этот таймлапс, снятый в обсерватории Ла-Силья в Чили, — окно в захватывающий танец звёзд, предлагающее взглянуть на внушающую благоговение красоту нашей галактики и небесные ориентиры, украшающие южное небо.",
+      "alt_en": "The Milky Way appears as a diagonal stripe bottom left to top right. It becomes more horizontal as the video progresses.",
+      "alt_ru": "Млечный Путь виден как диагональная полоса от нижнего левого угла к верхнему правому. По мере продолжения видео он становится более горизонтальным.",
+      "credit": "José Rodrigues/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        52,
+        53,
+        90,
+        226,
+        305,
+        318
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:LF10IZ41Yc54",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360177/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Beautiful%20Night%20in%20the%20Atacama%20desert,%20by%20Uwe%20Reichert.mp4/content",
+      "record_url": "https://astro4edu.org/resources/media/LF10IZ41Yc54/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Beautiful Night in the Atacama Desert",
+      "title_ru": "Прекрасная ночь в пустыне Атакама",
+      "short_caption_en": "Beautiful Night in the Atacama Desert",
+      "short_caption_ru": "Прекрасная ночь в пустыне Атакама",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nTaken from San Pedro de Atacama, Chile, in June 2023, this time-lapse reveals the celestial ballet that unfolds as the Southern Cross takes its majestic journey across the sky, pointing the way to the South Celestial Pole around which the sky rotates, until it gracefully sets. The star-studded canvas showcases the grandeur of the Milky Way, adorned by the rotating Large and Small Magellanic Clouds swirling around the Southern Celestial Pole. The prominent constellations of Crux, Centaurus, Scorpius, and the former Argo Navis (Carina, Puppis, Vela) are also visible. The spectacle begins just after nightfall, capturing the radiant descent of Canopus, a beacon about to dip below the horizon. Throughout the sequence, there is a subtle presence of passing aeroplanes, fleeting headlights of cars, drifting clouds, and the ethereal airglow. At a stunning moment, a vivid meteor streaked across the sky, a breathtaking fireball briefly igniting the right lower corner around the 41st second mark. As the sequence progresses, the rising moon elegantly illuminates the landscape, casting its glow upon an ancient tree trunk resting on the dry, dusty grounds of the Salar de Atacama. This captivating journey through the night skies concludes before the break of dawn, offering a glimpse into the celestial marvels that are woven into the nocturnal tapestry of San Pedro de Atacama.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии 2023 МАС OAE в категории таймлапсов вращения Большой Медведицы или Южного Креста.\r\n\r\nСнятый в Сан-Педро-де-Атакама, Чили, в июне 2023, этот таймлапс раскрывает небесный балет, разворачивающийся, когда Южный Крест совершает своё величественное путешествие по небу, указывая путь к Южному небесному полюсу, вокруг которого вращается небо, пока грациозно не зайдёт. Усеянное звёздами полотно демонстрирует величие Млечного Пути, украшенное вращающимися Большим и Малым Магеллановыми Облаками, кружащими вокруг Южного небесного полюса. Также видны заметные созвездия Южного Креста, Центавра, Скорпиона и бывшего созвездия Арго Навис (Киль, Корма, Паруса). Зрелище начинается сразу после наступления темноты, запечатлевая сияющий спуск Канопуса, маяка, готового скрыться за горизонтом. На протяжении всей последовательности присутствуют лёгкие следы пролетающих самолётов, мелькающие фары автомобилей, плывущие облака и эфирное свечение атмосферы. В поразительный момент яркий метеор пронёсся по небу — захватывающий огненный шар, ненадолго вспыхнувший в правом нижнем углу примерно на 41-й секунде. По мере развития последовательности восходящая Луна элегантно освещает ландшафт, отбрасывая своё сияние на ствол древнего дерева, лежащий на сухой, пыльной земле Салар-де-Атакама. Это захватывающее путешествие по ночному небу завершается до рассвета, предлагая взглянуть на небесные чудеса, вплетённые в ночную картину Сан-Педро-де-Атакама.",
+      "alt_en": "The Southern Cross points out the South Celestial Pole, around which the sky appears to rotate",
+      "alt_ru": "Южный Крест указывает на Южный небесный полюс, вокруг которого, как кажется, вращается небо",
+      "credit": "Uwe Reichert/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        52,
+        53,
+        90,
+        318
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:8i19wv485F65",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360188/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20The%20Big%20Dipper%20with%20the%20Sardinia%20Radio%20Telescope%20SRT,%20by%20Antonio%20Finazzi.mov/content",
+      "record_url": "https://astro4edu.org/resources/media/8i19wv485F65/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "The Big Dipper with the Sardinia Radio Telescope SRT",
+      "title_ru": "Большая Медведица с Сардинским радиотелескопом SRT",
+      "short_caption_en": "The Big Dipper with the Sardinia Radio Telescope SRT",
+      "short_caption_ru": "Большая Медведица с Сардинским радиотелескопом SRT",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis time-lapse captures the movement of the stars alongside the majestic 64-metre Sardinia Radio Telescope (SRT) from the National Institute of Astrophysics (INAF), with special attention to the renowned Big Dipper against the backdrop of the celestial sphere. The camera pans as the famous asterism sinks in the sky while planes fly past and the radio telescope rotates. The harmonious interplay between the stellar pathways and the colossal dish of the radio telescope creates a mesmerising visual ode to the cosmic ballet taken in September 2019.",
+      "caption_ru": "Почетное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория таймлапсов вращения Большой Медведицы или Южного Креста.\r\n\r\nЭтот таймлапс запечатлевает движение звезд рядом с величественным 64-метровым Сардинским радиотелескопом (SRT) Национального института астрофизики (INAF), с особым вниманием к знаменитой Большой Медведице на фоне небесной сферы. Камера панорамирует, пока известный астеризм опускается в небе, пролетают самолеты, а радиотелескоп вращается. Гармоничное взаимодействие между звездными путями и колоссальной тарелкой радиотелескопа создает завораживающую визуальную оду космическому балету, снятую в сентябре 2019 года.",
+      "alt_en": "The dish of a radio telescope rotates as the Big Dipper moves in the sky behind.",
+      "alt_ru": "Тарелка радиотелескопа вращается, а Большая Медведица движется по небу позади.",
+      "credit": "Antonio Finazzi/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        27,
+        39,
+        52,
+        53,
+        90,
+        226,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:q3129C984l65",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359762/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Star%20Trails,%20by%20Govind%20Gurjar.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/q3129C984l65/",
+      "original_path": "data/media/original/media_q3129C984l65.jpg",
+      "ru_path": null,
+      "sha256": "75c1519530e2f42a82c968b8d2d4d444e4326cfa2e6bea640e18a53b07066465",
+      "size": 1982669,
+      "title_en": "Star Trails",
+      "title_ru": "Звёздные треки",
+      "short_caption_en": "Star Trails",
+      "short_caption_ru": "Звёздные треки",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nTaken in the darkness of Panotiya, Amartiya village, India, this image from October 2022 showcases beautiful star trails painting the night sky. With only a smartphone and a tripod, the photographer captured these trails — visual evidence of our planet's rotation, as each streak represents the apparent movement of the stars as the Earth spins, creating a captivating cosmic choreography of light. The distinct colours of the stars — some gleaming blue, others whitish — hint at their varying temperatures and compositions. Additionally, a subtle streak of an aeroplane momentarily intersects the timeless dance of the stars, juxtaposing the serene heavens with the bustling activity of life below.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии 2023 МАС OAE в категории неподвижных изображений, снятых исключительно на смартфоны/мобильные устройства.\r\n\r\nСнятый в темноте деревни Панотия, Амартия, Индия, этот снимок от октября 2022 демонстрирует прекрасные звёздные треки, рисующие ночное небо. Имея только смартфон и штатив, фотограф запечатлел эти треки — визуальное свидетельство вращения нашей планеты, поскольку каждая полоса представляет видимое движение звёзд, пока Земля вращается, создавая захватывающую космическую хореографию света. Различные цвета звёзд — некоторые сияют голубым, другие беловатым — намекают на их разную температуру и состав. Кроме того, тонкая полоса самолёта на мгновение пересекает вечный танец звёзд, противопоставляя безмятежные небеса оживлённой деятельности внизу.",
+      "alt_en": "Small arcs of stars streak across the sky forming a circular pattern. Two dashed straight lines appear on the right.",
+      "alt_ru": "Небольшие дуги звёзд прочерчивают небо, образуя круговой узор. Справа появляются две пунктирные прямые линии.",
+      "credit": "Govind Gurjar/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        53,
+        90
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:PP87mr753x68",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360167/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Big%20Dipper%20Over%20the%20Mono%20Lake,%20by%20Fabrizio%20Melandri.mp4/content",
+      "record_url": "https://astro4edu.org/resources/media/PP87mr753x68/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Big Dipper Over the Mono Lake",
+      "title_ru": "Большой Ковш над озером Моно",
+      "short_caption_en": "Big Dipper Over the Mono Lake",
+      "short_caption_ru": "Большой Ковш над озером Моно",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThe Big Dipper asterism gracefully moves above the otherworldly tufa formations of Mono Lake, California. The time-lapse captures the Big Dipper’s movement across the northern horizon until its inferior conjunction. At Mono Lake’s latitude (+38°), the stars of the Big Dipper remain circumpolar, except for Alkaid. The North Star sits 38° above the horizon, just outside the field of view in the top right. The lunar illumination bathes the landscape in a soft glow, gradually fading as the Moon sets, cloaking the scene in darkness.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nАстеризм Большой Ковш изящно движется над потусторонними туфовыми образованиями озера Моно, Калифорния. Таймлапс запечатлевает движение Большого Ковша по северному горизонту до его нижней кульминации. На широте озера Моно (+38°) звёзды Большого Ковша остаются незаходящими, за исключением Алькаида. Полярная звезда находится на высоте 38° над горизонтом, чуть за пределами поля зрения в правом верхнем углу. Лунное освещение заливает пейзаж мягким светом, постепенно исчезающим при заходе Луны, окутывая сцену тьмой.",
+      "alt_en": "The Big Dipper sinks in the sky with the handle sweeping out a larger circle than the bowl of the asterism.",
+      "alt_ru": "Большой Ковш опускается в небе, при этом рукоятка описывает больший круг, чем чаша астеризма.",
+      "credit": "Fabrizio Melandri/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        56,
+        90,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Y71yJ65uJ83",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360123/files/Second%20place%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20The%20Rotating%20Planet,%20by%20Jianfeng%20Dai.mov/content",
+      "record_url": "https://astro4edu.org/resources/media/Y71yJ65uJ83/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "The Rotating Planet",
+      "title_ru": "Вращающаяся планета",
+      "short_caption_en": "The Rotating Planet",
+      "short_caption_ru": "Вращающаяся планета",
+      "caption_en": "Second place winner in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nA cosmic journey unfolds across continents in this time-lapse video which captures both iconic constellations from diverse corners of the world. Starting in China, the Big Dipper graces the night sky, a steadfast guide embedded in cultural narratives. Its luminance marks the beginning of this celestial odyssey. The two pointer stars on the end of the Big Dipper point to the North Star (Polaris) which appears to remain stationary as the sky rotates. From Nepal’s lofty peaks, the Big Dipper’s familiarity persists, a reliable fixture in the shifting panorama of the rotating planet. Moving to Chile, the Southern Cross adorns the firmament, emblematic of the southern skies. Frames from Chile showcase this constellation accompanied by the Milky Way Galaxy. In Namibia, a telescope from the H.E.S.S. Observatory appears in the video. Later, nestled beneath sheltering trees, the Big Dipper persists in its celestial prominence, appearing against a canvas of stars. Using varied techniques — fisheye lenses, static cameras, and Earth's movement-tracking — each frame unveils the Cross’s grandeur against diverse landscapes. These sequences — marked by star trails and Earth’s rotation—highlight the enduring presence of the Big Dipper and Southern Cross, bridging cultures and celestial beauty across hemispheres.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nКосмическое путешествие разворачивается через континенты в этом видео-таймлапсе, которое запечатлевает оба культовых созвездия из разных уголков мира. Начиная с Китая, Большой Ковш украшает ночное небо, являясь надёжным ориентиром, вписанным в культурные нарративы. Его сияние знаменует начало этого небесного одиссея. Две указательные звезды на конце Большого Ковша указывают на Полярную звезду, которая, как кажется, остаётся неподвижной, пока небо вращается. С высоких вершин Непала знакомство с Большим Ковшом сохраняется — это надёжный элемент в меняющейся панораме вращающейся планеты. Перемещаясь в Чили, Южный Крест украшает небосвод, являясь символом южных небес. Кадры из Чили показывают это созвездие в сопровождении галактики Млечный Путь. В Намибии в видео появляется телескоп обсерватории H.E.S.S. Позже, укрывшись под осеняющими деревьями, Большой Ковш сохраняет своё небесное великолепие, появляясь на фоне звёздного полотна. Используя различные техники — рыбий глаз, статические камеры и съёмку со слежением за движением неба — каждый кадр раскрывает величие Креста на фоне разнообразных ландшафтов. Эти последовательности, отмеченные звёздными следами и вращением Земли, подчёркивают неизменное присутствие Большого Ковша и Южного Креста, соединяя культуры и небесную красоту через полушария.",
+      "alt_en": "Timelapses of rotating skies behind trees, telescopes, mountains and observatories",
+      "alt_ru": "Таймлапсы вращающегося неба за деревьями, телескопами, горами и обсерваториями",
+      "credit": "Jianfeng Dai/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        90,
+        217,
+        261,
+        318,
+        518
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Oi91Gk8vW60",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10360019/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Star%20Trails%20of%20the%20Forbidden%20City,%20by%20Stephanie%20Ziyi%20Ye.JPEG/content",
+      "record_url": "https://astro4edu.org/resources/media/Oi91Gk8vW60/",
+      "original_path": "data/media/original/media_Oi91Gk8vW60.jpeg",
+      "ru_path": null,
+      "sha256": "2fecbcf7711e89fda7ebd52aa22ed1426901cd5f809421c2f48870e84b340428",
+      "size": 4120102,
+      "title_en": "Star Trails of the Forbidden City",
+      "title_ru": "Звёздные треки Запретного города",
+      "short_caption_en": "Star Trails of the Forbidden City",
+      "short_caption_ru": "Звёздные треки Запретного города",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nBeneath the celestial ballet of star trails that weave their way across the night sky, the Beijing Forbidden City stands as a testament to ancient celestial connections in this image captured in March 2022. Designed with a cosmic alignment in mind, the palace echoes the orientation of the North Star, also known as Polaris, a celestial anchor that has long guided navigators and symbolised steadiness in the sky. It was believed that the Emperor embodied the earthly representation of this pole star, bridging the realms between heaven and earth. In this harmonious one-hour exposure captured with a smartphone, the streaks of stars trace their nightly journey across the firmament, converging toward the North Star, reflecting the precision of both architectural design and celestial paths.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии 2023 МАС OAE в категории неподвижных изображений, снятых исключительно на смартфоны/мобильные устройства.\r\n\r\nПод небесным балетом звёздных треков, которые прочерчивают свой путь по ночному небу, пекинский Запретный город предстаёт свидетельством древних небесных связей на этом снимке, сделанном в марте 2022. Спроектированный с учётом космического выравнивания, дворец повторяет ориентацию Полярной звезды, также известной как Полярис, небесного якоря, который долго направлял мореплавателей и символизировал устойчивость в небе. Считалось, что император воплощал земное представление этой полярной звезды, соединяя миры неба и земли. На этой гармоничной часовой экспозиции, снятой на смартфон, полосы звёзд прочерчивают свой ночной путь по небосводу, сходясь к Полярной звезде, отражая точность как архитектурного замысла, так и небесных путей.",
+      "alt_en": "A traditional Chinese building. Above the streaks of stars form a circular pattern around the north star.",
+      "alt_ru": "Традиционное китайское здание. Над ним полосы звёзд образуют круговой узор вокруг Полярной звезды.",
+      "credit": "Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        52,
+        53,
+        56,
+        210,
+        217,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

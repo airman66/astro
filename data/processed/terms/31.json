@@ -1,0 +1,141 @@
+{
+  "id": "term:31",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 31,
+    "url": "https://astro4edu.org/resources/glossary/term/31/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=31",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:14.500744+00:00",
+    "sha256": "5e7cbd0bbea493f215591ba255efd3ea695f6546874f75e13776af51a19ff36c"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Chemistry"
+    ],
+    "category_ids": [
+      12
+    ],
+    "categories_ru": [
+      "Химия"
+    ],
+    "related_term_numbers": [
+      32,
+      160,
+      441,
+      514,
+      515,
+      516
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Atom",
+      "body": "Atoms are the smallest building blocks of matter that constitute any given chemical element. For example, helium gas consists of a collection of many helium atoms, each such helium atom indistinguishable from the next; carbon in the form of, say, diamond, is a collection of carbon atoms. The word \"atom\" goes back to Democritus, an Ancient Greek philosopher, who postulated that atoms are the indivisible fundamental components for all of matter. In contrast, atoms according to the modern definition are made up of electrons, protons, and neutrons. Protons and neutrons form the atomic nucleus. All atoms of a given chemical element have the same number of protons, uniquely characteristic for that element. The atomic nucleus is surrounded by electrons. As the term is commonly used, atoms are electrically neutral, with as many protons (each with unit positive electric charge) as electrons (each with unit negative charge).  When electrons are taken away from, or added to, this neutral configuration, an atom becomes an ion. The electron shell determines the chemical properties of an atom. The differences and similarities between the different kinds of atoms are organized and classified in the periodic table of chemical elements. The electron shell also determines how an atom interacts with radiation. The resulting features in the spectrum of light received from astronomical objects allow astronomers to identify the different kinds of atoms in space.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Atomic Structure",
+          "url": "https://www.astro4edu.org/resources/glossary/term/32/",
+          "text_ru": "Атомная структура"
+        },
+        {
+          "text": "Ionization",
+          "url": "https://www.astro4edu.org/resources/glossary/term/160/",
+          "text_ru": "Ионизация"
+        },
+        {
+          "text": "Electron",
+          "url": "https://www.astro4edu.org/resources/glossary/term/441/",
+          "text_ru": "Электрон"
+        },
+        {
+          "text": "Spectral Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/514/",
+          "text_ru": "Спектральная линия"
+        },
+        {
+          "text": "Absorption Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/515/",
+          "text_ru": "Линия поглощения"
+        },
+        {
+          "text": "Emission Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/516/",
+          "text_ru": "Линия излучения"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Atom</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Atoms are the smallest building blocks of matter that constitute any given chemical element. For example, helium gas consists of a collection of many helium atoms, each such helium atom indistinguishable from the next; carbon in the form of, say, diamond, is a collection of carbon atoms. <br/><br/>The word \"atom\" goes back to Democritus, an Ancient Greek philosopher, who postulated that atoms are the indivisible fundamental components for all of matter. In contrast, atoms according to the modern definition are made up of electrons, protons, and neutrons. Protons and neutrons form the atomic nucleus. All atoms of a given chemical element have the same number of protons, uniquely characteristic for that element. The atomic nucleus is surrounded by electrons. As the term is commonly used, atoms are electrically neutral, with as many protons (each with unit positive electric charge) as electrons (each with unit negative charge).  When electrons are taken away from, or added to, this neutral configuration, an atom becomes an ion.<br/><br/>The electron shell determines the chemical properties of an atom. The differences and similarities between the different kinds of atoms are organized and classified in the periodic table of chemical elements. The electron shell also determines how an atom interacts with radiation. The resulting features in the spectrum of light received from astronomical objects allow astronomers to identify the different kinds of atoms in space.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/32/\">Atomic Structure</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/160/\">Ionization</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/441/\">Electron</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/514/\">Spectral Line</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/515/\">Absorption Line</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/516/\">Emission Line</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Атом",
+      "body_ru": "Атомы — это мельчайшие строительные блоки материи, составляющие любой данный химический элемент. Например, газ гелий состоит из множества атомов гелия, причём каждый такой атом гелия неотличим от следующего; углерод в виде, скажем, алмаза представляет собой совокупность атомов углерода. Слово «атом» восходит к Демокриту, древнегреческому философу, который постулировал, что атомы являются неделимыми фундаментальными компонентами всей материи. В противоположность этому, атомы согласно современному определению состоят из электронов, протонов и нейтронов. Протоны и нейтроны образуют атомное ядро. Все атомы данного химического элемента имеют одинаковое число протонов, уникально характерное для этого элемента. Атомное ядро окружено электронами. В общепринятом употреблении термина атомы электрически нейтральны, с таким же числом протонов (каждый с единичным положительным электрическим зарядом), как и электронов (каждый с единичным отрицательным зарядом). Когда электроны удаляются из этой нейтральной конфигурации или добавляются к ней, атом становится ионом. Электронная оболочка определяет химические свойства атома. Различия и сходства между разными видами атомов организованы и классифицированы в периодической таблице химических элементов. Электронная оболочка также определяет, как атом взаимодействует с излучением. Возникающие в результате особенности в спектре света, получаемого от астрономических объектов, позволяют астрономам идентифицировать различные виды атомов в космосе."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/31/\">الذرة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/31/\">Atom </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/31/\">Átomo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/31/\">Atome </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/31/\">Atomo </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/31/\">Átomo </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/31/\">原子 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/31/\">原子 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Atom",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Atom",
+          "body": "Atoms are the smallest building blocks of matter that constitute any given chemical element. For example, helium gas consists of a collection of many helium atoms, each such helium atom indistinguishable from the next; carbon in the form of, say, diamond, is a collection of carbon atoms. The word \"atom\" goes back to Democritus, an Ancient Greek philosopher, who postulated that atoms are the indivisible fundamental components for all of matter. In contrast, atoms according to the modern definition are made up of electrons, protons, and neutrons. Protons and neutrons form the atomic nucleus. All atoms of a given chemical element have the same number of protons, uniquely characteristic for that element. The atomic nucleus is surrounded by electrons. As the term is commonly used, atoms are electrically neutral, with as many protons (each with unit positive electric charge) as electrons (each with unit negative charge).  When electrons are taken away from, or added to, this neutral configuration, an atom becomes an ion. The electron shell determines the chemical properties of an atom. The differences and similarities between the different kinds of atoms are organized and classified in the periodic table of chemical elements. The electron shell also determines how an atom interacts with radiation. The resulting features in the spectrum of light received from astronomical objects allow astronomers to identify the different kinds of atoms in space."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Атом",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Атом",
+          "body": "Атомы — это мельчайшие строительные блоки материи, составляющие любой данный химический элемент. Например, газ гелий состоит из множества атомов гелия, причём каждый такой атом гелия неотличим от следующего; углерод в виде, скажем, алмаза представляет собой совокупность атомов углерода. Слово «атом» восходит к Демокриту, древнегреческому философу, который постулировал, что атомы являются неделимыми фундаментальными компонентами всей материи. В противоположность этому, атомы согласно современному определению состоят из электронов, протонов и нейтронов. Протоны и нейтроны образуют атомное ядро. Все атомы данного химического элемента имеют одинаковое число протонов, уникально характерное для этого элемента. Атомное ядро окружено электронами. В общепринятом употреблении термина атомы электрически нейтральны, с таким же числом протонов (каждый с единичным положительным электрическим зарядом), как и электронов (каждый с единичным отрицательным зарядом). Когда электроны удаляются из этой нейтральной конфигурации или добавляются к ней, атом становится ионом. Электронная оболочка определяет химические свойства атома. Различия и сходства между разными видами атомов организованы и классифицированы в периодической таблице химических элементов. Электронная оболочка также определяет, как атом взаимодействует с излучением. Возникающие в результате особенности в спектре света, получаемого от астрономических объектов, позволяют астрономам идентифицировать различные виды атомов в космосе."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

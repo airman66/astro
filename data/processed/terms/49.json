@@ -1,0 +1,143 @@
+{
+  "id": "term:49",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 49,
+    "url": "https://astro4edu.org/resources/glossary/term/49/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=49",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:19.131619+00:00",
+    "sha256": "0d534350cbedae92b5c671cf403248c2bf33951e5aa79d6dc2af456b2b33bf29"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      17,
+      62,
+      119,
+      253
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Celestial Body",
+      "body": "In astronomy, the terms celestial body, celestial object, astronomical body, and astronomical object are used almost interchangeably as common terms for all the physical bodies and objects out there in space that astronomers study, including stars, planets, galaxies, gas clouds, and so on. Some astronomers use celestial or astronomical body in a narrower sense, namely for objects that are clearly separated from their environment – in that sense, a planet would be a celestial body, a gas cloud would not be (but it would still be an astronomical object). On the smallest scales, the terms are not commonly used. A proton might reach us from outer space, but would not be commonly referred to as an astronomical object, or a celestial body.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Asteroid",
+          "url": "https://www.astro4edu.org/resources/glossary/term/17/",
+          "text_ru": "Астероид"
+        },
+        {
+          "text": "Comet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/62/",
+          "text_ru": "Комета"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/253/",
+          "text_ru": "Планета"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Celestial Body</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Celestial Object</b>, <b>Astronomical Body</b> or <b>Astronomical Object</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In astronomy, the terms celestial body, celestial object, astronomical body, and astronomical object are used almost interchangeably as common terms for all the physical bodies and objects out there in space that astronomers study, including stars, planets, galaxies, gas clouds, and so on. Some astronomers use celestial or astronomical body in a narrower sense, namely for objects that are clearly separated from their environment – in that sense, a planet would be a celestial body, a gas cloud would not be (but it would still be an astronomical object). On the smallest scales, the terms are not commonly used. A proton might reach us from outer space, but would not be commonly referred to as an astronomical object, or a celestial body.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/17/\">Asteroid</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/62/\">Comet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/253/\">Planet</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Небесное тело",
+      "body_ru": "В астрономии термины небесное тело, небесный объект, астрономическое тело и астрономический объект используются почти взаимозаменяемо как общие обозначения для всех физических тел и объектов в космосе, которые изучают астрономы, включая звёзды, планеты, галактики, газовые облака и так далее. Некоторые астрономы используют термины небесное или астрономическое тело в более узком смысле, а именно для объектов, чётко отделённых от окружающей среды – в этом смысле планета была бы небесным телом, а газовое облако – нет (но оно всё равно оставалось бы астрономическим объектом). В самых малых масштабах эти термины обычно не используются. Протон может долететь до нас из космоса, но его обычно не называют астрономическим объектом или небесным телом."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "天体 (external link)",
+          "url": "https://astro-dic.jp/celestial-object/",
+          "text_ru": "Небесное тело (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/49/\">الجرم السماوي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/49/\">Himmelskörper </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/49/\">Cuerpo celeste </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/49/\">Corps céleste </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/49/\">Corpo celeste </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/celestial-object/\">天体 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/49/\">천체 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/49/\">Corpo Celeste </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/49/\">天体 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/49/\">天體 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Celestial Body",
+      "aliases": [
+        "Celestial Object",
+        "Astronomical Body",
+        "Astronomical Object"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Celestial Body",
+          "body": "In astronomy, the terms celestial body, celestial object, astronomical body, and astronomical object are used almost interchangeably as common terms for all the physical bodies and objects out there in space that astronomers study, including stars, planets, galaxies, gas clouds, and so on. Some astronomers use celestial or astronomical body in a narrower sense, namely for objects that are clearly separated from their environment – in that sense, a planet would be a celestial body, a gas cloud would not be (but it would still be an astronomical object). On the smallest scales, the terms are not commonly used. A proton might reach us from outer space, but would not be commonly referred to as an astronomical object, or a celestial body."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Небесное тело",
+      "aliases": [
+        "Небесный объект",
+        "Астрономическое тело",
+        "Астрономический объект"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Небесное тело",
+          "body": "В астрономии термины небесное тело, небесный объект, астрономическое тело и астрономический объект используются почти взаимозаменяемо как общие обозначения для всех физических тел и объектов в космосе, которые изучают астрономы, включая звёзды, планеты, галактики, газовые облака и так далее. Некоторые астрономы используют термины небесное или астрономическое тело в более узком смысле, а именно для объектов, чётко отделённых от окружающей среды – в этом смысле планета была бы небесным телом, а газовое облако – нет (но оно всё равно оставалось бы астрономическим объектом). В самых малых масштабах эти термины обычно не используются. Протон может долететь до нас из космоса, но его обычно не называют астрономическим объектом или небесным телом."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

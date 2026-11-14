@@ -1,0 +1,309 @@
+{
+  "id": "term:345",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 345,
+    "url": "https://astro4edu.org/resources/glossary/term/345/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=345",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:58.697832+00:00",
+    "sha256": "14b91a4391cf02be661cca88b060ff2fea4b08a1b6fd8bc7420dffcf9b415d3e"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      4,
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      251,
+      308,
+      342,
+      346,
+      455
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Sunspot",
+      "body": "A sunspot is a temporary, cool region, caused by a strong magnetic field in the Sun's photosphere. Sunspots are areas where tubes of magnetic flux emerge from deeper in the Sun. The high magnetic field increases the magnetic pressure in these regions. To stay at the same pressure as their surroundings, the gas and plasma pressure in the sunspot must drop, making it cooler than its surroundings. As they are cooler than the surrounding photosphere, sunspots can be seen through a telescope as dark patches/blotches on the surface of the Sun. Sunspots range in size from tens of kilometers across to over a hundred thousand kilometers across. They can persist for timescales between a few days and a few months. The number and location of sunspots on the Sun varies over the solar cycle. Other stars are also thought to have spots caused by their magnetic fields.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Photosphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/251/",
+          "text_ru": "Фотосфера"
+        },
+        {
+          "text": "Solar Cycle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/308/",
+          "text_ru": "Солнечный цикл"
+        },
+        {
+          "text": "Sun",
+          "url": "https://www.astro4edu.org/resources/glossary/term/342/",
+          "text_ru": "Солнце"
+        },
+        {
+          "text": "Sunspot Cycle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/346/",
+          "text_ru": "Цикл солнечных пятен"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Sunspot</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>starspot</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A sunspot is a temporary, cool region, caused by a strong magnetic field in the Sun's photosphere. Sunspots are areas where tubes of magnetic flux emerge from deeper in the Sun. The high magnetic field increases the magnetic pressure in these regions. To stay at the same pressure as their surroundings, the gas and plasma pressure in the sunspot must drop, making it cooler than its surroundings. As they are cooler than the surrounding photosphere, sunspots can be seen through a telescope as dark patches/blotches on the surface of the Sun. Sunspots range in size from tens of kilometers across to over a hundred thousand kilometers across. They can persist for timescales between a few days and a few months. The number and location of sunspots on the Sun varies over the solar cycle. Other stars are also thought to have spots caused by their magnetic fields.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/251/\">Photosphere</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/308/\">Solar Cycle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/342/\">Sun</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/346/\">Sunspot Cycle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Солнечное пятно",
+      "body_ru": "Солнечное пятно — это временная, более холодная область, вызванная сильным магнитным полем в фотосфере Солнца. Солнечные пятна — это области, где трубки магнитного потока выходят из более глубоких слоёв Солнца. Высокое магнитное поле увеличивает магнитное давление в этих областях. Чтобы оставаться при том же давлении, что и окружающая среда, давление газа и плазмы в солнечном пятне должно падать, делая его холоднее окружающих областей. Поскольку они холоднее окружающей фотосферы, солнечные пятна можно увидеть в телескоп как тёмные участки/пятна на поверхности Солнца. Размер солнечных пятен варьируется от десятков километров в поперечнике до более чем ста тысяч километров. Они могут существовать в течение времени от нескольких дней до нескольких месяцев. Количество и расположение солнечных пятен на Солнце меняется в течение солнечного цикла. Считается, что другие звёзды также имеют пятна, вызванные их магнитными полями."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "黒点 (external link)",
+          "url": "https://astro-dic.jp/sunspot/",
+          "text_ru": "Солнечное пятно (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/345/\">بقعة شمسية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/345/\">Sonnenfleck </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/345/\">Mancha solar </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/345/\">لکه خورشیدی </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/345/\">Tache solaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/345/\">Macchia solare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/sunspot/\">黒点 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/345/\">태양흑점 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/345/\">Mancha solar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/345/\">太阳黑子 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/345/\">太陽黑子 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/N7270j86V05/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://sdo.gsfc.nasa.gov/gallery/main/item/151",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Y9557v73is44/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://nso.edu/telescopes/dkist/inouye-first-sunspot/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:N7270j86V05",
+        "media:Y9557v73is44"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/N7270j86V05/\"><img alt=\"Image showing groups of sunspots as dark patches which lie in bands above and below the Sun's equator\" src=\"/media/multimedia/thumbnails/July_spots_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sunspots</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> In this image the sun peppered with groups of sunspots over almost nine days between July and August 2012. The sunspots seen in this image have been sources of the solar flares and coronal mass ejections (CME). In this image particulary, the sun is approaching solar maximum in its cycle (solar cycle), where we see many spots forming along the suns' equator. These sunspots and activity are seen in the southern hemisphere, before then most of the activity was on the northern hemisphere.<br/>\n<b>Credit:</b> NASA/SDO/HMI\n\t  <a href=\"https://sdo.gsfc.nasa.gov/gallery/main/item/151\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Y9557v73is44/\"><img alt=\"A dark, roughly circular, black sunspot sends dark fingers out into the bright orange surroundings\" src=\"/media/multimedia/thumbnails/close-up-view-of-a-sunspot_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Close-up view of a sunspot</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image of a sunspot was taken by the Daniel K Inouye Solar Telescope (DKIST), operated by the U.S. National Science Foundation. It was taken only in light with a wavelength of 530 nanometers, within the greenish-yellow part of the visible spectrum. \n\nThe picture reveals the detail of the spot's structure and the Sun’s photosphere. The dark central region, known as the umbra, is surrounded by a lighter area called the penumbra with radially elongated features stretching towards the umbra. Note that the umbra and penumbra here are not the same as the umbra and penumbra that occur during an eclipse. \n\nThe sunspot measures approximately 5000 kilometres in diameter, roughly equivalent to the east-west span of China. While the umbra appears black, it is actually hot and bright. It only appears dark because it is a few thousand kelvin cooler than the surrounding solar photosphere. Surrounding the sunspot, granulation patterns of plasma are visible on the photospheric surface of the Sun. <br/>\n<b>Credit:</b> NSO/NSF/AURA\n\t  <a href=\"https://nso.edu/telescopes/dkist/inouye-first-sunspot/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Measure the Sun's Rotation Period astroEDU educational activity (links to astroEDU website) Description: Find out the Sun’s rotation period, applying the simple equation of average speed to a real astronomical case. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , History \n  \n  , Experiment \n  \n  , Galileo \n  \n  , average speed Age Ranges: 16-19 Education Level: Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking Is the Sun rotating? Follow the sunspots! astroEDU educational activity (links to astroEDU website) Description: Like a \"modern\" Galileo, use true astronomical satellite observations to discover if the Sun (and other celestial objects) are rotating! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , History \n  \n  , Experiment \n  \n  , Galileo Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Planning and carrying out investigations",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/measure-the-suns-rotation-period/\"><img alt=\"Measure the Sun's Rotation Period\" src=\"/media/astroedu/images/measure-the-suns-rotation-period_en_thumbnail_QoRCDOr.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/measure-the-suns-rotation-period/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Measure the Sun's Rotation Period</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Find out the Sun’s rotation period, applying the simple equation of average speed to a real astronomical case.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , History \n  \n  , Experiment \n  \n  , Galileo \n  \n  , average speed \n  \n<b>Age Ranges:</b>\n\n16-19 \n  \n<b>Education Level:</b>\n\nSecondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/is-the-sun-rotating-follow-the-sunspots/\"><img alt=\"Is the Sun rotating? Follow the sunspots!\" src=\"/media/astroedu/images/is-the-sun-rotating-follow-the-sunspots_en_thumbnail_gMVZ6lW.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/is-the-sun-rotating-follow-the-sunspots/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Is the Sun rotating? Follow the sunspots!</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Like a \"modern\" Galileo, use true astronomical satellite observations to discover if the Sun (and other celestial objects) are rotating!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , History \n  \n  , Experiment \n  \n  , Galileo \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Измерение периода вращения Солнца — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте период вращения Солнца, применяя простое уравнение средней скорости к реальному астрономическому случаю. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Теги: Практическая работа, История, Эксперимент, Галилей, средняя скорость. Возрастные диапазоны: 16-19. Уровень образования: Средняя школа (старшие классы). Области обучения: Структурированное исследовательское обучение. Затраты: Низкая стоимость. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Участие в аргументации на основе доказательств, Планирование и проведение исследований, Использование математики и вычислительного мышления. Вращается ли Солнце? Следите за солнечными пятнами! — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Как «современный» Галилей, используйте настоящие астрономические спутниковые наблюдения, чтобы обнаружить, вращается ли Солнце (и другие небесные объекты)! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Теги: Практическая работа, История, Эксперимент, Галилей. Возрастные диапазоны: 12-14, 14-16, 16-19. Уровень образования: Средняя школа, Средняя школа (старшие классы). Области обучения: Структурированное исследовательское обучение. Затраты: Низкая стоимость. Продолжительность: 1 час. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Планирование и проведение исследований."
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Sunspot",
+      "aliases": [
+        "starspot"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Sunspot",
+          "body": "A sunspot is a temporary, cool region, caused by a strong magnetic field in the Sun's photosphere. Sunspots are areas where tubes of magnetic flux emerge from deeper in the Sun. The high magnetic field increases the magnetic pressure in these regions. To stay at the same pressure as their surroundings, the gas and plasma pressure in the sunspot must drop, making it cooler than its surroundings. As they are cooler than the surrounding photosphere, sunspots can be seen through a telescope as dark patches/blotches on the surface of the Sun. Sunspots range in size from tens of kilometers across to over a hundred thousand kilometers across. They can persist for timescales between a few days and a few months. The number and location of sunspots on the Sun varies over the solar cycle. Other stars are also thought to have spots caused by their magnetic fields."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Measure the Sun's Rotation Period astroEDU educational activity (links to astroEDU website) Description: Find out the Sun’s rotation period, applying the simple equation of average speed to a real astronomical case. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , History \n  \n  , Experiment \n  \n  , Galileo \n  \n  , average speed Age Ranges: 16-19 Education Level: Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking Is the Sun rotating? Follow the sunspots! astroEDU educational activity (links to astroEDU website) Description: Like a \"modern\" Galileo, use true astronomical satellite observations to discover if the Sun (and other celestial objects) are rotating! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , History \n  \n  , Experiment \n  \n  , Galileo Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Planning and carrying out investigations"
+        }
+      }
+    },
+    "ru": {
+      "title": "Солнечное пятно",
+      "aliases": [
+        "звёздное пятно"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Солнечное пятно",
+          "body": "Солнечное пятно — это временная, более холодная область, вызванная сильным магнитным полем в фотосфере Солнца. Солнечные пятна — это области, где трубки магнитного потока выходят из более глубоких слоёв Солнца. Высокое магнитное поле увеличивает магнитное давление в этих областях. Чтобы оставаться при том же давлении, что и окружающая среда, давление газа и плазмы в солнечном пятне должно падать, делая его холоднее окружающих областей. Поскольку они холоднее окружающей фотосферы, солнечные пятна можно увидеть в телескоп как тёмные участки/пятна на поверхности Солнца. Размер солнечных пятен варьируется от десятков километров в поперечнике до более чем ста тысяч километров. Они могут существовать в течение времени от нескольких дней до нескольких месяцев. Количество и расположение солнечных пятен на Солнце меняется в течение солнечного цикла. Считается, что другие звёзды также имеют пятна, вызванные их магнитными полями."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Измерение периода вращения Солнца — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Узнайте период вращения Солнца, применяя простое уравнение средней скорости к реальному астрономическому случаю. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Теги: Практическая работа, История, Эксперимент, Галилей, средняя скорость. Возрастные диапазоны: 16-19. Уровень образования: Средняя школа (старшие классы). Области обучения: Структурированное исследовательское обучение. Затраты: Низкая стоимость. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Участие в аргументации на основе доказательств, Планирование и проведение исследований, Использование математики и вычислительного мышления. Вращается ли Солнце? Следите за солнечными пятнами! — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU). Описание: Как «современный» Галилей, используйте настоящие астрономические спутниковые наблюдения, чтобы обнаружить, вращается ли Солнце (и другие небесные объекты)! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0), значки. Теги: Практическая работа, История, Эксперимент, Галилей. Возрастные диапазоны: 12-14, 14-16, 16-19. Уровень образования: Средняя школа, Средняя школа (старшие классы). Области обучения: Структурированное исследовательское обучение. Затраты: Низкая стоимость. Продолжительность: 1 час. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Планирование и проведение исследований."
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:N7270j86V05",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/July_spots.jpg",
+      "record_url": "https://astro4edu.org/resources/media/N7270j86V05/",
+      "original_path": "data/media/original/media_N7270j86V05.jpg",
+      "ru_path": null,
+      "sha256": "312ffcc91299c1cb116150565df1ad5d6d466717e77e6d0c60240cdaf448aa6c",
+      "size": 153318,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Sunspots",
+      "short_caption_ru": "Солнечные пятна",
+      "caption_en": "In this image the sun peppered with groups of sunspots over almost nine days between July and August 2012. The sunspots seen in this image have been sources of the solar flares and coronal mass ejections (CME). In this image particulary, the sun is approaching solar maximum in its cycle (solar cycle), where we see many spots forming along the suns' equator. These sunspots and activity are seen in the southern hemisphere, before then most of the activity was on the northern hemisphere.",
+      "caption_ru": "На этом изображении Солнце усеяно группами солнечных пятен на протяжении почти девяти дней между июлем и августом 2012. Солнечные пятна, видимые на этом изображении, были источниками солнечных вспышек и корональных выбросов массы (КВМ). В частности, на этом изображении Солнце приближается к солнечному максимуму своего цикла (солнечного цикла), когда мы видим множество пятен, образующихся вдоль экватора Солнца. Эти солнечные пятна и активность видны в южном полушарии, тогда как до этого большая часть активности была в северном полушарии.",
+      "alt_en": "Image showing groups of sunspots as dark patches which lie in bands above and below the Sun's equator",
+      "alt_ru": "Изображение, показывающее группы солнечных пятен в виде тёмных участков, которые располагаются полосами выше и ниже экватора Солнца",
+      "credit": "NASA/SDO/HMI",
+      "credit_url": "https://sdo.gsfc.nasa.gov/gallery/main/item/151",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        342,
+        345,
+        479
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Y9557v73is44",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/close-up-view-of-a-sunspot.png",
+      "record_url": "https://astro4edu.org/resources/media/Y9557v73is44/",
+      "original_path": "data/media/original/media_Y9557v73is44.png",
+      "ru_path": null,
+      "sha256": "3787a914a4db203c892b6b941c858fa8d1e8dd94d2029dade7659038975a7818",
+      "size": 5225698,
+      "title_en": "Close-up view of a sunspot",
+      "title_ru": "Крупный план солнечного пятна",
+      "short_caption_en": "Close-up view of a sunspot",
+      "short_caption_ru": "Крупный план солнечного пятна",
+      "caption_en": "This image of a sunspot was taken by the Daniel K Inouye Solar Telescope (DKIST), operated by the U.S. National Science Foundation. It was taken only in light with a wavelength of 530 nanometers, within the greenish-yellow part of the visible spectrum. \r\n\r\nThe picture reveals the detail of the spot's structure and the Sun’s photosphere. The dark central region, known as the umbra, is surrounded by a lighter area called the penumbra with radially elongated features stretching towards the umbra. Note that the umbra and penumbra here are not the same as the umbra and penumbra that occur during an eclipse. \r\n\r\nThe sunspot measures approximately 5000 kilometres in diameter, roughly equivalent to the east-west span of China. While the umbra appears black, it is actually hot and bright. It only appears dark because it is a few thousand kelvin cooler than the surrounding solar photosphere. Surrounding the sunspot, granulation patterns of plasma are visible on the photospheric surface of the Sun. ",
+      "caption_ru": "Это изображение солнечного пятна было получено солнечным телескопом Дэниела К. Иноуэ (DKIST), управляемым Национальным научным фондом США. Оно было получено только в свете с длиной волны 530 нанометров, в зеленовато-жёлтой части видимого спектра.\n\nИзображение раскрывает детали структуры пятна и фотосферы Солнца. Тёмная центральная область, известная как тень (умбра), окружена более светлой областью, называемой полутенью (пенумбра), с радиально вытянутыми образованиями, простирающимися к тени. Обратите внимание, что тень и полутень здесь — это не то же самое, что тень и полутень, возникающие во время затмения.\n\nДиаметр солнечного пятна составляет примерно 5000 километров, что примерно соответствует протяжённости Китая с востока на запад. Хотя тень кажется чёрной, на самом деле она горячая и яркая. Она кажется тёмной только потому, что она на несколько тысяч кельвинов холоднее окружающей солнечной фотосферы. Вокруг солнечного пятна на фотосферной поверхности Солнца видны грануляционные структуры плазмы.",
+      "alt_en": "A dark, roughly circular, black sunspot sends dark fingers out into the bright orange surroundings",
+      "alt_ru": "Тёмное, почти круглое чёрное солнечное пятно выпускает тёмные пальцы в яркое оранжевое окружение",
+      "credit": "NSO/NSF/AURA",
+      "credit_url": "https://nso.edu/telescopes/dkist/inouye-first-sunspot/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        251,
+        342,
+        345,
+        446
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

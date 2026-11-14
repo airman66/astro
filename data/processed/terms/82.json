@@ -1,0 +1,368 @@
+{
+  "id": "term:82",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 82,
+    "url": "https://astro4edu.org/resources/glossary/term/82/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=82",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:32.799833+00:00",
+    "sha256": "38754cb11a0cecc17de359a36c6e275dbda40e55b76b2e59bcaa9b81db38cbd7"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies",
+      "Milky Way and Interstellar Medium"
+    ],
+    "category_ids": [
+      8,
+      7
+    ],
+    "categories_ru": [
+      "Галактики",
+      "Млечный Путь и межзвёздная среда"
+    ],
+    "related_term_numbers": [
+      81,
+      99,
+      117,
+      164,
+      330
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Disk Galaxy",
+      "body": "A disk galaxy is a type of galaxy that features a flat component of stars, gas, and dust, all of which are in circular coplanar motion around the galaxy's center. Spiral arms and associated star-forming activity are often present in these disks. In most galaxy classification schemes, disk galaxies are differentiated from elliptical, irregular, and dwarf galaxies.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/81/",
+          "text_ru": "Диск"
+        },
+        {
+          "text": "Elliptical Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/99/",
+          "text_ru": "Эллиптическая галактика"
+        },
+        {
+          "text": "Galactic Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/117/",
+          "text_ru": "Галактический диск"
+        },
+        {
+          "text": "Irregular Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/164/",
+          "text_ru": "Неправильная галактика"
+        },
+        {
+          "text": "Spiral Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/330/",
+          "text_ru": "Спиральная галактика"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Disk Galaxy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A disk galaxy is a type of galaxy that features a flat component of stars, gas, and dust, all of which are in circular coplanar motion around the galaxy's center. Spiral arms and associated star-forming activity are often present in these disks. In most galaxy classification schemes, disk galaxies are differentiated from elliptical, irregular, and dwarf galaxies. </p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/81/\">Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/99/\">Elliptical Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/117/\">Galactic Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/164/\">Irregular Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/330/\">Spiral Galaxy</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Дисковая галактика",
+      "body_ru": "Дисковая галактика — это тип галактики, характеризующийся плоским компонентом из звёзд, газа и пыли, которые находятся в круговом компланарном движении вокруг центра галактики. В этих дисках часто присутствуют спиральные рукава и связанная с ними звездообразовательная активность. В большинстве схем классификации галактик дисковые галактики отличаются от эллиптических, неправильных и карликовых галактик."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "円盤銀河 (external link)",
+          "url": "https://astro-dic.jp/disk-galaxy/",
+          "text_ru": "Дисковая галактика (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/82/\">المجرة القرصية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/82/\">Scheibengalaxie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/82/\">Galaxia de disco </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/82/\">Galaxie à disque </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/82/\">Galassia a disco </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/disk-galaxy/\">円盤銀河 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/82/\">원반은하 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/82/\">Disco Galaxy </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/82/\">盘状星系 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/82/\">盤狀星系 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/U9906953ai58/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso0007a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/uF7sh13rR67/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:M31_09-01-2011_(cropped).jpg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/eE6pB15Z932/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/opo0207a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/pj70pn17yO60/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://hubblesite.org/contents/media/images/2020/01/4615-Image",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:U9906953ai58",
+        "media:uF7sh13rR67",
+        "media:eE6pB15Z932",
+        "media:pj70pn17yO60"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/U9906953ai58/\"><img alt=\"This galaxy has a large bulge surrounded by a ring of dust creating an image similar to the mexican hat with the same name\" src=\"/media/multimedia/thumbnails/eso0007a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sombrero galaxy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This prominent galaxy M 104 is often called the Sombrero galaxy due to its resemblance to the Mexican hat. This look is created by the thin disk oriented nearly edge-on, which appears illuminated by the dominant bulge. Both, the disk and bulge contain stars, but the stars in the bulge tend to be older, while the disk also harbors large amounts of dust and gas creating shadows. M 104 is located in the constellation Virgo approximately 50 light-years away. While some of the dots visible in the picture are foreground stars and others background galaxies, the majority are actually globular clusters, dense massive clusters of stars, associated with the Sombrero Galaxy.<br/>\n<b>Credit:</b> ESO/P. Barthel\n\t  <a href=\"https://www.eso.org/public/images/eso0007a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/uF7sh13rR67/\"><img alt=\"Andromeda is a bright disk, with dark spiral lines in it, tilted up at the west end. Two small bright blobs lie left &amp; right\" src=\"/media/multimedia/thumbnails/a-visible-light-image-of-the-andromeda-galaxy_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A visible light image of the Andromeda Galaxy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Andromeda Galaxy viewed in visible light. Like our Milky Way, Andromeda is a barred spiral galaxy. Here we can see its bright core and spiral disk. The glow from the stars in the disk is interrupted by lanes of dust that form part of its spiral structure.\n\nAndromeda is the largest galaxy in the Local Group of galaxies that includes the Milky Way.\n\nTo the left of the core and just above the disk we see the dwarf galaxy M32 and to the right and below the disk we see the dwarf galaxy M110. These are both satellite galaxies of the Andromeda Galaxy.<br/>\n<b>Credit:</b> Torben Hansen\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:M31_09-01-2011_(cropped).jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/eE6pB15Z932/\"><img alt=\"The bright core of this galaxy is surrounded by a much fainter disk. This faint disk has thin dark rings.\" src=\"/media/multimedia/thumbnails/galaxy-ngc-2787_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Lenticular Galaxy NGC 2787</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The lenticular galaxy NGC 2787. This galaxy is a disk galaxy but lacks the large, dominant spiral arm structure seen in the disks of spiral galaxies. Its core is very bright compared to the core of a spiral galaxy. Thin rings of dust can be seen in the galaxy's disk.<br/>\n<b>Credit:</b> NASA/ESA and The Hubble Heritage Team\n\t  <a href=\"https://esahubble.org/images/opo0207a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/pj70pn17yO60/\"><img alt=\"Hubble image of the spiral galaxy UGC 2885 showing a very large disk with faint spiral arms extending far from the center.\" src=\"/media/multimedia/thumbnails/spiral-galaxy-ugc-2885_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spiral Galaxy UGC 2885</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows UGC 2885, a spiral galaxy located in the constellation Perseus, about 230 million light-years from Earth. Spiral galaxies have rotating disks of stars, gas, and dust, with spiral arms extending outward from the central region. In UGC 2885, these arms are very broad and faint, revealing the galaxy’s large size. This galaxy is tilted at an angle to the observer on Earth, meaning it does not appear as the circular \"grand design\" spiral it would look like if viewed face-on, nor as the thin line with a central bulge it would appear as if viewed edge-on.\n\nUGC 2885 is remarkable because it is roughly twice the diameter of the Milky Way. It was studied by astronomer Vera Rubin, whose observations of how galaxies rotate — including systems like this one — played a key role in the search for dark matter.\n\nThe bright star which appears to the left of the galaxy's center is a foreground object not related to the galaxy.<br/>\n<b>Credit:</b> NASA, ESA, Benne Holwerda (University of Louisville)\n\t  <a href=\"https://hubblesite.org/contents/media/images/2020/01/4615-Image\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Disk Galaxy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Disk Galaxy",
+          "body": "A disk galaxy is a type of galaxy that features a flat component of stars, gas, and dust, all of which are in circular coplanar motion around the galaxy's center. Spiral arms and associated star-forming activity are often present in these disks. In most galaxy classification schemes, disk galaxies are differentiated from elliptical, irregular, and dwarf galaxies."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Дисковая галактика",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Дисковая галактика",
+          "body": "Дисковая галактика — это тип галактики, характеризующийся плоским компонентом из звёзд, газа и пыли, которые находятся в круговом компланарном движении вокруг центра галактики. В этих дисках часто присутствуют спиральные рукава и связанная с ними звездообразовательная активность. В большинстве схем классификации галактик дисковые галактики отличаются от эллиптических, неправильных и карликовых галактик."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:U9906953ai58",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/eso0007a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/U9906953ai58/",
+      "original_path": "data/media/original/media_U9906953ai58.jpg",
+      "ru_path": null,
+      "sha256": "abab8ca3a1006025c82c034deb71afd8deb29cfc60bb7588c9c5f76c115a30db",
+      "size": 4934498,
+      "title_en": "Sombrero galaxy",
+      "title_ru": "Галактика Сомбреро",
+      "short_caption_en": "Sombrero galaxy",
+      "short_caption_ru": "Галактика Сомбреро",
+      "caption_en": "This prominent galaxy M 104 is often called the Sombrero galaxy due to its resemblance to the Mexican hat. This look is created by the thin disk oriented nearly edge-on, which appears illuminated by the dominant bulge. Both, the disk and bulge contain stars, but the stars in the bulge tend to be older, while the disk also harbors large amounts of dust and gas creating shadows. M 104 is located in the constellation Virgo approximately 50 light-years away. While some of the dots visible in the picture are foreground stars and others background galaxies, the majority are actually globular clusters, dense massive clusters of stars, associated with the Sombrero Galaxy.",
+      "caption_ru": "Эта заметная галактика M 104 часто называется галактикой Сомбреро из-за её сходства с мексиканской шляпой. Этот вид создаётся тонким диском, ориентированным почти с ребра, который кажется освещённым доминирующим балджем. И диск, и балдж содержат звёзды, но звёзды в балдже, как правило, старше, в то время как диск также содержит большое количество пыли и газа, создающих тени. M 104 находится в созвездии Девы на расстоянии примерно 50 световых лет. Хотя некоторые из точек, видимых на изображении, являются звёздами переднего плана, а другие — фоновыми галактиками, большинство из них на самом деле являются шаровыми скоплениями, плотными массивными скоплениями звёзд, связанными с галактикой Сомбреро.",
+      "alt_en": "This galaxy has a large bulge surrounded by a ring of dust creating an image similar to the mexican hat with the same name",
+      "alt_ru": "Эта галактика имеет большой балдж, окружённый кольцом пыли, создающим изображение, похожее на мексиканскую шляпу с тем же названием",
+      "credit": "ESO/P. Barthel",
+      "credit_url": "https://www.eso.org/public/images/eso0007a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        82,
+        119
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:uF7sh13rR67",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/a-visible-light-image-of-the-andromeda-galaxy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/uF7sh13rR67/",
+      "original_path": "data/media/original/media_uF7sh13rR67.jpg",
+      "ru_path": null,
+      "sha256": "591ab055ba2342793f2387905923431f29dac60cf47ea061c0c9375328dcf51b",
+      "size": 1096385,
+      "title_en": "A visible light image of the Andromeda Galaxy",
+      "title_ru": "Изображение Галактики Андромеды в видимом свете",
+      "short_caption_en": "A visible light image of the Andromeda Galaxy",
+      "short_caption_ru": "Изображение Галактики Андромеды в видимом свете",
+      "caption_en": "The Andromeda Galaxy viewed in visible light. Like our Milky Way, Andromeda is a barred spiral galaxy. Here we can see its bright core and spiral disk. The glow from the stars in the disk is interrupted by lanes of dust that form part of its spiral structure.\r\n\r\nAndromeda is the largest galaxy in the Local Group of galaxies that includes the Milky Way.\r\n\r\nTo the left of the core and just above the disk we see the dwarf galaxy M32 and to the right and below the disk we see the dwarf galaxy M110. These are both satellite galaxies of the Andromeda Galaxy.",
+      "caption_ru": "Галактика Андромеды в видимом свете. Как и наш Млечный Путь, Андромеда является спиральной галактикой с перемычкой. Здесь мы можем видеть ее яркое ядро и спиральный диск. Свечение от звезд в диске прерывается полосами пыли, которые являются частью ее спиральной структуры.\r\n\r\nАндромеда — крупнейшая галактика в Местной группе галактик, которая включает Млечный Путь.\r\n\r\nСлева от ядра и чуть выше диска мы видим карликовую галактику M32, а справа и ниже диска мы видим карликовую галактику M110. Обе являются спутниковыми галактиками Галактики Андромеды.",
+      "alt_en": "Andromeda is a bright disk, with dark spiral lines in it, tilted up at the west end. Two small bright blobs lie left & right",
+      "alt_ru": "Андромеда — это яркий диск с темными спиральными линиями, наклоненный вверх на западном конце. Два небольших ярких пятна находятся слева и справа",
+      "credit": "Torben Hansen",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:M31_09-01-2011_(cropped).jpg",
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        8,
+        82,
+        86,
+        194,
+        330,
+        443
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:eE6pB15Z932",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/galaxy-ngc-2787.png",
+      "record_url": "https://astro4edu.org/resources/media/eE6pB15Z932/",
+      "original_path": "data/media/original/media_eE6pB15Z932.png",
+      "ru_path": null,
+      "sha256": "215f02bb9c202f7b35b313b18c98429b8ba4d05baa5777d3d5e4566bb6c8e817",
+      "size": 1911232,
+      "title_en": "The Lenticular Galaxy NGC 2787",
+      "title_ru": "Линзовидная галактика NGC 2787",
+      "short_caption_en": "The Lenticular Galaxy NGC 2787",
+      "short_caption_ru": "Линзовидная галактика NGC 2787",
+      "caption_en": "The lenticular galaxy NGC 2787. This galaxy is a disk galaxy but lacks the large, dominant spiral arm structure seen in the disks of spiral galaxies. Its core is very bright compared to the core of a spiral galaxy. Thin rings of dust can be seen in the galaxy's disk.",
+      "caption_ru": "Линзовидная галактика NGC 2787. Эта галактика является дисковой галактикой, но не имеет крупной, доминирующей структуры спиральных рукавов, наблюдаемой в дисках спиральных галактик. Её ядро очень яркое по сравнению с ядром спиральной галактики. В диске галактики видны тонкие кольца пыли.",
+      "alt_en": "The bright core of this galaxy is surrounded by a much fainter disk. This faint disk has thin dark rings.",
+      "alt_ru": "Яркое ядро этой галактики окружено гораздо более слабым диском. Этот слабый диск имеет тонкие тёмные кольца.",
+      "credit": "NASA/ESA and The Hubble Heritage Team",
+      "credit_url": "https://esahubble.org/images/opo0207a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        82,
+        119,
+        452
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:pj70pn17yO60",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/spiral-galaxy-ugc-2885.png",
+      "record_url": "https://astro4edu.org/resources/media/pj70pn17yO60/",
+      "original_path": "data/media/original/media_pj70pn17yO60.png",
+      "ru_path": null,
+      "sha256": "9103d736df2c9820b20d7d9a6de24861e0e1157b8355cb58ca15c17818f747a9",
+      "size": 4865462,
+      "title_en": "Spiral Galaxy UGC 2885",
+      "title_ru": "Спиральная галактика UGC 2885",
+      "short_caption_en": "Spiral Galaxy UGC 2885",
+      "short_caption_ru": "Спиральная галактика UGC 2885",
+      "caption_en": "This image shows UGC 2885, a spiral galaxy located in the constellation Perseus, about 230 million light-years from Earth. Spiral galaxies have rotating disks of stars, gas, and dust, with spiral arms extending outward from the central region. In UGC 2885, these arms are very broad and faint, revealing the galaxy’s large size. This galaxy is tilted at an angle to the observer on Earth, meaning it does not appear as the circular \"grand design\" spiral it would look like if viewed face-on, nor as the thin line with a central bulge it would appear as if viewed edge-on.\r\n\r\nUGC 2885 is remarkable because it is roughly twice the diameter of the Milky Way. It was studied by astronomer Vera Rubin, whose observations of how galaxies rotate — including systems like this one — played a key role in the search for dark matter.\r\n\r\nThe bright star which appears to the left of the galaxy's center is a foreground object not related to the galaxy.",
+      "caption_ru": "На этом изображении показана UGC 2885 — спиральная галактика в созвездии Персея, находящаяся примерно в 230 миллионах световых лет от Земли. Спиральные галактики имеют вращающиеся диски из звёзд, газа и пыли, со спиральными рукавами, простирающимися наружу от центральной области. В UGC 2885 эти рукава очень широкие и слабые, что выявляет большой размер галактики. Эта галактика наклонена под углом к наблюдателю на Земле, что означает, что она не выглядит как круглая спираль «грандиозного дизайна», какой она была бы при наблюдении плашмя, и не выглядит как тонкая линия с центральным балджем, какой она была бы при наблюдении с ребра.\r\n\r\nUGC 2885 примечательна тем, что её диаметр примерно вдвое больше диаметра Млечного Пути. Её изучала астроном Вера Рубин, чьи наблюдения за вращением галактик — включая такие системы, как эта, — сыграли ключевую роль в поисках тёмной материи.\r\n\r\nЯркая звезда, которая видна слева от центра галактики, является объектом переднего плана, не связанным с галактикой.",
+      "alt_en": "Hubble image of the spiral galaxy UGC 2885 showing a very large disk with faint spiral arms extending far from the center.",
+      "alt_ru": "Снимок спиральной галактики UGC 2885, сделанный телескопом Хаббл, показывающий очень большой диск со слабыми спиральными рукавами, простирающимися далеко от центра.",
+      "credit": "NASA, ESA, Benne Holwerda (University of Louisville)",
+      "credit_url": "https://hubblesite.org/contents/media/images/2020/01/4615-Image",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        82,
+        330
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

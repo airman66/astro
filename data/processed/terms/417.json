@@ -1,0 +1,321 @@
+{
+  "id": "term:417",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 417,
+    "url": "https://astro4edu.org/resources/glossary/term/417/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=417",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:20.597264+00:00",
+    "sha256": "47dff497cd69280d26ec1f9395115aa6a83fa7ee8b0637b2583551e94579bbe3"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [
+      "Chemistry",
+      "Exoplanets & Astrobiology",
+      "Solar System"
+    ],
+    "category_ids": [
+      12,
+      6,
+      1
+    ],
+    "categories_ru": [
+      "Химия",
+      "Экзопланеты и астробиология",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": 254,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Planet Formation",
+      "body": "When a cosmic gas cloud collapses to form a star, that nascent star is surrounded by a swirling disk of gas and dust. This is a protoplanetary disk, where planets form: Ice-covered dust particles will stick to each other, forming slightly larger clumps, which will continue to grow. There are still open questions about how the next stages happen: What, for instance, is the role of turbulent gas motion in bringing those clumps closer together? Eventually, so-called planetesimals more than about a kilometer in size are formed. Some of those are pulled together by their own gravity to form larger planets, others remain behind as the first asteroids. Some protoplanets manage to draw large amounts of gas towards them to become gas giants. Some other protoplanets in cold regions far from the central star will accrete large amounts of frozen material along with gas, becoming ice giants. Others, with less gas, become terrestrial planets.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/81/",
+          "text_ru": "Диск"
+        },
+        {
+          "text": "Dust",
+          "url": "https://www.astro4edu.org/resources/glossary/term/85/",
+          "text_ru": "Пыль"
+        },
+        {
+          "text": "Gas Giant",
+          "url": "https://www.astro4edu.org/resources/glossary/term/125/",
+          "text_ru": "Газовый гигант"
+        },
+        {
+          "text": "Ice Giant",
+          "url": "https://www.astro4edu.org/resources/glossary/term/153/",
+          "text_ru": "Ледяной гигант"
+        },
+        {
+          "text": "Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/253/",
+          "text_ru": "Планета"
+        },
+        {
+          "text": "Protostar",
+          "url": "https://www.astro4edu.org/resources/glossary/term/264/",
+          "text_ru": "Протозвезда"
+        },
+        {
+          "text": "Terrestrial Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/354/",
+          "text_ru": "Землеподобная планета"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Planet Formation</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Protoplanetary Disk</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> When a cosmic gas cloud collapses to form a star, that nascent star is surrounded by a swirling disk of gas and dust. This is a protoplanetary disk, where planets form: Ice-covered dust particles will stick to each other, forming slightly larger clumps, which will continue to grow. There are still open questions about how the next stages happen: What, for instance, is the role of turbulent gas motion in bringing those clumps closer together? Eventually, so-called planetesimals more than about a kilometer in size are formed. Some of those are pulled together by their own gravity to form larger planets, others remain behind as the first asteroids. Some protoplanets manage to draw large amounts of gas towards them to become gas giants. Some other protoplanets in cold regions far from the central star will accrete large amounts of frozen material along with gas, becoming ice giants. Others, with less gas, become terrestrial planets.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/81/\">Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/85/\">Dust</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/125/\">Gas Giant</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/153/\">Ice Giant</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/253/\">Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/264/\">Protostar</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/354/\">Terrestrial Planet</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Формирование планет",
+      "body_ru": "Когда космическое газовое облако сжимается, образуя звезду, эта зарождающаяся звезда окружена вращающимся диском из газа и пыли. Это протопланетный диск, где формируются планеты: покрытые льдом частицы пыли слипаются друг с другом, образуя чуть более крупные сгустки, которые продолжают расти. До сих пор остаются открытые вопросы о том, как происходят следующие этапы: какова, например, роль турбулентного движения газа в сближении этих сгустков? В конце концов образуются так называемые планетезимали размером более примерно километра. Некоторые из них притягиваются друг к другу под действием собственной гравитации, образуя более крупные планеты, другие остаются позади как первые астероиды. Некоторым протопланетам удается притянуть к себе большие количества газа, чтобы стать газовыми гигантами. Другие протопланеты в холодных областях вдали от центральной звезды аккрецируют большие количества замерзшего материала вместе с газом, становясь ледяными гигантами. Остальные, с меньшим количеством газа, становятся планетами земной группы."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/254/\">تكوُّن الكواكب </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/254/\">Planetenentstehung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/254/\">Formación de planetas </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/254/\">شکل گیری سیاره‌ها </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/254/\">Formation de planètes </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/254/\">Formazione dei pianeti </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/254/\">Formação planetária </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/254/\">行星形成 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/254/\">行星形成 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/PE34qs98WJ63/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso0842a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/1M75kp80RP4/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1611a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/xk31D628WY83/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1821a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:xk31D628WY83"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/PE34qs98WJ63/\"><img alt=\"The planet beta Pictoris b is a bright dot close to its parent star. Around this we see a warm disk edge-on\" src=\"/media/multimedia/thumbnails/eso0842a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">beta Pictoris b</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This composite of two images shows the planet beta Pictoris b and a disk of material both of which orbit the young star beta Pictoris. Both are taken in infrared light. The inner image was one of the first pictures taken of a planet around another star (an exoplanet). This image was made using a technique called adaptive optics which removes the blurring effect of the Earth's atmosphere that spreads out a star's light. The star's light is then concentrated tightly enough that it can be hidden behind a blocking circle (shown here in black) called a coronagraph. The ripples around this are artifacts of the imaging process. Beta Pictoris b, a gas giant planet about twelve times the mass of Jupiter, appears as a dot above and to the left of the black circle.\n\nThe outer image shows the thermal emission from the warm disk of material surrounding the young star beta Pictoris. As we are viewing this disk edge-on it appears as a line. This disk of gas and dust provided the material to form beta Pictoris b.<br/>\n<b>Credit:</b> ESO/A.-M. Lagrange et al.\n\t  <a href=\"https://www.eso.org/public/images/eso0842a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/1M75kp80RP4/\"><img alt=\"A series of light and dark rings that resemble an archery target around the star TW Hydrae\" src=\"/media/multimedia/thumbnails/eso1611a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Planet formation around the star TW Hydrae</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the disk around the young star TW Hydrae. This star is only about 10 million years old, young enough that planets are still forming in a disk of gas and dust around it. This image was created using an array of submillimetre telescopes, each of which looks like a satellite dish. The signals from these telescopes were combined by a central processing computer to make this image. The lighter and darker patches show areas of the disk where there is more or less dust respectively. The dark rings and bright rings are evidence that the dust in the disk has been shepherded into some orbits and away from others. This is likely because there is one or more planets that are still forming hidden in the disk.\n\nThe whole image shows the disk around TW Hydrae out to a distance of about 70 astronomical units frm the central star. The two outer dark rings are separated from the central star by approximately the average distance between the Sun and Uranus and the average distance between the Sun and Pluto. The inner central hole appears to have been carved out by a planet orbiting TW Hydrae at a distance similar to the distance between the Earth and the Sun.<br/>\n<b>Credit:</b> S. Andrews (Harvard-Smithsonian CfA); B. Saxton (NRAO/AUI/NSF); ALMA (ESO/NAOJ/NRAO)\n\t  <a href=\"https://www.eso.org/public/images/eso1611a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/xk31D628WY83/\"><img alt=\"A bright oval with a dark circle in the center. To the right of the dark circle but still inside the oval is a bright dot.\" src=\"/media/multimedia/thumbnails/the-planet-pds-70b-inside-a-protoplanetary-disk_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The planet PDS 70b inside a protoplanetary disk</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> An image of the planet PDS 70b. The young star PDS 70b has a protoplanetary disk surrounding it. Disks like these contains gas, fine sandy particles that astronomers refer to as dust and also larger bodies ranging from objects the size of pebbles to protoplanets (planets that are still forming). \n\nThis image was taken in infrared light using adaptive optics. Adaptive optics is a technique that uses flexible mirrors and computer analysis to remove the blurring effect of the Earth's atmosphere. This allows astronomers to search regions close to stars like PDS 70 that would otherwise be swamped by light from the star spread out by the Earth's atmosphere. In the center is a black circle. This is caused by a coronograph, a small circle that blocks out light from the parent star. This is surrounded by a bright oval, infrared light emitted from the material in the protoplanetary disk. To the right of the black circle covering the star is a bright dot. This is PDS 70b, a giant planet that is still forming .<br/>\n<b>Credit:</b> ESO/ A. Müller, MPIA\n\t  <a href=\"https://www.eso.org/public/images/eso1821a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/zF97Dc8Sp10/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/zF97Dc8Sp10/\"><img alt=\"Pictor appears as a slightly bent line going from the south east to north west\" src=\"/media/diagrams/multimedia/thumbnails/pictor-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Pictor Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Pictor with its bright stars and surrounding constellations. Pictor is surrounded by (going clockwise from the top): Columba, Caelum, Dorado, Volans, Carina and Puppis. Pictor is notable for its second brightest star, Beta Pictoris. This young star hosts a large disk of dusty material left over from the planet formation process along with two planets, one of which Beta Pictoris b was one of the first planets to be directly imaged by astronomers.\n\nPictor is a southern constellation and thus the whole constellation is visible at some point in the year throughout the southern hemisphere. The whole constellation is also visible from some equatorial regions of the northern hemisphere with parts of the constellation visible to the remaining northern equatorial regions and some northern hemisphere temperate zones. Pictor is best viewed in the northern hemisphere winter and southern hemisphere summer.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Creating Asteroids astroEDU educational activity (links to astroEDU website) Description: Have fun, building asteroids using clay! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Pre-school \n  \n, Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Communicating information \n  \n, Developing and using models",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/creating-asteroids/\"><img alt=\"Creating Asteroids\" src=\"/media/astroedu/images/creating-asteroids_en_thumbnail_RT6hgAY.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/creating-asteroids/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Creating Asteroids</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Have fun, building asteroids using clay!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPre-school \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Создание астероидов образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Весело проведите время, создавая астероиды из глины! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Дошкольное \n  \n, Начальное Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Передача информации \n  \n, Разработка и использование моделей"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Protoplanetary Disk",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Planet Formation",
+          "body": "When a cosmic gas cloud collapses to form a star, that nascent star is surrounded by a swirling disk of gas and dust. This is a protoplanetary disk, where planets form: Ice-covered dust particles will stick to each other, forming slightly larger clumps, which will continue to grow. There are still open questions about how the next stages happen: What, for instance, is the role of turbulent gas motion in bringing those clumps closer together? Eventually, so-called planetesimals more than about a kilometer in size are formed. Some of those are pulled together by their own gravity to form larger planets, others remain behind as the first asteroids. Some protoplanets manage to draw large amounts of gas towards them to become gas giants. Some other protoplanets in cold regions far from the central star will accrete large amounts of frozen material along with gas, becoming ice giants. Others, with less gas, become terrestrial planets."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Creating Asteroids astroEDU educational activity (links to astroEDU website) Description: Have fun, building asteroids using clay! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 4-6 \n  \n, 6-8 \n  \n, 8-10 Education Level: Pre-school \n  \n, Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Communicating information \n  \n, Developing and using models"
+        }
+      }
+    },
+    "ru": {
+      "title": "Протопланетный диск",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Формирование планет",
+          "body": "Когда космическое газовое облако сжимается, образуя звезду, эта зарождающаяся звезда окружена вращающимся диском из газа и пыли. Это протопланетный диск, где формируются планеты: покрытые льдом частицы пыли слипаются друг с другом, образуя чуть более крупные сгустки, которые продолжают расти. До сих пор остаются открытые вопросы о том, как происходят следующие этапы: какова, например, роль турбулентного движения газа в сближении этих сгустков? В конце концов образуются так называемые планетезимали размером более примерно километра. Некоторые из них притягиваются друг к другу под действием собственной гравитации, образуя более крупные планеты, другие остаются позади как первые астероиды. Некоторым протопланетам удается притянуть к себе большие количества газа, чтобы стать газовыми гигантами. Другие протопланеты в холодных областях вдали от центральной звезды аккрецируют большие количества замерзшего материала вместе с газом, становясь ледяными гигантами. Остальные, с меньшим количеством газа, становятся планетами земной группы."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Создание астероидов образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Весело проведите время, создавая астероиды из глины! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель Возрастные диапазоны: 4-6 \n  \n, 6-8 \n  \n, 8-10 Уровень образования: Дошкольное \n  \n, Начальное Области обучения: Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Передача информации \n  \n, Разработка и использование моделей"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:xk31D628WY83",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-planet-pds-70b-inside-a-protoplanetary-disk.png",
+      "record_url": "https://astro4edu.org/resources/media/xk31D628WY83/",
+      "original_path": "data/media/original/media_xk31D628WY83.png",
+      "ru_path": null,
+      "sha256": "249212f647468a9adef1172791eed226817e10e0277067247689cedb8dd45821",
+      "size": 1586121,
+      "title_en": "The planet PDS 70b inside a protoplanetary disk",
+      "title_ru": "Планета PDS 70b внутри протопланетного диска",
+      "short_caption_en": "The planet PDS 70b inside a protoplanetary disk",
+      "short_caption_ru": "Планета PDS 70b внутри протопланетного диска",
+      "caption_en": "An image of the planet PDS 70b. The young star PDS 70b has a protoplanetary disk surrounding it. Disks like these contains gas, fine sandy particles that astronomers refer to as dust and also larger bodies ranging from objects the size of pebbles to protoplanets (planets that are still forming). \r\n\r\nThis image was taken in infrared light using adaptive optics. Adaptive optics is a technique that uses flexible mirrors and computer analysis to remove the blurring effect of the Earth's atmosphere. This allows astronomers to search regions close to stars like PDS 70 that would otherwise be swamped by light from the star spread out by the Earth's atmosphere. In the center is a black circle. This is caused by a coronograph, a small circle that blocks out light from the parent star. This is surrounded by a bright oval, infrared light emitted from the material in the protoplanetary disk. To the right of the black circle covering the star is a bright dot. This is PDS 70b, a giant planet that is still forming .",
+      "caption_ru": "Изображение планеты PDS 70b. Молодая звезда PDS 70b окружена протопланетным диском. Такие диски содержат газ, мелкие песчаные частицы, которые астрономы называют пылью, а также более крупные тела — от объектов размером с гальку до протопланет (планет, которые все еще формируются).\r\n\r\nЭто изображение было получено в инфракрасном свете с использованием адаптивной оптики. Адаптивная оптика — это метод, использующий гибкие зеркала и компьютерный анализ для устранения размывающего эффекта атмосферы Земли. Это позволяет астрономам исследовать области вблизи таких звезд, как PDS 70, которые иначе были бы затоплены светом звезды, рассеянным атмосферой Земли. В центре находится черный круг. Это вызвано коронографом — небольшим кругом, который блокирует свет от родительской звезды. Он окружен ярким овалом — инфракрасным светом, испускаемым материалом в протопланетном диске. Справа от черного круга, закрывающего звезду, находится яркая точка. Это PDS 70b, гигантская планета, которая все еще формируется.",
+      "alt_en": "A bright oval with a dark circle in the center. To the right of the dark circle but still inside the oval is a bright dot.",
+      "alt_ru": "Яркий овал с темным кругом в центре. Справа от темного круга, но все еще внутри овала, находится яркая точка.",
+      "credit": "ESO/ A. Müller, MPIA",
+      "credit_url": "https://www.eso.org/public/images/eso1821a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        254,
+        416,
+        417,
+        427
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

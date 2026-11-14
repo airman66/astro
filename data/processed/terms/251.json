@@ -1,0 +1,320 @@
+{
+  "id": "term:251",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 251,
+    "url": "https://astro4edu.org/resources/glossary/term/251/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=251",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:30.684805+00:00",
+    "sha256": "1519c5158d5eb51900a7dd0dba776c7be993d5b0afaef1c9d370227bcc9a705d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      331
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Photosphere",
+      "body": "The photosphere (\"light sphere\") is the layer of a star from which the light that we observe emerges. Light emitted from deeper, denser layers will be absorbed before it can escape from the star. Higher layers are less dense, and do not emit significant light.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Photosphere</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The photosphere (\"light sphere\") is the layer of a star from which the light that we observe emerges. Light emitted from deeper, denser layers will be absorbed before it can escape from the star. Higher layers are less dense, and do not emit significant light.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Фотосфера",
+      "body_ru": "Фотосфера («световая сфера») — это слой звезды, из которого исходит наблюдаемый нами свет. Свет, испускаемый из более глубоких, плотных слоев, будет поглощен, прежде чем сможет выйти из звезды. Верхние слои менее плотные и не излучают значительного света."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "光球 (external link)",
+          "url": "https://astro-dic.jp/photosphere/",
+          "text_ru": "Фотосфера (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/251/\">الغلاف الضوئي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/251/\">Photosphäre </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/251/\">Fotosfera </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/251/\">Photosphère </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/251/\">Fotosfera </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/photosphere/\">光球 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/251/\">광구 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/251/\">Fotosfera </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/251/\">光球 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/251/\">光球 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/gi11ST99fA51/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://nso.edu/telescopes/dkist/first-light-full-image/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Y9557v73is44/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://nso.edu/telescopes/dkist/inouye-first-sunspot/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:gi11ST99fA51",
+        "media:Y9557v73is44"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/gi11ST99fA51/\"><img alt=\"A yellowish surface divided into roughly 150 small irregular cells, delinated by smudgy, darker, irregular lines.\" src=\"/media/multimedia/thumbnails/high-resolution-image-of-the-surface-of-the-sun_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">High-resolution image of the surface of the Sun</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This high-resolution image of a small portion of the outermost visible \"surface\" of the Sun (the photosphere) covers an area 36,500 by 36,500 km. It was one of the first images taken by the Daniel K. Inouye Solar Telescope, as part of the telescope's Science Verification Phase. Each of the cells that are visible is about the size of the US state Texas, or of France, or of Afghanistan, or of Somalia. In the brighter centers of these cells, plasma from the underlying regions rises to the surface, cools off, and then sinks down again at the location of the darker lanes delineating the cells. In these dark lanes we can also see the tiny, bright markers of magnetic fields.<br/>\n<b>Credit:</b> NSO/NSF/AURA\n\t  <a href=\"https://nso.edu/telescopes/dkist/first-light-full-image/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Y9557v73is44/\"><img alt=\"A dark, roughly circular, black sunspot sends dark fingers out into the bright orange surroundings\" src=\"/media/multimedia/thumbnails/close-up-view-of-a-sunspot_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Close-up view of a sunspot</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image of a sunspot was taken by the Daniel K Inouye Solar Telescope (DKIST), operated by the U.S. National Science Foundation. It was taken only in light with a wavelength of 530 nanometers, within the greenish-yellow part of the visible spectrum. \n\nThe picture reveals the detail of the spot's structure and the Sun’s photosphere. The dark central region, known as the umbra, is surrounded by a lighter area called the penumbra with radially elongated features stretching towards the umbra. Note that the umbra and penumbra here are not the same as the umbra and penumbra that occur during an eclipse. \n\nThe sunspot measures approximately 5000 kilometres in diameter, roughly equivalent to the east-west span of China. While the umbra appears black, it is actually hot and bright. It only appears dark because it is a few thousand kelvin cooler than the surrounding solar photosphere. Surrounding the sunspot, granulation patterns of plasma are visible on the photospheric surface of the Sun. <br/>\n<b>Credit:</b> NSO/NSF/AURA\n\t  <a href=\"https://nso.edu/telescopes/dkist/inouye-first-sunspot/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/vF35TW97K884/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:vF35TW97K884"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/vF35TW97K884/\"><img alt=\"Three stars with different onion-like layers for convection and radiation.\" src=\"/media/diagrams/multimedia/thumbnails/stellar_structure_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stellar Structure</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Stars are balls of plasma. For most of a star’s life it burns hydrogen into helium in its core. This phase of a star’s life is known as the main sequence. Burning hydrogen into helium produces heat, that heat travels out of the star’s core eventually reaching the star’s photosphere (often referred to as the “surface” of the star). From here the heat can radiate into space as various forms of electromagnetic radiation. However, how heat travels from the core to the photosphere depends on the star’s mass.\n\nImagine a parcel of gas rising inside a star. As it rises, it moves into an area of lower pressure, so it cools down and expands. If the parcel is still hotter, and therefore less dense than its surroundings, it keeps moving upward due to buoyancy. Eventually, it will rise far enough to cool and sink back down. This rising and sinking cycle is called convection. Whether convection occurs depends on how quickly temperature changes as you move away from the star’s core. If the temperature in a star drops rapidly, rising parcels of gas are more likely to stay hotter than their surroundings, so convection dominates as the mode of energy transfer in this part of the star. Conversely if the temperature drops more slowly (i.e. if the temperature gradient is small) then heat will mostly be transferred by radiation (photons).\n\nIn the most massive main sequence stars (more massive than about 1.5 times the mass of the Sun, seen here on the left), hydrogen is burned into helium using the CNO cycle. This is highly temperature dependent and thus energy production is concentrated near the center of the star. This leads to a larger temperature gradient and thus a convective core. Further out the temperature gradient becomes smaller and heat transport is dominated by radiation. This is called the radiative zone. \n\nFor lower mass stars like the Sun (between 0.3 and 1.5 solar masses, seen here in the middle) hydrogen is burned to helium using a different process (the pp chain). This depends less on the internal temperature than the CNO cycle and so energy production is more distributed in the star’s core. This leads to a smaller temperature gradient and thus a radiative core where convection occurs surrounded by a radiative zone. Going further out the gas becomes cool enough for some elements to hang to on some of their electrons, i.e. not being completely ionised. This partially ionised gas is more opaque to photons, trapping heat. This leads to a large temperature gradient and thus convection. \n\nThe lowest mass stars (below 0.3 solar masses, seen here on the right) have no radiative zone and are fully convective.\n\nThe arrows in the radiative zone are shown as wavy lines heading out of the star. However, a photon’s journey out of a star is much more complex with each individual photon travelling only a short distance before being deflected by some of the charged particles that make up the plasma of the star’s interior. This leads to a long and winding road that takes millennia instead of the few seconds it would take if the photon did not interact with particles in the plasma.<br/>\n<b>Credit:</b> Based on a vector diagram by Wikimedia user Д.Ильин which itself is based on a diagram from sun.org\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Photosphere",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Photosphere",
+          "body": "The photosphere (\"light sphere\") is the layer of a star from which the light that we observe emerges. Light emitted from deeper, denser layers will be absorbed before it can escape from the star. Higher layers are less dense, and do not emit significant light."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Фотосфера",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Фотосфера",
+          "body": "Фотосфера («световая сфера») — это слой звезды, из которого исходит наблюдаемый нами свет. Свет, испускаемый из более глубоких, плотных слоев, будет поглощен, прежде чем сможет выйти из звезды. Верхние слои менее плотные и не излучают значительного света."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:gi11ST99fA51",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/high-resolution-image-of-the-surface-of-the-sun.png",
+      "record_url": "https://astro4edu.org/resources/media/gi11ST99fA51/",
+      "original_path": "data/media/original/media_gi11ST99fA51.png",
+      "ru_path": null,
+      "sha256": "068e54f9af99d6023fd156fcc2e25d448aa5082cbbf90f195665d63475c9541c",
+      "size": 17042791,
+      "title_en": "High-resolution image of the surface of the Sun",
+      "title_ru": "Изображение поверхности Солнца в высоком разрешении",
+      "short_caption_en": "High-resolution image of the surface of the Sun",
+      "short_caption_ru": "Изображение поверхности Солнца в высоком разрешении",
+      "caption_en": "This high-resolution image of a small portion of the outermost visible \"surface\" of the Sun (the photosphere) covers an area 36,500 by 36,500 km. It was one of the first images taken by the Daniel K. Inouye Solar Telescope, as part of the telescope's Science Verification Phase. Each of the cells that are visible is about the size of the US state Texas, or of France, or of Afghanistan, or of Somalia. In the brighter centers of these cells, plasma from the underlying regions rises to the surface, cools off, and then sinks down again at the location of the darker lanes delineating the cells. In these dark lanes we can also see the tiny, bright markers of magnetic fields.",
+      "caption_ru": "Это изображение высокого разрешения небольшого участка самой внешней видимой «поверхности» Солнца (фотосферы) охватывает область размером 36,500 на 36,500 km. Это было одно из первых изображений, полученных солнечным телескопом Дэниела К. Иноуэ в рамках фазы научной проверки телескопа. Каждая из видимых ячеек имеет размер примерно с американский штат Техас, или Францию, или Афганистан, или Сомали. В более ярких центрах этих ячеек плазма из нижележащих областей поднимается к поверхности, охлаждается и затем снова опускается в местах более тёмных полос, очерчивающих ячейки. В этих тёмных полосах мы также видим крошечные яркие маркеры магнитных полей.",
+      "alt_en": "A yellowish surface divided into roughly 150 small irregular cells, delinated by smudgy, darker, irregular lines.",
+      "alt_ru": "Желтоватая поверхность, разделённая примерно на 150 небольших неправильных ячеек, очерченных размытыми, более тёмными, неправильными линиями.",
+      "credit": "NSO/NSF/AURA",
+      "credit_url": "https://nso.edu/telescopes/dkist/first-light-full-image/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        251,
+        446
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Y9557v73is44",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/close-up-view-of-a-sunspot.png",
+      "record_url": "https://astro4edu.org/resources/media/Y9557v73is44/",
+      "original_path": "data/media/original/media_Y9557v73is44.png",
+      "ru_path": null,
+      "sha256": "3787a914a4db203c892b6b941c858fa8d1e8dd94d2029dade7659038975a7818",
+      "size": 5225698,
+      "title_en": "Close-up view of a sunspot",
+      "title_ru": "Крупный план солнечного пятна",
+      "short_caption_en": "Close-up view of a sunspot",
+      "short_caption_ru": "Крупный план солнечного пятна",
+      "caption_en": "This image of a sunspot was taken by the Daniel K Inouye Solar Telescope (DKIST), operated by the U.S. National Science Foundation. It was taken only in light with a wavelength of 530 nanometers, within the greenish-yellow part of the visible spectrum. \r\n\r\nThe picture reveals the detail of the spot's structure and the Sun’s photosphere. The dark central region, known as the umbra, is surrounded by a lighter area called the penumbra with radially elongated features stretching towards the umbra. Note that the umbra and penumbra here are not the same as the umbra and penumbra that occur during an eclipse. \r\n\r\nThe sunspot measures approximately 5000 kilometres in diameter, roughly equivalent to the east-west span of China. While the umbra appears black, it is actually hot and bright. It only appears dark because it is a few thousand kelvin cooler than the surrounding solar photosphere. Surrounding the sunspot, granulation patterns of plasma are visible on the photospheric surface of the Sun. ",
+      "caption_ru": "Это изображение солнечного пятна было получено солнечным телескопом Дэниела К. Иноуэ (DKIST), управляемым Национальным научным фондом США. Оно было получено только в свете с длиной волны 530 нанометров, в зеленовато-жёлтой части видимого спектра.\n\nИзображение раскрывает детали структуры пятна и фотосферы Солнца. Тёмная центральная область, известная как тень (умбра), окружена более светлой областью, называемой полутенью (пенумбра), с радиально вытянутыми образованиями, простирающимися к тени. Обратите внимание, что тень и полутень здесь — это не то же самое, что тень и полутень, возникающие во время затмения.\n\nДиаметр солнечного пятна составляет примерно 5000 километров, что примерно соответствует протяжённости Китая с востока на запад. Хотя тень кажется чёрной, на самом деле она горячая и яркая. Она кажется тёмной только потому, что она на несколько тысяч кельвинов холоднее окружающей солнечной фотосферы. Вокруг солнечного пятна на фотосферной поверхности Солнца видны грануляционные структуры плазмы.",
+      "alt_en": "A dark, roughly circular, black sunspot sends dark fingers out into the bright orange surroundings",
+      "alt_ru": "Тёмное, почти круглое чёрное солнечное пятно выпускает тёмные пальцы в яркое оранжевое окружение",
+      "credit": "NSO/NSF/AURA",
+      "credit_url": "https://nso.edu/telescopes/dkist/inouye-first-sunspot/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        251,
+        342,
+        345,
+        446
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:vF35TW97K884",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/stellar_structure_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/vF35TW97K884/",
+      "original_path": "data/media/original/diagram_vF35TW97K884.png",
+      "ru_path": "data/media/ru/diagram_vF35TW97K884.png",
+      "sha256": "e4d75a5efddc7236f641c53080f6a1478a8286c6bafb3ff72d37d86cdcbd6b12",
+      "size": 102934,
+      "title_en": "Stellar Structure",
+      "title_ru": "Строение звезды",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "Stars are balls of plasma. For most of a star’s life it burns hydrogen into helium in its core. This phase of a star’s life is known as the main sequence. Burning hydrogen into helium produces heat, that heat travels out of the star’s core eventually reaching the star’s photosphere (often referred to as the “surface” of the star). From here the heat can radiate into space as various forms of electromagnetic radiation. However, how heat travels from the core to the photosphere depends on the star’s mass.\r\n\r\nImagine a parcel of gas rising inside a star. As it rises, it moves into an area of lower pressure, so it cools down and expands. If the parcel is still hotter, and therefore less dense than its surroundings, it keeps moving upward due to buoyancy. Eventually, it will rise far enough to cool and sink back down. This rising and sinking cycle is called convection. Whether convection occurs depends on how quickly temperature changes as you move away from the star’s core. If the temperature in a star drops rapidly, rising parcels of gas are more likely to stay hotter than their surroundings, so convection dominates as the mode of energy transfer in this part of the star. Conversely if the temperature drops more slowly (i.e. if the temperature gradient is small) then heat will mostly be transferred by radiation (photons).\r\n\r\nIn the most massive main sequence stars (more massive than about 1.5 times the mass of the Sun, seen here on the left), hydrogen is burned into helium using the CNO cycle. This is highly temperature dependent and thus energy production is concentrated near the center of the star. This leads to a larger temperature gradient and thus a convective core. Further out the temperature gradient becomes smaller and heat transport is dominated by radiation. This is called the radiative zone. \r\n\r\nFor lower mass stars like the Sun (between 0.3 and 1.5 solar masses, seen here in the middle) hydrogen is burned to helium using a different process (the pp chain). This depends less on the internal temperature than the CNO cycle and so energy production is more distributed in the star’s core. This leads to a smaller temperature gradient and thus a radiative core where convection occurs surrounded by a radiative zone. Going further out the gas becomes cool enough for some elements to hang to on some of their electrons, i.e. not being completely ionised. This partially ionised gas is more opaque to photons, trapping heat. This leads to a large temperature gradient and thus convection. \r\n\r\nThe lowest mass stars (below 0.3 solar masses, seen here on the right) have no radiative zone and are fully convective.\r\n\r\nThe arrows in the radiative zone are shown as wavy lines heading out of the star. However, a photon’s journey out of a star is much more complex with each individual photon travelling only a short distance before being deflected by some of the charged particles that make up the plasma of the star’s interior. This leads to a long and winding road that takes millennia instead of the few seconds it would take if the photon did not interact with particles in the plasma.",
+      "caption_ru": "Звезды — это шары из плазмы. Большую часть жизни звезды она сжигает водород в гелий в своем ядре. Эта фаза жизни звезды известна как главная последовательность. Сжигание водорода в гелий производит тепло, которое распространяется из ядра звезды, в конечном итоге достигая фотосферы звезды (часто называемой «поверхностью» звезды). Отсюда тепло может излучаться в космос в виде различных форм электромагнитного излучения. Однако то, как тепло распространяется от ядра к фотосфере, зависит от массы звезды.\r\n\r\nПредставьте себе порцию газа, поднимающуюся внутри звезды. Поднимаясь, она перемещается в область более низкого давления, поэтому охлаждается и расширяется. Если эта порция все еще горячее и, следовательно, менее плотная, чем ее окружение, она продолжает двигаться вверх благодаря плавучести. В конце концов, она поднимется достаточно высоко, чтобы охладиться и опуститься обратно. Этот цикл подъема и опускания называется конвекцией. Происходит ли конвекция, зависит от того, насколько быстро меняется температура при удалении от ядра звезды. Если температура в звезде падает быстро, поднимающиеся порции газа с большей вероятностью останутся горячее своего окружения, поэтому конвекция доминирует как способ переноса энергии в этой части звезды. И наоборот, если температура падает медленнее (т.е. если градиент температуры мал), то тепло будет в основном переноситься излучением (фотонами).\r\n\r\nВ самых массивных звездах главной последовательности (более массивных, чем примерно 1.5 массы Солнца, показанных здесь слева) водород сжигается в гелий с использованием CNO-цикла. Это сильно зависит от температуры, и поэтому производство энергии сосредоточено вблизи центра звезды. Это приводит к большему градиенту температуры и, следовательно, к конвективному ядру. Дальше градиент температуры становится меньше, и перенос тепла осуществляется преимущественно излучением. Это называется лучистой зоной.\r\n\r\nДля звезд меньшей массы, таких как Солнце (между 0.3 и 1.5 солнечных масс, показанных здесь в середине), водород сжигается в гелий с использованием другого процесса (pp-цепочки). Это меньше зависит от внутренней температуры, чем CNO-цикл, и поэтому производство энергии более распределено в ядре звезды. Это приводит к меньшему градиенту температуры и, следовательно, к лучистому ядру, где происходит конвекция, окруженному лучистой зоной. Дальше газ становится достаточно холодным, чтобы некоторые элементы удерживали часть своих электронов, т.е. не были полностью ионизованы. Этот частично ионизованный газ более непрозрачен для фотонов, задерживая тепло. Это приводит к большому градиенту температуры и, следовательно, к конвекции.\r\n\r\nСамые маломассивные звезды (ниже 0.3 солнечных масс, показанные здесь справа) не имеют лучистой зоны и полностью конвективны.\r\n\r\nСтрелки в лучистой зоне показаны в виде волнистых линий, направляющихся из звезды. Однако путь фотона из звезды гораздо более сложен: каждый отдельный фотон проходит лишь короткое расстояние, прежде чем отклоняется некоторыми заряженными частицами, составляющими плазму внутренней части звезды. Это приводит к долгому и извилистому пути, который занимает тысячелетия вместо нескольких секунд, которые потребовались бы, если бы фотон не взаимодействовал с частицами в плазме.",
+      "alt_en": "Three stars with different onion-like layers for convection and radiation.",
+      "alt_ru": "Три звезды с различными слоями, подобными луковице, для конвекции и излучения.",
+      "credit": "Based on a vector diagram by Wikimedia user Д.Ильин which itself is based on a diagram from sun.org",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Heat_Transfer_in_Stars.svg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        96,
+        150,
+        251,
+        271,
+        338,
+        433,
+        478
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "803e97d55fd996c507f443e568179136f3cd1b285a38686d3e6888b87f835dc2"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

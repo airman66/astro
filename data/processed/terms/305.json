@@ -1,0 +1,352 @@
+{
+  "id": "term:305",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 305,
+    "url": "https://astro4edu.org/resources/glossary/term/305/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=305",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:47.118797+00:00",
+    "sha256": "23298678b2c51c6857c30c72bbb52b204eb9cb6d998d7f34395ccf185529abca"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      53,
+      145,
+      454,
+      462
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Sky",
+      "body": "The sky is what we see when we are outside, our view unencumbered by any structure on Earth, looking up or at least higher than the horizon that marks the boundary of what we can see of Earth and earthbound structures. When looking at a clear sky at night, we can see distant planets, stars, and even a few galaxies (the Andromeda galaxy in the northern and the Magellanic Clouds in the southern hemisphere). The twinkling of the stars is evidence that we are still looking through the gases of Earth's atmosphere. During the day, sunlight scattered by air molecules makes the sky shine with a blue color, blocking our view into the cosmos. Clouds or fog covering the sky will also keep us from observing any astronomical objects.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Celestial Sphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/53/",
+          "text_ru": "Небесная сфера"
+        },
+        {
+          "text": "Horizon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/145/",
+          "text_ru": "Горизонт"
+        },
+        {
+          "text": "Magellanic Clouds",
+          "url": "https://www.astro4edu.org/resources/glossary/term/454/",
+          "text_ru": "Магеллановы Облака"
+        },
+        {
+          "text": "Night",
+          "url": "https://www.astro4edu.org/resources/glossary/term/462/",
+          "text_ru": "Ночь"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Sky</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The sky is what we see when we are outside, our view unencumbered by any structure on Earth, looking up or at least higher than the horizon that marks the boundary of what we can see of Earth and earthbound structures. When looking at a clear sky at night, we can see distant planets, stars, and even a few galaxies (the Andromeda galaxy in the northern and the Magellanic Clouds in the southern hemisphere). The twinkling of the stars is evidence that we are still looking through the gases of Earth's atmosphere. During the day, sunlight scattered by air molecules makes the sky shine with a blue color, blocking our view into the cosmos. Clouds or fog covering the sky will also keep us from observing any astronomical objects. </p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/53/\">Celestial Sphere</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/145/\">Horizon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/454/\">Magellanic Clouds</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/462/\">Night</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Небо",
+      "body_ru": "Небо — это то, что мы видим, когда находимся на улице, наш обзор не заслонён никакими земными сооружениями, мы смотрим вверх или, по крайней мере, выше горизонта, который отмечает границу видимой нами Земли и земных построек. Глядя на ясное ночное небо, мы можем увидеть далёкие планеты, звёзды и даже несколько галактик (галактику Андромеды в северном и Магеллановы Облака в южном полушарии). Мерцание звёзд — свидетельство того, что мы всё ещё смотрим сквозь газы атмосферы Земли. Днём солнечный свет, рассеиваемый молекулами воздуха, заставляет небо сиять голубым цветом, блокируя наш взгляд в космос. Облака или туман, закрывающие небо, также не дадут нам наблюдать какие-либо астрономические объекты."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/305/\">السماء </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/305/\">Himmel </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/305/\">Cielo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/305/\">Ciel </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/305/\">Cielo </a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/305/\">आकाश </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/305/\">Céu </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/305/\">天空 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/305/\">天空 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/AI49iC413Y61/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/p442yE76BF15/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/AB430t11jX43/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Jq59Xa17ay16/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:AI49iC413Y61",
+        "media:p442yE76BF15",
+        "media:AB430t11jX43",
+        "media:Jq59Xa17ay16"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/AI49iC413Y61/\"><img alt=\"The arc of the Milky Way over some trees. Two small galaxies can be seen in the lower middle of the image.\" src=\"/media/multimedia/thumbnails/milky-way-over-quiver-tree_thumbnail_wl1tYwo.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Milky Way Over Quiver Tree</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nThis breathtaking photograph was captured on 17 June 2023, near Keetmanshoop, Namibia, with a smartphone. Dominating the night sky, the majestic arc of the Milky Way creates a celestial bridge across the heavens. The image captures a range of notable astronomical objects: the Large and Small Magellanic Clouds, seen towards the bottom of the image and appearing as fuzzy clouds; Antares, seen towards the top left of the image; and the coalsack nebula (referred to by various names by Indigenous cultures around the world), seen vertically above the Large Magellanic Cloud. Silhouetted against this astral backdrop, the trees — which are actually succulent aloe plants native to southern Africa — add a touch of Earth's unique beauty. Historically, these plants were known as ‘quiver trees’ because groups of local Indigenous people would use their hollowed branches to hold darts. The serene Namibian landscape, combined with the brilliance of the southern hemisphere's stars, offers a glimpse into the majesty of our Universe.<br/>\n<b>Credit:</b> Jianfeng Dai/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/p442yE76BF15/\"><img alt=\"Four dish-shaped telescopes point at the sky with the arc of the Milky Way overhead.\" src=\"/media/multimedia/thumbnails/milky-way-over-hess-observatory_thumbnail_7XRjeR2.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Milky Way Over H.E.S.S Observatory</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nThe darkness of the skies at H.E.S.S Observatory reveal the seemingly innumerable stars that make up the Milky Way galaxy, making it challenging to discern the constellations as seen taken with a smartphone from Namibia in June 2023. The stars Alpha and Beta Centauri are visible bottom left of the image just about the tower. The orange-hued star visible just above and to the right of the left H.E.S.S telescope is Antares, a red-giant star that is part of the constellation Scorpius.<br/>\n<b>Credit:</b> Jianfeng Dai/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/AB430t11jX43/\"><img alt=\"The Big Dipper drifts lower towards the horizon on the left, on the right a comet rises in the sky.\" src=\"/media/multimedia/thumbnails/Big_Dipper_and_Comet_Neowise_C2020_F3_by_Giorgia_Hofer_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Dipper and Comet Neowise C2020 F3</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis time-lapse documents the trajectory of the iconic Big Dipper across three frames taken in July 2020. Captured from three locations in Italy, Tre Cime di Lavaredo Auronzo di Cadore, Monte Rite, Cibiana di Cadore, and Casera Razzo, Vigo di Cadore, this visual odyssey showcases the captivating journey of the Big Dipper with the addition of trails of stars painting a celestial canvas. It not only traces the path of this renowned asterism but also features the rare appearance of comet Neowise C/2020 F3, an extraordinary event that graced our skies during July 2020.<br/>\n<b>Credit:</b> Giorgia Hofer/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Jq59Xa17ay16/\"><img alt=\"The Milky Way appears as a diagonal stripe bottom left to top right. It becomes more horizontal as the video progresses.\" src=\"/media/multimedia/thumbnails/Southern_Sky_Over_La_Silla_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Southern Sky Over La Silla</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place winner in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis video shows the Milky Way’s sprawling brilliance across the celestial expanse. Among the stars’ grand theatre, the Southern Cross constellation claims its place in the scene, distinguished by its distinctive cross shape as seen in the top of this video and slightly to the right just over the Milky Way, slowly disappearing as the video progresses. This celestial marker, a prominent feature in the southern hemisphere, holds cultural and navigational significance, having served as a navigational guidepost for centuries. Accompanying the Milky Way’s grandeur are the two Magellanic clouds, celestial companions seen dancing in the distant sky. The Carina Nebula adds its ethereal glow to the cosmic panorama, painting a radiant hue against the darkness. In the midst of this celestial ballet, a gentle green hue envelops the atmosphere, a phenomenon known as airglow, adding a touch of subtle luminescence to the night sky. The terrestrial also makes an appearance, with planes flying overhead and vehicles driving between observatory buildings. This time-lapse, taken from the La Silla Observatory in Chile, is a window to the captivating dance of stars, offering a glimpse into the awe-inspiring beauty of our galaxy and the celestial landmarks that grace the southern sky.<br/>\n<b>Credit:</b> José Rodrigues/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Sky",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Sky",
+          "body": "The sky is what we see when we are outside, our view unencumbered by any structure on Earth, looking up or at least higher than the horizon that marks the boundary of what we can see of Earth and earthbound structures. When looking at a clear sky at night, we can see distant planets, stars, and even a few galaxies (the Andromeda galaxy in the northern and the Magellanic Clouds in the southern hemisphere). The twinkling of the stars is evidence that we are still looking through the gases of Earth's atmosphere. During the day, sunlight scattered by air molecules makes the sky shine with a blue color, blocking our view into the cosmos. Clouds or fog covering the sky will also keep us from observing any astronomical objects."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Небо",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Небо",
+          "body": "Небо — это то, что мы видим, когда находимся на улице, наш обзор не заслонён никакими земными сооружениями, мы смотрим вверх или, по крайней мере, выше горизонта, который отмечает границу видимой нами Земли и земных построек. Глядя на ясное ночное небо, мы можем увидеть далёкие планеты, звёзды и даже несколько галактик (галактику Андромеды в северном и Магеллановы Облака в южном полушарии). Мерцание звёзд — свидетельство того, что мы всё ещё смотрим сквозь газы атмосферы Земли. Днём солнечный свет, рассеиваемый молекулами воздуха, заставляет небо сиять голубым цветом, блокируя наш взгляд в космос. Облака или туман, закрывающие небо, также не дадут нам наблюдать какие-либо астрономические объекты."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:AI49iC413Y61",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10358005/files/Winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Milky%20Way%20Over%20Quiver%20Tree,%20by%20Jianfeng%20Dai.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/AI49iC413Y61/",
+      "original_path": "data/media/original/media_AI49iC413Y61.jpg",
+      "ru_path": null,
+      "sha256": "cbd39c02bd61d747cb4fd1872f7c1a57ac57578801438f6970b03805fcfe9c38",
+      "size": 22036275,
+      "title_en": "Milky Way Over Quiver Tree",
+      "title_ru": "Млечный Путь над колчанным деревом",
+      "short_caption_en": "Milky Way Over Quiver Tree",
+      "short_caption_ru": "Млечный Путь над колчанным деревом",
+      "caption_en": "Winner in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nThis breathtaking photograph was captured on 17 June 2023, near Keetmanshoop, Namibia, with a smartphone. Dominating the night sky, the majestic arc of the Milky Way creates a celestial bridge across the heavens. The image captures a range of notable astronomical objects: the Large and Small Magellanic Clouds, seen towards the bottom of the image and appearing as fuzzy clouds; Antares, seen towards the top left of the image; and the coalsack nebula (referred to by various names by Indigenous cultures around the world), seen vertically above the Large Magellanic Cloud. Silhouetted against this astral backdrop, the trees — which are actually succulent aloe plants native to southern Africa — add a touch of Earth's unique beauty. Historically, these plants were known as ‘quiver trees’ because groups of local Indigenous people would use their hollowed branches to hold darts. The serene Namibian landscape, combined with the brilliance of the southern hemisphere's stars, offers a glimpse into the majesty of our Universe.",
+      "caption_ru": "Победитель в конкурсе астрофотографии IAU OAE 2023, категория «Неподвижные изображения, снятые исключительно на смартфоны/мобильные устройства».\r\n\r\nЭта захватывающая фотография была сделана 17 июня 2023 недалеко от Китмансхупа, Намибия, на смартфон. Доминируя на ночном небе, величественная дуга Млечного Пути создаёт небесный мост через небеса. Изображение запечатлевает ряд примечательных астрономических объектов: Большое и Малое Магеллановы Облака, видимые в нижней части изображения и выглядящие как размытые облака; Антарес, видимый в верхней левой части изображения; и туманность Угольный Мешок (называемая разными именами коренными культурами по всему миру), видимая вертикально над Большим Магеллановым Облаком. На фоне этого звёздного фона деревья — которые на самом деле являются суккулентными алоэ, произрастающими на юге Африки, — добавляют штрих уникальной красоты Земли. Исторически эти растения были известны как «колчанные деревья», потому что группы местных коренных народов использовали их полые ветви для хранения дротиков. Безмятежный намибийский пейзаж в сочетании с великолепием звёзд южного полушария предлагает взглянуть на величие нашей Вселенной.",
+      "alt_en": "The arc of the Milky Way over some trees. Two small galaxies can be seen in the lower middle of the image.",
+      "alt_ru": "Дуга Млечного Пути над деревьями. Две небольшие галактики видны в нижней средней части изображения.",
+      "credit": "Jianfeng Dai/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        199,
+        305,
+        499,
+        500
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:p442yE76BF15",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359742/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Milky%20Way%20Over%20H.E.S.S%20Observatory,%20by%20Jianfeng%20Dai.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/p442yE76BF15/",
+      "original_path": "data/media/original/media_p442yE76BF15.jpg",
+      "ru_path": null,
+      "sha256": "91c63ac0fe2aec55ae226652bac8eb598e9501367cf4b1dbfbaba3c567e0e374",
+      "size": 44607750,
+      "title_en": "Milky Way Over H.E.S.S Observatory",
+      "title_ru": "Млечный Путь над обсерваторией H.E.S.S.",
+      "short_caption_en": "Milky Way Over H.E.S.S Observatory",
+      "short_caption_ru": "Млечный Путь над обсерваторией H.E.S.S.",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nThe darkness of the skies at H.E.S.S Observatory reveal the seemingly innumerable stars that make up the Milky Way galaxy, making it challenging to discern the constellations as seen taken with a smartphone from Namibia in June 2023. The stars Alpha and Beta Centauri are visible bottom left of the image just about the tower. The orange-hued star visible just above and to the right of the left H.E.S.S telescope is Antares, a red-giant star that is part of the constellation Scorpius.",
+      "caption_ru": "Почетное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория неподвижных изображений, сделанных исключительно смартфонами/мобильными устройствами.\r\n\r\nТемнота неба в обсерватории H.E.S.S. открывает, казалось бы, бесчисленные звезды, составляющие галактику Млечный Путь, что затрудняет распознавание созвездий, как видно на снимке, сделанном смартфоном из Намибии в июне 2023 года. Звезды Альфа и Бета Центавра видны в нижнем левом углу изображения чуть выше башни. Оранжевая звезда, видимая чуть выше и правее левого телескопа H.E.S.S., — это Антарес, звезда-красный гигант, входящая в созвездие Скорпиона.",
+      "alt_en": "Four dish-shaped telescopes point at the sky with the arc of the Milky Way overhead.",
+      "alt_ru": "Четыре тарельчатых телескопа направлены в небо, а над ними дугой простирается Млечный Путь.",
+      "credit": "Jianfeng Dai/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        27,
+        199,
+        226,
+        305,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:AB430t11jX43",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360171/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Big%20Dipper%20and%20Comet%20Neowise%20C2020%20F3,%20by%20Giorgia%20Hofer.avi/content",
+      "record_url": "https://astro4edu.org/resources/media/AB430t11jX43/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Big Dipper and Comet Neowise C2020 F3",
+      "title_ru": "Большой Ковш и комета NEOWISE C2020 F3",
+      "short_caption_en": "Big Dipper and Comet Neowise C2020 F3",
+      "short_caption_ru": "Большой Ковш и комета NEOWISE C2020 F3",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis time-lapse documents the trajectory of the iconic Big Dipper across three frames taken in July 2020. Captured from three locations in Italy, Tre Cime di Lavaredo Auronzo di Cadore, Monte Rite, Cibiana di Cadore, and Casera Razzo, Vigo di Cadore, this visual odyssey showcases the captivating journey of the Big Dipper with the addition of trails of stars painting a celestial canvas. It not only traces the path of this renowned asterism but also features the rare appearance of comet Neowise C/2020 F3, an extraordinary event that graced our skies during July 2020.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nЭтот таймлапс документирует траекторию культового Большого Ковша на трёх кадрах, сделанных в июле 2020 года. Снятый из трёх мест в Италии — Тре Чиме ди Лаваредо (Ауронцо ди Кадоре), Монте Рите (Чибиана ди Кадоре) и Казера Раццо (Виго ди Кадоре) — этот визуальный одиссей демонстрирует захватывающее путешествие Большого Ковша с добавлением следов звёзд, рисующих небесное полотно. Он не только прослеживает путь этого известного астеризма, но и показывает редкое появление кометы NEOWISE C/2020 F3 — экстраординарное событие, которое украсило наши небеса в июле 2020 года.",
+      "alt_en": "The Big Dipper drifts lower towards the horizon on the left, on the right a comet rises in the sky.",
+      "alt_ru": "Большой Ковш опускается ниже к горизонту слева, справа на небе поднимается комета.",
+      "credit": "Giorgia Hofer/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        56,
+        261,
+        305,
+        473
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Jq59Xa17ay16",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360040/files/First%20place%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Southern%20Sky%20Over%20La%20Silla,%20by%20José%20Rodrigues.mp4/content",
+      "record_url": "https://astro4edu.org/resources/media/Jq59Xa17ay16/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Southern Sky Over La Silla",
+      "title_ru": "Южное небо над Ла-Сильей",
+      "short_caption_en": "Southern Sky Over La Silla",
+      "short_caption_ru": "Южное небо над Ла-Сильей",
+      "caption_en": "First place winner in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis video shows the Milky Way’s sprawling brilliance across the celestial expanse. Among the stars’ grand theatre, the Southern Cross constellation claims its place in the scene, distinguished by its distinctive cross shape as seen in the top of this video and slightly to the right just over the Milky Way, slowly disappearing as the video progresses. This celestial marker, a prominent feature in the southern hemisphere, holds cultural and navigational significance, having served as a navigational guidepost for centuries. Accompanying the Milky Way’s grandeur are the two Magellanic clouds, celestial companions seen dancing in the distant sky. The Carina Nebula adds its ethereal glow to the cosmic panorama, painting a radiant hue against the darkness. In the midst of this celestial ballet, a gentle green hue envelops the atmosphere, a phenomenon known as airglow, adding a touch of subtle luminescence to the night sky. The terrestrial also makes an appearance, with planes flying overhead and vehicles driving between observatory buildings. This time-lapse, taken from the La Silla Observatory in Chile, is a window to the captivating dance of stars, offering a glimpse into the awe-inspiring beauty of our galaxy and the celestial landmarks that grace the southern sky.",
+      "caption_ru": "Первое место в конкурсе астрофотографии 2023 МАС OAE в категории таймлапсов вращения Большой Медведицы или Южного Креста.\r\n\r\nЭто видео показывает разворачивающееся великолепие Млечного Пути по небесному простору. Среди величественного театра звёзд созвездие Южного Креста занимает своё место в сцене, выделяясь характерной крестообразной формой, видимой в верхней части видео и немного правее, прямо над Млечным Путём, медленно исчезая по мере продолжения видео. Этот небесный маркер, заметная особенность южного полушария, имеет культурное и навигационное значение, служа навигационным ориентиром на протяжении веков. Вместе с величием Млечного Пути видны два Магеллановых Облака, небесные спутники, танцующие в далёком небе. Туманность Киля добавляет своё эфирное свечение космической панораме, окрашивая тёмное небо в сияющий оттенок. В разгар этого небесного балета атмосферу окутывает нежный зелёный оттенок — явление, известное как свечение атмосферы, добавляющее ночному небу нотку тонкой люминесценции. Появляется и земное: самолёты пролетают над головой, а автомобили едут между зданиями обсерватории. Этот таймлапс, снятый в обсерватории Ла-Силья в Чили, — окно в захватывающий танец звёзд, предлагающее взглянуть на внушающую благоговение красоту нашей галактики и небесные ориентиры, украшающие южное небо.",
+      "alt_en": "The Milky Way appears as a diagonal stripe bottom left to top right. It becomes more horizontal as the video progresses.",
+      "alt_ru": "Млечный Путь виден как диагональная полоса от нижнего левого угла к верхнему правому. По мере продолжения видео он становится более горизонтальным.",
+      "credit": "José Rodrigues/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        52,
+        53,
+        90,
+        226,
+        305,
+        318
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

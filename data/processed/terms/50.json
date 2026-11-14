@@ -1,0 +1,488 @@
+{
+  "id": "term:50",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 50,
+    "url": "https://astro4edu.org/resources/glossary/term/50/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=50",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:49:17.001356+00:00",
+    "sha256": "ab0da8fe68a88bddcd5bc4e930d0b79628c23f9362c0195712dd347ac8d65474"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      52,
+      78,
+      90,
+      102,
+      171,
+      179,
+      286
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Celestial Coordinates",
+      "body": "From Earth, we perceive celestial objects as being located on a sphere, traditionally called the celestial sphere. We can describe any position on that sphere using two numbers. Every method for assigning two such numbers to a sky position is called a celestial coordinate system, and the numbers are called the object's (celestial) coordinates. On Earth's surface, we use geographical latitude and longitude for the same purpose, and in fact one way of defining celestial coordinates is derived from that: those points in the sky that are directly above Earth's equator form the celestial equator, and the point directly above a certain location on Earth's globe is assigned numbers in a way similar to the latitude/longitude of the base point. Astronomers use different kinds of coordinate systems, including a number that takes into account Earth's daily rotation, so the coordinates are universal and are usable anywhere on Earth. This also ensures that the coordinates of, say, a star do not change significantly over timescales of days, months, or years.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Celestial Pole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/52/",
+          "text_ru": "Небесный полюс"
+        },
+        {
+          "text": "Declination",
+          "url": "https://www.astro4edu.org/resources/glossary/term/78/",
+          "text_ru": "Склонение"
+        },
+        {
+          "text": "Earth's Rotation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/90/",
+          "text_ru": "Вращение Земли"
+        },
+        {
+          "text": "Equator",
+          "url": "https://www.astro4edu.org/resources/glossary/term/102/",
+          "text_ru": "Экватор"
+        },
+        {
+          "text": "Latitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/171/",
+          "text_ru": "Широта"
+        },
+        {
+          "text": "Longitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/179/",
+          "text_ru": "Долгота"
+        },
+        {
+          "text": "Right Ascension (RA)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/286/",
+          "text_ru": "Прямое восхождение (RA)"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Celestial Coordinates</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> From Earth, we perceive celestial objects as being located on a sphere, traditionally called the celestial sphere. We can describe any position on that sphere using two numbers. Every method for assigning two such numbers to a sky position is called a celestial coordinate system, and the numbers are called the object's (celestial) coordinates. <br/><br/>On Earth's surface, we use geographical latitude and longitude for the same purpose, and in fact one way of defining celestial coordinates is derived from that: those points in the sky that are directly above Earth's equator form the celestial equator, and the point directly above a certain location on Earth's globe is assigned numbers in a way similar to the latitude/longitude of the base point. <br/><br/>Astronomers use different kinds of coordinate systems, including a number that takes into account Earth's daily rotation, so the coordinates are universal and are usable anywhere on Earth. This also ensures that the coordinates of, say, a star do not change significantly over timescales of days, months, or years.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/52/\">Celestial Pole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/78/\">Declination</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/90/\">Earth's Rotation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/102/\">Equator</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/171/\">Latitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/179/\">Longitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/286/\">Right Ascension (RA)</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Небесные координаты",
+      "body_ru": "С Земли мы воспринимаем небесные объекты как расположенные на сфере, традиционно называемой небесной сферой. Мы можем описать любое положение на этой сфере с помощью двух чисел. Любой метод присвоения двух таких чисел положению на небе называется системой небесных координат, а сами числа называются (небесными) координатами объекта. На поверхности Земли для той же цели мы используем географическую широту и долготу, и фактически один из способов определения небесных координат происходит от этого: те точки на небе, которые находятся прямо над земным экватором, образуют небесный экватор, а точке прямо над определённым местом на земном шаре присваиваются числа аналогично широте/долготе базовой точки. Астрономы используют различные виды систем координат, включая число, учитывающее суточное вращение Земли, поэтому координаты являются универсальными и могут использоваться в любом месте на Земле. Это также гарантирует, что координаты, скажем, звезды не изменяются значительно на временных масштабах дней, месяцев или лет."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "天球座標系 (external link)",
+          "url": "https://astro-dic.jp/celestial-coordinate-system/",
+          "text_ru": "Система небесных координат (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/50/\">الإحداثيات السماوية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/50/\">Himmelskoordinaten </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/50/\">Coordenadas celestes </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/50/\">Coordonnées célestes </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/50/\">Coordinate celesti </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/celestial-coordinate-system/\">天球座標系 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/50/\">천구좌표 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/50/\">Coordenadas celestes </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/50/\">天球坐标 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/50/\">天球坐標 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Hj32Ua273O7/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/dg783o76n014/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/9P17by35Gr8/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/uM753a62k218/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Ju53nC20Lt23/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all diagrams for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Celestial Coordinates&page=1&language_choice=en&file_type=dia&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все диаграммы для этого термина"
+        }
+      ],
+      "media_ids": [
+        "diagram:Hj32Ua273O7",
+        "diagram:dg783o76n014",
+        "diagram:9P17by35Gr8",
+        "diagram:uM753a62k218",
+        "diagram:Ju53nC20Lt23"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Hj32Ua273O7/\"><img alt=\"The four bright stars of Crux form a kite shape with the long axis pointing vertically\" src=\"/media/diagrams/multimedia/thumbnails/crux-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Crux Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Crux (commonly known as the Southern Cross or Crux Australis) showing its bright stars and surrounding constellations. The Southern Cross is surrounding by (going clockwise from the top) Centaurus, Carina and Musca. The brightest star is alpha Crucis which appears at the bottom of the constellation's famous kite shape. The Southern Cross is visible from southern and equatorial regions of the world. In more southerly parts of the world it is circumpolar so is always above the horizon. In other parts of the southern hemisphere and in equatorial regions it is most visible in the evenings in the southern hemisphere autumn.\n\nThe yellow circles show the locations of two open clusters, NGC 4755 (known as the Jewel Box) and NGC 4609.\n\nThe line joining gamma and alpha Crucis (the third and first brightest stars in the Southern Cross) points in the approximate direction of the South Celestial Pole. This has led to the Southern Cross playing an important role in celestial navigation, allowing navigators from different astronomical traditions to find their bearings.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope.\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/dg783o76n014/\"><img alt=\"Orion appears as an hourglass-shaped pattern with two strings of stars extending northeast and northwest\" src=\"/media/diagrams/multimedia/thumbnails/orion-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Orion Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Orion along with its bright stars and surrounding constellations. Orion is surrounded by (going clockwise from the top) Taurus, Eridanus, Lepus, Monoceros and Gemini. Orion’s brightest stars Betelgeuse and Rigel appear at the northern (upper on this diagram) and southern (lower) end of the constellation respectively with the famous three star “belt” in the middle.\n\nOrion spans the celestial equator and is thus visible at some time in the year from all of planet Earth. In the most arctic or antarctic regions of the world, some parts of the constellation may not be visible. Orion is most visible in the evenings in the northern hemisphere winter and southern hemisphere summer. The blue line above Orion marks the ecliptic, the path the Sun appears to travel across the sky over the course of a year. The Sun never passes through Orion, but one can occasionally find the other planets of the Solar System and the Moon in Orion.\n\nJust south of Orion’s belt lie two Messier objects M42 (the Orion nebula) and M43, marked by green squares. These nebulae along with M78 (here the green square to the left of the belt) are part of the huge Orion Molecular Cloud Complex. This covers most of the constellation and includes regions where these molecular clouds are collapsing to form young starts. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Betelgeuse indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/9P17by35Gr8/\"><img alt=\"Libra appears as a triangle pointing north (up) with two lines hanging down. It is bisected by the ecliptic running ESE-WNW\" src=\"/media/diagrams/multimedia/thumbnails/libra-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Libra Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Libra along with its bright stars and surrounding constellations. Libra is surrounded by (going clockwise from the top) Serpens Caput, Virgo, Hydra, Centaurus, Lupus, Scorpius and Ophiuchus. Libra lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Libra from late October to late November. The other planets of the Solar System can often be found in Libra.\n\nLibra lies just south of the celestial equator and is thus visible at some time in all but the most arctic regions. Libra is most visible in the evenings in the northern hemisphere late spring/early summer and southern hemisphere late autumn/early winter. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/uM753a62k218/\"><img alt=\"Scorpius appears as a letter T joined to a letter J. The ecliptic runs ESE to WNW and clips one arm of the T\" src=\"/media/diagrams/multimedia/thumbnails/scorpius-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Scorpius Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Scorpius (often commonly called Scorpio) along with its bright stars and surrounding constellations. Scorpius is surrounded by (going clockwise from the top) Ophiuchus, Serpens Caput, Libra, Lupus, Norma, Ara, Corona Australis and Sagittarius. Scorpius’s brightest star Antares appears in the heart of the constellation with the famous tail of Scoprius in the south-east (lower left). Scorpius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun only spends a short amount of time in late November in Scorpius. The other planets of the Solar System can often be found in Scorpius.\n\nScorpius lies south of the celestial equator. The whole constellation is not visible from the most arctic regions of the world with parts of Scorpius obscured for observers in northern parts of Asia, Europe and North America. Scorpius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \n\nThe yellow circles mark the positions of the open clusters M6, M7 &amp; NGC 6231 while the yellow circles with plus signs superimposed on them mark the globular clusters M4 and M80. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Antares indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line marks the ecliptic, the path the Sun appears to travel across the sky over the course of one year. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Ju53nC20Lt23/\"><img alt=\"Sagittarius is shaped like a teapot pouring tea south west. The ecliptic runs WSW to ENE at the top of the constellation\" src=\"/media/diagrams/multimedia/thumbnails/sagittarius-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sagittarius Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Sagittarius along with its bright stars and surrounding constellations. Sagittarius is surrounded by (going clockwise from the top) Aquila, Scutum, Serpens Cauda, Ophiuchus, Scorpius, Corona Australis, Telescopium, Microscopium and Capricornus. The brighter stars in Sagittarius form a distinctive teapot shape. Sagittarius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Sagittarius from mid December to mid January. The other planets of the Solar System can often be found in Sagittarius.\n\nSagittarius lies south of the celestial equator. The famous teapot asterism is visible for all but the most arctic regions of the world but the most southerly parts of the constellation are not visible in northern parts of Asia, Europe and North America. Sagittarius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \n\nThe supermassive black hole Sagittarius A* which lies at the center of our Milky Way Galaxy is sits on the western (here right-hand) edge of  Sagittarius. Due to it covering an area at the center of our Galaxy, Sagittarius is home to many star clusters including open clusters (marked here with yellow circles) and globular clusters (marked here with yellow circles with + signs superimposed on them). Three nebulae are also marked here with green squares. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Celestial Coordinates&amp;page=1&amp;language_choice=en&amp;file_type=dia&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all diagrams <br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Navigation in the Ancient Mediterranean and Beyond astroEDU educational activity (links to astroEDU website) Description: Learn the ancient skill of Celestial Navigation License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Celestial navigation Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/navigation-in-the-ancient-mediterranean-and-beyond/\"><img alt=\"Navigation in the Ancient Mediterranean and Beyond\" src=\"/media/astroedu/images/navigation-in-the-ancient-mediterranean-and-beyond_en_thumbnail_lbrake6.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/navigation-in-the-ancient-mediterranean-and-beyond/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Navigation in the Ancient Mediterranean and Beyond</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn the ancient skill of Celestial Navigation\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Geography \n  \n  , Celestial navigation \n  \n  \n\n  <b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Навигация в древнем Средиземноморье и за его пределами образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Изучите древний навык небесной навигации Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , География \n  \n  , Небесная навигация Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Средняя школа \n  \n, Среднее образование Области обучения: Дискуссионные группы \n  \n, Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований \n  \n, Использование математики и вычислительного мышления"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Celestial Coordinates",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Celestial Coordinates",
+          "body": "From Earth, we perceive celestial objects as being located on a sphere, traditionally called the celestial sphere. We can describe any position on that sphere using two numbers. Every method for assigning two such numbers to a sky position is called a celestial coordinate system, and the numbers are called the object's (celestial) coordinates. On Earth's surface, we use geographical latitude and longitude for the same purpose, and in fact one way of defining celestial coordinates is derived from that: those points in the sky that are directly above Earth's equator form the celestial equator, and the point directly above a certain location on Earth's globe is assigned numbers in a way similar to the latitude/longitude of the base point. Astronomers use different kinds of coordinate systems, including a number that takes into account Earth's daily rotation, so the coordinates are universal and are usable anywhere on Earth. This also ensures that the coordinates of, say, a star do not change significantly over timescales of days, months, or years."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Navigation in the Ancient Mediterranean and Beyond astroEDU educational activity (links to astroEDU website) Description: Learn the ancient skill of Celestial Navigation License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Celestial navigation Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking"
+        }
+      }
+    },
+    "ru": {
+      "title": "Небесные координаты",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Небесные координаты",
+          "body": "С Земли мы воспринимаем небесные объекты как расположенные на сфере, традиционно называемой небесной сферой. Мы можем описать любое положение на этой сфере с помощью двух чисел. Любой метод присвоения двух таких чисел положению на небе называется системой небесных координат, а сами числа называются (небесными) координатами объекта. На поверхности Земли для той же цели мы используем географическую широту и долготу, и фактически один из способов определения небесных координат происходит от этого: те точки на небе, которые находятся прямо над земным экватором, образуют небесный экватор, а точке прямо над определённым местом на земном шаре присваиваются числа аналогично широте/долготе базовой точки. Астрономы используют различные виды систем координат, включая число, учитывающее суточное вращение Земли, поэтому координаты являются универсальными и могут использоваться в любом месте на Земле. Это также гарантирует, что координаты, скажем, звезды не изменяются значительно на временных масштабах дней, месяцев или лет."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Навигация в древнем Средиземноморье и за его пределами образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Изучите древний навык небесной навигации Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , География \n  \n  , Небесная навигация Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Средняя школа \n  \n, Среднее образование Области обучения: Дискуссионные группы \n  \n, Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований \n  \n, Использование математики и вычислительного мышления"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:Hj32Ua273O7",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/crux-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Hj32Ua273O7/",
+      "original_path": "data/media/original/diagram_Hj32Ua273O7.png",
+      "ru_path": null,
+      "sha256": "678442a23d8da1ade56825ecb718191b3b83d9c0b04df5767b40d7dc440fd134",
+      "size": 110073,
+      "title_en": "Crux Constellation Map",
+      "title_ru": "Карта созвездия Южный Крест",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Crux (commonly known as the Southern Cross or Crux Australis) showing its bright stars and surrounding constellations. The Southern Cross is surrounding by (going clockwise from the top) Centaurus, Carina and Musca. The brightest star is alpha Crucis which appears at the bottom of the constellation's famous kite shape. The Southern Cross is visible from southern and equatorial regions of the world. In more southerly parts of the world it is circumpolar so is always above the horizon. In other parts of the southern hemisphere and in equatorial regions it is most visible in the evenings in the southern hemisphere autumn.\r\n\r\nThe yellow circles show the locations of two open clusters, NGC 4755 (known as the Jewel Box) and NGC 4609.\r\n\r\nThe line joining gamma and alpha Crucis (the third and first brightest stars in the Southern Cross) points in the approximate direction of the South Celestial Pole. This has led to the Southern Cross playing an important role in celestial navigation, allowing navigators from different astronomical traditions to find their bearings.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Южный Крест (обычно известное как Южный Крест или Crux Australis) с его яркими звёздами и окружающими созвездиями. Южный Крест окружён (по часовой стрелке сверху) Центавром, Килем и Мухой. Самая яркая звезда — альфа Южного Креста, которая находится в нижней части знаменитой формы воздушного змея этого созвездия. Южный Крест виден из южных и экваториальных регионов мира. В более южных частях мира он является околополярным, поэтому всегда находится над горизонтом. В других частях южного полушария и в экваториальных регионах он наиболее виден по вечерам осенью южного полушария.\r\n\r\nЖёлтые кружки показывают расположение двух рассеянных скоплений, NGC 4755 (известного как Шкатулка с драгоценностями) и NGC 4609.\r\n\r\nЛиния, соединяющая гамму и альфу Южного Креста (третью и первую по яркости звёзды Южного Креста), указывает приблизительное направление на Южный небесный полюс. Это привело к тому, что Южный Крест играет важную роль в небесной навигации, позволяя навигаторам из разных астрономических традиций находить свои ориентиры.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные линии границ обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "The four bright stars of Crux form a kite shape with the long axis pointing vertically",
+      "alt_ru": "Четыре яркие звезды Южного Креста образуют форму воздушного змея с длинной осью, направленной вертикально",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope.",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        286,
+        318,
+        466,
+        518
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:dg783o76n014",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/orion-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/dg783o76n014/",
+      "original_path": "data/media/original/diagram_dg783o76n014.png",
+      "ru_path": "data/media/ru/diagram_dg783o76n014.png",
+      "sha256": "9a49feac2e6669db6dcf14131d0cd3b45e861e1ab827be0548c5fa538b74e257",
+      "size": 147678,
+      "title_en": "Orion Constellation Map",
+      "title_ru": "Карта созвездия Орион",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Orion along with its bright stars and surrounding constellations. Orion is surrounded by (going clockwise from the top) Taurus, Eridanus, Lepus, Monoceros and Gemini. Orion’s brightest stars Betelgeuse and Rigel appear at the northern (upper on this diagram) and southern (lower) end of the constellation respectively with the famous three star “belt” in the middle.\r\n\r\nOrion spans the celestial equator and is thus visible at some time in the year from all of planet Earth. In the most arctic or antarctic regions of the world, some parts of the constellation may not be visible. Orion is most visible in the evenings in the northern hemisphere winter and southern hemisphere summer. The blue line above Orion marks the ecliptic, the path the Sun appears to travel across the sky over the course of a year. The Sun never passes through Orion, but one can occasionally find the other planets of the Solar System and the Moon in Orion.\r\n\r\nJust south of Orion’s belt lie two Messier objects M42 (the Orion nebula) and M43, marked by green squares. These nebulae along with M78 (here the green square to the left of the belt) are part of the huge Orion Molecular Cloud Complex. This covers most of the constellation and includes regions where these molecular clouds are collapsing to form young starts. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Betelgeuse indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Орион вместе с его яркими звёздами и окружающими созвездиями. Орион окружён (по часовой стрелке сверху) Тельцом, Эриданом, Зайцем, Единорогом и Близнецами. Ярчайшие звёзды Ориона Бетельгейзе и Ригель видны соответственно на северном (верхнем на этой диаграмме) и южном (нижнем) конце созвездия, а знаменитый «пояс» из трёх звёзд находится в середине.\r\n\r\nОрион пересекает небесный экватор и поэтому виден в какое-то время года со всей планеты Земля. В самых арктических или антарктических регионах мира некоторые части созвездия могут быть не видны. Орион лучше всего виден по вечерам зимой в Северном полушарии и летом в Южном полушарии. Синяя линия над Орионом обозначает эклиптику — путь, который Солнце, как кажется, проходит по небу в течение года. Солнце никогда не проходит через Орион, но иногда в Орионе можно найти другие планеты Солнечной системы и Луну.\r\n\r\nЧуть южнее пояса Ориона находятся два объекта Мессье M42 (туманность Ориона) и M43, отмеченные зелёными квадратами. Эти туманности вместе с M78 (здесь зелёный квадрат слева от пояса) являются частью огромного молекулярного облачного комплекса Ориона. Он охватывает большую часть созвездия и включает области, где эти молекулярные облака коллапсируют, образуя молодые звёзды.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Круг вокруг Бетельгейзе указывает на то, что это переменная звезда. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Orion appears as an hourglass-shaped pattern with two strings of stars extending northeast and northwest",
+      "alt_ru": "Орион выглядит как фигура в форме песочных часов с двумя цепочками звёзд, простирающимися на северо-восток и северо-запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        126,
+        286,
+        351,
+        467,
+        485
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "5e6bc561a597e74cca14419dde0489496831653c6f690f565c42402de85ab793"
+    },
+    {
+      "id": "diagram:9P17by35Gr8",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/libra-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/9P17by35Gr8/",
+      "original_path": "data/media/original/diagram_9P17by35Gr8.png",
+      "ru_path": "data/media/ru/diagram_9P17by35Gr8.png",
+      "sha256": "303f7e780976b9d5ad2852def071e2cb2fdaefa4a2a85ed341d5dbdf1e6d6ede",
+      "size": 101254,
+      "title_en": "Libra Constellation Map",
+      "title_ru": "Карта созвездия Весы",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Libra along with its bright stars and surrounding constellations. Libra is surrounded by (going clockwise from the top) Serpens Caput, Virgo, Hydra, Centaurus, Lupus, Scorpius and Ophiuchus. Libra lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Libra from late October to late November. The other planets of the Solar System can often be found in Libra.\r\n\r\nLibra lies just south of the celestial equator and is thus visible at some time in all but the most arctic regions. Libra is most visible in the evenings in the northern hemisphere late spring/early summer and southern hemisphere late autumn/early winter. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Весы вместе с его яркими звёздами и окружающими созвездиями. Весы окружены (по часовой стрелке сверху) Змеёй (Голова), Девой, Гидрой, Центавром, Волком, Скорпионом и Змееносцем. Весы лежат на эклиптике (показана здесь синей линией) — это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Весах с конца октября до конца ноября. Другие планеты Солнечной системы также часто можно найти в Весах.\r\n\r\nВесы лежат чуть южнее небесного экватора и поэтому видны в какое-то время во всех регионах, кроме самых арктических. Весы лучше всего видны по вечерам поздней весной/ранним летом в Северном полушарии и поздней осенью/ранней зимой в Южном полушарии.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Libra appears as a triangle pointing north (up) with two lines hanging down. It is bisected by the ecliptic running ESE-WNW",
+      "alt_ru": "Весы выглядят как треугольник, направленный на север (вверх), с двумя свисающими вниз линиями. Их пересекает эклиптика, идущая с востоко-юго-востока на западо-северо-запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        173,
+        286,
+        299,
+        391,
+        486
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ac6a54d41e6992f0e66b036b9840106e276385980c329be434d074fcebbcf465"
+    },
+    {
+      "id": "diagram:uM753a62k218",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/scorpius-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/uM753a62k218/",
+      "original_path": "data/media/original/diagram_uM753a62k218.png",
+      "ru_path": null,
+      "sha256": "295390cb65436e178d6ae225ce984d4dc73852b10e0a0e1768def3166f1dd7b8",
+      "size": 152588,
+      "title_en": "Scorpius Constellation Map",
+      "title_ru": "Карта созвездия Скорпион",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Scorpius (often commonly called Scorpio) along with its bright stars and surrounding constellations. Scorpius is surrounded by (going clockwise from the top) Ophiuchus, Serpens Caput, Libra, Lupus, Norma, Ara, Corona Australis and Sagittarius. Scorpius’s brightest star Antares appears in the heart of the constellation with the famous tail of Scoprius in the south-east (lower left). Scorpius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun only spends a short amount of time in late November in Scorpius. The other planets of the Solar System can often be found in Scorpius.\r\n\r\nScorpius lies south of the celestial equator. The whole constellation is not visible from the most arctic regions of the world with parts of Scorpius obscured for observers in northern parts of Asia, Europe and North America. Scorpius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \r\n\r\nThe yellow circles mark the positions of the open clusters M6, M7 & NGC 6231 while the yellow circles with plus signs superimposed on them mark the globular clusters M4 and M80. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The circle around Antares indicates that it is a variable star. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line marks the ecliptic, the path the Sun appears to travel across the sky over the course of one year. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Скорпион (часто называемое просто Скорпио) вместе с его яркими звёздами и окружающими созвездиями. Скорпион окружён (по часовой стрелке сверху) Змееносцем, Змеёй (Голова), Весами, Волком, Наугольником, Жертвенником, Южной Короной и Стрельцом. Самая яркая звезда Скорпиона Антарес находится в сердце созвездия, а знаменитый хвост Скорпиона — на юго-востоке (внизу слева). Скорпион лежит на эклиптике (показана здесь синей линией) — это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце проводит в Скорпионе лишь короткое время в конце ноября. Другие планеты Солнечной системы также часто можно найти в Скорпионе.\r\n\r\nСкорпион лежит южнее небесного экватора. Всё созвездие не видно из самых арктических регионов мира, а части Скорпиона скрыты для наблюдателей в северных частях Азии, Европы и Северной Америки. Скорпион лучше всего виден по вечерам летом в Северном полушарии и зимой в Южном полушарии.\r\n\r\nЖёлтые круги обозначают положения рассеянных скоплений M6, M7 и NGC 6231, а жёлтые круги с наложенными на них знаками плюс обозначают шаровые скопления M4 и M80.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Круг вокруг Антареса указывает на то, что это переменная звезда. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия обозначает эклиптику — путь, который Солнце, как кажется, проходит по небу в течение одного года. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Scorpius appears as a letter T joined to a letter J. The ecliptic runs ESE to WNW and clips one arm of the T",
+      "alt_ru": "Скорпион выглядит как буква T, соединённая с буквой J. Эклиптика проходит с востоко-юго-востока на западо-северо-запад и пересекает одно плечо буквы T",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        132,
+        173,
+        286,
+        299,
+        391,
+        466,
+        474,
+        485
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:Ju53nC20Lt23",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Ju53nC20Lt23/",
+      "original_path": "data/media/original/diagram_Ju53nC20Lt23.png",
+      "ru_path": null,
+      "sha256": "37e4a87ce51317e74bcc1a674d69d15fdeee4cbf57b01efa221332178e8de624",
+      "size": 150618,
+      "title_en": "Sagittarius Constellation Map",
+      "title_ru": "Карта созвездия Стрельца",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Sagittarius along with its bright stars and surrounding constellations. Sagittarius is surrounded by (going clockwise from the top) Aquila, Scutum, Serpens Cauda, Ophiuchus, Scorpius, Corona Australis, Telescopium, Microscopium and Capricornus. The brighter stars in Sagittarius form a distinctive teapot shape. Sagittarius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Sagittarius from mid December to mid January. The other planets of the Solar System can often be found in Sagittarius.\r\n\r\nSagittarius lies south of the celestial equator. The famous teapot asterism is visible for all but the most arctic regions of the world but the most southerly parts of the constellation are not visible in northern parts of Asia, Europe and North America. Sagittarius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \r\n\r\nThe supermassive black hole Sagittarius A* which lies at the center of our Milky Way Galaxy is sits on the western (here right-hand) edge of  Sagittarius. Due to it covering an area at the center of our Galaxy, Sagittarius is home to many star clusters including open clusters (marked here with yellow circles) and globular clusters (marked here with yellow circles with + signs superimposed on them). Three nebulae are also marked here with green squares. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Стрельца вместе с его яркими звёздами и окружающими созвездиями. Стрелец окружён (по часовой стрелке сверху) Орлом, Щитом, Хвостом Змеи, Змееносцем, Скорпионом, Южной Короной, Телескопом, Микроскопом и Козерогом. Более яркие звёзды в Стрельце образуют характерную форму чайника. Стрелец лежит на эклиптике (показана здесь синей линией), это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Стрельце с середины декабря до середины января. Другие планеты Солнечной системы часто можно найти в Стрельце.\r\n\r\nСтрелец лежит к югу от небесного экватора. Знаменитый астеризм Чайник виден для всех, кроме самых арктических регионов мира, но самые южные части созвездия не видны в северных частях Азии, Европы и Северной Америки. Стрелец наиболее виден по вечерам летом в Северном полушарии и зимой в Южном полушарии. \r\n\r\nСверхмассивная чёрная дыра Стрелец A*, которая находится в центре нашей Галактики Млечный Путь, расположена на западном (здесь правом) краю Стрельца. Благодаря тому, что она покрывает область в центре нашей Галактики, Стрелец является домом для многих звёздных скоплений, включая рассеянные скопления (отмечены здесь жёлтыми кружками) и шаровые скопления (отмечены здесь жёлтыми кружками с наложенными знаками +). Три туманности также отмечены здесь зелёными квадратами. \r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для представления фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не появляются на небе.",
+      "alt_en": "Sagittarius is shaped like a teapot pouring tea south west. The ecliptic runs WSW to ENE at the top of the constellation",
+      "alt_ru": "Стрелец имеет форму чайника, наливающего чай на юго-запад. Эклиптика проходит с западо-юго-запада на востоко-северо-восток в верхней части созвездия",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        48,
+        50,
+        66,
+        78,
+        92,
+        132,
+        199,
+        211,
+        286,
+        292,
+        299,
+        348,
+        391,
+        429,
+        466,
+        474
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

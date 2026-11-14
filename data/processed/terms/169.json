@@ -1,0 +1,138 @@
+{
+  "id": "term:169",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 169,
+    "url": "https://astro4edu.org/resources/glossary/term/169/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=169",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:07.029507+00:00",
+    "sha256": "0e049335b541310b6f6da369b02fbc60de48ac56bf834622be523d49f30bf8ae"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Solar System"
+    ],
+    "category_ids": [
+      6,
+      1
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      98,
+      232,
+      253,
+      314
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Kepler's Laws",
+      "body": "The three laws formulated by Johannes Kepler in the beginning of the 1600s were the first to describe the orbits of the planets as not perfectly circular. The first law states that the planets orbit the Sun in an elliptical shape with the Sun at one of the focal points. The second law says that the area covered by a line between the planet and the Sun is the same in a given time interval of the orbit. According to the third law, the square of the time (T 2 ) a planet takes to move around the Sun is proportional to the cube of its semi-major axis (a 3 , semi-major axis is a length which characterizes the size of the planet's orbit around the Sun). Kepler found these three laws by studying the observations of Mars carried out by his mentor Tycho Brahe. He used the laws to make the most precise calculation of the orbits of the planets known to his time.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Ellipse",
+          "url": "https://www.astro4edu.org/resources/glossary/term/98/",
+          "text_ru": "Эллипс"
+        },
+        {
+          "text": "Orbit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/232/",
+          "text_ru": "Орбита"
+        },
+        {
+          "text": "Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/253/",
+          "text_ru": "Планета"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Kepler's Laws</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The three laws formulated by Johannes Kepler in the beginning of the 1600s were the first to describe the orbits of the planets as not perfectly circular. The first law states that the planets orbit the Sun in an elliptical shape with the Sun at one of the focal points. The second law says that the area covered by a line between the planet and the Sun is the same in a given time interval of the orbit. According to the third law, the square of the time (T<sup>2</sup>) a planet takes to move around the Sun is proportional to the cube of its semi-major axis (a<sup>3</sup>, semi-major axis is a length which characterizes the size of the planet's orbit around the Sun). Kepler found these three laws by studying the observations of Mars carried out by his mentor Tycho Brahe. He used the laws to make the most precise calculation of the orbits of the planets known to his time.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/98/\">Ellipse</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/232/\">Orbit</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/253/\">Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Законы Кеплера",
+      "body_ru": "Три закона, сформулированные Иоганном Кеплером в начале 1600-х годов, первыми описали орбиты планет как не идеально круговые. Первый закон утверждает, что планеты обращаются вокруг Солнца по эллиптической орбите, причём Солнце находится в одном из фокусов. Второй закон гласит, что площадь, заметаемая линией между планетой и Солнцем, одинакова за данный интервал времени орбитального движения. Согласно третьему закону, квадрат времени (T 2 ), за которое планета совершает оборот вокруг Солнца, пропорционален кубу её большой полуоси (a 3 , большая полуось — это длина, характеризующая размер орбиты планеты вокруг Солнца). Кеплер открыл эти три закона, изучая наблюдения Марса, выполненные его наставником Тихо Браге. Он использовал эти законы, чтобы сделать наиболее точный для своего времени расчёт орбит планет."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "ケプラーの法則 (external link)",
+          "url": "https://astro-dic.jp/keplers-laws/",
+          "text_ru": "Законы Кеплера (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/169/\">قوانين كبلر </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/169/\">Keplersche Gesetze </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/169/\">Leyes de Kepler </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/169/\">Lois de Kepler </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/169/\">Leggi di Keplero </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/keplers-laws/\">ケプラーの法則 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/169/\">केपलरचे नियम </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/169/\">Leis de Kepler </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/169/\">开普勒定律 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/169/\">開普勒定律 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Kepler's Laws",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Kepler's Laws",
+          "body": "The three laws formulated by Johannes Kepler in the beginning of the 1600s were the first to describe the orbits of the planets as not perfectly circular. The first law states that the planets orbit the Sun in an elliptical shape with the Sun at one of the focal points. The second law says that the area covered by a line between the planet and the Sun is the same in a given time interval of the orbit. According to the third law, the square of the time (T 2 ) a planet takes to move around the Sun is proportional to the cube of its semi-major axis (a 3 , semi-major axis is a length which characterizes the size of the planet's orbit around the Sun). Kepler found these three laws by studying the observations of Mars carried out by his mentor Tycho Brahe. He used the laws to make the most precise calculation of the orbits of the planets known to his time."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Законы Кеплера",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Законы Кеплера",
+          "body": "Три закона, сформулированные Иоганном Кеплером в начале 1600-х годов, первыми описали орбиты планет как не идеально круговые. Первый закон утверждает, что планеты обращаются вокруг Солнца по эллиптической орбите, причём Солнце находится в одном из фокусов. Второй закон гласит, что площадь, заметаемая линией между планетой и Солнцем, одинакова за данный интервал времени орбитального движения. Согласно третьему закону, квадрат времени (T 2 ), за которое планета совершает оборот вокруг Солнца, пропорционален кубу её большой полуоси (a 3 , большая полуось — это длина, характеризующая размер орбиты планеты вокруг Солнца). Кеплер открыл эти три закона, изучая наблюдения Марса, выполненные его наставником Тихо Браге. Он использовал эти законы, чтобы сделать наиболее точный для своего времени расчёт орбит планет."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

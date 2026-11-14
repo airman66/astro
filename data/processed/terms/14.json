@@ -1,0 +1,255 @@
+{
+  "id": "term:14",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 14,
+    "url": "https://astro4edu.org/resources/glossary/term/14/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=14",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:09.901202+00:00",
+    "sha256": "7a2c597de19dc30a223f6dbf34626746dab1d4f3c809148971c19ed16cef3f67"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System",
+      "Space Exploration"
+    ],
+    "category_ids": [
+      1,
+      10
+    ],
+    "categories_ru": [
+      "Солнечная система",
+      "Исследование космоса"
+    ],
+    "related_term_numbers": [
+      26,
+      203,
+      207,
+      244,
+      288,
+      324,
+      393
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Apollo",
+      "body": "There are two meanings of the word Apollo in astronomy. The first refers to the Apollo program that put the first human beings on the surface of the Moon. These missions were mostly powered by the Saturn V rocket. In total there were fourteen numbered missions launched (Apollo 4–17); eleven missions were crewed with nine of these going to the Moon, of which six made lunar landings with the other three orbiting the Moon. On the other hand, a group of near-Earth asteroids is also known as Apollo, named after the asteroid (1862) Apollo. This group of asteroids is characterized as having a semi-major axis greater than the Earth–Sun distance of one astronomical unit (AU) and with perihelion distances less than 1 AU. This means that during their orbits, Apollo asteroids move from inside the Earth's orbit to outside the Earth's orbit although these asteroids rarely come close to the Earth itself.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astronomical Unit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/26/",
+          "text_ru": "Астрономическая единица"
+        },
+        {
+          "text": "Moon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/203/",
+          "text_ru": "Луна"
+        },
+        {
+          "text": "Near-Earth Objects",
+          "url": "https://www.astro4edu.org/resources/glossary/term/207/",
+          "text_ru": "Околоземные объекты"
+        },
+        {
+          "text": "Perihelion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/244/",
+          "text_ru": "Перигелий"
+        },
+        {
+          "text": "Rocket",
+          "url": "https://www.astro4edu.org/resources/glossary/term/288/",
+          "text_ru": "Ракета"
+        },
+        {
+          "text": "Spacecraft",
+          "url": "https://www.astro4edu.org/resources/glossary/term/324/",
+          "text_ru": "Космический аппарат"
+        },
+        {
+          "text": "Semi-Major Axis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/393/",
+          "text_ru": "Большая полуось"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Apollo</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> There are two meanings of the word Apollo in astronomy. The first refers to the Apollo program that put the first human beings on the surface of the Moon. These missions were mostly powered by the Saturn V rocket. In total there were fourteen numbered missions launched (Apollo 4–17); eleven missions were crewed with nine of these going to the Moon, of which six made lunar landings with the other three orbiting the Moon.<br/><br/>On the other hand, a group of near-Earth asteroids is also known as Apollo, named after the asteroid (1862) Apollo. This group of asteroids is characterized as having a semi-major axis greater than the Earth–Sun distance of one astronomical unit (AU) and with perihelion distances less than 1 AU. This means that during their orbits, Apollo asteroids move from inside the Earth's orbit to outside the Earth's orbit although these asteroids rarely come close to the Earth itself.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/26/\">Astronomical Unit</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/203/\">Moon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/207/\">Near-Earth Objects</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/244/\">Perihelion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/288/\">Rocket</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/324/\">Spacecraft</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/393/\">Semi-Major Axis</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Аполлон",
+      "body_ru": "В астрономии слово «Аполлон» имеет два значения. Первое относится к программе «Аполлон», которая высадила первых людей на поверхность Луны. Эти миссии в основном использовали ракету «Сатурн V». Всего было запущено четырнадцать пронумерованных миссий («Аполлон 4–17»); одиннадцать миссий были пилотируемыми, девять из них отправились к Луне, из которых шесть совершили посадку на Луну, а три остальные вышли на орбиту вокруг Луны. С другой стороны, группа околоземных астероидов также известна как «Аполлон», названная в честь астероида (1862) Аполлон. Эта группа астероидов характеризуется большой полуосью больше расстояния Земля–Солнце, равного одной астрономической единице (а.е.), и перигелийными расстояниями менее 1 а.е. Это означает, что во время своих орбит астероиды Аполлона движутся изнутри орбиты Земли наружу за орбиту Земли, хотя эти астероиды редко приближаются к самой Земле."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/14/\">أبولو </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/14/\">Apollo </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/14/\">Apolo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/14/\">Apollo </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/14/\">Apollo </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/14/\">아폴로 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/14/\">Apollo </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/14/\">阿波罗 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/14/\">阿波羅 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/CM9lw93eU53/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.flickr.com/photos/projectapolloarchive/21039121693/in/album-72157658601662068/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zF16bo75KJ22/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://web.archive.org/web/20010309112753/http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000630.html",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:CM9lw93eU53",
+        "media:zF16bo75KJ22"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/CM9lw93eU53/\"><img alt=\"An astronaut in a white spacesuit stands on the grey lunar surface with a piece of equipment in-front of a lunar lander\" src=\"/media/multimedia/thumbnails/21039121693_eb037c2bd9_o_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Apollo 11 lunar activity</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> NASA astronaut Edwin 'Buzz' Aldrin installs a seismometer in front of the Apollo 11 Eagle lunar lander during an extravehicular activity (EVA) on the Moon. Neil Armstrong shot this photo during the first human mission to the surface of the Moon in 1969.<br/>\n<b>Credit:</b> NASA/Project Apollo Archive\n\t  <a href=\"https://www.flickr.com/photos/projectapolloarchive/21039121693/in/album-72157658601662068/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zF16bo75KJ22/\"><img alt=\"White Saturn V rocket lifting off, with smoke and fire underneath, next to the launch pad's gantry.\" src=\"/media/multimedia/thumbnails/lift-off-of-apollo-11-on-a-saturn-v-rocket_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lift-off of Apollo 11 on a Saturn V rocket</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Apollo 11 Saturn V Space vehicle lifts off with Astronauts Neil A. Armstrong, Michael Collins and Edwin E. Aldrin, Jr., at 9:32 a.m. local time on July 16, 1969, from  Launch Complex 39A at NASA's Kennedy Space Center, for the first Moon landing.<br/>\n<b>Credit:</b> NASA\n\t  <a href=\"https://web.archive.org/web/20010309112753/http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000630.html\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Apollo",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Apollo",
+          "body": "There are two meanings of the word Apollo in astronomy. The first refers to the Apollo program that put the first human beings on the surface of the Moon. These missions were mostly powered by the Saturn V rocket. In total there were fourteen numbered missions launched (Apollo 4–17); eleven missions were crewed with nine of these going to the Moon, of which six made lunar landings with the other three orbiting the Moon. On the other hand, a group of near-Earth asteroids is also known as Apollo, named after the asteroid (1862) Apollo. This group of asteroids is characterized as having a semi-major axis greater than the Earth–Sun distance of one astronomical unit (AU) and with perihelion distances less than 1 AU. This means that during their orbits, Apollo asteroids move from inside the Earth's orbit to outside the Earth's orbit although these asteroids rarely come close to the Earth itself."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Аполлон",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Аполлон",
+          "body": "В астрономии слово «Аполлон» имеет два значения. Первое относится к программе «Аполлон», которая высадила первых людей на поверхность Луны. Эти миссии в основном использовали ракету «Сатурн V». Всего было запущено четырнадцать пронумерованных миссий («Аполлон 4–17»); одиннадцать миссий были пилотируемыми, девять из них отправились к Луне, из которых шесть совершили посадку на Луну, а три остальные вышли на орбиту вокруг Луны. С другой стороны, группа околоземных астероидов также известна как «Аполлон», названная в честь астероида (1862) Аполлон. Эта группа астероидов характеризуется большой полуосью больше расстояния Земля–Солнце, равного одной астрономической единице (а.е.), и перигелийными расстояниями менее 1 а.е. Это означает, что во время своих орбит астероиды Аполлона движутся изнутри орбиты Земли наружу за орбиту Земли, хотя эти астероиды редко приближаются к самой Земле."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:CM9lw93eU53",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/21039121693_eb037c2bd9_o.jpg",
+      "record_url": "https://astro4edu.org/resources/media/CM9lw93eU53/",
+      "original_path": "data/media/original/media_CM9lw93eU53.jpg",
+      "ru_path": null,
+      "sha256": "cc1d7e01e9f476ef447256ea7d59a1cacbfc15cf46c89ff7639cfce17f9c87a6",
+      "size": 8408039,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "NASA astronauts Edwin 'Buzz' Aldrin and Neil Armstrong on the Moon during the Apollo 11 mission",
+      "short_caption_ru": "Астронавты NASA Эдвин «Базз» Олдрин и Нил Армстронг на Луне во время миссии «Аполлон» 11",
+      "caption_en": "NASA astronaut Edwin 'Buzz' Aldrin installs a seismometer in front of the Apollo 11 Eagle lunar lander during an extravehicular activity (EVA) on the Moon. Neil Armstrong shot this photo during the first human mission to the surface of the Moon in 1969.",
+      "caption_ru": "Астронавт NASA Эдвин «Базз» Олдрин устанавливает сейсмометр перед лунным модулем «Орёл» миссии «Аполлон» 11 во время внекорабельной деятельности (ВКД) на Луне. Нил Армстронг сделал этот снимок во время первой пилотируемой миссии на поверхность Луны в 1969.",
+      "alt_en": "An astronaut in a white spacesuit stands on the grey lunar surface with a piece of equipment in-front of a lunar lander",
+      "alt_ru": "Астронавт в белом скафандре стоит на серой лунной поверхности с частью оборудования перед лунным модулем",
+      "credit": "NASA/Project Apollo Archive",
+      "credit_url": "https://www.flickr.com/photos/projectapolloarchive/21039121693/in/album-72157658601662068/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        14,
+        203
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zF16bo75KJ22",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/lift-off-of-apollo-11-on-a-saturn-v-rocket.png",
+      "record_url": "https://astro4edu.org/resources/media/zF16bo75KJ22/",
+      "original_path": "data/media/original/media_zF16bo75KJ22.png",
+      "ru_path": null,
+      "sha256": "80ca4b58f136d10d69c1fb4639d5be444e93a6c260c77db56a354c41b1522a2b",
+      "size": 11913641,
+      "title_en": "Lift-off of Apollo 11 on a Saturn V rocket",
+      "title_ru": "Запуск Apollo 11 на ракете Saturn V",
+      "short_caption_en": "Lift-off of Apollo 11 on a Saturn V rocket",
+      "short_caption_ru": "Запуск Apollo 11 на ракете Saturn V",
+      "caption_en": "The Apollo 11 Saturn V Space vehicle lifts off with Astronauts Neil A. Armstrong, Michael Collins and Edwin E. Aldrin, Jr., at 9:32 a.m. local time on July 16, 1969, from  Launch Complex 39A at NASA's Kennedy Space Center, for the first Moon landing.",
+      "caption_ru": "Космический корабль Apollo 11 на ракете Saturn V стартует с астронавтами Нилом А. Армстронгом, Майклом Коллинзом и Эдвином Э. Олдрином-младшим в 9:32 по местному времени 16 июля 1969 года со стартового комплекса 39A Космического центра Кеннеди NASA для первой высадки на Луну.",
+      "alt_en": "White Saturn V rocket lifting off, with smoke and fire underneath, next to the launch pad's gantry.",
+      "alt_ru": "Белая ракета Saturn V взлетает, под ней дым и огонь, рядом с фермой стартового комплекса.",
+      "credit": "NASA",
+      "credit_url": "https://web.archive.org/web/20010309112753/http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000630.html",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        14,
+        203
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

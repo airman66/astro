@@ -1,0 +1,331 @@
+{
+  "id": "term:326",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 326,
+    "url": "https://astro4edu.org/resources/glossary/term/326/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=326",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:54.138317+00:00",
+    "sha256": "7d98c7933521f0a22a32dbd57295043e77b54db3542146ee697b308e3577112a"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Chemistry",
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      12,
+      3
+    ],
+    "categories_ru": [
+      "Химия",
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": 328,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Spectrum",
+      "body": "A rainbow forms when water droplets split light into elementary colors, from violet, blue, and green, to yellow, orange, and red. Each color corresponds to a range of wavelengths, and the rainbow colors are arranged in order of increasing wavelength from violet to red. This kind of decomposed light, or electromagnetic radiation in general, into different wavelengths is called a spectrum. Electromagnetic radiation is a mixture of light particles called \"photons\". Creating a spectrum amounts to sorting photons by energy and documenting how many photons there are in each given energy range. By a basic law of quantum mechanics, this is equivalent to sorting light by frequency – yet another way of documenting a spectrum. If the amount of energy varies smoothly with wavelength (or photon energy, or frequency), the spectrum is called continuous. In contrast, sharp dips or peaks in a spectrum at certain wavelengths are called absorption and emission lines, respectively. Such lines arise due to transitions between different energy levels within atoms or molecules (or even atomic nuclei), either absorbing or emitting radiation at specific wavelengths. For example, in visible light, stars show continuous spectra with absorption lines. The lines carry information about a star's chemical composition. The analysis of spectra is known as spectroscopy; instruments that allow for the recording of spectra are called spectroscopes, spectrometers, or spectrographs.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Atom",
+          "url": "https://www.astro4edu.org/resources/glossary/term/31/",
+          "text_ru": "Атом"
+        },
+        {
+          "text": "Electromagnetic Radiation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/96/",
+          "text_ru": "Электромагнитное излучение"
+        },
+        {
+          "text": "Frequency",
+          "url": "https://www.astro4edu.org/resources/glossary/term/112/",
+          "text_ru": "Частота"
+        },
+        {
+          "text": "Rainbow",
+          "url": "https://www.astro4edu.org/resources/glossary/term/275/",
+          "text_ru": "Радуга"
+        },
+        {
+          "text": "Wavelength",
+          "url": "https://www.astro4edu.org/resources/glossary/term/382/",
+          "text_ru": "Длина волны"
+        },
+        {
+          "text": "Electron",
+          "url": "https://www.astro4edu.org/resources/glossary/term/441/",
+          "text_ru": "Электрон"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Spectrum</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Spectrograph</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A rainbow forms when water droplets split light into elementary colors, from violet, blue, and green, to yellow, orange, and red. Each color corresponds to a range of wavelengths, and the rainbow colors are arranged in order of increasing wavelength from violet to red. This kind of decomposed light, or electromagnetic radiation in general, into different wavelengths is called a spectrum.<br/><br/>Electromagnetic radiation is a mixture of light particles called \"photons\". Creating a spectrum amounts to sorting photons by energy and documenting how many photons there are in each given energy range. By a basic law of quantum mechanics, this is equivalent to sorting light by frequency – yet another way of documenting a spectrum.<br/><br/>If the amount of energy varies smoothly with wavelength (or photon energy, or frequency), the spectrum is called continuous. In contrast, sharp dips or peaks in a spectrum at certain wavelengths are called absorption and emission lines, respectively. Such lines arise due to transitions between different energy levels within atoms or molecules (or even atomic nuclei), either absorbing or emitting radiation at specific wavelengths. For example, in visible light, stars show continuous spectra with absorption lines. The lines carry information about a star's chemical composition. The analysis of spectra is known as spectroscopy; instruments that allow for the recording of spectra are called spectroscopes, spectrometers, or spectrographs.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/31/\">Atom</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/96/\">Electromagnetic Radiation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/112/\">Frequency</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/275/\">Rainbow</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/382/\">Wavelength</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/441/\">Electron</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Спектр",
+      "body_ru": "Радуга образуется, когда капли воды разлагают свет на элементарные цвета — от фиолетового, синего и зелёного до жёлтого, оранжевого и красного. Каждый цвет соответствует диапазону длин волн, и цвета радуги расположены в порядке возрастания длины волны от фиолетового к красному. Такой разложенный свет, или электромагнитное излучение в целом, на различные длины волн называется спектром. Электромагнитное излучение представляет собой смесь частиц света, называемых «фотонами». Создание спектра сводится к сортировке фотонов по энергии и документированию того, сколько фотонов приходится на каждый заданный диапазон энергий. По основному закону квантовой механики это эквивалентно сортировке света по частоте — ещё одному способу документирования спектра. Если количество энергии плавно меняется с длиной волны (или энергией фотона, или частотой), спектр называется непрерывным. Напротив, резкие провалы или пики в спектре на определённых длинах волн называются линиями поглощения и излучения соответственно. Такие линии возникают из-за переходов между различными уровнями энергии внутри атомов или молекул (или даже атомных ядер), которые либо поглощают, либо излучают излучение на определённых длинах волн. Например, в видимом свете звёзды показывают непрерывные спектры с линиями поглощения. Линии несут информацию о химическом составе звезды. Анализ спектров известен как спектроскопия; инструменты, позволяющие регистрировать спектры, называются спектроскопами, спектрометрами или спектрографами."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "スペクトル (external link)",
+          "url": "https://astro-dic.jp/spectrum/",
+          "text_ru": "Спектр (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/328/\">الطيف </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/328/\">Spektrum </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/328/\">Espectro </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/328/\">Spectre </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/328/\">Spettro </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/spectrum/\">スペクトル (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/328/\">वर्णपट </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/328/\">Espectro </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/328/\">光谱 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/328/\">光譜 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/de987v91l488/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/de987v91l488/\"><img alt=\"A composite showing four rainbows. Each is centred on different points\" src=\"/media/multimedia/thumbnails/24-hours-of-rainbow_thumbnail_HgdeGOq.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">24 Hours of Rainbow</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\n\nThis panoramic view taken with a smartphone of Livorno, Italy, showcases a series of vivid rainbows captured on three different days in December 2021. Rainbows are the result of sunlight being refracted by water droplets suspended in the air, typically after rainfall or during misty conditions. The water droplets act like a prism, breaking up (refracting) the sunlight into the various colours. The different wavelengths of light are refracted by different amounts, which is why we see this layering of colours. The photographer skillfully merged the most remarkable shots taken on different days to highlight the diverse sizes and brilliance of these rainbows. The locations at which the rainbows appear to be centred are different because each rainbow appeared when the Sun was at a different position in the sky. This composite image beautifully captures the transient yet mesmerising allure of rainbows, illustrating their fleeting appearance and gradual dissipation influenced by the shifting atmospheric conditions.<br/>\n<b>Credit:</b> Fabrizio Guasconi/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/m5801x5SA50/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/QF74Q764Tb95/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/2149RS77wy92/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/zY580V14PE47/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/mX21es50Pj16/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all diagrams for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Spectrum&page=1&language_choice=en&file_type=dia&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все диаграммы для этого термина"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/m5801x5SA50/\"><img alt=\"A smooth line declining at longer wavelengths with a few sharp dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-an-o-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of an O-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the O-type star HD 235673 with wavelength in nanometers on the x-axis and flux on the y-axis. The top part of the plot shows the same spectrum but with bright patches for wavelengths with high flux and dark patches for wavelengths with low flux. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. For O-type stars the most important features are a small number of lines caused by ionized helium. These lines are stronger in O-type stars than in cooler stars. Lines from helium atoms and hydrogen atoms also appear in the spectrum. The spectrum has more flux at the blue end of the spectrum than at the red end of the spectrum.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/QF74Q764Tb95/\"><img alt=\"A smooth line declining at longer wavelengths with a few sharp dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-a-b-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of a B-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the B-type star HD 258982. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. For B-type stars the most important lines are caused by helium atoms. These lines are strongest in B-type stars and weaker in hotter and cooler types. Lines from hydrogen atoms are also present but are not as strong as in cooler A-type stars.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/2149RS77wy92/\"><img alt=\"A smooth line peaking about 420 nm then declining at longer wavelengths with a few fairly broad dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-an-a-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of an A-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the A-type star BD-11 1212. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. Lines from hydrogen atoms dominate the spectra of A-type stars and are strongest at this spectral type.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/zY580V14PE47/\"><img alt=\"A relatively smooth line peaking about 430 nm then declining at longer wavelengths with a few fairly broad dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-an-f-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of an F-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the F-type star 2MASS J22243289+4937443. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. The lines from hydrogen atoms that are strongest in A-type stars are still relatively strong in F-type stars but lines from metals, particularly ionised calcium begin to become strong at this spectral type.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/mX21es50Pj16/\"><img alt=\"A quite ragged line peaking about 470 nm then declining at longer wavelengths with a few deeper dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-a-g-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of a G-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the G-type star UCAC4 700-069569. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. In G-type stars lines from hydrogen atoms are weaker than in F-type stars and lines from ionised calcium stronger. Lines from metal atoms such as atoms of iron, sodium and calcium also begin to become prominent.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Spectrum&amp;page=1&amp;language_choice=en&amp;file_type=dia&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all diagrams <br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Hunting for spectra astroEDU educational activity (links to astroEDU website) Description: Learn about light and spectra building a spectroscope with a CD! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Experiment \n  \n  , prism Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Informal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning Costs: Low Cost Duration: 1 hour Group Size: Individual Skills: Asking questions \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations Reading the Rainbow astroEDU educational activity (links to astroEDU website) Description: By understanding how rainbows work, you can discover about light and its properties, learning about stars, nebulae, galaxies, and our Universe. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School \n  \n, Secondary \n  \n, University Areas of Learning: Interactive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence Find the hidden rainbows astroEDU educational activity (links to astroEDU website) Description: Let’s reveal hidden rainbows around us and the physical processes that make them! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Spectrum&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/hunting-for-spectra/\"><img alt=\"Hunting for spectra\" src=\"/media/astroedu/images/hunting-for-spectra_en_thumbnail_Q33gTXB.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/hunting-for-spectra/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hunting for spectra</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn about light and spectra building a spectroscope with a CD!\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Experiment \n  \n  , prism \n  \n  \n\n  <b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nIndividual \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/reading-the-rainbow/\"><img alt=\"Reading the Rainbow\" src=\"/media/astroedu/images/reading-the-rainbow_en_thumbnail_l7aHVAc.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/reading-the-rainbow/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Reading the Rainbow</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>By understanding how rainbows work, you can discover about light and its properties, learning about stars, nebulae, galaxies, and our Universe.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Middle School \n  \n, Secondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/find-the-hidden-rainbows/\"><img alt=\"Find the hidden rainbows\" src=\"/media/astroedu/images/find-the-hidden-rainbows_en_thumbnail_YpTvhGV.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/find-the-hidden-rainbows/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Find the hidden rainbows</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let’s reveal hidden rainbows around us and the physical processes that make them!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Spectrum&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Охота за спектрами образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о свете и спектрах, построив спектроскоп из CD! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Эксперимент \n  \n  , призма Возрастные диапазоны: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Начальная школа \n  \n, Среднее образование Области обучения: Обучение через исследование с руководством Стоимость: Низкая стоимость Продолжительность: 1 час Размер группы: Индивидуально Навыки: Задавание вопросов \n  \n, Построение объяснений \n  \n, Планирование и проведение исследований Чтение радуги образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Понимая, как работают радуги, вы можете узнать о свете и его свойствах, изучая звёзды, туманности, галактики и нашу Вселенную. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Среднее образование \n  \n, Университет Области обучения: Интерактивная лекция \n  \n, На основе наблюдений \n  \n, Структурированное исследовательское обучение Стоимость: Низкая стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Участие в аргументации на основе доказательств Найдите скрытые радуги образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте раскроем скрытые радуги вокруг нас и физические процессы, которые их создают! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Среднее образование Области обучения: Интерактивная лекция \n  \n, На основе наблюдений \n  \n, Структурированное исследовательское обучение Стоимость: Средняя стоимость Продолжительность: 1 час Просмотреть все мероприятия по этой теме"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Spectrograph",
+      "aliases": [
+        "Spectrometer",
+        "spectroscope"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Spectrum",
+          "body": "A rainbow forms when water droplets split light into elementary colors, from violet, blue, and green, to yellow, orange, and red. Each color corresponds to a range of wavelengths, and the rainbow colors are arranged in order of increasing wavelength from violet to red. This kind of decomposed light, or electromagnetic radiation in general, into different wavelengths is called a spectrum. Electromagnetic radiation is a mixture of light particles called \"photons\". Creating a spectrum amounts to sorting photons by energy and documenting how many photons there are in each given energy range. By a basic law of quantum mechanics, this is equivalent to sorting light by frequency – yet another way of documenting a spectrum. If the amount of energy varies smoothly with wavelength (or photon energy, or frequency), the spectrum is called continuous. In contrast, sharp dips or peaks in a spectrum at certain wavelengths are called absorption and emission lines, respectively. Such lines arise due to transitions between different energy levels within atoms or molecules (or even atomic nuclei), either absorbing or emitting radiation at specific wavelengths. For example, in visible light, stars show continuous spectra with absorption lines. The lines carry information about a star's chemical composition. The analysis of spectra is known as spectroscopy; instruments that allow for the recording of spectra are called spectroscopes, spectrometers, or spectrographs."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Hunting for spectra astroEDU educational activity (links to astroEDU website) Description: Learn about light and spectra building a spectroscope with a CD! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Experiment \n  \n  , prism Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Informal \n  \n, Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Guided-discovery learning Costs: Low Cost Duration: 1 hour Group Size: Individual Skills: Asking questions \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations Reading the Rainbow astroEDU educational activity (links to astroEDU website) Description: By understanding how rainbows work, you can discover about light and its properties, learning about stars, nebulae, galaxies, and our Universe. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Middle School \n  \n, Secondary \n  \n, University Areas of Learning: Interactive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Engaging in argument from evidence Find the hidden rainbows astroEDU educational activity (links to astroEDU website) Description: Let’s reveal hidden rainbows around us and the physical processes that make them! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 Education Level: Middle School \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Observation based \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Спектрограф",
+      "aliases": [
+        "Спектрометр",
+        "спектроскоп"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Спектр",
+          "body": "Радуга образуется, когда капли воды разлагают свет на элементарные цвета — от фиолетового, синего и зелёного до жёлтого, оранжевого и красного. Каждый цвет соответствует диапазону длин волн, и цвета радуги расположены в порядке возрастания длины волны от фиолетового к красному. Такой разложенный свет, или электромагнитное излучение в целом, на различные длины волн называется спектром. Электромагнитное излучение представляет собой смесь частиц света, называемых «фотонами». Создание спектра сводится к сортировке фотонов по энергии и документированию того, сколько фотонов приходится на каждый заданный диапазон энергий. По основному закону квантовой механики это эквивалентно сортировке света по частоте — ещё одному способу документирования спектра. Если количество энергии плавно меняется с длиной волны (или энергией фотона, или частотой), спектр называется непрерывным. Напротив, резкие провалы или пики в спектре на определённых длинах волн называются линиями поглощения и излучения соответственно. Такие линии возникают из-за переходов между различными уровнями энергии внутри атомов или молекул (или даже атомных ядер), которые либо поглощают, либо излучают излучение на определённых длинах волн. Например, в видимом свете звёзды показывают непрерывные спектры с линиями поглощения. Линии несут информацию о химическом составе звезды. Анализ спектров известен как спектроскопия; инструменты, позволяющие регистрировать спектры, называются спектроскопами, спектрометрами или спектрографами."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Охота за спектрами образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о свете и спектрах, построив спектроскоп из CD! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Эксперимент \n  \n  , призма Возрастные диапазоны: 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Начальная школа \n  \n, Среднее образование Области обучения: Обучение через исследование с руководством Стоимость: Низкая стоимость Продолжительность: 1 час Размер группы: Индивидуально Навыки: Задавание вопросов \n  \n, Построение объяснений \n  \n, Планирование и проведение исследований Чтение радуги образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Понимая, как работают радуги, вы можете узнать о свете и его свойствах, изучая звёзды, туманности, галактики и нашу Вселенную. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Средняя школа \n  \n, Среднее образование \n  \n, Университет Области обучения: Интерактивная лекция \n  \n, На основе наблюдений \n  \n, Структурированное исследовательское обучение Стоимость: Низкая стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Участие в аргументации на основе доказательств Найдите скрытые радуги образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте раскроем скрытые радуги вокруг нас и физические процессы, которые их создают! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 Уровень образования: Средняя школа \n  \n, Среднее образование Области обучения: Интерактивная лекция \n  \n, На основе наблюдений \n  \n, Структурированное исследовательское обучение Стоимость: Средняя стоимость Продолжительность: 1 час Просмотреть все мероприятия по этой теме"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

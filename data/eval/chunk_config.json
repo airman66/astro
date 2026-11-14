@@ -1,0 +1,34 @@
+{
+  "reason": "The imported corpus has glossary terms and captions, no long-form articles. Every definition and caption remains an indivisible chunk at all candidate budgets.",
+  "candidates": [
+    {
+      "budget_tokens": 250,
+      "overlap": 0,
+      "chunks": 1930,
+      "identical_to_250_0": true
+    },
+    {
+      "budget_tokens": 250,
+      "overlap": 0.1,
+      "chunks": 1930,
+      "identical_to_250_0": true
+    },
+    {
+      "budget_tokens": 400,
+      "overlap": 0.1,
+      "chunks": 1930,
+      "identical_to_250_0": true
+    },
+    {
+      "budget_tokens": 600,
+      "overlap": 0.15,
+      "chunks": 1930,
+      "identical_to_250_0": true
+    }
+  ],
+  "selected": {
+    "budget_tokens": 400,
+    "overlap": 0.1
+  },
+  "selected_retrieval_report": "report.json"
+}

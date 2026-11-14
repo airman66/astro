@@ -1,0 +1,202 @@
+{
+  "id": "term:372",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 372,
+    "url": "https://astro4edu.org/resources/glossary/term/372/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=372",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:06.444571+00:00",
+    "sha256": "e4b682e67c14dfc47117ad6976c4ba985c2f45ce55513d975cdec9516377721c"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "The Sun"
+    ],
+    "category_ids": [
+      4,
+      5
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      243,
+      310,
+      475
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Umbra",
+      "body": "Umbra is Latin for \"shadow\". In the context of eclipses, the umbra is that region of space where an observer sees the one body block the other's light completely. For a solar eclipse, for instance, any observer in the umbra will see the Sun's disk covered completely by the disk of the Moon. An observer located in the penumbra region, on the other hand, will only see a partial eclipse – in the case of a solar eclipse, the Sun's disk covered only partially by the Moon. If an observer sees the covering object as too small to cover the object behind it completely, as in an annular solar eclipse, the observer is said to be in the antumbra. Alternate meaning: the inner, darker region of a sunspot is called its umbra, the surrounding less dark region its penumbra.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Penumbra",
+          "url": "https://www.astro4edu.org/resources/glossary/term/243/",
+          "text_ru": "Полутень"
+        },
+        {
+          "text": "Solar Eclipse",
+          "url": "https://www.astro4edu.org/resources/glossary/term/310/",
+          "text_ru": "Солнечное затмение"
+        },
+        {
+          "text": "Shadow",
+          "url": "https://www.astro4edu.org/resources/glossary/term/475/",
+          "text_ru": "Тень"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Umbra</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Umbra is Latin for \"shadow\". In the context of eclipses, the umbra is that region of space where an observer sees the one body block the other's light completely. For a solar eclipse, for instance, any observer in the umbra will see the Sun's disk covered completely by the disk of the Moon. An observer located in the penumbra region, on the other hand, will only see a partial eclipse – in the case of a solar eclipse, the Sun's disk covered only partially by the Moon. If an observer sees the covering object as too small to cover the object behind it completely, as in an annular solar eclipse, the observer is said to be in the antumbra. Alternate meaning: the inner, darker region of a sunspot is called its umbra, the surrounding less dark region its penumbra.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/243/\">Penumbra</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/310/\">Solar Eclipse</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/475/\">Shadow</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Умбра",
+      "body_ru": "Умбра — латинское слово, означающее «тень». В контексте затмений умбра — это та область пространства, где наблюдатель видит, как одно тело полностью блокирует свет другого. Например, при солнечном затмении любой наблюдатель в умбре увидит, что диск Солнца полностью закрыт диском Луны. Наблюдатель, находящийся в области полутени, напротив, увидит только частное затмение — в случае солнечного затмения диск Солнца будет закрыт Луной лишь частично. Если наблюдатель видит, что закрывающий объект слишком мал, чтобы полностью закрыть объект за ним, как при кольцеобразном солнечном затмении, говорят, что наблюдатель находится в антиумбре. Другое значение: внутренняя, более тёмная область солнечного пятна называется его умброй, а окружающая менее тёмная область — полутенью."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/372/\">الظل التام </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/372/\">Umbra </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/372/\">Umbra </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/372/\">آمبرا (سایه کامل) </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/372/\">Ombre </a></span></li>\n<li><b>Indonesian: </b><span dir=\"LTR\" lang=\"id\"><a class=\"link-bold\" href=\"/id/resources/glossary/term/372/\">Umbra </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/372/\">Cono d'ombra </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/372/\">Umbra </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/372/\">本影 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/372/\">本影 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/6464Zx69Rv2/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:6464Zx69Rv2"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/6464Zx69Rv2/\"><img alt=\"The Moon lies between the Sun and Earth casts a small shadow and large partial shadow\" src=\"/media/diagrams/multimedia/thumbnails/Total_Solar_Eclipse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Total Solar Eclipse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This not to scale diagram shows what happens during a total solar eclipse. The Moon orbits the Earth, but its orbit is slightly tilted with respect to the Earth’s orbit around the Sun. During the new moon lunar phase, the Moon lies between the Earth and the Sun, but due to the Moon’s tilted orbit around the Earth, the Moon normally lies above or below the Sun at this point. However twice a year the Moon’s orbit lines up in such a way that the Moon can lie in a direct line between the Earth and Sun. During each of these periods (each of which last roughly a month) solar (and lunar) eclipses can occur. The Moon is about 400 times smaller than the Sun, but is 400 times closer to the Earth than the Sun. Hence the Sun and Moon have approximately the same angular size when viewed from the Earth. This means that it is possible for the Moon to completely cover the Sun when viewed from Earth. This is known as a total solar eclipse. \n\nHere we see a schematic of such and eclipse. The Moon casts a shadow on the Earth known as the umbra. This is a roughly circular shadow a few hundred kilometres across although its shape can be severely distorted when the eclipse is at the edge of the illuminated part of the Earth. Any region within the umbra will see the Moon completely cover the Sun and thus will experience a total solar eclipse. Outside of the umbra there are regions where the Moon will cover part of the Sun. This partial shadow is known as the penumbra. Regions in the penumbra will experience a partial solar eclipse.\n\nAn eclipse is a dynamic event with the Moon moving in its orbit and the Earth rotating. Hence the umbra and penumbra move across the Earth’s surface together. The path the umbra takes across the Earth is known as the path of totality. Let’s consider one particular region that lies in the path of totality: except in rare cases where an eclipse begins at sunrise, a region that experiences totality will first see the Moon cover part of the Sun and gradually move across Sun until it is totally covered. From outside the Earth this would appear as the penumbra moving over this particular region followed by the umbra moving over this region. Once the Moon moves so that it no longer completely covers the Sun, totality ends and the umbra moves away from this particular region. The Moon will continue to uncover the Sun until (unless the Sun sets before the end of the eclipse) the Sun is completely uncovered. From outside the Earth this would appear as the umbra moving away from our particular region and the edge of the penumbra approaching and eventually passing over the region. \n\nOutside of the path or totality there is a much broader region that will lie in the penumbra but will be missed by the umbra. Such regions will not experience a total solar eclipse during this event, only a partial solar eclipse.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Umbra",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Umbra",
+          "body": "Umbra is Latin for \"shadow\". In the context of eclipses, the umbra is that region of space where an observer sees the one body block the other's light completely. For a solar eclipse, for instance, any observer in the umbra will see the Sun's disk covered completely by the disk of the Moon. An observer located in the penumbra region, on the other hand, will only see a partial eclipse – in the case of a solar eclipse, the Sun's disk covered only partially by the Moon. If an observer sees the covering object as too small to cover the object behind it completely, as in an annular solar eclipse, the observer is said to be in the antumbra. Alternate meaning: the inner, darker region of a sunspot is called its umbra, the surrounding less dark region its penumbra."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Тень",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Умбра",
+          "body": "Умбра — латинское слово, означающее «тень». В контексте затмений умбра — это та область пространства, где наблюдатель видит, как одно тело полностью блокирует свет другого. Например, при солнечном затмении любой наблюдатель в умбре увидит, что диск Солнца полностью закрыт диском Луны. Наблюдатель, находящийся в области полутени, напротив, увидит только частное затмение — в случае солнечного затмения диск Солнца будет закрыт Луной лишь частично. Если наблюдатель видит, что закрывающий объект слишком мал, чтобы полностью закрыть объект за ним, как при кольцеобразном солнечном затмении, говорят, что наблюдатель находится в антиумбре. Другое значение: внутренняя, более тёмная область солнечного пятна называется его умброй, а окружающая менее тёмная область — полутенью."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:6464Zx69Rv2",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Total_Solar_Eclipse.png",
+      "record_url": "https://astro4edu.org/resources/diagram/6464Zx69Rv2/",
+      "original_path": "data/media/original/diagram_6464Zx69Rv2.png",
+      "ru_path": "data/media/ru/diagram_6464Zx69Rv2.png",
+      "sha256": "1dfdabbe7616027e5fd98a9a9614c794939c996fe8ba0fb9e0bc8133c4208656",
+      "size": 2063193,
+      "title_en": "Total Solar Eclipse",
+      "title_ru": "Полное солнечное затмение",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This not to scale diagram shows what happens during a total solar eclipse. The Moon orbits the Earth, but its orbit is slightly tilted with respect to the Earth’s orbit around the Sun. During the new moon lunar phase, the Moon lies between the Earth and the Sun, but due to the Moon’s tilted orbit around the Earth, the Moon normally lies above or below the Sun at this point. However twice a year the Moon’s orbit lines up in such a way that the Moon can lie in a direct line between the Earth and Sun. During each of these periods (each of which last roughly a month) solar (and lunar) eclipses can occur. The Moon is about 400 times smaller than the Sun, but is 400 times closer to the Earth than the Sun. Hence the Sun and Moon have approximately the same angular size when viewed from the Earth. This means that it is possible for the Moon to completely cover the Sun when viewed from Earth. This is known as a total solar eclipse. \r\n\r\nHere we see a schematic of such and eclipse. The Moon casts a shadow on the Earth known as the umbra. This is a roughly circular shadow a few hundred kilometres across although its shape can be severely distorted when the eclipse is at the edge of the illuminated part of the Earth. Any region within the umbra will see the Moon completely cover the Sun and thus will experience a total solar eclipse. Outside of the umbra there are regions where the Moon will cover part of the Sun. This partial shadow is known as the penumbra. Regions in the penumbra will experience a partial solar eclipse.\r\n\r\nAn eclipse is a dynamic event with the Moon moving in its orbit and the Earth rotating. Hence the umbra and penumbra move across the Earth’s surface together. The path the umbra takes across the Earth is known as the path of totality. Let’s consider one particular region that lies in the path of totality: except in rare cases where an eclipse begins at sunrise, a region that experiences totality will first see the Moon cover part of the Sun and gradually move across Sun until it is totally covered. From outside the Earth this would appear as the penumbra moving over this particular region followed by the umbra moving over this region. Once the Moon moves so that it no longer completely covers the Sun, totality ends and the umbra moves away from this particular region. The Moon will continue to uncover the Sun until (unless the Sun sets before the end of the eclipse) the Sun is completely uncovered. From outside the Earth this would appear as the umbra moving away from our particular region and the edge of the penumbra approaching and eventually passing over the region. \r\n\r\nOutside of the path or totality there is a much broader region that will lie in the penumbra but will be missed by the umbra. Such regions will not experience a total solar eclipse during this event, only a partial solar eclipse.",
+      "caption_ru": "Эта схема (не в масштабе) показывает, что происходит во время полного солнечного затмения. Луна обращается вокруг Земли, но её орбита слегка наклонена по отношению к орбите Земли вокруг Солнца. В фазе новолуния Луна находится между Землёй и Солнцем, но из-за наклонной орбиты Луны вокруг Земли в этот момент Луна обычно находится выше или ниже Солнца. Однако дважды в год орбита Луны выстраивается таким образом, что Луна может оказаться на прямой линии между Землёй и Солнцем. В каждый из этих периодов (каждый длится примерно месяц) могут происходить солнечные (и лунные) затмения. Луна примерно в 400 раз меньше Солнца, но в 400 раз ближе к Земле, чем Солнце. Поэтому Солнце и Луна имеют примерно одинаковый угловой размер при наблюдении с Земли. Это означает, что Луна может полностью закрыть Солнце при наблюдении с Земли. Это называется полным солнечным затмением.\r\n\r\nЗдесь мы видим схему такого затмения. Луна отбрасывает на Землю тень, называемую умброй. Это примерно круглая тень диаметром в несколько сотен километров, хотя её форма может сильно искажаться, когда затмение происходит на краю освещённой части Земли. Любая область внутри умбры увидит, как Луна полностью закрывает Солнце, и, таким образом, испытает полное солнечное затмение. Вне умбры есть области, где Луна закроет часть Солнца. Эта частичная тень называется полутенью. Области в полутени испытают частное солнечное затмение.\r\n\r\nЗатмение — это динамическое событие: Луна движется по своей орбите, а Земля вращается. Поэтому умбра и полутень перемещаются по поверхности Земли вместе. Путь, который умбра проходит по Земле, называется полосой полного затмения. Рассмотрим одну конкретную область, лежащую в полосе полного затмения: за исключением редких случаев, когда затмение начинается на восходе Солнца, область, испытывающая полную фазу, сначала увидит, как Луна закрывает часть Солнца и постепенно перемещается по Солнцу, пока оно не будет полностью закрыто. С точки вне Земли это выглядело бы как перемещение полутени по этой конкретной области, а затем умбры по этой области. Как только Луна переместится так, что больше не будет полностью закрывать Солнце, полная фаза заканчивается, и умбра уходит из этой конкретной области. Луна будет продолжать открывать Солнце, пока (если Солнце не зайдёт до окончания затмения) Солнце не откроется полностью. С точки вне Земли это выглядело бы как удаление умбры от нашей конкретной области и приближение края полутени, которая в конечном итоге пройдёт над областью.\r\n\r\nВне полосы полного затмения есть гораздо более широкая область, которая будет находиться в полутени, но не будет затронута умброй. Такие области не испытают полного солнечного затмения во время этого события, только частное солнечное затмение.",
+      "alt_en": "The Moon lies between the Sun and Earth casts a small shadow and large partial shadow",
+      "alt_ru": "Луна находится между Солнцем и Землёй, отбрасывая небольшую тень и большую частичную тень",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        182,
+        203,
+        215,
+        240,
+        243,
+        310,
+        342,
+        365,
+        372
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "d6b95600091f361aa85163bca12eddeba7613faf754562a01c1a81ea6e0a5e26"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

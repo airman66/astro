@@ -1,0 +1,196 @@
+{
+  "id": "term:533",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 533,
+    "url": "https://astro4edu.org/resources/glossary/term/533/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=533",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:56.431720+00:00",
+    "sha256": "37fe37b3cc2bfabda04e891174e3fbc61d6c3da934050ab85dc776710852c0c3"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": 532,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Culmination",
+      "body": "In astronomy, culmination refers to the moment where a celestial object passes through the observer's local meridian. When a celestial object in the sky crosses the meridian it is at either its highest or lowest point in the sky. From the observer's perspective the celestial sphere appears to rotate around the Earth. This means that celestial objects on the sky follow a circular path during the course of a day. Most objects rise in the east, move higher in the sky until they cross the meridian, and then move lower in the sky to set in the west. Circumpolar objects are objects that are close enough to one of the celestial poles that an observer could see their full circular path over one sidereal day (a little less than 24 hours). In all cases the highest point in the sky a celestial object reaches is when it crosses the meridian. The instant when it reaches this highest point is referred to as its upper culmination. Twelve (sidereal) hours later, when the object is at its lowest point in the sky (often this is below the horizon), this instant is referred to as its lower culmination. As culmination is the moment when a celestial object crosses the observer's local meridian it is often referred to as a meridian transit or meridian passage. The hour angle on the sky is defined relative to the observer's local meridian, hence by definition upper culmination happens at an hour angle of zero and lower culmination happens at an hour angle of 12 hours.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Celestial Body",
+          "url": "https://www.astro4edu.org/resources/glossary/term/49/",
+          "text_ru": "Небесное тело"
+        },
+        {
+          "text": "Circumpolar Stars",
+          "url": "https://www.astro4edu.org/resources/glossary/term/56/",
+          "text_ru": "Околополярные звёзды"
+        },
+        {
+          "text": "Hour Angle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/147/",
+          "text_ru": "Часовой угол"
+        },
+        {
+          "text": "Meridian",
+          "url": "https://www.astro4edu.org/resources/glossary/term/193/",
+          "text_ru": "Меридиан"
+        },
+        {
+          "text": "Sidereal Day",
+          "url": "https://www.astro4edu.org/resources/glossary/term/490/",
+          "text_ru": "Звёздные сутки"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Culmination</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Upper Culmination</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In astronomy, culmination refers to the moment where a celestial object passes through the observer's local meridian. When a celestial object in the sky crosses the meridian it is at either its highest or lowest point in the sky.<br/><br/>From the observer's perspective the celestial sphere appears to rotate around the Earth. This means that celestial objects on the sky follow a circular path during the course of a day. Most objects rise in the east, move higher in the sky until they cross the meridian, and then move lower in the sky to set in the west. Circumpolar objects are objects that are close enough to one of the celestial poles that an observer could see their full circular path over one sidereal day (a little less than 24 hours). In all cases the highest point in the sky a celestial object reaches is when it crosses the meridian. The instant when it reaches this highest point is referred to as its upper culmination. Twelve (sidereal) hours later, when the object is at its lowest point in the sky (often this is below the horizon), this instant is referred to as its lower culmination.<br/><br/>As culmination is the moment when a celestial object crosses the observer's local meridian it is often referred to as a meridian transit or meridian passage. The hour angle on the sky is defined relative to the observer's local meridian, hence by definition upper culmination happens at an hour angle of zero and lower culmination happens at an hour angle of 12 hours.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/49/\">Celestial Body</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/56/\">Circumpolar Stars</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/147/\">Hour Angle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/193/\">Meridian</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/490/\">Sidereal Day</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Кульминация",
+      "body_ru": "В астрономии кульминация — это момент, когда небесный объект проходит через местный меридиан наблюдателя. Когда небесный объект на небе пересекает меридиан, он находится либо в своей высшей, либо в низшей точке на небе. С точки зрения наблюдателя небесная сфера, по-видимому, вращается вокруг Земли. Это означает, что небесные объекты на небе следуют по круговому пути в течение суток. Большинство объектов восходят на востоке, поднимаются выше по небу, пока не пересекут меридиан, а затем опускаются ниже по небу, чтобы зайти на западе. Околополярные объекты — это объекты, достаточно близкие к одному из небесных полюсов, так что наблюдатель мог бы видеть их полный круговой путь за одни звёздные сутки (немного меньше 24 часов). Во всех случаях высшая точка на небе, которую достигает небесный объект, — это когда он пересекает меридиан. Момент, когда он достигает этой высшей точки, называется его верхней кульминацией. Двенадцать (звёздных) часов спустя, когда объект находится в своей низшей точке на небе (часто это ниже горизонта), этот момент называется его нижней кульминацией. Поскольку кульминация — это момент, когда небесный объект пересекает местный меридиан наблюдателя, её часто называют прохождением через меридиан или меридианным прохождением. Часовой угол на небе определяется относительно местного меридиана наблюдателя, поэтому по определению верхняя кульминация происходит при часовом угле, равном нулю, а нижняя кульминация происходит при часовом угле 12 часов."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/532/\">الذروة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/532/\">Kulmination </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/532/\">Culminación </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/532/\">Culmination </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/532/\">Culmine </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/532/\">남중 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/532/\">Culminação </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/532/\">中天 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/532/\">中天 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/aY24Vq40ml2/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:aY24Vq40ml2"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/aY24Vq40ml2/\"><img alt=\"A dark sky over a dry desert landscape. The brightest star in the image is rising on the lower left\" src=\"/media/multimedia/thumbnails/The_Culmination_of_Canopus.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Culmination of Canopus</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Time lapses of celestial patterns.\n\n \n\nThis time-lapse video was shot in January 2018 from the Joshua Tree National Park, USA, and follows the path of Canopus, the second-brightest star in the night sky, as it moves from left to right, almost touching the horizon. The landscape is illuminated by the Moon. \n\nCanopus is associated with the rudder of the ancient Argo constellation, the Ship, nowadays split into the three modern constellations Vela, Puppis and Carina, the last of which contains Canopus.\n\nOwing to its brightness, Canopus has caught the attention of several cultures around the world throughout history. For instance, the Navajo people of North America named the star as the Coyote, and say that the coyote took part in the creation of the Universe. The Kalapalo people of Brazil associated Canopus with a duck, with other bright stars making up the body parts of the animal. The appearance of Canopus in the sky indicates the coming of the rainy season.<br/>\n<b>Credit:</b> Fabrizio Melandri/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Upper Culmination",
+      "aliases": [
+        "Culmination Above Pole"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Culmination",
+          "body": "In astronomy, culmination refers to the moment where a celestial object passes through the observer's local meridian. When a celestial object in the sky crosses the meridian it is at either its highest or lowest point in the sky. From the observer's perspective the celestial sphere appears to rotate around the Earth. This means that celestial objects on the sky follow a circular path during the course of a day. Most objects rise in the east, move higher in the sky until they cross the meridian, and then move lower in the sky to set in the west. Circumpolar objects are objects that are close enough to one of the celestial poles that an observer could see their full circular path over one sidereal day (a little less than 24 hours). In all cases the highest point in the sky a celestial object reaches is when it crosses the meridian. The instant when it reaches this highest point is referred to as its upper culmination. Twelve (sidereal) hours later, when the object is at its lowest point in the sky (often this is below the horizon), this instant is referred to as its lower culmination. As culmination is the moment when a celestial object crosses the observer's local meridian it is often referred to as a meridian transit or meridian passage. The hour angle on the sky is defined relative to the observer's local meridian, hence by definition upper culmination happens at an hour angle of zero and lower culmination happens at an hour angle of 12 hours."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Верхняя кульминация",
+      "aliases": [
+        "Кульминация над полюсом"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Кульминация",
+          "body": "В астрономии кульминация — это момент, когда небесный объект проходит через местный меридиан наблюдателя. Когда небесный объект на небе пересекает меридиан, он находится либо в своей высшей, либо в низшей точке на небе. С точки зрения наблюдателя небесная сфера, по-видимому, вращается вокруг Земли. Это означает, что небесные объекты на небе следуют по круговому пути в течение суток. Большинство объектов восходят на востоке, поднимаются выше по небу, пока не пересекут меридиан, а затем опускаются ниже по небу, чтобы зайти на западе. Околополярные объекты — это объекты, достаточно близкие к одному из небесных полюсов, так что наблюдатель мог бы видеть их полный круговой путь за одни звёздные сутки (немного меньше 24 часов). Во всех случаях высшая точка на небе, которую достигает небесный объект, — это когда он пересекает меридиан. Момент, когда он достигает этой высшей точки, называется его верхней кульминацией. Двенадцать (звёздных) часов спустя, когда объект находится в своей низшей точке на небе (часто это ниже горизонта), этот момент называется его нижней кульминацией. Поскольку кульминация — это момент, когда небесный объект пересекает местный меридиан наблюдателя, её часто называют прохождением через меридиан или меридианным прохождением. Часовой угол на небе определяется относительно местного меридиана наблюдателя, поэтому по определению верхняя кульминация происходит при часовом угле, равном нулю, а нижняя кульминация происходит при часовом угле 12 часов."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:aY24Vq40ml2",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/7425676/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Time%20lapses%20of%20celestial%20patterns:%20The%20Culmination%20of%20Canopus%2C%20by%20Fabrizio%20Melandri.mp4?download=1",
+      "record_url": "https://astro4edu.org/resources/media/aY24Vq40ml2/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Culmination of Canopus",
+      "short_caption_ru": "Кульминация Канопуса",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Time lapses of celestial patterns.\r\n\r\n \r\n\r\nThis time-lapse video was shot in January 2018 from the Joshua Tree National Park, USA, and follows the path of Canopus, the second-brightest star in the night sky, as it moves from left to right, almost touching the horizon. The landscape is illuminated by the Moon. \r\n\r\nCanopus is associated with the rudder of the ancient Argo constellation, the Ship, nowadays split into the three modern constellations Vela, Puppis and Carina, the last of which contains Canopus.\r\n\r\nOwing to its brightness, Canopus has caught the attention of several cultures around the world throughout history. For instance, the Navajo people of North America named the star as the Coyote, and say that the coyote took part in the creation of the Universe. The Kalapalo people of Brazil associated Canopus with a duck, with other bright stars making up the body parts of the animal. The appearance of Canopus in the sky indicates the coming of the rainy season.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии 2022 IAU OAE, категория «Таймлапсы небесных узоров».\r\n\r\n \r\n\r\nЭто видео с таймлапсом было снято в январе 2018 в национальном парке Джошуа-Три, США, и отслеживает путь Канопуса, второй по яркости звезды ночного неба, когда она движется слева направо, почти касаясь горизонта. Пейзаж освещён Луной. \r\n\r\nКанопус связан с рулём древнего созвездия Арго, Корабля, которое в настоящее время разделено на три современных созвездия: Паруса, Корма и Киль, последнее из которых содержит Канопус.\r\n\r\nБлагодаря своей яркости Канопус привлекал внимание нескольких культур по всему миру на протяжении истории. Например, народ навахо в Северной Америке называл звезду Койотом и говорит, что койот участвовал в создании Вселенной. Народ калапало в Бразилии ассоциировал Канопус с уткой, а другие яркие звёзды составляли части тела животного. Появление Канопуса на небе указывает на приближение сезона дождей.",
+      "alt_en": "A dark sky over a dry desert landscape. The brightest star in the image is rising on the lower left",
+      "alt_ru": "Тёмное небо над сухим пустынным пейзажем. Самая яркая звезда на изображении поднимается в левом нижнем углу",
+      "credit": "Fabrizio Melandri/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        66,
+        532,
+        533
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "id": "term:477",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 477,
+    "url": "https://astro4edu.org/resources/glossary/term/477/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=477",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:39.213138+00:00",
+    "sha256": "252f2e6cd4709519ef6b80d08f78877da3d977aa6f7c3214c4d1cce001994afe"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      52,
+      53,
+      83,
+      90,
+      462,
+      473
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Star Trail",
+      "body": "In astrophotography, star trails are striking images of the night sky made using very long exposures. This is the effect of the camera rotating with the Earth and the resulting motion of the stars across the night sky causing trails in the images. Star trails show the diurnal motion of the Earth, and if the camera is pointed at the celestial North or South Pole, the trails form semi-circles centered on the pole location in the sky. In addition, the pattern of star trails can be used to determine the observer's latitude. Star trail images can also be created by taking a series of short exposures over a period of time, and then stacking (overlaying) them on top of each other in photo editing software.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Celestial Pole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/52/",
+          "text_ru": "Небесный полюс"
+        },
+        {
+          "text": "Celestial Sphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/53/",
+          "text_ru": "Небесная сфера"
+        },
+        {
+          "text": "Diurnal Motion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/83/",
+          "text_ru": "Суточное движение"
+        },
+        {
+          "text": "Earth's Rotation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/90/",
+          "text_ru": "Вращение Земли"
+        },
+        {
+          "text": "Night",
+          "url": "https://www.astro4edu.org/resources/glossary/term/462/",
+          "text_ru": "Ночь"
+        },
+        {
+          "text": "Rotation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/473/",
+          "text_ru": "Вращение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Star Trail</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In astrophotography, star trails are striking images of the night sky made using very long exposures. This is the effect of the camera rotating with the Earth and the resulting motion of the stars across the night sky causing trails in the images. Star trails show the diurnal motion of the Earth, and if the camera is pointed at the celestial North or South Pole, the trails form semi-circles centered on the pole location in the sky. In addition, the pattern of star trails can be used to determine the observer's latitude. Star trail images can also be created by taking a series of short exposures over a period of time, and then stacking (overlaying) them on top of each other in photo editing software.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/52/\">Celestial Pole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/53/\">Celestial Sphere</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/83/\">Diurnal Motion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/90/\">Earth's Rotation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/462/\">Night</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/473/\">Rotation</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звёздные треки",
+      "body_ru": "В астрофотографии звёздные треки — это впечатляющие изображения ночного неба, полученные с помощью очень длинных выдержек. Это эффект вращения камеры вместе с Землёй и результирующего движения звёзд по ночному небу, вызывающего треки на изображениях. Звёздные треки показывают суточное движение Земли, и если камера направлена на небесный Северный или Южный полюс, треки образуют полукруги с центром в положении полюса на небе. Кроме того, по картине звёздных треков можно определить широту наблюдателя. Изображения звёздных треков также можно создавать, делая серию коротких выдержек в течение определённого периода времени, а затем складывая (накладывая) их друг на друга в программе для редактирования фотографий."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/477/\">مسارات النجوم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/477/\">Strichspuraufnahme </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/477/\">Estela estelar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/477/\">La piste des étoiles </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/477/\">Scia stellare </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/477/\">Trilha das estrelas </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/477/\">星轨 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/477/\">星軌 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/1E894M62md14/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/RE76yE71ww98/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/vD711f36JA50/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:1E894M62md14",
+        "media:RE76yE71ww98",
+        "media:vD711f36JA50"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/1E894M62md14/\"><img alt=\"Star trails form short, diagonal lines in the background of a volcanic eruption\" src=\"/media/multimedia/thumbnails/star-trails-and-lava-plume-on-mount-etna-february-2021-by-dario-gi_tCDxwev.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Star Trails And Lava Plume on Mount Etna February 2021, by Dario Giannobile, Italy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the IAU OAE Astrophotography Contest, category Star trails.\n\nThis spectacular image captures some of the most dramatic expressions of Nature, the eruption of a volcano and the night sky. The volcano in the foreground is Mount Etna, located in Sicily/Italy, during an eruption in February 2021. In the background, we can see the star trails resulting from the Earth's motion around its imaginary axis. As Mount Etna is located about 37° N, we can notice that the arcs are quite open, as this is far from the North Pole, from where the view from the sky would provide traces drawing circles. As we move to the Equator, either from the Southern or Northern Hemisphere, the star traces become more and more parallel, instead of circular, as the viewer moves away from the zenith pointing to one of the Earth's rotational axes. Therefore, the sky presents us with valuable information about location and time and was an important practice for ancient civilizations to follow the movement of the celestial bodies. The image also captures the varying colours of stars which result from differece in the temperature of stars: higher temperature stars are bluer, compared to the lower temperature white and red stars.<br/>\n<b>Credit:</b> Dario Giannobile/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/RE76yE71ww98/\"><img alt=\"An all-sky image. Above a ring of stones shaped like door-frames, the bright curved paths of star trails seem to form circles\" src=\"/media/multimedia/thumbnails/stone-star-circles-startrails-above-stonehenge-by-till-credner-ger_Os7pcWI.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stone Star Circles, Startrails above Stonehenge, by Till Credner, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the IAU OAE Astrophotography Contest, category Star trails.\n\nAstronomy is one of the oldest (if not the oldest) of the sciences, and as such has connection to various cultures over millennia. This image in a way conveys this relationship by being contextualised in Stonehenge. There is much research into what astronomers call archeoastronomy sites, and how they connect to the sky (for example, seasons, phases of the moon and much more). Civilizations across time and from all over the world have their own views and interpretations of what they see in the sky, and this has been tied not only to culture but also to the people’s day-to-day and seasonal activities. The “concentric circles” which are often referred to as “star trails”, are the result of the apparent motion of the sky, which is in reality due to the rotation of the Earth on its axis. The small dot appearing towards the top center of the image is Polaris – The North or Pole Star. Polaris is only visible to observers in the Northern latitudes. The height of the Pole Star can be used to infer the observer’s actual latitude. Stonehenge is located at around 51° North. This image is taken from one of the most notable ancient sites in the world, brings us back in time, and makes us wonder about the stories told by the people that lived in that place many millennia ago.<br/>\n<b>Credit:</b> Till Credner/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/vD711f36JA50/\"><img alt=\"Bright star trails for arcs around the center of the image behind the silhouette of a tree\" src=\"/media/multimedia/thumbnails/half-day-exposure-to-the-north-star-by-fabrizio-melandri-italy_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Half day exposure to the north star, by Fabrizio Melandri, Italy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the IAU OAE Astrophotography Contest, category Star trails.\n\nThis star trail image shows the apparent movement of the stars in the night sky, which results from the Earth’s rotation around its polar axis. The trees in the foreground serve as an anchor as we turn with the Earth. The bright white semi-circle in the center of the image is the North (Pole) star – Polaris, which is located very close to the North Celestial Pole. One way to imagine that the Earth is at center of hollow crystal sphere, and the stars are embedded on this sphere, as the Earth spins on its axis, an observer on Earth sees the stars rising and setting, following an arc, because the horizon prevents the observer from the full arc for stars that are further away from the Celestial Pole. The North Celestial Pole (and its opposite the South Celestial Pole) is essentially formed by extending the line of the Earth’s axis. Capturing this image requires the photographer to take a long exposure with the camera on a tripod and pointing towards the Pole Star (North Hemisphere). In the Southern Hemisphere there is no star as close as Polaris is to the Celestial Pole, so the position of the South Celestial Pole is found using the South Cross and Pointer Stars (Alpha and Beta Centauri). Although overall the image has a slight blue tint, it does capture the varying colours of stars, it is easy to distinguish between the higher temperature blue stars and the lower temperature of the whitish stars, and even lower temperature reddish stars. The reason for this variation in colour is because higher temperature stars emit more in shorter wavelengths (bluer), compared to lower temperature stars which emit in longer wavelengths (redder).<br/>\n<b>Credit:</b> Fabrizio Melandri/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Star Trail",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Star Trail",
+          "body": "In astrophotography, star trails are striking images of the night sky made using very long exposures. This is the effect of the camera rotating with the Earth and the resulting motion of the stars across the night sky causing trails in the images. Star trails show the diurnal motion of the Earth, and if the camera is pointed at the celestial North or South Pole, the trails form semi-circles centered on the pole location in the sky. In addition, the pattern of star trails can be used to determine the observer's latitude. Star trail images can also be created by taking a series of short exposures over a period of time, and then stacking (overlaying) them on top of each other in photo editing software."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звёздные треки",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звёздные треки",
+          "body": "В астрофотографии звёздные треки — это впечатляющие изображения ночного неба, полученные с помощью очень длинных выдержек. Это эффект вращения камеры вместе с Землёй и результирующего движения звёзд по ночному небу, вызывающего треки на изображениях. Звёздные треки показывают суточное движение Земли, и если камера направлена на небесный Северный или Южный полюс, треки образуют полукруги с центром в положении полюса на небе. Кроме того, по картине звёздных треков можно определить широту наблюдателя. Изображения звёздных треков также можно создавать, делая серию коротких выдержек в течение определённого периода времени, а затем складывая (накладывая) их друг на друга в программе для редактирования фотографий."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:1E894M62md14",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5371619/files/Third%20place%20in%20the%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Star%20trails%3A%20Star%20Trails%20And%20Lava%20Plume%20on%20Mount%20Etna%20February%202021%2C%20Dario%20Giannobile%2C%20Italy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/1E894M62md14/",
+      "original_path": "data/media/original/media_1E894M62md14.jpg",
+      "ru_path": null,
+      "sha256": "e97f840f4e5919a3729baa74c2d14ae35ee3fc03a45f003522a1a9a39a56d63f",
+      "size": 12607503,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This spectacular image captures some of the most dramatic expressions of Nature, the eruption of a volcano and the night sky.",
+      "short_caption_ru": "Этот впечатляющий снимок запечатлел одни из самых драматичных проявлений Природы — извержение вулкана и ночное небо.",
+      "caption_en": "Third place in the IAU OAE Astrophotography Contest, category Star trails.\r\n\r\nThis spectacular image captures some of the most dramatic expressions of Nature, the eruption of a volcano and the night sky. The volcano in the foreground is Mount Etna, located in Sicily/Italy, during an eruption in February 2021. In the background, we can see the star trails resulting from the Earth's motion around its imaginary axis. As Mount Etna is located about 37° N, we can notice that the arcs are quite open, as this is far from the North Pole, from where the view from the sky would provide traces drawing circles. As we move to the Equator, either from the Southern or Northern Hemisphere, the star traces become more and more parallel, instead of circular, as the viewer moves away from the zenith pointing to one of the Earth's rotational axes. Therefore, the sky presents us with valuable information about location and time and was an important practice for ancient civilizations to follow the movement of the celestial bodies. The image also captures the varying colours of stars which result from differece in the temperature of stars: higher temperature stars are bluer, compared to the lower temperature white and red stars.",
+      "caption_ru": "Третье место в конкурсе астрофотографии МАС OAE, категория «Звёздные треки».\r\n\r\nЭтот впечатляющий снимок запечатлел одни из самых драматичных проявлений Природы — извержение вулкана и ночное небо. Вулкан на переднем плане — это Этна, расположенная на Сицилии/в Италии, во время извержения в феврале 2021. На заднем плане мы видим звёздные треки, возникающие из-за движения Земли вокруг её воображаемой оси. Поскольку Этна находится примерно на 37° с. ш., можно заметить, что дуги довольно открытые, так как это далеко от Северного полюса, откуда вид неба давал бы следы, образующие окружности. По мере продвижения к экватору, будь то из Южного или Северного полушария, звёздные следы становятся всё более параллельными, а не круговыми, по мере того как наблюдатель удаляется от зенита, указывающего на одну из осей вращения Земли. Таким образом, небо предоставляет нам ценную информацию о местоположении и времени, и наблюдение за движением небесных тел было важной практикой для древних цивилизаций. На снимке также запечатлены различные цвета звёзд, которые являются результатом различий в температуре звёзд: звёзды с более высокой температурой более голубые по сравнению с белыми и красными звёздами с более низкой температурой.",
+      "alt_en": "Star trails form short, diagonal lines in the background of a volcanic eruption",
+      "alt_ru": "Звёздные треки образуют короткие диагональные линии на фоне извержения вулкана",
+      "credit": "Dario Giannobile/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        477
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:RE76yE71ww98",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5371591/files/Second%20place%20in%20the%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Star%20trails%3A%20Stone%20Star%20Circles%2C%20Startrails%20above%20Stonehenge%2C%20by%20Till%20Credner%2C%20Germany.jpg",
+      "record_url": "https://astro4edu.org/resources/media/RE76yE71ww98/",
+      "original_path": "data/media/original/media_RE76yE71ww98.jpg",
+      "ru_path": null,
+      "sha256": "3331cb68fffe8863ddc276183c4de0a3c4d5f0d7e10f81df44af9de7878fbf74",
+      "size": 1261161,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Astronomy is one of the oldest (if not the oldest) of the sciences, and as such has connection to various cultures over millennia.",
+      "short_caption_ru": "Астрономия — одна из древнейших (если не самая древняя) наук, и как таковая она связана с различными культурами на протяжении тысячелетий.",
+      "caption_en": "Second place in the IAU OAE Astrophotography Contest, category Star trails.\r\n\r\nAstronomy is one of the oldest (if not the oldest) of the sciences, and as such has connection to various cultures over millennia. This image in a way conveys this relationship by being contextualised in Stonehenge. There is much research into what astronomers call archeoastronomy sites, and how they connect to the sky (for example, seasons, phases of the moon and much more). Civilizations across time and from all over the world have their own views and interpretations of what they see in the sky, and this has been tied not only to culture but also to the people’s day-to-day and seasonal activities. The “concentric circles” which are often referred to as “star trails”, are the result of the apparent motion of the sky, which is in reality due to the rotation of the Earth on its axis. The small dot appearing towards the top center of the image is Polaris – The North or Pole Star. Polaris is only visible to observers in the Northern latitudes. The height of the Pole Star can be used to infer the observer’s actual latitude. Stonehenge is located at around 51° North. This image is taken from one of the most notable ancient sites in the world, brings us back in time, and makes us wonder about the stories told by the people that lived in that place many millennia ago.",
+      "caption_ru": "Второе место в конкурсе астрофотографии IAU OAE, категория «Звёздные треки».\r\n\r\nАстрономия — одна из древнейших (если не самая древняя) наук, и как таковая она связана с различными культурами на протяжении тысячелетий. Это изображение в некотором смысле передаёт эту связь, будучи помещённым в контекст Стоунхенджа. Существует множество исследований того, что астрономы называют археоастрономическими объектами, и того, как они связаны с небом (например, сезоны, фазы Луны и многое другое). Цивилизации на протяжении времени и по всему миру имеют свои собственные взгляды и интерпретации того, что они видят в небе, и это было связано не только с культурой, но и с повседневной и сезонной деятельностью людей. «Концентрические круги», которые часто называют «звёздными треками», являются результатом видимого движения неба, которое в действительности обусловлено вращением Земли вокруг своей оси. Маленькая точка, появляющаяся ближе к верхнему центру изображения, — это Полярная звезда — Северная или Полярная звезда. Полярная звезда видна только наблюдателям в северных широтах. Высота Полярной звезды может быть использована для определения фактической широты наблюдателя. Стоунхендж расположен примерно на 51° северной широты. Это изображение, снятое в одном из самых известных древних мест в мире, возвращает нас в прошлое и заставляет задуматься о историях, рассказанных людьми, жившими в этом месте много тысячелетий назад.",
+      "alt_en": "An all-sky image. Above a ring of stones shaped like door-frames, the bright curved paths of star trails seem to form circles",
+      "alt_ru": "Панорамное изображение всего неба. Над кольцом камней, имеющих форму дверных проёмов, яркие изогнутые следы звёзд, кажется, образуют круги",
+      "credit": "Till Credner/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        56,
+        477
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:vD711f36JA50",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5371231/files/First%20place%20in%20the%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Star%20trails%3A%20Half%20day%20exposure%20to%20the%20north%20star%2C%20by%20Fabrizio%20Melandri%2C%20Italy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/vD711f36JA50/",
+      "original_path": "data/media/original/media_vD711f36JA50.jpg",
+      "ru_path": null,
+      "sha256": "87f994add304ab9e9c200f1529f423ed2d6b0b3de14b69a9bd3325e8caacd583",
+      "size": 6111501,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This star trail image shows the apparent movement of the stars in the night sky, which results from the Earth’s rotation around its polar axis.",
+      "short_caption_ru": "Это изображение звёздных треков показывает видимое движение звёзд на ночном небе, которое является результатом вращения Земли вокруг своей полярной оси.",
+      "caption_en": "First place in the IAU OAE Astrophotography Contest, category Star trails.\r\n\r\nThis star trail image shows the apparent movement of the stars in the night sky, which results from the Earth’s rotation around its polar axis. The trees in the foreground serve as an anchor as we turn with the Earth. The bright white semi-circle in the center of the image is the North (Pole) star – Polaris, which is located very close to the North Celestial Pole. One way to imagine that the Earth is at center of hollow crystal sphere, and the stars are embedded on this sphere, as the Earth spins on its axis, an observer on Earth sees the stars rising and setting, following an arc, because the horizon prevents the observer from the full arc for stars that are further away from the Celestial Pole. The North Celestial Pole (and its opposite the South Celestial Pole) is essentially formed by extending the line of the Earth’s axis. Capturing this image requires the photographer to take a long exposure with the camera on a tripod and pointing towards the Pole Star (North Hemisphere). In the Southern Hemisphere there is no star as close as Polaris is to the Celestial Pole, so the position of the South Celestial Pole is found using the South Cross and Pointer Stars (Alpha and Beta Centauri). Although overall the image has a slight blue tint, it does capture the varying colours of stars, it is easy to distinguish between the higher temperature blue stars and the lower temperature of the whitish stars, and even lower temperature reddish stars. The reason for this variation in colour is because higher temperature stars emit more in shorter wavelengths (bluer), compared to lower temperature stars which emit in longer wavelengths (redder).",
+      "caption_ru": "Первое место в конкурсе астрофотографии IAU OAE, категория «Звёздные треки».\r\n\r\nЭто изображение звёздных треков показывает видимое движение звёзд на ночном небе, которое является результатом вращения Земли вокруг своей полярной оси. Деревья на переднем плане служат якорем, когда мы вращаемся вместе с Землёй. Яркий белый полукруг в центре изображения — это Северная (полярная) звезда — Полярис, которая расположена очень близко к Северному небесному полюсу. Один из способов представить, что Земля находится в центре полой хрустальной сферы, а звёзды встроены в эту сферу: когда Земля вращается вокруг своей оси, наблюдатель на Земле видит, как звёзды восходят и заходят, следуя по дуге, потому что горизонт не позволяет наблюдателю увидеть полную дугу для звёзд, находящихся дальше от Небесного полюса. Северный небесный полюс (и противоположный ему Южный небесный полюс) по существу образуется продолжением линии оси Земли. Чтобы получить это изображение, фотографу необходимо сделать длинную выдержку, установив камеру на штатив и направив её на Полярную звезду (Северное полушарие). В Южном полушарии нет звезды, столь же близкой к Небесному полюсу, как Полярная звезда, поэтому положение Южного небесного полюса находят с помощью Южного Креста и Указателей (Альфа и Бета Центавра). Хотя в целом изображение имеет лёгкий синеватый оттенок, оно действительно передаёт различные цвета звёзд: легко различить более горячие голубые звёзды и более холодные беловатые звёзды, и даже ещё более холодные красноватые звёзды. Причина такого разнообразия цветов заключается в том, что более горячие звёзды излучают больше на более коротких волнах (синее), по сравнению с более холодными звёздами, которые излучают на более длинных волнах (краснее).",
+      "alt_en": "Bright star trails for arcs around the center of the image behind the silhouette of a tree",
+      "alt_ru": "Яркие звёздные треки в виде дуг вокруг центра изображения за силуэтом дерева",
+      "credit": "Fabrizio Melandri/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        56,
+        477
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

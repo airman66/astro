@@ -1,0 +1,111 @@
+{
+  "id": "term:248",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 248,
+    "url": "https://astro4edu.org/resources/glossary/term/248/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=248",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:30.652918+00:00",
+    "sha256": "ef29fd339f396e28fc7be487b389ed8473ffa7802ac51c7491c77ded4a532b61"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      441
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Photoelectric Effect",
+      "body": "When light or other electromagnetic radiation strikes a material, electrons can, depending on the material and frequency of the light, be emitted: This is the photoelectric effect. It can be explained by considering light as particles or packets of energy called photons. For materials, mostly metals, the frequency of light should be greater than a threshold frequency (characteristic of the material) for the emission of these photoelectrons to occur. Their maximum energy is determined by the frequency; increasing the frequency of the light brings about an increase in the maximum kinetic energy of the electrons. On increasing the intensity of monochromatic light, more electrons are released, but there is no change in their maximum kinetic energy. This is because the intensity of the light is directly proportional to the number of photons.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Electron",
+          "url": "https://www.astro4edu.org/resources/glossary/term/441/",
+          "text_ru": "Электрон"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Photoelectric Effect</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> When light or other electromagnetic radiation strikes a material, electrons can, depending on the material and frequency of the light, be emitted: This is the photoelectric effect. It can be explained by considering light as particles or packets of energy called photons. For materials, mostly metals, the frequency of light should be greater than a threshold frequency (characteristic of the material) for the emission of these photoelectrons to occur. Their maximum energy is determined by the frequency; increasing the frequency of the light brings about an increase in the maximum kinetic energy of the electrons. On increasing the intensity of monochromatic light, more electrons are released, but there is no change in their maximum kinetic energy. This is because the intensity of the light is directly proportional to the number of photons.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/441/\">Electron</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Фотоэлектрический эффект",
+      "body_ru": "Когда свет или другое электромагнитное излучение падает на материал, электроны могут, в зависимости от материала и частоты света, испускаться: это фотоэлектрический эффект. Его можно объяснить, рассматривая свет как частицы или пакеты энергии, называемые фотонами. Для материалов, в основном металлов, частота света должна быть больше пороговой частоты (характерной для материала), чтобы происходило испускание этих фотоэлектронов. Их максимальная энергия определяется частотой; увеличение частоты света приводит к увеличению максимальной кинетической энергии электронов. При увеличении интенсивности монохроматического света освобождается больше электронов, но их максимальная кинетическая энергия не меняется. Это связано с тем, что интенсивность света прямо пропорциональна числу фотонов."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "光電効果 (external link)",
+          "url": "https://astro-dic.jp/photoelectric-effect/",
+          "text_ru": "Фотоэлектрический эффект (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/248/\">التأثير الكهروضوئي </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/248/\">ফটোইলেক্ট্রিক বা আলোক বৈদ্যুতিক প্রভাব </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/248/\">Photoelektrischer Effekt </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/248/\">Efecto fotoeléctrico </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/248/\">Effet photoélectrique </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/248/\">Effetto fotoelettrico </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/photoelectric-effect/\">光電効果 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/248/\">Efeito fotoelétrico </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/248/\">光电效应 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/248/\">光電效應 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Photoelectric Effect",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Photoelectric Effect",
+          "body": "When light or other electromagnetic radiation strikes a material, electrons can, depending on the material and frequency of the light, be emitted: This is the photoelectric effect. It can be explained by considering light as particles or packets of energy called photons. For materials, mostly metals, the frequency of light should be greater than a threshold frequency (characteristic of the material) for the emission of these photoelectrons to occur. Their maximum energy is determined by the frequency; increasing the frequency of the light brings about an increase in the maximum kinetic energy of the electrons. On increasing the intensity of monochromatic light, more electrons are released, but there is no change in their maximum kinetic energy. This is because the intensity of the light is directly proportional to the number of photons."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Фотоэлектрический эффект",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Фотоэлектрический эффект",
+          "body": "Когда свет или другое электромагнитное излучение падает на материал, электроны могут, в зависимости от материала и частоты света, испускаться: это фотоэлектрический эффект. Его можно объяснить, рассматривая свет как частицы или пакеты энергии, называемые фотонами. Для материалов, в основном металлов, частота света должна быть больше пороговой частоты (характерной для материала), чтобы происходило испускание этих фотоэлектронов. Их максимальная энергия определяется частотой; увеличение частоты света приводит к увеличению максимальной кинетической энергии электронов. При увеличении интенсивности монохроматического света освобождается больше электронов, но их максимальная кинетическая энергия не меняется. Это связано с тем, что интенсивность света прямо пропорциональна числу фотонов."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

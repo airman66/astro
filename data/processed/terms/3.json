@@ -1,0 +1,98 @@
+{
+  "id": "term:3",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 3,
+    "url": "https://astro4edu.org/resources/glossary/term/3/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=3",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:05.880297+00:00",
+    "sha256": "ab7846347e5ae831c0e885b14077ceaa57df4e1cebe35cbf4ab336bc170d76f4"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Absolute Zero",
+      "body": "Absolute zero is the zero point of the kelvin temperature scale, corresponding to -273.15 degrees on the Celsius scale and -459.67 degrees on the Fahrenheit scale. This choice of zero point is motivated by fundamental physics: for a classical system, the temperature of absolute zero would correspond to a state where all of the particles are at perfect rest, each with kinetic energy zero. In the real world, basic effects of quantum theory mean that this state of complete rest will never be reached. In the language of thermodynamics, which describes general systems and their abilities to exchange heat and other forms of energy, an idealized system at temperature absolute zero would be a system from which no heat could be extracted at all. In practice, it is impossible to bring a system into that ideal state. This is codified by the so-called 3rd law of thermodynamics, also called Nernst's theorem: we can get arbitrarily close to absolute zero, but we can never reach it.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис IAU по астрономическому\nпросвещению (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Absolute Zero</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Absolute zero is the zero point of the kelvin temperature scale, corresponding to -273.15 degrees on the Celsius scale and -459.67 degrees on the Fahrenheit scale. This choice of zero point is motivated by fundamental physics: for a classical system, the temperature of absolute zero would correspond to a state where all of the particles are at perfect rest, each with kinetic energy zero. In the real world, basic effects of quantum theory mean that this state of complete rest will never be reached.<br/><br/>In the language of thermodynamics, which describes general systems and their abilities to exchange heat and other forms of energy, an idealized system at temperature absolute zero would be a system from which no heat could be extracted at all. In practice, it is impossible to bring a system into that ideal state. This is codified by the so-called 3rd law of thermodynamics, also called Nernst's theorem: we can get arbitrarily close to absolute zero, but we can never reach it.</p>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Абсолютный нуль",
+      "body_ru": "Абсолютный нуль — это нулевая точка шкалы температур Кельвина, соответствующая -273.15 градуса по шкале Цельсия и -459.67 градуса по шкале Фаренгейта. Выбор такой нулевой точки обусловлен фундаментальной физикой: для классической системы температура абсолютного нуля соответствовала бы состоянию, в котором все частицы находятся в состоянии полного покоя, причём кинетическая энергия каждой равна нулю. В реальном мире базовые эффекты квантовой теории означают, что это состояние полного покоя никогда не будет достигнуто. На языке термодинамики, которая описывает общие системы и их способности обмениваться теплом и другими формами энергии, идеализированная система при температуре абсолютного нуля была бы системой, из которой вообще нельзя было бы извлечь тепло. На практике невозможно привести систему в это идеальное состояние. Это закреплено так называемым третьим законом термодинамики, также называемым теоремой Нернста: мы можем подойти сколь угодно близко к абсолютному нулю, но никогда не сможем его достичь."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/3/\">الصفر المطلق </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/3/\">পরম শূন্য তাপমাত্রা </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/3/\">Absoluter Nullpunkt </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/3/\">Cero absoluto </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/3/\">Zéro absolu </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/3/\">Zero assoluto </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/3/\">Zero absoluto </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/3/\">绝对零度 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/3/\">絕對零度 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Absolute Zero",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Absolute Zero",
+          "body": "Absolute zero is the zero point of the kelvin temperature scale, corresponding to -273.15 degrees on the Celsius scale and -459.67 degrees on the Fahrenheit scale. This choice of zero point is motivated by fundamental physics: for a classical system, the temperature of absolute zero would correspond to a state where all of the particles are at perfect rest, each with kinetic energy zero. In the real world, basic effects of quantum theory mean that this state of complete rest will never be reached. In the language of thermodynamics, which describes general systems and their abilities to exchange heat and other forms of energy, an idealized system at temperature absolute zero would be a system from which no heat could be extracted at all. In practice, it is impossible to bring a system into that ideal state. This is codified by the so-called 3rd law of thermodynamics, also called Nernst's theorem: we can get arbitrarily close to absolute zero, but we can never reach it."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Абсолютный ноль",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Абсолютный ноль",
+          "body": "Абсолютный ноль — это нулевая точка шкалы температур Кельвина, соответствующая -273.15 градуса по шкале Цельсия и -459.67 градуса по шкале Фаренгейта. Такой выбор нулевой точки обусловлен фундаментальной физикой: для классической системы температура абсолютного нуля соответствовала бы состоянию, в котором все частицы находятся в полном покое, каждая с нулевой кинетической энергией. В реальном мире базовые эффекты квантовой теории означают, что это состояние полного покоя никогда не будет достигнуто. На языке термодинамики, которая описывает общие системы и их способность обмениваться теплом и другими формами энергии, идеализированная система при температуре абсолютного нуля была бы системой, из которой вообще нельзя было бы извлечь никакое тепло. На практике невозможно привести систему в это идеальное состояние. Это закреплено так называемым третьим законом термодинамики, также называемым теоремой Нернста: мы можем сколь угодно близко приблизиться к абсолютному нулю, но никогда не сможем его достичь."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

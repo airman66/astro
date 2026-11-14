@@ -1,0 +1,226 @@
+{
+  "id": "term:319",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 319,
+    "url": "https://astro4edu.org/resources/glossary/term/319/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=319",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:51.019800+00:00",
+    "sha256": "0e3610ccd2aab31094ee41d2b955040b2e68bcfc35e98de46e1978d374b47060"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Space Exploration"
+    ],
+    "category_ids": [
+      10
+    ],
+    "categories_ru": [
+      "Исследование космоса"
+    ],
+    "related_term_numbers": [
+      235
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Space",
+      "body": "Space has two definitions within astronomy: space (or \"outer space\") is all that exists beyond Earth; more technically, it is the dimensions of length, width, and depth within which all things exist (as opposed to time, which is sometimes considered as a fourth dimension).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Outer Space",
+          "url": "https://www.astro4edu.org/resources/glossary/term/235/",
+          "text_ru": "Космическое пространство"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Space</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Space has two definitions within astronomy: space (or \"outer space\") is all that exists beyond Earth; more technically, it is the dimensions of length, width, and depth within which all things exist (as opposed to time, which is sometimes considered as a fourth dimension).</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/235/\">Outer Space</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Космос",
+      "body_ru": "В астрономии существует два определения космоса: космос (или «открытый космос») — это всё, что существует за пределами Земли; в более техническом смысле это измерения длины, ширины и глубины, в которых существуют все вещи (в отличие от времени, которое иногда рассматривается как четвёртое измерение)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/319/\">الفضاء </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/319/\">Raum </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/319/\">Espacio </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/319/\">L'espace </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/319/\">Spazio </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/319/\">Espaço </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/319/\">空间 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/319/\">空間 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Qb15t730hy74/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://noirlab.edu/public/images/noao0126a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Qb15t730hy74"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Qb15t730hy74/\"><img alt=\"The Horsehead Nebula is a horse-shaped silhouette, surrounded by glowing gas and scattered stars.\" src=\"/media/multimedia/thumbnails/the-horsehead-nebula_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Horsehead Nebula</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the Horsehead Nebula, located at a distance of about 1,300 light-years from Earth in the Orion constellation, one of the most iconic examples of a dark nebula. A dark nebula is a dense cloud of interstellar dust and cold gas that absorbs and scatters visible light, preventing background stars and glowing gas from reaching our eyes. This false-color image combines data captured through multiple narrowband filters, each isolating light from different elements in the nebula. The dark, horse-shaped silhouette appears sharply outlined against the luminous nebula behind it, where energetic radiation from nearby young stars causes the gas to glow. The uneven distribution of visible stars in this image is not random: regions rich in dust in the lower part of this image appear almost empty, while clearer areas reveal many background stars. The dust acts like a cosmic curtain, hiding stars that lie behind it while allowing stars in front of the cloud to remain visible. Studying such regions helps astronomers understand how nebulae serve as environments where new stars can form.<br/>\n<b>Credit:</b> T.A.Rector (NOIRLab/NSF/AURA) and Hubble Heritage Team (STScI/AURA/NASA)\n\t  <a href=\"https://noirlab.edu/public/images/noao0126a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Deadly Moons astroEDU educational activity (links to astroEDU website) Description: Through art and science, children learn about moons of our solar system. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Drawing Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Fine Art focussed \n  \n, Structured-inquiry learning Costs: High Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Communicating information Blue Marble in Empty Space astroEDU educational activity (links to astroEDU website) Description: Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/deadly-moons/\"><img alt=\"Deadly Moons\" src=\"/media/astroedu/images/deadly-moons_en_thumbnail_JRQwu6D.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/deadly-moons/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Deadly Moons</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Through art and science, children learn about moons of our solar system.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Drawing \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nFine Art focussed \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nHigh Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/blue-marble-in-empty-space/\"><img alt=\"Blue Marble in Empty Space\" src=\"/media/astroedu/images/blue-marble-in-empty-space_en_thumbnail_SCbs0Dz.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/blue-marble-in-empty-space/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Blue Marble in Empty Space</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Опасные спутники — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Через искусство и науку дети узнают о спутниках нашей Солнечной системы. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Искусство \n  \n  , Творчество \n  \n  , Практическая работа \n  \n  , Рисование Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальный \n  \n, Средний Области обучения: С акцентом на изобразительное искусство \n  \n, Структурированное исследовательское обучение Затраты: Высокая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации Голубой шар в пустом космосе — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Учащиеся отправляются в виртуальное путешествие в открытый космос, чтобы испытать, что мы живём на крошечной планете, которая парит в огромном и пустом пространстве. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Жизнь \n  \n  , Практическая работа \n  \n  , Модель \n  \n  , Масштабы \n  \n  , Расстояния \n  \n  , МКС Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкая стоимость Продолжительность: 30 мин Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Space",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Space",
+          "body": "Space has two definitions within astronomy: space (or \"outer space\") is all that exists beyond Earth; more technically, it is the dimensions of length, width, and depth within which all things exist (as opposed to time, which is sometimes considered as a fourth dimension)."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Deadly Moons astroEDU educational activity (links to astroEDU website) Description: Through art and science, children learn about moons of our solar system. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Drawing Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Fine Art focussed \n  \n, Structured-inquiry learning Costs: High Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Communicating information Blue Marble in Empty Space astroEDU educational activity (links to astroEDU website) Description: Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models"
+        }
+      }
+    },
+    "ru": {
+      "title": "Космос",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Космос",
+          "body": "В астрономии существует два определения космоса: космос (или «открытый космос») — это всё, что существует за пределами Земли; в более техническом смысле это измерения длины, ширины и глубины, в которых существуют все вещи (в отличие от времени, которое иногда рассматривается как четвёртое измерение)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Опасные спутники — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Через искусство и науку дети узнают о спутниках нашей Солнечной системы. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Искусство \n  \n  , Творчество \n  \n  , Практическая работа \n  \n  , Рисование Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальный \n  \n, Средний Области обучения: С акцентом на изобразительное искусство \n  \n, Структурированное исследовательское обучение Затраты: Высокая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации Голубой шар в пустом космосе — образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Учащиеся отправляются в виртуальное путешествие в открытый космос, чтобы испытать, что мы живём на крошечной планете, которая парит в огромном и пустом пространстве. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Жизнь \n  \n  , Практическая работа \n  \n  , Модель \n  \n  , Масштабы \n  \n  , Расстояния \n  \n  , МКС Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкая стоимость Продолжительность: 30 мин Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Qb15t730hy74",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-horsehead-nebula.png",
+      "record_url": "https://astro4edu.org/resources/media/Qb15t730hy74/",
+      "original_path": "data/media/original/media_Qb15t730hy74.png",
+      "ru_path": null,
+      "sha256": "ce5ccc2f48b34bb63e71e16b7c53e6be434d06e38daedd64a54f1944a7cb46eb",
+      "size": 23891045,
+      "title_en": "The Horsehead Nebula",
+      "title_ru": "Туманность Конская Голова",
+      "short_caption_en": "The Horsehead Nebula",
+      "short_caption_ru": "Туманность Конская Голова",
+      "caption_en": "This image shows the Horsehead Nebula, located at a distance of about 1,300 light-years from Earth in the Orion constellation, one of the most iconic examples of a dark nebula. A dark nebula is a dense cloud of interstellar dust and cold gas that absorbs and scatters visible light, preventing background stars and glowing gas from reaching our eyes. This false-color image combines data captured through multiple narrowband filters, each isolating light from different elements in the nebula. The dark, horse-shaped silhouette appears sharply outlined against the luminous nebula behind it, where energetic radiation from nearby young stars causes the gas to glow. The uneven distribution of visible stars in this image is not random: regions rich in dust in the lower part of this image appear almost empty, while clearer areas reveal many background stars. The dust acts like a cosmic curtain, hiding stars that lie behind it while allowing stars in front of the cloud to remain visible. Studying such regions helps astronomers understand how nebulae serve as environments where new stars can form.",
+      "caption_ru": "На этом изображении показана туманность Конская Голова, расположенная на расстоянии около 1,300 световых лет от Земли в созвездии Ориона, один из самых знаковых примеров тёмной туманности. Тёмная туманность — это плотное облако межзвёздной пыли и холодного газа, которое поглощает и рассеивает видимый свет, не позволяя фоновым звёздам и светящемуся газу достичь наших глаз. Это изображение в ложных цветах объединяет данные, полученные через несколько узкополосных фильтров, каждый из которых выделяет свет от разных элементов в туманности. Тёмный силуэт в форме лошади резко очерчен на фоне светящейся туманности позади него, где энергичное излучение от близлежащих молодых звёзд заставляет газ светиться. Неравномерное распределение видимых звёзд на этом изображении не случайно: области, богатые пылью в нижней части изображения, выглядят почти пустыми, в то время как более чистые области обнаруживают множество фоновых звёзд. Пыль действует как космический занавес, скрывая звёзды, находящиеся за ней, но позволяя звёздам перед облаком оставаться видимыми. Изучение таких областей помогает астрономам понять, как туманности служат средой, где могут формироваться новые звёзды.",
+      "alt_en": "The Horsehead Nebula is a horse-shaped silhouette, surrounded by glowing gas and scattered stars.",
+      "alt_ru": "Туманность Конская Голова — это силуэт в форме лошади, окружённый светящимся газом и рассеянными звёздами.",
+      "credit": "T.A.Rector (NOIRLab/NSF/AURA) and Hubble Heritage Team (STScI/AURA/NASA)",
+      "credit_url": "https://noirlab.edu/public/images/noao0126a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        77,
+        85,
+        211,
+        319
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

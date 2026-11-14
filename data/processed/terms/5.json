@@ -1,0 +1,274 @@
+{
+  "id": "term:5",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 5,
+    "url": "https://astro4edu.org/resources/glossary/term/5/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=5",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:06.816412+00:00",
+    "sha256": "8d40adb831c7ca5879df3af271fa3595c81a65790fc400522f261159a8c9e9ae"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies"
+    ],
+    "category_ids": [
+      8
+    ],
+    "categories_ru": [
+      "Галактики"
+    ],
+    "related_term_numbers": [
+      81,
+      119,
+      268,
+      348,
+      426
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Active Galactic Nucleus",
+      "body": "An active galactic nucleus (AGN) is a very luminous region at the center of a galaxy. It is thought to be powered by a supermassive black hole which accretes surrounding matter, forming an extremely hot accretion disk around it. AGNs have quite complex structures, with many different regions that emit light with different characteristics, and are often surrounded by a donut-shaped torus of dusty material. An AGN sometimes sends out jets of material in opposite directions. While many galaxies have a supermassive black hole in the center, not all are accreting matter and hence not all are AGN. AGN is a general term that includes objects such as quasars, blazars, Seyfert galaxies, and radio galaxies. The different observational properties of these types of objects are thought to result in part from AGNs being viewed from different angles.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/81/",
+          "text_ru": "Диск"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Quasar",
+          "url": "https://www.astro4edu.org/resources/glossary/term/268/",
+          "text_ru": "Квазар"
+        },
+        {
+          "text": "Supermassive Black Hole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/348/",
+          "text_ru": "Сверхмассивная чёрная дыра"
+        },
+        {
+          "text": "Accretion Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/426/",
+          "text_ru": "Аккреционный диск"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Active Galactic Nucleus</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>AGN</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An active galactic nucleus (AGN) is a very luminous region at the center of a galaxy. It is thought to be powered by a supermassive black hole which accretes surrounding matter, forming an extremely hot accretion disk around it. AGNs have quite complex structures, with many different regions that emit light with different characteristics, and are often surrounded by a donut-shaped torus of dusty material. An AGN sometimes sends out jets of material in opposite directions. While many galaxies have a supermassive black hole in the center, not all are accreting matter and hence not all are AGN.<br/><br/>AGN is a general term that includes objects such as quasars, blazars, Seyfert galaxies, and radio galaxies. The different observational properties of these types of objects are thought to result in part from AGNs being viewed from different angles.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/81/\">Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/268/\">Quasar</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/348/\">Supermassive Black Hole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/426/\">Accretion Disk</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Активное ядро галактики",
+      "body_ru": "Активное ядро галактики (АЯГ) — это очень яркая область в центре галактики. Считается, что его энергия обеспечивается сверхмассивной чёрной дырой, которая аккрецирует окружающее вещество, образуя вокруг себя чрезвычайно горячий аккреционный диск. АЯГ имеют довольно сложную структуру с множеством различных областей, излучающих свет с разными характеристиками, и часто окружены тороидальной структурой из пылевого материала в форме пончика. Иногда АЯГ выбрасывает струи вещества в противоположных направлениях. Хотя многие галактики имеют сверхмассивную чёрную дыру в центре, не все из них аккрецируют вещество, и поэтому не все являются АЯГ. АЯГ — это общий термин, который включает такие объекты, как квазары, блазары, сейфертовские галактики и радиогалактики. Считается, что различные наблюдательные свойства этих типов объектов частично обусловлены тем, что АЯГ наблюдаются под разными углами."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "活動銀河核 (external link)",
+          "url": "https://astro-dic.jp/active-galactic-nucleus/",
+          "text_ru": "Активное ядро галактики (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/5/\">النواة المجرية النشطة </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/5/\">সক্রিয় ছায়াপথ কেন্দ্রীণ </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/5/\">Aktiver Galaktischer Kern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/5/\">Núcleo Galáctico Activo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/5/\">Noyau actif de galaxie </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/5/\">सक्रिय गैलेक्टिक नाभिक (ऍक्टिव्ह गॅलेक्टिक न्युक्लीअस) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/5/\">Nucleo galattico attivo </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/active-galactic-nucleus/\">活動銀河核 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/5/\">활동은하핵 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/5/\">सक्रिय गॅलेक्टिक केंद्रक (ऍक्टिव्ह गॅलेक्टिक न्युक्लीअस) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/5/\">Núcleo Galáctico Ativo </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/5/\">活动星系核 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/5/\">活動星系核 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/OK9eF951y19/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic2411b/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/WI62fu45DB47/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/potw1634a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:OK9eF951y19",
+        "media:WI62fu45DB47"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/OK9eF951y19/\"><img alt=\"A fuzzy round galaxy with a bright core has a patchy jet that appear white or blue extending to the upper right\" src=\"/media/multimedia/thumbnails/jet-ejected-from-the-active-galaxy-m87_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jet Ejected from the Active Galaxy M87</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> A 3000-light-year-long jet streaming from the core of galaxy M87, as captured by the Hubble Space Telescope. The center of this image shows the core of the elliptical galaxy M87 (in the constellation Virgo) which hosts an active galactic nucleus (AGN). \n\nAn AGN is a very luminous region around a supermassive black hole. It is powered by matter falling towards the black hole and forming a hot accretion disk. Many galaxies host a supermassive black hole, but not all of them are accreting enough matter to appear as an AGN.\n\nThe strong gravity of the supermassive black hole in the heart of M87 has caused a huge jet of charges particles to be flung out from the accretion disk. This extends far out into the galaxy itself, beyond the core region. Here we see the jet as a whitish-blue line which gets wider the further it goes from the core. The light emission we see here is caused by the energetic electrons in the jet interacting with magnetic fields.<br/>\n<b>Credit:</b> NASA, ESA, A. Lessing (Stanford University), E. Baltz (Stanford University), M. Shara (AMNH), J. DePasquale (STScI)\n\t  <a href=\"https://esahubble.org/images/heic2411b/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/WI62fu45DB47/\"><img alt=\"The central part of this galaxy is a fuzzy straight line with spiral arms extending from each end of that line.\" src=\"/media/multimedia/thumbnails/hubble-image-of-barred-spiral-galaxy-ugc-6093_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hubble Image of Barred Spiral Galaxy UGC 6093</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image from the Hubble Space Telescope shows the barred spiral galaxy UGC 6093. This galaxy has two spiral arms in its outer regions but the inner edge of each arm joins with the outer edge of a straight bar feature that goes across the galaxy's center. \n\nThis galaxy has been classified as an active galaxy due to the emissions of certain lines in its spectrum. This indicates that the supermassive black hole that lies in the center of the galaxy is accreting gas from its surroundings. Unlike some active galactic nuclei (AGN), the center of this galaxy does not shine especially brightly in the visible light so its status as an AGN is not immediately visible from this image.<br/>\n<b>Credit:</b> ESA/Hubble &amp; NASA\n\t  <a href=\"https://esahubble.org/images/potw1634a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Active Galactic Nucleus",
+      "aliases": [
+        "AGN"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Active Galactic Nucleus",
+          "body": "An active galactic nucleus (AGN) is a very luminous region at the center of a galaxy. It is thought to be powered by a supermassive black hole which accretes surrounding matter, forming an extremely hot accretion disk around it. AGNs have quite complex structures, with many different regions that emit light with different characteristics, and are often surrounded by a donut-shaped torus of dusty material. An AGN sometimes sends out jets of material in opposite directions. While many galaxies have a supermassive black hole in the center, not all are accreting matter and hence not all are AGN. AGN is a general term that includes objects such as quasars, blazars, Seyfert galaxies, and radio galaxies. The different observational properties of these types of objects are thought to result in part from AGNs being viewed from different angles."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Активное ядро галактики",
+      "aliases": [
+        "АЯГ"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Активное ядро галактики",
+          "body": "Активное ядро галактики (АЯГ) — это очень яркая область в центре галактики. Считается, что его энергия обеспечивается сверхмассивной чёрной дырой, которая аккрецирует окружающее вещество, образуя вокруг себя чрезвычайно горячий аккреционный диск. АЯГ имеют довольно сложную структуру с множеством различных областей, излучающих свет с разными характеристиками, и часто окружены тороидальной структурой из пылевого материала в форме пончика. Иногда АЯГ выбрасывает струи вещества в противоположных направлениях. Хотя многие галактики имеют сверхмассивную чёрную дыру в центре, не все из них аккрецируют вещество, и поэтому не все являются АЯГ. АЯГ — это общий термин, который включает такие объекты, как квазары, блазары, сейфертовские галактики и радиогалактики. Считается, что различные наблюдательные свойства этих типов объектов частично обусловлены тем, что АЯГ наблюдаются под разными углами."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:OK9eF951y19",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/jet-ejected-from-the-active-galaxy-m87.png",
+      "record_url": "https://astro4edu.org/resources/media/OK9eF951y19/",
+      "original_path": "data/media/original/media_OK9eF951y19.png",
+      "ru_path": null,
+      "sha256": "0bdce3ac3f4eee54c948656eef2355c052cb3bddb86f4b7eb06a20d1143546d7",
+      "size": 7695733,
+      "title_en": "Jet Ejected from the Active Galaxy M87",
+      "title_ru": "Струя, выброшенная из активной галактики M87",
+      "short_caption_en": "Jet Ejected from the Active Galaxy M87",
+      "short_caption_ru": "Струя, выброшенная из активной галактики M87",
+      "caption_en": "A 3000-light-year-long jet streaming from the core of galaxy M87, as captured by the Hubble Space Telescope. The center of this image shows the core of the elliptical galaxy M87 (in the constellation Virgo) which hosts an active galactic nucleus (AGN). \r\n\r\nAn AGN is a very luminous region around a supermassive black hole. It is powered by matter falling towards the black hole and forming a hot accretion disk. Many galaxies host a supermassive black hole, but not all of them are accreting enough matter to appear as an AGN.\r\n\r\nThe strong gravity of the supermassive black hole in the heart of M87 has caused a huge jet of charges particles to be flung out from the accretion disk. This extends far out into the galaxy itself, beyond the core region. Here we see the jet as a whitish-blue line which gets wider the further it goes from the core. The light emission we see here is caused by the energetic electrons in the jet interacting with magnetic fields.",
+      "caption_ru": "Струя длиной 3000 световых лет, исходящая из ядра галактики M87, запечатлённая космическим телескопом Хаббл. В центре этого изображения показано ядро эллиптической галактики M87 (в созвездии Девы), которое содержит активное ядро галактики (АЯГ). \r\n\r\nАЯГ — это очень яркая область вокруг сверхмассивной чёрной дыры. Его энергия обеспечивается веществом, падающим на чёрную дыру и образующим горячий аккреционный диск. Многие галактики содержат сверхмассивную чёрную дыру, но не все из них аккрецируют достаточно вещества, чтобы выглядеть как АЯГ.\r\n\r\nСильная гравитация сверхмассивной чёрной дыры в сердце M87 вызвала выброс огромной струи заряженных частиц из аккреционного диска. Эта струя простирается далеко в саму галактику, за пределы центральной области. Здесь мы видим струю как бело-голубую линию, которая становится шире по мере удаления от ядра. Наблюдаемое здесь излучение света вызвано взаимодействием энергичных электронов в струе с магнитными полями.",
+      "alt_en": "A fuzzy round galaxy with a bright core has a patchy jet that appear white or blue extending to the upper right",
+      "alt_ru": "Размытая круглая галактика с ярким ядром имеет неоднородную струю белого или синего цвета, простирающуюся в верхний правый угол",
+      "credit": "NASA, ESA, A. Lessing (Stanford University), E. Baltz (Stanford University), M. Shara (AMNH), J. DePasquale (STScI)",
+      "credit_url": "https://esahubble.org/images/heic2411b/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        5,
+        99,
+        426,
+        486
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:WI62fu45DB47",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/hubble-image-of-barred-spiral-galaxy-ugc-6093.png",
+      "record_url": "https://astro4edu.org/resources/media/WI62fu45DB47/",
+      "original_path": "data/media/original/media_WI62fu45DB47.png",
+      "ru_path": null,
+      "sha256": "2c8885155376d043e93bb70aae3c8da55fc40299d0ade02d9ae8c91474c0b972",
+      "size": 987800,
+      "title_en": "Hubble Image of Barred Spiral Galaxy UGC 6093",
+      "title_ru": "Изображение Хаббла спиральной галактики с перемычкой UGC 6093",
+      "short_caption_en": "Hubble Image of Barred Spiral Galaxy UGC 6093",
+      "short_caption_ru": "Изображение Хаббла спиральной галактики с перемычкой UGC 6093",
+      "caption_en": "This image from the Hubble Space Telescope shows the barred spiral galaxy UGC 6093. This galaxy has two spiral arms in its outer regions but the inner edge of each arm joins with the outer edge of a straight bar feature that goes across the galaxy's center. \r\n\r\nThis galaxy has been classified as an active galaxy due to the emissions of certain lines in its spectrum. This indicates that the supermassive black hole that lies in the center of the galaxy is accreting gas from its surroundings. Unlike some active galactic nuclei (AGN), the center of this galaxy does not shine especially brightly in the visible light so its status as an AGN is not immediately visible from this image.",
+      "caption_ru": "Это изображение с космического телескопа Хаббл показывает спиральную галактику с перемычкой UGC 6093. Эта галактика имеет две спиральные ветви во внешних областях, но внутренний край каждой ветви соединяется с внешним краем прямолинейной перемычки, проходящей через центр галактики. \r\n\r\nЭта галактика была классифицирована как активная галактика из-за излучения определённых линий в её спектре. Это указывает на то, что сверхмассивная чёрная дыра, находящаяся в центре галактики, аккрецирует газ из окружающего пространства. В отличие от некоторых активных ядер галактик (АЯГ), центр этой галактики не светится особенно ярко в видимом свете, поэтому её статус АЯГ не сразу виден на этом изображении.",
+      "alt_en": "The central part of this galaxy is a fuzzy straight line with spiral arms extending from each end of that line.",
+      "alt_ru": "Центральная часть этой галактики представляет собой размытую прямую линию, от каждого конца которой отходят спиральные ветви.",
+      "credit": "ESA/Hubble & NASA",
+      "credit_url": "https://esahubble.org/images/potw1634a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        5,
+        348,
+        443,
+        514
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

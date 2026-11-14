@@ -1,0 +1,298 @@
+{
+  "id": "term:229",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 229,
+    "url": "https://astro4edu.org/resources/glossary/term/229/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=229",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:23.907798+00:00",
+    "sha256": "81c253e536cce676755f7b74cfc0086ee20326d119f778c17aacb400c2cf3c4c"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      3
+    ],
+    "categories_ru": [
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      378,
+      451,
+      459
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Optical Astronomy",
+      "body": "Optical astronomy is the practice of studying and observing the Universe (stars, planets, dwarf planets, asteroids, etc.) in the near-infrared, in visible light, and in ultraviolet light. The reason for lumping those three kinds of electromagnetic radiation together is that the optical telescopes, with glass lenses and/or metallic mirrors, that astronomers had originally constructed for observing visible light from celestial objects, are equally well-suited for observing near-infrared or ultraviolet light. In addition, the Earth's atmosphere is transparent not only for visible light, but for the directly adjacent infrared and ultraviolet regions, allowing all three kinds of observations from the ground. Last but not least, the camera chips astronomers use for visible-light observations can also detect near-infrared and ultraviolet light. Put all of this together, and the telescopes and instruments astronomers use to observe visible light work just as well for near-infrared and ultraviolet observations. In consequence, it makes sense for astronomers to collectively describe observations in that range of the electromagnetic spectrum with a single term, namely optical astronomy. The adjective \"optical\" is also used to describe the spectral range, as in \"the optical part of the spectrum.\" Observations in that range are \"optical observations\".",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Visible Spectrum",
+          "url": "https://www.astro4edu.org/resources/glossary/term/378/",
+          "text_ru": "Видимый спектр"
+        },
+        {
+          "text": "Lens",
+          "url": "https://www.astro4edu.org/resources/glossary/term/451/",
+          "text_ru": "Линза"
+        },
+        {
+          "text": "Mirror",
+          "url": "https://www.astro4edu.org/resources/glossary/term/459/",
+          "text_ru": "Зеркало"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Optical Astronomy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Optical astronomy is the practice of studying and observing the Universe (stars, planets, dwarf planets, asteroids, etc.) in the near-infrared, in visible light, and in ultraviolet light. The reason for lumping those three kinds of electromagnetic radiation together is that the optical telescopes, with glass lenses and/or metallic mirrors, that astronomers had originally constructed for observing visible light from celestial objects, are equally well-suited for observing near-infrared or ultraviolet light. In addition, the Earth's atmosphere is transparent not only for visible light, but for the directly adjacent infrared and ultraviolet regions, allowing all three kinds of observations from the ground. Last but not least, the camera chips astronomers use for visible-light observations can also detect near-infrared and ultraviolet light. Put all of this together, and the telescopes and instruments astronomers use to observe visible light work just as well for near-infrared and ultraviolet observations. In consequence, it makes sense for astronomers to collectively describe observations in that range of the electromagnetic spectrum with a single term, namely optical astronomy. The adjective \"optical\" is also used to describe the spectral range, as in \"the optical part of the spectrum.\" Observations in that range are \"optical observations\".</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/378/\">Visible Spectrum</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/451/\">Lens</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/459/\">Mirror</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Оптическая астрономия",
+      "body_ru": "Оптическая астрономия — это практика изучения и наблюдения Вселенной (звёзд, планет, карликовых планет, астероидов и т. д.) в ближнем инфракрасном, видимом и ультрафиолетовом свете. Причина объединения этих трёх видов электромагнитного излучения вместе заключается в том, что оптические телескопы со стеклянными линзами и/или металлическими зеркалами, которые астрономы изначально создали для наблюдения видимого света от небесных объектов, одинаково хорошо подходят для наблюдения ближнего инфракрасного или ультрафиолетового света. Кроме того, атмосфера Земли прозрачна не только для видимого света, но и для непосредственно прилегающих инфракрасной и ультрафиолетовой областей, что позволяет проводить все три вида наблюдений с земли. И последнее, но не менее важное: камерные чипы, которые астрономы используют для наблюдений в видимом свете, также могут обнаруживать ближний инфракрасный и ультрафиолетовый свет. Собрав всё это вместе, мы видим, что телескопы и инструменты, которые астрономы используют для наблюдения видимого света, работают так же хорошо для ближних инфракрасных и ультрафиолетовых наблюдений. Следовательно, астрономам имеет смысл совместно описывать наблюдения в этом диапазоне электромагнитного спектра одним термином, а именно оптическая астрономия. Прилагательное «оптический» также используется для описания спектрального диапазона, как в выражении «оптическая часть спектра». Наблюдения в этом диапазоне — это «оптические наблюдения»."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/229/\">علم الفلك البصري </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/229/\">Optische Astronomie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/229/\">Astronomía óptica </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/229/\">Astronomie optique </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/229/\">Astronomia ottica </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/229/\">광학천문학 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/229/\">Astronomia Óptica </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/229/\">光学天文学 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/229/\">光學天文學 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/3x510K79yO81/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/hubble_earth/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Rc94J483CO25/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.jpl.nasa.gov/images/pia04493-keck-interferometer",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Q08eT66Uc96/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        }
+      ],
+      "media_ids": [
+        "media:3x510K79yO81",
+        "media:Rc94J483CO25",
+        "media:Q08eT66Uc96"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/3x510K79yO81/\"><img alt=\"The silver-coloured Hubble Space Telescope with the blue ocean and white clouds of the Earth visible underneath.\" src=\"/media/multimedia/thumbnails/hubble_earth_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hubble Space Telescope over Earth</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The NASA/ESA Hubble Space Telescope orbiting Earth. This picture was taken by astronauts on board the space shuttle Columbia, right after the Servicing Mission 3B to the space telescope itself. The telescope has an opening that allows light in (seen here on the left). The light travels through the telescope optics to the cameras and spectrographs located in the bulge at the other end of the observatory (seen here on the right). Data from these instruments is then sent back to Earth using an antenna. The black rectangles on either side of the observatory are the solar panels that provide it with power.<br/>\n<b>Credit:</b> NASA/ESA\n\t  <a href=\"https://esahubble.org/images/hubble_earth/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Rc94J483CO25/\"><img alt=\"The two Keck telescopes seen from above. The domes are open and the telescopes' mirrors can be seen inside.\" src=\"/media/multimedia/thumbnails/jpegPIA04493_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Keck Telescopes</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The two Keck telescopes on Mauna Kea on the island of Hawai`i. These two telescopes are reflecting telescopes with primary mirrors 10m across.<br/>\n<b>Credit:</b> NASA/JPL\n\t  <a href=\"https://www.jpl.nasa.gov/images/pia04493-keck-interferometer\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Q08eT66Uc96/\"><img alt=\"The left image has finger-shaped clouds with bright edges. In the right image we see stars shining through those clouds\" src=\"/media/multimedia/thumbnails/the-pillars-of-creation-in-comparison_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Pillars of Creation in comparison</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The 'Pillars of Creation' are a renowned astronomical feature situated within the Eagle Nebula in the Serpens constellation. The illustration provides a direct comparison between images captured by the Hubble Space Telescope (HST) and the James Webb Space Telescope (JWST), showcasing the pillars, which span several light years in diameter, in both visible light (also known as optical light) and infrared light. On the left are the pillars as seen by Hubble in visual light, taken in 2014. It displays dark pillars against an opaque background, with only a handful of visible stars. Conversely, the counterpart on the right is Webb’s near-infrared view published in 2022, penetrating the dust and revealing numerous stars of varying sizes.\nTheir distance from Earth is approximately 6,500 to 7,000 light years. Within these pillars, new stars are constantly forming, making them a subject of extensive study by astronomers. Composed mostly of cool molecular hydrogen and small amounts of interstellar dust, they are subject to erosion by the intense ultraviolet radiation emitted by nearby massive and newborn stars, a process known as photoevaporation.<br/>\n<b>Credit:</b> NASA, ESA, CSA, STScI\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Optical Astronomy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Optical Astronomy",
+          "body": "Optical astronomy is the practice of studying and observing the Universe (stars, planets, dwarf planets, asteroids, etc.) in the near-infrared, in visible light, and in ultraviolet light. The reason for lumping those three kinds of electromagnetic radiation together is that the optical telescopes, with glass lenses and/or metallic mirrors, that astronomers had originally constructed for observing visible light from celestial objects, are equally well-suited for observing near-infrared or ultraviolet light. In addition, the Earth's atmosphere is transparent not only for visible light, but for the directly adjacent infrared and ultraviolet regions, allowing all three kinds of observations from the ground. Last but not least, the camera chips astronomers use for visible-light observations can also detect near-infrared and ultraviolet light. Put all of this together, and the telescopes and instruments astronomers use to observe visible light work just as well for near-infrared and ultraviolet observations. In consequence, it makes sense for astronomers to collectively describe observations in that range of the electromagnetic spectrum with a single term, namely optical astronomy. The adjective \"optical\" is also used to describe the spectral range, as in \"the optical part of the spectrum.\" Observations in that range are \"optical observations\"."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Оптическая астрономия",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Оптическая астрономия",
+          "body": "Оптическая астрономия — это практика изучения и наблюдения Вселенной (звёзд, планет, карликовых планет, астероидов и т. д.) в ближнем инфракрасном, видимом и ультрафиолетовом свете. Причина объединения этих трёх видов электромагнитного излучения вместе заключается в том, что оптические телескопы со стеклянными линзами и/или металлическими зеркалами, которые астрономы изначально создали для наблюдения видимого света от небесных объектов, одинаково хорошо подходят для наблюдения ближнего инфракрасного или ультрафиолетового света. Кроме того, атмосфера Земли прозрачна не только для видимого света, но и для непосредственно прилегающих инфракрасной и ультрафиолетовой областей, что позволяет проводить все три вида наблюдений с земли. И последнее, но не менее важное: камерные чипы, которые астрономы используют для наблюдений в видимом свете, также могут обнаруживать ближний инфракрасный и ультрафиолетовый свет. Собрав всё это вместе, мы видим, что телескопы и инструменты, которые астрономы используют для наблюдения видимого света, работают так же хорошо для ближних инфракрасных и ультрафиолетовых наблюдений. Следовательно, астрономам имеет смысл совместно описывать наблюдения в этом диапазоне электромагнитного спектра одним термином, а именно оптическая астрономия. Прилагательное «оптический» также используется для описания спектрального диапазона, как в выражении «оптическая часть спектра». Наблюдения в этом диапазоне — это «оптические наблюдения»."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:3x510K79yO81",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/hubble_earth.jpg",
+      "record_url": "https://astro4edu.org/resources/media/3x510K79yO81/",
+      "original_path": "data/media/original/media_3x510K79yO81.jpg",
+      "ru_path": null,
+      "sha256": "92a0e3f2f629f5d6ea7c321fb5ef43634ab7565a015c98d1a2da99e131b402f2",
+      "size": 1305565,
+      "title_en": "Hubble Space Telescope over Earth",
+      "title_ru": "Космический телескоп «Хаббл» над Землёй",
+      "short_caption_en": "Hubble Space Telescope over Earth",
+      "short_caption_ru": "Космический телескоп «Хаббл» над Землёй",
+      "caption_en": "The NASA/ESA Hubble Space Telescope orbiting Earth. This picture was taken by astronauts on board the space shuttle Columbia, right after the Servicing Mission 3B to the space telescope itself. The telescope has an opening that allows light in (seen here on the left). The light travels through the telescope optics to the cameras and spectrographs located in the bulge at the other end of the observatory (seen here on the right). Data from these instruments is then sent back to Earth using an antenna. The black rectangles on either side of the observatory are the solar panels that provide it with power.",
+      "caption_ru": "Космический телескоп НАСА/ЕКА «Хаббл» на орбите Земли. Этот снимок был сделан астронавтами на борту шаттла «Колумбия» сразу после миссии обслуживания 3B самого космического телескопа. Телескоп имеет отверстие, через которое поступает свет (видно здесь слева). Свет проходит через оптику телескопа к камерам и спектрографам, расположенным в выпуклости на другом конце обсерватории (видно здесь справа). Данные с этих инструментов затем отправляются обратно на Землю с помощью антенны. Чёрные прямоугольники по обе стороны обсерватории — это солнечные панели, которые обеспечивают её энергией.",
+      "alt_en": "The silver-coloured Hubble Space Telescope with the blue ocean and white clouds of the Earth visible underneath.",
+      "alt_ru": "Серебристый космический телескоп «Хаббл» с видимыми внизу голубым океаном и белыми облаками Земли.",
+      "credit": "NASA/ESA",
+      "credit_url": "https://esahubble.org/images/hubble_earth/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        156,
+        227,
+        229,
+        322
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Rc94J483CO25",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/jpegPIA04493.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Rc94J483CO25/",
+      "original_path": "data/media/original/media_Rc94J483CO25.jpg",
+      "ru_path": null,
+      "sha256": "1e5a9e0b29c32ce9a55245bc097814249541ae145b678cc14d89f16347d5fa6f",
+      "size": 45041,
+      "title_en": "Keck Telescopes",
+      "title_ru": "Телескопы Кек",
+      "short_caption_en": "Keck Telescopes",
+      "short_caption_ru": "Телескопы Кек",
+      "caption_en": "The two Keck telescopes on Mauna Kea on the island of Hawai`i. These two telescopes are reflecting telescopes with primary mirrors 10m across.",
+      "caption_ru": "Два телескопа Кек на Мауна-Кеа на острове Гавайи. Эти два телескопа являются зеркальными телескопами с главными зеркалами диаметром 10 м.",
+      "alt_en": "The two Keck telescopes seen from above. The domes are open and the telescopes' mirrors can be seen inside.",
+      "alt_ru": "Два телескопа Кек, вид сверху. Купола открыты, и внутри видны зеркала телескопов.",
+      "credit": "NASA/JPL",
+      "credit_url": "https://www.jpl.nasa.gov/images/pia04493-keck-interferometer",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        156,
+        227,
+        229,
+        279
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Q08eT66Uc96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-pillars-of-creation-in-comparison.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Q08eT66Uc96/",
+      "original_path": "data/media/original/media_Q08eT66Uc96.jpg",
+      "ru_path": null,
+      "sha256": "cd1a44eb4e61373056ab92394baec96f21d7f6c3c3e4bf86ae0c66dc544ba172",
+      "size": 12030803,
+      "title_en": "The Pillars of Creation in comparison",
+      "title_ru": "Столпы Творения в сравнении",
+      "short_caption_en": "The Pillars of Creation in comparison",
+      "short_caption_ru": "Столпы Творения в сравнении",
+      "caption_en": "The 'Pillars of Creation' are a renowned astronomical feature situated within the Eagle Nebula in the Serpens constellation. The illustration provides a direct comparison between images captured by the Hubble Space Telescope (HST) and the James Webb Space Telescope (JWST), showcasing the pillars, which span several light years in diameter, in both visible light (also known as optical light) and infrared light. On the left are the pillars as seen by Hubble in visual light, taken in 2014. It displays dark pillars against an opaque background, with only a handful of visible stars. Conversely, the counterpart on the right is Webb’s near-infrared view published in 2022, penetrating the dust and revealing numerous stars of varying sizes.\r\nTheir distance from Earth is approximately 6,500 to 7,000 light years. Within these pillars, new stars are constantly forming, making them a subject of extensive study by astronomers. Composed mostly of cool molecular hydrogen and small amounts of interstellar dust, they are subject to erosion by the intense ultraviolet radiation emitted by nearby massive and newborn stars, a process known as photoevaporation.",
+      "caption_ru": "«Столпы Творения» — известная астрономическая структура, расположенная в туманности Орёл в созвездии Змеи. Иллюстрация позволяет напрямую сравнить изображения, полученные космическим телескопом «Хаббл» (HST) и космическим телескопом «Джеймс Уэбб» (JWST), демонстрируя столпы, простирающиеся на несколько световых лет в поперечнике, в видимом свете (также известном как оптический свет) и в инфракрасном свете. Слева — столпы, какими их увидел «Хаббл» в видимом свете, снимок сделан в 2014. На нём видны тёмные столпы на непрозрачном фоне, и лишь несколько звёзд. Напротив, справа — ближний инфракрасный снимок «Уэбба», опубликованный в 2022, который проникает сквозь пыль и показывает множество звёзд разного размера.\r\nИх расстояние от Земли составляет примерно от 6,500 до 7,000 световых лет. Внутри этих столпов постоянно формируются новые звёзды, что делает их предметом обширных исследований астрономов. Состоящие в основном из холодного молекулярного водорода и небольшого количества межзвёздной пыли, они подвергаются эрозии под воздействием интенсивного ультрафиолетового излучения, испускаемого близлежащими массивными и новорождёнными звёздами, — процесс, известный как фотоиспарение.",
+      "alt_en": "The left image has finger-shaped clouds with bright edges. In the right image we see stars shining through those clouds",
+      "alt_ru": "На левом изображении видны облака в форме пальцев с яркими краями. На правом изображении мы видим звёзды, сияющие сквозь эти облака",
+      "credit": "NASA, ESA, CSA, STScI",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png",
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        156,
+        157,
+        229,
+        333,
+        378,
+        438
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

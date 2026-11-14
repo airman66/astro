@@ -1,0 +1,153 @@
+{
+  "id": "term:425",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 425,
+    "url": "https://astro4edu.org/resources/glossary/term/425/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=425",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:22.638568+00:00",
+    "sha256": "363581bd0b17e98d4e3672ee44dc42b26c36452e42d50b1ff9ca86173fb737df"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Galaxies",
+      "Stars"
+    ],
+    "category_ids": [
+      6,
+      8,
+      2
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Галактики",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      5,
+      40,
+      43,
+      264,
+      426,
+      507
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Accretion",
+      "body": "Accretion is the process of an astrophysical object attracting additional matter, typically gas or dust, by its gravitational pull. Accretion happens in many different astronomical scenarios including (but not limited to): gas accreting onto a black hole, stars in binary systems accreting matter from their companion, young stars accreting gas from a disk of material surrounding them, and galaxies accreting stars from other galaxies.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Active Galactic Nucleus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/5/",
+          "text_ru": "Активное ядро галактики"
+        },
+        {
+          "text": "Binary Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/40/",
+          "text_ru": "Двойная звезда"
+        },
+        {
+          "text": "Black Hole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/43/",
+          "text_ru": "Чёрная дыра"
+        },
+        {
+          "text": "Protostar",
+          "url": "https://www.astro4edu.org/resources/glossary/term/264/",
+          "text_ru": "Протозвезда"
+        },
+        {
+          "text": "Accretion Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/426/",
+          "text_ru": "Аккреционный диск"
+        },
+        {
+          "text": "Cataclysmic Variable",
+          "url": "https://www.astro4edu.org/resources/glossary/term/507/",
+          "text_ru": "Катаклизмическая переменная"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Accretion</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Accretion is the process of an astrophysical object attracting additional matter, typically gas or dust, by its gravitational pull. Accretion happens in many different astronomical scenarios including (but not limited to): gas accreting onto a black hole, stars in binary systems accreting matter from their companion, young stars accreting gas from a disk of material surrounding them, and galaxies accreting stars from other galaxies.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/5/\">Active Galactic Nucleus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/40/\">Binary Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/43/\">Black Hole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/264/\">Protostar</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/426/\">Accretion Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/507/\">Cataclysmic Variable</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Аккреция",
+      "body_ru": "Аккреция — это процесс, при котором астрофизический объект притягивает дополнительное вещество, обычно газ или пыль, посредством своей гравитационной силы. Аккреция происходит во многих различных астрономических сценариях, включая (но не ограничиваясь): аккрецию газа на черную дыру, аккрецию вещества звездами в двойных системах от их компаньонов, аккрецию газа молодыми звездами из окружающего их диска вещества и аккрецию звезд галактиками из других галактик."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "降着 (external link)",
+          "url": "https://astro-dic.jp/accretion/",
+          "text_ru": "Аккреция (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/425/\">التراكم </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/425/\">বিবৃদ্ধি </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/425/\">Akkretion </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/425/\">Acreción </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/425/\">Accrétion </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/425/\">अभिवृद्धि </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/425/\">accrescimento </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/accretion/\">降着 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/425/\">강착 </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/425/\">अभिवृद्धि (अॅक्रिशन) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/425/\">Acreção </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/425/\">吸积 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/425/\">吸積 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Accretion",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Accretion",
+          "body": "Accretion is the process of an astrophysical object attracting additional matter, typically gas or dust, by its gravitational pull. Accretion happens in many different astronomical scenarios including (but not limited to): gas accreting onto a black hole, stars in binary systems accreting matter from their companion, young stars accreting gas from a disk of material surrounding them, and galaxies accreting stars from other galaxies."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Аккреция",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Аккреция",
+          "body": "Аккреция — это процесс, при котором астрофизический объект притягивает дополнительное вещество, обычно газ или пыль, посредством своей гравитационной силы. Аккреция происходит во многих различных астрономических сценариях, включая (но не ограничиваясь): аккрецию газа на черную дыру, аккрецию вещества звездами в двойных системах от их компаньонов, аккрецию газа молодыми звездами из окружающего их диска вещества и аккрецию звезд галактиками из других галактик."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

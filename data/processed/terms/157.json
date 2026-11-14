@@ -1,0 +1,236 @@
+{
+  "id": "term:157",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 157,
+    "url": "https://astro4edu.org/resources/glossary/term/157/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=157",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:02.003329+00:00",
+    "sha256": "27eff66605d9496ae54887fb1fba3d4940e8da219aedef5212c17fe17d21b0f6"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Telescopes, Instruments and Observatories"
+    ],
+    "category_ids": [
+      3
+    ],
+    "categories_ru": [
+      "Телескопы, инструменты и обсерватории"
+    ],
+    "related_term_numbers": [
+      155,
+      156
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Infrared Telescope",
+      "body": "An infrared telescope observes infrared light and is used for infrared astronomy. Infrared telescopes can be situated on the ground or in space. Observatories situated on Earth are limited in what they can observe by atmospheric absorption and infrared radiation emitted by the Earth's atmosphere, the telescope itself, and its surroundings. Space infrared telescopes do not need to deal with atmospheric absorption or infrared radiation from their immediate surroundings and can be shielded from the Sun and cooled, reducing the infrared radiation emitted by the telescope.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Infrared (IR)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/155/",
+          "text_ru": "Инфракрасное (ИК)"
+        },
+        {
+          "text": "Infrared Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/156/",
+          "text_ru": "Инфракрасная астрономия"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Infrared Telescope</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An infrared telescope observes infrared light and is used for infrared astronomy. Infrared telescopes can be situated on the ground or in space. Observatories situated on Earth are limited in what they can observe by atmospheric absorption and infrared radiation emitted by the Earth's atmosphere, the telescope itself, and its surroundings. Space infrared telescopes do not need to deal with atmospheric absorption or infrared radiation from their immediate surroundings and can be shielded from the Sun and cooled, reducing the infrared radiation emitted by the telescope.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/155/\">Infrared (IR)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/156/\">Infrared Astronomy</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: инфракрасный телескоп",
+      "body_ru": "Инфракрасный телескоп наблюдает инфракрасный свет и используется для инфракрасной астрономии. Инфракрасные телескопы могут располагаться на земле или в космосе. Наблюдательные возможности обсерваторий, расположенных на Земле, ограничены атмосферным поглощением и инфракрасным излучением, испускаемым атмосферой Земли, самим телескопом и его окружением. Космическим инфракрасным телескопам не нужно иметь дело с атмосферным поглощением или инфракрасным излучением от их непосредственного окружения, и их можно экранировать от Солнца и охлаждать, что уменьшает инфракрасное излучение, испускаемое телескопом."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/157/\">تلسكوب الأشعة تحت الحمراء </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/157/\">Infrarotteleskop </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/157/\">Telescopio infrarrojo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/157/\">Télescope infrarouge </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/157/\">Telescopio a infrarossi </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/157/\">Telescópio infravermelho </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/157/\">红外望远镜 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/157/\">紅外望遠鏡 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Q08eT66Uc96/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Hn24Uy22UQ58/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:SOFIA_ED10-0182-01_full.jpg",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:Q08eT66Uc96",
+        "media:Hn24Uy22UQ58"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Q08eT66Uc96/\"><img alt=\"The left image has finger-shaped clouds with bright edges. In the right image we see stars shining through those clouds\" src=\"/media/multimedia/thumbnails/the-pillars-of-creation-in-comparison_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Pillars of Creation in comparison</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The 'Pillars of Creation' are a renowned astronomical feature situated within the Eagle Nebula in the Serpens constellation. The illustration provides a direct comparison between images captured by the Hubble Space Telescope (HST) and the James Webb Space Telescope (JWST), showcasing the pillars, which span several light years in diameter, in both visible light (also known as optical light) and infrared light. On the left are the pillars as seen by Hubble in visual light, taken in 2014. It displays dark pillars against an opaque background, with only a handful of visible stars. Conversely, the counterpart on the right is Webb’s near-infrared view published in 2022, penetrating the dust and revealing numerous stars of varying sizes.\nTheir distance from Earth is approximately 6,500 to 7,000 light years. Within these pillars, new stars are constantly forming, making them a subject of extensive study by astronomers. Composed mostly of cool molecular hydrogen and small amounts of interstellar dust, they are subject to erosion by the intense ultraviolet radiation emitted by nearby massive and newborn stars, a process known as photoevaporation.<br/>\n<b>Credit:</b> NASA, ESA, CSA, STScI\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Hn24Uy22UQ58/\"><img alt=\"The SOFIA Telescope sits inside the body of a modified Boeing 747 aircraft and observes the universe.\" src=\"/media/multimedia/thumbnails/sofia-unveiling-the-infrared-universe-from-the-skies_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">SOFIA: Unveiling the Infrared Universe from the Skies</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the Stratospheric Observatory for Infrared Astronomy (SOFIA) telescope. This telescope which operated from 2010 to 2022 was mounted in a modified Boeing 747 aircraft with a section of the rear fuselage removed to allow the telescope to observe the sky and with other modifications that allow it to fly at a higher altitude than a standard 747. \n\nMany molecules which are common in the Earth's atmosphere (such as water, carbon dioxide and methane) absorb radiation at infrared wavelengths. This interferes with infrared observations made from the ground. SOFIA flew at an altitude that puts it above most of the water vapour in the Earth's atmosphere, greatly reducing the impact of absorption by water molecules on its observations.<br/>\n<b>Credit:</b> NASA photo / Jim Ross\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:SOFIA_ED10-0182-01_full.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Infrared Telescope",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Infrared Telescope",
+          "body": "An infrared telescope observes infrared light and is used for infrared astronomy. Infrared telescopes can be situated on the ground or in space. Observatories situated on Earth are limited in what they can observe by atmospheric absorption and infrared radiation emitted by the Earth's atmosphere, the telescope itself, and its surroundings. Space infrared telescopes do not need to deal with atmospheric absorption or infrared radiation from their immediate surroundings and can be shielded from the Sun and cooled, reducing the infrared radiation emitted by the telescope."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Инфракрасный телескоп",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: инфракрасный телескоп",
+          "body": "Инфракрасный телескоп наблюдает инфракрасный свет и используется для инфракрасной астрономии. Инфракрасные телескопы могут располагаться на земле или в космосе. Наблюдательные возможности обсерваторий, расположенных на Земле, ограничены атмосферным поглощением и инфракрасным излучением, испускаемым атмосферой Земли, самим телескопом и его окружением. Космическим инфракрасным телескопам не нужно иметь дело с атмосферным поглощением или инфракрасным излучением от их непосредственного окружения, и их можно экранировать от Солнца и охлаждать, что уменьшает инфракрасное излучение, испускаемое телескопом."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Q08eT66Uc96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-pillars-of-creation-in-comparison.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Q08eT66Uc96/",
+      "original_path": "data/media/original/media_Q08eT66Uc96.jpg",
+      "ru_path": null,
+      "sha256": "cd1a44eb4e61373056ab92394baec96f21d7f6c3c3e4bf86ae0c66dc544ba172",
+      "size": 12030803,
+      "title_en": "The Pillars of Creation in comparison",
+      "title_ru": "Столпы Творения в сравнении",
+      "short_caption_en": "The Pillars of Creation in comparison",
+      "short_caption_ru": "Столпы Творения в сравнении",
+      "caption_en": "The 'Pillars of Creation' are a renowned astronomical feature situated within the Eagle Nebula in the Serpens constellation. The illustration provides a direct comparison between images captured by the Hubble Space Telescope (HST) and the James Webb Space Telescope (JWST), showcasing the pillars, which span several light years in diameter, in both visible light (also known as optical light) and infrared light. On the left are the pillars as seen by Hubble in visual light, taken in 2014. It displays dark pillars against an opaque background, with only a handful of visible stars. Conversely, the counterpart on the right is Webb’s near-infrared view published in 2022, penetrating the dust and revealing numerous stars of varying sizes.\r\nTheir distance from Earth is approximately 6,500 to 7,000 light years. Within these pillars, new stars are constantly forming, making them a subject of extensive study by astronomers. Composed mostly of cool molecular hydrogen and small amounts of interstellar dust, they are subject to erosion by the intense ultraviolet radiation emitted by nearby massive and newborn stars, a process known as photoevaporation.",
+      "caption_ru": "«Столпы Творения» — известная астрономическая структура, расположенная в туманности Орёл в созвездии Змеи. Иллюстрация позволяет напрямую сравнить изображения, полученные космическим телескопом «Хаббл» (HST) и космическим телескопом «Джеймс Уэбб» (JWST), демонстрируя столпы, простирающиеся на несколько световых лет в поперечнике, в видимом свете (также известном как оптический свет) и в инфракрасном свете. Слева — столпы, какими их увидел «Хаббл» в видимом свете, снимок сделан в 2014. На нём видны тёмные столпы на непрозрачном фоне, и лишь несколько звёзд. Напротив, справа — ближний инфракрасный снимок «Уэбба», опубликованный в 2022, который проникает сквозь пыль и показывает множество звёзд разного размера.\r\nИх расстояние от Земли составляет примерно от 6,500 до 7,000 световых лет. Внутри этих столпов постоянно формируются новые звёзды, что делает их предметом обширных исследований астрономов. Состоящие в основном из холодного молекулярного водорода и небольшого количества межзвёздной пыли, они подвергаются эрозии под воздействием интенсивного ультрафиолетового излучения, испускаемого близлежащими массивными и новорождёнными звёздами, — процесс, известный как фотоиспарение.",
+      "alt_en": "The left image has finger-shaped clouds with bright edges. In the right image we see stars shining through those clouds",
+      "alt_ru": "На левом изображении видны облака в форме пальцев с яркими краями. На правом изображении мы видим звёзды, сияющие сквозь эти облака",
+      "credit": "NASA, ESA, CSA, STScI",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png",
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        156,
+        157,
+        229,
+        333,
+        378,
+        438
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Hn24Uy22UQ58",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/sofia-unveiling-the-infrared-universe-from-the-skies.png",
+      "record_url": "https://astro4edu.org/resources/media/Hn24Uy22UQ58/",
+      "original_path": "data/media/original/media_Hn24Uy22UQ58.png",
+      "ru_path": null,
+      "sha256": "ea7207c2e99902872350f3ff9401930fb177ffe0555dde82b386c0f9c112f552",
+      "size": 1759716,
+      "title_en": "SOFIA: Unveiling the Infrared Universe from the Skies",
+      "title_ru": "SOFIA: раскрывая инфракрасную Вселенную с небес",
+      "short_caption_en": "SOFIA: Unveiling the Infrared Universe from the Skies",
+      "short_caption_ru": "SOFIA: раскрывая инфракрасную Вселенную с небес",
+      "caption_en": "This image shows the Stratospheric Observatory for Infrared Astronomy (SOFIA) telescope. This telescope which operated from 2010 to 2022 was mounted in a modified Boeing 747 aircraft with a section of the rear fuselage removed to allow the telescope to observe the sky and with other modifications that allow it to fly at a higher altitude than a standard 747. \r\n\r\nMany molecules which are common in the Earth's atmosphere (such as water, carbon dioxide and methane) absorb radiation at infrared wavelengths. This interferes with infrared observations made from the ground. SOFIA flew at an altitude that puts it above most of the water vapour in the Earth's atmosphere, greatly reducing the impact of absorption by water molecules on its observations.",
+      "caption_ru": "Это изображение показывает телескоп Стратосферной обсерватории инфракрасной астрономии (SOFIA). Этот телескоп, работавший с 2010 по 2022, был установлен в модифицированном самолёте Boeing 747 с удалённой частью задней секции фюзеляжа, чтобы телескоп мог наблюдать небо, и с другими модификациями, позволяющими ему летать на большей высоте, чем стандартный 747.\r\n\r\nМногие молекулы, распространённые в атмосфере Земли (такие как вода, углекислый газ и метан), поглощают излучение на инфракрасных длинах волн. Это мешает инфракрасным наблюдениям с земли. SOFIA летала на высоте, которая поднимает её выше большей части водяного пара в атмосфере Земли, значительно снижая влияние поглощения молекулами воды на её наблюдения.",
+      "alt_en": "The SOFIA Telescope sits inside the body of a modified Boeing 747 aircraft and observes the universe.",
+      "alt_ru": "Телескоп SOFIA находится внутри корпуса модифицированного самолёта Boeing 747 и наблюдает Вселенную.",
+      "credit": "NASA photo / Jim Ross",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:SOFIA_ED10-0182-01_full.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        156,
+        157
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

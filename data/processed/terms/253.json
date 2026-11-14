@@ -1,0 +1,631 @@
+{
+  "id": "term:253",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 253,
+    "url": "https://astro4edu.org/resources/glossary/term/253/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=253",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:31.182481+00:00",
+    "sha256": "3ef010f03dea158c6594b527d790b7c127f6dfa68bac9bb34cf9be0776715013"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Chemistry",
+      "Exoplanets & Astrobiology",
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      12,
+      6,
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Химия",
+      "Экзопланеты и астробиология",
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      89,
+      106,
+      125,
+      129,
+      153,
+      158,
+      167,
+      189,
+      192,
+      212,
+      221,
+      234,
+      294,
+      314,
+      354,
+      375,
+      377
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Planet",
+      "body": "A planet is defined by the International Astronomical Union as a celestial body in orbit around a star or the remnant of a star, that is large enough to be nearly round in shape by its own gravitational force, but not massive enough for thermonuclear fusion to ever occur in its core. It must also be large enough for its gravity to remove other objects that pass close to its orbit around the star. Therefore, they are cold bodies (as compared to stars) that shine in the visible band only by the light reflected from their stars but they do emit light at infrared wavelengths. In our Solar System, eight planets orbit around the Sun. Planets may be basically rocky objects, such as the inner planets – Mercury, Venus, Earth, and Mars – or primarily liquid and gas with a small solid core like the outer planets – Jupiter, Saturn, Uranus, and Neptune. Planets outside the Solar System are called extrasolar planets or exoplanets for short.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Earth",
+          "url": "https://www.astro4edu.org/resources/glossary/term/89/",
+          "text_ru": "Земля"
+        },
+        {
+          "text": "Exoplanet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/106/",
+          "text_ru": "Экзопланета"
+        },
+        {
+          "text": "Gas Giant",
+          "url": "https://www.astro4edu.org/resources/glossary/term/125/",
+          "text_ru": "Газовый гигант"
+        },
+        {
+          "text": "Giant Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/129/",
+          "text_ru": "Гигантская планета"
+        },
+        {
+          "text": "Ice Giant",
+          "url": "https://www.astro4edu.org/resources/glossary/term/153/",
+          "text_ru": "Ледяной гигант"
+        },
+        {
+          "text": "International Astronomical Union",
+          "url": "https://www.astro4edu.org/resources/glossary/term/158/",
+          "text_ru": "Международный астрономический союз"
+        },
+        {
+          "text": "Jupiter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/167/",
+          "text_ru": "Юпитер"
+        },
+        {
+          "text": "Mars",
+          "url": "https://www.astro4edu.org/resources/glossary/term/189/",
+          "text_ru": "Марс"
+        },
+        {
+          "text": "Mercury",
+          "url": "https://www.astro4edu.org/resources/glossary/term/192/",
+          "text_ru": "Меркурий"
+        },
+        {
+          "text": "Neptune",
+          "url": "https://www.astro4edu.org/resources/glossary/term/212/",
+          "text_ru": "Нептун"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Outer Planets",
+          "url": "https://www.astro4edu.org/resources/glossary/term/234/",
+          "text_ru": "Внешние планеты"
+        },
+        {
+          "text": "Saturn",
+          "url": "https://www.astro4edu.org/resources/glossary/term/294/",
+          "text_ru": "Сатурн"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Terrestrial Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/354/",
+          "text_ru": "Землеподобная планета"
+        },
+        {
+          "text": "Uranus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/375/",
+          "text_ru": "Уран"
+        },
+        {
+          "text": "Venus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/377/",
+          "text_ru": "Венера"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Planet</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>major planet</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A planet is defined by the International Astronomical Union as a celestial body in orbit around a star or the remnant of a star, that is large enough to be nearly round in shape by its own gravitational force, but not massive enough for thermonuclear fusion to ever occur in its core. It must also be large enough for its gravity to remove other objects that pass close to its orbit around the star. Therefore, they are cold bodies (as compared to stars) that shine in the visible band only by the light reflected from their stars but they do emit light at infrared wavelengths. In our Solar System, eight planets orbit around the Sun. Planets may be basically rocky objects, such as the inner planets – Mercury, Venus, Earth, and Mars – or primarily liquid and gas with a small solid core like the outer planets – Jupiter, Saturn, Uranus, and Neptune. Planets outside the Solar System are called extrasolar planets or exoplanets for short.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/89/\">Earth</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/106/\">Exoplanet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/125/\">Gas Giant</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/129/\">Giant Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/153/\">Ice Giant</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/158/\">International Astronomical Union</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/167/\">Jupiter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/189/\">Mars</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/192/\">Mercury</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/212/\">Neptune</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/234/\">Outer Planets</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/294/\">Saturn</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/354/\">Terrestrial Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/375/\">Uranus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/377/\">Venus</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Планета",
+      "body_ru": "Планета определяется Международным астрономическим союзом как небесное тело, обращающееся вокруг звезды или остатка звезды, достаточно крупное, чтобы под действием собственной гравитации принять почти круглую форму, но недостаточно массивное, чтобы в его ядре когда-либо мог произойти термоядерный синтез. Оно также должно быть достаточно крупным, чтобы его гравитация удаляла другие объекты, проходящие вблизи его орбиты вокруг звезды. Следовательно, это холодные тела (по сравнению со звёздами), которые светят в видимом диапазоне только отражённым от их звёзд светом, но они излучают свет в инфракрасном диапазоне. В нашей Солнечной системе восемь планет обращаются вокруг Солнца. Планеты могут быть в основном каменистыми объектами, такими как внутренние планеты — Меркурий, Венера, Земля и Марс — или преимущественно жидкими и газообразными с небольшим твёрдым ядром, как внешние планеты — Юпитер, Сатурн, Уран и Нептун. Планеты за пределами Солнечной системы называются внесолнечными планетами или, сокращённо, экзопланетами."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "惑星 (external link)",
+          "url": "https://astro-dic.jp/planet/",
+          "text_ru": "Планета (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/253/\">الكوكب </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/253/\">Planet </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/253/\">Planeta </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/253/\">Planète </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/253/\">ग्रह (प्लैनट) </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/253/\">Pianeta </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/planet/\">惑星 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/253/\">ग्रह </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/253/\">Planeta </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/253/\">行星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/253/\">行星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/id29650bC11/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zm32gm18n086/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/oC21zv72nT69/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/uw54VK71ga73/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.nasa.gov/mission_pages/messenger/multimedia/messenger_orbit_image20111129_1.html",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Vh65f9405311/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://photojournal.jpl.nasa.gov/catalog/PIA23791",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Planet&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:id29650bC11",
+        "media:zm32gm18n086",
+        "media:oC21zv72nT69",
+        "media:uw54VK71ga73",
+        "media:Vh65f9405311"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/id29650bC11/\"><img alt=\"The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.\" src=\"/media/multimedia/thumbnails/Jupiters_Rotation_by_Vishal_Sharma_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter's Rotation, by Vishal Sharma, India</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\n\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.<br/>\n<b>Credit:</b> Vishal Sharma/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zm32gm18n086/\"><img alt=\"The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots\" src=\"/media/multimedia/thumbnails/Jupiter_Moons_Movie2_by_Nicolas_Hurez_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter Moons Movie2, by Nicolas Hurez, Paul-Antoine Matrangolo, and Carl Pennypacker, United States of America</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).<br/>\n<b>Credit:</b> Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/oC21zv72nT69/\"><img alt=\"Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left\" src=\"/media/multimedia/thumbnails/Jupiter_Io_and_its_shadow_by_Ralf_Burkart_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter, Io and its shadow, by Ralf Burkart, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.<br/>\n<b>Credit:</b> Ralf Burkart/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/uw54VK71ga73/\"><img alt=\"The planet Mercury covered by many craters\" src=\"/media/multimedia/thumbnails/606992main_messenger_orbit_image20111129_1_full_full_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Mercury</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image is a composite of a picture mosaic of the planet Mercury's surface obtained by the MESSENGER (Mercury Surface, Space Environment, Geochemistry and Ranging) space probe. MESSENGER was launched by NASA in 2004 and explored Mercury from 2011 to 2015.<br/>\n<b>Credit:</b> NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington\n\t  <a href=\"https://www.nasa.gov/mission_pages/messenger/multimedia/messenger_orbit_image20111129_1.html\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Vh65f9405311/\"><img alt=\"The planet Venus showing white clouds enshrouding the planet\" src=\"/media/multimedia/thumbnails/PIA23791_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Venus in visible light</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This picture taken by NASA's Mariner 10 probe shows what the planet Venus looks like when looking at it with naked eyes. Venus is enshrouded inside a thick cloudy atmosphere dominated by carbon dioxide, never revealing its hot surface.<br/>\n<b>Credit:</b> NASA/JPL-Caltech\n\t  <a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA23791\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Planet&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Design Your Alien astroEDU educational activity (links to astroEDU website) Description: Design an alien life form suited for an extra-terrestrial world. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Environment \n  \n  , Extra-terrestrial \n  \n  , Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Alien Age Ranges: 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/design-your-alien/\"><img alt=\"Design Your Alien\" src=\"/media/astroedu/images/design-your-alien_en_thumbnail_CWCvEzA.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/design-your-alien/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Design Your Alien</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Design an alien life form suited for an extra-terrestrial world.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Environment \n  \n  , Extra-terrestrial \n  \n  , Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Alien \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Создай своего пришельца — образовательная деятельность astroEDU (ссылки на сайт astroEDU). Описание: Создайте инопланетную форму жизни, приспособленную для внеземного мира. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки. Теги: Жизнь \n  \n  , Окружающая среда \n  \n  , Внеземное \n  \n  , Искусство \n  \n  , Творчество \n  \n  , Практическая работа \n  \n  , Пришелец. Возрастные диапазоны: 8-10 \n  \n, 10-12. Уровень образования: Начальный \n  \n, Средний"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Planet",
+      "aliases": [
+        "major planet"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Planet",
+          "body": "A planet is defined by the International Astronomical Union as a celestial body in orbit around a star or the remnant of a star, that is large enough to be nearly round in shape by its own gravitational force, but not massive enough for thermonuclear fusion to ever occur in its core. It must also be large enough for its gravity to remove other objects that pass close to its orbit around the star. Therefore, they are cold bodies (as compared to stars) that shine in the visible band only by the light reflected from their stars but they do emit light at infrared wavelengths. In our Solar System, eight planets orbit around the Sun. Planets may be basically rocky objects, such as the inner planets – Mercury, Venus, Earth, and Mars – or primarily liquid and gas with a small solid core like the outer planets – Jupiter, Saturn, Uranus, and Neptune. Planets outside the Solar System are called extrasolar planets or exoplanets for short."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Design Your Alien astroEDU educational activity (links to astroEDU website) Description: Design an alien life form suited for an extra-terrestrial world. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Environment \n  \n  , Extra-terrestrial \n  \n  , Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Alien Age Ranges: 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary"
+        }
+      }
+    },
+    "ru": {
+      "title": "Планета",
+      "aliases": [
+        "большая планета"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Планета",
+          "body": "Планета определяется Международным астрономическим союзом как небесное тело, обращающееся вокруг звезды или остатка звезды, достаточно крупное, чтобы под действием собственной гравитации принять почти круглую форму, но недостаточно массивное, чтобы в его ядре когда-либо мог произойти термоядерный синтез. Оно также должно быть достаточно крупным, чтобы его гравитация удаляла другие объекты, проходящие вблизи его орбиты вокруг звезды. Следовательно, это холодные тела (по сравнению со звёздами), которые светят в видимом диапазоне только отражённым от их звёзд светом, но они излучают свет в инфракрасном диапазоне. В нашей Солнечной системе восемь планет обращаются вокруг Солнца. Планеты могут быть в основном каменистыми объектами, такими как внутренние планеты — Меркурий, Венера, Земля и Марс — или преимущественно жидкими и газообразными с небольшим твёрдым ядром, как внешние планеты — Юпитер, Сатурн, Уран и Нептун. Планеты за пределами Солнечной системы называются внесолнечными планетами или, сокращённо, экзопланетами."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Создай своего пришельца — образовательная деятельность astroEDU (ссылки на сайт astroEDU). Описание: Создайте инопланетную форму жизни, приспособленную для внеземного мира. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки. Теги: Жизнь \n  \n  , Окружающая среда \n  \n  , Внеземное \n  \n  , Искусство \n  \n  , Творчество \n  \n  , Практическая работа \n  \n  , Пришелец. Возрастные диапазоны: 8-10 \n  \n, 10-12. Уровень образования: Начальный \n  \n, Средний"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:id29650bC11",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5292034/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%E2%80%99s%20Rotation%2C%20by%20Vishal%20Sharma.mp4",
+      "record_url": "https://astro4edu.org/resources/media/id29650bC11/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse of Galilean moons orbiting Jupiter",
+      "short_caption_ru": "Таймлапс галилеевых спутников, обращающихся вокруг Юпитера",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\r\n\r\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.",
+      "caption_ru": "Третье место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники»: «Вращение Юпитера», автор Вишал Шарма, Индия.\r\n\r\nЭтот таймлапс красиво показывает вращение Юпитера и прохождение двух галилеевых спутников в правой части кадра. Юпитер совершает один оборот чуть менее чем за 10 часов, и мы видим, как Большое Красное Пятно перемещается слева направо. Два спутника за это короткое время проходят заметную часть своей орбиты. Это изображение было получено в 2020 на севере Индии.",
+      "alt_en": "The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.",
+      "alt_ru": "Планета Юпитер с двумя из четырёх галилеевых спутников (видны как яркие точки), обращающихся вокруг неё.",
+      "credit": "Vishal Sharma/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zm32gm18n086",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291803/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%20Moon%E2%80%99s%20Movie2%2C%20by%20Nicolas%20Hurez%2C%20Paul-Antoine%20Matrangolo%2C%20and%20Carl%20Pennypacker%2C%20United%20States%20of%20America.mp4",
+      "record_url": "https://astro4edu.org/resources/media/zm32gm18n086/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Four Galilean moons around the planet Jupiter.",
+      "short_caption_ru": "Четыре галилеевых спутника вокруг планеты Юпитер.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).",
+      "caption_ru": "Второе место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭта последовательность показывает орбиты четырёх галилеевых спутников вокруг планеты Юпитер. Можно увидеть почти два полных оборота самого внутреннего спутника Ио, в то время как другие спутники (Европа и Ганимед, но особенно Каллисто) находятся дальше и обращаются заметно медленнее. Изображения были получены в 2018 с помощью Лас-Кумбресской глобальной обсерватории в разных точках Земли, что позволило получить непрерывную последовательность снимков в течение примерно половины недели без пробелов в дневное время. При ясном небе и в течение нескольких ночей движение галилеевых спутников можно также наблюдать в бинокль (желательно опереть локти на какую-либо поверхность).",
+      "alt_en": "The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots",
+      "alt_ru": "Планета Юпитер, видимая здесь как яркий диск, вокруг которого обращаются четыре галилеевых спутника, видимые как яркие точки",
+      "credit": "Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:oC21zv72nT69",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291459/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Io%2C%20Ganymede%2C%20Shadow%2C%20by%20Ralf%20Burkart%2C%20Germany.gif",
+      "record_url": "https://astro4edu.org/resources/media/oC21zv72nT69/",
+      "original_path": "data/media/original/media_oC21zv72nT69.gif",
+      "ru_path": null,
+      "sha256": "71547b4d75a0fd7f1d53c3ad5af7749ec0c77cbed1bbb6b21d622ec30a2aa676",
+      "size": 12636069,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse showing he transit of one of the Galilean moons, Io, in front of Jupiter",
+      "short_caption_ru": "Таймлапс, показывающий прохождение одного из галилеевых спутников, Ио, перед Юпитером",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.",
+      "caption_ru": "Первое место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭтот таймлапс Юпитера, снятый в 2017 в Германии, прекрасно иллюстрирует прохождение одного из галилеевых спутников, Ио, перед Юпитером. Поскольку это просто спутник, отбрасывающий тень на планету, это эквивалентно лунному затмению на Земле, наблюдаемому издалека. Хотя тень спутника ясно видна с самого начала, сам спутник может быть трудно заметить на фоне прекрасных атмосферных полос Юпитера при первом просмотре видео. Повторный просмотр позволяет оценить быстрое движение и вращение в этом фантастическом наблюдении.",
+      "alt_en": "Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left",
+      "alt_ru": "Юпитер с цветными горизонтальными полосами облаков. Тень спутника Ио видна как тёмный круг в верхнем левом углу",
+      "credit": "Ralf Burkart/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253,
+        367
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:uw54VK71ga73",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/606992main_messenger_orbit_image20111129_1_full_full.jpg",
+      "record_url": "https://astro4edu.org/resources/media/uw54VK71ga73/",
+      "original_path": "data/media/original/media_uw54VK71ga73.jpg",
+      "ru_path": null,
+      "sha256": "e11d4cf3bc4bd32b465378a3002a2edaf3bc81da110c451c0087237a5e5543d0",
+      "size": 903538,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "a picture mosaic of the planet Mercury's surface obtained by the MESSENGER space probe",
+      "short_caption_ru": "мозаичное изображение поверхности планеты Меркурий, полученное космическим зондом MESSENGER",
+      "caption_en": "This image is a composite of a picture mosaic of the planet Mercury's surface obtained by the MESSENGER (Mercury Surface, Space Environment, Geochemistry and Ranging) space probe. MESSENGER was launched by NASA in 2004 and explored Mercury from 2011 to 2015.",
+      "caption_ru": "Это изображение представляет собой композит из мозаики изображений поверхности планеты Меркурий, полученных космическим зондом MESSENGER (Mercury Surface, Space Environment, Geochemistry and Ranging). MESSENGER был запущен NASA в 2004 году и исследовал Меркурий с 2011 по 2015 год.",
+      "alt_en": "The planet Mercury covered by many craters",
+      "alt_ru": "Планета Меркурий, покрытая множеством кратеров",
+      "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+      "credit_url": "https://www.nasa.gov/mission_pages/messenger/multimedia/messenger_orbit_image20111129_1.html",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        192,
+        253,
+        354,
+        449
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Vh65f9405311",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA23791.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Vh65f9405311/",
+      "original_path": "data/media/original/media_Vh65f9405311.jpg",
+      "ru_path": null,
+      "sha256": "853268f7922ea572a0966df4a378e6b54221102d6740bdc78f4011708ee71007",
+      "size": 94315,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Venus enshrouded inside a thick cloudy atmosphere",
+      "short_caption_ru": "Венера, окутанная плотной облачной атмосферой",
+      "caption_en": "This picture taken by NASA's Mariner 10 probe shows what the planet Venus looks like when looking at it with naked eyes. Venus is enshrouded inside a thick cloudy atmosphere dominated by carbon dioxide, never revealing its hot surface.",
+      "caption_ru": "Это изображение, полученное зондом НАСА «Маринер 10», показывает, как выглядит планета Венера при наблюдении невооружённым глазом. Венера окутана плотной облачной атмосферой, состоящей преимущественно из углекислого газа, которая никогда не открывает её горячую поверхность.",
+      "alt_en": "The planet Venus showing white clouds enshrouding the planet",
+      "alt_ru": "Планета Венера, показывающая белые облака, окутывающие планету",
+      "credit": "NASA/JPL-Caltech",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA23791",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        253,
+        354,
+        377,
+        449
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Ee590p99vu14",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA00104.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Ee590p99vu14/",
+      "original_path": "data/media/original/media_Ee590p99vu14.jpg",
+      "ru_path": null,
+      "sha256": "bfa8ec6972fe083f04d9e494d172adea3f9ff5b360d61f63d9834cd7b98f1afc",
+      "size": 1681236,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A computer-aided rendering of the surface of the planet Venus",
+      "short_caption_ru": "Компьютерная визуализация поверхности планеты Венера",
+      "caption_en": "This image is a computer-aided rendering of the surface of the planet Venus. Since visual light cannot penetrate the thick clouds in Venus' atmosphere, the image was obtained with radio waves. NASA's space probe Megallan, launched in 1989 mapped Venus' surface between 1990 and 1994.",
+      "caption_ru": "Это изображение представляет собой компьютерную визуализацию поверхности планеты Венера. Поскольку видимый свет не может проникнуть через густые облака в атмосфере Венеры, изображение было получено с помощью радиоволн. Космический зонд НАСА «Магеллан», запущенный в 1989, картографировал поверхность Венеры между 1990 и 1994.",
+      "alt_en": "The planet Venus' surface with ridges and valleys",
+      "alt_ru": "Поверхность планеты Венера с хребтами и долинами",
+      "credit": "NASA/JPL",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA00104",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        253,
+        354,
+        377,
+        449
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:q124ZA8aq21",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/The_Blue_Marble_remastered.jpg",
+      "record_url": "https://astro4edu.org/resources/media/q124ZA8aq21/",
+      "original_path": "data/media/original/media_q124ZA8aq21.jpg",
+      "ru_path": null,
+      "sha256": "e42f2650cd861c9f79c8ac6342adf465a11385a5f2d92b9db8b23962e85b06bc",
+      "size": 5969721,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Earth pictured from the Apollo 17 spacecraft",
+      "short_caption_ru": "Земля, сфотографированная с космического корабля «Аполлон» 17",
+      "caption_en": "Full disk view of the Earth taken on 7 December 1972, by the crew of the Apollo 17 spacecraft en route to the Moon at a distance of about 29,000 kilometres (18,000 mi). It shows Africa, Antarctica, and the Arabian Peninsula.",
+      "caption_ru": "Полный диск Земли, снятый 7 декабря 1972 экипажем космического корабля «Аполлон» 17 по пути к Луне на расстоянии около 29,000 километров (18,000 миль). На снимке видны Африка, Антарктида и Аравийский полуостров.",
+      "alt_en": "The Earth from space showing oceans and continents",
+      "alt_ru": "Земля из космоса с океанами и континентами",
+      "credit": "NASA/Apollo 17 crew/Project Apollo Archive",
+      "credit_url": null,
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        89,
+        253,
+        354,
+        449
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:bm60ZX39im37",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/jpegPIA02653.jpg",
+      "record_url": "https://astro4edu.org/resources/media/bm60ZX39im37/",
+      "original_path": "data/media/original/media_bm60ZX39im37.jpg",
+      "ru_path": null,
+      "sha256": "c07d5e36ce9806455ba0087650b838cbdbda987a89150186bd5e806496dff204",
+      "size": 341477,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The planet Mars taken by NASA's Mars Global Surveyor Orbiter",
+      "short_caption_ru": "Планета Марс, снятая орбитальным аппаратом NASA Mars Global Surveyor",
+      "caption_en": "This image of the planet Mars taken by NASA's Mars Global Surveyor Orbiter in 1999 shows its dry surface. The picture features the most spectacular geological regions on Mars. Besides the deep Valles Marineris valley we see four volcanoes. While three of them form the Tharsis ridge, the Olympus Mons is largest volcano we have so far discovered in the Solar System. Ice clouds cover parts of the Martian surface.",
+      "caption_ru": "Это изображение планеты Марс, полученное орбитальным аппаратом NASA Mars Global Surveyor в 1999 году, показывает её сухую поверхность. На снимке видны самые впечатляющие геологические области Марса. Помимо глубокой долины Валлес Маринерис мы видим четыре вулкана. Три из них образуют хребет Фарсида, а Олимп — крупнейший вулкан, обнаруженный нами на сегодняшний день в Солнечной системе. Ледяные облака покрывают части марсианской поверхности.",
+      "alt_en": "The planet Mars with a rusty red surface, volcanoes, valleys, craters, ice clouds and a white polar cap",
+      "alt_ru": "Планета Марс с ржаво-красной поверхностью, вулканами, долинами, кратерами, ледяными облаками и белой полярной шапкой",
+      "credit": "NASA/JPL/MSSS",
+      "credit_url": "https://www.jpl.nasa.gov/images/pia02653-mars-daily-global-image-from-april-1999",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        189,
+        253,
+        354,
+        449
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

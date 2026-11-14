@@ -1,0 +1,227 @@
+{
+  "id": "term:313",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 313,
+    "url": "https://astro4edu.org/resources/glossary/term/313/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=313",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:50.082916+00:00",
+    "sha256": "3d94fd1c88f631d07ad2221b0a498d6b207f1a5a4f32f87f0c26e14833ecf386"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      310,
+      342,
+      455
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Solar Prominence",
+      "body": "Solar prominences (sometimes referred to as filaments) are loops of plasma that form due to the magnetic fields around the Sun. These are temporary but may persist for weeks or months and can often be photographed during solar eclipses. A typical prominence extends over many thousands of kilometers (km); the largest on record was estimated at over 800,000 km long, roughly a solar radius. As with many solar phenomena, other stars are also thought to exhibit prominences.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Solar Eclipse",
+          "url": "https://www.astro4edu.org/resources/glossary/term/310/",
+          "text_ru": "Солнечное затмение"
+        },
+        {
+          "text": "Sun",
+          "url": "https://www.astro4edu.org/resources/glossary/term/342/",
+          "text_ru": "Солнце"
+        },
+        {
+          "text": "Magnetic Field",
+          "url": "https://www.astro4edu.org/resources/glossary/term/455/",
+          "text_ru": "Магнитное поле"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Solar Prominence</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Solar prominences (sometimes referred to as filaments) are loops of plasma that form due to the magnetic fields around the Sun. These are temporary but may persist for weeks or months and can often be photographed during solar eclipses. A typical prominence extends over many thousands of kilometers (km); the largest on record was estimated at over 800,000 km long, roughly a solar radius. As with many solar phenomena, other stars are also thought to exhibit prominences.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/310/\">Solar Eclipse</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/342/\">Sun</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/455/\">Magnetic Field</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Солнечный протуберанец",
+      "body_ru": "Солнечные протуберанцы (иногда называемые волокнами) — это петли плазмы, которые образуются благодаря магнитным полям вокруг Солнца. Они временные, но могут сохраняться в течение недель или месяцев и часто могут быть сфотографированы во время солнечных затмений. Типичный протуберанец простирается на многие тысячи километров (км); самый крупный из зарегистрированных оценивался более чем в 800 000 км длиной, что примерно равно солнечному радиусу. Как и многие солнечные явления, другие звезды также, как считается, обладают протуберанцами."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "プロミネンス (external link)",
+          "url": "https://astro-dic.jp/prominence-2/",
+          "text_ru": "Протуберанец (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/313/\">الشواظ الشمسي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/313/\">Sonnenprotuberanz </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/313/\">Protuberancia solar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/313/\">Protubérance solaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/313/\">Protuberanza solare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/prominence-2/\">プロミネンス (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/313/\">태양홍염 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/313/\">Proeminência solar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/313/\">日珥 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/313/\">日珥 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/be0q761WO41/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:be0q761WO41"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/be0q761WO41/\"><img alt=\"The Sun as red disk with bright patches and long dark strands. Several small wispy features protrude from the disk's edge\" src=\"/media/multimedia/thumbnails/h-alpha-image-of-the-suns-chromosphere_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">H-alpha image of the Sun's chromosphere</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This false-color image was captured with a 10-cm telescope at the Big Bear Solar Observatory (BBSO) in the United States in July 2002. It depicts the full disk of the Sun using the H-alpha emission line of hydrogen. When observed in this spectral line, the Sun's chromosphere appears particularly prominent due to hydrogen atoms emitting light at the specific wavelength. This emission produces a distinctive red color, making features such as spicules (jets of plasma that look hair-like) and plage (bright patches in the chromosphere) highly visible. Several small solar prominences can be seen protruding from the edge of the solar disk. When prominences (also known as filaments) cross the face of the disk they appear as dark threads caused by the cooler material in the prominence absorbing light. The chromosphere is also visible in the violet part of the solar spectrum due to ionized calcium showing emissions in these wavelengths.<br/>\n<b>Credit:</b> Big Bear Solar Observatory (BBSO)/New Jersey Institut of Technology (NJIT)\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Meet Our Neighbours: Sun astroEDU educational activity (links to astroEDU website) Description: Explore the tactile version of our star; the Sun with household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Sunspots \n  \n  , Visually Impaired \n  \n  , Tactile Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-sun/\"><img alt=\"Meet Our Neighbours: Sun\" src=\"/media/astroedu/images/meet-our-neighbours-sun_en_thumbnail_Tzoh3id.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-sun/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Meet Our Neighbours: Sun</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore the tactile version of our star; the Sun with household materials.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n  , Sunspots \n  \n  , Visually Impaired \n  \n  , Tactile \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Знакомство с нашими соседями: Солнце — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте тактильную версию нашей звезды — Солнца — с помощью подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель \n  \n  , Солнечные пятна \n  \n  , Слабовидящие \n  \n  , Тактильный Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная школа \n  \n, Среднее образование Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Solar Prominence",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Solar Prominence",
+          "body": "Solar prominences (sometimes referred to as filaments) are loops of plasma that form due to the magnetic fields around the Sun. These are temporary but may persist for weeks or months and can often be photographed during solar eclipses. A typical prominence extends over many thousands of kilometers (km); the largest on record was estimated at over 800,000 km long, roughly a solar radius. As with many solar phenomena, other stars are also thought to exhibit prominences."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Meet Our Neighbours: Sun astroEDU educational activity (links to astroEDU website) Description: Explore the tactile version of our star; the Sun with household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model \n  \n  , Sunspots \n  \n  , Visually Impaired \n  \n  , Tactile Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models"
+        }
+      }
+    },
+    "ru": {
+      "title": "Солнечный протуберанец",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Солнечный протуберанец",
+          "body": "Солнечные протуберанцы (иногда называемые волокнами) — это петли плазмы, которые образуются благодаря магнитным полям вокруг Солнца. Они временные, но могут сохраняться в течение недель или месяцев и часто могут быть сфотографированы во время солнечных затмений. Типичный протуберанец простирается на многие тысячи километров (км); самый крупный из зарегистрированных оценивался более чем в 800 000 км длиной, что примерно равно солнечному радиусу. Как и многие солнечные явления, другие звезды также, как считается, обладают протуберанцами."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Знакомство с нашими соседями: Солнце — образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте тактильную версию нашей звезды — Солнца — с помощью подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Модель \n  \n  , Солнечные пятна \n  \n  , Слабовидящие \n  \n  , Тактильный Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная школа \n  \n, Среднее образование Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкие затраты Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:be0q761WO41",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/h-alpha-image-of-the-suns-chromosphere.png",
+      "record_url": "https://astro4edu.org/resources/media/be0q761WO41/",
+      "original_path": "data/media/original/media_be0q761WO41.png",
+      "ru_path": null,
+      "sha256": "8e7f8899864830186451154aba974a01c733ade743b232c7d7fbe0f43c893a33",
+      "size": 2821426,
+      "title_en": "H-alpha image of the Sun's chromosphere",
+      "title_ru": "Изображение хромосферы Солнца в линии H-alpha",
+      "short_caption_en": "H-alpha image of the Sun's chromosphere",
+      "short_caption_ru": "Изображение хромосферы Солнца в линии H-alpha",
+      "caption_en": "This false-color image was captured with a 10-cm telescope at the Big Bear Solar Observatory (BBSO) in the United States in July 2002. It depicts the full disk of the Sun using the H-alpha emission line of hydrogen. When observed in this spectral line, the Sun's chromosphere appears particularly prominent due to hydrogen atoms emitting light at the specific wavelength. This emission produces a distinctive red color, making features such as spicules (jets of plasma that look hair-like) and plage (bright patches in the chromosphere) highly visible. Several small solar prominences can be seen protruding from the edge of the solar disk. When prominences (also known as filaments) cross the face of the disk they appear as dark threads caused by the cooler material in the prominence absorbing light. The chromosphere is also visible in the violet part of the solar spectrum due to ionized calcium showing emissions in these wavelengths.",
+      "caption_ru": "Это изображение в ложных цветах было получено с помощью телескопа диаметром 10 см в Солнечной обсерватории Биг-Бэр (BBSO) в США в июле 2002. На нём изображён полный диск Солнца в линии излучения водорода H-alpha. При наблюдении в этой спектральной линии хромосфера Солнца выглядит особенно отчётливо благодаря тому, что атомы водорода излучают свет на определённой длине волны. Это излучение придаёт характерный красный цвет, делая хорошо видимыми такие образования, как спикулы (похожие на волоски струи плазмы) и факелы (яркие пятна в хромосфере). По краю солнечного диска можно увидеть несколько небольших солнечных протуберанцев. Когда протуберанцы (также известные как волокна) пересекают диск, они выглядят как тёмные нити из-за того, что более холодное вещество протуберанца поглощает свет. Хромосфера также видна в фиолетовой части солнечного спектра благодаря ионизированному кальцию, излучающему на этих длинах волн.",
+      "alt_en": "The Sun as red disk with bright patches and long dark strands. Several small wispy features protrude from the disk's edge",
+      "alt_ru": "Солнце в виде красного диска с яркими пятнами и длинными тёмными волокнами. Несколько небольших тонких образований выступают за край диска",
+      "credit": "Big Bear Solar Observatory (BBSO)/New Jersey Institut of Technology (NJIT)",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:BBSO_full-disk_H-alpha_2002-07-26_153931_color.png",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        55,
+        313,
+        342,
+        514
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

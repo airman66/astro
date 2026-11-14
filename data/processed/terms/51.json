@@ -1,0 +1,576 @@
+{
+  "id": "term:51",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 51,
+    "url": "https://astro4edu.org/resources/glossary/term/51/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=51",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:20.245331+00:00",
+    "sha256": "faa69900fcb936f6d5d941c9378902b4e4de3b8cfef7288d830f12fdcb37bb53"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      50,
+      53
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Celestial Equator",
+      "body": "The celestial equator is defined as the great circle of the celestial sphere, whose plane is perpendicular to the axis of rotation of the Earth. In essence, it is the projection of the Earth's equator onto the celestial sphere.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Celestial Coordinates",
+          "url": "https://www.astro4edu.org/resources/glossary/term/50/",
+          "text_ru": "Небесные координаты"
+        },
+        {
+          "text": "Celestial Sphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/53/",
+          "text_ru": "Небесная сфера"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Celestial Equator</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The celestial equator is defined as the great circle of the celestial sphere, whose plane is perpendicular to the axis of rotation of the Earth. In essence, it is the projection of the Earth's equator onto the celestial sphere.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/50/\">Celestial Coordinates</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/53/\">Celestial Sphere</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Небесный экватор",
+      "body_ru": "Небесный экватор определяется как большой круг небесной сферы, плоскость которого перпендикулярна оси вращения Земли. По сути, это проекция земного экватора на небесную сферу."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "天の赤道 (external link)",
+          "url": "https://astro-dic.jp/celestial-equator/",
+          "text_ru": "Небесный экватор (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/51/\">خط الاستواء السماوي </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/51/\">মহাকাশীয় বিষুবরেখা </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/51/\">Himmelsäquator </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/51/\">Ecuador celeste </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/51/\">Équateur céleste </a></span></li>\n<li><b>Hungarian: </b><span dir=\"LTR\" lang=\"hu\"><a class=\"link-bold\" href=\"/hu/resources/glossary/term/51/\">Égi Egyenlítő </a></span></li>\n<li><b>Indonesian: </b><span dir=\"LTR\" lang=\"id\"><a class=\"link-bold\" href=\"/id/resources/glossary/term/51/\">Khatulistiwa Langit </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/51/\">Equatore celeste </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/celestial-equator/\">天の赤道 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/51/\">천구적도 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/51/\">Equador Celeste </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/51/\">天赤道 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/51/\">天赤道 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/ef73go0hL43/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/wM92AD94GS73/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/A286J384Ch0/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/sx35P36xA60/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Sk61ZE32Db17/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all diagrams for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Celestial Equator&page=1&language_choice=en&file_type=dia&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все диаграммы для этого термина"
+        }
+      ],
+      "media_ids": [
+        "diagram:ef73go0hL43",
+        "diagram:wM92AD94GS73",
+        "diagram:A286J384Ch0",
+        "diagram:sx35P36xA60",
+        "diagram:Sk61ZE32Db17"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/ef73go0hL43/\"><img alt=\"Ophiuchus appears as a headless stick figure\" src=\"/media/diagrams/multimedia/thumbnails/ophiuchus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ophiuchus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Ophiuchus  along with its bright stars and its surrounding constellations. Ophiuchus is surrounded by (going clockwise from the top): Hercules, Serpens Caput, Scorpius, Sagittarius and Serpens Cauda. Ophiuchus is not part of the traditional twelve zodiac constellations but it lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Ophiuchus from late November to mid December. The other planets of the Solar System can often be found in Ophiuchus. \n\nOphiuchus spans the celestial equator and thus part of the constellation is visible across the whole of the earth at some point in the year. However during the time it is most visible in the evenings (the southern hemisphere winter and northern hemisphere summer) much of the arctic is in perpetual daylight making the stars in the constellation impossible to see. The whole constellation is visible from equatorial and temperate regions of both hemispheres. \n\nAs Ophiuchus lies close to the galactic center it contains many globular clusters such as M9, M10, M12, M14, M19, M62, and M107. These are marked as yellow circles with plus symbols superimposed. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/wM92AD94GS73/\"><img alt=\"Canis Major is shaped like a stick figure drawing of a dog tilted up by 45 degrees. Sirius lies at the dog’s shoulder\" src=\"/media/diagrams/multimedia/thumbnails/canis_major-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Canis Major Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Canis Major along with its bright stars and its surrounding constellations. Canis Major is surrounded by (going clockwise from the top): Monoceros, Lepus, Columba and Puppis. The constellation is dominated by Sirius, the star which appears brightest in the night sky, which far outshines all of the other stars in the constellation. \n\nCanis Major lies just south of the celestial equator and is visible from all of the southern hemisphere as well as equatorial and temperate regions of the northern hemisphere. Sirius is visible from all but the most arctic regions. Canis Major is most visible in the evenings in late winter in the northern hemisphere and late summer in the southern hemisphere. \n\nThe open star clusters M41, NGC 2360 and NGC 2362 lie in the constellation. These are marked with yellow circles.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/A286J384Ch0/\"><img alt=\"Aquila looks like a simplified arrow shape with the head pointing to the lower right (the south west). Altair is in the tail\" src=\"/media/diagrams/multimedia/thumbnails/aquila-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Aquila Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Aquila with its bright stars and surrounding constellations. Aquila is surrounded by (going clockwise from the top): Sagitta, Hercules, Ophiuchus, Serpens Cauda, Scutum, Sagittarius, Capricornus, Aquarius and Delphinus. Aquila is most notable for its brightest star Altair. This forms one vertex of the prominent Summer Triangle asterism that is visible in northern hemisphere summer evenings. \n\nAquila spans the celestial equator and thus some part of it is visible from all of the Earth at some point in the year. It is most visible in the evenings in the late northern hemisphere summer and late southern hemisphere winter.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line in the lower right of the diagram is the ecliptic. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/sx35P36xA60/\"><img alt=\"Canis Minor appears as a straight line extending north west from Procyon which lies in the center of the constellation\" src=\"/media/diagrams/multimedia/thumbnails/canis-minor-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Canis Minor Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Canis Minor with its bright stars and surrounding constellations. Canis Minor is surrounded by (going clockwise from the top): Gemini, Monoceros, Hydra and Cancer. Canis Minor has relatively few bright stars but its brightest star Procyon is the eight brightest star in the sky.\n\nCanis Minor spans the celestial equator and thus part of the constellation is visible from the whole Earth at some point during the year. The whole constellation is visible to all but the most arctic and antarctic regions.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line in the top right of the diagram marks the ecliptic. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Sk61ZE32Db17/\"><img alt=\"Delphinus looks like a diamond with an additional small line extending to the south\" src=\"/media/diagrams/multimedia/thumbnails/delphinus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Delphinus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Delphinus with its brighter stars and surrounding constellations. Delphinus is surrounded by (going clockwise from the top): Vulpecula, Sagitta, Aquila, Aquarius, Equuleus and Pegasus. Delphinus is a relatively small constellation with few bright stars. \n\nDelphinus lies just north of the celestial equator and thus the whole constellation is visible at some point in the year to all but the most antarctic regions. The constellation is best viewed in the evenings in the early northern hemisphere autumn and early southern hemisphere spring. \n\nThe globular cluster NGC 6934 lies in Dephinus. It is marked here with a yellow circle with a plus sign superimposed on it.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Celestial Equator&amp;page=1&amp;language_choice=en&amp;file_type=dia&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all diagrams <br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Celestial Equator",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Celestial Equator",
+          "body": "The celestial equator is defined as the great circle of the celestial sphere, whose plane is perpendicular to the axis of rotation of the Earth. In essence, it is the projection of the Earth's equator onto the celestial sphere."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Небесный экватор",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Небесный экватор",
+          "body": "Небесный экватор определяется как большой круг небесной сферы, плоскость которого перпендикулярна оси вращения Земли. По сути, это проекция земного экватора на небесную сферу."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:ef73go0hL43",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ophiuchus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/ef73go0hL43/",
+      "original_path": "data/media/original/diagram_ef73go0hL43.png",
+      "ru_path": null,
+      "sha256": "1f2a23600fa63efaa493349901f972108d6269fba8f9a9c9e92b5cc72affd64f",
+      "size": 139909,
+      "title_en": "Ophiuchus Constellation Map",
+      "title_ru": "Карта созвездия Змееносец",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Ophiuchus  along with its bright stars and its surrounding constellations. Ophiuchus is surrounded by (going clockwise from the top): Hercules, Serpens Caput, Scorpius, Sagittarius and Serpens Cauda. Ophiuchus is not part of the traditional twelve zodiac constellations but it lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Ophiuchus from late November to mid December. The other planets of the Solar System can often be found in Ophiuchus. \r\n\r\nOphiuchus spans the celestial equator and thus part of the constellation is visible across the whole of the earth at some point in the year. However during the time it is most visible in the evenings (the southern hemisphere winter and northern hemisphere summer) much of the arctic is in perpetual daylight making the stars in the constellation impossible to see. The whole constellation is visible from equatorial and temperate regions of both hemispheres. \r\n\r\nAs Ophiuchus lies close to the galactic center it contains many globular clusters such as M9, M10, M12, M14, M19, M62, and M107. These are marked as yellow circles with plus symbols superimposed. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Змееносец вместе с его яркими звёздами и окружающими созвездиями. Змееносец окружён (по часовой стрелке сверху): Геркулесом, Змеёй (Голова), Скорпионом, Стрельцом и Змеёй (Хвост). Змееносец не входит в традиционные двенадцать зодиакальных созвездий, но лежит на эклиптике (показана здесь синей линией) — это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Змееносце с конца ноября до середины декабря. Другие планеты Солнечной системы также часто можно найти в Змееносце.\r\n\r\nЗмееносец пересекает небесный экватор, поэтому часть созвездия видна на всей Земле в какое-то время года. Однако в период, когда оно наиболее видимо по вечерам (зимой в южном полушарии и летом в северном), большая часть Арктики находится в условиях полярного дня, что делает звёзды созвездия невидимыми. Всё созвездие видно из экваториальных и умеренных регионов обоих полушарий.\r\n\r\nПоскольку Змееносец расположен близко к галактическому центру, он содержит множество шаровых скоплений, таких как M9, M10, M12, M14, M19, M62 и M107. Они отмечены жёлтыми кружками с наложенными символами плюса.\r\n\r\nОсь Y на этой диаграмме выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной — мерой видимой яркости. Более крупные точки обозначают более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они упорядочены по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии — одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Ophiuchus appears as a headless stick figure",
+      "alt_ru": "Змееносец выглядит как безголовый человечек из палочек",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        92,
+        116,
+        132,
+        286,
+        299,
+        391,
+        474
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:wM92AD94GS73",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/canis_major-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/wM92AD94GS73/",
+      "original_path": "data/media/original/diagram_wM92AD94GS73.png",
+      "ru_path": null,
+      "sha256": "0977bc4f568afb6c328a18f2b28a247212d2fec11db7cc74673ff5fc6df11a67",
+      "size": 116565,
+      "title_en": "Canis Major Constellation Map",
+      "title_ru": "Карта созвездия Большой Пёс",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Canis Major along with its bright stars and its surrounding constellations. Canis Major is surrounded by (going clockwise from the top): Monoceros, Lepus, Columba and Puppis. The constellation is dominated by Sirius, the star which appears brightest in the night sky, which far outshines all of the other stars in the constellation. \r\n\r\nCanis Major lies just south of the celestial equator and is visible from all of the southern hemisphere as well as equatorial and temperate regions of the northern hemisphere. Sirius is visible from all but the most arctic regions. Canis Major is most visible in the evenings in late winter in the northern hemisphere and late summer in the southern hemisphere. \r\n\r\nThe open star clusters M41, NGC 2360 and NGC 2362 lie in the constellation. These are marked with yellow circles.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Большой Пёс вместе с его яркими звёздами и окружающими созвездиями. Большой Пёс окружён (по часовой стрелке сверху): Единорогом, Зайцем, Голубем и Кормой. В созвездии доминирует Сириус — звезда, которая кажется самой яркой на ночном небе и затмевает все остальные звёзды созвездия.\r\n\r\nБольшой Пёс лежит чуть южнее небесного экватора и виден со всего южного полушария, а также из экваториальных и умеренных регионов северного полушария. Сириус виден отовсюду, кроме самых арктических регионов. Большой Пёс лучше всего виден по вечерам в конце зимы в северном полушарии и в конце лета в южном полушарии.\r\n\r\nВ созвездии находятся рассеянные звёздные скопления M41, NGC 2360 и NGC 2362. Они отмечены жёлтыми кружками.\r\n\r\nОсь Y на этой диаграмме выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной — мерой видимой яркости. Более крупные точки обозначают более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они упорядочены по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии — одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Canis Major is shaped like a stick figure drawing of a dog tilted up by 45 degrees. Sirius lies at the dog’s shoulder",
+      "alt_ru": "Большой Пёс имеет форму рисунка собаки из палочек, наклонённого вверх на 45 градусов. Сириус находится у плеча собаки",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        286,
+        304,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:A286J384Ch0",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/aquila-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/A286J384Ch0/",
+      "original_path": "data/media/original/diagram_A286J384Ch0.png",
+      "ru_path": "data/media/ru/diagram_A286J384Ch0.png",
+      "sha256": "dbdc257149b7479e405ce4258063ecd65d9f22cce500569934f47f8361986b6a",
+      "size": 95276,
+      "title_en": "Aquila Constellation Map",
+      "title_ru": "Карта созвездия Орёл",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Aquila with its bright stars and surrounding constellations. Aquila is surrounded by (going clockwise from the top): Sagitta, Hercules, Ophiuchus, Serpens Cauda, Scutum, Sagittarius, Capricornus, Aquarius and Delphinus. Aquila is most notable for its brightest star Altair. This forms one vertex of the prominent Summer Triangle asterism that is visible in northern hemisphere summer evenings. \r\n\r\nAquila spans the celestial equator and thus some part of it is visible from all of the Earth at some point in the year. It is most visible in the evenings in the late northern hemisphere summer and late southern hemisphere winter.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line in the lower right of the diagram is the ecliptic. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Орёл с его яркими звёздами и окружающими созвездиями. Орёл окружён (по часовой стрелке сверху): Стрелой, Геркулесом, Змееносцем, Змеёй (Хвост), Щитом, Стрельцом, Козерогом, Водолеем и Дельфином. Орёл наиболее известен своей самой яркой звездой Альтаир. Она образует одну из вершин заметного астеризма Летний Треугольник, видимого по вечерам летом в северном полушарии.\n\nОрёл пересекает небесный экватор, поэтому некоторая его часть видна со всей Земли в какое-то время года. Он лучше всего виден по вечерам в конце лета в северном полушарии и в конце зимы в южном полушарии.\n\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия в правом нижнем углу диаграммы — это эклиптика. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Aquila looks like a simplified arrow shape with the head pointing to the lower right (the south west). Altair is in the tail",
+      "alt_ru": "Орёл выглядит как упрощённая форма стрелы с головой, направленной вправо вниз (на юго-запад). Альтаир находится в хвосте.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        48,
+        50,
+        51,
+        66,
+        78,
+        92,
+        286,
+        428,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "866d369addf15295d7ab6c86eb45c376da12b06b1ea7aac8895c6d3489d3ab47"
+    },
+    {
+      "id": "diagram:sx35P36xA60",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/canis-minor-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/sx35P36xA60/",
+      "original_path": "data/media/original/diagram_sx35P36xA60.png",
+      "ru_path": null,
+      "sha256": "47caaea86e874f9d499fee66fbd0881e35e57d2bd0ee300e950ca75a54ce33fc",
+      "size": 76244,
+      "title_en": "Canis Minor Constellation Map",
+      "title_ru": "Карта созвездия Малый Пёс",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Canis Minor with its bright stars and surrounding constellations. Canis Minor is surrounded by (going clockwise from the top): Gemini, Monoceros, Hydra and Cancer. Canis Minor has relatively few bright stars but its brightest star Procyon is the eight brightest star in the sky.\r\n\r\nCanis Minor spans the celestial equator and thus part of the constellation is visible from the whole Earth at some point during the year. The whole constellation is visible to all but the most arctic and antarctic regions.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line in the top right of the diagram marks the ecliptic. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Малый Пёс с его яркими звёздами и окружающими созвездиями. Малый Пёс окружён (по часовой стрелке сверху): Близнецами, Единорогом, Гидрой и Раком. В Малом Псе относительно мало ярких звёзд, но его самая яркая звезда Процион является восьмой по яркости звездой на небе.\r\n\r\nМалый Пёс пересекает небесный экватор, поэтому часть созвездия видна со всей Земли в какое-то время года. Всё созвездие видно отовсюду, кроме самых арктических и антарктических регионов.\r\n\r\nОсь Y на этой диаграмме выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной — мерой видимой яркости. Более крупные точки обозначают более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они упорядочены по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии — одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия в правом верхнем углу диаграммы обозначает эклиптику. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Canis Minor appears as a straight line extending north west from Procyon which lies in the center of the constellation",
+      "alt_ru": "Малый Пёс выглядит как прямая линия, простирающаяся на северо-запад от Проциона, который находится в центре созвездия",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        92,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:Sk61ZE32Db17",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/delphinus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Sk61ZE32Db17/",
+      "original_path": "data/media/original/diagram_Sk61ZE32Db17.png",
+      "ru_path": null,
+      "sha256": "692a65f9f58c30e06f5f53f9a8b5541eb937e26d2bc80341b3ab1b9b445ad439",
+      "size": 70980,
+      "title_en": "Delphinus Constellation Map",
+      "title_ru": "Карта созвездия Дельфин",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Delphinus with its brighter stars and surrounding constellations. Delphinus is surrounded by (going clockwise from the top): Vulpecula, Sagitta, Aquila, Aquarius, Equuleus and Pegasus. Delphinus is a relatively small constellation with few bright stars. \r\n\r\nDelphinus lies just north of the celestial equator and thus the whole constellation is visible at some point in the year to all but the most antarctic regions. The constellation is best viewed in the evenings in the early northern hemisphere autumn and early southern hemisphere spring. \r\n\r\nThe globular cluster NGC 6934 lies in Dephinus. It is marked here with a yellow circle with a plus sign superimposed on it.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Дельфин с его более яркими звёздами и окружающими созвездиями. Дельфин окружён (по часовой стрелке сверху): Лисичкой, Стрелой, Орлом, Водолеем, Малым Конём и Пегасом. Дельфин — относительно небольшое созвездие с небольшим числом ярких звёзд.\r\n\r\nДельфин лежит чуть севернее небесного экватора, поэтому всё созвездие видно в какое-то время года отовсюду, кроме самых антарктических регионов. Созвездие лучше всего наблюдать по вечерам в начале осени в северном полушарии и в начале весны в южном полушарии.\r\n\r\nВ Дельфине находится шаровое скопление NGC 6934. Оно отмечено здесь жёлтым кружком с наложенным знаком плюса.\r\n\r\nОсь Y на этой диаграмме выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной — мерой видимой яркости. Более крупные точки обозначают более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они упорядочены по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии — одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Delphinus looks like a diamond with an additional small line extending to the south",
+      "alt_ru": "Дельфин выглядит как ромб с дополнительной небольшой линией, простирающейся к югу",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        132,
+        286,
+        428
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:8n24fA64M880",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sextans-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/8n24fA64M880/",
+      "original_path": "data/media/original/diagram_8n24fA64M880.png",
+      "ru_path": "data/media/ru/diagram_8n24fA64M880.png",
+      "sha256": "c74c393ca300a9a1fb83b406f435d40b806ab7caa9325becdfaae79448dae3df",
+      "size": 73401,
+      "title_en": "Sextans Constellation Map",
+      "title_ru": "Карта созвездия Секстант",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Sextans with its brighter stars and surrounding constellations. Sextans is surrounded by (going clockwise from the top): Leo, Hydra and Crater. Sextans is a small constellation with relatively few bright stars. \r\n\r\nSextans spans the celestial equator and thus parts of the constellation are visible at some point in the year across the Earth. The whole constellation is visible in all but the most arctic and most antarctic regions. Sextans is best viewed in the evening in the northern hemisphere spring and southern hemisphere autumn. \r\n\r\nThe lenticular galaxy NGC 3115 lies in Sextans. It is marked here with a red ellipse.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line at the top of the diagram marks the ecliptic. Neither the constellation boundaries, nor the lines joining the stars, nor the ecliptic, appear on the sky.",
+      "caption_ru": "Созвездие Секстант с его более яркими звёздами и окружающими созвездиями. Секстант окружён (по часовой стрелке сверху): Львом, Гидрой и Чашей. Секстант — небольшое созвездие с относительно небольшим числом ярких звёзд.\n\nСекстант пересекает небесный экватор, поэтому части созвездия видны в какое-то время года по всей Земле. Всё созвездие видно везде, кроме самых арктических и самых антарктических регионов. Секстант лучше всего наблюдать вечером весной в Северном полушарии и осенью в Южном полушарии.\n\nЛинзовидная галактика NGC 3115 находится в Секстанте. Она отмечена здесь красным эллипсом.\n\nОсь Y на этой диаграмме — в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия в верхней части диаграммы обозначает эклиптику. Ни границы созвездий, ни линии, соединяющие звёзды, ни эклиптика не видны на небе.",
+      "alt_en": "The stars in Sextans take the shape of a hook with the concave part pointing south",
+      "alt_ru": "Звёзды в Секстанте образуют форму крюка, вогнутая часть которого направлена на юг",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        92,
+        172,
+        286,
+        452
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "bfe84d5c9eb41b73efce79875ec3010b9fad16e7266116c1da69a8fe1e4693b8"
+    },
+    {
+      "id": "diagram:7P47Z230jz66",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/serpens-cauda-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/7P47Z230jz66/",
+      "original_path": "data/media/original/diagram_7P47Z230jz66.png",
+      "ru_path": "data/media/ru/diagram_7P47Z230jz66.png",
+      "sha256": "ee441c95a650d474b6c70aed47b2da1e04ee727286a510521310313ec7ebd773",
+      "size": 103442,
+      "title_en": "Serpens Cauda Constellation Map",
+      "title_ru": "Карта созвездия Змея (Хвост)",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "A map of part of the constellation Serpens. Serpens is unique amongst IAU constellations in that it is divided into two non-contiguous parts. The part of Serpens shown here is known as Serpens Cauda, representing the tail of the serpent. This part of Serpens is surrounded by (going clockwise from the top): Ophiuchus, Sagittarius, Scutum and Aquila.\r\n\r\nSerpens Cauda spans the celestial equator thus parts of the constellation are visible at some point in the year across the Earth. The whole constellation is visible to all but the most arctic and antarctic regions. Serpens Cauda is best viewed in the evening in the northern hemisphere summer and southern hemisphere winter. \r\n\r\nThe Eagle Nebula and its associated star cluster are marked here as M16 with a yellow circle. This region was the location of the famous “pillars of creation” image taken by the Hubble Space Telescope. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line at the bottom of the diagram marks the ecliptic. Neither the constellation boundaries, nor the lines joining the stars, nor the ecliptic, appear on the sky.",
+      "caption_ru": "Карта части созвездия Змея. Змея уникальна среди созвездий МАС тем, что разделена на две несмежные части. Часть Змеи, показанная здесь, известна как Змея (Хвост), представляющая хвост змеи. Эта часть Змеи окружена (по часовой стрелке сверху): Змееносцем, Стрельцом, Щитом и Орлом.\n\nЗмея (Хвост) пересекает небесный экватор, поэтому части созвездия видны в какое-то время года по всей Земле. Всё созвездие видно везде, кроме самых арктических и антарктических регионов. Змею (Хвост) лучше всего наблюдать вечером летом в Северном полушарии и зимой в Южном полушарии.\n\nТуманность Орла и связанное с ней звёздное скопление отмечены здесь как M16 жёлтым кружком. Этот регион был местом знаменитого изображения «Столпы созидания», полученного космическим телескопом Хаббл.\n\nОсь Y на этой диаграмме — в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия в нижней части диаграммы обозначает эклиптику. Ни границы созвездий, ни линии, соединяющие звёзды, ни эклиптика не видны на небе.",
+      "alt_en": "The stars in Serpens Cauda form a north-east to south-west line",
+      "alt_ru": "Звёзды в Змее (Хвосте) образуют линию с северо-востока на юго-запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        211,
+        286,
+        466,
+        474
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "8159764654c5dd4795e3a9bace05c03b3b37b98913c633f56b72ad99abed9cb9"
+    },
+    {
+      "id": "diagram:Vz14Lb22Cd91",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/serpens-caput-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Vz14Lb22Cd91/",
+      "original_path": "data/media/original/diagram_Vz14Lb22Cd91.png",
+      "ru_path": null,
+      "sha256": "de7cf998234afc6e64ddc17ee877f67eab4ce4644f859e0f439d136036a37264",
+      "size": 97598,
+      "title_en": "Serpens Caput Constellation Map",
+      "title_ru": "Карта созвездия Змея (Голова)",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "A map of part of the constellation Serpens. Serpens is unique amongst IAU constellations in that it is divided into two non-contiguous parts. The part of Serpens shown here is known as Serpens Caput, representing the head of the serpent. This part of Serpens is surrounded by (going clockwise from the top): Corona Borealis, Boötes, Virgo, Libra, Ophiuchus and Hercules.  \r\n\r\n\r\nSerpens Caput spans the celestial equator thus parts of the constellation are visible at some point in the year across the Earth. The whole constellation is visible to temperate and equatorial regions of the southern hemisphere and all of the northern hemisphere except a small region around the north pole. Serpens Caput is best viewed in the evening in the northern hemisphere summer and southern hemisphere winter. \r\n\r\nThe globular cluster M5 lies in Serpens Caput. It is marked here with a yellow circle with a plus sign superimposed on it.\r\n\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Карта части созвездия Змея. Змея уникальна среди созвездий МАС тем, что разделена на две несмежные части. Часть Змеи, показанная здесь, известна как Змея (Голова), представляющая голову змеи. Эта часть Змеи окружена (по часовой стрелке сверху): Северной Короной, Волопасом, Девой, Весами, Змееносцем и Геркулесом.\n\nЗмея (Голова) пересекает небесный экватор, поэтому части созвездия видны в какое-то время года по всей Земле. Всё созвездие видно в умеренных и экваториальных регионах Южного полушария и во всём Северном полушарии, кроме небольшой области вокруг Северного полюса. Змею (Голову) лучше всего наблюдать вечером летом в Северном полушарии и зимой в Южном полушарии.\n\nШаровое скопление M5 находится в Змее (Голове). Оно отмечено здесь жёлтым кружком с наложенным знаком плюс.\n\nОсь Y на этой диаграмме — в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "The stars in Serpens Caput appear to form a north-south snake with a triangular head at the north end",
+      "alt_ru": "Звёзды в Змее (Голове), по-видимому, образуют змею с севера на юг с треугольной головой на северном конце",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        132,
+        173,
+        286,
+        486
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:bA48h020s763",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/equinox_solstices.png",
+      "record_url": "https://astro4edu.org/resources/diagram/bA48h020s763/",
+      "original_path": "data/media/original/diagram_bA48h020s763.png",
+      "ru_path": null,
+      "sha256": "53cb5a814a5caa4e58ebe451ec25764c736799e61a0563c3e5b7db4dd0d92287",
+      "size": 2018797,
+      "title_en": "Solstices and Equinoxes",
+      "title_ru": "Солнцестояния и равноденствия",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram demonstrates the relative positions of the Earth and Sun at the two solstices and two equinoxes. The Earth’s rotation axis is tilted by 23.4° from the axis of its orbit. This means that for half the Earth’s annual orbit around the Sun, the Southern Hemisphere is tilted towards the Sun and the Northern Hemisphere is tilted away from the Sun. During this time the Sun appears to lie below the celestial equator. Due to this at any particular point in the Southern Hemisphere the Sun will appear to be higher above the horizon at a particular time of day and the days will be longer. Conversely during this time, the Sun appears lower in the sky at any particular point in the day in the Northern Hemisphere and the days are shorter.\r\n\r\nThis effect is most pronounced in late December when the Sun appears at its most southerly point in the sky, corresponding to the longest day of the year in the Southern Hemisphere. This normally occurs on the 21st or 22nd of December (UTC), depending on when the most recent leap year was, but can very occasionally occur on the 20th or 23rd of December. This event is known as the December solstice. As the Sun’s rays hit the Southern Hemisphere at a more perpendicular angle during this time, the Southern Hemisphere is typically warmer in this time of year than at other times of year. This is often referred to as summer in temperate and antarctic regions of the Southern Hemisphere and thus the December solstice is known as the summer solstice. South of the Antarctic Circle at this time the Sun never sets and a Polar Day can last several months. Conversely in the Northern Hemisphere, the Sun’s rays hit the Earth at a more grazing angle than at other times of year so it is colder and this solstice is known as the winter solstice. North of the Arctic Circle the Sun never rises during this time and the Polar Night can last several months. \r\n\r\nAs the year progresses the Earth moves in its orbit and the tilt of the Earth’s axis moves so it appears more side-on to the Sun. From the perspective of an observer on Earth this means that the Sun moves north in the sky, eventually reaching the celestial equator in late March, This usually occurs on the 20th of March (UTC) but can sometimes occur on the 19th or 21st of March. During this time all places on Earth will experience night and day that is approximately 12 hours long. The Sun’s rays now hit the Southern hemisphere at a more shallow angle than they did in December and hit the Northern Hemisphere at a more perpendicular angle. This means that the Northen Hemisphere will have warmed since December and the Southern Hemisphere cooled. This leads to the March equinox being referred to as the autumn equinox in the Southern Hemisphere and the spring or vernal equinox in the Northern Hemisphere. \r\n\r\nAs the year progresses further the Sun moves further north on the sky, the Northern Hemisphere days lengthen and the Southern Hemisphere days shorten. By June the Earth’s orbit has progressed to the point where the Northern Hemisphere points towards the Sun and the Southern Hemisphere away from the Sun. At one point between the 20th and 22nd of June (UTC) the Sun reaches its most northerly point in the sky, this is known as June solstice. It is now summer in northern temperate and artic regions so this is known as the summer solstice in the Northern Hemisphere and the winter solstice in the Southern Hemisphere. This is the longest day of the year in the Northern Hemisphere and the shortest day of the year in the Southern Hemisphere. During this time regions north of the Arctic Circle experience a long Polar Day and regions south of the Antarctic Circle experience polar night.\r\n\r\nThe year progresses further and the Earth moves in its orbit so that the tilt of the Earth’s axis again appears side-on for the Sun. The Sun moves south in the sky and again crosses the celestial equator between the 21st and 24th of September (UTC). At this time all places on the Earth experience equal lengths of day and night. This is known as the September equinox, also called the spring or vernal equinox in the Southern Hemisphere and the autumn equinox in the Northern Hemisphere.\r\n\r\nNote the sizes of the Earth, Sun and the Earth’s orbit around the Sun are not to scale in this diagram.",
+      "caption_ru": "Эта диаграмма демонстрирует относительные положения Земли и Солнца в двух солнцестояниях и двух равноденствиях. Ось вращения Земли наклонена на 23,4° от оси её орбиты. Это означает, что в течение половины годового обращения Земли вокруг Солнца Южное полушарие наклонено к Солнцу, а Северное полушарие наклонено от Солнца. В это время Солнце кажется находящимся ниже небесного экватора. Из-за этого в любой конкретной точке Южного полушария Солнце будет казаться выше над горизонтом в определённое время дня, и дни будут длиннее. И наоборот, в это время Солнце кажется ниже на небе в любой конкретной точке дня в Северном полушарии, и дни короче.\r\n\r\nЭтот эффект наиболее выражен в конце декабря, когда Солнце кажется в своей самой южной точке на небе, что соответствует самому длинному дню года в Южном полушарии. Это обычно происходит 21 или 22 декабря (UTC), в зависимости от того, когда был последний високосный год, но очень редко может происходить 20 или 23 декабря. Это событие известно как декабрьское солнцестояние. Поскольку солнечные лучи падают на Южное полушарие под более перпендикулярным углом в это время, Южное полушарие обычно теплее в это время года, чем в другие времена года. Это часто называют летом в умеренных и антарктических регионах Южного полушария, и поэтому декабрьское солнцестояние известно как летнее солнцестояние. К югу от Южного полярного круга в это время Солнце никогда не заходит, и полярный день может длиться несколько месяцев. И наоборот, в Северном полушарии солнечные лучи падают на Землю под более скользящим углом, чем в другие времена года, поэтому там холоднее, и это солнцестояние известно как зимнее солнцестояние. К северу от Северного полярного круга Солнце никогда не восходит в это время, и полярная ночь может длиться несколько месяцев.\r\n\r\nПо мере продвижения года Земля движется по своей орбите, и наклон земной оси смещается так, что она кажется более обращённой боком к Солнцу. С точки зрения наблюдателя на Земле это означает, что Солнце движется на север по небу, в конечном итоге достигая небесного экватора в конце марта. Это обычно происходит 20 марта (UTC), но иногда может происходить 19 или 21 марта. В это время во всех местах на Земле ночь и день будут длиться примерно 12 часов. Солнечные лучи теперь падают на Южное полушарие под более пологим углом, чем в декабре, и падают на Северное полушарие под более перпендикулярным углом. Это означает, что Северное полушарие нагреется с декабря, а Южное полушарие остынет. Это приводит к тому, что мартовское равноденствие называют осенним равноденствием в Южном полушарии и весенним равноденствием в Северном полушарии.\r\n\r\nПо мере дальнейшего продвижения года Солнце движется дальше на север по небу, дни в Северном полушарии удлиняются, а дни в Южном полушарии укорачиваются. К июню орбита Земли продвинулась до точки, где Северное полушарие направлено к Солнцу, а Южное полушарие — от Солнца. В какой-то момент между 20 и 22 июня (UTC) Солнце достигает своей самой северной точки на небе, это известно как июньское солнцестояние. Теперь лето в северных умеренных и арктических регионах, поэтому это известно как летнее солнцестояние в Северном полушарии и зимнее солнцестояние в Южном полушарии. Это самый длинный день года в Северном полушарии и самый короткий день года в Южном полушарии. В это время регионы к северу от Северного полярного круга испытывают длинный полярный день, а регионы к югу от Южного полярного круга испытывают полярную ночь.\r\n\r\nГод продвигается дальше, и Земля движется по своей орбите так, что наклон земной оси снова кажется обращённым боком к Солнцу. Солнце движется на юг по небу и снова пересекает небесный экватор между 21 и 24 сентября (UTC). В это время во всех местах на Земле день и ночь имеют равную продолжительность. Это известно как сентябрьское равноденствие, также называемое весенним равноденствием в Южном полушарии и осенним равноденствием в Северном полушарии.\r\n\r\nОбратите внимание, что размеры Земли, Солнца и орбиты Земли вокруг Солнца не в масштабе на этой диаграмме.",
+      "alt_en": "The Earth with its tilted rotation axis at 4 points (December Solstice, March Equinox, June Solstice, September Equinox) in its orbit round the Sun",
+      "alt_ru": "Земля с наклонной осью вращения в 4 точках (декабрьское солнцестояние, мартовское равноденствие, июньское солнцестояние, сентябрьское равноденствие) на своей орбите вокруг Солнца",
+      "credit": "Maria Cristina Fortuna/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        34,
+        51,
+        300,
+        317,
+        341,
+        404,
+        406,
+        407,
+        439,
+        488,
+        489,
+        491,
+        492
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

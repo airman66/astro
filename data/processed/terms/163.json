@@ -1,0 +1,190 @@
+{
+  "id": "term:163",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 163,
+    "url": "https://astro4edu.org/resources/glossary/term/163/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=163",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:05.130998+00:00",
+    "sha256": "47171766b0c9f7051d2aaa9f447ed09d5f62f8348cdbc9f4b27cddf6d831f266"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      196,
+      302
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Iron Meteorite",
+      "body": "Iron meteorites are meteorites with an abundant amount of iron and nickel. They are thought to be part of the core of asteroids and are very dense and very heavy. Almost 60% of the meteorites found on Earth are iron meteorites even though they make up only 5% of the meteorites that hit Earth's surface. One of the reasons for this is that they are stronger and do not weather as easily as stony meteorites.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Meteorite",
+          "url": "https://www.astro4edu.org/resources/glossary/term/196/",
+          "text_ru": "Метеорит"
+        },
+        {
+          "text": "Shooting Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/302/",
+          "text_ru": "Падающая звезда"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Iron Meteorite</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Iron meteorites are meteorites with an abundant amount of iron and nickel. They are thought to be part of the core of asteroids and are very dense and very heavy. Almost 60% of the meteorites found on Earth are iron meteorites even though they make up only 5% of the meteorites that hit Earth's surface. One of the reasons for this is that they are stronger and do not weather as easily as stony meteorites.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/196/\">Meteorite</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/302/\">Shooting Star</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Железный метеорит",
+      "body_ru": "Железные метеориты — это метеориты с большим содержанием железа и никеля. Считается, что они являются частью ядра астероидов, и они очень плотные и очень тяжёлые. Почти 60% найденных на Земле метеоритов — железные, хотя они составляют лишь 5% метеоритов, падающих на поверхность Земли. Одна из причин этого в том, что они прочнее и не выветриваются так легко, как каменные метеориты."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "隕鉄 (external link)",
+          "url": "https://astro-dic.jp/iron-meteorite/",
+          "text_ru": "Метеоритное железо (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/163/\">النيازك الحديدية </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/163/\">লোহার উল্কাপিণ্ড </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/163/\">Eisenmeteoriten </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/163/\">Meteorito ferroso </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/163/\">Météorite ferreuse </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/163/\">Meteoriti di ferro </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/iron-meteorite/\">隕鉄 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/163/\">Meteoritos ferrosos </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/163/\">铁陨石 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/163/\">鐵隕石 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/9j76AZ10iH86/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.flickr.com/photos/9563286@N03/21770358081",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:9j76AZ10iH86"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/9j76AZ10iH86/\"><img alt=\"A shiny silver cross-section of a meteorite with  two sets of many parallel lines crossing each other\" src=\"/media/multimedia/thumbnails/iron-meteorite_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Iron Meteorite</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This iron meteorite was originally found in Harriman, Tennessee, USA and is now held in the collection of the Smithsonian Natural History Museum, Washington DC, USA. The total mass of the meteorite was about 30kg. Here we see the interior after the meteorite was cut into pieces. \n\nIron meteorites are largely composed of an iron-nickel. They also often have a crystalline structure which manifests here as a series of crossing shiny straight lines known as a Widmanstätten pattern. This is thought to have formed as the meteoroid (the object that would eventually fall through the Earth's atmosphere as a meteor and land on the ground as a meteorite) cooled very slowly in the vacuum of space in the early solar system. This led to the growth of this crystalline structure.<br/>\n<b>Credit:</b> Chuck Sutherland\n\t  <a href=\"https://www.flickr.com/photos/9563286@N03/21770358081\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Iron Meteorite",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Iron Meteorite",
+          "body": "Iron meteorites are meteorites with an abundant amount of iron and nickel. They are thought to be part of the core of asteroids and are very dense and very heavy. Almost 60% of the meteorites found on Earth are iron meteorites even though they make up only 5% of the meteorites that hit Earth's surface. One of the reasons for this is that they are stronger and do not weather as easily as stony meteorites."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Железный метеорит",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Железный метеорит",
+          "body": "Железные метеориты — это метеориты с большим содержанием железа и никеля. Считается, что они являются частью ядра астероидов, и они очень плотные и очень тяжёлые. Почти 60% найденных на Земле метеоритов — железные, хотя они составляют лишь 5% метеоритов, падающих на поверхность Земли. Одна из причин этого в том, что они прочнее и не выветриваются так легко, как каменные метеориты."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:9j76AZ10iH86",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/iron-meteorite.png",
+      "record_url": "https://astro4edu.org/resources/media/9j76AZ10iH86/",
+      "original_path": "data/media/original/media_9j76AZ10iH86.png",
+      "ru_path": null,
+      "sha256": "a6ff475e672ecb8d5ebd0930ebc92221883d9ad82ff7dbb784a32da230d5e218",
+      "size": 4512007,
+      "title_en": "Iron Meteorite",
+      "title_ru": "Железный метеорит",
+      "short_caption_en": "Iron Meteorite",
+      "short_caption_ru": "Железный метеорит",
+      "caption_en": "This iron meteorite was originally found in Harriman, Tennessee, USA and is now held in the collection of the Smithsonian Natural History Museum, Washington DC, USA. The total mass of the meteorite was about 30kg. Here we see the interior after the meteorite was cut into pieces. \r\n\r\nIron meteorites are largely composed of an iron-nickel. They also often have a crystalline structure which manifests here as a series of crossing shiny straight lines known as a Widmanstätten pattern. This is thought to have formed as the meteoroid (the object that would eventually fall through the Earth's atmosphere as a meteor and land on the ground as a meteorite) cooled very slowly in the vacuum of space in the early solar system. This led to the growth of this crystalline structure.",
+      "caption_ru": "Этот железный метеорит был первоначально найден в Харримане, штат Теннесси, США, и сейчас хранится в коллекции Смитсоновского музея естественной истории, Вашингтон, округ Колумбия, США. Общая масса метеорита составляла около 30kg. Здесь мы видим внутреннюю часть после того, как метеорит был разрезан на куски. \r\n\r\nЖелезные метеориты в основном состоят из железо-никелевого сплава. Они также часто имеют кристаллическую структуру, которая проявляется здесь в виде серии пересекающихся блестящих прямых линий, известных как видманштеттенова структура. Считается, что она образовалась, когда метеороид (объект, который в конечном итоге пройдёт через атмосферу Земли как метеор и упадёт на землю как метеорит) очень медленно остывал в вакууме космоса в ранней Солнечной системе. Это привело к росту этой кристаллической структуры.",
+      "alt_en": "A shiny silver cross-section of a meteorite with  two sets of many parallel lines crossing each other",
+      "alt_ru": "Блестящий серебристый поперечный срез метеорита с двумя наборами множества параллельных линий, пересекающихся друг с другом",
+      "credit": "Chuck Sutherland",
+      "credit_url": "https://www.flickr.com/photos/9563286@N03/21770358081",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        163,
+        196,
+        302
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

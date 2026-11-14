@@ -1,0 +1,277 @@
+{
+  "id": "term:9",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 9,
+    "url": "https://astro4edu.org/resources/glossary/term/9/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=9",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:05.793560+00:00",
+    "sha256": "8f9a92572077a6cb9fabebd3fbb7a162eddbdd4b26ec8e88255af2a807beced6"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Angular Diameter",
+      "body": "The angular diameter of an object is its visible diameter from a specific location measured as an angle. The angular diameter is used in astronomy as one way to express the size of celestial objects on the sky. The angular diameter increases with increasing physical size of an object and decreases when an object is farther away. For example, the Moon and Sun both have angular diameters of about half a degree when viewed from Earth. The Moon is about 400 times smaller than the Sun but appears the same size (about half a degree across), as the Sun is about 400 times further away.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Angular Diameter</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The angular diameter of an object is its visible diameter from a specific location measured as an angle. The angular diameter is used in astronomy as one way to express the size of celestial objects on the sky. The angular diameter increases with increasing physical size of an object and decreases when an object is farther away. For example, the Moon and Sun both have angular diameters of about half a degree when viewed from Earth. The Moon is about 400 times smaller than the Sun but appears the same size (about half a degree across), as the Sun is about 400 times further away.</p>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Угловой диаметр",
+      "body_ru": "Угловой диаметр объекта — это его видимый диаметр с определённого местоположения, измеряемый как угол. Угловой диаметр используется в астрономии как один из способов выражения размера небесных объектов на небе. Угловой диаметр увеличивается с увеличением физического размера объекта и уменьшается, когда объект находится дальше. Например, Луна и Солнце имеют угловые диаметры около половины градуса при наблюдении с Земли. Луна примерно в 400 раз меньше Солнца, но кажется того же размера (около половины градуса в поперечнике), так как Солнце примерно в 400 раз дальше."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "角直径 (external link)",
+          "url": "https://astro-dic.jp/angular-diameter/",
+          "text_ru": "Угловой диаметр (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/9/\">القطر الزاوي </a></span></li>\n<li><b>Bengali: </b><span dir=\"LTR\" lang=\"bn\"><a class=\"link-bold\" href=\"/bn/resources/glossary/term/9/\">কৌণিক ব্যাস </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/9/\">Winkelausdehnung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/9/\">Diámetro Angular </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/9/\">قطر زاویه‌ای </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/9/\">Diamètre angulaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/9/\">Diametro angolare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/angular-diameter/\">角直径 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/9/\">각지름 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/9/\">Diâmetro angular </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/9/\">角直径 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/9/\">角直徑 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/8s68ju88OG5/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:2023_Annual_Eclipse.jpg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:8s68ju88OG5"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/8s68ju88OG5/\"><img alt=\"Dark silhouette of the Moon surrounded by a thin, glowing ring of sunlight during an annular solar eclipse.\" src=\"/media/multimedia/thumbnails/annular-solar-eclipse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Annular Solar Eclipse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image captures an annular eclipse, a special type of solar eclipse that occurs when the Moon passes directly in front of the Sun but does not completely cover it. Because the Moon is near the farthest point in its orbit it has a smaller angular size than normal and is thus slightly smaller in the sky than the Sun. If an eclipse occurs in this situation, the Moon only blocks the central portion of the Sun's disk but leaves a bright ring, often called the “ring of fire”, visible around the Moon’s silhouette. An annular eclipse is different from a total solar eclipse in that observers see this luminous ring rather than the Sun being fully obscured.<br/>\n<b>Credit:</b> Wikipedia user - Dpickd1\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:2023_Annual_Eclipse.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/gF99b779Ly23/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:gF99b779Ly23"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/gF99b779Ly23/\"><img alt=\"A star viewed from Earth when the Earth is at two different positions in its orbit\" src=\"/media/diagrams/multimedia/thumbnails/Annual_Parallax_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Annual Parallax</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Distance determination has historically been a challenge for astronomy. One of the primary ways to measure distance is to use annual parallax. The Earth orbits around the Sun over the course of a year meaning that it moves from one side of the Sun (shown here as position A) to the other side of the Sun (position B) over the course of six months. It then moves back to its original position over the remaining six months. This movement subtly changes the perspective an observer on Earth sees the night sky from. This is similar to the change in viewing perspective you may get when viewing a scene from your left eye and then your right eye. The change of viewing perspective causes nearby objects to shift in position in your vision. The annual motion of the Earth around the Sun changes the perspective of the observer enough to shift the observed positions of celestial objects. How big this effect is depends on the distance to the celestial object. Nearby stars will have bigger shifts in observed position than more distant stars. \n\nThe positional shift is known as the trigonometric or annual parallax (which we will call α here) and is defined as the shift in position of a star compared to what an observer at the center of the Solar System (the Sun) would see. In this diagram we see the star viewed from perspectives six months apart (positions A and B). When observed from position A the star’s shift in position will be α while when observed at position B it will be –α. Thus the relative difference in the stars position between being observed at position A and position B will be 2α. \n\nThe size of the trigonometric or annual parallax in arcseconds is approximately 1 divided by the distance in parsecs. An arcsecond (often represented by a ″ symbol) is the angular diameter a one-metre-long stick would have when viewed from 206 km away. A parsec (often abbreviated to pc) is 3.26 light years or 30.86 trillion kilometres. This is 206,265 astronomical units (the typical distance between the Earth and the Sun). No other star is closer than 1 pc to the Sun so all stars in the sky have trigonometric parallaxes less than one arcsecond. \n\nWhile trigonometric parallaxes have long been used to measure the distances to objects in our Solar System or nearby stars, recent advances have pushed the boundaries of these distance measures further. The Gaia satellite has pushed the boundaries of parallax measurements to over a thousand parsecs. Arrays of radio telescopes can also very accurately measure the positions of very distant objects and thus their trigonometric parallax.\n\nNote the Earth and Sun are not to scale here and the Earth’s axial tilt is not accurately represented.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities The sky at your fingertips astroEDU educational activity (links to astroEDU website) Description: Build a simple cross-staff and measure the stars! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Informal/Field Trip Related \n  \n, Observation based \n  \n, Project-based learning Costs: Low Cost Duration: 2 hours Skills: Analysing and interpreting data \n  \n, Developing and using models",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/the-sky-at-your-fingertips/\"><img alt=\"The sky at your fingertips\" src=\"/media/astroedu/images/the-sky-at-your-fingertips_en_thumbnail_KhB9mhx.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/the-sky-at-your-fingertips/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The sky at your fingertips</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a simple cross-staff and measure the stars!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nInformal/Field Trip Related \n  \n, Observation based \n  \n, Project-based learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Небо на кончиках пальцев образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте простой крест-штатив и измерьте звезды! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная Области обучения: Неформальное/Экскурсионное \n  \n, Наблюдательное \n  \n, Проектное обучение Затраты: Низкие затраты Продолжительность: 2 часа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Angular Diameter",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Angular Diameter",
+          "body": "The angular diameter of an object is its visible diameter from a specific location measured as an angle. The angular diameter is used in astronomy as one way to express the size of celestial objects on the sky. The angular diameter increases with increasing physical size of an object and decreases when an object is farther away. For example, the Moon and Sun both have angular diameters of about half a degree when viewed from Earth. The Moon is about 400 times smaller than the Sun but appears the same size (about half a degree across), as the Sun is about 400 times further away."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities The sky at your fingertips astroEDU educational activity (links to astroEDU website) Description: Build a simple cross-staff and measure the stars! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Informal/Field Trip Related \n  \n, Observation based \n  \n, Project-based learning Costs: Low Cost Duration: 2 hours Skills: Analysing and interpreting data \n  \n, Developing and using models"
+        }
+      }
+    },
+    "ru": {
+      "title": "Угловой диаметр",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Угловой диаметр",
+          "body": "Угловой диаметр объекта — это его видимый диаметр с определённого местоположения, измеряемый как угол. Угловой диаметр используется в астрономии как один из способов выражения размера небесных объектов на небе. Угловой диаметр увеличивается с увеличением физического размера объекта и уменьшается, когда объект находится дальше. Например, Луна и Солнце имеют угловые диаметры около половины градуса при наблюдении с Земли. Луна примерно в 400 раз меньше Солнца, но кажется того же размера (около половины градуса в поперечнике), так как Солнце примерно в 400 раз дальше."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Небо на кончиках пальцев образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Создайте простой крест-штатив и измерьте звезды! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная Области обучения: Неформальное/Экскурсионное \n  \n, Наблюдательное \n  \n, Проектное обучение Затраты: Низкие затраты Продолжительность: 2 часа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:8s68ju88OG5",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/annular-solar-eclipse.png",
+      "record_url": "https://astro4edu.org/resources/media/8s68ju88OG5/",
+      "original_path": "data/media/original/media_8s68ju88OG5.png",
+      "ru_path": null,
+      "sha256": "a3f4deb5d9cdc202406a7466211e013168667bd5ff591560b8835873fd7f5243",
+      "size": 1195609,
+      "title_en": "Annular Solar Eclipse",
+      "title_ru": "Кольцеобразное солнечное затмение",
+      "short_caption_en": "Annular Solar Eclipse",
+      "short_caption_ru": "Кольцеобразное солнечное затмение",
+      "caption_en": "This image captures an annular eclipse, a special type of solar eclipse that occurs when the Moon passes directly in front of the Sun but does not completely cover it. Because the Moon is near the farthest point in its orbit it has a smaller angular size than normal and is thus slightly smaller in the sky than the Sun. If an eclipse occurs in this situation, the Moon only blocks the central portion of the Sun's disk but leaves a bright ring, often called the “ring of fire”, visible around the Moon’s silhouette. An annular eclipse is different from a total solar eclipse in that observers see this luminous ring rather than the Sun being fully obscured.",
+      "caption_ru": "Это изображение запечатлевает кольцеобразное затмение — особый тип солнечного затмения, которое происходит, когда Луна проходит прямо перед Солнцем, но не полностью его закрывает. Поскольку Луна находится вблизи самой дальней точки своей орбиты, её угловой размер меньше обычного, и поэтому на небе она немного меньше Солнца. Если затмение происходит в такой ситуации, Луна блокирует только центральную часть солнечного диска, но оставляет яркое кольцо, часто называемое «огненным кольцом», видимым вокруг силуэта Луны. Кольцеобразное затмение отличается от полного солнечного затмения тем, что наблюдатели видят это светящееся кольцо, а не полностью затемнённое Солнце.",
+      "alt_en": "Dark silhouette of the Moon surrounded by a thin, glowing ring of sunlight during an annular solar eclipse.",
+      "alt_ru": "Тёмный силуэт Луны, окружённый тонким светящимся кольцом солнечного света во время кольцеобразного солнечного затмения.",
+      "credit": "Wikipedia user - Dpickd1",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:2023_Annual_Eclipse.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        9,
+        11,
+        91
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:gF99b779Ly23",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Annual_Parallax.png",
+      "record_url": "https://astro4edu.org/resources/diagram/gF99b779Ly23/",
+      "original_path": "data/media/original/diagram_gF99b779Ly23.png",
+      "ru_path": null,
+      "sha256": "331c80f0f77c0d7b694afaff80213d6f64312029d3130faa8dcedf4e197ed86b",
+      "size": 1426742,
+      "title_en": "Annual Parallax",
+      "title_ru": "Годичный параллакс",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "Distance determination has historically been a challenge for astronomy. One of the primary ways to measure distance is to use annual parallax. The Earth orbits around the Sun over the course of a year meaning that it moves from one side of the Sun (shown here as position A) to the other side of the Sun (position B) over the course of six months. It then moves back to its original position over the remaining six months. This movement subtly changes the perspective an observer on Earth sees the night sky from. This is similar to the change in viewing perspective you may get when viewing a scene from your left eye and then your right eye. The change of viewing perspective causes nearby objects to shift in position in your vision. The annual motion of the Earth around the Sun changes the perspective of the observer enough to shift the observed positions of celestial objects. How big this effect is depends on the distance to the celestial object. Nearby stars will have bigger shifts in observed position than more distant stars. \r\n\r\nThe positional shift is known as the trigonometric or annual parallax (which we will call α here) and is defined as the shift in position of a star compared to what an observer at the center of the Solar System (the Sun) would see. In this diagram we see the star viewed from perspectives six months apart (positions A and B). When observed from position A the star’s shift in position will be α while when observed at position B it will be –α. Thus the relative difference in the stars position between being observed at position A and position B will be 2α. \r\n\r\nThe size of the trigonometric or annual parallax in arcseconds is approximately 1 divided by the distance in parsecs. An arcsecond (often represented by a ″ symbol) is the angular diameter a one-metre-long stick would have when viewed from 206 km away. A parsec (often abbreviated to pc) is 3.26 light years or 30.86 trillion kilometres. This is 206,265 astronomical units (the typical distance between the Earth and the Sun). No other star is closer than 1 pc to the Sun so all stars in the sky have trigonometric parallaxes less than one arcsecond. \r\n\r\nWhile trigonometric parallaxes have long been used to measure the distances to objects in our Solar System or nearby stars, recent advances have pushed the boundaries of these distance measures further. The Gaia satellite has pushed the boundaries of parallax measurements to over a thousand parsecs. Arrays of radio telescopes can also very accurately measure the positions of very distant objects and thus their trigonometric parallax.\r\n\r\nNote the Earth and Sun are not to scale here and the Earth’s axial tilt is not accurately represented.",
+      "caption_ru": "Определение расстояний исторически было проблемой для астрономии. Одним из основных способов измерения расстояния является использование годичного параллакса. Земля обращается вокруг Солнца в течение года, что означает, что она перемещается с одной стороны Солнца (показанной здесь как положение A) на другую сторону Солнца (положение B) за шесть месяцев. Затем она возвращается в исходное положение за оставшиеся шесть месяцев. Это движение тонко меняет перспективу, с которой наблюдатель на Земле видит ночное небо. Это похоже на изменение перспективы обзора, которое вы можете получить, рассматривая сцену сначала левым глазом, а затем правым. Изменение перспективы обзора заставляет близкие объекты смещаться в вашем поле зрения. Годичное движение Земли вокруг Солнца изменяет перспективу наблюдателя достаточно, чтобы сместить наблюдаемые положения небесных объектов. Насколько велик этот эффект, зависит от расстояния до небесного объекта. Близкие звёзды будут иметь большие смещения наблюдаемого положения, чем более далёкие звёзды. \r\n\r\nСмещение положения известно как тригонометрический или годичный параллакс (который мы здесь назовём α) и определяется как смещение положения звезды по сравнению с тем, что увидел бы наблюдатель в центре Солнечной системы (Солнце). На этой диаграмме мы видим звезду с точек обзора, разделённых шестью месяцами (положения A и B). При наблюдении из положения A смещение звезды составит α, а при наблюдении из положения B оно будет –α. Таким образом, относительная разница в положении звезды между наблюдением из положения A и положения B составит 2α. \r\n\r\nВеличина тригонометрического или годичного параллакса в угловых секундах приблизительно равна 1, делённой на расстояние в парсеках. Угловая секунда (часто обозначаемая символом ″) — это угловой диаметр, который имел бы метровый стержень при наблюдении с расстояния 206 км. Парсек (часто сокращается до pc) равен 3,26 светового года или 30,86 триллиона километров. Это 206 265 астрономических единиц (типичное расстояние между Землёй и Солнцем). Ни одна другая звезда не находится ближе 1 pc к Солнцу, поэтому все звёзды на небе имеют тригонометрические параллаксы менее одной угловой секунды. \r\n\r\nХотя тригонометрические параллаксы долгое время использовались для измерения расстояний до объектов в нашей Солнечной системе или близлежащих звёзд, недавние достижения расширили границы этих измерений расстояний. Спутник Gaia расширил границы измерений параллакса до более чем тысячи парсек. Массивы радиотелескопов также могут очень точно измерять положения очень далёких объектов и, следовательно, их тригонометрический параллакс.\r\n\r\nОбратите внимание, что Земля и Солнце здесь не в масштабе, и наклон оси Земли не представлен точно.",
+      "alt_en": "A star viewed from Earth when the Earth is at two different positions in its orbit",
+      "alt_ru": "Звезда, наблюдаемая с Земли, когда Земля находится в двух разных положениях на своей орбите",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        9,
+        10,
+        26,
+        237
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

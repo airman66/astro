@@ -1,0 +1,147 @@
+{
+  "id": "term:147",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 147,
+    "url": "https://astro4edu.org/resources/glossary/term/147/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=147",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:58.876610+00:00",
+    "sha256": "a12800d414117154221731ad852f6cac5aabe2f63679008a2d9a1b948176e2e4"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      50,
+      51,
+      78,
+      286,
+      490,
+      533
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Hour Angle",
+      "body": "The hour angle is the angle between an object's hour circle and the observer's meridian. As seen from Earth, all the various positions in the sky together form what appears to be a distant sphere with Earth at its center. The points in the sky directly above Earth's equator form the celestial equator on that sphere. The point directly above Earth's geographic North Pole is the celestial North Pole, and that above Earth's South Pole, the celestial South Pole. Just like geographers define geographic longitude and latitude on Earth's surface, one can define longitude and latitude on the celestial sphere. The meridian of an observer corresponds to the observer's geographical meridian (the circle whose center is the Earth's center, and which intersects the North Pole, South Pole, and the observer's position), projected onto the celestial sphere. It intersects the north point on the observer's horizon, the zenith, and the south point. The projected meridian that passes through a given celestial object is called that object's hour circle. The hour angle is the angle between the object's hour circle and the observer's meridian. As time passes, the hour angle changes: An hour angle of zero corresponds to the star's highest position (its upper culmination) in the sky. As the star moves towards the western horizon, the hour angle increases. As the hour angle approaches 360 degrees, the star approaches its next upper culmination. Note the time between upper culminations is one sidereal day, this is roughly four minutes shorter than a solar day. Because of this direct connection with time, the hour angle is usually stated in hours, not in degrees, with 360 degrees corresponding to 24 hours.  The hour angle can be used to compute the time until an object's upper culmination. This is useful to astronomers planning their observations: at or near upper culmination, when it is farthest from the horizon, is a particularly good time to observe an object.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Celestial Coordinates",
+          "url": "https://www.astro4edu.org/resources/glossary/term/50/",
+          "text_ru": "Небесные координаты"
+        },
+        {
+          "text": "Celestial Equator",
+          "url": "https://www.astro4edu.org/resources/glossary/term/51/",
+          "text_ru": "Небесный экватор"
+        },
+        {
+          "text": "Declination",
+          "url": "https://www.astro4edu.org/resources/glossary/term/78/",
+          "text_ru": "Склонение"
+        },
+        {
+          "text": "Right Ascension (RA)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/286/",
+          "text_ru": "Прямое восхождение (RA)"
+        },
+        {
+          "text": "Sidereal Day",
+          "url": "https://www.astro4edu.org/resources/glossary/term/490/",
+          "text_ru": "Звёздные сутки"
+        },
+        {
+          "text": "Upper Culmination",
+          "url": "https://www.astro4edu.org/resources/glossary/term/533/",
+          "text_ru": "Верхняя кульминация"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Hour Angle</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The hour angle is the angle between an object's hour circle and the observer's meridian.<br/><br/>As seen from Earth, all the various positions in the sky together form what appears to be a distant sphere with Earth at its center. The points in the sky directly above Earth's equator form the celestial equator on that sphere. The point directly above Earth's geographic North Pole is the celestial North Pole, and that above Earth's South Pole, the celestial South Pole.<br/><br/>Just like geographers define geographic longitude and latitude on Earth's surface, one can define longitude and latitude on the celestial sphere. The meridian of an observer corresponds to the observer's geographical meridian (the circle whose center is the Earth's center, and which intersects the North Pole, South Pole, and the observer's position), projected onto the celestial sphere. It intersects the north point on the observer's horizon, the zenith, and the south point. The projected meridian that passes through a given celestial object is called that object's hour circle. The hour angle is the angle between the object's hour circle and the observer's meridian. As time passes, the hour angle changes: An hour angle of zero corresponds to the star's highest position (its upper culmination) in the sky. As the star moves towards the western horizon, the hour angle increases. As the hour angle approaches 360 degrees, the star approaches its next upper culmination. Note the time between upper culminations is one sidereal day, this is roughly four minutes shorter than a solar day. Because of this direct connection with time, the hour angle is usually stated in hours, not in degrees, with 360 degrees corresponding to 24 hours.  The hour angle can be used to compute the time until an object's upper culmination. This is useful to astronomers planning their observations: at or near upper culmination, when it is farthest from the horizon, is a particularly good time to observe an object.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/50/\">Celestial Coordinates</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/51/\">Celestial Equator</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/78/\">Declination</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/286/\">Right Ascension (RA)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/490/\">Sidereal Day</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/533/\">Upper Culmination</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Часовой угол",
+      "body_ru": "Часовой угол — это угол между часовым кругом объекта и меридианом наблюдателя. Если смотреть с Земли, все различные положения на небе вместе образуют то, что кажется далёкой сферой с Землёй в центре. Точки на небе, находящиеся прямо над земным экватором, образуют на этой сфере небесный экватор. Точка прямо над географическим Северным полюсом Земли — это небесный Северный полюс, а над Южным полюсом Земли — небесный Южный полюс. Подобно тому как географы определяют географическую долготу и широту на земной поверхности, можно определить долготу и широту на небесной сфере. Меридиан наблюдателя соответствует географическому меридиану наблюдателя (кругу, центр которого совпадает с центром Земли и который пересекает Северный полюс, Южный полюс и положение наблюдателя), спроецированному на небесную сферу. Он пересекает точку севера на горизонте наблюдателя, зенит и точку юга. Спроецированный меридиан, проходящий через данный небесный объект, называется часовым кругом этого объекта. Часовой угол — это угол между часовым кругом объекта и меридианом наблюдателя. С течением времени часовой угол изменяется: часовой угол, равный нулю, соответствует наивысшему положению звезды (её верхней кульминации) на небе. По мере движения звезды к западному горизонту часовой угол увеличивается. Когда часовой угол приближается к 360 градусам, звезда приближается к своей следующей верхней кульминации. Обратите внимание, что время между верхними кульминациями составляет одни звёздные сутки, что примерно на четыре минуты короче солнечных суток. Из-за этой прямой связи со временем часовой угол обычно выражают в часах, а не в градусах, причём 360 градусам соответствуют 24 часа. Часовой угол можно использовать для вычисления времени до верхней кульминации объекта. Это полезно астрономам при планировании наблюдений: в момент верхней кульминации или вблизи неё, когда объект находится дальше всего от горизонта, наблюдать его особенно удобно."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "時角 (external link)",
+          "url": "https://astro-dic.jp/hour-angle/",
+          "text_ru": "Часовой угол (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/147/\">الزاوية الزمنية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/147/\">Stundenwinkel </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/147/\">Ángulo horario </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/147/\">Angle horaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/147/\">Angolo orario </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/hour-angle/\">時角 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/147/\">Ângulo horário </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/147/\">时角 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/147/\">時角 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Hour Angle",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Hour Angle",
+          "body": "The hour angle is the angle between an object's hour circle and the observer's meridian. As seen from Earth, all the various positions in the sky together form what appears to be a distant sphere with Earth at its center. The points in the sky directly above Earth's equator form the celestial equator on that sphere. The point directly above Earth's geographic North Pole is the celestial North Pole, and that above Earth's South Pole, the celestial South Pole. Just like geographers define geographic longitude and latitude on Earth's surface, one can define longitude and latitude on the celestial sphere. The meridian of an observer corresponds to the observer's geographical meridian (the circle whose center is the Earth's center, and which intersects the North Pole, South Pole, and the observer's position), projected onto the celestial sphere. It intersects the north point on the observer's horizon, the zenith, and the south point. The projected meridian that passes through a given celestial object is called that object's hour circle. The hour angle is the angle between the object's hour circle and the observer's meridian. As time passes, the hour angle changes: An hour angle of zero corresponds to the star's highest position (its upper culmination) in the sky. As the star moves towards the western horizon, the hour angle increases. As the hour angle approaches 360 degrees, the star approaches its next upper culmination. Note the time between upper culminations is one sidereal day, this is roughly four minutes shorter than a solar day. Because of this direct connection with time, the hour angle is usually stated in hours, not in degrees, with 360 degrees corresponding to 24 hours.  The hour angle can be used to compute the time until an object's upper culmination. This is useful to astronomers planning their observations: at or near upper culmination, when it is farthest from the horizon, is a particularly good time to observe an object."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Часовой угол",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Часовой угол",
+          "body": "Часовой угол — это угол между часовым кругом объекта и меридианом наблюдателя. Если смотреть с Земли, все различные положения на небе вместе образуют то, что кажется далёкой сферой с Землёй в центре. Точки на небе, находящиеся прямо над земным экватором, образуют на этой сфере небесный экватор. Точка прямо над географическим Северным полюсом Земли — это небесный Северный полюс, а над Южным полюсом Земли — небесный Южный полюс. Подобно тому как географы определяют географическую долготу и широту на земной поверхности, можно определить долготу и широту на небесной сфере. Меридиан наблюдателя соответствует географическому меридиану наблюдателя (кругу, центр которого совпадает с центром Земли и который пересекает Северный полюс, Южный полюс и положение наблюдателя), спроецированному на небесную сферу. Он пересекает точку севера на горизонте наблюдателя, зенит и точку юга. Спроецированный меридиан, проходящий через данный небесный объект, называется часовым кругом этого объекта. Часовой угол — это угол между часовым кругом объекта и меридианом наблюдателя. С течением времени часовой угол изменяется: часовой угол, равный нулю, соответствует наивысшему положению звезды (её верхней кульминации) на небе. По мере движения звезды к западному горизонту часовой угол увеличивается. Когда часовой угол приближается к 360 градусам, звезда приближается к своей следующей верхней кульминации. Обратите внимание, что время между верхними кульминациями составляет одни звёздные сутки, что примерно на четыре минуты короче солнечных суток. Из-за этой прямой связи со временем часовой угол обычно выражают в часах, а не в градусах, причём 360 градусам соответствуют 24 часа. Часовой угол можно использовать для вычисления времени до верхней кульминации объекта. Это полезно астрономам при планировании наблюдений: в момент верхней кульминации или вблизи неё, когда объект находится дальше всего от горизонта, наблюдать его особенно удобно."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

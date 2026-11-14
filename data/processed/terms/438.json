@@ -1,0 +1,751 @@
+{
+  "id": "term:438",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 438,
+    "url": "https://astro4edu.org/resources/glossary/term/438/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=438",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:29.052206+00:00",
+    "sha256": "622dea108deb601def2d03d6f526700f933fd4e191034ec9085939e1249d5fa3"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": 450,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Interstellar Medium",
+      "body": "The interstellar medium (ISM) is a term to describe all of the gas and dust that lies between star systems in a galaxy. Our Solar System lies in the disk of the Milky Way where most of the ISM is atomic hydrogen mixed with atomic helium and dust. The ISM has a very low density compared to planetary atmospheres, with a typical density less than one particle per cubic centimeter, roughly 50 billion, billion times less dense than the Earth's atmosphere. This density varies greatly, along with the temperature, across the Galaxy with the ISM split into several different components. The largest components by volume in the galactic disk are the warm atomic gas and warm ionized gas, both with temperatures around 8000 kelvins (K) and densities around half an atom or ion per cubic centimeter. A smaller volume is in the form of colder, denser atomic gas with a temperature around 40 K. A still smaller volume of the ISM is in the form of denser (up to a million molecules per cubic centimeter), colder (<20 K) clouds of molecular hydrogen. Some of these molecular clouds will collapse under their own gravity, leading to the formation of new stars. Molecular clouds in the Milky Way are mostly found in its spiral arms. The gas surrounding the Milky Way's disk is very hot (millions of kelvins) and very low density. Stars put gas and dust back into the ISM through stellar winds and supernovae. The gas and dust returned to the ISM have a higher fraction of heavy elements (metals), thus enriching the galaxy over time. The gas and dust in the interstellar medium is the main cause of interstellar extinction.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Dust",
+          "url": "https://www.astro4edu.org/resources/glossary/term/85/",
+          "text_ru": "Пыль"
+        },
+        {
+          "text": "Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/107/",
+          "text_ru": "Поглощение"
+        },
+        {
+          "text": "Galactic Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/117/",
+          "text_ru": "Галактический диск"
+        },
+        {
+          "text": "Gas",
+          "url": "https://www.astro4edu.org/resources/glossary/term/124/",
+          "text_ru": "Газ"
+        },
+        {
+          "text": "Milky Way",
+          "url": "https://www.astro4edu.org/resources/glossary/term/199/",
+          "text_ru": "Млечный Путь"
+        },
+        {
+          "text": "Planetary Nebula",
+          "url": "https://www.astro4edu.org/resources/glossary/term/256/",
+          "text_ru": "Планетарная туманность"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Solar Wind",
+          "url": "https://www.astro4edu.org/resources/glossary/term/315/",
+          "text_ru": "Солнечный ветер"
+        },
+        {
+          "text": "Spiral Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/330/",
+          "text_ru": "Спиральная галактика"
+        },
+        {
+          "text": "Star Formation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/333/",
+          "text_ru": "Звёздообразование"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "Interstellar Extinction",
+          "url": "https://www.astro4edu.org/resources/glossary/term/472/",
+          "text_ru": "Межзвёздное поглощение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Interstellar Medium</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Dust Cloud</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The interstellar medium (ISM) is a term to describe all of the gas and dust that lies between star systems in a galaxy. Our Solar System lies in the disk of the Milky Way where most of the ISM is atomic hydrogen mixed with atomic helium and dust. <br/><br/>The ISM has a very low density compared to planetary atmospheres, with a typical density less than one particle per cubic centimeter, roughly 50 billion, billion times less dense than the Earth's atmosphere. This density varies greatly, along with the temperature, across the Galaxy with the ISM split into several different components. <br/><br/>The largest components by volume in the galactic disk are the warm atomic gas and warm ionized gas, both with temperatures around 8000 kelvins (K) and densities around half an atom or ion per cubic centimeter. A smaller volume is in the form of colder, denser atomic gas with a temperature around 40 K. A still smaller volume of the ISM is in the form of denser (up to a million molecules per cubic centimeter), colder (&lt;20 K) clouds of molecular hydrogen. Some of these molecular clouds will collapse under their own gravity, leading to the formation of new stars. Molecular clouds in the Milky Way are mostly found in its spiral arms. The gas surrounding the Milky Way's disk is very hot (millions of kelvins) and very low density.<br/><br/>Stars put gas and dust back into the ISM through stellar winds and supernovae. The gas and dust returned to the ISM have a higher fraction of heavy elements (metals), thus enriching the galaxy over time. The gas and dust in the interstellar medium is the main cause of interstellar extinction.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/85/\">Dust</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/107/\">Extinction</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/117/\">Galactic Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/124/\">Gas</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/199/\">Milky Way</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/256/\">Planetary Nebula</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/315/\">Solar Wind</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/330/\">Spiral Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/333/\">Star Formation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/472/\">Interstellar Extinction</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Межзвёздная среда",
+      "body_ru": "Межзвёздная среда (МЗС) — это термин, описывающий весь газ и пыль, которые находятся между звёздными системами в галактике. Наша Солнечная система находится в диске Млечного Пути, где большая часть МЗС состоит из атомарного водорода, смешанного с атомарным гелием и пылью. МЗС имеет очень низкую плотность по сравнению с планетными атмосферами, типичная плотность составляет менее одной частицы на кубический сантиметр, примерно в 50 миллиардов миллиардов раз менее плотная, чем атмосфера Земли. Эта плотность сильно варьируется вместе с температурой по всей Галактике, при этом МЗС разделена на несколько различных компонентов. Наибольшие по объёму компоненты в галактическом диске — это тёплый атомарный газ и тёплый ионизированный газ, оба с температурами около 8000 кельвинов (К) и плотностями около половины атома или иона на кубический сантиметр. Меньший объём приходится на более холодный, более плотный атомарный газ с температурой около 40 К. Ещё меньший объём МЗС представлен более плотными (до миллиона молекул на кубический сантиметр), более холодными (<20 К) облаками молекулярного водорода. Некоторые из этих молекулярных облаков коллапсируют под действием собственной гравитации, что приводит к формированию новых звёзд. Молекулярные облака в Млечном Пути в основном находятся в его спиральных рукавах. Газ, окружающий диск Млечного Пути, очень горячий (миллионы кельвинов) и очень низкой плотности. Звёзды возвращают газ и пыль в МЗС через звёздные ветры и сверхновые. Газ и пыль, возвращённые в МЗС, имеют более высокую долю тяжёлых элементов (металлов), таким образом обогащая галактику со временем. Газ и пыль в межзвёздной среде являются основной причиной межзвёздного поглощения."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "星間媒質 (external link)",
+          "url": "https://astro-dic.jp/interstellar-medium/",
+          "text_ru": "Межзвёздная среда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/450/\">الوسط بين النجمي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/450/\">Interstellares Medium </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/450/\">Medio interestelar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/450/\">Milieu interstellaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/450/\">Mezzo interstellare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/interstellar-medium/\">星間媒質 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/450/\">Meio interestelar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/450/\">星际介质 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/450/\">星際介質 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Ab24Np72995/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/MN2Yx61VC6/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/WS23f368jp95/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2017/09/Herschel_s_view_of_new_stars_and_molecular_clouds",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-3.0-IGO",
+          "url": "https://creativecommons.org/licenses/by/3.0/igo/deed.en",
+          "text_ru": "CC-BY-3.0-IGO"
+        },
+        {
+          "text": "Creative Commons Attribution 3.0 IGO icons",
+          "url": "https://creativecommons.org/licenses/by/3.0/igo/deed.en",
+          "text_ru": "Значки Creative Commons Attribution 3.0 IGO"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Ai54em239E15/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1027a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/98346s38n272/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1501a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:MN2Yx61VC6"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Ab24Np72995/\"><img alt=\"Above a volcano, a bow-tie-shaped Orion is peppered with bright sweeps of nebular gas\" src=\"/media/multimedia/thumbnails/orion-rises-over-mount-etna_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Orion Rises Over Mount Etna</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nTaken in February 2021, this image is a composite of an astronomy picture in the background and Mount Etna, the famous volcano in Sicily, Italy, in the foreground. Prominently, we see the red hydrogen clouds in space in the area of Orion. Barnard’s Loop is the gigantic bow with the Great Orion Nebula and the Horsehead Nebula in its centre. The deeper-coloured Horse Head is below the southernmost stars in Orion’s Belt, which is the line of white stars above the red nebula. Clearly visible is also the division between the Small and the Great Orion Nebula, the circular and the trapezium-shaped structure in light pink within which one of the nearest star-forming regions is located. The nebula is only a bit more than a thousand light-years away.\n\nIn the middle-left, close to the edge of the image, the small red structure is the Monkey Head Nebula still in the constellation Orion. It hosts a young star cluster and the deep red colour of this hydrogen cloud indicates its potential to build new stars in the future if the material is compressed again. All these reddish objects are strongly processed in this image, as they are not visible to the unaided eye.\n\nStill, this image provides an interesting feature; the red supergiant star Betelgeuse lies in the middle of the image and it seems to be directly above the active volcano Mount Etna. At the foot of this volcano is an ancient settlement, the city of Catania. We consider both Betelgeuse and Mount Etna somehow dangerous — but which of them will erupt first?\n\n\nOk, we know that Etna occasionally erupts. Normally it exhibits only small eruptions, but the bigger ones happen every few centuries. We also know that Betelgeuse as a giant star will become a supernova in the future. Astronomers call the timescale for the potential supernova short, implying that it will be only 10 000 or maybe 100 000 years until this star explodes. This is “soon” for astronomers, meaning that on Earth, two to four precession cycles will pass by (with the consequence that the Sahara will turn green and dry again two to four times), continental drift will take Africa further north and cause the Alps to grow in height, the Niagara falls in America will wash the rock completely away and only after all this (and much more) happening on Earth will Betelgeuse explode as a supernova. Mount Etna is much more dangerous for the people in Sicily, and Catania in particular, because it will erupt sooner.<br/>\n<b>Credit:</b> Dario Giannobile/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/MN2Yx61VC6/\"><img alt=\"A cluster of brilliant blue stars illuminate the surrounding nebular gas.\" src=\"/media/multimedia/thumbnails/the-pleiades-m45-with-majestic-dust_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Pleiades M45 with Majestic Dust</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nTaken in Dar Eid in Saint Catherine/Sinai, Egypt, in October 2021, this image shows the Pleiades, an open cluster also known as The Seven Sisters.\n\nThe Pleiades are located in the north-western part of the constellation Taurus, the Bull. This constellation originates from ancient Babylonian or even Sumerian belief, where it was designated the Bull of Heaven, a mighty creature owned by the sky god. In Late Babylonian times, the Pleiades were called The Bristle at the hunchback of The Bull. In China, the asterism is also called The Hair, but this does not necessarily imply any relationship between the East Asian and West Asian names of this asterism, although exchange is hypothesised with the establishment of the Silk Road.\n\nIn ancient Babylonian texts the term The Hair does not appear. Instead, the Pleiades are only called The Star Cluster in Sumerian, and the Sumerian term was used in later languages as a loanword. The Sumerian and early Babylonian religion associated all constellations with specific deities, including gods, demons, messengers of gods. The Star Cluster was associated with a deity of the Netherworld that was called The Seven and was considered an ensemble of seven speaking weapons or strongly armed gods. The later Greek name of the Seven Sisters might possibly have sprung from an intercultural misunderstanding of this older religious association, since, in fact, seven stars are not seen in this cluster.\n\nThe star cluster of the Pleiades is really prominent in the sky, and thus was used for several cultural purposes, such as determining the calendar and the spring equinox. However, its significance is frequently overstated in cultural astronomy. As the tradition of representing it with seven dots originates from an ancient Sumerian belief, we should be careful about interpreting any group of seven dots on cave walls and archaeological sites across Europe, Asia and America from the Stone Age onwards as a representation of the Pleiades.\n\nModern astrophysics has found that the star cluster of the Pleiades is extraordinarily young, so there was certainly not an additional star in ancient times. Furthermore, we know that the bright stars are only the core region of an open star cluster that consists of hundreds of stars scattered over an area of the sky which exceeds the bright core by one or two of its diameters in any direction. The photograph does not even show the whole cluster. The group is thought to be about 400 light-years away from Earth, which is relatively close in astronomical terms.<br/>\n<b>Credit:</b> Mohamed Usama/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/WS23f368jp95/\"><img alt=\"A red patch mass of gas with a few dark bubbles with lighter edges and several lighter colored clusters and filaments\" src=\"/media/multimedia/thumbnails/herschels-view-of-new-stars-and-molecular-clouds_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Herschel’s view of new stars and molecular clouds</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the Westerhout 3, 4 and 5 star formation regions. This area has huge amounts of gas and dust. This gas and dust hides the physical processes going on in this region from studies using visible light. This image was taken in infrared light by the Herschel Space Observatory. This infrared light allowed Herschel to see deep into these star forming regions.\n\nIn Westerhout 3, 4 and 5, huge, cold clouds of molecular hydrogen have collapsed into dense knots and filaments. Within these new structures the gas is dense and cold enough for it to collapse and form stars. These new stars give off powerful winds of charged particles, like stronger versions of the solar wind our sun gives off. These winds have combined to blow massive bubbles in the surrounding gas and dust. These are visible as the large darker voids in the image.<br/>\n<b>Credit:</b> ESA/Herschel/NASA/JPL-Caltech; acknowledgement: R. Hurt (JPL-Caltech)\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Images/2017/09/Herschel_s_view_of_new_stars_and_molecular_clouds\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/3.0/igo/deed.en\" rel=\"license\">CC-BY-3.0-IGO</a> <a href=\"https://creativecommons.org/licenses/by/3.0/igo/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 3.0 IGO icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Ai54em239E15/\"><img alt=\"A field of stars with a large blue wispy feature is interrupted by a huge black void covering almost a quarter of the image\" src=\"/media/multimedia/thumbnails/dust-clouds-and-nebulae-near-r-coronae-australis_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dust Clouds and Nebulae near R Coronae Australis</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The image shows a dark and dusty cloud and some bright reflection nebulae near the binary star R Coronae Australis. The dark cloud spans several light-years and is located in the constellation Corona Australis near the constellation Sagittarius, in the direction of the Milky Way's center. The cloud appears to swallow the light of distant stars behind it as the dust particles in it scatter light passing through in all directions. This gives it the appearance of a void in the sky. This dark nebula is part of the broader Corona Australis Molecular Clouds. R Coronae Australis forms part of the Coronet Cluster, a collection of young stars which formed at some point in the last two million years.\n\nAround R Coronae Australis in the center of the image is the small reflection nebula NGC 6729 with two blueish reflection nebulae NGC 6726 and NGC 6727 lying to the upper right of it. In these nebulae the dust scatters light from bright stars near the nebula towards an observer on Earth, making it glow in this image.<br/>\n<b>Credit:</b> ESO\n\t  <a href=\"https://www.eso.org/public/images/eso1027a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/98346s38n272/\"><img alt=\"The dense interstellar dust cloud LDN 483 appears as several dark blobs against a rich background of stars.\" src=\"/media/multimedia/thumbnails/the-ldn-483-dark-nebula_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The LDN 483 Dark Nebula</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows a dark molecular cloud known as LDN 483, captured by the Wide Field Imager on the MPG/ESO 2.2-metre telescope at the La Silla Observatory in Chile. At first glance, the patch of sky looks like a region where stars are missing, but the effect is due to interstellar extinction — dust and gas within LDN 483 absorb and scatter light from background stars, making them appear faint or invisible to telescopes that observe visible light. Interstellar extinction is the dimming of light from distant objects caused by dust and gas between the object and the observer, a common phenomenon in astronomy that must be accounted for when measuring stellar brightness and color.\n\nDark nebulae like LDN 483 are dense concentrations of interstellar matter located within our Milky Way Galaxy. This particular cloud lies about 700 light-years from Earth in the constellation Serpens and contains enough material to block most visible light from stars behind it. Because dust grains preferentially scatter shorter (bluer) wavelengths of light, extinction can also make objects appear redder than they truly are — a related effect known as interstellar reddening. Understanding and correcting for extinction is essential for astronomers to reveal the true brightness, distance, and physical properties of celestial objects seen through dusty regions of space.<br/>\n<b>Credit:</b> ESO\n\t  <a href=\"https://www.eso.org/public/images/eso1501a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Dust Cloud",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Interstellar Medium",
+          "body": "The interstellar medium (ISM) is a term to describe all of the gas and dust that lies between star systems in a galaxy. Our Solar System lies in the disk of the Milky Way where most of the ISM is atomic hydrogen mixed with atomic helium and dust. The ISM has a very low density compared to planetary atmospheres, with a typical density less than one particle per cubic centimeter, roughly 50 billion, billion times less dense than the Earth's atmosphere. This density varies greatly, along with the temperature, across the Galaxy with the ISM split into several different components. The largest components by volume in the galactic disk are the warm atomic gas and warm ionized gas, both with temperatures around 8000 kelvins (K) and densities around half an atom or ion per cubic centimeter. A smaller volume is in the form of colder, denser atomic gas with a temperature around 40 K. A still smaller volume of the ISM is in the form of denser (up to a million molecules per cubic centimeter), colder (<20 K) clouds of molecular hydrogen. Some of these molecular clouds will collapse under their own gravity, leading to the formation of new stars. Molecular clouds in the Milky Way are mostly found in its spiral arms. The gas surrounding the Milky Way's disk is very hot (millions of kelvins) and very low density. Stars put gas and dust back into the ISM through stellar winds and supernovae. The gas and dust returned to the ISM have a higher fraction of heavy elements (metals), thus enriching the galaxy over time. The gas and dust in the interstellar medium is the main cause of interstellar extinction."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Пылевое облако",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Межзвёздная среда",
+          "body": "Межзвёздная среда (МЗС) — это термин, описывающий весь газ и пыль, которые находятся между звёздными системами в галактике. Наша Солнечная система находится в диске Млечного Пути, где большая часть МЗС состоит из атомарного водорода, смешанного с атомарным гелием и пылью. МЗС имеет очень низкую плотность по сравнению с планетными атмосферами, типичная плотность составляет менее одной частицы на кубический сантиметр, примерно в 50 миллиардов миллиардов раз менее плотная, чем атмосфера Земли. Эта плотность сильно варьируется вместе с температурой по всей Галактике, при этом МЗС разделена на несколько различных компонентов. Наибольшие по объёму компоненты в галактическом диске — это тёплый атомарный газ и тёплый ионизированный газ, оба с температурами около 8000 кельвинов (К) и плотностями около половины атома или иона на кубический сантиметр. Меньший объём приходится на более холодный, более плотный атомарный газ с температурой около 40 К. Ещё меньший объём МЗС представлен более плотными (до миллиона молекул на кубический сантиметр), более холодными (<20 К) облаками молекулярного водорода. Некоторые из этих молекулярных облаков коллапсируют под действием собственной гравитации, что приводит к формированию новых звёзд. Молекулярные облака в Млечном Пути в основном находятся в его спиральных рукавах. Газ, окружающий диск Млечного Пути, очень горячий (миллионы кельвинов) и очень низкой плотности. Звёзды возвращают газ и пыль в МЗС через звёздные ветры и сверхновые. Газ и пыль, возвращённые в МЗС, имеют более высокую долю тяжёлых элементов (металлов), таким образом обогащая галактику со временем. Газ и пыль в межзвёздной среде являются основной причиной межзвёздного поглощения."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:ow175I51PU41",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5425799/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Wide%20star%20fields%3A%20Milky%20Way%20Arch%20over%20Lut%20Desert%2C%20Iran%2C%20by%20Amirreza%20Kamkar%2C%20Iran%20%28Islamic%20Republic%20of%29.jpg",
+      "record_url": "https://astro4edu.org/resources/media/ow175I51PU41/",
+      "original_path": "data/media/original/media_ow175I51PU41.jpg",
+      "ru_path": null,
+      "sha256": "7809407bfd5ff6c201483841878d2c47242ad7acddd492b441e8492233524681",
+      "size": 2850420,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This panoramic dawn image shows the majestic band of the Milky Way.",
+      "short_caption_ru": "Эта панорамная фотография на рассвете показывает величественную полосу Млечного Пути.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Wide star fields.\r\n\r\nThis panoramic dawn image shows the majestic band of the Milky Way – our home Galaxy – made up of a few hundred billion stars, among other structures, most of which are not detectable by our eyes, or in some cases even directly with telescopes. The appearance of the band is because the Milky Way is a disc-shaped galaxy, and we (Earth/Solar System) are situated within the disc.\r\n\r\nDiverse cultures and traditions around the world each have their own name and cultural stories for the Milky Way. The dark regions visible in the Milky Way are large, dense, cool nebulae (clouds of dust and gas), which obscure the light from stars in the Milky Way. The Indigenous Australians associate stories with the dark patches of the Milky Way, one of the most prominent being the Emu in the Sky (called Tchingal in Wotjobaluk country). In and around the band of the Milky Way there are a vast range of star clusters, two familiar ones are M6 (Butterfly cluster) and M7 (Ptolemy’s cluster).\r\n\r\nThe bright point just above the horizon is the planet Venus (known to the Boorong people of Indigenous Australia as Chargee Gnowee, elder sister of the Sun). Within the band of the Milky Way the brightest point in the image is the planet Jupiter (called Ginabongbearp, the Sulphur-crested white cockatoo by the Boorong). The planet Saturn is the bright point between Venus and Jupiter (closer to Venus than Jupiter).\r\n\r\nThere are two constellations and one asterism that can be easily discerned in the image: Aquila, Scorpio (Maui’s Hook), and Teapot (asterism in Sagittarius). In this image, the center of the Milky Way at an approximate distance of 26,000 light years from Earth, is located roughly to the top right of the Teapot spout.\r\n\r\nThe bright red-orange point to the right of Jupiter is the red supergiant star Antares and is part of the constellation Scorpio (known as Maui’s Hook in Māori and Polynesian cultures). This variation in the colour of stars is the result of temperature of the stars (lower temperature stars are redder, higher temperatures stars are bluer).",
+      "caption_ru": "Второе место в конкурсе астрофотографии IAU OAE 2021, категория «Широкие звёздные поля».\r\n\r\nЭта панорамная фотография рассвета показывает величественную полосу Млечного Пути — нашей родной Галактики, — состоящую из нескольких сотен миллиардов звёзд, а также других структур, большинство из которых не обнаруживаются нашими глазами или в некоторых случаях даже напрямую с помощью телескопов. Полоса выглядит так потому, что Млечный Путь — это галактика дисковидной формы, и мы (Земля/Солнечная система) находимся внутри этого диска.\r\n\r\nРазные культуры и традиции по всему миру имеют свои собственные названия и культурные истории для Млечного Пути. Тёмные области, видимые в Млечном Пути, — это крупные, плотные, холодные туманности (облака пыли и газа), которые заслоняют свет звёзд Млечного Пути. Коренные австралийцы связывают истории с тёмными пятнами Млечного Пути, одна из самых известных — Эму в небе (называемый Чингал в стране Вотжобалук). Внутри и вокруг полосы Млечного Пути находится огромное множество звёздных скоплений, два знакомых — это M6 (скопление Бабочка) и M7 (скопление Птолемея).\r\n\r\nЯркая точка чуть выше горизонта — это планета Венера (известная народу боронг коренной Австралии как Чарджи Гноуи, старшая сестра Солнца). Внутри полосы Млечного Пути самая яркая точка на изображении — это планета Юпитер (называемая боронг Гинабонгберп, белый какаду с серным хохолком). Планета Сатурн — это яркая точка между Венерой и Юпитером (ближе к Венере, чем к Юпитеру).\r\n\r\nНа изображении легко различимы два созвездия и один астеризм: Орёл, Скорпион (Крюк Мауи) и Чайник (астеризм в Стрельце). На этом изображении центр Млечного Пути на приблизительном расстоянии 26,000 световых лет от Земли расположен примерно справа сверху от носика Чайника.\r\n\r\nЯркая красно-оранжевая точка справа от Юпитера — это красный сверхгигант Антарес, часть созвездия Скорпион (известного как Крюк Мауи в культурах маори и полинезийцев). Это разнообразие цветов звёзд является результатом температуры звёзд (звёзды с более низкой температурой краснее, звёзды с более высокой температурой синее).",
+      "alt_en": "The Milky Way as a bright band over the horizon. The right of the image shows structure of light and dark patches in the band",
+      "alt_ru": "Млечный Путь в виде яркой полосы над горизонтом. Правая часть изображения показывает структуру светлых и тёмных пятен в полосе",
+      "credit": "Amirreza Kamkar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        199,
+        438
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Nj29J731PG46",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7424009/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Milky%20Way%20over%20Avenue%20of%20Baobabs%2C%20by%20Amirreza%20Kamkar.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Nj29J731PG46/",
+      "original_path": "data/media/original/media_Nj29J731PG46.jpg",
+      "ru_path": null,
+      "sha256": "94d38f5f0fb8731768a63b6ca37a691e81535dfcabd3d8e0429522ff6d60728d",
+      "size": 3198798,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Milky Way over Avenue of Baobabs",
+      "short_caption_ru": "Млечный Путь над Аллеей баобабов",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image, taken from the Avenue of Baobabs, Morondava, Madagascar, in July 2017, shows the majestic band of the Milky Way, our home galaxy, together with a rich collection of constellations and asterisms: Crux, Centaurus, Scorpius, Sagittarius and the Teapot asterism. Towards the bottom left of the image we can see the Southern Cross and the pointer stars Alpha (the brighter of the two) and Beta Centauri, which help to distinguish it from similar-looking configurations. Some cultures in Africa associate the Southern Cross with a giraffe, while others associate the constellations with a pride of lions or even with the Tree of Life.\r\n\r\nAntares, the brightest star in the constellation Scorpius, is the orange-red star straight up from the middle baobab tree.\r\n\r\nTo the Pokomo people from southwestern Kenya, Africa, the Milky Way is associated with the smoke emanating from a campfire lit by ancient people. The various people in South Africa, in contrast, have different star tales; the Khoikhoi from the region around Cape Town explained the colours of the red and white stars as red and white roots that were roasted on a fire and thrown towards the sky together with the ashes of the fire. The Xhosa from further east consider the Milky Way the raised bristle of a huge angry dog, while the Zulu from near Johannesburg interpret it as a stream of spears of their strongest warriors.\r\n\r\nPolynesian people, who were adept seafarers and navigators, see the constellation Scorpius as a fish hook, and refer to it as the demigod Maui’s Fish Hook. For the Djab Wurrung and the Jardwadjali people, the Southern Cross is part of a Dreamtime Story involving Tchingal, the Bram-bram-bult brothers (the pointer stars), their mother Druk (Delta Crux), and Bunya, the hunter who gets changed into a possum (Gacrux, red star at the top of the Southern Cross).\r\n\r\n\r\nIn this image, the planets Saturn (the bright point above Antares) and Jupiter (the bright point at the bottom-right of the image close to the trunk of the baobab tree) are visible. Indigenous cultures have various stories associated with the planets, for example Kamilaroi and Wailan people associate Saturn with wunygal, a small bird. The Boorong people of Western Victoria associate Jupiter with Ginabongbearp, the chief of the old spirits (Nurrumbunguttias), who takes the totemic form of the sulphur-crested white cockatoo.",
+      "caption_ru": "Победитель на конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение, снятое в Аллее баобабов, Мурундава, Мадагаскар, в июле 2017, показывает величественную полосу Млечного Пути, нашей родной галактики, вместе с богатой коллекцией созвездий и астеризмов: Южный Крест, Центавр, Скорпион, Стрелец и астеризм Чайник. В левой нижней части изображения мы видим Южный Крест и указатели — Альфу (более яркую из двух) и Бету Центавра, которые помогают отличить его от похожих конфигураций. Некоторые культуры Африки связывают Южный Крест с жирафом, другие связывают созвездия с прайдом львов или даже с Древом Жизни.\r\n\r\nАнтарес, самая яркая звезда в созвездии Скорпиона, — это оранжево-красная звезда прямо над средним баобабом.\r\n\r\nДля народа покомо из юго-западной Кении, Африка, Млечный Путь связан с дымом, исходящим от костра, зажжённого древними людьми. Различные народы Южной Африки, напротив, имеют разные звёздные сказания; койкой из района вокруг Кейптауна объясняли цвета красных и белых звёзд как красные и белые корни, которые жарились на огне и были брошены в небо вместе с пеплом костра. Коса с востока считают Млечный Путь поднятой щетиной огромной разъярённой собаки, а зулусы из окрестностей Йоханнесбурга интерпретируют его как поток копий их сильнейших воинов.\r\n\r\nПолинезийцы, искусные мореплаватели и навигаторы, видят созвездие Скорпиона как рыболовный крючок и называют его Рыболовным крючком полубога Мауи. Для народов джаб-вуррунг и джардваджали Южный Крест является частью истории Времени сновидений, включающей Чингала, братьев Брам-брам-булт (указатели), их мать Друк (Дельта Южного Креста) и Бунью, охотника, который превращается в опоссума (Гакрукс, красная звезда в верхней части Южного Креста).\r\n\r\n\r\nНа этом изображении видны планеты Сатурн (яркая точка над Антаресом) и Юпитер (яркая точка в правом нижнем углу изображения рядом со стволом баобаба). У коренных культур есть различные истории, связанные с планетами, например, народы камиларой и уэйлан связывают Сатурн с вуньгалом, маленькой птицей. Народ бурронг из западной Виктории связывает Юпитер с Гинабонгбеарпом, вождём древних духов (Нуррумбунгуттиас), который принимает тотемную форму белого какаду с серным хохолком.",
+      "alt_en": "Over trees with thick trunks, the Milky Way, with several bright objects left and right, is bisected by a wide dark line.",
+      "alt_ru": "Над деревьями с толстыми стволами Млечный Путь с несколькими яркими объектами слева и справа пересекается широкой тёмной полосой.",
+      "credit": "Amirreza Kamkar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        85,
+        167,
+        199,
+        294,
+        299,
+        318,
+        438,
+        472,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Kw964U523s77",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425577/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Drive%2C%20by%20Marcin%20Zajac.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Kw964U523s77/",
+      "original_path": "data/media/original/media_Kw964U523s77.jpg",
+      "ru_path": null,
+      "sha256": "2aa734c0f4597de6d292e2de80827a4bb1dfd7ae31bfbc64da1b0c3fa4fbbb81",
+      "size": 8852964,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Drive",
+      "short_caption_ru": "Привод",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image shows the Milky Way crossing the sky above the historical Bixby Bridge in Big Sur, a mountainous region in California, USA, in May 2021.\r\n\r\nThe star directly above the shore is Antares, a red supergiant in the heart of the Scorpion. To its left, the clouds of the Milky Way seem to emerge from the same point of the horizon as the rocky landmass. Above the land, below the Milky Way in the left quarter of the image, is another bright star, Altair, the bright star in Aquila, the Eagle.\r\n\r\nThe scorpion is considered a dangerous animal, so scorpion-men (human-scorpion hybrids) guarded the gate to the Netherworld in ancient Babylonian stories, as reported in the Gilgamesh saga. The Eagle, in contrast, appears in the Babylonian saga of King Etana who was taken to the sky by an Eagle and describes the world that he sees below him with increasing distance. Both heroes, Gilgamesh and Etana, are searching for the “herb of life” but one of them by going down, the other by travelling upwards. Gilgamesh aims to get back his dead friend Enkidu and to become immortal himself, while Etana is seeking the herb to help his wife become pregnant. The scorpion and the eagle are the animals supporting these heroes in their search, that ultimately remained unsuccessful. Gilgamesh finally learned that humans can only become immortal by their good deeds for humanity. The Eagle was also recognised in Greek culture, but it was only in Roman times that it became a messenger of a dead soul, carrying it towards the eternal stars. This was when Ptolemy created a constellation to represent the soul of Antinuous below the classical Eagle. This young friend and consultant of the Roman emperor Hadrian drowned in the Nile only seven years before the completion of the Almagest, and the whole Roman empire observed a state of national mourning.\r\n\r\nThe Milky Way is seen as a “pathway of souls” by many cultures, but in the Babylonian culture, this is not the case. Still, in Greco-Roman philosophy, the bright white parts of it between Antares and Altair, at the intersection of the Milky Way and the Zodiac do have a meaning: Plato, Macrobius and other philosophers refer to it as “the X in the sky”, and the second Celestial Gate was probably considered to be here (the first one being the gate formed by the Hyades and Pleiades).\r\n\r\nThese celestial pathways and gates, depicted above a gigantic bridge in the landscape and a site where the realms of land and ocean meet, make for an incredibly charged photograph. Additionally, the dark clouds in the Milky Way directly above the land form one of the two large dark constellations of the crocodiles, as interpreted by some people in southern Australia.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии МАС OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение показывает Млечный Путь, пересекающий небо над историческим мостом Биксби в Биг-Суре, гористой местности в Калифорнии, США, в мае 2021.\r\n\r\nЗвезда прямо над берегом — Антарес, красный сверхгигант в сердце Скорпиона. Слева от неё облака Млечного Пути, кажется, выходят из той же точки горизонта, что и скалистый массив суши. Над землёй, ниже Млечного Пути в левой четверти изображения, находится другая яркая звезда — Альтаир, яркая звезда в созвездии Орла.\r\n\r\nСкорпион считается опасным животным, поэтому скорпионы-люди (гибриды человека и скорпиона) охраняли врата в Подземный мир в древних вавилонских историях, как сообщается в саге о Гильгамеше. Орёл, напротив, появляется в вавилонской саге о царе Этане, которого Орёл поднял в небо и который описывает мир, видимый им внизу с возрастающего расстояния. Оба героя, Гильгамеш и Этана, ищут «траву жизни», но один из них спускаясь вниз, другой путешествуя вверх. Гильгамеш стремится вернуть своего умершего друга Энкиду и самому стать бессмертным, в то время как Этана ищет траву, чтобы помочь своей жене забеременеть. Скорпион и орёл — животные, поддерживающие этих героев в их поисках, которые в конечном итоге остались безуспешными. Гильгамеш в конце концов узнал, что люди могут стать бессмертными только благодаря своим добрым делам для человечества. Орёл также был признан в греческой культуре, но только в римские времена он стал посланником мёртвой души, несущим её к вечным звёздам. Именно тогда Птолемей создал созвездие, представляющее душу Антиноя под классическим Орлом. Этот молодой друг и советник римского императора Адриана утонул в Ниле всего за семь лет до завершения Альмагеста, и вся Римская империя соблюдала национальный траур.\r\n\r\nМлечный Путь рассматривается как «путь душ» многими культурами, но в вавилонской культуре это не так. Тем не менее, в греко-римской философии его яркие белые части между Антаресом и Альтаиром, на пересечении Млечного Пути и Зодиака, имеют значение: Платон, Макробий и другие философы называют его «X в небе», и вторые Небесные врата, вероятно, считались находящимися здесь (первые врата образованы Гиадами и Плеядами).\r\n\r\nЭти небесные пути и врата, изображённые над гигантским мостом в ландшафте и местом, где встречаются царства земли и океана, создают невероятно насыщенную фотографию. Кроме того, тёмные облака в Млечном Пути прямо над землёй образуют одно из двух больших тёмных созвездий крокодилов, как интерпретируют некоторые люди в южной Австралии.",
+      "alt_en": "The Milky Way looms over a bridge on a steep coastline. To the upper right is the bright, deep red star Antares",
+      "alt_ru": "Млечный Путь нависает над мостом на крутом побережье. Вверху справа — яркая тёмно-красная звезда Антарес",
+      "credit": "Marcin Zajac/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        85,
+        199,
+        299,
+        438,
+        472
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:cq75zj5Fb33",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7422830/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Milky%20Way%20Arch%20over%20Amboseli%20National%20Park%2C%20by%20Amirreza%20Kamkar.jpg",
+      "record_url": "https://astro4edu.org/resources/media/cq75zj5Fb33/",
+      "original_path": "data/media/original/media_cq75zj5Fb33.jpg",
+      "ru_path": null,
+      "sha256": "1464aef7ceb088ba9c3218299c68791fc29b76a263f9b821be32ee4640669a2c",
+      "size": 5126636,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Milky Way Arch over Amboseli National Park",
+      "short_caption_ru": "Арка Млечного Пути над национальным парком Амбосели",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image was taken in July 2016 from the Amboseli National Park in Kenya, located close to the equator.\r\n\r\nIn Egyptian mythology from northern Africa, the Milky Way was associated with a river sailed by gods and souls. The Zulu in South Africa interpret this pattern of dark and bright clouds of stars as an animal with black and white skin, whereas the South African Khoikhoi and San considered it “The Star’s Road”. In several South African cultures, the arch of the Milky Way is a pathway to the heavens formed by a mother goddess, according to a South African creation myth that was adopted in the 19th century from early ethnological research, but has vanished today.\r\n\r\nIn the middle-right of the image we find the bright red star Antares in the modern constellation of the Scorpion and at the upper-left edge is the white star Vega that is considered a Male Steenbok by the peoples around Cape Town.\r\n\r\nIndigenous Australians have many names for the Milky Way. The Yolnu people of Arnhem Land in Australia’s Northern Territory refer to the Milky Way as Milnguya, the sky river. One of the prominent patterns in this image is associated with the contrast between the light and dark regions of the Milky Way.\r\n\r\nThese dark regions are cool dense clouds of interstellar dust and gas, which block the light from stars behind them. One of the prominent patterns is that of the Celestial Emu referred to as Tchingal by several Indigenous peoples of south Australia. The head and beak of the emu (the Coalsack Nebula) lie to the bottom-left of the Southern Cross (seen in the far bottom-right of the image), and the body and legs stretch leftward from it. Other indigenous groups associate the dark regions with caves or waterways. The orientation of the emu over the year provides important clues as to when it is time to pick emu eggs, and when the eggs are hatching. In some months, when these clouds of the Milky Way are close to the horizon, they are not considered as emu at all but as two creeping crocodiles.\r\n\r\nThe modern figure of the dark Pipe Nebula is clearly visible above the centre of the Galaxy; the smoke of this pipe reaches the colourful rho Ophiuchi region next to Antares in Scorpius, the orange-red star just above the Milky Way. Antares is referred to by the Boorong people as Djuit, the red-rumped parrot, while the Kokatha people of the Western Desert refer to Antares as Kogolongo, the red-tailed black cockatoo.\r\n\r\nIn addition, some notable constellations can be seen: Cygnus, Aquila, Lyra, Scorpius, Sagittarius, Crux, and Centaurus. The pointer stars, Alpha and Beta Centauri, are occasionally interpreted as The Eyes of the Beast in some South African traditions.",
+      "caption_ru": "Победитель конкурса астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭтот снимок был сделан в июле 2016 года в национальном парке Амбосели в Кении, расположенном недалеко от экватора.\r\n\r\nВ египетской мифологии Северной Африки Млечный Путь ассоциировался с рекой, по которой плыли боги и души. Зулусы Южной Африки интерпретируют этот узор из тёмных и светлых облаков звёзд как животное с чёрно-белой кожей, тогда как южноафриканские койкой и сан считали его «Дорогой звёзд». В нескольких южноафриканских культурах дуга Млечного Пути — это путь на небеса, созданный богиней-матерью, согласно южноафриканскому мифу о сотворении мира, который был заимствован в 19 веке из ранних этнологических исследований, но сегодня исчез.\r\n\r\nВ середине правой части изображения мы находим яркую красную звезду Антарес в современном созвездии Скорпиона, а у верхнего левого края — белую звезду Вегу, которую народы вокруг Кейптауна считают самцом стенбока.\r\n\r\nУ коренных австралийцев есть много названий для Млечного Пути. Народ йолну из Арнемленда на Северной территории Австралии называет Млечный Путь Милнгуя, небесной рекой. Один из заметных узоров на этом изображении связан с контрастом между светлыми и тёмными областями Млечного Пути.\r\n\r\nЭти тёмные области — холодные плотные облака межзвёздной пыли и газа, которые блокируют свет звёзд позади них. Один из заметных узоров — это Небесный Эму, называемый Чингал несколькими коренными народами Южной Австралии. Голова и клюв эму (туманность Угольный Мешок) находятся в нижней левой части Южного Креста (видимого в дальнем правом нижнем углу изображения), а тело и ноги тянутся от него влево. Другие коренные группы связывают тёмные области с пещерами или водными путями. Ориентация эму в течение года даёт важные подсказки о том, когда собирать яйца эму и когда они вылупляются. В некоторые месяцы, когда эти облака Млечного Пути находятся близко к горизонту, их вовсе не считают эму, а двумя ползущими крокодилами.\r\n\r\nСовременная фигура тёмной туманности Трубка ясно видна над центром Галактики; дым этой трубки достигает красочной области Ро Змееносца рядом с Антаресом в Скорпионе, оранжево-красной звездой чуть выше Млечного Пути. Народ бурронг называет Антарес Джуит, краснопоясничным попугаем, а народ коката из Западной пустыни называет Антарес Коголонго, краснохвостым чёрным какаду.\r\n\r\nКроме того, можно увидеть некоторые заметные созвездия: Лебедь, Орёл, Лира, Скорпион, Стрелец, Южный Крест и Центавр. Указательные звёзды, Альфа и Бета Центавра, иногда интерпретируются как Глаза Зверя в некоторых южноафриканских традициях.",
+      "alt_en": "The Milky Way arches over an African grassland. Its diffuse glow is interrupted by a stream of dark patches.",
+      "alt_ru": "Млечный Путь изгибается над африканской саванной. Его рассеянное свечение прерывается потоком тёмных пятен.",
+      "credit": "Amirreza Kamkar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        66,
+        85,
+        199,
+        299,
+        318,
+        438,
+        472,
+        474,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:KS74x132Nw40",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425530/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Teide%20Observatory%2C%20by%20Curd-Christian%20Tengeler.jpg",
+      "record_url": "https://astro4edu.org/resources/media/KS74x132Nw40/",
+      "original_path": "data/media/original/media_KS74x132Nw40.jpg",
+      "ru_path": null,
+      "sha256": "f2bf3b76fa4e79ff0ff80beb94e87ed3f3ff801daabcca34cf881692c07b3d38",
+      "size": 54896348,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Teide Observatory",
+      "short_caption_ru": "Обсерватория Тейде",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nTaken in May 2022 in Teide National Park in Tenerife, Spain, this image shows the arc of the Milky Way galaxy crossing the sky, accompanied by prominent constellations over the professional telescopes located on the mountains of that island. While the telescopes and the people working with them may  ignore the constellations, the photographer managed to catch the Milky Way in such a way that it almost matches the shape of the mountain.\r\n\r\nThe bright star in the top-left side of the image is Vega, one of the brightest stars in the night sky and located in the small constellation Lyra. Being a white star, it is the standard star astrophysicists use to define the colour scale. As it is also a relatively close star, only about 25 light-years away, with a relatively simple name, it frequently appears in modern science fiction, for example in Carl Sagan’s famous novel “Contact”, which was filmed in 1997 with Jodie Foster starring as a radio astronomer.\r\n\r\nThe bright star seen below the galaxy and on the left half of the image is Altair, also one of the brightest stars in the night sky and located in the constellation Aquila. Together with Deneb — a star in the constellation Cygnus (the Swan) that is not visible in this image — Altair and Vega form the Summer Triangle, a characteristic asterism of popular astronomy in the northern hemisphere, where these telescopes are located.\r\n\r\nOn the right side of the image we can see the constellation Scorpius. This is easily identified by its brightest star, Antares, the reddish star in the Scorpion’s heart. Below it, the whole body and tail of the Scorpion can be found and above it the celestial Scorpion's head is represented by three bright bluish stars. Below the tail and above the horizon, the constellation of Ara, the Altar, is half-visible, but like all the stars of Sagittarius in the Milky Way and the much fainter ones in Hercules and Ophiuchus above it, these constellations are more difficult to pinpoint in this photograph full of stars. The head of Ophiuchus is the relatively bright star in the middle between Vega and Antares. In addition to the huge size of this constellation, it is also important because it is the thirteenth one of the Zodiac, and the Sun spends roughly three weeks in Ophiuchus, after only five days in Scorpius. Furthermore, Ophiuchus represents the model for the mythological best doctor in the world, called Asklepios in Greek mythology, and Aesculab in Latin. His constellation praises all people working in medical professions, including nurses, pharmacists and doctors.",
+      "caption_ru": "Почетное упоминание в конкурсе астрофотографии МАС OAE 2022 года, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nСнятое в мае 2022 года в национальном парке Тейде на Тенерифе, Испания, это изображение показывает дугу галактики Млечный Путь, пересекающую небо, в сопровождении заметных созвездий над профессиональными телескопами, расположенными на горах этого острова. Хотя телескопы и люди, работающие с ними, могут игнорировать созвездия, фотографу удалось запечатлеть Млечный Путь таким образом, что он почти соответствует форме горы.\r\n\r\nЯркая звезда в верхней левой части изображения — это Вега, одна из самых ярких звезд ночного неба, расположенная в небольшом созвездии Лиры. Будучи белой звездой, она является стандартной звездой, которую астрофизики используют для определения цветовой шкалы. Поскольку это также относительно близкая звезда, всего около 25 световых лет от нас, с относительно простым названием, она часто появляется в современной научной фантастике, например, в знаменитом романе Карла Сагана «Контакт», экранизированном в 1997 году с Джоди Фостер в главной роли радиоастронома.\r\n\r\nЯркая звезда, видимая ниже галактики и в левой половине изображения, — это Альтаир, также одна из самых ярких звезд ночного неба, расположенная в созвездии Орла. Вместе с Денебом — звездой в созвездии Лебедя, не видимой на этом изображении, — Альтаир и Вега образуют Летний треугольник, характерный астеризм популярной астрономии в северном полушарии, где находятся эти телескопы.\r\n\r\nВ правой части изображения мы можем увидеть созвездие Скорпиона. Его легко идентифицировать по самой яркой звезде, Антаресу, красноватой звезде в сердце Скорпиона. Ниже нее можно найти все тело и хвост Скорпиона, а выше нее голова небесного Скорпиона представлена тремя яркими голубоватыми звездами. Ниже хвоста и над горизонтом наполовину видно созвездие Жертвенника, но, как и все звезды Стрельца в Млечном Пути и гораздо более слабые в Геркулесе и Змееносце выше него, эти созвездия труднее определить на этой фотографии, полной звезд. Голова Змееносца — относительно яркая звезда посередине между Вегой и Антаресом. Помимо огромного размера этого созвездия, оно также важно потому, что является тринадцатым зодиакальным созвездием, и Солнце проводит примерно три недели в Змееносце, после всего пяти дней в Скорпионе. Кроме того, Змееносец представляет модель мифологического лучшего врача в мире, называемого Асклепием в греческой мифологии и Эскулапом на латыни. Его созвездие прославляет всех людей, работающих в медицинских профессиях, включая медсестер, фармацевтов и врачей.",
+      "alt_en": "Several observatory domes on a mountain top with the arching Milky Way behind.",
+      "alt_ru": "Несколько куполов обсерватории на вершине горы с дугой Млечного Пути позади.",
+      "credit": "Curd-Christian Tengeler/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        25,
+        27,
+        85,
+        199,
+        299,
+        438,
+        472
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:fd12Uf19gx5",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425585/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Oregon%20Coast%2C%20by%20Marcin%20Zajac.jpg",
+      "record_url": "https://astro4edu.org/resources/media/fd12Uf19gx5/",
+      "original_path": "data/media/original/media_fd12Uf19gx5.jpg",
+      "ru_path": null,
+      "sha256": "da8077c1b3a59285229fff0bfbe83ee09b641d393e6b1416e0c6996a4a3fe1c4",
+      "size": 16358789,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Oregon Coast",
+      "short_caption_ru": "Побережье Орегона",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns:.\r\n\r\n \r\n\r\nThis image features the Milky Way, our home galaxy, over Oregon, USA, as seen in July 2021. It is obviously a composite because the stars are not reflected in the water. Still, it is nicely composed to suggest a similarity between the stream of water on Earth and the (mirrored) stream of stars in the sky.\r\n\r\nThe Milky Way clearly dominates the sky in this image. As a prominent feature in the sky, the Milky Way has been associated with the religions and mythologies of many cultures. The best-known association from Greek folklore “explains” it as a stream of divine milk from the mighty mother goddess Hera, whose husband god Zeus frequently misbehaved (as he did in this case, causing this accident). Greek mythology, on the other hand, considered it to be the path of the souls, while ancient Greek science suggested several scientific explanations, all of which turned out to be false.\r\n\r\nThe Ojibwe in North America, who live to the east of Oregon where this photograph was taken, also consider the Milky Way a Path for Spirits and a River of Souls. Looking at the foreground of the picture, this belief is even more understandable; it looks as if the rivers of Earth and heaven merge at the horizon.\r\n\r\nThe prominent feature in the middle of the image is the dark region called the Pipe Nebula in the Milky Way. The smoke of this pipe goes to the right and ends almost at a treetop, where we find the orange star Antares in the heart of the Scorpion.\r\n\r\nIn the middle of the image, below the Pipe, there is a huge dark area in the Milky Way with two prominent red spots. These spots are hydrogen clouds called the Cat’s Paw and the Lagoon, but in this image they look like the red eyes of great Manitou, the Great Spirit of the Iroquois Native Americans. The constellation of Sagittarius in this area is not recognisable because the image of the Milky Way is highly processed in order to display these dark features that are invisible to the naked eye.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии МАС OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nНа этом изображении представлен Млечный Путь, наша родная галактика, над Орегоном, США, каким он виден в июле 2021. Это явно композит, потому что звёзды не отражаются в воде. Тем не менее, он хорошо скомпонован, чтобы предположить сходство между потоком воды на Земле и (отражённым) потоком звёзд в небе.\r\n\r\nМлечный Путь явно доминирует на небе этого изображения. Как заметная особенность неба, Млечный Путь ассоциировался с религиями и мифологиями многих культур. Наиболее известная ассоциация из греческого фольклора «объясняет» его как поток божественного молока от могущественной матери-богини Геры, чей муж бог Зевс часто плохо себя вёл (как он сделал в этом случае, вызвав эту случайность). Греческая мифология, с другой стороны, считала его путём душ, в то время как древнегреческая наука предлагала несколько научных объяснений, все из которых оказались ложными.\r\n\r\nОджибве в Северной Америке, которые живут к востоку от Орегона, где была сделана эта фотография, также считают Млечный Путь Путём Духов и Рекой Душ. Глядя на передний план картины, это верование становится ещё более понятным; кажется, что реки Земли и неба сливаются на горизонте.\r\n\r\nЗаметная особенность в середине изображения — тёмная область, называемая Туманностью Трубки в Млечном Пути. Дым этой трубки идёт вправо и заканчивается почти у верхушки дерева, где мы находим оранжевую звезду Антарес в сердце Скорпиона.\r\n\r\nВ середине изображения, ниже Трубки, находится огромная тёмная область в Млечном Пути с двумя заметными красными пятнами. Эти пятна — водородные облака, называемые Кошачья Лапа и Лагуна, но на этом изображении они выглядят как красные глаза великого Маниту, Великого Духа коренных американцев ирокезов. Созвездие Стрельца в этой области не узнаваемо, потому что изображение Млечного Пути сильно обработано, чтобы показать эти тёмные особенности, невидимые невооружённым глазом.",
+      "alt_en": "Behind a jagged, wooded landscape, the Milky Way appears as two yellowish brown streams of light broken by patchy dark areas",
+      "alt_ru": "За зубчатым лесистым ландшафтом Млечный Путь предстаёт как два желтовато-коричневых потока света, прерываемых пятнистыми тёмными областями",
+      "credit": "Marcin Zajac/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        85,
+        199,
+        438,
+        472
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:MN2Yx61VC6",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425589/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20The%20Pleiades%20M45%20with%20Majestic%20Dust%2C%20by%20Mohamed%20Usama%20Ismail.jpg",
+      "record_url": "https://astro4edu.org/resources/media/MN2Yx61VC6/",
+      "original_path": "data/media/original/media_MN2Yx61VC6.jpg",
+      "ru_path": null,
+      "sha256": "6bbd628b109405e65b7f4cb01cd629b850e8cc103a86a13340b896b9563a5d2e",
+      "size": 5829196,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Pleiades M45 with Majestic Dust",
+      "short_caption_ru": "Плеяды M45 с величественной пылью",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nTaken in Dar Eid in Saint Catherine/Sinai, Egypt, in October 2021, this image shows the Pleiades, an open cluster also known as The Seven Sisters.\r\n\r\nThe Pleiades are located in the north-western part of the constellation Taurus, the Bull. This constellation originates from ancient Babylonian or even Sumerian belief, where it was designated the Bull of Heaven, a mighty creature owned by the sky god. In Late Babylonian times, the Pleiades were called The Bristle at the hunchback of The Bull. In China, the asterism is also called The Hair, but this does not necessarily imply any relationship between the East Asian and West Asian names of this asterism, although exchange is hypothesised with the establishment of the Silk Road.\r\n\r\nIn ancient Babylonian texts the term The Hair does not appear. Instead, the Pleiades are only called The Star Cluster in Sumerian, and the Sumerian term was used in later languages as a loanword. The Sumerian and early Babylonian religion associated all constellations with specific deities, including gods, demons, messengers of gods. The Star Cluster was associated with a deity of the Netherworld that was called The Seven and was considered an ensemble of seven speaking weapons or strongly armed gods. The later Greek name of the Seven Sisters might possibly have sprung from an intercultural misunderstanding of this older religious association, since, in fact, seven stars are not seen in this cluster.\r\n\r\nThe star cluster of the Pleiades is really prominent in the sky, and thus was used for several cultural purposes, such as determining the calendar and the spring equinox. However, its significance is frequently overstated in cultural astronomy. As the tradition of representing it with seven dots originates from an ancient Sumerian belief, we should be careful about interpreting any group of seven dots on cave walls and archaeological sites across Europe, Asia and America from the Stone Age onwards as a representation of the Pleiades.\r\n\r\nModern astrophysics has found that the star cluster of the Pleiades is extraordinarily young, so there was certainly not an additional star in ancient times. Furthermore, we know that the bright stars are only the core region of an open star cluster that consists of hundreds of stars scattered over an area of the sky which exceeds the bright core by one or two of its diameters in any direction. The photograph does not even show the whole cluster. The group is thought to be about 400 light-years away from Earth, which is relatively close in astronomical terms.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nСнятый в Дар-Эйд в Санта-Катрин/Синай, Египет, в октябре 2021, этот снимок показывает Плеяды — рассеянное скопление, также известное как Семь сестёр.\r\n\r\nПлеяды расположены в северо-западной части созвездия Тельца. Это созвездие происходит из древневавилонских или даже шумерских верований, где оно обозначалось как Небесный бык — могущественное существо, принадлежащее небесному богу. В поздневавилонские времена Плеяды называли «Щетиной на горбе Быка». В Китае этот астеризм также называют «Волосами», но это не обязательно подразумевает какую-либо связь между восточноазиатскими и западноазиатскими названиями этого астеризма, хотя обмен и предполагается с установлением Шёлкового пути.\r\n\r\nВ древневавилонских текстах термин «Волосы» не встречается. Вместо этого Плеяды называются только «Звёздным скоплением» на шумерском, и шумерский термин использовался в более поздних языках как заимствованное слово. Шумерская и ранневавилонская религия связывала все созвездия с конкретными божествами, включая богов, демонов, посланников богов. Звёздное скопление ассоциировалось с божеством подземного мира, которое называлось «Семёрка» и считалось ансамблем из семи говорящих оружий или сильно вооружённых богов. Более позднее греческое название «Семь сестёр» могло возникнуть из межкультурного непонимания этой более древней религиозной ассоциации, поскольку на самом деле в этом скоплении не видно семи звёзд.\r\n\r\nЗвёздное скопление Плеяд действительно очень заметно на небе и поэтому использовалось для нескольких культурных целей, таких как определение календаря и весеннего равноденствия. Однако его значение часто преувеличивается в культурной астрономии. Поскольку традиция изображать его семью точками происходит из древних шумерских верований, нам следует быть осторожными, интерпретируя любую группу из семи точек на стенах пещер и археологических памятниках по всей Европе, Азии и Америке начиная с каменного века как изображение Плеяд.\r\n\r\nСовременная астрофизика установила, что звёздное скопление Плеяд чрезвычайно молодо, поэтому в древности в нём определённо не было дополнительной звезды. Более того, мы знаем, что яркие звёзды — это лишь центральная область рассеянного звёздного скопления, состоящего из сотен звёзд, разбросанных по области неба, которая превышает яркое ядро на один или два его диаметра в любом направлении. На фотографии даже не показано всё скопление. Считается, что группа находится на расстоянии около 400 световых лет от Земли, что относительно близко в астрономических терминах.",
+      "alt_en": "A cluster of brilliant blue stars illuminate the surrounding nebular gas.",
+      "alt_ru": "Скопление ярких голубых звёзд освещает окружающий туманный газ.",
+      "credit": "Mohamed Usama/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        57,
+        194,
+        438,
+        445,
+        450,
+        466,
+        469
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:rm66h546E771",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425563/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Equatorial%20Milky%20Way%2C%20by%20Giorgia%20Hofer.jpg",
+      "record_url": "https://astro4edu.org/resources/media/rm66h546E771/",
+      "original_path": "data/media/original/media_rm66h546E771.jpg",
+      "ru_path": null,
+      "sha256": "10e3a9c45e8ab36aea916513010ebd6ef8b99c41f7df268967d932b0c7af9450",
+      "size": 1609157,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Equatorial Milky Way",
+      "short_caption_ru": "Экваториальный Млечный Путь",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns: Equatorial Milky Way\r\n\r\n \r\n\r\nTaken in Bromo-Tengger-Semeru National Park, Java Island, Indonesia, in March 2016, this image captures regions of the southern Milky Way and, at its left edge, the two planets Mars and Saturn. Mars appears orange and is similar in colour to the star Antares, whose Greek name — anti Ares — references this. Saturn is a little bit fainter than Mars, but clearly visible among the stars of Ophiuchus, above the Pipe Nebula and forming an isosceles triangle with Mars and Antares.\r\n\r\nMars is on the top and Saturn is vertically below. Visible to the naked eye, both planets have significance in many cultures around the world. In Roman mythology Mars is the god of war and fertility, and Saturn the god of sowing and agriculture. Its Greek equivalent, the god Kronos, is also considered the regent of completion. Indigenous Australians, including the Kamilaroi and Wailan people, associate Saturn with “wunygal”, a small bird. Mars is called Iherm-penh (something burnt in flames) by the Anmatyerre people of the Central Desert, while the Kokatha people of the Western Desert associate Mars and the star Anatres with the red-tailed black cockatoo (Kogolongo).\r\n\r\nIn the middle of this photograph, the most famous southern constellations are clearly recognisable: the Southern Cross (Crux), the pointer stars, Alpha and Beta Centauri, the dark Coalsack Nebula and the red Eta Carina Nebula, which is not visible to the unaided eye but is prominent in modern photographs. In the 19th century, the star eta Carinae had been the second-brightest star in the sky for some time, but since it varies irregularly, it has hardly been recognisable in recent decades, and its future visibility is unpredictable.\r\n\r\nTriangulum Australe is visible between the pointer stars and the Scorpion, and in the constellation of Centaurus, the bright globular star cluster Omega Centauri is clearly displayed. It was considered a “nebulous star” since antiquity and, thus, was listed in star catalogues for at least 2000 years. Only within the last century did astronomers discover that globular star clusters are in the halo of our galaxy and that this one consists of roughly 10 million stars.\r\n\r\nThe dark regions in the Milky Way, which are cool, dense clouds of dust and gas, form the head and body of the Celestial Emu Tchingal. Together with the Southern Cross and the pointer stars, they appear in the Dreamtime stories of many Indigenous Australians. One story associated with the Djab Wurrung and the Jardwadjali people is part of a Dreamtime Story involving Tchingal, the Bram-bram-bult brothers (the pointer stars), their mother Druk (Delta Crux), and Bunya the hunter, who gets transformed into a possum (Gacrux, the red star at the top of the Southern Cross).",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии МАС OAE 2022 в категории «Неподвижные изображения небесных узоров»: Экваториальный Млечный Путь\r\n\r\n \r\n\r\nСнятое в национальном парке Бромо-Тенггер-Семеру на острове Ява, Индонезия, в марте 2016, это изображение запечатлевает области южного Млечного Пути и на его левом краю две планеты Марс и Сатурн. Марс выглядит оранжевым и похож по цвету на звезду Антарес, чьё греческое имя — анти Арес — ссылается на это. Сатурн немного слабее Марса, но ясно виден среди звёзд Змееносца, над Туманностью Трубки и образует равнобедренный треугольник с Марсом и Антаресом.\r\n\r\nМарс находится сверху, а Сатурн вертикально под ним. Видимые невооружённым глазом, обе планеты имеют значение во многих культурах по всему миру. В римской мифологии Марс — бог войны и плодородия, а Сатурн — бог посева и земледелия. Его греческий эквивалент, бог Кронос, также считается правителем завершения. Коренные австралийцы, включая народы камиларои и вайлан, связывают Сатурн с «вуньгалом», маленькой птицей. Марс называется Игерм-пенх (что-то сожжённое в пламени) народом анаматьерре из Центральной пустыни, в то время как народ коката из Западной пустыни связывает Марс и звезду Антарес с красным хвостатым чёрным какаду (Коголонго).\r\n\r\nВ середине этой фотографии ясно узнаваемы самые известные южные созвездия: Южный Крест (Крукс), звёзды-указатели, Альфа и Бета Центавра, тёмная туманность Угольный Мешок и красная туманность Эта Киля, которая не видна невооружённым глазом, но заметна на современных фотографиях. В 19 веке звезда Эта Киля в течение некоторого времени была второй по яркости звездой на небе, но поскольку она меняется нерегулярно, в последние десятилетия она едва узнаваема, и её будущая видимость непредсказуема.\r\n\r\nЮжный Треугольник виден между звёздами-указателями и Скорпионом, а в созвездии Центавра ясно показано яркое шаровое звёздное скопление Омега Центавра. Оно считалось «туманной звездой» с древности и, таким образом, было включено в звёздные каталоги по крайней мере на 2000 лет. Только в прошлом веке астрономы обнаружили, что шаровые звёздные скопления находятся в гало нашей галактики и что это состоит примерно из 10 миллионов звёзд.\r\n\r\nТёмные области в Млечном Пути, которые являются холодными плотными облаками пыли и газа, образуют голову и тело Небесного Эму Чингал. Вместе с Южным Крестом и звёздами-указателями они появляются в историях Времени Сновидений многих коренных австралийцев. Одна история, связанная с народами джаб вуррунг и джардваджали, является частью истории Времени Сновидений, включающей Чингала, братьев Брам-брам-булт (звёзды-указатели), их мать Друк (Дельта Крукс) и Бунью-охотника, который превращается в опоссума (Гакрукс, красная звезда в верхней части Южного Креста).",
+      "alt_en": "The Milky Way over a cloudy landscape. A triangle of bright objects is visible on the left of the image.",
+      "alt_ru": "Млечный Путь над облачным ландшафтом. Слева на изображении виден треугольник из ярких объектов.",
+      "credit": "Giorgia Hofer/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        85,
+        189,
+        199,
+        294,
+        299,
+        318,
+        438,
+        472,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Tq28RS5q189",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7422867/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Milky%20Way%20Arch%20over%20La%20Palma%2C%20by%20Amirreza%20Kamkar.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Tq28RS5q189/",
+      "original_path": "data/media/original/media_Tq28RS5q189.jpg",
+      "ru_path": null,
+      "sha256": "d0d7dc24262bc7f4fa311a8063144a4cc4648ed3ec5f4acb0ad79349cbc3a255",
+      "size": 3312710,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Milky Way Arch over La Palma",
+      "short_caption_ru": "Дуга Млечного Пути над Ла-Пальмой",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image, which shows the majestic band of the Milky Way and a range of culturally significant patterns, was taken in May 2022 at a very high altitude from the Roque de los Muchachos Observatory in La Palma, from which one can see the clouds below. Some prominent star patterns include Scorpius, Sagittarius, Lyra, Cygnus, Aquila, the Summer Triangle asterism, and the Teapot asterism.\r\n\r\nAs the Canary Islands used to be a starting point for European sailors to explore the world, we use this place to point to the many indigenous cultures they encountered. Most notably it is the dark patterns within the band of the Milky Way that hold significance for many Indigenous cultures around the world. The dark patterns are in fact dense, cool clouds of gas and dust that block the light from stars. Indigenous people see caves, waterways and various patterns associated with the dark regions of the Milky Way.\r\n\r\nThe constellations and patterns hold different cultural significance and interpretations for different people. For example, the constellation Scorpius is referred to by Polynesian people as the demigod Maui’s Fishhook. The Yolnu people of Arnhem Land associate Scorpius with a crocodile called Ingalpir. Some Indigenous Australian groups associate stories with individual stars within Scorpius, most notably Antares, the orange-red star in the top right of the image above the band of the Milky Way. Next to the Scorpion and above the bright centre of the Milky Way, there is a prominent dark cloud that is called the Pipe Nebula by modern astrophotographers. The smoke of this pipe goes up to rho Ophiuchi. This and all the other dark clouds in the Milky Way together form the backbone of heaven for some tribes, and an animal with black-and-white skin for South African Zulu people.\r\n\r\n\r\nThe nomenclature of bright stars also has cross-cultural roots. For example, Vega (the bright blue star towards the top of the image) comes from the Arabic waqi, from al-nasr al-waqi, the Eagle who throws himself down (in order to hunt). This contrasts with the Flying Eagle, Altair, also derived from Arabic. Antares is a Greek word meaning “the one similar to Mars”, referring to its colour. The star name Shaula in the stinger of the Scorpion is a modern version of the Babylonian or even Sumerian star name.",
+      "caption_ru": "Победитель в 2022 конкурсе астрофотографии IAU OAE, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение, на котором показаны величественная полоса Млечного Пути и ряд культурно значимых узоров, было сделано в мае 2022 на очень большой высоте из обсерватории Роке-де-лос-Мучачос на Ла-Пальме, откуда можно увидеть облака внизу. Среди заметных звёздных узоров — Скорпион, Стрелец, Лира, Лебедь, Орёл, астеризм Летний треугольник и астеризм Чайник.\r\n\r\nПоскольку Канарские острова были отправной точкой для европейских мореплавателей в исследовании мира, мы используем это место, чтобы указать на многие коренные культуры, с которыми они встречались. В частности, тёмные узоры внутри полосы Млечного Пути имеют значение для многих коренных культур по всему миру. Тёмные узоры — это на самом деле плотные холодные облака газа и пыли, которые блокируют свет звёзд. Коренные народы видят пещеры, водные пути и различные узоры, связанные с тёмными областями Млечного Пути.\r\n\r\nСозвездия и узоры имеют разное культурное значение и интерпретации для разных людей. Например, созвездие Скорпиона полинезийцы называют рыболовным крючком полубога Мауи. Народ йолнгу из Арнем-Ленда связывает Скорпиона с крокодилом по имени Ингалпир. Некоторые группы коренных австралийцев связывают истории с отдельными звёздами в Скорпионе, в частности с Антаресом, оранжево-красной звездой в правом верхнем углу изображения над полосой Млечного Пути. Рядом со Скорпионом и над ярким центром Млечного Пути находится заметное тёмное облако, которое современные астрофотографы называют туманностью Трубка. Дым этой трубки поднимается к ро Змееносца. Это и все другие тёмные облака в Млечном Пути вместе образуют хребет небес для некоторых племён и животное с чёрно-белой кожей для южноафриканского народа зулу.\r\n\r\n\r\nНоменклатура ярких звёзд также имеет межкультурные корни. Например, Вега (яркая голубая звезда в верхней части изображения) происходит от арабского ваки, от ан-наср аль-ваки, Орёл, который бросается вниз (чтобы охотиться). Это контрастирует с Летящим Орлом, Альтаиром, также производным от арабского. Антарес — греческое слово, означающее «подобный Марсу», отсылающее к его цвету. Название звезды Шаула в жале Скорпиона — современная версия вавилонского или даже шумерского названия звезды.",
+      "alt_en": "The diffuse glow of the Milky Way broken by dark patches. Right, the red star Antares forms the top of a hook-like pattern",
+      "alt_ru": "Диффузное свечение Млечного Пути, разбитое тёмными пятнами. Справа красная звезда Антарес образует вершину крючкообразного узора",
+      "credit": "Amirreza Kamkar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        66,
+        85,
+        199,
+        299,
+        429,
+        438,
+        472,
+        474
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Dv534a6oC71",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425207/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20The%20Moon%20and%20Milky%20Way%20arch%20Above%20the%20Golden%20Hall%2C%20by%20Likai%20Lin.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Dv534a6oC71/",
+      "original_path": "data/media/original/media_Dv534a6oC71.jpg",
+      "ru_path": null,
+      "sha256": "c47fc19fca832b039578bdb5abad2074d2e19a991d0a52be3dcce7f8348d6257",
+      "size": 12444342,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Moon and Milky Way arch Above the Golden Hall",
+      "short_caption_ru": "Луна и Млечный Путь образуют арку над Золотым залом",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nTaken in April 2021 from the top of the Laojun Mountain in China, this image shows a panoramic view of the Milky Way over the Golden Hall called “Yuhuangding” as a symbol of wealth. In China, the Milky Way is considered a huge stream like one of the big rivers. It separates the Cowherd (Altair) and his beloved Weaving Girl (Vega) and it has a Celestial Ford in the northern dark cloud in the modern constellation Cygnus.\r\n\r\nThe Milky Way appears as a whitish arch as we cannot distinguish all the individual stars, but instead see the accumulation of light from them. It is a disc-shaped galaxy and the Solar System is located within one of its spiral arms, so we see it from inside, which gives it the shape of a band in our sky. It is associated with the religions and mythologies of several cultures. The modern term Milky Way derives from Greek folklore as the milk spread in the sky by the mother goddess Hera, when she unwillingly breastfed young Heracles. This son of Zeus and a mortal woman was put next to her while she was asleep but from his strong sucking she woke up and realised she was feeding an unknown child, and immediately pushed the child away. Greek philosophers like Plato considered the glittering band in the sky to be the traces of a former path of the Sun.\r\n\r\nAlternatively, for the Tupi-Guarani indigenous mythology from South America, the Milky Way represents the “path of tapir”. For some Australian native peoples, its dark clouds formed the shape of an emu if high in the sky, and of crocodiles if low on the horizon. For many southern African, South American and Australian cultures, it was considered a pathway to or from heaven. At the right edge of the image, we can recognise the modern constellation Scorpius with its most prominent star, Antares, the reddish star just above the Milky Way.\r\n\r\nThe brightest point seen in the centre bottom of the image is the rising Moon with Jupiter next to it. A few constellations can be distinguished in this image, including Corona Australis, a faint arc-shaped constellation located to the bottom right. Just above the Southern Crown, we can see the Teapot asterism as part of the Sagittarius constellation. Since Sagittarius lies next to the centre of the Milky Way, many structures such as star-forming regions, globular clusters and planetary nebulae can be found within its boundaries. In Sagittarius, we also find a supermassive black hole four million times as massive as our Sun.\r\n\r\nAt the left side of the band, we can identify the bright star Deneb in the constellation Cygnus, The Swan, through which the Milky Way runs, meaning that a variety of star clusters are found in this constellation.",
+      "caption_ru": "Победитель конкурса астрофотографии 2022 МАС OAE в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nСнятый в апреле 2021 года с вершины горы Лаоцзюнь в Китае, этот снимок показывает панорамный вид Млечного Пути над Золотым залом под названием «Юйхуандин», символом богатства. В Китае Млечный Путь считается огромным потоком, подобным одной из больших рек. Он разделяет Пастуха (Альтаир) и его возлюбленную Ткачиху (Вега), а в северном тёмном облаке в современном созвездии Лебедя находится Небесный Брод.\r\n\r\nМлечный Путь выглядит как беловатая арка, поскольку мы не можем различить все отдельные звёзды, а вместо этого видим накопление их света. Это дисковидная галактика, и Солнечная система расположена внутри одного из её спиральных рукавов, поэтому мы видим её изнутри, что придаёт ей форму полосы на нашем небе. Он связан с религиями и мифологиями нескольких культур. Современный термин «Млечный Путь» происходит из греческого фольклора как молоко, разлитое по небу богиней-матерью Герой, когда она неохотно кормила грудью маленького Геракла. Этот сын Зевса и смертной женщины был подложен к ней, пока она спала, но от его сильного сосания она проснулась и поняла, что кормит неизвестного ребёнка, и сразу оттолкнула его. Греческие философы, такие как Платон, считали сверкающую полосу на небе следами прежнего пути Солнца.\r\n\r\nС другой стороны, в мифологии коренных народов тупи-гуарани из Южной Америки Млечный Путь представляет «путь тапира». Для некоторых австралийских аборигенов его тёмные облака образуют форму эму, если высоко в небе, и крокодилов, если низко над горизонтом. Для многих культур южной Африки, Южной Америки и Австралии он считался путём на небо или с неба. На правом краю изображения мы можем распознать современное созвездие Скорпиона с его самой яркой звездой Антарес, красноватой звездой чуть выше Млечного Пути.\r\n\r\nСамая яркая точка, видимая в центре нижней части изображения, — это восходящая Луна с Юпитером рядом с ней. На этом изображении можно различить несколько созвездий, включая Южную Корону, слабое созвездие в форме дуги, расположенное в правом нижнем углу. Чуть выше Южной Короны мы видим астеризм Чайник как часть созвездия Стрельца. Поскольку Стрелец лежит рядом с центром Млечного Пути, в его границах можно найти множество структур, таких как области звездообразования, шаровые скопления и планетарные туманности. В Стрельце мы также находим сверхмассивную чёрную дыру в четыре миллиона раз массивнее нашего Солнца.\r\n\r\nВ левой части полосы мы можем идентифицировать яркую звезду Денеб в созвездии Лебедя, через которое проходит Млечный Путь, что означает, что в этом созвездии находится множество звёздных скоплений.",
+      "alt_en": "The Milky Way arches over a mountain-top building. Its diffuse glow is broken by dark patches and is brighter on the right",
+      "alt_ru": "Млечный Путь образует арку над зданием на вершине горы. Его диффузное свечение нарушено тёмными пятнами и ярче справа",
+      "credit": "Likai Lin/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        85,
+        199,
+        299,
+        438,
+        472,
+        474
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:od80iA38G732",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425274/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20The%20Milky%20Way%20over%20Anglers%20Reach%2C%20by%20Lucy%20Yunxi%20Hu.jpg",
+      "record_url": "https://astro4edu.org/resources/media/od80iA38G732/",
+      "original_path": "data/media/original/media_od80iA38G732.jpg",
+      "ru_path": null,
+      "sha256": "e27a93068cac7f02c66998e0a835f29bb183b7e6894d5d4241b98068c8a9aa7c",
+      "size": 9388399,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Milky Way Over Anglers Reach",
+      "short_caption_ru": "Млечный Путь над Англерс-Рич",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThe Milky Way and several astronomical objects are seen in this image taken from the southern hemisphere, in Anglers Reach, Australia, in April 2022.\r\n\r\nOn the bottom-left side we can identify the constellation Scorpius with its brightest star, Antares, the reddish spot just above the arc. Some prominent but small southern constellations can also be seen: the dominating bright stars in the middle-left of the image in the Milky Way are the four bright stars of Crux (the Southern Cross) and to its left the two pointer stars, alpha and beta Centauri. Crux points towards the southern celestial pole, which is not marked by a bright star, and The pointer stars point towards Crux, distinguishing it from the asterism of the False Cross in the constellation Argo.\r\n\r\nCrux features on the national flags of Australia, Brazil, Papua New Guinea, Samoa and New Zealand. As Crux lies in the brightest parts of the Milky Way, the dark cloud of the famous Coalsack Nebula is prominent next to the bright stars. It forms one of the dark constellations in South American, South African and Australian indigenous cultures. The huge Australian dark constellation of the Emu is almost completely above the horizon in this image, stretching from its head in the Coal Sack to the horizon.\r\n\r\nIn Greek antiquity, the stars of Crux also belonged to the constellation Centaurus, a hybrid creature with a human torso and head attached to a horse body with four legs. The Greek centaur represents Chiron, the wise teacher of all Greek heroes. Its brightest star is Rigil Kentaurus (Alpha Centauri), the front hoof of the centaur. Just below it, we find the small constellation Triangulum Australe. The triple star system of Alpha Centauri is our Sun’s nearest stellar neighbour.\r\n\r\nAlong the Milky Way in the middle-right of the picture we find the huge constellation Argo, the Ship. The smaller ancient constellation Argo was extended by Dutch navigators around 1600, and the number of stars in this constellation was then so big that the 18th-century French mathematician Lacaille needed to introduce subtitles for Argo in his star catalogue. In doing so, he invented the constellations Puppis, Carina and Vela. In Carina, the Keel of the ship, this reddish photograph clearly displays the Carina Nebula.\r\n\r\nAt the right edge of the image we can spot the brightest star in the night sky, Sirius, while the second brightest star, Canopus, the rudder of Argo, the Ship, dominates the area under the arch of the Milky Way.\r\n\r\nAlso below the Milky Way arc, we can see the Large Magellanic Cloud and the Small Magellanic Cloud, which are small satellite galaxies of our own Galaxy.",
+      "caption_ru": "Победитель в 2022 конкурсе астрофотографии IAU OAE, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nМлечный Путь и несколько астрономических объектов видны на этом снимке, сделанном из южного полушария, в Англерс-Рич, Австралия, в апреле 2022.\r\n\r\nВ нижней левой части мы можем идентифицировать созвездие Скорпиона с его самой яркой звездой Антарес, красноватой точкой чуть выше дуги. Также видны некоторые заметные, но небольшие южные созвездия: доминирующие яркие звезды в средней левой части изображения на Млечном Пути — это четыре яркие звезды Южного Креста (Crux), а слева от него — две указательные звезды, альфа и бета Центавра. Южный Крест указывает на южный небесный полюс, который не отмечен яркой звездой, а указательные звезды указывают на Южный Крест, отличая его от астеризма Ложный Крест в созвездии Арго.\r\n\r\nЮжный Крест изображен на государственных флагах Австралии, Бразилии, Папуа-Новой Гвинеи, Самоа и Новой Зеландии. Поскольку Южный Крест лежит в самых ярких частях Млечного Пути, темное облако знаменитой туманности Угольный Мешок заметно рядом с яркими звездами. Оно образует одно из темных созвездий в южноамериканской, южноафриканской и австралийской культурах коренных народов. Огромное австралийское темное созвездие Эму почти полностью находится над горизонтом на этом изображении, простираясь от своей головы в Угольном Мешке до горизонта.\r\n\r\nВ греческой древности звезды Южного Креста также принадлежали созвездию Центавра, гибридному существу с человеческим торсом и головой, прикрепленными к телу лошади с четырьмя ногами. Греческий кентавр представляет Хирона, мудрого учителя всех греческих героев. Его самая яркая звезда — Ригил Кентаурус (Альфа Центавра), переднее копыто кентавра. Чуть ниже мы находим небольшое созвездие Южный Треугольник. Тройная звездная система Альфа Центавра является ближайшим звездным соседом нашего Солнца.\r\n\r\nВдоль Млечного Пути в средней правой части изображения мы находим огромное созвездие Арго, Корабль. Меньшее древнее созвездие Арго было расширено голландскими мореплавателями около 1600, и количество звезд в этом созвездии стало настолько большим, что французскому математику Лакайлю в 18 веке потребовалось ввести подразделы для Арго в своем звездном каталоге. Таким образом, он изобрел созвездия Корма, Киль и Паруса. В Киле, корме корабля, этот красноватый снимок ясно показывает туманность Киля.\r\n\r\nНа правом краю изображения мы можем заметить самую яркую звезду ночного неба, Сириус, в то время как вторая по яркости звезда, Канопус, руль Арго, Корабля, доминирует над областью под дугой Млечного Пути.\r\n\r\nТакже под дугой Млечного Пути мы можем видеть Большое Магелланово Облако и Малое Магелланово Облако, которые являются небольшими спутниковыми галактиками нашей собственной Галактики.",
+      "alt_en": "The curve of the Milky Way bisected on the left by a huge dark arch. Below appear two bright, diffuse patches.",
+      "alt_ru": "Изгиб Млечного Пути, разделенный слева огромной темной аркой. Внизу видны два ярких, диффузных пятна.",
+      "credit": "Lucy Yunxi Hu/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        59,
+        85,
+        199,
+        299,
+        318,
+        438,
+        472,
+        499,
+        500,
+        504
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:LD41wW44WS59",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425140/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20The%20Pillar%20of%20Creation%2C%20by%20Giorgia%20Hofer.jpg",
+      "record_url": "https://astro4edu.org/resources/media/LD41wW44WS59/",
+      "original_path": "data/media/original/media_LD41wW44WS59.jpg",
+      "ru_path": null,
+      "sha256": "39234521882d0b301446b9d71352927806efa434edf64a2893ff5cb79609435c",
+      "size": 10714607,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The Pillar of Creation",
+      "short_caption_ru": "Столп Творения",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis image shows the night sky over Tre Cime di Lavaredo, (Dolomites Natural Park), in the region of Veneto, Italy, in October 2021.\r\n\r\nThe bright spot on the left-hand side is the planet Jupiter, appearing in the constellation Capricorn. To the right of Jupiter and below the two horn stars of Capricorn is the planet Saturn. Just above Jupiter we can see parts of Aquarius, one of the largest constellations and also part of the Zodiac. North of these constellations, left of the Milky Way, there are mostly faint stars. The brighter whitish one in the top left corner is Enif, a binary star in the constellation Pegasus.\r\n\r\nThe Milky Way seems to emerge from a rock like celestial vapour. Roughly centred in the image are two bright stars left and right of the Milky Way: Altair and Vega, respectively. They seem to be separated by the galactic stream, as told in a popular Chinese folk story where they represent a loving couple. Today, in popular astronomy, the fairly bright star at the upper edge of the photograph is added to form a huge triangle with them, the Summer Triangle in the northern hemisphere.\r\n\r\nAltair is the brightest star of the Babylonian constellation Aquila, the Eagle. In ancient Babylon, it was said that the Eagle was carrying king Etana up in the air so that he could see Earth from above. Next to the Babylonian Eagle was the constellation of the Corpse, that returned only in Roman times when Ptolemy put it below the Eagle as the new sub-constellation “Antinous”. It is seen as the corpse (or soul) of the Roman emperor Hadrian’s favourite who had just died in the Nile.\r\n\r\nVega is the bright white star to the right of the Milky Way. It forms part of the small constellation Lyra, famous for hosting the Ring Nebula, which is an impressive planetary nebula — a dying star blowing its gas into space.\r\n\r\nAt the right edge of the image, three stars in a bent row appear rather prominently. This is the handle of the Big Dipper pointing downwards to a bright star close to the horizon: Arcturus, the bright star of the constellation Bootes (Greek: the Ploughman). This kite-like constellation is probably a pagan interpretation of the Babylonian god “Enlil” whose constellation also occupied that place in the sky. The Romans re-interpreted this figure as The Ox-Driver who controlled the Seven Oxen seen in the bright stars of Ursa Major.\r\n\r\nDirectly right of Vega, there is the huge constellation Hercules and below it, directly to the left of Bootes, we find a half-circle of stars comprising the small constellation Corona Borealis, associated with Ariadne, daughter of King Minos of Crete in Greek culture.\r\n\r\nThe lights seen in the bottom left side of the image are due to the reflection of artificial lights in the clouds.",
+      "caption_ru": "Победитель в 2022 конкурсе астрофотографии IAU OAE, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭто изображение показывает ночное небо над Тре-Чиме-ди-Лаваредо (природный парк Доломиты) в регионе Венето, Италия, в октябре 2021.\r\n\r\nЯркое пятно слева — это планета Юпитер, появляющаяся в созвездии Козерога. Справа от Юпитера и ниже двух звёзд-рогов Козерога находится планета Сатурн. Чуть выше Юпитера мы можем видеть части Водолея, одного из крупнейших созвездий и также части Зодиака. К северу от этих созвездий, слева от Млечного Пути, находятся в основном слабые звёзды. Более яркая беловатая звезда в верхнем левом углу — это Эниф, двойная звезда в созвездии Пегаса.\r\n\r\nМлечный Путь, кажется, поднимается из скалы, как небесный пар. Примерно в центре изображения находятся две яркие звезды слева и справа от Млечного Пути: Альтаир и Вега соответственно. Они кажутся разделёнными галактическим потоком, как рассказывается в популярной китайской народной истории, где они представляют любящую пару. Сегодня в популярной астрономии довольно яркая звезда у верхнего края фотографии добавляется, чтобы образовать с ними огромный треугольник — Летний треугольник в Северном полушарии.\r\n\r\nАльтаир — самая яркая звезда вавилонского созвездия Орла. В древнем Вавилоне говорили, что Орёл нёс царя Этану в воздух, чтобы тот мог увидеть Землю сверху. Рядом с вавилонским Орлом находилось созвездие Трупа, которое вернулось только в римские времена, когда Птолемей поместил его под Орлом как новое под-созвездие «Антиной». Оно рассматривается как труп (или душа) фаворита римского императора Адриана, который только что умер в Ниле.\r\n\r\nВега — яркая белая звезда справа от Млечного Пути. Она является частью небольшого созвездия Лиры, известного тем, что в нём находится Кольцевая туманность — впечатляющая планетарная туманность, умирающая звезда, выбрасывающая свой газ в космос.\r\n\r\nУ правого края изображения три звезды в изогнутом ряду выглядят довольно заметно. Это ручка Большого Ковша, указывающая вниз на яркую звезду близко к горизонту: Арктур, яркая звезда созвездия Волопаса (греч.: Пахарь). Это похожее на воздушного змея созвездие, вероятно, является языческой интерпретацией вавилонского бога «Энлиля», чьё созвездие также занимало это место на небе. Римляне переинтерпретировали эту фигуру как Погонщика Волов, который управлял Семью Волами, видимыми в ярких звёздах Большой Медведицы.\r\n\r\nПрямо справа от Веги находится огромное созвездие Геркулеса, а под ним, прямо слева от Волопаса, мы находим полукруг звёзд, составляющих небольшое созвездие Северной Короны, связанное с Ариадной, дочерью царя Миноса Критского в греческой культуре.\r\n\r\nОгни, видимые в нижней левой части изображения, обусловлены отражением искусственных огней в облаках.",
+      "alt_en": "The Milky Way appears as two vertical diffuse bands of light either side of a dark line, over a rocky outcrop.",
+      "alt_ru": "Млечный Путь предстаёт как две вертикальные рассеянные полосы света по обе стороны от тёмной линии над скалистым выступом.",
+      "credit": "Giorgia Hofer/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        48,
+        85,
+        167,
+        199,
+        294,
+        438,
+        472
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Q08eT66Uc96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-pillars-of-creation-in-comparison.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Q08eT66Uc96/",
+      "original_path": "data/media/original/media_Q08eT66Uc96.jpg",
+      "ru_path": null,
+      "sha256": "cd1a44eb4e61373056ab92394baec96f21d7f6c3c3e4bf86ae0c66dc544ba172",
+      "size": 12030803,
+      "title_en": "The Pillars of Creation in comparison",
+      "title_ru": "Столпы Творения в сравнении",
+      "short_caption_en": "The Pillars of Creation in comparison",
+      "short_caption_ru": "Столпы Творения в сравнении",
+      "caption_en": "The 'Pillars of Creation' are a renowned astronomical feature situated within the Eagle Nebula in the Serpens constellation. The illustration provides a direct comparison between images captured by the Hubble Space Telescope (HST) and the James Webb Space Telescope (JWST), showcasing the pillars, which span several light years in diameter, in both visible light (also known as optical light) and infrared light. On the left are the pillars as seen by Hubble in visual light, taken in 2014. It displays dark pillars against an opaque background, with only a handful of visible stars. Conversely, the counterpart on the right is Webb’s near-infrared view published in 2022, penetrating the dust and revealing numerous stars of varying sizes.\r\nTheir distance from Earth is approximately 6,500 to 7,000 light years. Within these pillars, new stars are constantly forming, making them a subject of extensive study by astronomers. Composed mostly of cool molecular hydrogen and small amounts of interstellar dust, they are subject to erosion by the intense ultraviolet radiation emitted by nearby massive and newborn stars, a process known as photoevaporation.",
+      "caption_ru": "«Столпы Творения» — известная астрономическая структура, расположенная в туманности Орёл в созвездии Змеи. Иллюстрация позволяет напрямую сравнить изображения, полученные космическим телескопом «Хаббл» (HST) и космическим телескопом «Джеймс Уэбб» (JWST), демонстрируя столпы, простирающиеся на несколько световых лет в поперечнике, в видимом свете (также известном как оптический свет) и в инфракрасном свете. Слева — столпы, какими их увидел «Хаббл» в видимом свете, снимок сделан в 2014. На нём видны тёмные столпы на непрозрачном фоне, и лишь несколько звёзд. Напротив, справа — ближний инфракрасный снимок «Уэбба», опубликованный в 2022, который проникает сквозь пыль и показывает множество звёзд разного размера.\r\nИх расстояние от Земли составляет примерно от 6,500 до 7,000 световых лет. Внутри этих столпов постоянно формируются новые звёзды, что делает их предметом обширных исследований астрономов. Состоящие в основном из холодного молекулярного водорода и небольшого количества межзвёздной пыли, они подвергаются эрозии под воздействием интенсивного ультрафиолетового излучения, испускаемого близлежащими массивными и новорождёнными звёздами, — процесс, известный как фотоиспарение.",
+      "alt_en": "The left image has finger-shaped clouds with bright edges. In the right image we see stars shining through those clouds",
+      "alt_ru": "На левом изображении видны облака в форме пальцев с яркими краями. На правом изображении мы видим звёзды, сияющие сквозь эти облака",
+      "credit": "NASA, ESA, CSA, STScI",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:The_Pillars_of_Creation_(Hubble_and_Webb_Images_Side_by_Side).png",
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        156,
+        157,
+        229,
+        333,
+        378,
+        438
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

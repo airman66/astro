@@ -1,0 +1,267 @@
+{
+  "id": "term:87",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 87,
+    "url": "https://astro4edu.org/resources/glossary/term/87/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=87",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:33.801378+00:00",
+    "sha256": "29daa32173c2dfc4495eee779c648a411b962790ccb5c2bd8516ed1b6ddda794"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      17,
+      18,
+      170,
+      200,
+      259,
+      366,
+      513
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Dwarf Planet",
+      "body": "A dwarf planet is a celestial body with the following properties: It orbits around the Sun, has enough mass to obtain a nearly round shape, has not cleared its path along its orbit, and is not a moon. Dwarf planets tend to orbit in regions made up of similar bodies, as in the case of the asteroid belt and Kuiper belt. In general, dwarf planets are smaller than Mercury, with icy, rocky structures. The amount of ice relative to the rocks depends on their position in the Solar System. Pluto is the most famous dwarf planet. The term dwarf planet should not be confused with the obsolete term minor planet.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Asteroid",
+          "url": "https://www.astro4edu.org/resources/glossary/term/17/",
+          "text_ru": "Астероид"
+        },
+        {
+          "text": "Asteroid Belt",
+          "url": "https://www.astro4edu.org/resources/glossary/term/18/",
+          "text_ru": "Пояс астероидов"
+        },
+        {
+          "text": "Kuiper Belt",
+          "url": "https://www.astro4edu.org/resources/glossary/term/170/",
+          "text_ru": "Пояс Койпера"
+        },
+        {
+          "text": "Minor Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/200/",
+          "text_ru": "Малая планета"
+        },
+        {
+          "text": "Pluto",
+          "url": "https://www.astro4edu.org/resources/glossary/term/259/",
+          "text_ru": "Плутон"
+        },
+        {
+          "text": "Trans-Neptunian Object",
+          "url": "https://www.astro4edu.org/resources/glossary/term/366/",
+          "text_ru": "Транснептуновый объект"
+        },
+        {
+          "text": "Small Solar System Body",
+          "url": "https://www.astro4edu.org/resources/glossary/term/513/",
+          "text_ru": "Малое тело Солнечной системы"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Dwarf Planet</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A dwarf planet is a celestial body with the following properties: It orbits around the Sun, has enough mass to obtain a nearly round shape, has not cleared its path along its orbit, and is not a moon. Dwarf planets tend to orbit in regions made up of similar bodies, as in the case of the asteroid belt and Kuiper belt. In general, dwarf planets are smaller than Mercury, with icy, rocky structures. The amount of ice relative to the rocks depends on their position in the Solar System. Pluto is the most famous dwarf planet. The term dwarf planet should not be confused with the obsolete term minor planet.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/17/\">Asteroid</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/18/\">Asteroid Belt</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/170/\">Kuiper Belt</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/200/\">Minor Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/259/\">Pluto</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/366/\">Trans-Neptunian Object</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/513/\">Small Solar System Body</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Карликовая планета",
+      "body_ru": "Карликовая планета — это небесное тело со следующими свойствами: оно обращается вокруг Солнца, имеет достаточно массы, чтобы приобрести почти круглую форму, не расчистило свой путь вдоль орбиты и не является спутником. Карликовые планеты, как правило, обращаются в областях, состоящих из подобных тел, как в случае пояса астероидов и пояса Койпера. В целом карликовые планеты меньше Меркурия и имеют ледяные, каменистые структуры. Количество льда относительно камней зависит от их положения в Солнечной системе. Плутон — самая известная карликовая планета. Термин «карликовая планета» не следует путать с устаревшим термином «малая планета»."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "準惑星 (external link)",
+          "url": "https://astro-dic.jp/dwarf-planet/",
+          "text_ru": "Карликовая планета (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/87/\">الكوكب القزم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/87/\">Zwergplanet </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/87/\">Planeta enano </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/87/\">Planète naine </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/87/\">Pianeta nano </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/dwarf-planet/\">準惑星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/87/\">Planeta anão </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/87/\">矮行星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/87/\">矮行星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/iY71I1998m13/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://photojournal.jpl.nasa.gov/catalog/PIA19952",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/IM0jA0k975/"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        }
+      ],
+      "media_ids": [
+        "media:iY71I1998m13",
+        "media:IM0jA0k975"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/iY71I1998m13/\"><img alt=\"Image of Pluto in enhanced colour to bring out differences in surface composition. They include craters, ridges and plains.\" src=\"/media/multimedia/thumbnails/PIA19952_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Pluto</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> NASA's New Horizons spacecraft captured this high-resolution enhanced colour view of the dwarf planet Pluto on in July 2015. The image combines blue, red and infrared images taken by the Ralph/Multispectral Visual Imaging Camera (MVIC). Pluto’s surface appears enhanced in this view to a rainbow of pale blues, yellows, oranges, and deep reds. The image resolves details and colours on scales as small as 1.3 kilometers.<br/>\n<b>Credit:</b> NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute\n\t  <a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA19952\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/IM0jA0k975/\"><img alt=\"The asteroid Ceres, roughly spherical with a grey surface, many craters, some of which reveal white subsurface water ice.\" src=\"/media/multimedia/thumbnails/Ceres_-_RC3_-_Haulani_Crater_22381131691_cropped_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ceres</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn in May 2015, at a distance of 13641 km. The prominent, bright crater at right is Haulani. The smaller bright spot to its left is exposed on the floor of Oxo. Ejecta from these impacts appears to have exposed bright material, probably water ice.<br/>\n<b>Credit:</b> NASA / JPL-Caltech / UCLA / MPS / DLR / IDA / Justin Cowart\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Dwarf Planet",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Dwarf Planet",
+          "body": "A dwarf planet is a celestial body with the following properties: It orbits around the Sun, has enough mass to obtain a nearly round shape, has not cleared its path along its orbit, and is not a moon. Dwarf planets tend to orbit in regions made up of similar bodies, as in the case of the asteroid belt and Kuiper belt. In general, dwarf planets are smaller than Mercury, with icy, rocky structures. The amount of ice relative to the rocks depends on their position in the Solar System. Pluto is the most famous dwarf planet. The term dwarf planet should not be confused with the obsolete term minor planet."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Карликовая планета",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Карликовая планета",
+          "body": "Карликовая планета — это небесное тело со следующими свойствами: оно обращается вокруг Солнца, имеет достаточно массы, чтобы приобрести почти круглую форму, не расчистило свой путь вдоль орбиты и не является спутником. Карликовые планеты, как правило, обращаются в областях, состоящих из подобных тел, как в случае пояса астероидов и пояса Койпера. В целом карликовые планеты меньше Меркурия и имеют ледяные, каменистые структуры. Количество льда относительно камней зависит от их положения в Солнечной системе. Плутон — самая известная карликовая планета. Термин «карликовая планета» не следует путать с устаревшим термином «малая планета»."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:iY71I1998m13",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA19952.jpg",
+      "record_url": "https://astro4edu.org/resources/media/iY71I1998m13/",
+      "original_path": "data/media/original/media_iY71I1998m13.jpg",
+      "ru_path": null,
+      "sha256": "9ff70a2bc500fef4d9e53e3e73080b866cdde3dcb5d0cf6903ac1396a7ca5879",
+      "size": 2554610,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Pluto imaged by NASA's New Horizons mission",
+      "short_caption_ru": "Плутон, снятый миссией NASA «Новые горизонты»",
+      "caption_en": "NASA's New Horizons spacecraft captured this high-resolution enhanced colour view of the dwarf planet Pluto on in July 2015. The image combines blue, red and infrared images taken by the Ralph/Multispectral Visual Imaging Camera (MVIC). Pluto’s surface appears enhanced in this view to a rainbow of pale blues, yellows, oranges, and deep reds. The image resolves details and colours on scales as small as 1.3 kilometers.",
+      "caption_ru": "Космический аппарат NASA «Новые горизонты» получил это цветное изображение карликовой планеты Плутон с высоким разрешением в июле 2015 года. Изображение объединяет синие, красные и инфракрасные снимки, сделанные камерой Ralph/Multispectral Visual Imaging Camera (MVIC). На этом снимке поверхность Плутона усилена до радуги бледно-голубых, жёлтых, оранжевых и тёмно-красных оттенков. Изображение позволяет различать детали и цвета в масштабе до 1,3 километра.",
+      "alt_en": "Image of Pluto in enhanced colour to bring out differences in surface composition. They include craters, ridges and plains.",
+      "alt_ru": "Изображение Плутона в усиленном цвете, чтобы подчеркнуть различия в составе поверхности. На нём видны кратеры, хребты и равнины.",
+      "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA19952",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        87,
+        170,
+        259,
+        366
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:IM0jA0k975",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Ceres_-_RC3_-_Haulani_Crater_22381131691_cropped.jpg",
+      "record_url": "https://astro4edu.org/resources/media/IM0jA0k975/",
+      "original_path": "data/media/original/media_IM0jA0k975.jpg",
+      "ru_path": null,
+      "sha256": "0c855604d72e1b9883d10af0f5b80b2d484964a9139d3527acbceeae709e40ed",
+      "size": 269287,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn",
+      "short_caption_ru": "Изображение астероида Церера в истинных цветах, полученное космическим зондом Dawn",
+      "caption_en": "True-colour image of the asteroid Ceres acquired by the spaceprobe Dawn in May 2015, at a distance of 13641 km. The prominent, bright crater at right is Haulani. The smaller bright spot to its left is exposed on the floor of Oxo. Ejecta from these impacts appears to have exposed bright material, probably water ice.",
+      "caption_ru": "Изображение астероида Церера в истинных цветах, полученное космическим зондом Dawn в мае 2015 года на расстоянии 13 641 км. Заметный яркий кратер справа — Хаулани. Меньшее яркое пятно слева от него обнажено на дне Оксо. Выбросы от этих ударов, по-видимому, обнажили яркий материал, вероятно, водяной лёд.",
+      "alt_en": "The asteroid Ceres, roughly spherical with a grey surface, many craters, some of which reveal white subsurface water ice.",
+      "alt_ru": "Астероид Церера, примерно сферической формы с серой поверхностью, множество кратеров, некоторые из которых обнажают белый подповерхностный водяной лёд.",
+      "credit": "NASA / JPL-Caltech / UCLA / MPS / DLR / IDA / Justin Cowart",
+      "credit_url": null,
+      "license": "CC-BY-2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "term_numbers": [
+        18,
+        74,
+        87,
+        154
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

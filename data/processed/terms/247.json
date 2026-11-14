@@ -1,0 +1,283 @@
+{
+  "id": "term:247",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 247,
+    "url": "https://astro4edu.org/resources/glossary/term/247/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=247",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:29.705130+00:00",
+    "sha256": "84432c37269faef4466eca489cb3171c02dc6b9e01d64350040562738f79809f"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      182,
+      475
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Phase",
+      "body": "In astronomy, phase refers to the state of partial illumination of a moon or planet with respect to a specific observer. A distant light source typically illuminates only half of a spherical body's surface; the rest remains dark. Similarly, only about half of a spherical body's surface is within a distant observer's sight. The phase specifies which fraction of the surface within the observer's sight is illuminated. It changes as the relative positions of the object, the observer, and the light source change. The best-known examples are the phases of the Moon. The relative positions of the Moon, of the Earth as the location of the observer, and of the Sun as the light source, change as the Moon orbits the Earth over the course of about one month. Hence, over that time, an observer on Earth will see different phases of the Moon. The phase where all of the Moon's surface that is in the observer's sight is illuminated is called \"full Moon\"; when no illuminated surface regions are visible, we have \"new Moon\". The two half-illuminated phases are called \"first\" or \"second quarter\", respectively. Less-than-half illumination makes for a \"crescent (Moon)\". Phases are also seen in planets in the Solar System (particularly prominent for Mercury and Venus), and have been inferred for exoplanet systems. For the Moon, even non-illuminated regions are not completely dark: they reflect light reaching them from Earth, in a phenomenon known as Earthshine, first documented by Leonardo da Vinci.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Lunar Phase",
+          "url": "https://www.astro4edu.org/resources/glossary/term/182/",
+          "text_ru": "Лунная фаза"
+        },
+        {
+          "text": "Shadow",
+          "url": "https://www.astro4edu.org/resources/glossary/term/475/",
+          "text_ru": "Тень"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Phase</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In astronomy, phase refers to the state of partial illumination of a moon or planet with respect to a specific observer. A distant light source typically illuminates only half of a spherical body's surface; the rest remains dark. Similarly, only about half of a spherical body's surface is within a distant observer's sight. The phase specifies which fraction of the surface within the observer's sight is illuminated. It changes as the relative positions of the object, the observer, and the light source change.<br/><br/>The best-known examples are the phases of the Moon. The relative positions of the Moon, of the Earth as the location of the observer, and of the Sun as the light source, change as the Moon orbits the Earth over the course of about one month. Hence, over that time, an observer on Earth will see different phases of the Moon. The phase where all of the Moon's surface that is in the observer's sight is illuminated is called \"full Moon\"; when no illuminated surface regions are visible, we have \"new Moon\". The two half-illuminated phases are called \"first\" or \"second quarter\", respectively. Less-than-half illumination makes for a \"crescent (Moon)\".<br/><br/>Phases are also seen in planets in the Solar System (particularly prominent for Mercury and Venus), and have been inferred for exoplanet systems. For the Moon, even non-illuminated regions are not completely dark: they reflect light reaching them from Earth, in a phenomenon known as Earthshine, first documented by Leonardo da Vinci.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/182/\">Lunar Phase</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/475/\">Shadow</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Фаза",
+      "body_ru": "В астрономии фаза относится к состоянию частичной освещённости луны или планеты относительно конкретного наблюдателя. Удалённый источник света обычно освещает только половину поверхности сферического тела; остальная часть остаётся тёмной. Аналогично, только около половины поверхности сферического тела находится в поле зрения удалённого наблюдателя. Фаза определяет, какая доля поверхности в поле зрения наблюдателя освещена. Она меняется по мере изменения относительного положения объекта, наблюдателя и источника света. Наиболее известными примерами являются фазы Луны. Относительные положения Луны, Земли как места наблюдателя и Солнца как источника света меняются, когда Луна обращается вокруг Земли примерно за один месяц. Следовательно, за это время наблюдатель на Земле увидит разные фазы Луны. Фаза, при которой вся поверхность Луны, находящаяся в поле зрения наблюдателя, освещена, называется \"полнолунием\"; когда не видно ни одного освещённого участка поверхности, мы имеем \"новолуние\". Две наполовину освещённые фазы называются соответственно \"первой\" или \"второй четвертью\". Освещённость менее половины создаёт \"серп (Луны)\". Фазы также наблюдаются у планет Солнечной системы (особенно заметно у Меркурия и Венеры) и были выведены для экзопланетных систем. Для Луны даже неосвещённые области не являются полностью тёмными: они отражают свет, достигающий их от Земли, в явлении, известном как пепельный свет, впервые задокументированном Леонардо да Винчи."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/247/\">الطَّوْر </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/247/\">Phase </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/247/\">Fase </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/247/\">فار </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/247/\">Phase </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/247/\">Fase </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/247/\">위상 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/247/\">Fase </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/247/\">相位 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/247/\">相位 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/xa705a50xD37/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/xD75ML16R46/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Ad126X90bo96/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:xa705a50xD37",
+        "media:xD75ML16R46",
+        "media:Ad126X90bo96"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/xa705a50xD37/\"><img alt=\"Venus changes from being small and almost full to being large with only a thin crescent illuminated.\" src=\"/media/multimedia/thumbnails/a-matter-of-perspective_thumbnail_3mNMUEJ.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A Matter of Perspective</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of phases of Venus.\n\nThis exquisite series of images, captured from Santo Domingo, Dominican Republic, between 17 December 2019 and 25 May 2020, shows the phases of Venus as seen from Earth. As Venus and Earth orbit the Sun, we observe different portions of Venus’s sunlit half, similar to the Moon’s phases. The sequence clearly shows Venus as distant, small, bright and gibbous in the lower frames, and ends with Venus reaching the biggest apparent size of all planets (upper frames), very close to the Sun with a small elongation, and appearing as a thin crescent. In the last frame, only 2.8% of the planet’s surface is illuminated.<br/>\n<b>Credit:</b> Christofer Baez/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/xD75ML16R46/\"><img alt=\"At the top Venus is full and appears small. As the images progress it moves to half, crescent and new, appearing larger.\" src=\"/media/multimedia/thumbnails/phases-of-venus_thumbnail_bLt0E2l.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Phases of Venus</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of phases of Venus.\n\nThis is a mesmerising series of images of Venus captured from Surgères, Charente-Maritime, France, over a period of six months in 2015. The phases appear similar to the phases we see of our own Moon and occur for similar reasons. Only half of Venus is illuminated by the Sun and, from Earth, we can sometimes only see part of that illuminated half, depending on the relative positions of the Sun, Earth and Venus. Both Mercury and Venus exhibit phases because their orbit is between the Sun and the orbit of Earth. Depending on the position of Venus relative to the Sun and Earth, Venus goes through its phases over a period of time. This sequence of images beautifully showcases the transition from the ‘gibbous’ to the slender crescents. The use of infrared filters helped to capture Venus's dense perpetual cloud cover during daylight in sharp detail, providing a glimpse into the mysterious nature of the planet’s atmosphere.<br/>\n<b>Credit:</b> Stephane Gonzales/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Ad126X90bo96/\"><img alt=\"Mercury appears smaller and fainter than Venus. The bottom right of Venus is an illuminated crescent.\" src=\"/media/multimedia/thumbnails/venus-and-mercury-trails_thumbnail_l01fDuD.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Venus and Mercury Trails</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images of phases of Venus.\n\nIn this composite image, both Mercury (left) and Venus (right) can be seen heading into the sunset. The phases of each are beautifully captured as they descend. Not all planets or moons in the Solar System show phases as viewed from Earth. This phenomenon occurs because the orbits of Venus and Mercury are positioned between Earth’s orbit and the Sun, sometimes allowing us to see only part of the illuminated portion of each planet. These phases are similar to the phases we see of our own Moon.<br/>\n<b>Credit:</b> Marcella Giulia Pace (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Phase",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Phase",
+          "body": "In astronomy, phase refers to the state of partial illumination of a moon or planet with respect to a specific observer. A distant light source typically illuminates only half of a spherical body's surface; the rest remains dark. Similarly, only about half of a spherical body's surface is within a distant observer's sight. The phase specifies which fraction of the surface within the observer's sight is illuminated. It changes as the relative positions of the object, the observer, and the light source change. The best-known examples are the phases of the Moon. The relative positions of the Moon, of the Earth as the location of the observer, and of the Sun as the light source, change as the Moon orbits the Earth over the course of about one month. Hence, over that time, an observer on Earth will see different phases of the Moon. The phase where all of the Moon's surface that is in the observer's sight is illuminated is called \"full Moon\"; when no illuminated surface regions are visible, we have \"new Moon\". The two half-illuminated phases are called \"first\" or \"second quarter\", respectively. Less-than-half illumination makes for a \"crescent (Moon)\". Phases are also seen in planets in the Solar System (particularly prominent for Mercury and Venus), and have been inferred for exoplanet systems. For the Moon, even non-illuminated regions are not completely dark: they reflect light reaching them from Earth, in a phenomenon known as Earthshine, first documented by Leonardo da Vinci."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Фаза",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Фаза",
+          "body": "В астрономии фаза относится к состоянию частичной освещённости луны или планеты относительно конкретного наблюдателя. Удалённый источник света обычно освещает только половину поверхности сферического тела; остальная часть остаётся тёмной. Аналогично, только около половины поверхности сферического тела находится в поле зрения удалённого наблюдателя. Фаза определяет, какая доля поверхности в поле зрения наблюдателя освещена. Она меняется по мере изменения относительного положения объекта, наблюдателя и источника света. Наиболее известными примерами являются фазы Луны. Относительные положения Луны, Земли как места наблюдателя и Солнца как источника света меняются, когда Луна обращается вокруг Земли примерно за один месяц. Следовательно, за это время наблюдатель на Земле увидит разные фазы Луны. Фаза, при которой вся поверхность Луны, находящаяся в поле зрения наблюдателя, освещена, называется \"полнолунием\"; когда не видно ни одного освещённого участка поверхности, мы имеем \"новолуние\". Две наполовину освещённые фазы называются соответственно \"первой\" или \"второй четвертью\". Освещённость менее половины создаёт \"серп (Луны)\". Фазы также наблюдаются у планет Солнечной системы (особенно заметно у Меркурия и Венеры) и были выведены для экзопланетных систем. Для Луны даже неосвещённые области не являются полностью тёмными: они отражают свет, достигающий их от Земли, в явлении, известном как пепельный свет, впервые задокументированном Леонардо да Винчи."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:xa705a50xD37",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278513/files/Second%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20phases%20of%20Venus:%20A%20matter%20of%20Perspective,%20by%20Christofer%20Baez.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/xa705a50xD37/",
+      "original_path": "data/media/original/media_xa705a50xD37.jpg",
+      "ru_path": null,
+      "sha256": "fcdb8fe2426ee3b9b4c264e192825ad482385cacad768bbe7d434bb91dc9bd6b",
+      "size": 339560,
+      "title_en": "A Matter of Perspective",
+      "title_ru": "Вопрос перспективы",
+      "short_caption_en": "A Matter of Perspective",
+      "short_caption_ru": "Вопрос перспективы",
+      "caption_en": "Second place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of phases of Venus.\r\n\r\nThis exquisite series of images, captured from Santo Domingo, Dominican Republic, between 17 December 2019 and 25 May 2020, shows the phases of Venus as seen from Earth. As Venus and Earth orbit the Sun, we observe different portions of Venus’s sunlit half, similar to the Moon’s phases. The sequence clearly shows Venus as distant, small, bright and gibbous in the lower frames, and ends with Venus reaching the biggest apparent size of all planets (upper frames), very close to the Sun with a small elongation, and appearing as a thin crescent. In the last frame, only 2.8% of the planet’s surface is illuminated.",
+      "caption_ru": "Второе место в конкурсе астрофотографии МАС OAE 2023, категория неподвижных изображений фаз Венеры.\r\n\r\nЭта изысканная серия изображений, снятая в Санто-Доминго, Доминиканская Республика, в период с 17 декабря 2019 по 25 мая 2020, показывает фазы Венеры, видимые с Земли. Поскольку Венера и Земля обращаются вокруг Солнца, мы наблюдаем различные части освещённой Солнцем половины Венеры, подобно фазам Луны. Последовательность ясно показывает Венеру как далёкую, маленькую, яркую и выпуклую в нижних кадрах и заканчивается тем, что Венера достигает наибольшего видимого размера среди всех планет (верхние кадры), находясь очень близко к Солнцу с малым элонгационным углом и выглядя как тонкий серп. В последнем кадре освещено только 2.8% поверхности планеты.",
+      "alt_en": "Venus changes from being small and almost full to being large with only a thin crescent illuminated.",
+      "alt_ru": "Венера меняется от маленькой и почти полной до большой с освещённым лишь тонким серпом.",
+      "credit": "Christofer Baez/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        247,
+        377
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:xD75ML16R46",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10278493/files/First%20place%20winner%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20phases%20of%20Venus:%20Phases%20of%20Venus,%20by%20Stephane%20Gonzales.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/xD75ML16R46/",
+      "original_path": "data/media/original/media_xD75ML16R46.jpg",
+      "ru_path": null,
+      "sha256": "1c8fe0a000b84fd8ff806d3c2c5811e2c47cad1c454c052959b74351f6b1f875",
+      "size": 1426093,
+      "title_en": "Phases of Venus",
+      "title_ru": "Фазы Венеры",
+      "short_caption_en": "Phases of Venus",
+      "short_caption_ru": "Фазы Венеры",
+      "caption_en": "First place winner in the 2023 IAU OAE Astrophotography Contest, category of Still images of phases of Venus.\r\n\r\nThis is a mesmerising series of images of Venus captured from Surgères, Charente-Maritime, France, over a period of six months in 2015. The phases appear similar to the phases we see of our own Moon and occur for similar reasons. Only half of Venus is illuminated by the Sun and, from Earth, we can sometimes only see part of that illuminated half, depending on the relative positions of the Sun, Earth and Venus. Both Mercury and Venus exhibit phases because their orbit is between the Sun and the orbit of Earth. Depending on the position of Venus relative to the Sun and Earth, Venus goes through its phases over a period of time. This sequence of images beautifully showcases the transition from the ‘gibbous’ to the slender crescents. The use of infrared filters helped to capture Venus's dense perpetual cloud cover during daylight in sharp detail, providing a glimpse into the mysterious nature of the planet’s atmosphere.",
+      "caption_ru": "Первое место в конкурсе астрофотографии МАС OAE 2023, категория неподвижных изображений фаз Венеры.\r\n\r\nЭто завораживающая серия изображений Венеры, снятая в Сюржере, Шаранта-Приморская, Франция, за период в шесть месяцев в 2015 году. Фазы выглядят аналогично фазам, которые мы видим у нашей собственной Луны, и возникают по сходным причинам. Только половина Венеры освещена Солнцем, и с Земли мы иногда можем видеть лишь часть этой освещённой половины, в зависимости от относительного положения Солнца, Земли и Венеры. И Меркурий, и Венера демонстрируют фазы, потому что их орбита находится между Солнцем и орбитой Земли. В зависимости от положения Венеры относительно Солнца и Земли Венера проходит свои фазы за определённый период времени. Эта последовательность изображений прекрасно демонстрирует переход от выпуклой фазы к тонким серпам. Использование инфракрасных фильтров помогло запечатлеть плотный постоянный облачный покров Венеры при дневном свете с поразительной детализацией, давая представление о загадочной природе атмосферы планеты.",
+      "alt_en": "At the top Venus is full and appears small. As the images progress it moves to half, crescent and new, appearing larger.",
+      "alt_ru": "В верхней части Венера полная и кажется маленькой. По мере продвижения изображений она переходит к половине, серпу и новолунию, становясь крупнее.",
+      "credit": "Stephane Gonzales/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        247,
+        377
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Ad126X90bo96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359166/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20phases%20of%20Venus:%20Venus%20and%20Mercury%20Trails,%20by%20Marcella%20Giulia%20Pace.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/Ad126X90bo96/",
+      "original_path": "data/media/original/media_Ad126X90bo96.jpg",
+      "ru_path": null,
+      "sha256": "711698ab7b4b30743cca77054d20c3cba97e92641b3d2e8281daf8923d4a2204",
+      "size": 4856589,
+      "title_en": "Venus and Mercury Trails",
+      "title_ru": "Следы Венеры и Меркурия",
+      "short_caption_en": "Venus and Mercury Trails",
+      "short_caption_ru": "Следы Венеры и Меркурия",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images of phases of Venus.\r\n\r\nIn this composite image, both Mercury (left) and Venus (right) can be seen heading into the sunset. The phases of each are beautifully captured as they descend. Not all planets or moons in the Solar System show phases as viewed from Earth. This phenomenon occurs because the orbits of Venus and Mercury are positioned between Earth’s orbit and the Sun, sometimes allowing us to see only part of the illuminated portion of each planet. These phases are similar to the phases we see of our own Moon.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория неподвижных изображений фаз Венеры.\r\n\r\nНа этом композитном изображении видны и Меркурий (слева), и Венера (справа), направляющиеся к закату. Фазы каждого из них прекрасно запечатлены по мере их снижения. Не все планеты или луны в Солнечной системе показывают фазы при наблюдении с Земли. Это явление происходит потому, что орбиты Венеры и Меркурия расположены между орбитой Земли и Солнцем, что иногда позволяет нам видеть только часть освещённой части каждой планеты. Эти фазы похожи на фазы, которые мы видим у нашей собственной Луны.",
+      "alt_en": "Mercury appears smaller and fainter than Venus. The bottom right of Venus is an illuminated crescent.",
+      "alt_ru": "Меркурий кажется меньше и тусклее Венеры. В правом нижнем углу Венеры виден освещённый серп.",
+      "credit": "Marcella Giulia Pace (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        192,
+        247,
+        377
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

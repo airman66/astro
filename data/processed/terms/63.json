@@ -1,0 +1,243 @@
+{
+  "id": "term:63",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 63,
+    "url": "https://astro4edu.org/resources/glossary/term/63/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=63",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:25.663552+00:00",
+    "sha256": "a04acf45a30f29199f7942c7811268ba3ff9abf1c55a828e4b4bafa4d6c4ada9"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Chemistry",
+      "Solar System"
+    ],
+    "category_ids": [
+      12,
+      1
+    ],
+    "categories_ru": [
+      "Химия",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      61,
+      62,
+      64
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Comet Nucleus",
+      "body": "A comet nucleus is the core of a comet. This is a solid object, similar to a dirty snowball, made with ice and rocky, dusty particles. Far from the Sun the nucleus is the sole component of the comet. Closer to the Sun a comet's nucleus is heated due to sunlight. This causes the surface ice to sublimate. The sublimated ice and the dust embedded in it are ejected and surround the nucleus as a coma with a tail pointing away from the Sun.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Cometary Coma",
+          "url": "https://www.astro4edu.org/resources/glossary/term/61/",
+          "text_ru": "Кометная кома"
+        },
+        {
+          "text": "Comet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/62/",
+          "text_ru": "Комета"
+        },
+        {
+          "text": "Cometary Tail",
+          "url": "https://www.astro4edu.org/resources/glossary/term/64/",
+          "text_ru": "Хвост кометы"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Comet Nucleus</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A comet nucleus is the core of a comet. This is a solid object, similar to a dirty snowball, made with ice and rocky, dusty particles. Far from the Sun the nucleus is the sole component of the comet. Closer to the Sun a comet's nucleus is heated due to sunlight. This causes the surface ice to sublimate. The sublimated ice and the dust embedded in it are ejected and surround the nucleus as a coma with a tail pointing away from the Sun.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/61/\">Cometary Coma</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/62/\">Comet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/64/\">Cometary Tail</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Ядро кометы",
+      "body_ru": "Ядро кометы — это её центральная часть. Это твёрдый объект, похожий на грязный снежок, состоящий из льда и каменистых, пылевых частиц. Вдали от Солнца ядро является единственным компонентом кометы. Ближе к Солнцу ядро кометы нагревается под действием солнечного света. Это вызывает сублимацию поверхностного льда. Сублимировавшийся лёд и вкраплённая в него пыль выбрасываются и окружают ядро в виде комы с хвостом, направленным в сторону от Солнца."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/63/\">نواة المذنب </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/63/\">Kometenkern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/63/\">Núcleo del cometa </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/63/\">Noyau de la comète </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/63/\">Nucleo della cometa </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/63/\">혜성핵 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/63/\">Núcleo cometário </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/63/\">彗核 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/63/\">彗核 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/O360wl148g93/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2015/02/Comet_on_31_January_2015_NavCam",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-SA-3.0-IGO",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+          "text_ru": "CC-BY-SA-3.0-IGO"
+        },
+        {
+          "text": "Creative Commons Attribution-ShareAlike 3.0 IGO icons",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-ShareAlike 3.0 IGO"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/RH74j957he19/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://images.nasa.gov/details/PIA17485",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:O360wl148g93",
+        "media:RH74j957he19"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/O360wl148g93/\"><img alt=\"This comet nucleus looks like two large, bumpy lumps joined together. A small jet of material is being blown off the nucleus\" src=\"/media/multimedia/thumbnails/Comet_67P_on_19_September_2014_NavCam_mosaic_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Comet 67P/Churyumov-Gerasimenko</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Comet 67P/Churyumov–Gerasimenko's nucleus is a \"dirty snowball\" made of a mixture of frozen materials and dust. It is shaped like two large lobes: one 4.1 km × 3.3 km × 1.8 km, the other 2.6 km × 2.3 km × 1.8 km. These lobes are connected by a small bridge. When a cometary nucleus such as this nears the Sun its frozen, icy material is heated, turning into gas. This, combined with the embedded dust, provide the material for the comet's characteristic coma and tail.<br/>\n<b>Credit:</b> ESA/Rosetta/NAVCAM\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Images/2015/02/Comet_on_31_January_2015_NavCam\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en\" rel=\"license\">CC-BY-SA-3.0-IGO</a> <a href=\"https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-sa\"></i><span class=\"sr-only\">Creative Commons Attribution-ShareAlike 3.0 IGO icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/RH74j957he19/\"><img alt=\"The irregular, icy nucleus of Halley’s Comet surrounded by a fuzzy coma, taken by the Giotto spacecraft during its 1986 flyby\" src=\"/media/multimedia/thumbnails/an-encounter-with-halleys-comet_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">An Encounter With Halley's Comet</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the solid core, or nucleus, of Halley’s Comet, captured in 1986 by the European Space Agency spacecraft Giotto during its flyby of the comet in the inner Solar System. The nucleus appears irregular and potato-shaped, measuring roughly 15 kilometers (about 9 miles) across, and is composed of a mixture of ice, dust, and rock. Unlike the glowing fuzzy cloud (coma) and long tail that make comets visible from Earth, the nucleus itself is dark and difficult to see until a spacecraft passes close enough to take detailed images.\n\nHalley’s Comet is one of the best-known comets because it returns to the inner Solar System approximately every 76 years, allowing generations of astronomers to observe it repeatedly. The material that is released from the nucleus as the comet warms near the Sun forms a glowing coma and long tails of gas and dust, and over many returns leaves trails of debris that produce meteor showers on Earth, such as the Eta Aquarids in May  and the Orionids in October.<br/>\n<b>Credit:</b> NASA/ESA/Giotto Project\n\t  <a href=\"https://images.nasa.gov/details/PIA17485\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Comet Nucleus",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Comet Nucleus",
+          "body": "A comet nucleus is the core of a comet. This is a solid object, similar to a dirty snowball, made with ice and rocky, dusty particles. Far from the Sun the nucleus is the sole component of the comet. Closer to the Sun a comet's nucleus is heated due to sunlight. This causes the surface ice to sublimate. The sublimated ice and the dust embedded in it are ejected and surround the nucleus as a coma with a tail pointing away from the Sun."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Ядро кометы",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Ядро кометы",
+          "body": "Ядро кометы — это её центральная часть. Это твёрдый объект, похожий на грязный снежок, состоящий из льда и каменистых, пылевых частиц. Вдали от Солнца ядро является единственным компонентом кометы. Ближе к Солнцу ядро кометы нагревается под действием солнечного света. Это вызывает сублимацию поверхностного льда. Сублимировавшийся лёд и вкраплённая в него пыль выбрасываются и окружают ядро в виде комы с хвостом, направленным в сторону от Солнца."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:O360wl148g93",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg",
+      "record_url": "https://astro4edu.org/resources/media/O360wl148g93/",
+      "original_path": "data/media/original/media_O360wl148g93.jpg",
+      "ru_path": null,
+      "sha256": "67faa42c687ff634027d2c2c2be5e016ef2e40b55e7e158a74e52a5f3ec2ebbe",
+      "size": 4746651,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Comet 67P/Churyumov–Gerasimenko's imaged by ESA's Rosetta probe",
+      "short_caption_ru": "Комета 67P/Чурюмова–Герасименко, снятая аппаратом ESA «Розетта»",
+      "caption_en": "Comet 67P/Churyumov–Gerasimenko's nucleus is a \"dirty snowball\" made of a mixture of frozen materials and dust. It is shaped like two large lobes: one 4.1 km × 3.3 km × 1.8 km, the other 2.6 km × 2.3 km × 1.8 km. These lobes are connected by a small bridge. When a cometary nucleus such as this nears the Sun its frozen, icy material is heated, turning into gas. This, combined with the embedded dust, provide the material for the comet's characteristic coma and tail.",
+      "caption_ru": "Ядро кометы 67P/Чурюмова–Герасименко представляет собой «грязный снежок», состоящий из смеси замёрзших веществ и пыли. Оно имеет форму двух крупных долей: одна 4.1 km × 3.3 km × 1.8 km, другая 2.6 km × 2.3 km × 1.8 km. Эти доли соединены небольшим перешейком. Когда такое кометное ядро приближается к Солнцу, его замёрзшее, ледяное вещество нагревается и превращается в газ. Это вместе с вкраплённой пылью обеспечивает материал для характерных комы и хвоста кометы.",
+      "alt_en": "This comet nucleus looks like two large, bumpy lumps joined together. A small jet of material is being blown off the nucleus",
+      "alt_ru": "Это ядро кометы выглядит как два крупных бугристых комка, соединённых вместе. Небольшая струя вещества выбрасывается из ядра",
+      "credit": "ESA/Rosetta/NAVCAM",
+      "credit_url": "https://www.esa.int/ESA_Multimedia/Images/2015/02/Comet_on_31_January_2015_NavCam",
+      "license": "CC-BY-SA-3.0-IGO",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "term_numbers": [
+        62,
+        63
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:RH74j957he19",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/an-encounter-with-halleys-comet.png",
+      "record_url": "https://astro4edu.org/resources/media/RH74j957he19/",
+      "original_path": "data/media/original/media_RH74j957he19.png",
+      "ru_path": null,
+      "sha256": "974403ebe838a2ec653c5972d3fb317f3d739c37f7d1672be2aea9e4b2baefee",
+      "size": 1450320,
+      "title_en": "An Encounter With Halley's Comet",
+      "title_ru": "Встреча с кометой Галлея",
+      "short_caption_en": "An Encounter With Halley's Comet",
+      "short_caption_ru": "Встреча с кометой Галлея",
+      "caption_en": "This image shows the solid core, or nucleus, of Halley’s Comet, captured in 1986 by the European Space Agency spacecraft Giotto during its flyby of the comet in the inner Solar System. The nucleus appears irregular and potato-shaped, measuring roughly 15 kilometers (about 9 miles) across, and is composed of a mixture of ice, dust, and rock. Unlike the glowing fuzzy cloud (coma) and long tail that make comets visible from Earth, the nucleus itself is dark and difficult to see until a spacecraft passes close enough to take detailed images.\r\n\r\nHalley’s Comet is one of the best-known comets because it returns to the inner Solar System approximately every 76 years, allowing generations of astronomers to observe it repeatedly. The material that is released from the nucleus as the comet warms near the Sun forms a glowing coma and long tails of gas and dust, and over many returns leaves trails of debris that produce meteor showers on Earth, such as the Eta Aquarids in May  and the Orionids in October.",
+      "caption_ru": "На этом изображении показано твёрдое ядро кометы Галлея, запечатлённое в 1986 европейским космическим аппаратом «Джотто» во время его пролёта мимо кометы во внутренней Солнечной системе. Ядро выглядит неправильным, картофелеобразным, размером примерно 15 километров (около 9 миль) в поперечнике и состоит из смеси льда, пыли и камня. В отличие от светящегося размытого облака (комы) и длинного хвоста, которые делают кометы видимыми с Земли, само ядро тёмное и его трудно увидеть, пока космический аппарат не подлетит достаточно близко, чтобы сделать детальные снимки.\r\n\r\nКомета Галлея — одна из самых известных комет, потому что она возвращается во внутреннюю Солнечную систему примерно каждые 76 лет, что позволяет поколениям астрономов наблюдать её неоднократно. Вещество, высвобождаемое из ядра при нагревании кометы вблизи Солнца, образует светящуюся кому и длинные хвосты из газа и пыли, а за многие возвращения оставляет следы обломков, которые вызывают на Земле метеорные потоки, такие как эта-Аквариды в мае и Ориониды в октябре.",
+      "alt_en": "The irregular, icy nucleus of Halley’s Comet surrounded by a fuzzy coma, taken by the Giotto spacecraft during its 1986 flyby",
+      "alt_ru": "Неправильной формы ледяное ядро кометы Галлея в окружении размытой комы, снятое космическим аппаратом «Джотто» во время его пролёта в 1986 году",
+      "credit": "NASA/ESA/Giotto Project",
+      "credit_url": "https://images.nasa.gov/details/PIA17485",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        61,
+        62,
+        63,
+        140
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

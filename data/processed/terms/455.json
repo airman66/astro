@@ -1,0 +1,135 @@
+{
+  "id": "term:455",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 455,
+    "url": "https://astro4edu.org/resources/glossary/term/455/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=455",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:34.437354+00:00",
+    "sha256": "a0434afad3dd4253f96c7f2c25a85a8207ea4cd7b4bd9e44f305856449123fe8"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      95,
+      128,
+      160,
+      184,
+      315,
+      441
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Magnetic Field",
+      "body": "Electric currents produce a surrounding zone of influence called a magnetic field. In turn, electrically charged particles moving through a magnetic field will experience a force unless they are travelling parallel to the field. In astronomy, there are many situations where matter is ionized, its atoms split into charged particles (for hydrogen, protons, and electrons). The resulting plasma can produce, and interact with, magnetic fields. In the interior of stars, moving plasma streams create a magnetic field through what is known as the dynamo effect. Near the star's surface, that magnetic field can lead to stellar activity, such as star spots or flares. A star's magnetic field can cause spots or flares at the stellar surface, and streams of charged particles known as stellar winds flow outward from the star along magnetic field lines. In the case of the Sun, some of the charged particles that constitute the solar wind reach Earth, where they are deflected by Earth's magnetic field towards Earth's North and South Poles. Where these particles make Earth's atmosphere glow, they produce the aurorae. There are a variety of additional astrophysical situations where magnetic fields play important roles, from the ultra-strong magnetic fields of neutron stars or in the vicinity of black holes, to interstellar magnetic fields that influence the large-scale motion of gas and plasma in a galaxy.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Electromagnetic Force",
+          "url": "https://www.astro4edu.org/resources/glossary/term/95/",
+          "text_ru": "Электромагнитная сила"
+        },
+        {
+          "text": "Geomagnetic Storm",
+          "url": "https://www.astro4edu.org/resources/glossary/term/128/",
+          "text_ru": "Геомагнитная буря"
+        },
+        {
+          "text": "Ionization",
+          "url": "https://www.astro4edu.org/resources/glossary/term/160/",
+          "text_ru": "Ионизация"
+        },
+        {
+          "text": "Magnetic Poles",
+          "url": "https://www.astro4edu.org/resources/glossary/term/184/",
+          "text_ru": "Магнитные полюса"
+        },
+        {
+          "text": "Solar Wind",
+          "url": "https://www.astro4edu.org/resources/glossary/term/315/",
+          "text_ru": "Солнечный ветер"
+        },
+        {
+          "text": "Electron",
+          "url": "https://www.astro4edu.org/resources/glossary/term/441/",
+          "text_ru": "Электрон"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Magnetic Field</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Electric currents produce a surrounding zone of influence called a magnetic field. In turn, electrically charged particles moving through a magnetic field will experience a force unless they are travelling parallel to the field. <br/><br/>In astronomy, there are many situations where matter is ionized, its atoms split into charged particles (for hydrogen, protons, and electrons). The resulting plasma can produce, and interact with, magnetic fields. <br/><br/>In the interior of stars, moving plasma streams create a magnetic field through what is known as the dynamo effect. Near the star's surface, that magnetic field can lead to stellar activity, such as star spots or flares. A star's magnetic field can cause spots or flares at the stellar surface, and streams of charged particles known as stellar winds flow outward from the star along magnetic field lines. In the case of the Sun, some of the charged particles that constitute the solar wind reach Earth, where they are deflected by Earth's magnetic field towards Earth's North and South Poles. Where these particles make Earth's atmosphere glow, they produce the aurorae. <br/><br/>There are a variety of additional astrophysical situations where magnetic fields play important roles, from the ultra-strong magnetic fields of neutron stars or in the vicinity of black holes, to interstellar magnetic fields that influence the large-scale motion of gas and plasma in a galaxy.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/95/\">Electromagnetic Force</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/128/\">Geomagnetic Storm</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/160/\">Ionization</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/184/\">Magnetic Poles</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/315/\">Solar Wind</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/441/\">Electron</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Магнитное поле",
+      "body_ru": "Электрические токи создают вокруг себя зону влияния, называемую магнитным полем. В свою очередь, электрически заряженные частицы, движущиеся через магнитное поле, испытывают силу, если только они не движутся параллельно полю. В астрономии существует множество ситуаций, когда вещество ионизировано, а его атомы разделены на заряженные частицы (для водорода — протоны и электроны). Образующаяся плазма может создавать магнитные поля и взаимодействовать с ними. Внутри звёзд движущиеся потоки плазмы создают магнитное поле за счёт так называемого динамо-эффекта. Вблизи поверхности звезды это магнитное поле может приводить к звёздной активности, такой как звёздные пятна или вспышки. Магнитное поле звезды может вызывать пятна или вспышки на звёздной поверхности, а потоки заряженных частиц, известные как звёздные ветры, истекают от звезды вдоль линий магнитного поля. В случае Солнца некоторые из заряженных частиц, составляющих солнечный ветер, достигают Земли, где они отклоняются магнитным полем Земли к Северному и Южному полюсам. Там, где эти частицы заставляют атмосферу Земли светиться, они создают полярные сияния. Существует множество дополнительных астрофизических ситуаций, где магнитные поля играют важную роль — от сверхсильных магнитных полей нейтронных звёзд или в окрестностях чёрных дыр до межзвёздных магнитных полей, которые влияют на крупномасштабное движение газа и плазмы в галактике."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/455/\">المجال المغناطيسي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/455/\">Magnetfeld </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/455/\">Campo magnético </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/455/\">Champ magnétique </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/455/\">चुंबकीय क्षेत्र </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/455/\">campo magnetico </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/455/\">चुंबकीय क्षेत्र </a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/455/\">चुम्बकीय क्षेत्र </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/455/\">Campo magnético </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/455/\">磁场 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/455/\">磁場 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Magnetic Field",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Magnetic Field",
+          "body": "Electric currents produce a surrounding zone of influence called a magnetic field. In turn, electrically charged particles moving through a magnetic field will experience a force unless they are travelling parallel to the field. In astronomy, there are many situations where matter is ionized, its atoms split into charged particles (for hydrogen, protons, and electrons). The resulting plasma can produce, and interact with, magnetic fields. In the interior of stars, moving plasma streams create a magnetic field through what is known as the dynamo effect. Near the star's surface, that magnetic field can lead to stellar activity, such as star spots or flares. A star's magnetic field can cause spots or flares at the stellar surface, and streams of charged particles known as stellar winds flow outward from the star along magnetic field lines. In the case of the Sun, some of the charged particles that constitute the solar wind reach Earth, where they are deflected by Earth's magnetic field towards Earth's North and South Poles. Where these particles make Earth's atmosphere glow, they produce the aurorae. There are a variety of additional astrophysical situations where magnetic fields play important roles, from the ultra-strong magnetic fields of neutron stars or in the vicinity of black holes, to interstellar magnetic fields that influence the large-scale motion of gas and plasma in a galaxy."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Магнитное поле",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Магнитное поле",
+          "body": "Электрические токи создают вокруг себя зону влияния, называемую магнитным полем. В свою очередь, электрически заряженные частицы, движущиеся через магнитное поле, испытывают силу, если только они не движутся параллельно полю. В астрономии существует множество ситуаций, когда вещество ионизировано, а его атомы разделены на заряженные частицы (для водорода — протоны и электроны). Образующаяся плазма может создавать магнитные поля и взаимодействовать с ними. Внутри звёзд движущиеся потоки плазмы создают магнитное поле за счёт так называемого динамо-эффекта. Вблизи поверхности звезды это магнитное поле может приводить к звёздной активности, такой как звёздные пятна или вспышки. Магнитное поле звезды может вызывать пятна или вспышки на звёздной поверхности, а потоки заряженных частиц, известные как звёздные ветры, истекают от звезды вдоль линий магнитного поля. В случае Солнца некоторые из заряженных частиц, составляющих солнечный ветер, достигают Земли, где они отклоняются магнитным полем Земли к Северному и Южному полюсам. Там, где эти частицы заставляют атмосферу Земли светиться, они создают полярные сияния. Существует множество дополнительных астрофизических ситуаций, где магнитные поля играют важную роль — от сверхсильных магнитных полей нейтронных звёзд или в окрестностях чёрных дыр до межзвёздных магнитных полей, которые влияют на крупномасштабное движение газа и плазмы в галактике."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

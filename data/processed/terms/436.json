@@ -1,0 +1,159 @@
+{
+  "id": "term:436",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 436,
+    "url": "https://astro4edu.org/resources/glossary/term/436/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=436",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:27.855692+00:00",
+    "sha256": "06fa606b30854c23149ba6d276dc03ae944401080233259479f362ea2bb12a52"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      305,
+      342,
+      462,
+      491
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Day",
+      "body": "In English as well as in numerous other languages, \"day\" has multiple meanings. \"Day\" in the sense of \"daytime\" describes the time when the Sun provides us with natural light, followed by the night when the Sun has set, and it is dark.  A day by this definition is shorter in the winter and longer in the summer in the northern hemisphere, while the opposite holds for the southern hemisphere. In the far north or the far south, there is a time of year where the Sun does not set at all – directly at the poles, the Sun is up for six months without setting! \"Day\" is also the name of the 24-hour unit of time we use in the calendar. Astronomically speaking, the time from one local noon to the next – that is, from the day's highest position of the Sun above the horizon from one day to the next – is called an apparent solar day. The length of local days varies depending on the time of year, owing to the facts that (a) Earth's orbit is elliptical (with Earth moving faster when it is closer to the Sun), and that (b) the apparent trajectory of the Sun in the sky is at different angles relative to Earth's equator. For practical purposes, timekeeping instead uses the average length of apparent solar days, which are called mean solar days. The associated time at 24 hours per day is called mean solar time. A sidereal day is based on the \"fixed\" background stars on the celestial sphere. It is the period between the time a \"fixed\" star reaches its highest point in the sky to the next time it reaches its highest point in the sky. One sidereal day lasts approximately 23 hours 56 minutes and 4 seconds. The discrepancy between this and an apparent solar day (24 hours) is caused by the Sun's apparent motion relative to the \"fixed\" background stars.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Sky",
+          "url": "https://www.astro4edu.org/resources/glossary/term/305/",
+          "text_ru": "Небо"
+        },
+        {
+          "text": "Sun",
+          "url": "https://www.astro4edu.org/resources/glossary/term/342/",
+          "text_ru": "Солнце"
+        },
+        {
+          "text": "Night",
+          "url": "https://www.astro4edu.org/resources/glossary/term/462/",
+          "text_ru": "Ночь"
+        },
+        {
+          "text": "Polar Day",
+          "url": "https://www.astro4edu.org/resources/glossary/term/491/",
+          "text_ru": "Полярный день"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Day</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In English as well as in numerous other languages, \"day\" has multiple meanings. \"Day\" in the sense of \"daytime\" describes the time when the Sun provides us with natural light, followed by the night when the Sun has set, and it is dark.  A day by this definition is shorter in the winter and longer in the summer in the northern hemisphere, while the opposite holds for the southern hemisphere. In the far north or the far south, there is a time of year where the Sun does not set at all – directly at the poles, the Sun is up for six months without setting! <br/><br/>\"Day\" is also the name of the 24-hour unit of time we use in the calendar. Astronomically speaking, the time from one local noon to the next – that is, from the day's highest position of the Sun above the horizon from one day to the next – is called an apparent solar day. The length of local days varies depending on the time of year, owing to the facts that (a) Earth's orbit is elliptical (with Earth moving faster when it is closer to the Sun), and that (b) the apparent trajectory of the Sun in the sky is at different angles relative to Earth's equator. For practical purposes, timekeeping instead uses the average length of apparent solar days, which are called mean solar days. The associated time at 24 hours per day is called mean solar time. <br/><br/>A sidereal day is based on the \"fixed\" background stars on the celestial sphere. It is the period between the time a \"fixed\" star reaches its highest point in the sky to the next time it reaches its highest point in the sky. One sidereal day lasts approximately 23 hours 56 minutes and 4 seconds. The discrepancy between this and an apparent solar day (24 hours) is caused by the Sun's apparent motion relative to the \"fixed\" background stars.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/305/\">Sky</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/342/\">Sun</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/462/\">Night</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/491/\">Polar Day</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: День",
+      "body_ru": "Как на английском, так и на многих других языках слово «день» имеет несколько значений. «День» в смысле «дневное время» описывает время, когда Солнце даёт нам естественный свет, за которым следует ночь, когда Солнце зашло и темно. День по этому определению короче зимой и длиннее летом в северном полушарии, а в южном полушарии — наоборот. На крайнем севере или крайнем юге есть время года, когда Солнце вообще не заходит — прямо на полюсах Солнце не заходит в течение шести месяцев! «День» также является названием единицы времени в 24 часа, которую мы используем в календаре. С астрономической точки зрения время от одного местного полудня до следующего — то есть от наивысшего положения Солнца над горизонтом одного дня до следующего — называется истинным солнечным днём. Длина местных дней меняется в зависимости от времени года из-за того, что (а) орбита Земли эллиптическая (Земля движется быстрее, когда она ближе к Солнцу), и (б) видимая траектория Солнца на небе находится под разными углами относительно экватора Земли. Для практических целей измерение времени вместо этого использует среднюю длину истинных солнечных дней, которые называются средними солнечными днями. Соответствующее время при 24 часах в день называется средним солнечным временем. Звёздный день основан на «неподвижных» фоновых звёздах на небесной сфере. Это период между моментом, когда «неподвижная» звезда достигает своей наивысшей точки на небе, и следующим моментом, когда она достигает своей наивысшей точки на небе. Один звёздный день длится примерно 23 часа 56 минут и 4 секунды. Расхождение между этим и истинным солнечным днём (24 часа) вызвано видимым движением Солнца относительно «неподвижных» фоновых звёзд."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/436/\">اليوم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/436/\">Tag </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/436/\">Día </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/436/\">Jour </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/436/\">Giorno </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/436/\">일 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/436/\">Dia </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/436/\">日 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/436/\">日 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Why Do We Have Day and Night? astroEDU educational activity (links to astroEDU website) Description: Explore day and night of Earth. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Tilt Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Simulation focussed \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/why-do-we-have-day-and-night/\"><img alt=\"Why Do We Have Day and Night?\" src=\"/media/astroedu/images/why-do-we-have-day-and-night_en_thumbnail_VRV2OQ4.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/why-do-we-have-day-and-night/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Why Do We Have Day and Night?</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore day and night of Earth.\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Tilt \n  \n  \n\n  <b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Simulation focussed \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Почему у нас есть день и ночь? Образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте день и ночь Земли. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Наклон Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальное \n  \n, Среднее Области обучения: Моделирование \n  \n, С акцентом на моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Day",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Day",
+          "body": "In English as well as in numerous other languages, \"day\" has multiple meanings. \"Day\" in the sense of \"daytime\" describes the time when the Sun provides us with natural light, followed by the night when the Sun has set, and it is dark.  A day by this definition is shorter in the winter and longer in the summer in the northern hemisphere, while the opposite holds for the southern hemisphere. In the far north or the far south, there is a time of year where the Sun does not set at all – directly at the poles, the Sun is up for six months without setting! \"Day\" is also the name of the 24-hour unit of time we use in the calendar. Astronomically speaking, the time from one local noon to the next – that is, from the day's highest position of the Sun above the horizon from one day to the next – is called an apparent solar day. The length of local days varies depending on the time of year, owing to the facts that (a) Earth's orbit is elliptical (with Earth moving faster when it is closer to the Sun), and that (b) the apparent trajectory of the Sun in the sky is at different angles relative to Earth's equator. For practical purposes, timekeeping instead uses the average length of apparent solar days, which are called mean solar days. The associated time at 24 hours per day is called mean solar time. A sidereal day is based on the \"fixed\" background stars on the celestial sphere. It is the period between the time a \"fixed\" star reaches its highest point in the sky to the next time it reaches its highest point in the sky. One sidereal day lasts approximately 23 hours 56 minutes and 4 seconds. The discrepancy between this and an apparent solar day (24 hours) is caused by the Sun's apparent motion relative to the \"fixed\" background stars."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Why Do We Have Day and Night? astroEDU educational activity (links to astroEDU website) Description: Explore day and night of Earth. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Tilt Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Simulation focussed \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information"
+        }
+      }
+    },
+    "ru": {
+      "title": "День",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: День",
+          "body": "Как на английском, так и на многих других языках слово «день» имеет несколько значений. «День» в смысле «дневное время» описывает время, когда Солнце даёт нам естественный свет, за которым следует ночь, когда Солнце зашло и темно. День по этому определению короче зимой и длиннее летом в северном полушарии, а в южном полушарии — наоборот. На крайнем севере или крайнем юге есть время года, когда Солнце вообще не заходит — прямо на полюсах Солнце не заходит в течение шести месяцев! «День» также является названием единицы времени в 24 часа, которую мы используем в календаре. С астрономической точки зрения время от одного местного полудня до следующего — то есть от наивысшего положения Солнца над горизонтом одного дня до следующего — называется истинным солнечным днём. Длина местных дней меняется в зависимости от времени года из-за того, что (а) орбита Земли эллиптическая (Земля движется быстрее, когда она ближе к Солнцу), и (б) видимая траектория Солнца на небе находится под разными углами относительно экватора Земли. Для практических целей измерение времени вместо этого использует среднюю длину истинных солнечных дней, которые называются средними солнечными днями. Соответствующее время при 24 часах в день называется средним солнечным временем. Звёздный день основан на «неподвижных» фоновых звёздах на небесной сфере. Это период между моментом, когда «неподвижная» звезда достигает своей наивысшей точки на небе, и следующим моментом, когда она достигает своей наивысшей точки на небе. Один звёздный день длится примерно 23 часа 56 минут и 4 секунды. Расхождение между этим и истинным солнечным днём (24 часа) вызвано видимым движением Солнца относительно «неподвижных» фоновых звёзд."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Почему у нас есть день и ночь? Образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте день и ночь Земли. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Наклон Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальное \n  \n, Среднее Области обучения: Моделирование \n  \n, С акцентом на моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

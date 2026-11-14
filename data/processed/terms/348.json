@@ -1,0 +1,361 @@
+{
+  "id": "term:348",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 348,
+    "url": "https://astro4edu.org/resources/glossary/term/348/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=348",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:58.698650+00:00",
+    "sha256": "def19a560e061679602556085d23954fcfd714f937648d56d6bff361d6166b05"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies",
+      "Milky Way and Interstellar Medium"
+    ],
+    "category_ids": [
+      8,
+      7
+    ],
+    "categories_ru": [
+      "Галактики",
+      "Млечный Путь и межзвёздная среда"
+    ],
+    "related_term_numbers": [
+      43,
+      116,
+      119,
+      199,
+      273,
+      292
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Supermassive Black Hole",
+      "body": "As the term suggests supermassive black holes (SMBH) are the largest class of black holes, with masses ranging from millions to billions of times the mass of the Sun. Observational data suggests that all large galaxies seem to harbor a SMBH at their center. The Milky Way has a SMBH known as Sagittarius A* with a mass of around 4.5 million times that of the Sun, and a diameter of around 40 million kilometers. The large amount of mass in a small volume leads to black holes having immense gravitational fields (deep gravitational potential wells). Since 2019, scientists have used data from a network of radio telescopes located around the world to build an image of the event horizons around SMBHs. As of early 2023 two SMBHs have been imaged in this way: Sagittarius A* and the SMBH (6.5 billion times more massive than the Sun) at the center of the galaxy M87, located just over 50 million light years away.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Black Hole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/43/",
+          "text_ru": "Чёрная дыра"
+        },
+        {
+          "text": "Galactic Center",
+          "url": "https://www.astro4edu.org/resources/glossary/term/116/",
+          "text_ru": "Галактический центр"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Milky Way",
+          "url": "https://www.astro4edu.org/resources/glossary/term/199/",
+          "text_ru": "Млечный Путь"
+        },
+        {
+          "text": "Radio Telescope",
+          "url": "https://www.astro4edu.org/resources/glossary/term/273/",
+          "text_ru": "Радиотелескоп"
+        },
+        {
+          "text": "Sagittarius A*",
+          "url": "https://www.astro4edu.org/resources/glossary/term/292/",
+          "text_ru": "Стрелец A*"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Supermassive Black Hole</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> As the term suggests supermassive black holes (SMBH) are the largest class of black holes, with masses ranging from millions to billions of times the mass of the Sun. Observational data suggests that all large galaxies seem to harbor a SMBH at their center. The Milky Way has a SMBH known as Sagittarius A* with a mass of around 4.5 million times that of the Sun, and a diameter of around 40 million kilometers. The large amount of mass in a small volume leads to black holes having immense gravitational fields (deep gravitational potential wells). Since 2019, scientists have used data from a network of radio telescopes located around the world to build an image of the event horizons around SMBHs. As of early 2023 two SMBHs have been imaged in this way: Sagittarius A* and the SMBH (6.5 billion times more massive than the Sun) at the center of the galaxy M87, located just over 50 million light years away.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/43/\">Black Hole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/116/\">Galactic Center</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/199/\">Milky Way</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/273/\">Radio Telescope</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/292/\">Sagittarius A*</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Сверхмассивная чёрная дыра",
+      "body_ru": "Как следует из названия, сверхмассивные чёрные дыры (СМЧД) — это самый крупный класс чёрных дыр с массами от миллионов до миллиардов масс Солнца. Наблюдательные данные показывают, что все крупные галактики, по-видимому, содержат СМЧД в своём центре. В Млечном Пути есть СМЧД, известная как Стрелец A*, с массой около 4.5 миллионов масс Солнца и диаметром около 40 миллионов километров. Большое количество массы в малом объёме приводит к тому, что чёрные дыры обладают огромными гравитационными полями (глубокими гравитационными потенциальными ямами). С 2019 учёные используют данные сети радиотелескопов, расположенных по всему миру, для построения изображения горизонтов событий вокруг СМЧД. По состоянию на начало 2023 таким способом были получены изображения двух СМЧД: Стрельца A* и СМЧД (в 6.5 миллиарда раз массивнее Солнца) в центре галактики M87, расположенной чуть более чем в 50 миллионах световых лет от нас."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/348/\">ثقب أسود فائق الكتلة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/348/\">Supermassereiches Schwarzes Loch </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/348/\">Agujero negro supermasivo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/348/\">Trou noir supermassif </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/348/\">Buco nero supermassiccio </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/348/\">Buraco negro supermassivo </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/348/\">超大质量黑洞 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/348/\">超大質量黑洞 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/WI62fu45DB47/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/potw1634a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:WI62fu45DB47"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/WI62fu45DB47/\"><img alt=\"The central part of this galaxy is a fuzzy straight line with spiral arms extending from each end of that line.\" src=\"/media/multimedia/thumbnails/hubble-image-of-barred-spiral-galaxy-ugc-6093_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hubble Image of Barred Spiral Galaxy UGC 6093</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image from the Hubble Space Telescope shows the barred spiral galaxy UGC 6093. This galaxy has two spiral arms in its outer regions but the inner edge of each arm joins with the outer edge of a straight bar feature that goes across the galaxy's center. \n\nThis galaxy has been classified as an active galaxy due to the emissions of certain lines in its spectrum. This indicates that the supermassive black hole that lies in the center of the galaxy is accreting gas from its surroundings. Unlike some active galactic nuclei (AGN), the center of this galaxy does not shine especially brightly in the visible light so its status as an AGN is not immediately visible from this image.<br/>\n<b>Credit:</b> ESA/Hubble &amp; NASA\n\t  <a href=\"https://esahubble.org/images/potw1634a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Ju53nC20Lt23/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/aT839V20hT52/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:Ju53nC20Lt23",
+        "diagram:aT839V20hT52"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Ju53nC20Lt23/\"><img alt=\"Sagittarius is shaped like a teapot pouring tea south west. The ecliptic runs WSW to ENE at the top of the constellation\" src=\"/media/diagrams/multimedia/thumbnails/sagittarius-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sagittarius Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Sagittarius along with its bright stars and surrounding constellations. Sagittarius is surrounded by (going clockwise from the top) Aquila, Scutum, Serpens Cauda, Ophiuchus, Scorpius, Corona Australis, Telescopium, Microscopium and Capricornus. The brighter stars in Sagittarius form a distinctive teapot shape. Sagittarius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Sagittarius from mid December to mid January. The other planets of the Solar System can often be found in Sagittarius.\n\nSagittarius lies south of the celestial equator. The famous teapot asterism is visible for all but the most arctic regions of the world but the most southerly parts of the constellation are not visible in northern parts of Asia, Europe and North America. Sagittarius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \n\nThe supermassive black hole Sagittarius A* which lies at the center of our Milky Way Galaxy is sits on the western (here right-hand) edge of  Sagittarius. Due to it covering an area at the center of our Galaxy, Sagittarius is home to many star clusters including open clusters (marked here with yellow circles) and globular clusters (marked here with yellow circles with + signs superimposed on them). Three nebulae are also marked here with green squares. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/aT839V20hT52/\"><img alt=\"The constellation Virgo appears as a person lying with their back roughly against the diagonal ecliptic, arms outstretched, and feet pointed east.\" src=\"/media/diagrams/multimedia/thumbnails/virgo-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Virgo Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The zodiac constellation Virgo and its surrounding constellations. Starting from the top of the diagram and going clockwise, these are Coma Berenices, Leo, Crater, Corvus, Libra, and Bootes. The brightest star in Virgo, Spica, lies just below the ecliptic (shown here as a blue line) in the middle of the map. One way of locating this star in the night sky is to follow the handle of the Big Dipper to the star Arcturus in Bootes and go along a line straight down to Spica (“arc to Arcturus and spike to Spica”). This star lies just below the ecliptic. The ecliptic is the path the Sun appears to take across the sky over the course of a year. The Sun is in Virgo from mid September to late October. The other planets of the Solar System can often be found in Virgo. \n\nVirgo spans the celestial equator and is thus part of it is visible at some time in the year from all of planet Earth with some of the constellation obscured for the most arctic and antarctic regions of the world. Virgo is most visible in the evenings in the northern hemisphere spring and southern hemisphere autumn. \n\nThe constellation Virgo appears as a person lying with their back roughly against the ecliptic, arms outstretched, and feet pointed east. Several deep-sky objects are visible in Virgo, including NGC4697, M49, M87, M86, M84, and M60, all of which are labelled as red ellipses on the map. These are all spiral and elliptical galaxies located several millions of lightyears from Earth. Most notably, M87 is host to the supermassive black hole (Pōwehi) that was imaged by the Event Horizon Telescope in 2019. All of these galaxies are members of the Virgo Cluster, the nearest cluster of galaxies to the Milky Way.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labelled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Supermassive Black Hole",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Supermassive Black Hole",
+          "body": "As the term suggests supermassive black holes (SMBH) are the largest class of black holes, with masses ranging from millions to billions of times the mass of the Sun. Observational data suggests that all large galaxies seem to harbor a SMBH at their center. The Milky Way has a SMBH known as Sagittarius A* with a mass of around 4.5 million times that of the Sun, and a diameter of around 40 million kilometers. The large amount of mass in a small volume leads to black holes having immense gravitational fields (deep gravitational potential wells). Since 2019, scientists have used data from a network of radio telescopes located around the world to build an image of the event horizons around SMBHs. As of early 2023 two SMBHs have been imaged in this way: Sagittarius A* and the SMBH (6.5 billion times more massive than the Sun) at the center of the galaxy M87, located just over 50 million light years away."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Сверхмассивная чёрная дыра",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Сверхмассивная чёрная дыра",
+          "body": "Как следует из названия, сверхмассивные чёрные дыры (СМЧД) — это самый крупный класс чёрных дыр с массами от миллионов до миллиардов масс Солнца. Наблюдательные данные показывают, что все крупные галактики, по-видимому, содержат СМЧД в своём центре. В Млечном Пути есть СМЧД, известная как Стрелец A*, с массой около 4.5 миллионов масс Солнца и диаметром около 40 миллионов километров. Большое количество массы в малом объёме приводит к тому, что чёрные дыры обладают огромными гравитационными полями (глубокими гравитационными потенциальными ямами). С 2019 учёные используют данные сети радиотелескопов, расположенных по всему миру, для построения изображения горизонтов событий вокруг СМЧД. По состоянию на начало 2023 таким способом были получены изображения двух СМЧД: Стрельца A* и СМЧД (в 6.5 миллиарда раз массивнее Солнца) в центре галактики M87, расположенной чуть более чем в 50 миллионах световых лет от нас."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:WI62fu45DB47",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/hubble-image-of-barred-spiral-galaxy-ugc-6093.png",
+      "record_url": "https://astro4edu.org/resources/media/WI62fu45DB47/",
+      "original_path": "data/media/original/media_WI62fu45DB47.png",
+      "ru_path": null,
+      "sha256": "2c8885155376d043e93bb70aae3c8da55fc40299d0ade02d9ae8c91474c0b972",
+      "size": 987800,
+      "title_en": "Hubble Image of Barred Spiral Galaxy UGC 6093",
+      "title_ru": "Изображение Хаббла спиральной галактики с перемычкой UGC 6093",
+      "short_caption_en": "Hubble Image of Barred Spiral Galaxy UGC 6093",
+      "short_caption_ru": "Изображение Хаббла спиральной галактики с перемычкой UGC 6093",
+      "caption_en": "This image from the Hubble Space Telescope shows the barred spiral galaxy UGC 6093. This galaxy has two spiral arms in its outer regions but the inner edge of each arm joins with the outer edge of a straight bar feature that goes across the galaxy's center. \r\n\r\nThis galaxy has been classified as an active galaxy due to the emissions of certain lines in its spectrum. This indicates that the supermassive black hole that lies in the center of the galaxy is accreting gas from its surroundings. Unlike some active galactic nuclei (AGN), the center of this galaxy does not shine especially brightly in the visible light so its status as an AGN is not immediately visible from this image.",
+      "caption_ru": "Это изображение с космического телескопа Хаббл показывает спиральную галактику с перемычкой UGC 6093. Эта галактика имеет две спиральные ветви во внешних областях, но внутренний край каждой ветви соединяется с внешним краем прямолинейной перемычки, проходящей через центр галактики. \r\n\r\nЭта галактика была классифицирована как активная галактика из-за излучения определённых линий в её спектре. Это указывает на то, что сверхмассивная чёрная дыра, находящаяся в центре галактики, аккрецирует газ из окружающего пространства. В отличие от некоторых активных ядер галактик (АЯГ), центр этой галактики не светится особенно ярко в видимом свете, поэтому её статус АЯГ не сразу виден на этом изображении.",
+      "alt_en": "The central part of this galaxy is a fuzzy straight line with spiral arms extending from each end of that line.",
+      "alt_ru": "Центральная часть этой галактики представляет собой размытую прямую линию, от каждого конца которой отходят спиральные ветви.",
+      "credit": "ESA/Hubble & NASA",
+      "credit_url": "https://esahubble.org/images/potw1634a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        5,
+        348,
+        443,
+        514
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:Ju53nC20Lt23",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Ju53nC20Lt23/",
+      "original_path": "data/media/original/diagram_Ju53nC20Lt23.png",
+      "ru_path": null,
+      "sha256": "37e4a87ce51317e74bcc1a674d69d15fdeee4cbf57b01efa221332178e8de624",
+      "size": 150618,
+      "title_en": "Sagittarius Constellation Map",
+      "title_ru": "Карта созвездия Стрельца",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Sagittarius along with its bright stars and surrounding constellations. Sagittarius is surrounded by (going clockwise from the top) Aquila, Scutum, Serpens Cauda, Ophiuchus, Scorpius, Corona Australis, Telescopium, Microscopium and Capricornus. The brighter stars in Sagittarius form a distinctive teapot shape. Sagittarius lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Sagittarius from mid December to mid January. The other planets of the Solar System can often be found in Sagittarius.\r\n\r\nSagittarius lies south of the celestial equator. The famous teapot asterism is visible for all but the most arctic regions of the world but the most southerly parts of the constellation are not visible in northern parts of Asia, Europe and North America. Sagittarius is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter. \r\n\r\nThe supermassive black hole Sagittarius A* which lies at the center of our Milky Way Galaxy is sits on the western (here right-hand) edge of  Sagittarius. Due to it covering an area at the center of our Galaxy, Sagittarius is home to many star clusters including open clusters (marked here with yellow circles) and globular clusters (marked here with yellow circles with + signs superimposed on them). Three nebulae are also marked here with green squares. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Стрельца вместе с его яркими звёздами и окружающими созвездиями. Стрелец окружён (по часовой стрелке сверху) Орлом, Щитом, Хвостом Змеи, Змееносцем, Скорпионом, Южной Короной, Телескопом, Микроскопом и Козерогом. Более яркие звёзды в Стрельце образуют характерную форму чайника. Стрелец лежит на эклиптике (показана здесь синей линией), это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Стрельце с середины декабря до середины января. Другие планеты Солнечной системы часто можно найти в Стрельце.\r\n\r\nСтрелец лежит к югу от небесного экватора. Знаменитый астеризм Чайник виден для всех, кроме самых арктических регионов мира, но самые южные части созвездия не видны в северных частях Азии, Европы и Северной Америки. Стрелец наиболее виден по вечерам летом в Северном полушарии и зимой в Южном полушарии. \r\n\r\nСверхмассивная чёрная дыра Стрелец A*, которая находится в центре нашей Галактики Млечный Путь, расположена на западном (здесь правом) краю Стрельца. Благодаря тому, что она покрывает область в центре нашей Галактики, Стрелец является домом для многих звёздных скоплений, включая рассеянные скопления (отмечены здесь жёлтыми кружками) и шаровые скопления (отмечены здесь жёлтыми кружками с наложенными знаками +). Три туманности также отмечены здесь зелёными квадратами. \r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфа, вторая по яркости — бета и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для представления фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не появляются на небе.",
+      "alt_en": "Sagittarius is shaped like a teapot pouring tea south west. The ecliptic runs WSW to ENE at the top of the constellation",
+      "alt_ru": "Стрелец имеет форму чайника, наливающего чай на юго-запад. Эклиптика проходит с западо-юго-запада на востоко-северо-восток в верхней части созвездия",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        48,
+        50,
+        66,
+        78,
+        92,
+        132,
+        199,
+        211,
+        286,
+        292,
+        299,
+        348,
+        391,
+        429,
+        466,
+        474
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:aT839V20hT52",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/virgo-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/aT839V20hT52/",
+      "original_path": "data/media/original/diagram_aT839V20hT52.png",
+      "ru_path": null,
+      "sha256": "5e29941369fdf575330698e62d59b8249009def48d85e2ac3599edb13d2960a9",
+      "size": 94701,
+      "title_en": "Virgo Constellation Map",
+      "title_ru": "Карта созвездия Девы",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The zodiac constellation Virgo and its surrounding constellations. Starting from the top of the diagram and going clockwise, these are Coma Berenices, Leo, Crater, Corvus, Libra, and Bootes. The brightest star in Virgo, Spica, lies just below the ecliptic (shown here as a blue line) in the middle of the map. One way of locating this star in the night sky is to follow the handle of the Big Dipper to the star Arcturus in Bootes and go along a line straight down to Spica (“arc to Arcturus and spike to Spica”). This star lies just below the ecliptic. The ecliptic is the path the Sun appears to take across the sky over the course of a year. The Sun is in Virgo from mid September to late October. The other planets of the Solar System can often be found in Virgo. \r\n\r\nVirgo spans the celestial equator and is thus part of it is visible at some time in the year from all of planet Earth with some of the constellation obscured for the most arctic and antarctic regions of the world. Virgo is most visible in the evenings in the northern hemisphere spring and southern hemisphere autumn. \r\n\r\nThe constellation Virgo appears as a person lying with their back roughly against the ecliptic, arms outstretched, and feet pointed east. Several deep-sky objects are visible in Virgo, including NGC4697, M49, M87, M86, M84, and M60, all of which are labelled as red ellipses on the map. These are all spiral and elliptical galaxies located several millions of lightyears from Earth. Most notably, M87 is host to the supermassive black hole (Pōwehi) that was imaged by the Event Horizon Telescope in 2019. All of these galaxies are members of the Virgo Cluster, the nearest cluster of galaxies to the Milky Way.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labelled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие зодиака Дева и окружающие его созвездия. Начиная с верхней части диаграммы и двигаясь по часовой стрелке, это Волосы Вероники, Лев, Чаша, Ворон, Весы и Волопас. Самая яркая звезда в Деве, Спика, находится чуть ниже эклиптики (показанной здесь синей линией) в середине карты. Один из способов найти эту звезду на ночном небе — проследить за ручкой Большого Ковша до звезды Арктур в Волопасе и провести прямую линию вниз до Спики («дуга до Арктура и шип до Спики»). Эта звезда лежит чуть ниже эклиптики. Эклиптика — это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Деве с середины сентября до конца октября. Другие планеты Солнечной системы также часто можно найти в Деве.\n\nДева пересекает небесный экватор, поэтому часть её видна в какое-то время года со всей планеты Земля, хотя некоторые части созвездия скрыты для самых арктических и антарктических регионов мира. Дева лучше всего видна по вечерам весной в Северном полушарии и осенью в Южном полушарии.\n\nСозвездие Дева выглядит как человек, лежащий спиной примерно вдоль эклиптики, с вытянутыми руками и ногами, направленными на восток. В Деве видны несколько объектов дальнего космоса, включая NGC4697, M49, M87, M86, M84 и M60, все они отмечены на карте красными эллипсами. Все это спиральные и эллиптические галактики, расположенные в нескольких миллионах световых лет от Земли. В частности, в M87 находится сверхмассивная чёрная дыра (Pōwehi), которую сфотографировал Телескоп горизонта событий в 2019 году. Все эти галактики являются членами Скопления Девы, ближайшего к Млечному Пути скопления галактик.\n\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "The constellation Virgo appears as a person lying with their back roughly against the diagonal ecliptic, arms outstretched, and feet pointed east.",
+      "alt_ru": "Созвездие Дева выглядит как человек, лежащий спиной примерно вдоль диагональной эклиптики, с вытянутыми руками и ступнями, направленными на восток.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        39,
+        50,
+        58,
+        66,
+        78,
+        92,
+        99,
+        172,
+        173,
+        286,
+        330,
+        348,
+        391,
+        486
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

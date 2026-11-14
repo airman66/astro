@@ -1,0 +1,173 @@
+{
+  "id": "term:420",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 420,
+    "url": "https://astro4edu.org/resources/glossary/term/420/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=420",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:21.719361+00:00",
+    "sha256": "8b73f4f6f7da8d4ce0aab11c864c7483f1aa62273b564cc70d820db915a7fab2"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology"
+    ],
+    "category_ids": [
+      6
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Roche Limit",
+      "body": "Tidal forces stretch astronomical objects into elongated shapes. For example, the Moon stretches the water around the Earth into two bulges; this causes the tides on the Earth. Any two massive objects exert tidal forces on each other. More massive objects exert larger tidal forces while tidal forces are stronger for objects that are closer together. These tidal forces can become so strong that the stretching can rip one of the objects to shreds. For an object (e.g. an asteroid or moon) of a particular mass and size close to another massive object there is a distance within which it will be torn to pieces by the other object's tidal forces. This distance is known as the \"Roche limit\". A common example of the Roche limit is rocky and icy moons orbiting giant planets. If a moon is closer to the giant planet than the Roche limit then it will disintegrate, forming a ring of material around the giant planet. Chains of craters called \"catenae\" visible on the Moon and other rocky bodies in the Solar System are evidence for incoming asteroids breaking up as they pass the Roche limit, leading them to impact as a string of smaller objects, rather than one large body.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Roche Limit</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Tidal forces stretch astronomical objects into elongated shapes. For example, the Moon stretches the water around the Earth into two bulges; this causes the tides on the Earth. <br/><br/>Any two massive objects exert tidal forces on each other. More massive objects exert larger tidal forces while tidal forces are stronger for objects that are closer together. These tidal forces can become so strong that the stretching can rip one of the objects to shreds. <br/><br/>For an object (e.g. an asteroid or moon) of a particular mass and size close to another massive object there is a distance within which it will be torn to pieces by the other object's tidal forces. This distance is known as the \"Roche limit\".<br/><br/>A common example of the Roche limit is rocky and icy moons orbiting giant planets. If a moon is closer to the giant planet than the Roche limit then it will disintegrate, forming a ring of material around the giant planet. <br/><br/>Chains of craters called \"catenae\" visible on the Moon and other rocky bodies in the Solar System are evidence for incoming asteroids breaking up as they pass the Roche limit, leading them to impact as a string of smaller objects, rather than one large body.</p>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Предел Роша",
+      "body_ru": "Приливные силы растягивают астрономические объекты в удлинённые формы. Например, Луна растягивает воду вокруг Земли в две выпуклости; это вызывает приливы на Земле. Любые два массивных объекта оказывают приливные силы друг на друга. Более массивные объекты оказывают большие приливные силы, а приливные силы сильнее для объектов, которые находятся ближе друг к другу. Эти приливные силы могут стать настолько сильными, что растяжение может разорвать один из объектов на куски. Для объекта (например, астероида или луны) определённой массы и размера вблизи другого массивного объекта существует расстояние, в пределах которого он будет разорван на куски приливными силами другого объекта. Это расстояние известно как «предел Роша». Распространённым примером предела Роша являются каменистые и ледяные луны, вращающиеся вокруг гигантских планет. Если луна находится ближе к гигантской планете, чем предел Роша, то она распадётся, образуя кольцо материала вокруг гигантской планеты. Цепочки кратеров, называемые «катенами», видимые на Луне и других каменистых телах в Солнечной системе, являются свидетельством того, что входящие астероиды разрушаются, проходя предел Роша, что приводит к их столкновению в виде строки более мелких объектов, а не одного большого тела."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "ロッシュ限界 (external link)",
+          "url": "https://astro-dic.jp/roche-limit/",
+          "text_ru": "Предел Роша (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/420/\">حد روش </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/420/\">Roche-Grenze </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/420/\">Límite de Roche </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/420/\">Limite de Roche </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/420/\">Limite di Roche </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/roche-limit/\">ロッシュ限界 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/420/\">로시한계 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/420/\">Limite de Roche </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/420/\">洛希极限 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/420/\">洛希極限 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/aB7Pi22rc2/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://science.nasa.gov/resource/comet-shoemaker-levy-9-fragments-1994/",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:aB7Pi22rc2"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/aB7Pi22rc2/\"><img alt=\"Comet Shoemaker–Levy 9 appears as a long chain of bright fragments against the dark background of space.\" src=\"/media/multimedia/thumbnails/comet-shoemaker-levy-after-crossing-jupiters-roche-limit_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Comet Shoemaker-Levy After Crossing Jupiter's Roche Limit</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This panoramic image captured by the Hubble Space Telescope shows fragments of  Comet Shoemaker–Levy 9. This comet was discovered in 1993 as the series of fragments you see here. These fragments were orbiting Jupiter. It is thought that at some point in the previous few decades the whole, unfragmented comet had been gravitationally captured by Jupiter. Then in 1992 the comet passed within Jupiter’s Roche limit. \n\nAstronomical objects exert gravitational forces on each other. The closer one is to an object, the larger the force. Astronomical objects have a real physical size and thus the gravitational force exerted on the object will vary across the object, the side of an object closer to another object will feel a stronger gravitational force from that other object than the more distant side. The gravitational stretching distorts the object. This gravitational stretching force is known as the tidal force. When an object is close enough to a large body like Jupiter, the object will feel such a large tidal stretching force that it will overcome the internal gravitational force holding the object together, ripping it to shreds. The distance from the larger body within which this occurs is known as the Roche limit.\n\nWhen Shoemaker–Levy 9 crossed Jupiter's Roche limit in 1992, the tidal force pulled the comet into separate fragments. Here we see these fragments in a chain as they orbited Jupiter in May 1994. Later in July 1994 the comet fragment plunged into Jupiter’s atmosphere over the course of a week in a spectacular series of impacts. This event provided scientists with a rare opportunity to witness an impact unfolding in real time.<br/>\n<b>Credit:</b> NASA, ESA, and H. Weaver and E. Smith (STScI)\n\t  <a href=\"https://science.nasa.gov/resource/comet-shoemaker-levy-9-fragments-1994/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Roche Limit",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Roche Limit",
+          "body": "Tidal forces stretch astronomical objects into elongated shapes. For example, the Moon stretches the water around the Earth into two bulges; this causes the tides on the Earth. Any two massive objects exert tidal forces on each other. More massive objects exert larger tidal forces while tidal forces are stronger for objects that are closer together. These tidal forces can become so strong that the stretching can rip one of the objects to shreds. For an object (e.g. an asteroid or moon) of a particular mass and size close to another massive object there is a distance within which it will be torn to pieces by the other object's tidal forces. This distance is known as the \"Roche limit\". A common example of the Roche limit is rocky and icy moons orbiting giant planets. If a moon is closer to the giant planet than the Roche limit then it will disintegrate, forming a ring of material around the giant planet. Chains of craters called \"catenae\" visible on the Moon and other rocky bodies in the Solar System are evidence for incoming asteroids breaking up as they pass the Roche limit, leading them to impact as a string of smaller objects, rather than one large body."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Предел Роша",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Предел Роша",
+          "body": "Приливные силы растягивают астрономические объекты в удлинённые формы. Например, Луна растягивает воду вокруг Земли в две выпуклости; это вызывает приливы на Земле. Любые два массивных объекта оказывают приливные силы друг на друга. Более массивные объекты оказывают большие приливные силы, а приливные силы сильнее для объектов, которые находятся ближе друг к другу. Эти приливные силы могут стать настолько сильными, что растяжение может разорвать один из объектов на куски. Для объекта (например, астероида или луны) определённой массы и размера вблизи другого массивного объекта существует расстояние, в пределах которого он будет разорван на куски приливными силами другого объекта. Это расстояние известно как «предел Роша». Распространённым примером предела Роша являются каменистые и ледяные луны, вращающиеся вокруг гигантских планет. Если луна находится ближе к гигантской планете, чем предел Роша, то она распадётся, образуя кольцо материала вокруг гигантской планеты. Цепочки кратеров, называемые «катенами», видимые на Луне и других каменистых телах в Солнечной системе, являются свидетельством того, что входящие астероиды разрушаются, проходя предел Роша, что приводит к их столкновению в виде строки более мелких объектов, а не одного большого тела."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:aB7Pi22rc2",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/comet-shoemaker-levy-after-crossing-jupiters-roche-limit.png",
+      "record_url": "https://astro4edu.org/resources/media/aB7Pi22rc2/",
+      "original_path": "data/media/original/media_aB7Pi22rc2.png",
+      "ru_path": null,
+      "sha256": "516f93505ba8c679c21bba2c74d926b1dfc1af2776ddd8b00a460050c038b7bc",
+      "size": 506995,
+      "title_en": "Comet Shoemaker-Levy After Crossing Jupiter's Roche Limit",
+      "title_ru": "Комета Шумейкеров-Леви после пересечения предела Роша Юпитера",
+      "short_caption_en": "Comet Shoemaker-Levy After Crossing Jupiter's Roche Limit",
+      "short_caption_ru": "Комета Шумейкеров-Леви после пересечения предела Роша Юпитера",
+      "caption_en": "This panoramic image captured by the Hubble Space Telescope shows fragments of  Comet Shoemaker–Levy 9. This comet was discovered in 1993 as the series of fragments you see here. These fragments were orbiting Jupiter. It is thought that at some point in the previous few decades the whole, unfragmented comet had been gravitationally captured by Jupiter. Then in 1992 the comet passed within Jupiter’s Roche limit. \r\n\r\nAstronomical objects exert gravitational forces on each other. The closer one is to an object, the larger the force. Astronomical objects have a real physical size and thus the gravitational force exerted on the object will vary across the object, the side of an object closer to another object will feel a stronger gravitational force from that other object than the more distant side. The gravitational stretching distorts the object. This gravitational stretching force is known as the tidal force. When an object is close enough to a large body like Jupiter, the object will feel such a large tidal stretching force that it will overcome the internal gravitational force holding the object together, ripping it to shreds. The distance from the larger body within which this occurs is known as the Roche limit.\r\n\r\nWhen Shoemaker–Levy 9 crossed Jupiter's Roche limit in 1992, the tidal force pulled the comet into separate fragments. Here we see these fragments in a chain as they orbited Jupiter in May 1994. Later in July 1994 the comet fragment plunged into Jupiter’s atmosphere over the course of a week in a spectacular series of impacts. This event provided scientists with a rare opportunity to witness an impact unfolding in real time.",
+      "caption_ru": "Это панорамное изображение, полученное космическим телескопом Хаббл, показывает фрагменты кометы Шумейкеров–Леви 9. Эта комета была обнаружена в 1993 как серия фрагментов, которые вы видите здесь. Эти фрагменты вращались вокруг Юпитера. Считается, что в какой-то момент в предыдущие несколько десятилетий целая, неразделённая комета была гравитационно захвачена Юпитером. Затем в 1992 комета прошла в пределах предела Роша Юпитера.\r\n\r\nАстрономические объекты оказывают гравитационные силы друг на друга. Чем ближе объект к другому объекту, тем больше сила. Астрономические объекты имеют реальный физический размер, и поэтому гравитационная сила, действующая на объект, будет различаться по всему объекту: сторона объекта, более близкая к другому объекту, будет испытывать более сильную гравитационную силу от этого другого объекта, чем более удалённая сторона. Гравитационное растяжение деформирует объект. Эта гравитационная растягивающая сила известна как приливная сила. Когда объект находится достаточно близко к большому телу, такому как Юпитер, объект будет испытывать такую большую приливную растягивающую силу, что она преодолеет внутреннюю гравитационную силу, удерживающую объект вместе, разрывая его на куски. Расстояние от большего тела, в пределах которого это происходит, известно как предел Роша.\r\n\r\nКогда Шумейкеров–Леви 9 пересекла предел Роша Юпитера в 1992, приливная сила разорвала комету на отдельные фрагменты. Здесь мы видим эти фрагменты в цепочке, когда они вращались вокруг Юпитера в мае 1994. Позже в июле 1994 фрагмент кометы погрузился в атмосферу Юпитера в течение недели в серии захватывающих столкновений. Это событие предоставило учёным редкую возможность наблюдать столкновение в реальном времени.",
+      "alt_en": "Comet Shoemaker–Levy 9 appears as a long chain of bright fragments against the dark background of space.",
+      "alt_ru": "Комета Шумейкеров–Леви 9 выглядит как длинная цепочка ярких фрагментов на тёмном фоне космоса.",
+      "credit": "NASA, ESA, and H. Weaver and E. Smith (STScI)",
+      "credit_url": "https://science.nasa.gov/resource/comet-shoemaker-levy-9-fragments-1994/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        420,
+        501
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

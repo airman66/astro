@@ -1,0 +1,274 @@
+{
+  "id": "term:68",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 68,
+    "url": "https://astro4edu.org/resources/glossary/term/68/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=68",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:25.663387+00:00",
+    "sha256": "741d17157376171ca2658afec9714f9d85212c143f98cb566aa181f2802cdd7a"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      4,
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      55,
+      311,
+      313,
+      315,
+      338
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Corona",
+      "body": "The corona of a star is a region of extremely hot, low-density plasma surrounding the star's atmosphere, which can stretch millions of kilometers into space. Every star with a reasonably strong magnetic field, produced by a dynamo effect as charged matter moves inside the star, is expected to have a corona. Naked-eye observation of our Sun's corona is possible during a total solar eclipse, when the solar corona becomes visible as a whitish, irregularly shaped area surrounding the hidden solar disk. More generally, the shape of a star's corona is determined by the star's magnetic fields and the outward pressure of gas in its upper regions. Stellar coronas have very high temperatures: At more than a million kelvins, the solar corona is much hotter than the Sun's surface. The mechanism for heating the corona to that temperature is the subject of ongoing research, but it seems clear that the magnetic fields threading the corona play a major role. The shape of the Sun's corona changes on timescales between seconds and months, mostly in response to solar activity, such as flares ejecting plasma into the corona, or coronal mass ejections releasing a considerable amount of charged particles. It also changes on a timescale of years with what is called the solar cycle – the periodic change in strength and orientation of the Sun's magnetic field, with a period of nearly eleven years. Changes of this kind are expected to occur in an analogous fashion in other stars' coronas, as well.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Chromosphere",
+          "url": "https://www.astro4edu.org/resources/glossary/term/55/",
+          "text_ru": "Хромосфера"
+        },
+        {
+          "text": "Solar Flare",
+          "url": "https://www.astro4edu.org/resources/glossary/term/311/",
+          "text_ru": "Солнечная вспышка"
+        },
+        {
+          "text": "Solar Prominence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/313/",
+          "text_ru": "Солнечный протуберанец"
+        },
+        {
+          "text": "Solar Wind",
+          "url": "https://www.astro4edu.org/resources/glossary/term/315/",
+          "text_ru": "Солнечный ветер"
+        },
+        {
+          "text": "Stellar Structure",
+          "url": "https://www.astro4edu.org/resources/glossary/term/338/",
+          "text_ru": "Строение звезды"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Corona</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The corona of a star is a region of extremely hot, low-density plasma surrounding the star's atmosphere, which can stretch millions of kilometers into space. Every star with a reasonably strong magnetic field, produced by a dynamo effect as charged matter moves inside the star, is expected to have a corona. Naked-eye observation of our Sun's corona is possible during a total solar eclipse, when the solar corona becomes visible as a whitish, irregularly shaped area surrounding the hidden solar disk. More generally, the shape of a star's corona is determined by the star's magnetic fields and the outward pressure of gas in its upper regions. Stellar coronas have very high temperatures: At more than a million kelvins, the solar corona is much hotter than the Sun's surface. The mechanism for heating the corona to that temperature is the subject of ongoing research, but it seems clear that the magnetic fields threading the corona play a major role. The shape of the Sun's corona changes on timescales between seconds and months, mostly in response to solar activity, such as flares ejecting plasma into the corona, or coronal mass ejections releasing a considerable amount of charged particles. It also changes on a timescale of years with what is called the solar cycle – the periodic change in strength and orientation of the Sun's magnetic field, with a period of nearly eleven years. Changes of this kind are expected to occur in an analogous fashion in other stars' coronas, as well.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/55/\">Chromosphere</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/311/\">Solar Flare</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/313/\">Solar Prominence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/315/\">Solar Wind</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/338/\">Stellar Structure</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Корона",
+      "body_ru": "Корона звезды — это область чрезвычайно горячей плазмы низкой плотности, окружающая атмосферу звезды, которая может простираться на миллионы километров в космос. Ожидается, что каждая звезда с достаточно сильным магнитным полем, создаваемым динамо-эффектом при движении заряженного вещества внутри звезды, имеет корону. Наблюдение короны нашего Солнца невооружённым глазом возможно во время полного солнечного затмения, когда солнечная корона становится видимой как беловатая область неправильной формы, окружающая скрытый солнечный диск. В более общем смысле форма короны звезды определяется магнитными полями звезды и внешним давлением газа в её верхних областях. Звёздные короны имеют очень высокие температуры: при более чем миллионе кельвинов солнечная корона намного горячее поверхности Солнца. Механизм нагрева короны до такой температуры является предметом продолжающихся исследований, но, по-видимому, ясно, что магнитные поля, пронизывающие корону, играют главную роль. Форма солнечной короны меняется на временных масштабах от секунд до месяцев, в основном в ответ на солнечную активность, такую как вспышки, выбрасывающие плазму в корону, или корональные выбросы массы, высвобождающие значительное количество заряженных частиц. Она также меняется на временном масштабе лет с так называемым солнечным циклом – периодическим изменением силы и ориентации магнитного поля Солнца с периодом почти одиннадцать лет. Ожидается, что подобные изменения аналогичным образом происходят и в коронах других звёзд."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "コロナ（太陽の） (external link)",
+          "url": "https://astro-dic.jp/solar-corona/",
+          "text_ru": "Корона (солнечная) (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/68/\">الهالة الشمسية (أو الهالة النجمية عند الحديث عن نجوم أخرى) </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/68/\">Korona </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/68/\">Corona </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/68/\">Couronne </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/68/\">Corona </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/solar-corona/\">コロナ（太陽の） (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/68/\">코로나 </a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/68/\">कोरोना </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/68/\">Coroa </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/68/\">冕 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/68/\">冕 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/5H96nl1fV43/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Bangladesh.jpg#/media/File:Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Banglad",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-3.0",
+          "url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "text_ru": "CC-BY-3.0"
+        },
+        {
+          "text": "Creative Commons Attribution 3.0 Unported icons",
+          "url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution 3.0 Unported"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/b1241b15j670/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2019/06/Total_solar_eclipse/(lang)/en",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-SA-3.0-IGO",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+          "text_ru": "CC-BY-SA-3.0-IGO"
+        },
+        {
+          "text": "Creative Commons Attribution-ShareAlike 3.0 IGO icons",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-ShareAlike 3.0 IGO"
+        }
+      ],
+      "media_ids": [
+        "media:5H96nl1fV43",
+        "media:b1241b15j670"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/5H96nl1fV43/\"><img alt=\"The Moon appears as a black circle, blocking light from the Sun. A faint glow from the Solar corona surrounds the Moon.\" src=\"/media/multimedia/thumbnails/Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Ban_7nhqhhg.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Total Solar Eclipse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image represents the total solar eclipse as observed from Kurigram in Bangladesh. Solar eclipses occur when the moon, as seen from earth, passes in front of the Sun. The moon is much smaller than the Sun, it is closer by the night amount that the angular diameters of the Sun and moon are almost the same (~approximately 1/2 a fingertip). Therefore, the moon can cover up the Sun's disk when it passes directly between the Sun and the Earth. The ring of light around the black circle is called the corona.<br/>\n<b>Credit:</b> Lutfar Rahman Nirjhar\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Bangladesh.jpg#/media/File:Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Banglad\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" rel=\"license\">CC-BY-3.0</a> <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 3.0 Unported icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/b1241b15j670/\"><img alt=\"The Moon moves from top right to bottom right, covering then uncovering the Sun. At totality wispy features surround the Sun\" src=\"/media/multimedia/thumbnails/total-solar-eclipse-from-casper-wyoming-usa_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Total Solar Eclipse from Casper, Wyoming, USA</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This video shows the total solar eclipse of the 21st of August 2017 observed from Casper, Wyoming, USA by a team of astronomers from the European Space Agency (ESA). This video has been sped up considerably, in reality the moment of totality lasted just under two and a half minutes while the time from the Moon first appearing to obscure the Sun until the Sun was completely unobscured was two hours and 48 minutes.\n\nBefore the eclipse we can see several sunspots on the Sun. The Moon moves across the Sun, covering the whole solar disk visible from the point on the Earth this video was taken from. At totality we can see the diffuse solar corona which is normally outshone by the bright solar disk. \n\nNote that while edges of the Sun appear brighter just before and just after totality, this is due to exposure time of the camera being adjusted to make the features visible at totality more obvious. Towards the end of the video some thin cloud begins to affect the observations.<br/>\n<b>Credit:</b> Video credit: ESA/CESAR ; Music copyright: Flight Of The Angel 3 by Chris Blackwell, audionetwork.com\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Videos/2019/06/Total_solar_eclipse/(lang)/en\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en\" rel=\"license\">CC-BY-SA-3.0-IGO</a> <a href=\"https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-sa\"></i><span class=\"sr-only\">Creative Commons Attribution-ShareAlike 3.0 IGO icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Corona",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Corona",
+          "body": "The corona of a star is a region of extremely hot, low-density plasma surrounding the star's atmosphere, which can stretch millions of kilometers into space. Every star with a reasonably strong magnetic field, produced by a dynamo effect as charged matter moves inside the star, is expected to have a corona. Naked-eye observation of our Sun's corona is possible during a total solar eclipse, when the solar corona becomes visible as a whitish, irregularly shaped area surrounding the hidden solar disk. More generally, the shape of a star's corona is determined by the star's magnetic fields and the outward pressure of gas in its upper regions. Stellar coronas have very high temperatures: At more than a million kelvins, the solar corona is much hotter than the Sun's surface. The mechanism for heating the corona to that temperature is the subject of ongoing research, but it seems clear that the magnetic fields threading the corona play a major role. The shape of the Sun's corona changes on timescales between seconds and months, mostly in response to solar activity, such as flares ejecting plasma into the corona, or coronal mass ejections releasing a considerable amount of charged particles. It also changes on a timescale of years with what is called the solar cycle – the periodic change in strength and orientation of the Sun's magnetic field, with a period of nearly eleven years. Changes of this kind are expected to occur in an analogous fashion in other stars' coronas, as well."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Корона",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Корона",
+          "body": "Корона звезды — это область чрезвычайно горячей плазмы низкой плотности, окружающая атмосферу звезды, которая может простираться на миллионы километров в космос. Ожидается, что каждая звезда с достаточно сильным магнитным полем, создаваемым динамо-эффектом при движении заряженного вещества внутри звезды, имеет корону. Наблюдение короны нашего Солнца невооружённым глазом возможно во время полного солнечного затмения, когда солнечная корона становится видимой как беловатая область неправильной формы, окружающая скрытый солнечный диск. В более общем смысле форма короны звезды определяется магнитными полями звезды и внешним давлением газа в её верхних областях. Звёздные короны имеют очень высокие температуры: при более чем миллионе кельвинов солнечная корона намного горячее поверхности Солнца. Механизм нагрева короны до такой температуры является предметом продолжающихся исследований, но, по-видимому, ясно, что магнитные поля, пронизывающие корону, играют главную роль. Форма солнечной короны меняется на временных масштабах от секунд до месяцев, в основном в ответ на солнечную активность, такую как вспышки, выбрасывающие плазму в корону, или корональные выбросы массы, высвобождающие значительное количество заряженных частиц. Она также меняется на временном масштабе лет с так называемым солнечным циклом – периодическим изменением силы и ориентации магнитного поля Солнца с периодом почти одиннадцать лет. Ожидается, что подобные изменения аналогичным образом происходят и в коронах других звёзд."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:5H96nl1fV43",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Bangladesh.jpg",
+      "record_url": "https://astro4edu.org/resources/media/5H96nl1fV43/",
+      "original_path": "data/media/original/media_5H96nl1fV43.jpg",
+      "ru_path": null,
+      "sha256": "a7d246ed6c4d406fbee0c517f3a4b478867b87989ab811003ede61f7a1f36b34",
+      "size": 9548,
+      "title_en": "Total Solar Eclipse",
+      "title_ru": "Полное солнечное затмение",
+      "short_caption_en": "Total Solar Eclipse pictured from Bangladesh",
+      "short_caption_ru": "Полное солнечное затмение, сфотографированное из Бангладеш",
+      "caption_en": "This image represents the total solar eclipse as observed from Kurigram in Bangladesh. Solar eclipses occur when the moon, as seen from earth, passes in front of the Sun. The moon is much smaller than the Sun, it is closer by the night amount that the angular diameters of the Sun and moon are almost the same (~approximately 1/2 a fingertip). Therefore, the moon can cover up the Sun's disk when it passes directly between the Sun and the Earth. The ring of light around the black circle is called the corona.",
+      "caption_ru": "Это изображение представляет полное солнечное затмение, наблюдаемое из Куриграма в Бангладеш. Солнечные затмения происходят, когда Луна, если смотреть с Земли, проходит перед Солнцем. Луна намного меньше Солнца, она ближе на такую величину, что угловые диаметры Солнца и Луны почти одинаковы (~примерно 1/2 кончика пальца). Поэтому Луна может закрыть диск Солнца, когда она проходит прямо между Солнцем и Землёй. Кольцо света вокруг чёрного круга называется короной.",
+      "alt_en": "The Moon appears as a black circle, blocking light from the Sun. A faint glow from the Solar corona surrounds the Moon.",
+      "alt_ru": "Луна выглядит как чёрный круг, блокирующий свет Солнца. Слабое свечение солнечной короны окружает Луну.",
+      "credit": "Lutfar Rahman Nirjhar",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Bangladesh.jpg#/media/File:Solar_eclipse_22_July_2009_taken_by_Lutfar_Rahman_Nirjhar_from_Banglad",
+      "license": "CC-BY-3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "term_numbers": [
+        68,
+        310,
+        365
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:b1241b15j670",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://astro4edu.org/media/multimedia/esa_casper_wyoming_eclipse.mp4",
+      "record_url": "https://astro4edu.org/resources/media/b1241b15j670/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Total Solar Eclipse from Casper, Wyoming, USA",
+      "title_ru": "Полное солнечное затмение из Каспера, Вайоминг, США",
+      "short_caption_en": "Total Solar Eclipse from Casper, Wyoming, USA",
+      "short_caption_ru": "Полное солнечное затмение из Каспера, Вайоминг, США",
+      "caption_en": "This video shows the total solar eclipse of the 21st of August 2017 observed from Casper, Wyoming, USA by a team of astronomers from the European Space Agency (ESA). This video has been sped up considerably, in reality the moment of totality lasted just under two and a half minutes while the time from the Moon first appearing to obscure the Sun until the Sun was completely unobscured was two hours and 48 minutes.\r\n\r\nBefore the eclipse we can see several sunspots on the Sun. The Moon moves across the Sun, covering the whole solar disk visible from the point on the Earth this video was taken from. At totality we can see the diffuse solar corona which is normally outshone by the bright solar disk. \r\n\r\nNote that while edges of the Sun appear brighter just before and just after totality, this is due to exposure time of the camera being adjusted to make the features visible at totality more obvious. Towards the end of the video some thin cloud begins to affect the observations.",
+      "caption_ru": "Это видео показывает полное солнечное затмение 21 августа 2017, наблюдаемое из Каспера, Вайоминг, США командой астрономов Европейского космического агентства (ЕКА). Это видео значительно ускорено; в реальности момент полной фазы длился чуть менее двух с половиной минут, а время от первого появления Луны, закрывающей Солнце, до полного открытия Солнца составило два часа и 48 минут.\r\n\r\nПеред затмением мы можем видеть несколько солнечных пятен на Солнце. Луна движется по Солнцу, закрывая весь солнечный диск, видимый из точки на Земле, откуда было снято это видео. В полной фазе мы можем видеть диффузную солнечную корону, которая обычно затмевается ярким солнечным диском.\r\n\r\nОбратите внимание, что хотя края Солнца кажутся ярче непосредственно перед и после полной фазы, это связано с настройкой времени экспозиции камеры, чтобы сделать особенности, видимые в полной фазе, более очевидными. К концу видео некоторые тонкие облака начинают влиять на наблюдения.",
+      "alt_en": "The Moon moves from top right to bottom right, covering then uncovering the Sun. At totality wispy features surround the Sun",
+      "alt_ru": "Луна движется сверху справа вниз справа, закрывая, а затем открывая Солнце. В полной фазе вокруг Солнца видны тонкие волокнистые структуры",
+      "credit": "Video credit: ESA/CESAR ; Music copyright: Flight Of The Angel 3 by Chris Blackwell, audionetwork.com",
+      "credit_url": "https://www.esa.int/ESA_Multimedia/Videos/2019/06/Total_solar_eclipse/(lang)/en",
+      "license": "CC-BY-SA-3.0-IGO",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "term_numbers": [
+        68,
+        310,
+        365
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

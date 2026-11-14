@@ -1,0 +1,129 @@
+{
+  "id": "term:369",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 369,
+    "url": "https://astro4edu.org/resources/glossary/term/369/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=369",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:05.818066+00:00",
+    "sha256": "568fcae739ea39c9087528f6a2b4f5d5656937bb448451e62ef930d5fb886e09"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      17,
+      167,
+      314
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Trojans",
+      "body": "Trojans are asteroids which orbit the Sun with the same orbit as one of the major planets, but are either one sixth of an orbit ahead of the planet or one sixth of an orbit behind the planet. These points, ahead of the planet and behind it, are two special gravitational points known as Lagrange points 4 and 5. Here a small body can sit stably in its orbit without being kicked around by the gravity of the planet. The largest groups of trojans in the Solar System are those which share an orbital path with Jupiter. Those which lie 60 degrees ahead of Jupiter are sometimes referred to as Greeks and are named after mythical Greek characters from the Trojan War. Those which are 60 degrees behind Jupiter are named after Trojan characters.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Asteroid",
+          "url": "https://www.astro4edu.org/resources/glossary/term/17/",
+          "text_ru": "Астероид"
+        },
+        {
+          "text": "Jupiter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/167/",
+          "text_ru": "Юпитер"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Trojans</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Trojans are asteroids which orbit the Sun with the same orbit as one of the major planets, but are either one sixth of an orbit ahead of the planet or one sixth of an orbit behind the planet. These points, ahead of the planet and behind it, are two special gravitational points known as Lagrange points 4 and 5. Here a small body can sit stably in its orbit without being kicked around by the gravity of the planet. <br/><br/>The largest groups of trojans in the Solar System are those which share an orbital path with Jupiter. Those which lie 60 degrees ahead of Jupiter are sometimes referred to as Greeks and are named after mythical Greek characters from the Trojan War. Those which are 60 degrees behind Jupiter are named after Trojan characters.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/17/\">Asteroid</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/167/\">Jupiter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Троянцы",
+      "body_ru": "Троянцы — это астероиды, которые обращаются вокруг Солнца по той же орбите, что и одна из крупных планет, но находятся либо на одну шестую орбиты впереди планеты, либо на одну шестую орбиты позади планеты. Эти точки, впереди планеты и позади неё, являются двумя особыми гравитационными точками, известными как точки Лагранжа 4 и 5. Здесь небольшое тело может стабильно находиться на своей орбите, не подвергаясь гравитационному воздействию планеты. Крупнейшие группы троянцев в Солнечной системе — это те, которые разделяют орбитальный путь с Юпитером. Те, что находятся на 60 градусов впереди Юпитера, иногда называются греками и названы в честь мифических греческих персонажей Троянской войны. Те, что находятся на 60 градусов позади Юпитера, названы в честь троянских персонажей."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "トロヤ群小惑星 (external link)",
+          "url": "https://astro-dic.jp/trojan-asteroids/",
+          "text_ru": "Троянские астероиды (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/369/\">طروادة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/369/\">Trojaner </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/369/\">Troyanos </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/369/\">Cheval de Troie </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/369/\">Troiani </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/trojan-asteroids/\">トロヤ群小惑星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/369/\">Troianos </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/369/\">特洛伊天体 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/369/\">特洛伊天體 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Trojans",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Trojans",
+          "body": "Trojans are asteroids which orbit the Sun with the same orbit as one of the major planets, but are either one sixth of an orbit ahead of the planet or one sixth of an orbit behind the planet. These points, ahead of the planet and behind it, are two special gravitational points known as Lagrange points 4 and 5. Here a small body can sit stably in its orbit without being kicked around by the gravity of the planet. The largest groups of trojans in the Solar System are those which share an orbital path with Jupiter. Those which lie 60 degrees ahead of Jupiter are sometimes referred to as Greeks and are named after mythical Greek characters from the Trojan War. Those which are 60 degrees behind Jupiter are named after Trojan characters."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Троянцы",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Троянцы",
+          "body": "Троянцы — это астероиды, которые обращаются вокруг Солнца по той же орбите, что и одна из крупных планет, но находятся либо на одну шестую орбиты впереди планеты, либо на одну шестую орбиты позади планеты. Эти точки, впереди планеты и позади неё, являются двумя особыми гравитационными точками, известными как точки Лагранжа 4 и 5. Здесь небольшое тело может стабильно находиться на своей орбите, не подвергаясь гравитационному воздействию планеты. Крупнейшие группы троянцев в Солнечной системе — это те, которые разделяют орбитальный путь с Юпитером. Те, что находятся на 60 градусов впереди Юпитера, иногда называются греками и названы в честь мифических греческих персонажей Троянской войны. Те, что находятся на 60 градусов позади Юпитера, названы в честь троянских персонажей."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

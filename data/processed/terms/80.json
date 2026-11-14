@@ -1,0 +1,117 @@
+{
+  "id": "term:80",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 80,
+    "url": "https://astro4edu.org/resources/glossary/term/80/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=80",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:30.745858+00:00",
+    "sha256": "b8db9929e15e8827ad8107322f0cc8612dd0c662551aecc27ead0766869b1420"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      190,
+      214,
+      450
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Density",
+      "body": "Density is a physical characteristic of a substance or object that expresses the relationship of its volume to its mass. The higher the density, the greater the mass per unit volume. The average density of an object is its total mass divided by its total volume. Its SI unit is kilograms per cubic meter (kg/m 3 ). Densities in the region of the Milky Way around the Sun can range from about 10 -20 kg/m 3 for interstellar gas to more than 10 17 kg/m 3 for the interiors of neutron stars. Everyday densities on Earth fall between those extremes, with iron at about 7800 kg/m 3 , water at around 1000 kg/m 3 and the air that surrounds us at sea-level at a bit more than 1 kg/m 3 . The Universe includes not just the stars, planets, and gas in galaxies, but also the relatively empty space between galaxies and between clusters of galaxies. This leads to an average density of matter in the Universe of the order of 10 -27 kg/m 3 .",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Mass",
+          "url": "https://www.astro4edu.org/resources/glossary/term/190/",
+          "text_ru": "Масса"
+        },
+        {
+          "text": "Neutron Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/214/",
+          "text_ru": "Нейтронная звезда"
+        },
+        {
+          "text": "Interstellar Medium",
+          "url": "https://www.astro4edu.org/resources/glossary/term/450/",
+          "text_ru": "Межзвёздная среда"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Density</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Density is a physical characteristic of a substance or object that expresses the relationship of its volume to its mass. The higher the density, the greater the mass per unit volume. The average density of an object is its total mass divided by its total volume. Its SI unit is kilograms per cubic meter (kg/m<sup>3</sup>). <br/><br/>Densities in the region of the Milky Way around the Sun can range from about 10<sup>-20</sup> kg/m<sup>3</sup> for interstellar gas to more than 10<sup>17</sup> kg/m<sup>3</sup> for the interiors of neutron stars. <br/><br/>Everyday densities on Earth fall between those extremes, with iron at about 7800 kg/m<sup>3</sup>, water at around 1000 kg/m<sup>3</sup> and the air that surrounds us at sea-level at a bit more than 1 kg/m<sup>3</sup>.  <br/><br/>The Universe includes not just the stars, planets, and gas in galaxies, but also the relatively empty space between galaxies and between clusters of galaxies. This leads to an average density of matter in the Universe of the order of 10<sup>-27</sup> kg/m<sup>3</sup>.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/190/\">Mass</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/214/\">Neutron Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/450/\">Interstellar Medium</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Плотность",
+      "body_ru": "Плотность — это физическая характеристика вещества или объекта, выражающая отношение его объёма к его массе. Чем выше плотность, тем больше масса на единицу объёма. Средняя плотность объекта — это его общая масса, делённая на его общий объём. Её единица СИ — килограмм на кубический метр (кг/м 3 ). Плотности в области Млечного Пути вокруг Солнца могут варьироваться от примерно 10 -20 кг/м 3 для межзвёздного газа до более чем 10 17 кг/м 3 для внутренних областей нейтронных звёзд. Повседневные плотности на Земле находятся между этими крайностями: железо — около 7800 кг/м 3 , вода — около 1000 кг/м 3 , а воздух, окружающий нас на уровне моря, — чуть больше 1 кг/м 3 . Вселенная включает не только звёзды, планеты и газ в галактиках, но и относительно пустое пространство между галактиками и между скоплениями галактик. Это приводит к средней плотности материи во Вселенной порядка 10 -27 кг/м 3 ."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/80/\">الكثافة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/80/\">Dichte </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/80/\">Densidad </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/80/\">Densité </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/80/\">Densità </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/80/\">Densidade </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/80/\">密度 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/80/\">密度 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Density",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Density",
+          "body": "Density is a physical characteristic of a substance or object that expresses the relationship of its volume to its mass. The higher the density, the greater the mass per unit volume. The average density of an object is its total mass divided by its total volume. Its SI unit is kilograms per cubic meter (kg/m 3 ). Densities in the region of the Milky Way around the Sun can range from about 10 -20 kg/m 3 for interstellar gas to more than 10 17 kg/m 3 for the interiors of neutron stars. Everyday densities on Earth fall between those extremes, with iron at about 7800 kg/m 3 , water at around 1000 kg/m 3 and the air that surrounds us at sea-level at a bit more than 1 kg/m 3 . The Universe includes not just the stars, planets, and gas in galaxies, but also the relatively empty space between galaxies and between clusters of galaxies. This leads to an average density of matter in the Universe of the order of 10 -27 kg/m 3 ."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Плотность",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Плотность",
+          "body": "Плотность — это физическая характеристика вещества или объекта, выражающая отношение его объёма к его массе. Чем выше плотность, тем больше масса на единицу объёма. Средняя плотность объекта — это его общая масса, делённая на его общий объём. Её единица СИ — килограмм на кубический метр (кг/м 3 ). Плотности в области Млечного Пути вокруг Солнца могут варьироваться от примерно 10 -20 кг/м 3 для межзвёздного газа до более чем 10 17 кг/м 3 для внутренних областей нейтронных звёзд. Повседневные плотности на Земле находятся между этими крайностями: железо — около 7800 кг/м 3 , вода — около 1000 кг/м 3 , а воздух, окружающий нас на уровне моря, — чуть больше 1 кг/м 3 . Вселенная включает не только звёзды, планеты и газ в галактиках, но и относительно пустое пространство между галактиками и между скоплениями галактик. Это приводит к средней плотности материи во Вселенной порядка 10 -27 кг/м 3 ."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

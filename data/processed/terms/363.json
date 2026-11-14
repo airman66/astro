@@ -1,0 +1,307 @@
+{
+  "id": "term:363",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 363,
+    "url": "https://astro4edu.org/resources/glossary/term/363/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=363",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:03.232609+00:00",
+    "sha256": "cd491c015f4df8a638a20d13c05aaf94d18fd33a61144c01e1aef07f9ee0966b"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      203,
+      294,
+      314
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Titan",
+      "body": "Titan is the largest moon of Saturn. It is larger than Earth's Moon and Mercury, and is second largest amongst the moons in the Solar System. It is the only body other than Earth known to have liquid oceans, seas, and rivers on the surface. These are, however, made up of chemicals called hydrocarbons. Titan is believed to have a rocky core and an ice-crust made of water. It is thought that the liquid water beneath the ice-crust could possibly harbor life. It has a thick atmosphere, made up mostly of nitrogen, that makes it look very smooth in pictures.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Moon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/203/",
+          "text_ru": "Луна"
+        },
+        {
+          "text": "Saturn",
+          "url": "https://www.astro4edu.org/resources/glossary/term/294/",
+          "text_ru": "Сатурн"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Titan</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Titan is the largest moon of Saturn. It is larger than Earth's Moon and Mercury, and is second largest amongst the moons in the Solar System. It is the only body other than Earth known to have liquid oceans, seas, and rivers on the surface. These are, however, made up of chemicals called hydrocarbons. Titan is believed to have a rocky core and an ice-crust made of water. It is thought that the liquid water beneath the ice-crust could possibly harbor life. It has a thick atmosphere, made up mostly of nitrogen, that makes it look very smooth in pictures.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/203/\">Moon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/294/\">Saturn</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Титан",
+      "body_ru": "Титан — крупнейший спутник Сатурна. Он больше Луны Земли и Меркурия и является вторым по величине среди спутников в Солнечной системе. Это единственное тело, кроме Земли, о котором известно, что на его поверхности есть жидкие океаны, моря и реки. Однако они состоят из химических веществ, называемых углеводородами. Считается, что Титан имеет каменное ядро и ледяную кору из воды. Предполагается, что жидкая вода под ледяной корой, возможно, может содержать жизнь. Он имеет плотную атмосферу, состоящую в основном из азота, которая делает его очень гладким на фотографиях."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "タイタン (external link)",
+          "url": "https://astro-dic.jp/titan/",
+          "text_ru": "Титан (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/363/\">تيتان </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/363/\">Titan </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/363/\">Titán </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/363/\">Titan </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/363/\">Titano </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/titan/\">タイタン (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/363/\">Titã </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/363/\">泰坦 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/363/\">泰坦 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/fG995I755m56/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://photojournal.jpl.nasa.gov/catalog/PIA14602",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Go7dM77zE84/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://photojournal.jpl.nasa.gov/catalog/PIA20016",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/5x59vt446Q39/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://images.nasa.gov/details/PIA12515",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:fG995I755m56",
+        "media:Go7dM77zE84",
+        "media:5x59vt446Q39"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/fG995I755m56/\"><img alt=\"Saturn's moon Titan, its atmosphere of dense clouds leads to an almost uniform orange-yellowish appearance\" src=\"/media/multimedia/thumbnails/PIA14602_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Titan in natural colours</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image taken by NASA's Cassini spacecraft in January 2012 shows Saturn's moon Titan in near natural colours. The orange-yellowsh colour stems from a layer of partially charged hyodrocarbon compounds. In the visible light, Titan's surface remains largely hidden below the opaque atmosphere.<br/>\n<b>Credit:</b> NASA/JPL-Caltech/Space Science Institute\n\t  <a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA14602\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Go7dM77zE84/\"><img alt=\"Titan is round and this false colour image shows its surface as green with a large H-shaped dark patch\" src=\"/media/multimedia/thumbnails/PIA20016_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Titan with surface features</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This composite image taken by NASA's Cassini spacecraft in November 2015 visualises infrared radiation from Saturn's moon Titan. Infrared light can penetrate its hazy atmosphere and reveal some of its surface features. During its decent to the surface, the piggy-backed ESA lander Huygens discovered lakes made of liquid hydrocarbons.<br/>\n<b>Credit:</b> NASA/JPL/University of Arizona/University of Idaho\n\t  <a href=\"https://photojournal.jpl.nasa.gov/catalog/PIA20016\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/5x59vt446Q39/\"><img alt=\"Saturn's moon Titan partially illuminated. Saturn's moon Rhea is partially obscured behind Titan's top left edge\" src=\"/media/multimedia/thumbnails/rhea-reappearing-after-occultation-by-titan_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Rhea reappearing after occultation by Titan</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> On October 27, 2009, NASA’s Cassini spacecraft orbiting around Saturn captured this view of Saturn's moon Rhea as it began to emerge after being hidden by Saturn's largest moon Titan during an occultation. An occultation is a celestial event in which one object moves in front of another and temporarily blocks the first object from view. \n\nIn this image, Titan — about 5,150 km across — was closer to the spacecraft at about 1 million km, while Rhea — roughly 1,528 km in diameter — was farther away at about 2.3 million km. Titan’s high-altitude atmospheric haze is visible as a faint glow around its limb, showing the difference in surface and atmospheric properties between these two moons.\n\nScientists study occultations like this because watching how one moon disappears behind or reappears from another helps refine our understanding of their orbits and physical characteristics.<br/>\n<b>Credit:</b> NASA/JPL/Space Science Institute\n\t  <a href=\"https://images.nasa.gov/details/PIA12515\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Children's Planetary Maps: Titan astroEDU educational activity (links to astroEDU website) Description: Learn about the only other known body in the Solar System with Seas and Lakes License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-titan/\"><img alt=\"Children's Planetary Maps: Titan\" src=\"/media/astroedu/images/childrens-planetary-maps-titan_en_thumbnail_uIxM0Qv.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-titan/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Children's Planetary Maps: Titan</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn about the only other known body in the Solar System with Seas and Lakes\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Детские планетарные карты: Титан образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о единственном другом известном теле в Солнечной системе с морями и озерами Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная школа \n  \n, Старшая школа Области обучения: Обучение через структурированное исследование Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Titan",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Titan",
+          "body": "Titan is the largest moon of Saturn. It is larger than Earth's Moon and Mercury, and is second largest amongst the moons in the Solar System. It is the only body other than Earth known to have liquid oceans, seas, and rivers on the surface. These are, however, made up of chemicals called hydrocarbons. Titan is believed to have a rocky core and an ice-crust made of water. It is thought that the liquid water beneath the ice-crust could possibly harbor life. It has a thick atmosphere, made up mostly of nitrogen, that makes it look very smooth in pictures."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Children's Planetary Maps: Titan astroEDU educational activity (links to astroEDU website) Description: Learn about the only other known body in the Solar System with Seas and Lakes License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations"
+        }
+      }
+    },
+    "ru": {
+      "title": "Титан",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Титан",
+          "body": "Титан — крупнейший спутник Сатурна. Он больше Луны Земли и Меркурия и является вторым по величине среди спутников в Солнечной системе. Это единственное тело, кроме Земли, о котором известно, что на его поверхности есть жидкие океаны, моря и реки. Однако они состоят из химических веществ, называемых углеводородами. Считается, что Титан имеет каменное ядро и ледяную кору из воды. Предполагается, что жидкая вода под ледяной корой, возможно, может содержать жизнь. Он имеет плотную атмосферу, состоящую в основном из азота, которая делает его очень гладким на фотографиях."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Детские планетарные карты: Титан образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о единственном другом известном теле в Солнечной системе с морями и озерами Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная школа \n  \n, Старшая школа Области обучения: Обучение через структурированное исследование Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:fG995I755m56",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA14602.jpg",
+      "record_url": "https://astro4edu.org/resources/media/fG995I755m56/",
+      "original_path": "data/media/original/media_fG995I755m56.jpg",
+      "ru_path": null,
+      "sha256": "ee4057ff56934eb2bdfb78b2768e699ebe9226125d5623bd4b89df230c4e0e82",
+      "size": 24072,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "NASA Cassini image of Saturn's moon Titan",
+      "short_caption_ru": "Изображение Титана, луны Сатурна, полученное NASA Cassini",
+      "caption_en": "This image taken by NASA's Cassini spacecraft in January 2012 shows Saturn's moon Titan in near natural colours. The orange-yellowsh colour stems from a layer of partially charged hyodrocarbon compounds. In the visible light, Titan's surface remains largely hidden below the opaque atmosphere.",
+      "caption_ru": "Это изображение, полученное космическим аппаратом NASA Cassini в январе 2012, показывает луну Сатурна Титан в почти естественных цветах. Оранжево-желтоватый цвет обусловлен слоем частично заряженных углеводородных соединений. В видимом свете поверхность Титана остаётся в значительной степени скрытой под непрозрачной атмосферой.",
+      "alt_en": "Saturn's moon Titan, its atmosphere of dense clouds leads to an almost uniform orange-yellowish appearance",
+      "alt_ru": "Луна Сатурна Титан, его атмосфера из плотных облаков придаёт почти однородный оранжево-желтоватый вид",
+      "credit": "NASA/JPL-Caltech/Space Science Institute",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA14602",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        204,
+        363
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Go7dM77zE84",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA20016.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Go7dM77zE84/",
+      "original_path": "data/media/original/media_Go7dM77zE84.jpg",
+      "ru_path": null,
+      "sha256": "739bb622b3e72a86cbcde1daa208f52884c1b17886e3a465768328ba5ea105fb",
+      "size": 160313,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A NASA Cassini image of Titan showing surface features",
+      "short_caption_ru": "Изображение Титана, полученное NASA Cassini, показывающее особенности поверхности",
+      "caption_en": "This composite image taken by NASA's Cassini spacecraft in November 2015 visualises infrared radiation from Saturn's moon Titan. Infrared light can penetrate its hazy atmosphere and reveal some of its surface features. During its decent to the surface, the piggy-backed ESA lander Huygens discovered lakes made of liquid hydrocarbons.",
+      "caption_ru": "Это композитное изображение, полученное космическим аппаратом NASA Cassini в ноябре 2015, визуализирует инфракрасное излучение от луны Сатурна Титана. Инфракрасный свет может проникать сквозь его туманную атмосферу и выявлять некоторые особенности его поверхности. Во время спуска к поверхности прикреплённый к аппарату посадочный модуль ESA Huygens обнаружил озёра из жидких углеводородов.",
+      "alt_en": "Titan is round and this false colour image shows its surface as green with a large H-shaped dark patch",
+      "alt_ru": "Титан круглый, и это изображение в ложных цветах показывает его поверхность зелёной с большим тёмным пятном H-образной формы",
+      "credit": "NASA/JPL/University of Arizona/University of Idaho",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA20016",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        204,
+        363
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:5x59vt446Q39",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/rhea-reappearing-after-occultation-by-titan.png",
+      "record_url": "https://astro4edu.org/resources/media/5x59vt446Q39/",
+      "original_path": "data/media/original/media_5x59vt446Q39.png",
+      "ru_path": null,
+      "sha256": "7f6d2634019e1f81f5d21d1fa52c2a5061d17270b5d04c4b8a30cf65a31a6cb7",
+      "size": 85731,
+      "title_en": "Rhea reappearing after occultation by Titan",
+      "title_ru": "Рея, появляющаяся после покрытия Титаном",
+      "short_caption_en": "Rhea reappearing after occultation by Titan",
+      "short_caption_ru": "Рея, появляющаяся после покрытия Титаном",
+      "caption_en": "On October 27, 2009, NASA’s Cassini spacecraft orbiting around Saturn captured this view of Saturn's moon Rhea as it began to emerge after being hidden by Saturn's largest moon Titan during an occultation. An occultation is a celestial event in which one object moves in front of another and temporarily blocks the first object from view. \r\n\r\nIn this image, Titan — about 5,150 km across — was closer to the spacecraft at about 1 million km, while Rhea — roughly 1,528 km in diameter — was farther away at about 2.3 million km. Titan’s high-altitude atmospheric haze is visible as a faint glow around its limb, showing the difference in surface and atmospheric properties between these two moons.\r\n\r\nScientists study occultations like this because watching how one moon disappears behind or reappears from another helps refine our understanding of their orbits and physical characteristics.",
+      "caption_ru": "27 октября 2009 года космический аппарат НАСА «Кассини», обращающийся вокруг Сатурна, запечатлел этот вид спутника Сатурна Реи, когда он начал появляться после того, как был скрыт крупнейшим спутником Сатурна Титаном во время покрытия. Покрытие — это небесное явление, при котором один объект проходит перед другим и временно закрывает первый объект от наблюдения.\r\n\r\nНа этом изображении Титан — диаметром около 5150 км — был ближе к космическому аппарату на расстоянии около 1 миллиона км, в то время как Рея — диаметром примерно 1528 км — была дальше на расстоянии около 2,3 миллиона км. Высотная атмосферная дымка Титана видна как слабое свечение вокруг его края, показывая разницу в свойствах поверхности и атмосферы между этими двумя спутниками.\r\n\r\nУчёные изучают такие покрытия, потому что наблюдение за тем, как один спутник исчезает за другим или появляется из-за него, помогает уточнить наше понимание их орбит и физических характеристик.",
+      "alt_en": "Saturn's moon Titan partially illuminated. Saturn's moon Rhea is partially obscured behind Titan's top left edge",
+      "alt_ru": "Спутник Сатурна Титан частично освещён. Спутник Сатурна Рея частично скрыт за верхним левым краем Титана",
+      "credit": "NASA/JPL/Space Science Institute",
+      "credit_url": "https://images.nasa.gov/details/PIA12515",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        204,
+        363,
+        464
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

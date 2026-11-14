@@ -1,0 +1,342 @@
+{
+  "id": "term:304",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 304,
+    "url": "https://astro4edu.org/resources/glossary/term/304/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=304",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:47.162594+00:00",
+    "sha256": "71b94a4f7eef18e3fa89c77c2883c706b1514ba6f066e7eab651942a2c24b486"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Stars"
+    ],
+    "category_ids": [
+      4,
+      2
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      1,
+      40,
+      138,
+      386,
+      467,
+      487
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Sirius",
+      "body": "Sirius, also called the Dog Star or Alpha Canis Majoris, is the star that appears brightest in the night sky to our eyes. It is located at a distance of 8.6 light years from us in the constellation Canis Major near Orion. The bright star that is visible to us is Sirius A, a star of spectral type A. Sirius A has a gravitationally bound companion, Sirius B, which is a white dwarf star that is very faint in visible light but very bright in X-rays. Sirius B is too faint and too close to Sirius A to be seen with the naked eye.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "A-type Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/1/",
+          "text_ru": "Звезда спектрального класса A"
+        },
+        {
+          "text": "Binary Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/40/",
+          "text_ru": "Двойная звезда"
+        },
+        {
+          "text": "Greenwich Mean Time Zone (GMT)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/138/",
+          "text_ru": "Среднее время по Гринвичу (GMT)"
+        },
+        {
+          "text": "White Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/386/",
+          "text_ru": "Белый карлик"
+        },
+        {
+          "text": "Orion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/467/",
+          "text_ru": "Орион"
+        },
+        {
+          "text": "X-ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/487/",
+          "text_ru": "Рентгеновское излучение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Sirius</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Sirius, also called the Dog Star or Alpha Canis Majoris, is the star that appears brightest in the night sky to our eyes. It is located at a distance of 8.6 light years from us in the constellation Canis Major near Orion. The bright star that is visible to us is Sirius A, a star of spectral type A. Sirius A has a gravitationally bound companion, Sirius B, which is a white dwarf star that is very faint in visible light but very bright in X-rays. Sirius B is too faint and too close to Sirius A to be seen with the naked eye.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/1/\">A-type Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/40/\">Binary Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/138/\">Greenwich Mean Time Zone (GMT)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/386/\">White Dwarf</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/467/\">Orion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/487/\">X-ray</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Сириус",
+      "body_ru": "Сириус, также называемый Собачьей звездой или Альфа Большого Пса, — это звезда, которая кажется нам самой яркой на ночном небе. Она находится на расстоянии 8.6 световых лет от нас в созвездии Большого Пса рядом с Орионом. Яркая звезда, видимая нам, — это Сириус A, звезда спектрального класса A. У Сириуса A есть гравитационно связанный компаньон — Сириус B, который является звездой-белым карликом, очень слабым в видимом свете, но очень ярким в рентгеновских лучах. Сириус B слишком слаб и слишком близок к Сириусу A, чтобы его можно было увидеть невооружённым глазом."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/304/\">نجم الشعرى </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/304/\">Sirius </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/304/\">Sirio </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/304/\">Sirius </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/304/\">Sirio </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/304/\">Sirius </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/304/\">天狼星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/304/\">天狼星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/2H27Fy28PN69/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/h111Wi173458/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic0516a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:2H27Fy28PN69",
+        "media:h111Wi173458"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/2H27Fy28PN69/\"><img alt=\"The bow tie shaped Orion over dry, rocky outcrops. Sirius appears as a bright star between two pillars of rock\" src=\"/media/multimedia/thumbnails/Winter_Constellations_5n4TStg.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Winter Constellations</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2022 IAU OAE Astrophotography Contest, category Time lapses of celestial patterns.\n\n \n\nSirius, the brightest star in the night sky, is shown rising, setting and passing by. Sometimes constellations and asterisms are also visible, including Orion, Taurus and the Pleiades. In the first scene, the aforementioned constellations are covered by a semi-transparent golden veil. The next scenes show it rising in a dark blue night sky. In one of the scenes, a planet brightly decorates the faint constellation Pisces.\n\nThe videos were taken above various landscapes and places of cultural heritage on Earth. Some of them simply show monuments in the desert, while others show palm trees with waving leaves.<br/>\n<b>Credit:</b> Amirreza Kamkar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/h111Wi173458/\"><img alt=\"Sirius A, a bright star with x-shaped diffraction spikes. Sirius B is a faint dot to the lower left.\" src=\"/media/multimedia/thumbnails/sirius-a-with-his-faint-white-dwarf-companion-sirius-b_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sirius A with his faint white dwarf companion Sirius B</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This Hubble Space Telescope image highlights Sirius, the brightest star in Earth’s night sky, appearing as an intensely luminous object at the center with prominent cross-shaped diffraction spikes. These spikes, along with the saturated glow around the main star, are caused by the Sirius' light being spread out by the telescope and camera used to make this image. Slightly below and to the left of the main star, a tiny point of light marks Sirius B, a much dimmer object captured thanks to Hubble’s high sensitivity.\n\nSirius A is an A-type star, known for its high surface temperature and strong white-blue light, while Sirius B is a compact white dwarf, the dense remnant of a star that has exhausted its nuclear fuel. Together, they form a well-known Binary star system located about 8.6 light-years from Earth.\n\nSirius B was originally a higher mass and brighter star that burned through its hydrogen fuel more quickly than Sirius A. This led to Sirius B evolving into a red giant and eventually ending its life as a planetary nebula, leaving only the remains of its core as a white dwarf orbiting Sirius A.<br/>\n<b>Credit:</b> NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester)\n\t  <a href=\"https://esahubble.org/images/heic0516a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/wM92AD94GS73/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:wM92AD94GS73"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/wM92AD94GS73/\"><img alt=\"Canis Major is shaped like a stick figure drawing of a dog tilted up by 45 degrees. Sirius lies at the dog’s shoulder\" src=\"/media/diagrams/multimedia/thumbnails/canis_major-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Canis Major Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Canis Major along with its bright stars and its surrounding constellations. Canis Major is surrounded by (going clockwise from the top): Monoceros, Lepus, Columba and Puppis. The constellation is dominated by Sirius, the star which appears brightest in the night sky, which far outshines all of the other stars in the constellation. \n\nCanis Major lies just south of the celestial equator and is visible from all of the southern hemisphere as well as equatorial and temperate regions of the northern hemisphere. Sirius is visible from all but the most arctic regions. Canis Major is most visible in the evenings in late winter in the northern hemisphere and late summer in the southern hemisphere. \n\nThe open star clusters M41, NGC 2360 and NGC 2362 lie in the constellation. These are marked with yellow circles.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Sirius",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Sirius",
+          "body": "Sirius, also called the Dog Star or Alpha Canis Majoris, is the star that appears brightest in the night sky to our eyes. It is located at a distance of 8.6 light years from us in the constellation Canis Major near Orion. The bright star that is visible to us is Sirius A, a star of spectral type A. Sirius A has a gravitationally bound companion, Sirius B, which is a white dwarf star that is very faint in visible light but very bright in X-rays. Sirius B is too faint and too close to Sirius A to be seen with the naked eye."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Сириус",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Сириус",
+          "body": "Сириус, также называемый Собачьей звездой или Альфа Большого Пса, — это звезда, которая кажется нам самой яркой на ночном небе. Она находится на расстоянии 8.6 световых лет от нас в созвездии Большого Пса рядом с Орионом. Яркая звезда, видимая нам, — это Сириус A, звезда спектрального класса A. У Сириуса A есть гравитационно связанный компаньон — Сириус B, который является звездой-белым карликом, очень слабым в видимом свете, но очень ярким в рентгеновских лучах. Сириус B слишком слаб и слишком близок к Сириусу A, чтобы его можно было увидеть невооружённым глазом."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:2H27Fy28PN69",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/7425646/files/Second%20place%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Time%20lapses%20of%20celestial%20patterns%3A%20Winter%20Constellations%2C%20by%20Amirreza%20Kamkar.mp4",
+      "record_url": "https://astro4edu.org/resources/media/2H27Fy28PN69/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Winter Constellations",
+      "short_caption_ru": "Зимние созвездия",
+      "caption_en": "Second place in the 2022 IAU OAE Astrophotography Contest, category Time lapses of celestial patterns.\r\n\r\n \r\n\r\nSirius, the brightest star in the night sky, is shown rising, setting and passing by. Sometimes constellations and asterisms are also visible, including Orion, Taurus and the Pleiades. In the first scene, the aforementioned constellations are covered by a semi-transparent golden veil. The next scenes show it rising in a dark blue night sky. In one of the scenes, a planet brightly decorates the faint constellation Pisces.\r\n\r\nThe videos were taken above various landscapes and places of cultural heritage on Earth. Some of them simply show monuments in the desert, while others show palm trees with waving leaves.",
+      "caption_ru": "Второе место в конкурсе астрофотографии 2022 IAU OAE, категория «Таймлапсы небесных узоров».\r\n\r\n \r\n\r\nСириус, самая яркая звезда ночного неба, показан восходящим, заходящим и проходящим мимо. Иногда также видны созвездия и астеризмы, включая Орион, Тельца и Плеяды. В первой сцене вышеупомянутые созвездия покрыты полупрозрачной золотой вуалью. Следующие сцены показывают его восход на тёмно-синем ночном небе. В одной из сцен планета ярко украшает слабое созвездие Рыб.\r\n\r\nВидео были сняты над различными пейзажами и местами культурного наследия на Земле. Некоторые из них просто показывают памятники в пустыне, в то время как другие показывают пальмы с колышущимися листьями.",
+      "alt_en": "The bow tie shaped Orion over dry, rocky outcrops. Sirius appears as a bright star between two pillars of rock",
+      "alt_ru": "Орион в форме галстука-бабочки над сухими скалистыми обнажениями. Сириус появляется как яркая звезда между двумя каменными столбами",
+      "credit": "Amirreza Kamkar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        66,
+        304,
+        351,
+        467,
+        469
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:h111Wi173458",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/sirius-a-with-his-faint-white-dwarf-companion-sirius-b.png",
+      "record_url": "https://astro4edu.org/resources/media/h111Wi173458/",
+      "original_path": "data/media/original/media_h111Wi173458.png",
+      "ru_path": null,
+      "sha256": "11284e811fb69578d6b4f50641e4f2f114494b637e69bcabb09c84f916302aae",
+      "size": 1454728,
+      "title_en": "Sirius A with his faint white dwarf companion Sirius B",
+      "title_ru": "Сириус A со своим тусклым компаньоном — белым карликом Сириусом B",
+      "short_caption_en": "Sirius A with his faint white dwarf companion Sirius B",
+      "short_caption_ru": "Сириус A со своим тусклым компаньоном — белым карликом Сириусом B",
+      "caption_en": "This Hubble Space Telescope image highlights Sirius, the brightest star in Earth’s night sky, appearing as an intensely luminous object at the center with prominent cross-shaped diffraction spikes. These spikes, along with the saturated glow around the main star, are caused by the Sirius' light being spread out by the telescope and camera used to make this image. Slightly below and to the left of the main star, a tiny point of light marks Sirius B, a much dimmer object captured thanks to Hubble’s high sensitivity.\r\n\r\nSirius A is an A-type star, known for its high surface temperature and strong white-blue light, while Sirius B is a compact white dwarf, the dense remnant of a star that has exhausted its nuclear fuel. Together, they form a well-known Binary star system located about 8.6 light-years from Earth.\r\n\r\nSirius B was originally a higher mass and brighter star that burned through its hydrogen fuel more quickly than Sirius A. This led to Sirius B evolving into a red giant and eventually ending its life as a planetary nebula, leaving only the remains of its core as a white dwarf orbiting Sirius A.",
+      "caption_ru": "На этом снимке космического телескопа «Хаббл» показан Сириус — самая яркая звезда ночного неба Земли; в центре он предстаёт как чрезвычайно яркий объект с заметными крестообразными дифракционными лучами. Эти лучи, как и пересвеченное свечение вокруг главной звезды, возникают из-за того, как телескоп и камера, использованные для получения этого изображения, распределяют свет Сириуса. Чуть ниже и левее главной звезды крошечная точка света обозначает Сириус B — гораздо более тусклый объект, запечатлённый благодаря высокой чувствительности «Хаббла».\r\n\r\nСириус A — звезда класса A, известная своей высокой температурой поверхности и интенсивным бело-голубым светом, а Сириус B — компактный белый карлик, плотный остаток звезды, исчерпавшей своё ядерное топливо. Вместе они образуют известную двойную звёздную систему, расположенную примерно в 8.6 светового года от Земли.\r\n\r\nСириус B изначально был более массивной и яркой звездой, которая израсходовала своё водородное топливо быстрее, чем Сириус A. Это привело к тому, что Сириус B превратился в красный гигант и в конечном итоге завершил свою жизнь как планетарная туманность, оставив лишь остатки своего ядра в виде белого карлика, обращающегося вокруг Сириуса A.",
+      "alt_en": "Sirius A, a bright star with x-shaped diffraction spikes. Sirius B is a faint dot to the lower left.",
+      "alt_ru": "Сириус A — яркая звезда с X-образными дифракционными лучами. Сириус B — тусклая точка слева внизу.",
+      "credit": "NASA, ESA, H. Bond (STScI), and M. Barstow (University of Leicester)",
+      "credit_url": "https://esahubble.org/images/heic0516a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        1,
+        40,
+        304,
+        386
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:wM92AD94GS73",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/canis_major-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/wM92AD94GS73/",
+      "original_path": "data/media/original/diagram_wM92AD94GS73.png",
+      "ru_path": null,
+      "sha256": "0977bc4f568afb6c328a18f2b28a247212d2fec11db7cc74673ff5fc6df11a67",
+      "size": 116565,
+      "title_en": "Canis Major Constellation Map",
+      "title_ru": "Карта созвездия Большой Пёс",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Canis Major along with its bright stars and its surrounding constellations. Canis Major is surrounded by (going clockwise from the top): Monoceros, Lepus, Columba and Puppis. The constellation is dominated by Sirius, the star which appears brightest in the night sky, which far outshines all of the other stars in the constellation. \r\n\r\nCanis Major lies just south of the celestial equator and is visible from all of the southern hemisphere as well as equatorial and temperate regions of the northern hemisphere. Sirius is visible from all but the most arctic regions. Canis Major is most visible in the evenings in late winter in the northern hemisphere and late summer in the southern hemisphere. \r\n\r\nThe open star clusters M41, NGC 2360 and NGC 2362 lie in the constellation. These are marked with yellow circles.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Большой Пёс вместе с его яркими звёздами и окружающими созвездиями. Большой Пёс окружён (по часовой стрелке сверху): Единорогом, Зайцем, Голубем и Кормой. В созвездии доминирует Сириус — звезда, которая кажется самой яркой на ночном небе и затмевает все остальные звёзды созвездия.\r\n\r\nБольшой Пёс лежит чуть южнее небесного экватора и виден со всего южного полушария, а также из экваториальных и умеренных регионов северного полушария. Сириус виден отовсюду, кроме самых арктических регионов. Большой Пёс лучше всего виден по вечерам в конце зимы в северном полушарии и в конце лета в южном полушарии.\r\n\r\nВ созвездии находятся рассеянные звёздные скопления M41, NGC 2360 и NGC 2362. Они отмечены жёлтыми кружками.\r\n\r\nОсь Y на этой диаграмме выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной — мерой видимой яркости. Более крупные точки обозначают более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они упорядочены по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии — одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Canis Major is shaped like a stick figure drawing of a dog tilted up by 45 degrees. Sirius lies at the dog’s shoulder",
+      "alt_ru": "Большой Пёс имеет форму рисунка собаки из палочек, наклонённого вверх на 45 градусов. Сириус находится у плеча собаки",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        286,
+        304,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

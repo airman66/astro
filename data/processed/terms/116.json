@@ -1,0 +1,222 @@
+{
+  "id": "term:116",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 116,
+    "url": "https://astro4edu.org/resources/glossary/term/116/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=116",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:46.097460+00:00",
+    "sha256": "23378d6c8b43da56bf81fcd72968db68d450df66a1d578366695836f2982a7bd"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies",
+      "Milky Way and Interstellar Medium"
+    ],
+    "category_ids": [
+      8,
+      7
+    ],
+    "categories_ru": [
+      "Галактики",
+      "Млечный Путь и межзвёздная среда"
+    ],
+    "related_term_numbers": [
+      115,
+      117,
+      118,
+      119,
+      292,
+      314
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Galactic Center",
+      "body": "The galactic center is the central region of the Milky Way (the galaxy in which the Solar System is located), the region that the Milky Way disk rotates around. The galactic center is part of the galactic bulge and is around 27,000 light years (8 kiloparsecs) from the Solar System, compared to the diameter of the galactic disk of about 100,00 light years (roughly 31 kiloparsecs). It contains the radio source Sagittarius A and the compact radio source Sagittarius A* which is the supermassive black hole at the heart of our Galaxy. This black hole, which has a mass of approximately 4.5 million solar masses, is orbited by several young, massive stars. All this is surrounded by millions of older stars making up the so-called nuclear star cluster.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Galactic Bulge",
+          "url": "https://www.astro4edu.org/resources/glossary/term/115/",
+          "text_ru": "Галактическая выпуклость"
+        },
+        {
+          "text": "Galactic Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/117/",
+          "text_ru": "Галактический диск"
+        },
+        {
+          "text": "Galactic Halo",
+          "url": "https://www.astro4edu.org/resources/glossary/term/118/",
+          "text_ru": "Галактическое гало"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Sagittarius A*",
+          "url": "https://www.astro4edu.org/resources/glossary/term/292/",
+          "text_ru": "Стрелец A*"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Galactic Center</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The galactic center is the central region of the Milky Way (the galaxy in which the Solar System is located), the region that the Milky Way disk rotates around. The galactic center is part of the galactic bulge and is around 27,000 light years (8 kiloparsecs) from the Solar System, compared to the diameter of the galactic disk of about 100,00 light years (roughly 31 kiloparsecs). It contains the radio source Sagittarius A and the compact radio source Sagittarius A* which is the supermassive black hole at the heart of our Galaxy. This black hole, which has a mass of approximately 4.5 million solar masses, is orbited by several young, massive stars. All this is surrounded by millions of older stars making up the so-called nuclear star cluster.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/115/\">Galactic Bulge</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/117/\">Galactic Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/118/\">Galactic Halo</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/292/\">Sagittarius A*</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Галактический центр",
+      "body_ru": "Галактический центр — это центральная область Млечного Пути (галактики, в которой находится Солнечная система), область, вокруг которой вращается диск Млечного Пути. Галактический центр является частью галактической выпуклости и находится на расстоянии около 27,000 световых лет (8 килопарсек) от Солнечной системы, по сравнению с диаметром галактического диска около 100,00 световых лет (примерно 31 килопарсек). Он содержит радиоисточник Стрелец A и компактный радиоисточник Стрелец A*, который является сверхмассивной чёрной дырой в сердце нашей Галактики. Вокруг этой чёрной дыры, масса которой составляет примерно 4.5 миллионов солнечных масс, обращаются несколько молодых массивных звёзд. Всё это окружено миллионами более старых звёзд, составляющих так называемое ядерное звёздное скопление."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/116/\">مركز المجرة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/116/\">Galaktisches Zentrum </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/116/\">Centro galáctico </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/116/\">Centre galactique </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/116/\">Centro galattico </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/116/\">Centro Galáctico </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/116/\">银河系中心 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/116/\">銀河系中心 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/ef73go0hL43/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:ef73go0hL43"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/ef73go0hL43/\"><img alt=\"Ophiuchus appears as a headless stick figure\" src=\"/media/diagrams/multimedia/thumbnails/ophiuchus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ophiuchus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Ophiuchus  along with its bright stars and its surrounding constellations. Ophiuchus is surrounded by (going clockwise from the top): Hercules, Serpens Caput, Scorpius, Sagittarius and Serpens Cauda. Ophiuchus is not part of the traditional twelve zodiac constellations but it lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Ophiuchus from late November to mid December. The other planets of the Solar System can often be found in Ophiuchus. \n\nOphiuchus spans the celestial equator and thus part of the constellation is visible across the whole of the earth at some point in the year. However during the time it is most visible in the evenings (the southern hemisphere winter and northern hemisphere summer) much of the arctic is in perpetual daylight making the stars in the constellation impossible to see. The whole constellation is visible from equatorial and temperate regions of both hemispheres. \n\nAs Ophiuchus lies close to the galactic center it contains many globular clusters such as M9, M10, M12, M14, M19, M62, and M107. These are marked as yellow circles with plus symbols superimposed. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Galactic Center",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Galactic Center",
+          "body": "The galactic center is the central region of the Milky Way (the galaxy in which the Solar System is located), the region that the Milky Way disk rotates around. The galactic center is part of the galactic bulge and is around 27,000 light years (8 kiloparsecs) from the Solar System, compared to the diameter of the galactic disk of about 100,00 light years (roughly 31 kiloparsecs). It contains the radio source Sagittarius A and the compact radio source Sagittarius A* which is the supermassive black hole at the heart of our Galaxy. This black hole, which has a mass of approximately 4.5 million solar masses, is orbited by several young, massive stars. All this is surrounded by millions of older stars making up the so-called nuclear star cluster."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Галактический центр",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Галактический центр",
+          "body": "Галактический центр — это центральная область Млечного Пути (галактики, в которой находится Солнечная система), область, вокруг которой вращается диск Млечного Пути. Галактический центр является частью галактической выпуклости и находится на расстоянии около 27,000 световых лет (8 килопарсек) от Солнечной системы, по сравнению с диаметром галактического диска около 100,00 световых лет (примерно 31 килопарсек). Он содержит радиоисточник Стрелец A и компактный радиоисточник Стрелец A*, который является сверхмассивной чёрной дырой в сердце нашей Галактики. Вокруг этой чёрной дыры, масса которой составляет примерно 4.5 миллионов солнечных масс, обращаются несколько молодых массивных звёзд. Всё это окружено миллионами более старых звёзд, составляющих так называемое ядерное звёздное скопление."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:ef73go0hL43",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ophiuchus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/ef73go0hL43/",
+      "original_path": "data/media/original/diagram_ef73go0hL43.png",
+      "ru_path": null,
+      "sha256": "1f2a23600fa63efaa493349901f972108d6269fba8f9a9c9e92b5cc72affd64f",
+      "size": 139909,
+      "title_en": "Ophiuchus Constellation Map",
+      "title_ru": "Карта созвездия Змееносец",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Ophiuchus  along with its bright stars and its surrounding constellations. Ophiuchus is surrounded by (going clockwise from the top): Hercules, Serpens Caput, Scorpius, Sagittarius and Serpens Cauda. Ophiuchus is not part of the traditional twelve zodiac constellations but it lies on the ecliptic (shown here as a blue line), this is the path the Sun appears to take across the sky over the course of a year. The Sun is in Ophiuchus from late November to mid December. The other planets of the Solar System can often be found in Ophiuchus. \r\n\r\nOphiuchus spans the celestial equator and thus part of the constellation is visible across the whole of the earth at some point in the year. However during the time it is most visible in the evenings (the southern hemisphere winter and northern hemisphere summer) much of the arctic is in perpetual daylight making the stars in the constellation impossible to see. The whole constellation is visible from equatorial and temperate regions of both hemispheres. \r\n\r\nAs Ophiuchus lies close to the galactic center it contains many globular clusters such as M9, M10, M12, M14, M19, M62, and M107. These are marked as yellow circles with plus symbols superimposed. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Змееносец вместе с его яркими звёздами и окружающими созвездиями. Змееносец окружён (по часовой стрелке сверху): Геркулесом, Змеёй (Голова), Скорпионом, Стрельцом и Змеёй (Хвост). Змееносец не входит в традиционные двенадцать зодиакальных созвездий, но лежит на эклиптике (показана здесь синей линией) — это путь, который Солнце, как кажется, проходит по небу в течение года. Солнце находится в Змееносце с конца ноября до середины декабря. Другие планеты Солнечной системы также часто можно найти в Змееносце.\r\n\r\nЗмееносец пересекает небесный экватор, поэтому часть созвездия видна на всей Земле в какое-то время года. Однако в период, когда оно наиболее видимо по вечерам (зимой в южном полушарии и летом в северном), большая часть Арктики находится в условиях полярного дня, что делает звёзды созвездия невидимыми. Всё созвездие видно из экваториальных и умеренных регионов обоих полушарий.\r\n\r\nПоскольку Змееносец расположен близко к галактическому центру, он содержит множество шаровых скоплений, таких как M9, M10, M12, M14, M19, M62 и M107. Они отмечены жёлтыми кружками с наложенными символами плюса.\r\n\r\nОсь Y на этой диаграмме выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной — мерой видимой яркости. Более крупные точки обозначают более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они упорядочены по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии — одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Ophiuchus appears as a headless stick figure",
+      "alt_ru": "Змееносец выглядит как безголовый человечек из палочек",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        51,
+        66,
+        78,
+        92,
+        116,
+        132,
+        286,
+        299,
+        391,
+        474
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

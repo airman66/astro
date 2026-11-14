@@ -1,0 +1,351 @@
+{
+  "id": "term:347",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 347,
+    "url": "https://astro4edu.org/resources/glossary/term/347/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=347",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:58.698397+00:00",
+    "sha256": "58f9ac8beae62f4b6f2c1ec554deda7428ff799c4b5561a2d5104208f79883ff"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Stars"
+    ],
+    "category_ids": [
+      4,
+      2
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      130,
+      278,
+      334,
+      503
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Supergiant Star",
+      "body": "Supergiants are the largest and most luminous stars. They can be several hundred times larger than the Sun and many thousand times more luminous. They occupy the top region of the Hertzsprung–Russell diagram with absolute visual magnitudes between −3 and −8. The temperature range of supergiant stars spans from about 3400 kelvins (K) to over 20,000 K. They are either massive stars or are in a very late phase of stellar evolution. Supergiant stars can be identified on the basis of their spectra, with distinctive lines sensitive to high luminosity and low surface gravity: these spectral lines are narrow compared to the width of lines in smaller stars. Typical examples of supergiant stars are Betelgeuse in Orion and the Cepheid variables.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Giant Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/130/",
+          "text_ru": "Звезда-гигант"
+        },
+        {
+          "text": "Red Supergiant",
+          "url": "https://www.astro4edu.org/resources/glossary/term/278/",
+          "text_ru": "Красный сверхгигант"
+        },
+        {
+          "text": "Stellar Evolution",
+          "url": "https://www.astro4edu.org/resources/glossary/term/334/",
+          "text_ru": "Звездная эволюция"
+        },
+        {
+          "text": "Luminosity Class",
+          "url": "https://www.astro4edu.org/resources/glossary/term/503/",
+          "text_ru": "Класс светимости"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Supergiant Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Supergiant star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Supergiants are the largest and most luminous stars. They can be several hundred times larger than the Sun and many thousand times more luminous. They occupy the top region of the Hertzsprung–Russell diagram with absolute visual magnitudes between −3 and −8. The temperature range of supergiant stars spans from about 3400 kelvins (K) to over 20,000 K. They are either massive stars or are in a very late phase of stellar evolution. Supergiant stars can be identified on the basis of their spectra, with distinctive lines sensitive to high luminosity and low surface gravity: these spectral lines are narrow compared to the width of lines in smaller stars. Typical examples of supergiant stars are Betelgeuse in Orion and the Cepheid variables.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/130/\">Giant Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/278/\">Red Supergiant</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/334/\">Stellar Evolution</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/503/\">Luminosity Class</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Сверхгигант",
+      "body_ru": "Сверхгиганты — самые крупные и самые яркие звёзды. Они могут быть в несколько сотен раз больше Солнца и в многие тысячи раз ярче. Они занимают верхнюю область диаграммы Герцшпрунга–Рассела с абсолютными визуальными величинами от −3 до −8. Диапазон температур сверхгигантов простирается от примерно 3400 кельвинов (K) до более чем 20,000 K. Они либо являются массивными звёздами, либо находятся на очень поздней стадии звёздной эволюции. Сверхгиганты можно идентифицировать по их спектрам с характерными линиями, чувствительными к высокой светимости и низкой поверхностной гравитации: эти спектральные линии узкие по сравнению с шириной линий у меньших звёзд. Типичными примерами сверхгигантов являются Бетельгейзе в Орионе и цефеиды."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "超巨星 (external link)",
+          "url": "https://astro-dic.jp/supergiant/",
+          "text_ru": "сверхгигант (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/347/\">نجم فائق الضخامة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/347/\">Überriesen </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/347/\">Estrella supergigante </a></span></li>\n<li><b>Persian: </b><span dir=\"RTL\" lang=\"fa\"><a class=\"link-bold\" href=\"/fa/resources/glossary/term/347/\">ستاره ابر‌غول </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/347/\">Étoile supergéante </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/347/\">Stella supergigante </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/supergiant/\">超巨星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/347/\">초거성 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/347/\">Estrela supergigante </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/347/\">超巨星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/347/\">超巨星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/6H69M193VT57/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/germany/images/potw1726a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:6H69M193VT57"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/6H69M193VT57/\"><img alt=\"The nearby red supergiant Betelgeuse, seen as orange blob showing a non-symmetric shape with a bright spot to the upper left\" src=\"/media/multimedia/thumbnails/the-red-supergiant-betelgeuse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The red supergiant Betelgeuse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The image shows Betelgeuse, a red supergiant in the constellation Orion, observed by the Atacama Large Millimeter/submillimeter Array (ALMA). ALMA consists of many antennae spread across a plain in Northern Chile. The observations from all of these receivers is synthesised together by a central computer to form an image. The wide distances between the antennae mean that is can resolve very fine details.   \n\nMost stars we observe are just seen as points of light, but Betelgeuse is so large (with a radius about 1,400 times larger than the Sun) and is sufficiently nearby that it is one of the few stars to have been resolved to show it as an extended object. \n\nBetelgeuse is a massive star, more than 14 times the mass of the Sun and is relatively young for a star (less than 14 million years old). However, its high mass led to it having a very hot core which burned through its hydrogen fuel quickly. It has since evolved through many stages and now appears as a red supergiant, it's final stage before exploding as a supernova. When such an explosion will happen is not known for certain, but it could be in around 100,000 years. Such an explosion would be visible from Earth, even during the day.<br/>\n<b>Credit:</b> ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella\n\t  <a href=\"https://www.eso.org/public/germany/images/potw1726a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/iq40Hc92ni31/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/nE461I80fc87/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:iq40Hc92ni31",
+        "diagram:nE461I80fc87"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/iq40Hc92ni31/\"><img alt=\"A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line\" src=\"/media/diagrams/multimedia/thumbnails/hr_diagram_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hertzsprung-Russell diagram</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\n \nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\n \nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.<br/>\n<b>Credit:</b> IAU OAE/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/nE461I80fc87/\"><img alt=\"A diagram showing the evolutionary stages of five mass ranges of stars.\" src=\"/media/diagrams/multimedia/thumbnails/Stellar_Evolution_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stellar Evolution</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the life cycle of stars of different masses. The mass of the different types of star increases from bottom to top with time going from left to right.\n\nThe life cycle of a star depends on its mass, with lower mass stars have longer lifetimes. All stars form from clouds of gas that collapse under their own gravity. As the star collapses, its core becomes hotter and denser. If the star has a mass greater than 0.08 solar masses (0.08 times the mass of the Sun), the pressure of the star’s mass pushing down on its core creates a high enough core temperature for hydrogen fusion to ignite. This burns hydrogen into helium in the star’s core, providing a heat source to power the star and to stop its core from collapsing further. If the collapsing object has a mass below 0.08 solar masses then it does not ignite hydrogen fusion in its core. It continues to cool and slowly contract. Such substellar objects are known as brown dwarfs, shown here in the lowest row.\n\nAfter stars have formed, they burn hydrogen in their cores and begin their so-called main sequence phase. The most massive stars (&gt;25 solar masses, shown here at the top) have very high core temperatures and thus burn through their hydrogen fuel more quickly. This means they may only spend a few million years on the main sequence burning hydrogen in their cores. Once the hydrogen in the core is exhausted the star’s core contracts, becomes hotter and helium burning starts in the core. While the core contracts, the outer layers of the star expand and it becomes a supergiant. For the most massive stars strong stellar winds strip off the cooler outer layers, leading to the star being very large and very hot, a blue supergiant. Once helium is exhausted in the core, carbon is burned, and then heavier elements. Eventually the star ends with an iron core. Fusing iron into heavier elements does not generate energy so at this point fusion stops in the core. Once this core of iron is massive enough, it and the surrounding matter suddenly collapses to form a black hole and the outer layers are flung off in a supernova explosion.\n\nSlightly lower mass stars (between 8 and 25 solar masses, seen here second top) evolve in a similar way although they do not have strong enough winds to push their outer layers away and become blue supergiants, instead it evolves into a red supergiant. While such stars also collapse and create supernova explosions. The remnant of the star’s core is not massive enough to collapse into a black hole. Instead, its electrons and protons combine to form neutrons and it is supported by a quantum mechanical effect called neutron degeneracy pressure. This results in the remnant of the star being a tiny neutron star, several solar masses in mass but only a few kilometres across. \n\nFor stars similar in mass to the Sun (between 0.4 and 8 solar masses, seen here in the middle row), the star burns hydrogen in its core until the hydrogen in its core is exhausted. At this point a hydrogen burning shell forms around the core. Eventually the core will become hot enough to burn helium into carbon and oxygen. After this the star is left with a carbon and oxygen core surrounded by shells burning helium and hydrogen. These shells are unstable producing thermal pulsations that convulse the star. Eventually these pulsations become so extreme that the star’s outer layers are thrown off. This leaves the carbon and oxygen core as a white dwarf supported by electron degeneracy pressure. The outer layers of the star form what is known as a planetary nebula (which doesn’t actually have anything to do with planets despite the name).\n\nThe lowest mass stars (seen here in the second bottom row) are so low in mass that their evolutionary timescales are much longer than the age of the universe. This means that none have evolved beyond the main-sequence. Low mass stars are fully convective meaning material in the core is constantly being mixed with material above. This means that all the hydrogen in the star would eventually be burned in the core, but this will take trillions of years.<br/>\n<b>Credit:</b> Danielle Futselaar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Supergiant Star",
+      "aliases": [
+        "Supergiant star"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Supergiant Star",
+          "body": "Supergiants are the largest and most luminous stars. They can be several hundred times larger than the Sun and many thousand times more luminous. They occupy the top region of the Hertzsprung–Russell diagram with absolute visual magnitudes between −3 and −8. The temperature range of supergiant stars spans from about 3400 kelvins (K) to over 20,000 K. They are either massive stars or are in a very late phase of stellar evolution. Supergiant stars can be identified on the basis of their spectra, with distinctive lines sensitive to high luminosity and low surface gravity: these spectral lines are narrow compared to the width of lines in smaller stars. Typical examples of supergiant stars are Betelgeuse in Orion and the Cepheid variables."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Сверхгигант",
+      "aliases": [
+        "Сверхгигант"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Сверхгигант",
+          "body": "Сверхгиганты — самые крупные и самые яркие звёзды. Они могут быть в несколько сотен раз больше Солнца и в многие тысячи раз ярче. Они занимают верхнюю область диаграммы Герцшпрунга–Рассела с абсолютными визуальными величинами от −3 до −8. Диапазон температур сверхгигантов простирается от примерно 3400 кельвинов (K) до более чем 20,000 K. Они либо являются массивными звёздами, либо находятся на очень поздней стадии звёздной эволюции. Сверхгиганты можно идентифицировать по их спектрам с характерными линиями, чувствительными к высокой светимости и низкой поверхностной гравитации: эти спектральные линии узкие по сравнению с шириной линий у меньших звёзд. Типичными примерами сверхгигантов являются Бетельгейзе в Орионе и цефеиды."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:6H69M193VT57",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-red-supergiant-betelgeuse.png",
+      "record_url": "https://astro4edu.org/resources/media/6H69M193VT57/",
+      "original_path": "data/media/original/media_6H69M193VT57.png",
+      "ru_path": null,
+      "sha256": "029a4bcb01dbaa28ec7a03f2d66f48a92d24aa3217b032a679b3e5377f371574",
+      "size": 4860538,
+      "title_en": "The red supergiant Betelgeuse",
+      "title_ru": "Красный сверхгигант Бетельгейзе",
+      "short_caption_en": "The red supergiant Betelgeuse",
+      "short_caption_ru": "Красный сверхгигант Бетельгейзе",
+      "caption_en": "The image shows Betelgeuse, a red supergiant in the constellation Orion, observed by the Atacama Large Millimeter/submillimeter Array (ALMA). ALMA consists of many antennae spread across a plain in Northern Chile. The observations from all of these receivers is synthesised together by a central computer to form an image. The wide distances between the antennae mean that is can resolve very fine details.   \r\n\r\nMost stars we observe are just seen as points of light, but Betelgeuse is so large (with a radius about 1,400 times larger than the Sun) and is sufficiently nearby that it is one of the few stars to have been resolved to show it as an extended object. \r\n\r\nBetelgeuse is a massive star, more than 14 times the mass of the Sun and is relatively young for a star (less than 14 million years old). However, its high mass led to it having a very hot core which burned through its hydrogen fuel quickly. It has since evolved through many stages and now appears as a red supergiant, it's final stage before exploding as a supernova. When such an explosion will happen is not known for certain, but it could be in around 100,000 years. Such an explosion would be visible from Earth, even during the day.",
+      "caption_ru": "На изображении показана Бетельгейзе — красный сверхгигант в созвездии Ориона, наблюдаемый с помощью Атакамского большого миллиметрового/субмиллиметрового массива (ALMA). ALMA состоит из множества антенн, рассредоточенных по равнине на севере Чили. Наблюдения со всех этих приёмников синтезируются центральным компьютером для формирования изображения. Большие расстояния между антеннами означают, что можно разрешать очень мелкие детали.\n\nБольшинство наблюдаемых нами звёзд видны просто как точки света, но Бетельгейзе настолько велика (с радиусом примерно в 1,400 раз больше Солнца) и находится достаточно близко, что является одной из немногих звёзд, разрешённых настолько, чтобы показать её как протяжённый объект.\n\nБетельгейзе — массивная звезда, более чем в 14 раз превышающая массу Солнца, и относительно молодая для звезды (менее 14 миллионов лет). Однако её высокая масса привела к тому, что у неё очень горячее ядро, которое быстро сожгло своё водородное топливо. С тех пор она прошла через многие стадии и теперь предстаёт как красный сверхгигант — её последняя стадия перед взрывом как сверхновая. Когда произойдёт такой взрыв, точно неизвестно, но это может случиться примерно через 100,000 лет. Такой взрыв был бы виден с Земли даже днём.",
+      "alt_en": "The nearby red supergiant Betelgeuse, seen as orange blob showing a non-symmetric shape with a bright spot to the upper left",
+      "alt_ru": "Близлежащий красный сверхгигант Бетельгейзе, видимый как оранжевое пятно несимметричной формы с ярким пятном в верхней левой части",
+      "credit": "ALMA (ESO/NAOJ/NRAO)/E. O’Gorman/P. Kervella",
+      "credit_url": "https://www.eso.org/public/germany/images/potw1726a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        130,
+        277,
+        278,
+        347,
+        453
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:iq40Hc92ni31",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hr_diagram_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/iq40Hc92ni31/",
+      "original_path": "data/media/original/diagram_iq40Hc92ni31.png",
+      "ru_path": "data/media/ru/diagram_iq40Hc92ni31.png",
+      "sha256": "031aed503f490c077502cc7087d8513da6a8f909cb63d2e84ab377b6111d2345",
+      "size": 66045,
+      "title_en": "Hertzsprung-Russell diagram",
+      "title_ru": "Диаграмма Герцшпрунга — Рассела",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\r\n \r\nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\r\n \r\nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.",
+      "caption_ru": "На этой диаграмме показаны температура и светимость различных звёзд. Размер каждой точки соответствует радиусу звезды, а её цвет — это цвет, который увидел бы человеческий глаз. Цвета звёзд варьируются от бледно-голубого до бледно-красновато-оранжевого. Ни одна звезда не имеет чистого цвета, такого как красный, зелёный или синий, поскольку спектры звёзд включают свет множества разных цветов. Однако самые красные звёзды обычно называют красными, а самые голубые — синими. Выборка звёзд, использованная для построения этой диаграммы, была подобрана так, чтобы показать широкий диапазон звёзд разных типов, поэтому относительное количество каждого типа звёзд не отражает того, насколько часто встречается каждый тип.\r\n \r\nОт верхнего левого угла к нижнему правому идёт длинная линия звёзд, сжигающих водород в своих ядрах. Это называется главной последовательностью. На этой линии видны звёзды Минтака, Ахернар, Сириус A, Солнце и Проксима Центавра. Объекты вокруг Проксимы Центавра на нижнем правом конце главной последовательности известны как красные карлики. Ниже и правее красных карликов находятся Тейде 1 и Келу-1 A. Эти два объекта — коричневые карлики, объекты со слишком малой массой, чтобы их ядра были достаточно горячими для длительного синтеза водорода. Поскольку они не сжигают водород, коричневые карлики не считаются звёздами главной последовательности. Название «коричневый карлик» не связано с их цветом.\r\n \r\nНад главной последовательностью мы находим субгиганты, гиганты и сверхгиганты. Это звёзды, которые завершили сжигание водорода в своём ядре и превратились в более крупные объекты. Яркость звезды зависит от её температуры и размера, поэтому звёзды-гиганты ярче звёзд с меньшим радиусом, но той же температурой. Со временем эти объекты приблизятся к концу своей жизни и пройдут либо фазу планетарной туманности, либо станут сверхновыми. Звёзды, завершающие жизнь фазой планетарной туманности, становятся типом звёздного остатка, называемым белым карликом. Такие объекты гораздо меньше звёзд той же температуры и, следовательно, слабее, и находятся значительно ниже главной последовательности. Звёзды, завершающие жизнь как сверхновые, становятся либо чёрными дырами, либо нейтронными звёздами. Они не показаны на этом графике.",
+      "alt_en": "A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line",
+      "alt_ru": "Линия звёзд идёт от холодных слабых звёзд к горячим ярким звёздам. Некоторые звёзды лежат выше или ниже этой линии",
+      "credit": "IAU OAE/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        46,
+        59,
+        130,
+        143,
+        180,
+        186,
+        334,
+        347,
+        386,
+        440,
+        481,
+        503
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "968a1f2e187f12de7451aef8a3b18cf42dbb0a047cac3b2eaab106a35408146d"
+    },
+    {
+      "id": "diagram:nE461I80fc87",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Stellar_Evolution_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/nE461I80fc87/",
+      "original_path": "data/media/original/diagram_nE461I80fc87.png",
+      "ru_path": "data/media/ru/diagram_nE461I80fc87.png",
+      "sha256": "764bb237a9022d9195fc75f068b2d4e9c9a0370c547a6ead2613f22b7b39a4bf",
+      "size": 987571,
+      "title_en": "Stellar Evolution",
+      "title_ru": "Звездная эволюция",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the life cycle of stars of different masses. The mass of the different types of star increases from bottom to top with time going from left to right.\r\n\r\nThe life cycle of a star depends on its mass, with lower mass stars have longer lifetimes. All stars form from clouds of gas that collapse under their own gravity. As the star collapses, its core becomes hotter and denser. If the star has a mass greater than 0.08 solar masses (0.08 times the mass of the Sun), the pressure of the star’s mass pushing down on its core creates a high enough core temperature for hydrogen fusion to ignite. This burns hydrogen into helium in the star’s core, providing a heat source to power the star and to stop its core from collapsing further. If the collapsing object has a mass below 0.08 solar masses then it does not ignite hydrogen fusion in its core. It continues to cool and slowly contract. Such substellar objects are known as brown dwarfs, shown here in the lowest row.\r\n\r\nAfter stars have formed, they burn hydrogen in their cores and begin their so-called main sequence phase. The most massive stars (>25 solar masses, shown here at the top) have very high core temperatures and thus burn through their hydrogen fuel more quickly. This means they may only spend a few million years on the main sequence burning hydrogen in their cores. Once the hydrogen in the core is exhausted the star’s core contracts, becomes hotter and helium burning starts in the core. While the core contracts, the outer layers of the star expand and it becomes a supergiant. For the most massive stars strong stellar winds strip off the cooler outer layers, leading to the star being very large and very hot, a blue supergiant. Once helium is exhausted in the core, carbon is burned, and then heavier elements. Eventually the star ends with an iron core. Fusing iron into heavier elements does not generate energy so at this point fusion stops in the core. Once this core of iron is massive enough, it and the surrounding matter suddenly collapses to form a black hole and the outer layers are flung off in a supernova explosion.\r\n\r\nSlightly lower mass stars (between 8 and 25 solar masses, seen here second top) evolve in a similar way although they do not have strong enough winds to push their outer layers away and become blue supergiants, instead it evolves into a red supergiant. While such stars also collapse and create supernova explosions. The remnant of the star’s core is not massive enough to collapse into a black hole. Instead, its electrons and protons combine to form neutrons and it is supported by a quantum mechanical effect called neutron degeneracy pressure. This results in the remnant of the star being a tiny neutron star, several solar masses in mass but only a few kilometres across. \r\n\r\nFor stars similar in mass to the Sun (between 0.4 and 8 solar masses, seen here in the middle row), the star burns hydrogen in its core until the hydrogen in its core is exhausted. At this point a hydrogen burning shell forms around the core. Eventually the core will become hot enough to burn helium into carbon and oxygen. After this the star is left with a carbon and oxygen core surrounded by shells burning helium and hydrogen. These shells are unstable producing thermal pulsations that convulse the star. Eventually these pulsations become so extreme that the star’s outer layers are thrown off. This leaves the carbon and oxygen core as a white dwarf supported by electron degeneracy pressure. The outer layers of the star form what is known as a planetary nebula (which doesn’t actually have anything to do with planets despite the name).\r\n\r\nThe lowest mass stars (seen here in the second bottom row) are so low in mass that their evolutionary timescales are much longer than the age of the universe. This means that none have evolved beyond the main-sequence. Low mass stars are fully convective meaning material in the core is constantly being mixed with material above. This means that all the hydrogen in the star would eventually be burned in the core, but this will take trillions of years.",
+      "caption_ru": "Эта диаграмма показывает жизненный цикл звезд различной массы. Масса различных типов звезд увеличивается снизу вверх, а время идет слева направо.\r\n\r\nЖизненный цикл звезды зависит от ее массы, причем звезды меньшей массы имеют более длительные сроки жизни. Все звезды формируются из облаков газа, которые коллапсируют под действием собственной гравитации. По мере коллапса звезды ее ядро становится горячее и плотнее. Если масса звезды превышает 0,08 солнечных масс (0,08 массы Солнца), давление массы звезды, давящей на ее ядро, создает достаточно высокую температуру ядра для запуска термоядерного синтеза водорода. Это сжигает водород в гелий в ядре звезды, обеспечивая источник тепла для питания звезды и предотвращения дальнейшего коллапса ее ядра. Если коллапсирующий объект имеет массу ниже 0,08 солнечных масс, то термоядерный синтез водорода в его ядре не запускается. Он продолжает остывать и медленно сжиматься. Такие субзвездные объекты известны как коричневые карлики, показанные здесь в нижнем ряду.\r\n\r\nПосле формирования звезды сжигают водород в своих ядрах и начинают так называемую фазу главной последовательности. Самые массивные звезды (>25 солнечных масс, показанные здесь вверху) имеют очень высокие температуры ядра и, таким образом, быстрее сжигают свое водородное топливо. Это означает, что они могут провести на главной последовательности, сжигая водород в своих ядрах, всего несколько миллионов лет. Как только водород в ядре исчерпан, ядро звезды сжимается, становится горячее, и в ядре начинается горение гелия. Пока ядро сжимается, внешние слои звезды расширяются, и она становится сверхгигантом. У самых массивных звезд сильные звездные ветры срывают более холодные внешние слои, что приводит к тому, что звезда становится очень большой и очень горячей — голубым сверхгигантом. Как только гелий в ядре исчерпан, сжигается углерод, а затем более тяжелые элементы. В конечном итоге звезда заканчивает с железным ядром. Синтез железа в более тяжелые элементы не генерирует энергию, поэтому на этом этапе синтез в ядре прекращается. Как только это железное ядро становится достаточно массивным, оно и окружающее вещество внезапно коллапсируют, образуя черную дыру, а внешние слои отбрасываются в взрыве сверхновой.\r\n\r\nЗвезды немного меньшей массы (от 8 до 25 солнечных масс, показанные здесь вторыми сверху) эволюционируют аналогичным образом, хотя у них недостаточно сильные ветры, чтобы оттолкнуть внешние слои и стать голубыми сверхгигантами; вместо этого они эволюционируют в красные сверхгиганты. Такие звезды также коллапсируют и создают взрывы сверхновых. Остаток ядра звезды недостаточно массивен, чтобы коллапсировать в черную дыру. Вместо этого его электроны и протоны объединяются, образуя нейтроны, и он поддерживается квантово-механическим эффектом, называемым давлением вырожденного нейтронного газа. В результате остаток звезды представляет собой крошечную нейтронную звезду, массой в несколько солнечных масс, но диаметром всего в несколько километров.\r\n\r\nДля звезд, сходных по массе с Солнцем (от 0,4 до 8 солнечных масс, показанные здесь в среднем ряду), звезда сжигает водород в своем ядре до тех пор, пока водород в ядре не исчерпается. В этот момент вокруг ядра образуется оболочка, сжигающая водород. В конечном итоге ядро станет достаточно горячим, чтобы сжигать гелий в углерод и кислород. После этого у звезды остается углеродно-кислородное ядро, окруженное оболочками, сжигающими гелий и водород. Эти оболочки нестабильны, создавая тепловые пульсации, которые сотрясают звезду. В конечном итоге эти пульсации становятся настолько экстремальными, что внешние слои звезды отбрасываются. Это оставляет углеродно-кислородное ядро в виде белого карлика, поддерживаемого давлением вырожденного электронного газа. Внешние слои звезды образуют так называемую планетарную туманность (которая на самом деле не имеет ничего общего с планетами, несмотря на название).\r\n\r\nСамые маломассивные звезды (показанные здесь во втором снизу ряду) имеют настолько малую массу, что их эволюционные временные масштабы намного превышают возраст Вселенной. Это означает, что ни одна из них не эволюционировала за пределы главной последовательности. Маломассивные звезды полностью конвективны, что означает, что материал в ядре постоянно перемешивается с материалом выше. Это означает, что весь водород в звезде в конечном итоге будет сожжен в ядре, но это займет триллионы лет.",
+      "alt_en": "A diagram showing the evolutionary stages of five mass ranges of stars.",
+      "alt_ru": "Диаграмма, показывающая эволюционные стадии для пяти диапазонов масс звёзд.",
+      "credit": "Danielle Futselaar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        43,
+        150,
+        214,
+        333,
+        334,
+        337,
+        347,
+        349,
+        386
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "463cb8467ab46d6c00ca3937eb0482fb48dcf7208f3f7880fb63aadbd0bac430"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

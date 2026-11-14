@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "built_at": "2026-11-14T00:48:53.751854+00:00",
+  "model": "Qwen/Qwen3-Embedding-8B-GGUF",
+  "model_revision": "69d0e58a13e463cd99a9b83e3f5fee7c10265fab",
+  "model_file": "Qwen3-Embedding-8B-Q4_K_M.gguf",
+  "model_sha256": "3fcd3febec8b3fd64435204db75bf0dd73b91e8d0661e0331acfe7e7c3120b85",
+  "quantization": "Q4_K_M",
+  "pooling": "last",
+  "query_instruction": "Retrieve relevant astronomy glossary definitions, explanations, and image captions for the user question.",
+  "dimension": 4096,
+  "chunk_count": 1930,
+  "chunk_config": {
+    "chunk_version": "2",
+    "budget_tokens": 400,
+    "overlap": 0.1,
+    "tokenizer_model": "Qwen/Qwen3-Embedding-8B",
+    "chunk_count": 1930,
+    "chunks_sha256": "6cf9de3da2a291d975337ea44622080e321625a3370573987d3247071e1a379f"
+  },
+  "chunks_sha256": "6cf9de3da2a291d975337ea44622080e321625a3370573987d3247071e1a379f",
+  "index_sha256": "3deadda9bcf2a3fa3db96e503e95c15300401e02d24772ff4f435354b354a695",
+  "vector_map_sha256": "b7c94940627e07269f5645d02296052ec0125d9fc00455f5619997d8c11dc5d4",
+  "embedding_cache_sha256": "6516b9ee4d8e1aa8ef4e497b8d30f5a529e3172a425998ee77f7787ea84bec7d",
+  "normalization": "L2",
+  "metric": "inner_product"
+}

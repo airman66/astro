@@ -1,0 +1,475 @@
+{
+  "id": "term:215",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 215,
+    "url": "https://astro4edu.org/resources/glossary/term/215/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=215",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:20.553776+00:00",
+    "sha256": "583887da885be18d443f1a09c61c5175e8ef3a71727d907bf9c026be7f82b6ef"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": 182,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Lunar Phase",
+      "body": "Lunar phase refers to the Moon's position in its orbit around the Earth. The changing position the Moon causes the changing shape of the illuminated portion of the Moon visible from Earth over the course of one lunar month. Half of the Moon is always, apart from during lunar eclipses, illuminated by the Sun. On Earth we see different parts of the Moon illuminated as it moves in its orbit around us. The lunar month starts and ends at the same phase. At a phase of 0 degrees, called \"new moon,\" the Moon is as close to the Sun as it will be on that orbit. At that phase, the illuminated side of the Moon faces away from Earth, and the Moon appears dark. The size of the illuminated part of the Moon gradually increases (waxing phase) becoming a crescent. The first quarter phase (when half of the moon appears to be illuminated, this is popularly known as half moon) occurs at 90 degrees from the start point. The illuminated portion of the Moon continues to increase, becoming gibbous (convex-shaped, or bulging-shaped). Full moon occurs at 180 degrees. After this point, the shape gradually starts decreasing (waning phase), resulting in a gibbous moon, the last quarter phase (when half of the moon appears to be illuminated, this is popularly known as half moon) at 270 degrees from the start, the crescent moon, and ending as a new moon at 360 degrees. Even though half the Moon appears illuminated at phases 90 and 270 degrees, the opposite sides are the ones illuminated.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Month",
+          "url": "https://www.astro4edu.org/resources/glossary/term/202/",
+          "text_ru": "Месяц"
+        },
+        {
+          "text": "Phase",
+          "url": "https://www.astro4edu.org/resources/glossary/term/247/",
+          "text_ru": "Фаза"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Lunar Phase</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>moon phase</b><br/>\n\n\n\t\t\n\t\t\n\t      Redirected from <b>New Moon</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Lunar phase refers to the Moon's position in its orbit around the Earth. The changing position the Moon causes the changing shape of the illuminated portion of the Moon visible from Earth over the course of one lunar month. Half of the Moon is always, apart from during lunar eclipses, illuminated by the Sun. On Earth we see different parts of the Moon illuminated as it moves in its orbit around us. The lunar month starts and ends at the same phase. At a phase of 0 degrees, called \"new moon,\" the Moon is as close to the Sun as it will be on that orbit. At that phase, the illuminated side of the Moon faces away from Earth, and the Moon appears dark. The size of the illuminated part of the Moon gradually increases (waxing phase) becoming a crescent. The first quarter phase (when half of the moon appears to be illuminated, this is popularly known as half moon) occurs at 90 degrees from the start point. The illuminated portion of the Moon continues to increase, becoming gibbous (convex-shaped, or bulging-shaped). Full moon occurs at 180 degrees. After this point, the shape gradually starts decreasing (waning phase), resulting in a gibbous moon, the last quarter phase (when half of the moon appears to be illuminated, this is popularly known as half moon) at 270 degrees from the start, the crescent moon, and ending as a new moon at 360 degrees. Even though half the Moon appears illuminated at phases 90 and 270 degrees, the opposite sides are the ones illuminated.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/202/\">Month</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/247/\">Phase</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Лунная фаза",
+      "body_ru": "Лунная фаза относится к положению Луны на её орбите вокруг Земли. Изменение положения Луны вызывает изменение формы освещённой части Луны, видимой с Земли, в течение одного лунного месяца. Половина Луны всегда, кроме времени лунных затмений, освещена Солнцем. С Земли мы видим разные части освещённой Луны, когда она движется по орбите вокруг нас. Лунный месяц начинается и заканчивается в одной и той же фазе. В фазе 0 градусов, называемой «новолунием», Луна находится настолько близко к Солнцу, насколько это будет на этой орбите. В этой фазе освещённая сторона Луны обращена от Земли, и Луна кажется тёмной. Размер освещённой части Луны постепенно увеличивается (растущая фаза), становясь серпом. Первая четверть (когда половина Луны кажется освещённой, в народе это называют половинной Луной) наступает через 90 градусов от начальной точки. Освещённая часть Луны продолжает увеличиваться, становясь выпуклой (выпуклой формы или вздутой). Полнолуние наступает при 180 градусах. После этой точки форма постепенно начинает уменьшаться (убывающая фаза), что приводит к выпуклой Луне, последней четверти (когда половина Луны кажется освещённой, в народе это называют половинной Луной) через 270 градусов от начала, серпу Луны и заканчивается новолунием при 360 градусах. Хотя в фазах 90 и 270 градусов половина Луны кажется освещённой, освещены противоположные стороны."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "月の位相 (external link)",
+          "url": "https://astro-dic.jp/lunar-phase/",
+          "text_ru": "Фаза Луны (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/182/\">الطور القمري </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/182/\">Mondphase </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/182/\">Fase lunar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/182/\">Phase lunaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/182/\">Fase lunare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/lunar-phase/\">月の位相 (external link)</a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/182/\">चंद्राच्या कला </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/182/\">Fase lunar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/182/\">月相 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/182/\">月相 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/e078zz144Z45/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://lucnix.be/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-SA-3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "text_ru": "CC-BY-SA-3.0"
+        },
+        {
+          "text": "Creative Commons Attribution-ShareAlike 3.0 Unported icons",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-ShareAlike 3.0 Unported"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/DU193X27jD17/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.flickr.com/photos/22018552@N08/9114265801",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Kj70jJ82Ld41/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.flickr.com/photos/22018552@N08/3249499489",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/PP80tA11sg12/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.flickr.com/photos/97839409@N00/46331518041",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "text_ru": "CC0"
+        },
+        {
+          "text": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication icons",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "text_ru": "Значки посвящения в общественное достояние CC0 1.0 Universal (CC0 1.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/5Z26OD68Qm92/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.flickr.com/photos/97839409@N00/47478343891",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "text_ru": "CC0"
+        },
+        {
+          "text": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication icons",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "text_ru": "Значки посвящения в общественное достояние CC0 1.0 Universal (CC0 1.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Lunar Phase&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/e078zz144Z45/\"><img alt=\"The nearly full Moon with craters, light highlands and dark plains\" src=\"/media/multimedia/thumbnails/Full_Moon_Luc_Viatour_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Full moon</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The image shows the nearly full Moon observed with a small telescope and a DSLR camera.<br/>\n<b>Credit:</b> Luc Viatour\n\t  <a href=\"https://lucnix.be/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" rel=\"license\">CC-BY-SA-3.0</a> <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-sa\"></i><span class=\"sr-only\">Creative Commons Attribution-ShareAlike 3.0 Unported icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/DU193X27jD17/\"><img alt=\"The moon appears as a large, bright disk. It has craters and light and dark patches. The lower half has more dark patches\" src=\"/media/multimedia/thumbnails/full-moon_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Full Moon</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The full moon imaged from the Southern Hemisphere (New Zealand). During this phase the moon's illuminated half is fully visible from Earth.<br/>\n<b>Credit:</b> Dave Young / dcysurfer\n\t  <a href=\"https://www.flickr.com/photos/22018552@N08/9114265801\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Kj70jJ82Ld41/\"><img alt=\"The left half of the moon is bright and the right half is dark.\" src=\"/media/multimedia/thumbnails/first-quarter-moon_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">First quarter moon</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The first quarter moon photographed from New Zealand. As half of the moon's illuminated half is visible, this is phase is popularly know as half moon.<br/>\n<b>Credit:</b> Dave Young / dcysurfer\n\t  <a href=\"https://www.flickr.com/photos/22018552@N08/3249499489\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/PP80tA11sg12/\"><img alt=\"The right half of the moon is bright and the left half of the moon is dark\" src=\"/media/multimedia/thumbnails/first-quarter-moon_D61ExjK_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">First quarter moon</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The first quarter moon photographed from the Northern Hemisphere (USA). At this phase half of the moon's illuminated half is visible. This phase is popularly known as half moon.<br/>\n<b>Credit:</b> Stephen Rahn\n\t  <a href=\"https://www.flickr.com/photos/97839409@N00/46331518041\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license\">CC0</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons-zero\"></i><span class=\"sr-only\">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/5Z26OD68Qm92/\"><img alt=\"The moon appears as a disk. The left half of the moon is bright but the right half is dark.\" src=\"/media/multimedia/thumbnails/last-quarter-moon_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Last quarter moon</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This shows the last quarter moon photographed from the Northern Hemisphere (USA). During this phase half of the moon's illuminated half is visible. This phase is popularly known as half moon.<br/>\n<b>Credit:</b> Stephen Rahn\n\t  <a href=\"https://www.flickr.com/photos/97839409@N00/47478343891\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license\">CC0</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons-zero\"></i><span class=\"sr-only\">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Lunar Phase&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/DW565j5mE91/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/6y63px402A3/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Nt1OV98jk24/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/6464Zx69Rv2/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:DW565j5mE91",
+        "diagram:6y63px402A3",
+        "diagram:Nt1OV98jk24",
+        "diagram:6464Zx69Rv2"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/DW565j5mE91/\"><img alt=\"The Moon begins as dark, an illuminated portion grows from the left. Then once fully illuminated a dark portion grows from the left\" src=\"/media/diagrams/multimedia/thumbnails/Phase_Northern_Hemisphere_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lunar Phase Northern Hemisphere</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The phases of the Moon when viewed from the Northern Hemisphere. Here north is up and east is left. The Moon orbits the Earth every 29.5 days. It is tidally locked to the Earth meaning its rotation period is the same as its orbital period and the same side of the Moon always faces the Earth. At any particular time, half of the Moon is illuminated by the Sun and half is in shadow. Over the course of the Moon’s orbit around the Earth every part of the Moon is illuminated for half of the orbit and is in shadow for the other half of the orbit.\n\nWhen the Moon sits between the Earth and the Sun its illuminated half faces away from the Earth and we only see the half that is in shadow. This phase of the Moon is known as new moon. As the Moon moves in its orbit, a small but growing sliver of the illuminated half of the Moon begins to be seen from the Earth. This illuminated sliver appears on the western side of the Moon’s face when viewed from Earth. This phase is known as waxing crescent moon. By a quarter of the way through the Moon’s orbit around the Earth the Moon appears 90° away from the Sun and half of the Moon’s illuminated half points toward the Earth. This phase is known as first quarter moon. As the orbit continues more than half of the Moon seen from Earth is now illuminated with a dark crescent. This phase is known as waxing gibbous moon. Once we reach the halfway point in the Moon’s orbit round the Earth the Moon is now on the opposite side of the Earth from the Sun and we see all of the Moon’s illuminated half. As the whole of the side of the Moon that faces the Earth is now illuminated this is referred to as full moon. \n\nFor the remaining half of the Moon’s orbit the half of the moon that faces the Earth begins to move into shadow. Hence the illuminated portion of the Moon that we see from Earth begins to shrink or wane. The western edge of the face of the Moon when viewed from Earth begins to appear dark and this grows through subsequent phases. The phases are repeated in reverse order: waning gibbous, third quarter, waning crescent and finally back to new moon.\n\nNote the surface features of the Moon are illustrative and do not accurately represent the Moon’s true surface.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/6y63px402A3/\"><img alt=\"The Moon begins as dark, an illuminated portion grows from the right. Then once fully illuminated a dark portion grows from the right\" src=\"/media/diagrams/multimedia/thumbnails/Phase_Southern_Hemisphere_en_thumbnail_I3MFefq.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lunar Phase Southern Hemisphere</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The phases of the Moon when viewed from the Southern Hemisphere. Here north is up and west is left The Moon orbits the Earth every 29.5 days. It is tidally locked to the Earth meaning its rotation period is the same as its orbital period and the same side of the Moon always faces the Earth. At any particular time, half of the Moon is illuminated by the Sun and half is in shadow. Over the course of the Moon’s orbit around the Earth every part of the Moon is illuminated for half of the orbit and is in shadow for the other half of the orbit.\n\nWhen the Moon sits between the Earth and the Sun its illuminated half faces away from the Earth and we only see the half that is in shadow. This phase of the Moon is known as new moon. As the Moon moves in its orbit, a small but growing sliver of the illuminated half of the Moon begins to be seen from the Earth. This illuminated sliver appears on the western side of the Moon’s face when viewed from Earth. This phase is known as waxing crescent moon. By a quarter of the way through the Moon’s orbit around the Earth the Moon appears 90° away from the Sun and half of the Moon’s illuminated half points toward the Earth. This phase is known as first quarter moon. As the orbit continues more than half of the Moon seen from Earth is now illuminated with a dark crescent. This phase is known as waxing gibbous moon. Once we reach the halfway point in the Moon’s orbit round the Earth the Moon is now on the opposite side of the Earth from the Sun and we see all of the Moon’s illuminated half. As the whole of the side of the Moon that faces the Earth is now illuminated this is referred to as full moon. \n\nFor the remaining half of the Moon’s orbit the half of the moon that faces the Earth begins to move into shadow. Hence the illuminated portion of the Moon that we see from Earth begins to shrink or wane. The western edge of the face of the Moon when viewed from Earth begins to appear dark and this grows through subsequent phases. The phases are repeated in reverse order: waning gibbous, third quarter, waning crescent and finally back to new moon.\n\nNote the surface features of the Moon are illustrative and do not accurately represent the Moon’s true surface.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Nt1OV98jk24/\"><img alt=\"The Moon begins as dark, an illuminated portion grows from the top. Then once fully illuminated a dark portion grows from the top\" src=\"/media/diagrams/multimedia/thumbnails/Phase_Equator_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lunar Phase Equator</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The phases of the Moon when viewed from the Equator. Here west is up, north is left and east is down. The Moon orbits the Earth every 29.5 days. It is tidally locked to the Earth meaning its rotation period is the same as its orbital period and the same side of the Moon always faces the Earth. At any particular time, half of the Moon is illuminated by the Sun and half is in shadow. Over the course of the Moon’s orbit around the Earth every part of the Moon is illuminated for half of the orbit and is in shadow for the other half of the orbit.\n\nWhen the Moon sits between the Earth and the Sun its illuminated half faces away from the Earth and we only see the half that is in shadow. This phase of the Moon is known as new moon. As the Moon moves in its orbit, a small but growing sliver of the illuminated half of the Moon begins to be seen from the Earth. This illuminated sliver appears on the western side of the Moon’s face when viewed from Earth. This phase is known as waxing crescent moon. By a quarter of the way through the Moon’s orbit around the Earth the Moon appears 90° away from the Sun and half of the Moon’s illuminated half points toward the Earth. This phase is known as first quarter moon. As the orbit continues more than half of the Moon seen from Earth is now illuminated with a dark crescent. This phase is known as waxing gibbous moon. Once we reach the halfway point in the Moon’s orbit round the Earth the Moon is now on the opposite side of the Earth from the Sun and we see all of the Moon’s illuminated half. As the whole of the side of the Moon that faces the Earth is now illuminated this is referred to as full moon. \n\nFor the remaining half of the Moon’s orbit the half of the moon that faces the Earth begins to move into shadow. Hence the illuminated portion of the Moon that we see from Earth begins to shrink or wane. The western edge of the face of the Moon when viewed from Earth begins to appear dark and this grows through subsequent phases. The phases are repeated in reverse order: waning gibbous, third quarter, waning crescent and finally back to new moon.\n\nThe perspective for this diagram is with west up, north left and east down. When the moon is viewed looking west, for example viewing the waxing crescent just after sunset, the view of the Moon would be rotated by 180°.\n\nNote the surface features of the Moon are illustrative and do not accurately represent the Moon’s true surface.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/6464Zx69Rv2/\"><img alt=\"The Moon lies between the Sun and Earth casts a small shadow and large partial shadow\" src=\"/media/diagrams/multimedia/thumbnails/Total_Solar_Eclipse_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Total Solar Eclipse</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This not to scale diagram shows what happens during a total solar eclipse. The Moon orbits the Earth, but its orbit is slightly tilted with respect to the Earth’s orbit around the Sun. During the new moon lunar phase, the Moon lies between the Earth and the Sun, but due to the Moon’s tilted orbit around the Earth, the Moon normally lies above or below the Sun at this point. However twice a year the Moon’s orbit lines up in such a way that the Moon can lie in a direct line between the Earth and Sun. During each of these periods (each of which last roughly a month) solar (and lunar) eclipses can occur. The Moon is about 400 times smaller than the Sun, but is 400 times closer to the Earth than the Sun. Hence the Sun and Moon have approximately the same angular size when viewed from the Earth. This means that it is possible for the Moon to completely cover the Sun when viewed from Earth. This is known as a total solar eclipse. \n\nHere we see a schematic of such and eclipse. The Moon casts a shadow on the Earth known as the umbra. This is a roughly circular shadow a few hundred kilometres across although its shape can be severely distorted when the eclipse is at the edge of the illuminated part of the Earth. Any region within the umbra will see the Moon completely cover the Sun and thus will experience a total solar eclipse. Outside of the umbra there are regions where the Moon will cover part of the Sun. This partial shadow is known as the penumbra. Regions in the penumbra will experience a partial solar eclipse.\n\nAn eclipse is a dynamic event with the Moon moving in its orbit and the Earth rotating. Hence the umbra and penumbra move across the Earth’s surface together. The path the umbra takes across the Earth is known as the path of totality. Let’s consider one particular region that lies in the path of totality: except in rare cases where an eclipse begins at sunrise, a region that experiences totality will first see the Moon cover part of the Sun and gradually move across Sun until it is totally covered. From outside the Earth this would appear as the penumbra moving over this particular region followed by the umbra moving over this region. Once the Moon moves so that it no longer completely covers the Sun, totality ends and the umbra moves away from this particular region. The Moon will continue to uncover the Sun until (unless the Sun sets before the end of the eclipse) the Sun is completely uncovered. From outside the Earth this would appear as the umbra moving away from our particular region and the edge of the penumbra approaching and eventually passing over the region. \n\nOutside of the path or totality there is a much broader region that will lie in the penumbra but will be missed by the umbra. Such regions will not experience a total solar eclipse during this event, only a partial solar eclipse.<br/>\n<b>Credit:</b> Aneta Margraf/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "New Moon",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Lunar Phase",
+          "body": "Lunar phase refers to the Moon's position in its orbit around the Earth. The changing position the Moon causes the changing shape of the illuminated portion of the Moon visible from Earth over the course of one lunar month. Half of the Moon is always, apart from during lunar eclipses, illuminated by the Sun. On Earth we see different parts of the Moon illuminated as it moves in its orbit around us. The lunar month starts and ends at the same phase. At a phase of 0 degrees, called \"new moon,\" the Moon is as close to the Sun as it will be on that orbit. At that phase, the illuminated side of the Moon faces away from Earth, and the Moon appears dark. The size of the illuminated part of the Moon gradually increases (waxing phase) becoming a crescent. The first quarter phase (when half of the moon appears to be illuminated, this is popularly known as half moon) occurs at 90 degrees from the start point. The illuminated portion of the Moon continues to increase, becoming gibbous (convex-shaped, or bulging-shaped). Full moon occurs at 180 degrees. After this point, the shape gradually starts decreasing (waning phase), resulting in a gibbous moon, the last quarter phase (when half of the moon appears to be illuminated, this is popularly known as half moon) at 270 degrees from the start, the crescent moon, and ending as a new moon at 360 degrees. Even though half the Moon appears illuminated at phases 90 and 270 degrees, the opposite sides are the ones illuminated."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Новолуние",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Лунная фаза",
+          "body": "Лунная фаза относится к положению Луны на её орбите вокруг Земли. Изменение положения Луны вызывает изменение формы освещённой части Луны, видимой с Земли, в течение одного лунного месяца. Половина Луны всегда, кроме времени лунных затмений, освещена Солнцем. С Земли мы видим разные части освещённой Луны, когда она движется по орбите вокруг нас. Лунный месяц начинается и заканчивается в одной и той же фазе. В фазе 0 градусов, называемой «новолунием», Луна находится настолько близко к Солнцу, насколько это будет на этой орбите. В этой фазе освещённая сторона Луны обращена от Земли, и Луна кажется тёмной. Размер освещённой части Луны постепенно увеличивается (растущая фаза), становясь серпом. Первая четверть (когда половина Луны кажется освещённой, в народе это называют половинной Луной) наступает через 90 градусов от начальной точки. Освещённая часть Луны продолжает увеличиваться, становясь выпуклой (выпуклой формы или вздутой). Полнолуние наступает при 180 градусах. После этой точки форма постепенно начинает уменьшаться (убывающая фаза), что приводит к выпуклой Луне, последней четверти (когда половина Луны кажется освещённой, в народе это называют половинной Луной) через 270 градусов от начала, серпу Луны и заканчивается новолунием при 360 градусах. Хотя в фазах 90 и 270 градусов половина Луны кажется освещённой, освещены противоположные стороны."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:DW565j5mE91",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Phase_Northern_Hemisphere_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/DW565j5mE91/",
+      "original_path": "data/media/original/diagram_DW565j5mE91.png",
+      "ru_path": null,
+      "sha256": "ee2795303bca18b3d107356eba0000fef2f8b06bf8aa39ebef52e60dd462e2f0",
+      "size": 1264087,
+      "title_en": "Lunar Phase Northern Hemisphere",
+      "title_ru": "Фаза Луны, Северное полушарие",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The phases of the Moon when viewed from the Northern Hemisphere. Here north is up and east is left. The Moon orbits the Earth every 29.5 days. It is tidally locked to the Earth meaning its rotation period is the same as its orbital period and the same side of the Moon always faces the Earth. At any particular time, half of the Moon is illuminated by the Sun and half is in shadow. Over the course of the Moon’s orbit around the Earth every part of the Moon is illuminated for half of the orbit and is in shadow for the other half of the orbit.\r\n\r\nWhen the Moon sits between the Earth and the Sun its illuminated half faces away from the Earth and we only see the half that is in shadow. This phase of the Moon is known as new moon. As the Moon moves in its orbit, a small but growing sliver of the illuminated half of the Moon begins to be seen from the Earth. This illuminated sliver appears on the western side of the Moon’s face when viewed from Earth. This phase is known as waxing crescent moon. By a quarter of the way through the Moon’s orbit around the Earth the Moon appears 90° away from the Sun and half of the Moon’s illuminated half points toward the Earth. This phase is known as first quarter moon. As the orbit continues more than half of the Moon seen from Earth is now illuminated with a dark crescent. This phase is known as waxing gibbous moon. Once we reach the halfway point in the Moon’s orbit round the Earth the Moon is now on the opposite side of the Earth from the Sun and we see all of the Moon’s illuminated half. As the whole of the side of the Moon that faces the Earth is now illuminated this is referred to as full moon. \r\n\r\nFor the remaining half of the Moon’s orbit the half of the moon that faces the Earth begins to move into shadow. Hence the illuminated portion of the Moon that we see from Earth begins to shrink or wane. The western edge of the face of the Moon when viewed from Earth begins to appear dark and this grows through subsequent phases. The phases are repeated in reverse order: waning gibbous, third quarter, waning crescent and finally back to new moon.\r\n\r\nNote the surface features of the Moon are illustrative and do not accurately represent the Moon’s true surface.",
+      "caption_ru": "Фазы Луны при наблюдении из Северного полушария. Здесь север вверху, а восток слева. Луна обращается вокруг Земли каждые 29.5 дней. Она приливно закреплена к Земле, то есть её период вращения равен периоду обращения, и к Земле всегда обращена одна и та же сторона Луны. В любой момент времени половина Луны освещена Солнцем, а половина находится в тени. За время обращения Луны вокруг Земли каждая часть Луны освещается на протяжении половины орбиты и находится в тени на протяжении другой половины орбиты.\r\n\r\nКогда Луна находится между Землёй и Солнцем, её освещённая половина обращена от Земли, и мы видим только ту половину, которая находится в тени. Эта фаза Луны называется новолунием. По мере движения Луны по орбите с Земли начинает быть виден небольшой, но растущий серп освещённой половины Луны. Этот освещённый серп появляется на западной стороне лунного диска при наблюдении с Земли. Эта фаза называется растущим серпом. К тому моменту, когда Луна проходит четверть своего пути вокруг Земли, она оказывается на 90° в стороне от Солнца, и половина её освещённой половины обращена к Земле. Эта фаза называется первой четвертью. По мере продолжения орбитального движения с Земли теперь видна освещённой более половины Луны, а тёмная часть имеет форму серпа. Эта фаза называется растущей выпуклой Луной. Когда Луна проходит половину своего пути вокруг Земли, она оказывается на противоположной от Солнца стороне Земли, и мы видим всю её освещённую половину. Поскольку вся обращённая к Земле сторона Луны теперь освещена, это называется полнолунием.\r\n\r\nНа протяжении оставшейся половины орбиты Луны обращённая к Земле половина Луны начинает уходить в тень. Поэтому освещённая часть Луны, которую мы видим с Земли, начинает уменьшаться, или убывать. Западный край лунного диска при наблюдении с Земли начинает казаться тёмным, и эта тёмная область растёт в последующих фазах. Фазы повторяются в обратном порядке: убывающая выпуклая Луна, третья четверть, убывающий серп и, наконец, снова новолуние.\r\n\r\nОбратите внимание: детали поверхности Луны приведены для иллюстрации и не отражают точно её истинную поверхность.",
+      "alt_en": "The Moon begins as dark, an illuminated portion grows from the left. Then once fully illuminated a dark portion grows from the left",
+      "alt_ru": "Луна начинается тёмной, освещённая часть растёт слева. Затем, после полного освещения, тёмная часть растёт слева.",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        113,
+        182,
+        215,
+        267,
+        379,
+        380,
+        383,
+        384,
+        397,
+        398
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:6y63px402A3",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Phase_Southern_Hemisphere_en_a58pZDn.png",
+      "record_url": "https://astro4edu.org/resources/diagram/6y63px402A3/",
+      "original_path": "data/media/original/diagram_6y63px402A3.png",
+      "ru_path": "data/media/ru/diagram_6y63px402A3.png",
+      "sha256": "aa55090adcbee7cf99f048b0fae6091eeb698052c6cf7419233cd927c1a85f8d",
+      "size": 1255284,
+      "title_en": "Lunar Phase Southern Hemisphere",
+      "title_ru": "Фаза Луны, Южное полушарие",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The phases of the Moon when viewed from the Southern Hemisphere. Here north is up and west is left The Moon orbits the Earth every 29.5 days. It is tidally locked to the Earth meaning its rotation period is the same as its orbital period and the same side of the Moon always faces the Earth. At any particular time, half of the Moon is illuminated by the Sun and half is in shadow. Over the course of the Moon’s orbit around the Earth every part of the Moon is illuminated for half of the orbit and is in shadow for the other half of the orbit.\r\n\r\nWhen the Moon sits between the Earth and the Sun its illuminated half faces away from the Earth and we only see the half that is in shadow. This phase of the Moon is known as new moon. As the Moon moves in its orbit, a small but growing sliver of the illuminated half of the Moon begins to be seen from the Earth. This illuminated sliver appears on the western side of the Moon’s face when viewed from Earth. This phase is known as waxing crescent moon. By a quarter of the way through the Moon’s orbit around the Earth the Moon appears 90° away from the Sun and half of the Moon’s illuminated half points toward the Earth. This phase is known as first quarter moon. As the orbit continues more than half of the Moon seen from Earth is now illuminated with a dark crescent. This phase is known as waxing gibbous moon. Once we reach the halfway point in the Moon’s orbit round the Earth the Moon is now on the opposite side of the Earth from the Sun and we see all of the Moon’s illuminated half. As the whole of the side of the Moon that faces the Earth is now illuminated this is referred to as full moon. \r\n\r\nFor the remaining half of the Moon’s orbit the half of the moon that faces the Earth begins to move into shadow. Hence the illuminated portion of the Moon that we see from Earth begins to shrink or wane. The western edge of the face of the Moon when viewed from Earth begins to appear dark and this grows through subsequent phases. The phases are repeated in reverse order: waning gibbous, third quarter, waning crescent and finally back to new moon.\r\n\r\nNote the surface features of the Moon are illustrative and do not accurately represent the Moon’s true surface.",
+      "caption_ru": "Фазы Луны при наблюдении из Южного полушария. Здесь север вверху, а запад слева. Луна обращается вокруг Земли каждые 29.5 дней. Она приливно закреплена к Земле, то есть её период вращения равен периоду обращения, и к Земле всегда обращена одна и та же сторона Луны. В любой момент времени половина Луны освещена Солнцем, а половина находится в тени. За время обращения Луны вокруг Земли каждая часть Луны освещается на протяжении половины орбиты и находится в тени на протяжении другой половины орбиты.\r\n\r\nКогда Луна находится между Землёй и Солнцем, её освещённая половина обращена от Земли, и мы видим только ту половину, которая находится в тени. Эта фаза Луны называется новолунием. По мере движения Луны по орбите с Земли начинает быть виден небольшой, но растущий серп освещённой половины Луны. Этот освещённый серп появляется на западной стороне лунного диска при наблюдении с Земли. Эта фаза называется растущим серпом. К тому моменту, когда Луна проходит четверть своего пути вокруг Земли, она оказывается на 90° в стороне от Солнца, и половина её освещённой половины обращена к Земле. Эта фаза называется первой четвертью. По мере продолжения орбитального движения с Земли теперь видна освещённой более половины Луны, а тёмная часть имеет форму серпа. Эта фаза называется растущей выпуклой Луной. Когда Луна проходит половину своего пути вокруг Земли, она оказывается на противоположной от Солнца стороне Земли, и мы видим всю её освещённую половину. Поскольку вся обращённая к Земле сторона Луны теперь освещена, это называется полнолунием.\r\n\r\nНа протяжении оставшейся половины орбиты Луны обращённая к Земле половина Луны начинает уходить в тень. Поэтому освещённая часть Луны, которую мы видим с Земли, начинает уменьшаться, или убывать. Западный край лунного диска при наблюдении с Земли начинает казаться тёмным, и эта тёмная область растёт в последующих фазах. Фазы повторяются в обратном порядке: убывающая выпуклая Луна, третья четверть, убывающий серп и, наконец, снова новолуние.\r\n\r\nОбратите внимание: детали поверхности Луны приведены для иллюстрации и не отражают точно её истинную поверхность.",
+      "alt_en": "The Moon begins as dark, an illuminated portion grows from the right. Then once fully illuminated a dark portion grows from the right",
+      "alt_ru": "Луна начинается тёмной, освещённая часть растёт справа. Затем, после полного освещения, тёмная часть растёт справа.",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        113,
+        182,
+        215,
+        267,
+        379,
+        380,
+        383,
+        384,
+        397,
+        398
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ee8117d34ea0c86cdb1aa49e15bf26883e4153b40584438d65bba94fee65bf71"
+    },
+    {
+      "id": "diagram:Nt1OV98jk24",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Phase_Equator_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Nt1OV98jk24/",
+      "original_path": "data/media/original/diagram_Nt1OV98jk24.png",
+      "ru_path": null,
+      "sha256": "09a2e7a053e811cb47905189e9b2b4323eb987a64f7dc62b33b52cee8c5ca51b",
+      "size": 1269030,
+      "title_en": "Lunar Phase Equator",
+      "title_ru": "Фазы Луны (вид с экватора)",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The phases of the Moon when viewed from the Equator. Here west is up, north is left and east is down. The Moon orbits the Earth every 29.5 days. It is tidally locked to the Earth meaning its rotation period is the same as its orbital period and the same side of the Moon always faces the Earth. At any particular time, half of the Moon is illuminated by the Sun and half is in shadow. Over the course of the Moon’s orbit around the Earth every part of the Moon is illuminated for half of the orbit and is in shadow for the other half of the orbit.\r\n\r\nWhen the Moon sits between the Earth and the Sun its illuminated half faces away from the Earth and we only see the half that is in shadow. This phase of the Moon is known as new moon. As the Moon moves in its orbit, a small but growing sliver of the illuminated half of the Moon begins to be seen from the Earth. This illuminated sliver appears on the western side of the Moon’s face when viewed from Earth. This phase is known as waxing crescent moon. By a quarter of the way through the Moon’s orbit around the Earth the Moon appears 90° away from the Sun and half of the Moon’s illuminated half points toward the Earth. This phase is known as first quarter moon. As the orbit continues more than half of the Moon seen from Earth is now illuminated with a dark crescent. This phase is known as waxing gibbous moon. Once we reach the halfway point in the Moon’s orbit round the Earth the Moon is now on the opposite side of the Earth from the Sun and we see all of the Moon’s illuminated half. As the whole of the side of the Moon that faces the Earth is now illuminated this is referred to as full moon. \r\n\r\nFor the remaining half of the Moon’s orbit the half of the moon that faces the Earth begins to move into shadow. Hence the illuminated portion of the Moon that we see from Earth begins to shrink or wane. The western edge of the face of the Moon when viewed from Earth begins to appear dark and this grows through subsequent phases. The phases are repeated in reverse order: waning gibbous, third quarter, waning crescent and finally back to new moon.\r\n\r\nThe perspective for this diagram is with west up, north left and east down. When the moon is viewed looking west, for example viewing the waxing crescent just after sunset, the view of the Moon would be rotated by 180°.\r\n\r\nNote the surface features of the Moon are illustrative and do not accurately represent the Moon’s true surface.",
+      "caption_ru": "Фазы Луны при наблюдении с экватора. Здесь запад вверху, север слева, а восток внизу. Луна обращается вокруг Земли каждые 29.5 дней. Она приливно закреплена к Земле, то есть её период вращения равен периоду обращения, и к Земле всегда обращена одна и та же сторона Луны. В любой момент времени половина Луны освещена Солнцем, а половина находится в тени. За время обращения Луны вокруг Земли каждая часть Луны освещается на протяжении половины орбиты и находится в тени на протяжении другой половины орбиты.\r\n\r\nКогда Луна находится между Землёй и Солнцем, её освещённая половина обращена от Земли, и мы видим только ту половину, которая находится в тени. Эта фаза Луны называется новолунием. По мере движения Луны по орбите с Земли начинает быть виден небольшой, но растущий серп освещённой половины Луны. Этот освещённый серп появляется на западной стороне лунного диска при наблюдении с Земли. Эта фаза называется растущим серпом. К тому моменту, когда Луна проходит четверть своего пути вокруг Земли, она оказывается на 90° в стороне от Солнца, и половина её освещённой половины обращена к Земле. Эта фаза называется первой четвертью. По мере продолжения орбитального движения с Земли теперь видна освещённой более половины Луны, а тёмная часть имеет форму серпа. Эта фаза называется растущей выпуклой Луной. Когда Луна проходит половину своего пути вокруг Земли, она оказывается на противоположной от Солнца стороне Земли, и мы видим всю её освещённую половину. Поскольку вся обращённая к Земле сторона Луны теперь освещена, это называется полнолунием.\r\n\r\nНа протяжении оставшейся половины орбиты Луны обращённая к Земле половина Луны начинает уходить в тень. Поэтому освещённая часть Луны, которую мы видим с Земли, начинает уменьшаться, или убывать. Западный край лунного диска при наблюдении с Земли начинает казаться тёмным, и эта тёмная область растёт в последующих фазах. Фазы повторяются в обратном порядке: убывающая выпуклая Луна, третья четверть, убывающий серп и, наконец, снова новолуние.\r\n\r\nПерспектива на этой схеме: запад вверху, север слева, восток внизу. Если смотреть на Луну в направлении на запад, например, наблюдать растущий серп сразу после заката, вид Луны был бы повёрнут на 180°.\r\n\r\nОбратите внимание: детали поверхности Луны приведены для иллюстрации и не отражают точно её истинную поверхность.",
+      "alt_en": "The Moon begins as dark, an illuminated portion grows from the top. Then once fully illuminated a dark portion grows from the top",
+      "alt_ru": "Луна начинается тёмной, освещённая часть растёт сверху. Затем, после полного освещения, тёмная часть растёт сверху.",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        113,
+        182,
+        215,
+        267,
+        379,
+        380,
+        383,
+        384,
+        397,
+        398
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:6464Zx69Rv2",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Total_Solar_Eclipse.png",
+      "record_url": "https://astro4edu.org/resources/diagram/6464Zx69Rv2/",
+      "original_path": "data/media/original/diagram_6464Zx69Rv2.png",
+      "ru_path": "data/media/ru/diagram_6464Zx69Rv2.png",
+      "sha256": "1dfdabbe7616027e5fd98a9a9614c794939c996fe8ba0fb9e0bc8133c4208656",
+      "size": 2063193,
+      "title_en": "Total Solar Eclipse",
+      "title_ru": "Полное солнечное затмение",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This not to scale diagram shows what happens during a total solar eclipse. The Moon orbits the Earth, but its orbit is slightly tilted with respect to the Earth’s orbit around the Sun. During the new moon lunar phase, the Moon lies between the Earth and the Sun, but due to the Moon’s tilted orbit around the Earth, the Moon normally lies above or below the Sun at this point. However twice a year the Moon’s orbit lines up in such a way that the Moon can lie in a direct line between the Earth and Sun. During each of these periods (each of which last roughly a month) solar (and lunar) eclipses can occur. The Moon is about 400 times smaller than the Sun, but is 400 times closer to the Earth than the Sun. Hence the Sun and Moon have approximately the same angular size when viewed from the Earth. This means that it is possible for the Moon to completely cover the Sun when viewed from Earth. This is known as a total solar eclipse. \r\n\r\nHere we see a schematic of such and eclipse. The Moon casts a shadow on the Earth known as the umbra. This is a roughly circular shadow a few hundred kilometres across although its shape can be severely distorted when the eclipse is at the edge of the illuminated part of the Earth. Any region within the umbra will see the Moon completely cover the Sun and thus will experience a total solar eclipse. Outside of the umbra there are regions where the Moon will cover part of the Sun. This partial shadow is known as the penumbra. Regions in the penumbra will experience a partial solar eclipse.\r\n\r\nAn eclipse is a dynamic event with the Moon moving in its orbit and the Earth rotating. Hence the umbra and penumbra move across the Earth’s surface together. The path the umbra takes across the Earth is known as the path of totality. Let’s consider one particular region that lies in the path of totality: except in rare cases where an eclipse begins at sunrise, a region that experiences totality will first see the Moon cover part of the Sun and gradually move across Sun until it is totally covered. From outside the Earth this would appear as the penumbra moving over this particular region followed by the umbra moving over this region. Once the Moon moves so that it no longer completely covers the Sun, totality ends and the umbra moves away from this particular region. The Moon will continue to uncover the Sun until (unless the Sun sets before the end of the eclipse) the Sun is completely uncovered. From outside the Earth this would appear as the umbra moving away from our particular region and the edge of the penumbra approaching and eventually passing over the region. \r\n\r\nOutside of the path or totality there is a much broader region that will lie in the penumbra but will be missed by the umbra. Such regions will not experience a total solar eclipse during this event, only a partial solar eclipse.",
+      "caption_ru": "Эта схема (не в масштабе) показывает, что происходит во время полного солнечного затмения. Луна обращается вокруг Земли, но её орбита слегка наклонена по отношению к орбите Земли вокруг Солнца. В фазе новолуния Луна находится между Землёй и Солнцем, но из-за наклонной орбиты Луны вокруг Земли в этот момент Луна обычно находится выше или ниже Солнца. Однако дважды в год орбита Луны выстраивается таким образом, что Луна может оказаться на прямой линии между Землёй и Солнцем. В каждый из этих периодов (каждый длится примерно месяц) могут происходить солнечные (и лунные) затмения. Луна примерно в 400 раз меньше Солнца, но в 400 раз ближе к Земле, чем Солнце. Поэтому Солнце и Луна имеют примерно одинаковый угловой размер при наблюдении с Земли. Это означает, что Луна может полностью закрыть Солнце при наблюдении с Земли. Это называется полным солнечным затмением.\r\n\r\nЗдесь мы видим схему такого затмения. Луна отбрасывает на Землю тень, называемую умброй. Это примерно круглая тень диаметром в несколько сотен километров, хотя её форма может сильно искажаться, когда затмение происходит на краю освещённой части Земли. Любая область внутри умбры увидит, как Луна полностью закрывает Солнце, и, таким образом, испытает полное солнечное затмение. Вне умбры есть области, где Луна закроет часть Солнца. Эта частичная тень называется полутенью. Области в полутени испытают частное солнечное затмение.\r\n\r\nЗатмение — это динамическое событие: Луна движется по своей орбите, а Земля вращается. Поэтому умбра и полутень перемещаются по поверхности Земли вместе. Путь, который умбра проходит по Земле, называется полосой полного затмения. Рассмотрим одну конкретную область, лежащую в полосе полного затмения: за исключением редких случаев, когда затмение начинается на восходе Солнца, область, испытывающая полную фазу, сначала увидит, как Луна закрывает часть Солнца и постепенно перемещается по Солнцу, пока оно не будет полностью закрыто. С точки вне Земли это выглядело бы как перемещение полутени по этой конкретной области, а затем умбры по этой области. Как только Луна переместится так, что больше не будет полностью закрывать Солнце, полная фаза заканчивается, и умбра уходит из этой конкретной области. Луна будет продолжать открывать Солнце, пока (если Солнце не зайдёт до окончания затмения) Солнце не откроется полностью. С точки вне Земли это выглядело бы как удаление умбры от нашей конкретной области и приближение края полутени, которая в конечном итоге пройдёт над областью.\r\n\r\nВне полосы полного затмения есть гораздо более широкая область, которая будет находиться в полутени, но не будет затронута умброй. Такие области не испытают полного солнечного затмения во время этого события, только частное солнечное затмение.",
+      "alt_en": "The Moon lies between the Sun and Earth casts a small shadow and large partial shadow",
+      "alt_ru": "Луна находится между Солнцем и Землёй, отбрасывая небольшую тень и большую частичную тень",
+      "credit": "Aneta Margraf/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        182,
+        203,
+        215,
+        240,
+        243,
+        310,
+        342,
+        365,
+        372
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "d6b95600091f361aa85163bca12eddeba7613faf754562a01c1a81ea6e0a5e26"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

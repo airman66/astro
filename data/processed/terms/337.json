@@ -1,0 +1,441 @@
+{
+  "id": "term:337",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 337,
+    "url": "https://astro4edu.org/resources/glossary/term/337/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=337",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:56.294536+00:00",
+    "sha256": "136caefeba5493f2453da02749f0c3542bee40b13673e93ccb0df5de6c20f605"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      40,
+      43,
+      130,
+      150,
+      186,
+      214,
+      219,
+      221,
+      312,
+      331,
+      334,
+      349,
+      386,
+      447,
+      476
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Stellar Remnants",
+      "body": "\"Stellar remnants\" is the collective term for white dwarfs, neutron stars, and stellar-mass black holes. These represent the final stage of stellar evolution after a star has both finished hydrogen burning on the main sequence and evolved through the giant phase. Stellar remnants are very compact compared to stars. White dwarfs (the largest type of stellar remnant) have approximately a solar mass of material in an object the size of Earth. Stellar remnants do not generate heat from nuclear fusion in their cores. In close binary systems stellar remnants can be the source of novae, Type Ia supernovae, or (if two stellar remnants spiral towards each other and collide) bursts of gravitational waves.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Binary Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/40/",
+          "text_ru": "Двойная звезда"
+        },
+        {
+          "text": "Black Hole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/43/",
+          "text_ru": "Чёрная дыра"
+        },
+        {
+          "text": "Giant Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/130/",
+          "text_ru": "Звезда-гигант"
+        },
+        {
+          "text": "Hydrogen Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/150/",
+          "text_ru": "Водородный синтез"
+        },
+        {
+          "text": "Main Sequence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/186/",
+          "text_ru": "Главная последовательность"
+        },
+        {
+          "text": "Neutron Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/214/",
+          "text_ru": "Нейтронная звезда"
+        },
+        {
+          "text": "Nova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/219/",
+          "text_ru": "Новая"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Solar Mass",
+          "url": "https://www.astro4edu.org/resources/glossary/term/312/",
+          "text_ru": "Солнечная масса"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Stellar Evolution",
+          "url": "https://www.astro4edu.org/resources/glossary/term/334/",
+          "text_ru": "Звездная эволюция"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "White Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/386/",
+          "text_ru": "Белый карлик"
+        },
+        {
+          "text": "Gravitational Waves",
+          "url": "https://www.astro4edu.org/resources/glossary/term/447/",
+          "text_ru": "Гравитационные волны"
+        },
+        {
+          "text": "Standard Candle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/476/",
+          "text_ru": "Стандартная свеча"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Stellar Remnants</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> \"Stellar remnants\" is the collective term for white dwarfs, neutron stars, and stellar-mass black holes. These represent the final stage of stellar evolution after a star has both finished hydrogen burning on the main sequence and evolved through the giant phase. Stellar remnants are very compact compared to stars. White dwarfs (the largest type of stellar remnant) have approximately a solar mass of material in an object the size of Earth. Stellar remnants do not generate heat from nuclear fusion in their cores. In close binary systems stellar remnants can be the source of novae, Type Ia supernovae, or (if two stellar remnants spiral towards each other and collide) bursts of gravitational waves.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/40/\">Binary Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/43/\">Black Hole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/130/\">Giant Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/150/\">Hydrogen Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/186/\">Main Sequence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/214/\">Neutron Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/219/\">Nova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/312/\">Solar Mass</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/334/\">Stellar Evolution</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/386/\">White Dwarf</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/447/\">Gravitational Waves</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/476/\">Standard Candle</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Остатки звёзд",
+      "body_ru": "«Остатки звёзд» — это собирательный термин для белых карликов, нейтронных звёзд и чёрных дыр звёздной массы. Они представляют собой конечную стадию звёздной эволюции после того, как звезда завершила горение водорода на главной последовательности и прошла через стадию гиганта. Остатки звёзд очень компактны по сравнению со звёздами. Белые карлики (самый крупный тип остатков звёзд) имеют примерно солнечную массу вещества в объекте размером с Землю. Остатки звёзд не выделяют тепло за счёт ядерного синтеза в своих ядрах. В тесных двойных системах остатки звёзд могут быть источником новых, сверхновых типа Ia или (если два остатка звёзд сближаются по спирали и сталкиваются) всплесков гравитационных волн."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/337/\">بقايا نجمية - بقايا النجوم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/337/\">Kompakte Objekte </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/337/\">Remanentes estelares </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/337/\">Vestiges stellaires </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/337/\">Residui stellari </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/337/\">Remanescentes estelares </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/337/\">恒星残骸 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/337/\">恆星殘骸 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/xW47Av452795/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso1810a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/pE82OY61wa42/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://chandra.harvard.edu/photo/2008/sn1006c/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/ed31OR3nF75/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://noirlab.edu/public/images/iotw2043a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:xW47Av452795",
+        "media:pE82OY61wa42",
+        "media:ed31OR3nF75"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/xW47Av452795/\"><img alt=\"A neutron star appears as a blue spot surrounded by shells of material which appear as red and green rings\" src=\"/media/multimedia/thumbnails/eso1810a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Death of a massive star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> A multi-wavelength image taken with telescopes on the Earth and in space of a neutron star within our neighbouring Small Magellanic Cloud galaxy. A neutron star (seen here as the blue spot surrounded by a red ring) is the final product of gravitational collapse, compression and explosion of a massive star, left embedded in its supernova remnant (in green).<br/>\n<b>Credit:</b> ESO/NASA, ESA and the Hubble Heritage Team (STScI/AURA)/F. Vogt et al.\n\t  <a href=\"https://www.eso.org/public/images/eso1810a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/pE82OY61wa42/\"><img alt=\"An irregular blue bubble with mottled red inside it on a field of background stars\" src=\"/media/multimedia/thumbnails/remnant-of-sn-1006_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Remnant of SN 1006</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows the remnant of the supernova SN 1006. This was probably the result of a white dwarf that accreted so much material from a binary companion star that the white dwarf exploded (this is called a Type 1a supernova by astronomers). This explosion happened several thousand years ago, however it took time for the light from this event to reach Earth, only arriving in the year 1006. This bright explosion was noticed by observers across the Earth and its appearance was noted in the records of many different societies.\n\nHere we see the effect that supernova has had on its surroundings in the galaxy. The force of the explosion has blown a huge bubble in the surrounding interstellar gas with a hot shockwave at its edge. The image appears to be a simple color picture but it actually represents light far beyond what our eye can see. The blue is X-ray data from NASA's Chandra X-ray Observatory, the yellow and orange are data from optical telescopes and the red is detections in radio waves from the Very Large Array and the Green Bank Telescope. The bright blue of the outer shell shows the gas there is very hot and that the explosion produced  energetic shock waves.<br/>\n<b>Credit:</b> X-ray: NASA/CXC/Rutgers/G.Cassam-Chenai, Hughes et al.; Radio: NRAO/AUI/NSF/GBT/VLA/Dyer, Maddalena &amp; Cornwell; Optical: Middlebury College/F.Winkler, NOAO/AURA/NSF/CTIO Schmidt &amp; DSS\n\t  <a href=\"https://chandra.harvard.edu/photo/2008/sn1006c/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/ed31OR3nF75/\"><img alt=\"The pulsar appears as a bright spot in the center with a series of colored ripples moving away from it on two sides\" src=\"/media/multimedia/thumbnails/the-crab-pulsar_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Crab Pulsar</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> At the heart of the Crab Nebula, situated approximately 6,500 light-years away in the constellation of Taurus, lies the Crab Nebula Pulsar. This is remnant of a massive star that exploded at the end of its life. This happened several thousand years ago but the light from this explosion only reached the Earth in the year 1054. This celestial event was viewed by people across the world with many different societies noting it in their records.\n\nThe Crab Nebula Pulsar rotates about 30 times per second and emits light in many different wavelengths, including the visible spectrum. It is roughly one and a half times the mass of the sun but the force of the explosion that formed it crammed this mass into a tiny space, roughly ten kilometres in radius.\n\nThis image is a composite of several observations conducted by the Gemini North observatory in Hawaii, USA. The pulsar can be seen at the center. The observations that this image was created from were taken over a period of five years. Data from 2009 is shown in blue and data from 2014 is shown in red. Over this time material has flowed away from the pulsar resulting in this colored ripple effect. Again the colors do not show real colors in the image, the ripples show the positions of the shockwaves as they moved away from the pulsar and hit into the surrounding gas.<br/>\n<b>Credit:</b> International Gemini Observatory/NOIRLab/NSF/AUR, Jen Miller, Travis Rector, Mahdi Zamani &amp; Davide de Martin\n\t  <a href=\"https://noirlab.edu/public/images/iotw2043a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/nE461I80fc87/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:nE461I80fc87"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/nE461I80fc87/\"><img alt=\"A diagram showing the evolutionary stages of five mass ranges of stars.\" src=\"/media/diagrams/multimedia/thumbnails/Stellar_Evolution_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stellar Evolution</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the life cycle of stars of different masses. The mass of the different types of star increases from bottom to top with time going from left to right.\n\nThe life cycle of a star depends on its mass, with lower mass stars have longer lifetimes. All stars form from clouds of gas that collapse under their own gravity. As the star collapses, its core becomes hotter and denser. If the star has a mass greater than 0.08 solar masses (0.08 times the mass of the Sun), the pressure of the star’s mass pushing down on its core creates a high enough core temperature for hydrogen fusion to ignite. This burns hydrogen into helium in the star’s core, providing a heat source to power the star and to stop its core from collapsing further. If the collapsing object has a mass below 0.08 solar masses then it does not ignite hydrogen fusion in its core. It continues to cool and slowly contract. Such substellar objects are known as brown dwarfs, shown here in the lowest row.\n\nAfter stars have formed, they burn hydrogen in their cores and begin their so-called main sequence phase. The most massive stars (&gt;25 solar masses, shown here at the top) have very high core temperatures and thus burn through their hydrogen fuel more quickly. This means they may only spend a few million years on the main sequence burning hydrogen in their cores. Once the hydrogen in the core is exhausted the star’s core contracts, becomes hotter and helium burning starts in the core. While the core contracts, the outer layers of the star expand and it becomes a supergiant. For the most massive stars strong stellar winds strip off the cooler outer layers, leading to the star being very large and very hot, a blue supergiant. Once helium is exhausted in the core, carbon is burned, and then heavier elements. Eventually the star ends with an iron core. Fusing iron into heavier elements does not generate energy so at this point fusion stops in the core. Once this core of iron is massive enough, it and the surrounding matter suddenly collapses to form a black hole and the outer layers are flung off in a supernova explosion.\n\nSlightly lower mass stars (between 8 and 25 solar masses, seen here second top) evolve in a similar way although they do not have strong enough winds to push their outer layers away and become blue supergiants, instead it evolves into a red supergiant. While such stars also collapse and create supernova explosions. The remnant of the star’s core is not massive enough to collapse into a black hole. Instead, its electrons and protons combine to form neutrons and it is supported by a quantum mechanical effect called neutron degeneracy pressure. This results in the remnant of the star being a tiny neutron star, several solar masses in mass but only a few kilometres across. \n\nFor stars similar in mass to the Sun (between 0.4 and 8 solar masses, seen here in the middle row), the star burns hydrogen in its core until the hydrogen in its core is exhausted. At this point a hydrogen burning shell forms around the core. Eventually the core will become hot enough to burn helium into carbon and oxygen. After this the star is left with a carbon and oxygen core surrounded by shells burning helium and hydrogen. These shells are unstable producing thermal pulsations that convulse the star. Eventually these pulsations become so extreme that the star’s outer layers are thrown off. This leaves the carbon and oxygen core as a white dwarf supported by electron degeneracy pressure. The outer layers of the star form what is known as a planetary nebula (which doesn’t actually have anything to do with planets despite the name).\n\nThe lowest mass stars (seen here in the second bottom row) are so low in mass that their evolutionary timescales are much longer than the age of the universe. This means that none have evolved beyond the main-sequence. Low mass stars are fully convective meaning material in the core is constantly being mixed with material above. This means that all the hydrogen in the star would eventually be burned in the core, but this will take trillions of years.<br/>\n<b>Credit:</b> Danielle Futselaar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Stellar Remnants",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Stellar Remnants",
+          "body": "\"Stellar remnants\" is the collective term for white dwarfs, neutron stars, and stellar-mass black holes. These represent the final stage of stellar evolution after a star has both finished hydrogen burning on the main sequence and evolved through the giant phase. Stellar remnants are very compact compared to stars. White dwarfs (the largest type of stellar remnant) have approximately a solar mass of material in an object the size of Earth. Stellar remnants do not generate heat from nuclear fusion in their cores. In close binary systems stellar remnants can be the source of novae, Type Ia supernovae, or (if two stellar remnants spiral towards each other and collide) bursts of gravitational waves."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звёздные остатки",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Остатки звёзд",
+          "body": "«Остатки звёзд» — это собирательный термин для белых карликов, нейтронных звёзд и чёрных дыр звёздной массы. Они представляют собой конечную стадию звёздной эволюции после того, как звезда завершила горение водорода на главной последовательности и прошла через стадию гиганта. Остатки звёзд очень компактны по сравнению со звёздами. Белые карлики (самый крупный тип остатков звёзд) имеют примерно солнечную массу вещества в объекте размером с Землю. Остатки звёзд не выделяют тепло за счёт ядерного синтеза в своих ядрах. В тесных двойных системах остатки звёзд могут быть источником новых, сверхновых типа Ia или (если два остатка звёзд сближаются по спирали и сталкиваются) всплесков гравитационных волн."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:xW47Av452795",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/eso1810a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/xW47Av452795/",
+      "original_path": "data/media/original/media_xW47Av452795.jpg",
+      "ru_path": null,
+      "sha256": "c80220af86c62cd6c474f405a3acfebf3051673b60b360611bcfd84339942d6c",
+      "size": 758178,
+      "title_en": "Death of a massive star",
+      "title_ru": "Смерть массивной звезды",
+      "short_caption_en": "Death of a massive star",
+      "short_caption_ru": "Смерть массивной звезды",
+      "caption_en": "A multi-wavelength image taken with telescopes on the Earth and in space of a neutron star within our neighbouring Small Magellanic Cloud galaxy. A neutron star (seen here as the blue spot surrounded by a red ring) is the final product of gravitational collapse, compression and explosion of a massive star, left embedded in its supernova remnant (in green).",
+      "caption_ru": "Многодиапазонное изображение, полученное с помощью телескопов на Земле и в космосе, нейтронной звезды в соседней галактике Малое Магелланово Облако. Нейтронная звезда (здесь видна как синее пятно, окружённое красным кольцом) — это конечный продукт гравитационного коллапса, сжатия и взрыва массивной звезды, оставшийся погружённым в её остаток сверхновой (зелёный).",
+      "alt_en": "A neutron star appears as a blue spot surrounded by shells of material which appear as red and green rings",
+      "alt_ru": "Нейтронная звезда выглядит как синее пятно, окружённое оболочками вещества, которые выглядят как красные и зелёные кольца",
+      "credit": "ESO/NASA, ESA and the Hubble Heritage Team (STScI/AURA)/F. Vogt et al.",
+      "credit_url": "https://www.eso.org/public/images/eso1810a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        214,
+        337,
+        349
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:pE82OY61wa42",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/remnant-of-sn-1006.png",
+      "record_url": "https://astro4edu.org/resources/media/pE82OY61wa42/",
+      "original_path": "data/media/original/media_pE82OY61wa42.png",
+      "ru_path": null,
+      "sha256": "e99a6169aeb527d20d3236aaffbb1ebfb810a0b0114fbffe2074514321f7563b",
+      "size": 16311517,
+      "title_en": "Remnant of SN 1006",
+      "title_ru": "Остаток SN 1006",
+      "short_caption_en": "Remnant of SN 1006",
+      "short_caption_ru": "Остаток SN 1006",
+      "caption_en": "This image shows the remnant of the supernova SN 1006. This was probably the result of a white dwarf that accreted so much material from a binary companion star that the white dwarf exploded (this is called a Type 1a supernova by astronomers). This explosion happened several thousand years ago, however it took time for the light from this event to reach Earth, only arriving in the year 1006. This bright explosion was noticed by observers across the Earth and its appearance was noted in the records of many different societies.\r\n\r\nHere we see the effect that supernova has had on its surroundings in the galaxy. The force of the explosion has blown a huge bubble in the surrounding interstellar gas with a hot shockwave at its edge. The image appears to be a simple color picture but it actually represents light far beyond what our eye can see. The blue is X-ray data from NASA's Chandra X-ray Observatory, the yellow and orange are data from optical telescopes and the red is detections in radio waves from the Very Large Array and the Green Bank Telescope. The bright blue of the outer shell shows the gas there is very hot and that the explosion produced  energetic shock waves.",
+      "caption_ru": "Это изображение показывает остаток сверхновой SN 1006. Вероятно, это результат того, что белый карлик накопил так много вещества от звезды-компаньона в двойной системе, что белый карлик взорвался (астрономы называют это сверхновой типа 1a). Этот взрыв произошёл несколько тысяч лет назад, однако свету от этого события потребовалось время, чтобы достичь Земли, и он прибыл только в 1006 году. Этот яркий взрыв был замечен наблюдателями по всей Земле, и его появление было отмечено в записях многих различных обществ.\r\n\r\nЗдесь мы видим, какое воздействие сверхновая оказала на своё окружение в галактике. Сила взрыва выдула огромный пузырь в окружающем межзвёздном газе с горячей ударной волной на его краю. Изображение выглядит как простая цветная картинка, но на самом деле оно представляет свет далеко за пределами того, что может видеть наш глаз. Синий цвет — это рентгеновские данные от рентгеновской обсерватории NASA «Чандра», жёлтый и оранжевый — данные оптических телескопов, а красный — обнаружения в радиоволнах от Very Large Array и Green Bank Telescope. Яркий синий цвет внешней оболочки показывает, что газ там очень горячий и что взрыв породил мощные ударные волны.",
+      "alt_en": "An irregular blue bubble with mottled red inside it on a field of background stars",
+      "alt_ru": "Неправильный синий пузырь с крапчатым красным внутри на фоне звёзд",
+      "credit": "X-ray: NASA/CXC/Rutgers/G.Cassam-Chenai, Hughes et al.; Radio: NRAO/AUI/NSF/GBT/VLA/Dyer, Maddalena & Cornwell; Optical: Middlebury College/F.Winkler, NOAO/AURA/NSF/CTIO Schmidt & DSS",
+      "credit_url": "https://chandra.harvard.edu/photo/2008/sn1006c/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        337,
+        349,
+        387,
+        526
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:ed31OR3nF75",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/the-crab-pulsar.png",
+      "record_url": "https://astro4edu.org/resources/media/ed31OR3nF75/",
+      "original_path": "data/media/original/media_ed31OR3nF75.png",
+      "ru_path": null,
+      "sha256": "91bbda89af2d0badaafda63362e4dcaddc577af32bff2abfdce19148e4e56038",
+      "size": 3313094,
+      "title_en": "The Crab Pulsar",
+      "title_ru": "Пульсар в Крабовидной туманности",
+      "short_caption_en": "The Crab Pulsar",
+      "short_caption_ru": "Пульсар в Крабовидной туманности",
+      "caption_en": "At the heart of the Crab Nebula, situated approximately 6,500 light-years away in the constellation of Taurus, lies the Crab Nebula Pulsar. This is remnant of a massive star that exploded at the end of its life. This happened several thousand years ago but the light from this explosion only reached the Earth in the year 1054. This celestial event was viewed by people across the world with many different societies noting it in their records.\r\n\r\nThe Crab Nebula Pulsar rotates about 30 times per second and emits light in many different wavelengths, including the visible spectrum. It is roughly one and a half times the mass of the sun but the force of the explosion that formed it crammed this mass into a tiny space, roughly ten kilometres in radius.\r\n\r\nThis image is a composite of several observations conducted by the Gemini North observatory in Hawaii, USA. The pulsar can be seen at the center. The observations that this image was created from were taken over a period of five years. Data from 2009 is shown in blue and data from 2014 is shown in red. Over this time material has flowed away from the pulsar resulting in this colored ripple effect. Again the colors do not show real colors in the image, the ripples show the positions of the shockwaves as they moved away from the pulsar and hit into the surrounding gas.",
+      "caption_ru": "В сердце Крабовидной туманности, расположенной на расстоянии примерно 6,500 световых лет в созвездии Тельца, находится пульсар Крабовидной туманности. Это остаток массивной звезды, взорвавшейся в конце своей жизни. Это произошло несколько тысяч лет назад, но свет от этого взрыва достиг Земли только в 1054 году. Это небесное событие наблюдали люди по всему миру, и многие разные общества отметили его в своих записях.\r\n\r\nПульсар Крабовидной туманности вращается около 30 раз в секунду и излучает свет во многих различных диапазонах длин волн, включая видимый спектр. Его масса примерно в полтора раза больше массы Солнца, но сила взрыва, сформировавшего его, сжала эту массу в крошечное пространство радиусом около десяти километров.\r\n\r\nЭто изображение является композицией нескольких наблюдений, проведённых обсерваторией Gemini North на Гавайях, США. Пульсар виден в центре. Наблюдения, из которых было создано это изображение, проводились в течение пяти лет. Данные от 2009 показаны синим, а данные от 2014 показаны красным. За это время вещество утекало от пульсара, что привело к этому цветному эффекту ряби. Опять же, цвета не показывают реальные цвета на изображении; рябь показывает положения ударных волн, когда они удалялись от пульсара и врезались в окружающий газ.",
+      "alt_en": "The pulsar appears as a bright spot in the center with a series of colored ripples moving away from it on two sides",
+      "alt_ru": "Пульсар выглядит как яркое пятно в центре, от которого с двух сторон расходятся цветные волны",
+      "credit": "International Gemini Observatory/NOIRLab/NSF/AUR, Jen Miller, Travis Rector, Mahdi Zamani & Davide de Martin",
+      "credit_url": "https://noirlab.edu/public/images/iotw2043a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        214,
+        266,
+        337
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:nE461I80fc87",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Stellar_Evolution_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/nE461I80fc87/",
+      "original_path": "data/media/original/diagram_nE461I80fc87.png",
+      "ru_path": "data/media/ru/diagram_nE461I80fc87.png",
+      "sha256": "764bb237a9022d9195fc75f068b2d4e9c9a0370c547a6ead2613f22b7b39a4bf",
+      "size": 987571,
+      "title_en": "Stellar Evolution",
+      "title_ru": "Звездная эволюция",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the life cycle of stars of different masses. The mass of the different types of star increases from bottom to top with time going from left to right.\r\n\r\nThe life cycle of a star depends on its mass, with lower mass stars have longer lifetimes. All stars form from clouds of gas that collapse under their own gravity. As the star collapses, its core becomes hotter and denser. If the star has a mass greater than 0.08 solar masses (0.08 times the mass of the Sun), the pressure of the star’s mass pushing down on its core creates a high enough core temperature for hydrogen fusion to ignite. This burns hydrogen into helium in the star’s core, providing a heat source to power the star and to stop its core from collapsing further. If the collapsing object has a mass below 0.08 solar masses then it does not ignite hydrogen fusion in its core. It continues to cool and slowly contract. Such substellar objects are known as brown dwarfs, shown here in the lowest row.\r\n\r\nAfter stars have formed, they burn hydrogen in their cores and begin their so-called main sequence phase. The most massive stars (>25 solar masses, shown here at the top) have very high core temperatures and thus burn through their hydrogen fuel more quickly. This means they may only spend a few million years on the main sequence burning hydrogen in their cores. Once the hydrogen in the core is exhausted the star’s core contracts, becomes hotter and helium burning starts in the core. While the core contracts, the outer layers of the star expand and it becomes a supergiant. For the most massive stars strong stellar winds strip off the cooler outer layers, leading to the star being very large and very hot, a blue supergiant. Once helium is exhausted in the core, carbon is burned, and then heavier elements. Eventually the star ends with an iron core. Fusing iron into heavier elements does not generate energy so at this point fusion stops in the core. Once this core of iron is massive enough, it and the surrounding matter suddenly collapses to form a black hole and the outer layers are flung off in a supernova explosion.\r\n\r\nSlightly lower mass stars (between 8 and 25 solar masses, seen here second top) evolve in a similar way although they do not have strong enough winds to push their outer layers away and become blue supergiants, instead it evolves into a red supergiant. While such stars also collapse and create supernova explosions. The remnant of the star’s core is not massive enough to collapse into a black hole. Instead, its electrons and protons combine to form neutrons and it is supported by a quantum mechanical effect called neutron degeneracy pressure. This results in the remnant of the star being a tiny neutron star, several solar masses in mass but only a few kilometres across. \r\n\r\nFor stars similar in mass to the Sun (between 0.4 and 8 solar masses, seen here in the middle row), the star burns hydrogen in its core until the hydrogen in its core is exhausted. At this point a hydrogen burning shell forms around the core. Eventually the core will become hot enough to burn helium into carbon and oxygen. After this the star is left with a carbon and oxygen core surrounded by shells burning helium and hydrogen. These shells are unstable producing thermal pulsations that convulse the star. Eventually these pulsations become so extreme that the star’s outer layers are thrown off. This leaves the carbon and oxygen core as a white dwarf supported by electron degeneracy pressure. The outer layers of the star form what is known as a planetary nebula (which doesn’t actually have anything to do with planets despite the name).\r\n\r\nThe lowest mass stars (seen here in the second bottom row) are so low in mass that their evolutionary timescales are much longer than the age of the universe. This means that none have evolved beyond the main-sequence. Low mass stars are fully convective meaning material in the core is constantly being mixed with material above. This means that all the hydrogen in the star would eventually be burned in the core, but this will take trillions of years.",
+      "caption_ru": "Эта диаграмма показывает жизненный цикл звезд различной массы. Масса различных типов звезд увеличивается снизу вверх, а время идет слева направо.\r\n\r\nЖизненный цикл звезды зависит от ее массы, причем звезды меньшей массы имеют более длительные сроки жизни. Все звезды формируются из облаков газа, которые коллапсируют под действием собственной гравитации. По мере коллапса звезды ее ядро становится горячее и плотнее. Если масса звезды превышает 0,08 солнечных масс (0,08 массы Солнца), давление массы звезды, давящей на ее ядро, создает достаточно высокую температуру ядра для запуска термоядерного синтеза водорода. Это сжигает водород в гелий в ядре звезды, обеспечивая источник тепла для питания звезды и предотвращения дальнейшего коллапса ее ядра. Если коллапсирующий объект имеет массу ниже 0,08 солнечных масс, то термоядерный синтез водорода в его ядре не запускается. Он продолжает остывать и медленно сжиматься. Такие субзвездные объекты известны как коричневые карлики, показанные здесь в нижнем ряду.\r\n\r\nПосле формирования звезды сжигают водород в своих ядрах и начинают так называемую фазу главной последовательности. Самые массивные звезды (>25 солнечных масс, показанные здесь вверху) имеют очень высокие температуры ядра и, таким образом, быстрее сжигают свое водородное топливо. Это означает, что они могут провести на главной последовательности, сжигая водород в своих ядрах, всего несколько миллионов лет. Как только водород в ядре исчерпан, ядро звезды сжимается, становится горячее, и в ядре начинается горение гелия. Пока ядро сжимается, внешние слои звезды расширяются, и она становится сверхгигантом. У самых массивных звезд сильные звездные ветры срывают более холодные внешние слои, что приводит к тому, что звезда становится очень большой и очень горячей — голубым сверхгигантом. Как только гелий в ядре исчерпан, сжигается углерод, а затем более тяжелые элементы. В конечном итоге звезда заканчивает с железным ядром. Синтез железа в более тяжелые элементы не генерирует энергию, поэтому на этом этапе синтез в ядре прекращается. Как только это железное ядро становится достаточно массивным, оно и окружающее вещество внезапно коллапсируют, образуя черную дыру, а внешние слои отбрасываются в взрыве сверхновой.\r\n\r\nЗвезды немного меньшей массы (от 8 до 25 солнечных масс, показанные здесь вторыми сверху) эволюционируют аналогичным образом, хотя у них недостаточно сильные ветры, чтобы оттолкнуть внешние слои и стать голубыми сверхгигантами; вместо этого они эволюционируют в красные сверхгиганты. Такие звезды также коллапсируют и создают взрывы сверхновых. Остаток ядра звезды недостаточно массивен, чтобы коллапсировать в черную дыру. Вместо этого его электроны и протоны объединяются, образуя нейтроны, и он поддерживается квантово-механическим эффектом, называемым давлением вырожденного нейтронного газа. В результате остаток звезды представляет собой крошечную нейтронную звезду, массой в несколько солнечных масс, но диаметром всего в несколько километров.\r\n\r\nДля звезд, сходных по массе с Солнцем (от 0,4 до 8 солнечных масс, показанные здесь в среднем ряду), звезда сжигает водород в своем ядре до тех пор, пока водород в ядре не исчерпается. В этот момент вокруг ядра образуется оболочка, сжигающая водород. В конечном итоге ядро станет достаточно горячим, чтобы сжигать гелий в углерод и кислород. После этого у звезды остается углеродно-кислородное ядро, окруженное оболочками, сжигающими гелий и водород. Эти оболочки нестабильны, создавая тепловые пульсации, которые сотрясают звезду. В конечном итоге эти пульсации становятся настолько экстремальными, что внешние слои звезды отбрасываются. Это оставляет углеродно-кислородное ядро в виде белого карлика, поддерживаемого давлением вырожденного электронного газа. Внешние слои звезды образуют так называемую планетарную туманность (которая на самом деле не имеет ничего общего с планетами, несмотря на название).\r\n\r\nСамые маломассивные звезды (показанные здесь во втором снизу ряду) имеют настолько малую массу, что их эволюционные временные масштабы намного превышают возраст Вселенной. Это означает, что ни одна из них не эволюционировала за пределы главной последовательности. Маломассивные звезды полностью конвективны, что означает, что материал в ядре постоянно перемешивается с материалом выше. Это означает, что весь водород в звезде в конечном итоге будет сожжен в ядре, но это займет триллионы лет.",
+      "alt_en": "A diagram showing the evolutionary stages of five mass ranges of stars.",
+      "alt_ru": "Диаграмма, показывающая эволюционные стадии для пяти диапазонов масс звёзд.",
+      "credit": "Danielle Futselaar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        43,
+        150,
+        214,
+        333,
+        334,
+        337,
+        347,
+        349,
+        386
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "463cb8467ab46d6c00ca3937eb0482fb48dcf7208f3f7880fb63aadbd0bac430"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

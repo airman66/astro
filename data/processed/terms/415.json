@@ -1,0 +1,315 @@
+{
+  "id": "term:415",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 415,
+    "url": "https://astro4edu.org/resources/glossary/term/415/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=415",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:19.742866+00:00",
+    "sha256": "022610c5ee4b484c6f3b130e29b8f5889f1529d2e296b98ab9520e93669520a9"
+  },
+  "metadata": {
+    "approval_level": "N",
+    "categories": [
+      "Galaxies"
+    ],
+    "category_ids": [
+      8
+    ],
+    "categories_ru": [
+      "Галактики"
+    ],
+    "related_term_numbers": [],
+    "redirect_term_number": 330,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Spiral Galaxy",
+      "body": "Spiral galaxies are galaxies that have spiral arms: regions of higher density that form as a galaxy rotates where gas and dust are compressed and new stars are born. Most spiral galaxies are disk galaxies, so the names are sometimes used interchangeably. Most spiral galaxies have a central bulge of stars, and many (including the Milky Way) have a central bar. Spiral galaxies are differentiated from elliptical, lenticular, irregular, and dwarf galaxies (though dwarf spiral galaxies also exist).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Disk Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/82/",
+          "text_ru": "Дисковая галактика"
+        },
+        {
+          "text": "Dust",
+          "url": "https://www.astro4edu.org/resources/glossary/term/85/",
+          "text_ru": "Пыль"
+        },
+        {
+          "text": "Dwarf Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/86/",
+          "text_ru": "Карликовая галактика"
+        },
+        {
+          "text": "Elliptical Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/99/",
+          "text_ru": "Эллиптическая галактика"
+        },
+        {
+          "text": "Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/119/",
+          "text_ru": "Галактика"
+        },
+        {
+          "text": "Gas",
+          "url": "https://www.astro4edu.org/resources/glossary/term/124/",
+          "text_ru": "Газ"
+        },
+        {
+          "text": "Milky Way",
+          "url": "https://www.astro4edu.org/resources/glossary/term/199/",
+          "text_ru": "Млечный Путь"
+        },
+        {
+          "text": "Galactic Bar",
+          "url": "https://www.astro4edu.org/resources/glossary/term/443/",
+          "text_ru": "Галактическая перемычка"
+        },
+        {
+          "text": "Lenticular Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/452/",
+          "text_ru": "Линзовидная галактика"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Spiral Galaxy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\n\t\t\n\t\t\n\t      Redirected from <b>Spiral Arm</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Spiral galaxies are galaxies that have spiral arms: regions of higher density that form as a galaxy rotates where gas and dust are compressed and new stars are born. Most spiral galaxies are disk galaxies, so the names are sometimes used interchangeably. Most spiral galaxies have a central bulge of stars, and many (including the Milky Way) have a central bar. Spiral galaxies are differentiated from elliptical, lenticular, irregular, and dwarf galaxies (though dwarf spiral galaxies also exist).</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/82/\">Disk Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/85/\">Dust</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/86/\">Dwarf Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/99/\">Elliptical Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/119/\">Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/124/\">Gas</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/199/\">Milky Way</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/443/\">Galactic Bar</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/452/\">Lenticular Galaxy</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Спиральная галактика",
+      "body_ru": "Спиральные галактики — это галактики, имеющие спиральные рукава: области повышенной плотности, которые образуются при вращении галактики, где газ и пыль сжимаются и рождаются новые звёзды. Большинство спиральных галактик являются дисковыми галактиками, поэтому эти названия иногда используются как взаимозаменяемые. Большинство спиральных галактик имеют центральное вздутие из звёзд, а многие (включая Млечный Путь) имеют центральную перемычку. Спиральные галактики отличаются от эллиптических, линзовидных, неправильных и карликовых галактик (хотя карликовые спиральные галактики также существуют)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "渦巻銀河 (external link)",
+          "url": "https://astro-dic.jp/spiral-galaxy/",
+          "text_ru": "Спиральная галактика (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/330/\">المجرة الحلزونية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/330/\">Spiralgalaxie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/330/\">Galaxia espiral </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/330/\">Galaxie spirale </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/330/\">Galassia a spirale </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/spiral-galaxy/\">渦巻銀河 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/330/\">나선은하 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/330/\">Galáxia espiral </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/330/\">漩涡星系 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/330/\">漩渦星系 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Vp35eD17pv59/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/ngc2207/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/uF7sh13rR67/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:M31_09-01-2011_(cropped).jpg",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "CC-BY-2.0"
+        },
+        {
+          "text": "Creative Commons Attribution 2.0 Generic icons",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.en",
+          "text_ru": "Creative Commons Attribution 2.0 Generic иконки"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/pj70pn17yO60/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://hubblesite.org/contents/media/images/2020/01/4615-Image",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Vp35eD17pv59/\"><img alt=\"Two spiral galaxies embracing in their early stages of merger with distortions on the smaller galaxy visible\" src=\"/media/multimedia/thumbnails/ngc2207_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spiral Galaxy Merger</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows two interacting spiral galaxies located approximately 150 million light-years away. Two spiral galaxies are involved in this dance, creating visible distortions in their spiral arms due to the gravitational pull. What is starting as an embrace in this picture, will end in the merger of those two galaxies into one, most likely elliptical, galaxy.<br/>\n<b>Credit:</b> ESO\n\t  <a href=\"https://www.eso.org/public/images/ngc2207/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/uF7sh13rR67/\"><img alt=\"Andromeda is a bright disk, with dark spiral lines in it, tilted up at the west end. Two small bright blobs lie left &amp; right\" src=\"/media/multimedia/thumbnails/a-visible-light-image-of-the-andromeda-galaxy_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">A visible light image of the Andromeda Galaxy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The Andromeda Galaxy viewed in visible light. Like our Milky Way, Andromeda is a barred spiral galaxy. Here we can see its bright core and spiral disk. The glow from the stars in the disk is interrupted by lanes of dust that form part of its spiral structure.\n\nAndromeda is the largest galaxy in the Local Group of galaxies that includes the Milky Way.\n\nTo the left of the core and just above the disk we see the dwarf galaxy M32 and to the right and below the disk we see the dwarf galaxy M110. These are both satellite galaxies of the Andromeda Galaxy.<br/>\n<b>Credit:</b> Torben Hansen\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:M31_09-01-2011_(cropped).jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\">CC-BY-2.0</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 2.0 Generic icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/pj70pn17yO60/\"><img alt=\"Hubble image of the spiral galaxy UGC 2885 showing a very large disk with faint spiral arms extending far from the center.\" src=\"/media/multimedia/thumbnails/spiral-galaxy-ugc-2885_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spiral Galaxy UGC 2885</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows UGC 2885, a spiral galaxy located in the constellation Perseus, about 230 million light-years from Earth. Spiral galaxies have rotating disks of stars, gas, and dust, with spiral arms extending outward from the central region. In UGC 2885, these arms are very broad and faint, revealing the galaxy’s large size. This galaxy is tilted at an angle to the observer on Earth, meaning it does not appear as the circular \"grand design\" spiral it would look like if viewed face-on, nor as the thin line with a central bulge it would appear as if viewed edge-on.\n\nUGC 2885 is remarkable because it is roughly twice the diameter of the Milky Way. It was studied by astronomer Vera Rubin, whose observations of how galaxies rotate — including systems like this one — played a key role in the search for dark matter.\n\nThe bright star which appears to the left of the galaxy's center is a foreground object not related to the galaxy.<br/>\n<b>Credit:</b> NASA, ESA, Benne Holwerda (University of Louisville)\n\t  <a href=\"https://hubblesite.org/contents/media/images/2020/01/4615-Image\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/uc91Hc319213/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/aT839V20hT52/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/hq75BY71AZ88/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/1v1540710v51/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/UZ83yf70PF70/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all diagrams for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Spiral Galaxy&page=1&language_choice=en&file_type=dia&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все диаграммы для этого термина"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/uc91Hc319213/\"><img alt=\"Leo resembles a lion standing on the ecliptic (which runs ESE to WNW) with its nose pointed northwest.\" src=\"/media/diagrams/multimedia/thumbnails/leo-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Leo Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The zodiac constellation Leo and its surrounding constellations. Starting from the top of the diagram and going clockwise, these are Leo Minor, Cancer, Sextans, Hydra, Crater, Virgo and Ursa Major. The brightest star in Leo, Regulus, lies almost exactly on the ecliptic (shown here as a blue line): the path the Sun appears to take across the sky over the course of a year. The Sun spends the period from mid August to mid September in Leo. The other planets in the Solar System can often be found in Leo.\n\nLeo spans the celestial equator and is thus part of it is visible at some time in the year from all of planet Earth with some of the constellation obscured for the most arctic and antarctic regions of the world. Leo is most visible in the evenings in the northern hemisphere spring and southern hemisphere autumn. \n\nSeveral objects can be seen in Leo, including  M65 and M66 – two galaxies in the Leo Triplet, a trio of galaxies including NGC 3628, not listed here. In addition, M96, a spiral galaxy, can be seen as a fuzzy object using a small telescope, and Messier 105, an elliptical galaxy. Each of these objects are labelled on the map as red ellipses.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labelled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/aT839V20hT52/\"><img alt=\"The constellation Virgo appears as a person lying with their back roughly against the diagonal ecliptic, arms outstretched, and feet pointed east.\" src=\"/media/diagrams/multimedia/thumbnails/virgo-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Virgo Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The zodiac constellation Virgo and its surrounding constellations. Starting from the top of the diagram and going clockwise, these are Coma Berenices, Leo, Crater, Corvus, Libra, and Bootes. The brightest star in Virgo, Spica, lies just below the ecliptic (shown here as a blue line) in the middle of the map. One way of locating this star in the night sky is to follow the handle of the Big Dipper to the star Arcturus in Bootes and go along a line straight down to Spica (“arc to Arcturus and spike to Spica”). This star lies just below the ecliptic. The ecliptic is the path the Sun appears to take across the sky over the course of a year. The Sun is in Virgo from mid September to late October. The other planets of the Solar System can often be found in Virgo. \n\nVirgo spans the celestial equator and is thus part of it is visible at some time in the year from all of planet Earth with some of the constellation obscured for the most arctic and antarctic regions of the world. Virgo is most visible in the evenings in the northern hemisphere spring and southern hemisphere autumn. \n\nThe constellation Virgo appears as a person lying with their back roughly against the ecliptic, arms outstretched, and feet pointed east. Several deep-sky objects are visible in Virgo, including NGC4697, M49, M87, M86, M84, and M60, all of which are labelled as red ellipses on the map. These are all spiral and elliptical galaxies located several millions of lightyears from Earth. Most notably, M87 is host to the supermassive black hole (Pōwehi) that was imaged by the Event Horizon Telescope in 2019. All of these galaxies are members of the Virgo Cluster, the nearest cluster of galaxies to the Milky Way.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labelled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/hq75BY71AZ88/\"><img alt=\"Ursa Major appears as a ladle with the handle to the east &amp; the cup to the west. Lines of fainter stars extend to the south\" src=\"/media/diagrams/multimedia/thumbnails/ursa-major-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ursa Major Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Ursa Major along with its bright stars and its surrounding constellations. Ursa Major is surrounded by (going clockwise from the top): Draco, Camelopardalis, Lynx, Leo Minor, Leo, Coma Berenices, Canes Venatici and Boötes. Ursa Major is famous for the prominent asterism often known in English as the Big Dipper or the Plough. This prominent northern asterism has a wide variety of names from cultures across the world. While most constellations and asterisms are made up of unrelated stars that randomly appear close together on the sky, five of the stars in the Big Dipper are part of the Ursa Major Moving Group, a group of stars moving through space together that likely formed in the same location 300 million years ago. The two stars on the right-hand end of the Big Dipper on this diagram form a pair of pointer stars that can be used to locate Polaris, the northern pole star which lies in the constellation of Ursa Minor.\n\nUrsa Major is a northern constellation and is visible from northern and equatorial regions. Parts of the constellation are visible from all but the most antarctic parts of the southern hemisphere but not all temperate regions of the southern hemisphere can see all of the Big Dipper. Conversely the Big Dipper and much of the rest of the constellation are circumpolar in arctic and many temperate regions of the northern hemisphere. Ursa Major is most visible in the evening in the northern hemisphere spring and southern hemisphere autumn. \n\nTwo prominent galaxies appear in the northern part of this constellation, the spiral galaxy M81 and M82, a possible spiral galaxy whose structure is difficult to observe from the Earth as it appears edge-on. Both are shown here as red ellipses. The planetary nebula M97 (the Owl Nebula) lies in the middle of the constellation and is marked by a green circle superimposed on a plus symbol. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/1v1540710v51/\"><img alt=\"Camelopardalis has no very bright stars and no well-defined shape\" src=\"/media/diagrams/multimedia/thumbnails/camelopardalis-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Camelopardalis Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Camelopardalis with its bright stars and surrounding constellations. Camelopardalis is surrounded by (going clockwise from the top): Cepheus, Cassiopea, Perseus, Auriga, Lynx, Ursa Major, Draco and Ursa Minor. Camelopardalis is a large constellation but contains relatively few bright stars.\n\nCamelopardalis is a northern constellation and as such the whole constellation is visible for the whole northern hemisphere at some point in the year. It is also visible from equatorial parts of the southern hemisphere with some parts visible to temperate southern regions. The whole constellation is circumpolar for all arctic and more northerly temperate regions of the northern hemisphere. Camelopardalis is best viewed in the evening in the late northern hemisphere winter and late southern hemisphere summer.\n\nThe spiral galaxies NGC 2403 and IC 342 lie in Camelopardalis and are marked here with red ellipses.\n\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/UZ83yf70PF70/\"><img alt=\"Cepheus appears as a head wearing a pointy hat tilted anticlockwise by 45 degrees\" src=\"/media/diagrams/multimedia/thumbnails/cepheus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Cepheus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Cepheus along with its bright stars and surrounding constellations. Cepheus is surrounded by (going clockwise from the top): Camelopardalis, Ursa Minor, Draco, Cygnus, Lacerta and Cassiopeia. Cepheus is a large constellation. Its most notable star is Delta Cephei, the prototype for the class of variable stars known as Cepheid variables. These are variable stars which can be used to estimate distances both within our galaxy and to nearby galaxies. \n\nCepheus lies close to the north celestial pole. As such it is circumpolar for arctic and temperate regions of the northern hemisphere. The whole of the constellation is also visible at some point in the year in equatorial regions of the northern hemisphere with parts of it visible in equatorial regions of the southern hemisphere. It is best viewed in the evening in the northern hemisphere late autumn and southern hemisphere late spring.\n\nThe open cluster NGC 188 lies in Cepheus and is marked here with a yellow circle. The nebula NGC 7023 also lies in the constellation and is marked with a green square. The red ellipse in the lower right marks the position of the spiral galaxy NGC 6946.\n\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. Delta Cephei is marked with a circle around a dot as it is a variable star. Mu Cephei is also a variable star marked here as an open circle. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Spiral Galaxy&amp;page=1&amp;language_choice=en&amp;file_type=dia&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all diagrams <br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Spiral Arm",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Spiral Galaxy",
+          "body": "Spiral galaxies are galaxies that have spiral arms: regions of higher density that form as a galaxy rotates where gas and dust are compressed and new stars are born. Most spiral galaxies are disk galaxies, so the names are sometimes used interchangeably. Most spiral galaxies have a central bulge of stars, and many (including the Milky Way) have a central bar. Spiral galaxies are differentiated from elliptical, lenticular, irregular, and dwarf galaxies (though dwarf spiral galaxies also exist)."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Спиральный рукав",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Спиральная галактика",
+          "body": "Спиральные галактики — это галактики, имеющие спиральные рукава: области повышенной плотности, которые образуются при вращении галактики, где газ и пыль сжимаются и рождаются новые звёзды. Большинство спиральных галактик являются дисковыми галактиками, поэтому эти названия иногда используются как взаимозаменяемые. Большинство спиральных галактик имеют центральное вздутие из звёзд, а многие (включая Млечный Путь) имеют центральную перемычку. Спиральные галактики отличаются от эллиптических, линзовидных, неправильных и карликовых галактик (хотя карликовые спиральные галактики также существуют)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

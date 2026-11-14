@@ -7,6 +7,54 @@ services:
       DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
       DEEPSEEK_MODEL: ${DEEPSEEK_MODEL:-deepseek-flash}
       CORS_ORIGINS: ${CORS_ORIGINS:-}
+      REDIS_URL: redis://redis:6379/0
+      TRUSTED_PROXIES: ${TRUSTED_PROXIES:-}
+      SESSION_SECRET: ${SESSION_SECRET:-}
+      EMBEDDING_URL: ${EMBEDDING_URL:-http://embeddings:8080/v1/embeddings}
+    depends_on:
+      redis:
+        condition: service_healthy
+      embeddings:
+        condition: service_healthy
     volumes:
       - ./data:/app/data
     restart: unless-stopped
+  model-fetch:
+    image: ghcr.io/ggml-org/llama.cpp:server
+    entrypoint: ["/bin/sh", "/scripts/fetch_embedding_model.sh"]
+    volumes:
+      - ./data/models:/models
+      - ./scripts/fetch_embedding_model.sh:/scripts/fetch_embedding_model.sh:ro
+    restart: "no"
+  embeddings:
+    image: ghcr.io/ggml-org/llama.cpp:server
+    depends_on:
+      model-fetch:
+        condition: service_completed_successfully
+    command:
+      - -m
+      - /models/Qwen3-Embedding-8B-Q4_K_M.gguf
+      - --embedding
+      - --pooling
+      - last
+      - -c
+      - "4096"
+      - -b
+      - "4096"
+      - -ub
+      - "2048"
+      - --host
+      - 0.0.0.0
+      - --port
+      - "8080"
+    volumes:
+      - ./data/models:/models:ro
+    restart: unless-stopped
+  redis:
+    image: redis:7-alpine
+    command: ["redis-server", "--save", "", "--appendonly", "no"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5

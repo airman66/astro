@@ -1,0 +1,548 @@
+{
+  "id": "term:234",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 234,
+    "url": "https://astro4edu.org/resources/glossary/term/234/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=234",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:26.560081+00:00",
+    "sha256": "ce82326a33196d30cf203d51d84ba1d38ffc7050a4d0f1ff09a57214131fe59f"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      129,
+      167,
+      212,
+      294,
+      314,
+      375,
+      449
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Outer Planets",
+      "body": "In our Solar System, the outer planets are Jupiter, Saturn, Uranus, and Neptune. Their orbits are outside the asteroid belt, and all of those planets are so-called giant planets, with an extremely thick atmosphere made up mostly of hydrogen. This makes them physically distinct from the inner planets, each of which is a comparatively small rocky body with a comparatively thin atmosphere. Planets around stars other than our Sun do not necessarily fall into inner and outer groups with similar characteristics – we know a number of stars with at least one gas giant, a \"hot Jupiter\", in close orbit.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Giant Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/129/",
+          "text_ru": "Гигантская планета"
+        },
+        {
+          "text": "Jupiter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/167/",
+          "text_ru": "Юпитер"
+        },
+        {
+          "text": "Neptune",
+          "url": "https://www.astro4edu.org/resources/glossary/term/212/",
+          "text_ru": "Нептун"
+        },
+        {
+          "text": "Saturn",
+          "url": "https://www.astro4edu.org/resources/glossary/term/294/",
+          "text_ru": "Сатурн"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Uranus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/375/",
+          "text_ru": "Уран"
+        },
+        {
+          "text": "Inner Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/449/",
+          "text_ru": "Внутренняя планета"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Outer Planets</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In our Solar System, the outer planets are Jupiter, Saturn, Uranus, and Neptune. Their orbits are outside the asteroid belt, and all of those planets are so-called giant planets, with an extremely thick atmosphere made up mostly of hydrogen. This makes them physically distinct from the inner planets, each of which is a comparatively small rocky body with a comparatively thin atmosphere. <br/><br/>Planets around stars other than our Sun do not necessarily fall into inner and outer groups with similar characteristics – we know a number of stars with at least one gas giant, a \"hot Jupiter\", in close orbit.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/129/\">Giant Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/167/\">Jupiter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/212/\">Neptune</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/294/\">Saturn</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/375/\">Uranus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/449/\">Inner Planet</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Внешние планеты",
+      "body_ru": "В нашей Солнечной системе внешние планеты — это Юпитер, Сатурн, Уран и Нептун. Их орбиты находятся за пределами пояса астероидов, и все эти планеты являются так называемыми планетами-гигантами с чрезвычайно плотной атмосферой, состоящей в основном из водорода. Это делает их физически отличными от внутренних планет, каждая из которых является сравнительно небольшим каменистым телом с относительно тонкой атмосферой. Планеты вокруг звёзд, отличных от нашего Солнца, не обязательно делятся на внутренние и внешние группы со сходными характеристиками — мы знаем ряд звёзд, имеющих по крайней мере один газовый гигант, «горячий Юпитер», на близкой орбите."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/234/\">الكواكب الخارجية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/234/\">Äußere Planeten </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/234/\">Planetas exteriores </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/234/\">Planètes extérieures </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/234/\">Pianeti esterni </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/234/\">외행성 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/234/\">Planetas Externos </a></span></li>\n<li><b>Albanian: </b><span dir=\"LTR\" lang=\"sq\"><a class=\"link-bold\" href=\"/sq/resources/glossary/term/234/\">Planetët e jashtëm </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/234/\">外行星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/234/\">外行星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/id29650bC11/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zm32gm18n086/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/oC21zv72nT69/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/iV54jj18wz3/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic1410a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/T291MZ505v97/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic1917a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Outer Planets&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:id29650bC11",
+        "media:zm32gm18n086",
+        "media:oC21zv72nT69",
+        "media:iV54jj18wz3",
+        "media:T291MZ505v97"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/id29650bC11/\"><img alt=\"The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.\" src=\"/media/multimedia/thumbnails/Jupiters_Rotation_by_Vishal_Sharma_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter's Rotation, by Vishal Sharma, India</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\n\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.<br/>\n<b>Credit:</b> Vishal Sharma/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zm32gm18n086/\"><img alt=\"The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots\" src=\"/media/multimedia/thumbnails/Jupiter_Moons_Movie2_by_Nicolas_Hurez_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter Moons Movie2, by Nicolas Hurez, Paul-Antoine Matrangolo, and Carl Pennypacker, United States of America</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).<br/>\n<b>Credit:</b> Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/oC21zv72nT69/\"><img alt=\"Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left\" src=\"/media/multimedia/thumbnails/Jupiter_Io_and_its_shadow_by_Ralf_Burkart_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter, Io and its shadow, by Ralf Burkart, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.<br/>\n<b>Credit:</b> Ralf Burkart/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/iV54jj18wz3/\"><img alt=\"The planet Jupiter with horizontal cloud ribbons and the great red spot\" src=\"/media/multimedia/thumbnails/heic1410a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This full disk view of Jupiter was obtained on 21 April 2014 with Hubble's Wide Field Camera 3 (WFC3). It shows the prominent great red spot, a gigantic cyclone. Cloud ribbons cover the surface, whose colours stem from gases like ammonia and other chemical compounds.<br/>\n<b>Credit:</b> NASA, ESA, and A. Simon (Goddard Space Flight Center)\n\t  <a href=\"https://esahubble.org/images/heic1410a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/T291MZ505v97/\"><img alt=\"The planet Saturn with pale brownish cloud ribbons and its thin and extended greyish rings\" src=\"/media/multimedia/thumbnails/heic1917a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Saturn</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The NASA/ESA Hubble Space Telescope’s Wide Field Camera 3 observed Saturn on 20 June 2019 as the planet made its closest approach to Earth this year, at approximately 1.36 billion kilometres away. The image shows coloured bands of gas on the planet's surface as well as its prominent rings made of ice and rocky material.<br/>\n<b>Credit:</b> NASA, ESA, A. Simon (Goddard Space Flight Center), and M.H. Wong (University of California, Berkeley)\n\t  <a href=\"https://esahubble.org/images/heic1917a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Outer Planets&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Outer Planets",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Outer Planets",
+          "body": "In our Solar System, the outer planets are Jupiter, Saturn, Uranus, and Neptune. Their orbits are outside the asteroid belt, and all of those planets are so-called giant planets, with an extremely thick atmosphere made up mostly of hydrogen. This makes them physically distinct from the inner planets, each of which is a comparatively small rocky body with a comparatively thin atmosphere. Planets around stars other than our Sun do not necessarily fall into inner and outer groups with similar characteristics – we know a number of stars with at least one gas giant, a \"hot Jupiter\", in close orbit."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Внешние планеты",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Внешние планеты",
+          "body": "В нашей Солнечной системе внешние планеты — это Юпитер, Сатурн, Уран и Нептун. Их орбиты находятся за пределами пояса астероидов, и все эти планеты являются так называемыми планетами-гигантами с чрезвычайно плотной атмосферой, состоящей в основном из водорода. Это делает их физически отличными от внутренних планет, каждая из которых является сравнительно небольшим каменистым телом с относительно тонкой атмосферой. Планеты вокруг звёзд, отличных от нашего Солнца, не обязательно делятся на внутренние и внешние группы со сходными характеристиками — мы знаем ряд звёзд, имеющих по крайней мере один газовый гигант, «горячий Юпитер», на близкой орбите."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:id29650bC11",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5292034/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%E2%80%99s%20Rotation%2C%20by%20Vishal%20Sharma.mp4",
+      "record_url": "https://astro4edu.org/resources/media/id29650bC11/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse of Galilean moons orbiting Jupiter",
+      "short_caption_ru": "Таймлапс галилеевых спутников, обращающихся вокруг Юпитера",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\r\n\r\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.",
+      "caption_ru": "Третье место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники»: «Вращение Юпитера», автор Вишал Шарма, Индия.\r\n\r\nЭтот таймлапс красиво показывает вращение Юпитера и прохождение двух галилеевых спутников в правой части кадра. Юпитер совершает один оборот чуть менее чем за 10 часов, и мы видим, как Большое Красное Пятно перемещается слева направо. Два спутника за это короткое время проходят заметную часть своей орбиты. Это изображение было получено в 2020 на севере Индии.",
+      "alt_en": "The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.",
+      "alt_ru": "Планета Юпитер с двумя из четырёх галилеевых спутников (видны как яркие точки), обращающихся вокруг неё.",
+      "credit": "Vishal Sharma/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zm32gm18n086",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291803/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%20Moon%E2%80%99s%20Movie2%2C%20by%20Nicolas%20Hurez%2C%20Paul-Antoine%20Matrangolo%2C%20and%20Carl%20Pennypacker%2C%20United%20States%20of%20America.mp4",
+      "record_url": "https://astro4edu.org/resources/media/zm32gm18n086/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Four Galilean moons around the planet Jupiter.",
+      "short_caption_ru": "Четыре галилеевых спутника вокруг планеты Юпитер.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).",
+      "caption_ru": "Второе место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭта последовательность показывает орбиты четырёх галилеевых спутников вокруг планеты Юпитер. Можно увидеть почти два полных оборота самого внутреннего спутника Ио, в то время как другие спутники (Европа и Ганимед, но особенно Каллисто) находятся дальше и обращаются заметно медленнее. Изображения были получены в 2018 с помощью Лас-Кумбресской глобальной обсерватории в разных точках Земли, что позволило получить непрерывную последовательность снимков в течение примерно половины недели без пробелов в дневное время. При ясном небе и в течение нескольких ночей движение галилеевых спутников можно также наблюдать в бинокль (желательно опереть локти на какую-либо поверхность).",
+      "alt_en": "The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots",
+      "alt_ru": "Планета Юпитер, видимая здесь как яркий диск, вокруг которого обращаются четыре галилеевых спутника, видимые как яркие точки",
+      "credit": "Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:oC21zv72nT69",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291459/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Io%2C%20Ganymede%2C%20Shadow%2C%20by%20Ralf%20Burkart%2C%20Germany.gif",
+      "record_url": "https://astro4edu.org/resources/media/oC21zv72nT69/",
+      "original_path": "data/media/original/media_oC21zv72nT69.gif",
+      "ru_path": null,
+      "sha256": "71547b4d75a0fd7f1d53c3ad5af7749ec0c77cbed1bbb6b21d622ec30a2aa676",
+      "size": 12636069,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse showing he transit of one of the Galilean moons, Io, in front of Jupiter",
+      "short_caption_ru": "Таймлапс, показывающий прохождение одного из галилеевых спутников, Ио, перед Юпитером",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.",
+      "caption_ru": "Первое место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭтот таймлапс Юпитера, снятый в 2017 в Германии, прекрасно иллюстрирует прохождение одного из галилеевых спутников, Ио, перед Юпитером. Поскольку это просто спутник, отбрасывающий тень на планету, это эквивалентно лунному затмению на Земле, наблюдаемому издалека. Хотя тень спутника ясно видна с самого начала, сам спутник может быть трудно заметить на фоне прекрасных атмосферных полос Юпитера при первом просмотре видео. Повторный просмотр позволяет оценить быстрое движение и вращение в этом фантастическом наблюдении.",
+      "alt_en": "Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left",
+      "alt_ru": "Юпитер с цветными горизонтальными полосами облаков. Тень спутника Ио видна как тёмный круг в верхнем левом углу",
+      "credit": "Ralf Burkart/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253,
+        367
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:iV54jj18wz3",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/heic1410a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/iV54jj18wz3/",
+      "original_path": "data/media/original/media_iV54jj18wz3.jpg",
+      "ru_path": null,
+      "sha256": "a6c7825425040aed8b16dbbb04e2b8966dba3e6d4c6acc97198131c6ced460af",
+      "size": 167158,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Jupiter imaged by the Hubble Space Telescope",
+      "short_caption_ru": "Юпитер, снятый космическим телескопом Хаббл",
+      "caption_en": "This full disk view of Jupiter was obtained on 21 April 2014 with Hubble's Wide Field Camera 3 (WFC3). It shows the prominent great red spot, a gigantic cyclone. Cloud ribbons cover the surface, whose colours stem from gases like ammonia and other chemical compounds.",
+      "caption_ru": "Этот снимок полного диска Юпитера был получен 21 апреля 2014 с помощью Широкоугольной камеры 3 (WFC3) телескопа Хаббл. На нём видно заметное Большое красное пятно — гигантский циклон. Поверхность покрыта облачными полосами, цвет которых обусловлен газами, такими как аммиак, и другими химическими соединениями.",
+      "alt_en": "The planet Jupiter with horizontal cloud ribbons and the great red spot",
+      "alt_ru": "Планета Юпитер с горизонтальными облачными полосами и Большим красным пятном",
+      "credit": "NASA, ESA, and A. Simon (Goddard Space Flight Center)",
+      "credit_url": "https://esahubble.org/images/heic1410a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        125,
+        129,
+        136,
+        167,
+        234
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:T291MZ505v97",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/heic1917a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/T291MZ505v97/",
+      "original_path": "data/media/original/media_T291MZ505v97.jpg",
+      "ru_path": null,
+      "sha256": "c7861c116b5b4da2ab7bb4f33002c802e5a2e23acbe8af3be5f5ef6349f898de",
+      "size": 262208,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A Hubble Space Telescope image of Saturn",
+      "short_caption_ru": "Изображение Сатурна, полученное космическим телескопом Хаббл",
+      "caption_en": "The NASA/ESA Hubble Space Telescope’s Wide Field Camera 3 observed Saturn on 20 June 2019 as the planet made its closest approach to Earth this year, at approximately 1.36 billion kilometres away. The image shows coloured bands of gas on the planet's surface as well as its prominent rings made of ice and rocky material.",
+      "caption_ru": "Wide Field Camera 3 космического телескопа Хаббл NASA/ESA наблюдала Сатурн 20 июня 2019 года, когда планета находилась в ближайшей к Земле точке за этот год, на расстоянии примерно 1,36 миллиарда километров. На изображении видны цветные полосы газа на поверхности планеты, а также её заметные кольца, состоящие из льда и каменистого материала.",
+      "alt_en": "The planet Saturn with pale brownish cloud ribbons and its thin and extended greyish rings",
+      "alt_ru": "Планета Сатурн с бледно-коричневыми облачными лентами и тонкими и протяжёнными сероватыми кольцами",
+      "credit": "NASA, ESA, A. Simon (Goddard Space Flight Center), and M.H. Wong (University of California, Berkeley)",
+      "credit_url": "https://esahubble.org/images/heic1917a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        125,
+        129,
+        234,
+        287,
+        294
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:bg99cw82f854",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/PIA18182.jpg",
+      "record_url": "https://astro4edu.org/resources/media/bg99cw82f854/",
+      "original_path": "data/media/original/media_bg99cw82f854.jpg",
+      "ru_path": null,
+      "sha256": "ca232227c8bf49a3946b7c65ba504f528b4f1082d0ed426d0a97243aa520acf5",
+      "size": 78816,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Uranus in natural colours",
+      "short_caption_ru": "Уран в естественных цветах",
+      "caption_en": "This is an image of the planet Uranus taken by the spacecraft Voyager 2 in 1986. Its appearance is close to what the naked eye would see. The greenish-blue colour indicates an atmosphere containing methane.",
+      "caption_ru": "Это изображение планеты Уран, полученное космическим аппаратом «Вояджер 2» в 1986. Его вид близок к тому, что увидел бы невооружённый глаз. Зеленовато-голубой цвет указывает на атмосферу, содержащую метан.",
+      "alt_en": "Uranus showing a uniformly greenish-blue coloured appearance",
+      "alt_ru": "Уран, имеющий однородный зеленовато-голубой цвет",
+      "credit": "NASA/JPL-Caltech",
+      "credit_url": "https://photojournal.jpl.nasa.gov/catalog/PIA18182",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        129,
+        153,
+        234,
+        375
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:i799RL125F73",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/STScI-01EVVHWVY4VZJ71M8ZTQ8FGBBM.jpg",
+      "record_url": "https://astro4edu.org/resources/media/i799RL125F73/",
+      "original_path": "data/media/original/media_i799RL125F73.jpg",
+      "ru_path": null,
+      "sha256": "d34a700adb3ca9bf0e9fe1c5e8bf454addeffd1909958695ada8f1f035b951cf",
+      "size": 54698,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Uranus with its rings",
+      "short_caption_ru": "Уран с его кольцами",
+      "caption_en": "The NASA/ESA Hubble Space Telescope’s ACS/HRC camera observed Uranus in August 2005. The surface depicts white clouds and a bright polar region. The rings around Uranus are narrow and contain rocky material from tiny dust particles up to metre-sized boulders.",
+      "caption_ru": "Космический телескоп «Хаббл» NASA/ESA с помощью камеры ACS/HRC наблюдал Уран в августе 2005. На поверхности видны белые облака и яркая полярная область. Кольца вокруг Урана узкие и содержат каменистый материал от мельчайших пылевых частиц до валунов размером в метр.",
+      "alt_en": "Uranus appears as a light blue disk with and a pale polar region. Thin white rings surround the planet",
+      "alt_ru": "Уран выглядит как светло-голубой диск с бледной полярной областью. Планету окружают тонкие белые кольца",
+      "credit": "NASA, ESA, and M. Showalter (SETI Institute)",
+      "credit_url": "https://hubblesite.org/contents/media/images/2007/32/2177-Image.html",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        129,
+        153,
+        234,
+        287,
+        375
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:ic29Fq24Il78",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Neptune_-_Voyager_2_29347980845_flatten_crop.jpg",
+      "record_url": "https://astro4edu.org/resources/media/ic29Fq24Il78/",
+      "original_path": "data/media/original/media_ic29Fq24Il78.jpg",
+      "ru_path": null,
+      "sha256": "ae2203bd8e08482a61efd727de2e4a22b3e335d3297070fb74066719a82b1f2b",
+      "size": 407347,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Voyager 2 Narrow Angle Camera image of Neptune",
+      "short_caption_ru": "Изображение Нептуна, полученное узкоугольной камерой «Вояджера 2»",
+      "caption_en": "Voyager 2 Narrow Angle Camera image of Neptune taken in August 1989. The Great Dark Spot, flanked by cirrus clouds, is at center. A smaller dark storm, Dark Spot Jr., is rotating into view at bottom left. Additionally, a patch of white cirrus clouds to its north, named \"Scooter\" for its rapid motion relative to other features, is visible.",
+      "caption_ru": "Изображение Нептуна, полученное узкоугольной камерой «Вояджера 2» в августе 1989. В центре находится Большое тёмное пятно, окружённое перистыми облаками. Меньший тёмный шторм, Младшее тёмное пятно, вращается и появляется в поле зрения внизу слева. Кроме того, видно пятно белых перистых облаков к северу от него, названное «Скутер» за его быстрое движение относительно других образований.",
+      "alt_en": "Neptune is spherical and blue with thin bands of white cloud and a slightly darker spot just below its equator",
+      "alt_ru": "Нептун сферический и синий с тонкими полосами белых облаков и слегка более тёмным пятном чуть ниже его экватора",
+      "credit": "NASA / JPL / Voyager-ISS / Justin Cowart",
+      "credit_url": "https://www.flickr.com/photos/132160802@N06/29347980845/",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        129,
+        153,
+        212,
+        234
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

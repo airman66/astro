@@ -1,0 +1,217 @@
+{
+  "id": "term:168",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 168,
+    "url": "https://astro4edu.org/resources/glossary/term/168/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=168",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:06.017933+00:00",
+    "sha256": "8cc4214cd391bf1807adb0ec49f9ce9d7cfc5fd91f20f8ce42d41df57c3ebc8f"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      325,
+      331,
+      396,
+      440,
+      514
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: K-type Star",
+      "body": "A star with spectral type \"K\". Astronomers identify K-type stars by the presence of  very weak hydrogen lines but strong lines from iron and manganese atoms in their spectra. They have typical (effective) temperatures between around 3700 kelvins (K) and 5200 K. Compared to other stars, they appear orange-white to human eyes unless interstellar or atmospheric reddening is important. Examples of K-type stars are Aldebaran, in Taurus, and Pollux, in Gemini.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Spectral Type",
+          "url": "https://www.astro4edu.org/resources/glossary/term/325/",
+          "text_ru": "Спектральный класс"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Reddening",
+          "url": "https://www.astro4edu.org/resources/glossary/term/396/",
+          "text_ru": "Покраснение"
+        },
+        {
+          "text": "Effective Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/440/",
+          "text_ru": "Эффективная температура"
+        },
+        {
+          "text": "Spectral Line",
+          "url": "https://www.astro4edu.org/resources/glossary/term/514/",
+          "text_ru": "Спектральная линия"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: K-type Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>K star</b> or <b>K-star</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A star with spectral type \"K\". Astronomers identify K-type stars by the presence of  very weak hydrogen lines but strong lines from iron and manganese atoms in their spectra. They have typical (effective) temperatures between around 3700 kelvins (K) and 5200 K. Compared to other stars, they appear orange-white to human eyes unless interstellar or atmospheric reddening is important. Examples of K-type stars are Aldebaran, in Taurus, and Pollux, in Gemini.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/325/\">Spectral Type</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/396/\">Reddening</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/440/\">Effective Temperature</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/514/\">Spectral Line</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звезда K-типа",
+      "body_ru": "Звезда спектрального типа «K». Астрономы идентифицируют звёзды K-типа по наличию очень слабых линий водорода, но сильных линий атомов железа и марганца в их спектрах. Их типичные (эффективные) температуры составляют от примерно 3700 кельвинов (K) до 5200 K. По сравнению с другими звёздами они кажутся человеческому глазу оранжево-белыми, если только межзвёздное или атмосферное покраснение не играет важной роли. Примерами звёзд K-типа являются Альдебаран в Тельце и Поллукс в Близнецах."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "K型星 (external link)",
+          "url": "https://astro-dic.jp/k-type-star/",
+          "text_ru": "Звезда типа K (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/168/\">النجم من النوع الطيفي K </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/168/\">K-Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/168/\">Estrella de tipo K </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/168/\">Étoile de type K </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/168/\">Stella di tipo K </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/k-type-star/\">K型星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/168/\">Estrela tipo K </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/168/\">K 型星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/168/\">K 型星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/lH42QC364e69/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:lH42QC364e69"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/lH42QC364e69/\"><img alt=\"A ragged line peaking about 580 nm then declining at longer wavelengths with a few deeper dips.\" src=\"/media/diagrams/multimedia/thumbnails/spectrum-of-a-k-type-star_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spectrum of a K-type star</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The spectrum of the K-type star 2MASS J19554455+4754531. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\n\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. The spectra of K-type stars are dominated by metal atoms such as iron, sodium and calcium atoms. There are so many lines from metal atoms, far too many to mark individually, that the spectrum has a choppy, ragged appearance. The lines of hydrogen atoms and calcium ions are much weaker than in the hotter G-type stars.<br/>\n<b>Credit:</b> IAU OAE/SDSS/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "K-type Star",
+      "aliases": [
+        "K star",
+        "K-star"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: K-type Star",
+          "body": "A star with spectral type \"K\". Astronomers identify K-type stars by the presence of  very weak hydrogen lines but strong lines from iron and manganese atoms in their spectra. They have typical (effective) temperatures between around 3700 kelvins (K) and 5200 K. Compared to other stars, they appear orange-white to human eyes unless interstellar or atmospheric reddening is important. Examples of K-type stars are Aldebaran, in Taurus, and Pollux, in Gemini."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда K-типа",
+      "aliases": [
+        "K-звезда",
+        "K-звезда"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звезда K-типа",
+          "body": "Звезда спектрального типа «K». Астрономы идентифицируют звёзды K-типа по наличию очень слабых линий водорода, но сильных линий атомов железа и марганца в их спектрах. Их типичные (эффективные) температуры составляют от примерно 3700 кельвинов (K) до 5200 K. По сравнению с другими звёздами они кажутся человеческому глазу оранжево-белыми, если только межзвёздное или атмосферное покраснение не играет важной роли. Примерами звёзд K-типа являются Альдебаран в Тельце и Поллукс в Близнецах."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:lH42QC364e69",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/spectrum-of-a-k-type-star_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/lH42QC364e69/",
+      "original_path": "data/media/original/diagram_lH42QC364e69.png",
+      "ru_path": "data/media/ru/diagram_lH42QC364e69.png",
+      "sha256": "7aea9fb29660f37123d7cc42d75265d3211f2bfaa316370f9627b78bbe915e00",
+      "size": 111475,
+      "title_en": "Spectrum of a K-type star",
+      "title_ru": "Спектр звезды K-типа",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The spectrum of the K-type star 2MASS J19554455+4754531. The colour of the line between 400 nm and 700 nm roughly corresponds to the colour the human eye would see light of that wavelength. Below 400 nm and above 700 nm, where the human eye can see little to no light, the lines are coloured blue and red respectively.\r\n\r\nThe black lines show spectral absorption lines caused by atoms and ions of different elements in the star’s atmosphere. These atoms and ions absorb at specific wavelengths, causing sharp, dark lines in the spectra. How strong these lines are depends on the temperature of the star’s atmosphere. Two stars made from the same mix of elements could have spectra with vastly different sets of lines in their spectra if they have different temperatures in their atmospheres. The spectra of K-type stars are dominated by metal atoms such as iron, sodium and calcium atoms. There are so many lines from metal atoms, far too many to mark individually, that the spectrum has a choppy, ragged appearance. The lines of hydrogen atoms and calcium ions are much weaker than in the hotter G-type stars.",
+      "caption_ru": "Спектр звезды K-типа 2MASS J19554455+4754531. Цвет линии между 400 нм и 700 нм примерно соответствует цвету, который человеческий глаз увидел бы для света такой длины волны. Ниже 400 нм и выше 700 нм, где человеческий глаз видит мало света или не видит его вовсе, линии окрашены в синий и красный цвет соответственно.\r\n\r\nЧёрные линии показывают спектральные линии поглощения, вызванные атомами и ионами различных элементов в атмосфере звезды. Эти атомы и ионы поглощают на определённых длинах волн, создавая резкие тёмные линии в спектрах. Насколько сильны эти линии, зависит от температуры атмосферы звезды. Две звезды, состоящие из одинаковой смеси элементов, могут иметь спектры с совершенно разными наборами линий, если температура их атмосфер различается. В спектрах звёзд K-типа преобладают атомы металлов, таких как железо, натрий и кальций. Линий от атомов металлов так много, что их слишком много, чтобы отмечать по отдельности, поэтому спектр выглядит неровным, изрезанным. Линии атомов водорода и ионов кальция гораздо слабее, чем у более горячих звёзд G-типа.",
+      "alt_en": "A ragged line peaking about 580 nm then declining at longer wavelengths with a few deeper dips.",
+      "alt_ru": "Изрезанная линия с пиком около 580 нм, затем спадающая на более длинных волнах с несколькими более глубокими провалами.",
+      "credit": "IAU OAE/SDSS/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        168,
+        328,
+        382
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ca0b64d74b0397c9a864bdefa4b6aef9b08a2256b203126bfafd65a2ac11b4d7"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "term:346",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 346,
+    "url": "https://astro4edu.org/resources/glossary/term/346/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=346",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:58.266928+00:00",
+    "sha256": "94986ed8e86484b8aa54de84eca450b890dce9e2ebc3ec06446dad9715fdf0a9"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars",
+      "The Sun"
+    ],
+    "category_ids": [
+      2,
+      5
+    ],
+    "categories_ru": [
+      "Звёзды",
+      "Солнце"
+    ],
+    "related_term_numbers": [
+      308,
+      345
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Sunspot Cycle",
+      "body": "An approximately 11-year cyclic variation in the number of sunspots that form on the Sun, corresponding to a variation in the solar activity. A new sunspot cycle begins after a period of solar minimum, when the Sun has few to no sunspots. At the beginning of a new sunspot cycle, sunspots form at latitudes around +/- 30 degrees (north or south) from the Sun's equator. As the cycle continues, new sunspots form at the latitudes closer to the solar equator. After a while the number of sunspots forming decreases as the cycle moves past solar maximum to solar minimum, which indicates the end of the cycle.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Solar Cycle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/308/",
+          "text_ru": "Солнечный цикл"
+        },
+        {
+          "text": "Sunspot",
+          "url": "https://www.astro4edu.org/resources/glossary/term/345/",
+          "text_ru": "Солнечное пятно"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Sunspot Cycle</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An approximately 11-year cyclic variation in the number of sunspots that form on the Sun, corresponding to a variation in the solar activity. A new sunspot cycle begins after a period of solar minimum, when the Sun has few to no sunspots. At the beginning of a new sunspot cycle, sunspots form at latitudes around +/- 30 degrees (north or south) from the Sun's equator. As the cycle continues, new sunspots form at the latitudes closer to the solar equator. After a while the number of sunspots forming decreases as the cycle moves past solar maximum to solar minimum, which indicates the end of the cycle.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/308/\">Solar Cycle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/345/\">Sunspot</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Цикл солнечных пятен",
+      "body_ru": "Приблизительно 11-летнее циклическое изменение числа солнечных пятен, образующихся на Солнце, соответствующее изменению солнечной активности. Новый цикл солнечных пятен начинается после периода солнечного минимума, когда на Солнце мало или совсем нет солнечных пятен. В начале нового цикла солнечных пятен они образуются на широтах около +/- 30 градусов (северной или южной) от солнечного экватора. По мере продолжения цикла новые солнечные пятна образуются на широтах ближе к солнечному экватору. Через некоторое время количество образующихся солнечных пятен уменьшается, поскольку цикл проходит от солнечного максимума к солнечному минимуму, что указывает на конец цикла."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/346/\">دورة البقع الشمسية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/346/\">Sonnenfleckenzyklus </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/346/\">Ciclo de manchas solares </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/346/\">Cycle des taches solaires </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/346/\">Ciclo delle macchie solari </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/346/\">Ciclo de manchas solares </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/346/\">太阳黑子周期 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/346/\">太陽黑子週期 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Sunspot Cycle",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Sunspot Cycle",
+          "body": "An approximately 11-year cyclic variation in the number of sunspots that form on the Sun, corresponding to a variation in the solar activity. A new sunspot cycle begins after a period of solar minimum, when the Sun has few to no sunspots. At the beginning of a new sunspot cycle, sunspots form at latitudes around +/- 30 degrees (north or south) from the Sun's equator. As the cycle continues, new sunspots form at the latitudes closer to the solar equator. After a while the number of sunspots forming decreases as the cycle moves past solar maximum to solar minimum, which indicates the end of the cycle."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Цикл солнечных пятен",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Цикл солнечных пятен",
+          "body": "Приблизительно 11-летнее циклическое изменение числа солнечных пятен, образующихся на Солнце, соответствующее изменению солнечной активности. Новый цикл солнечных пятен начинается после периода солнечного минимума, когда на Солнце мало или совсем нет солнечных пятен. В начале нового цикла солнечных пятен они образуются на широтах около +/- 30 градусов (северной или южной) от солнечного экватора. По мере продолжения цикла новые солнечные пятна образуются на широтах ближе к солнечному экватору. Через некоторое время количество образующихся солнечных пятен уменьшается, поскольку цикл проходит от солнечного максимума к солнечному минимуму, что указывает на конец цикла."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "term:465",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 465,
+    "url": "https://astro4edu.org/resources/glossary/term/465/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=465",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:36.176739+00:00",
+    "sha256": "981387d5d579f0dfb8313f3c2b422b8b52ee5094ae98f145f5400611838062cb"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Solar System"
+    ],
+    "category_ids": [
+      1
+    ],
+    "categories_ru": [
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      26,
+      62,
+      170,
+      265,
+      314
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Oort Cloud",
+      "body": "The Oort Cloud is a hypothetical region of the outer Solar System that is thought to be the origin of comets with long orbital periods. The Oort Cloud likely contains many billions of small icy bodies left over from the formation of the Solar System. This is thought to form the reservoir for long-period comets. Occasionally one of these frozen lumps will have its orbit disrupted by another icy body, or by the gravity of a star passing the Solar System. This may send the icy body falling towards the inner Solar System where it becomes a comet. The Oort Cloud probably extends from a few thousand astronomical units (AU) to perhaps over a hundred thousand AU, halfway to Proxima Centauri, the nearest star to the Sun. The inner Oort Cloud is likely a donut shape, but the outer Oort Cloud is probably a spherical shell.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astronomical Unit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/26/",
+          "text_ru": "Астрономическая единица"
+        },
+        {
+          "text": "Comet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/62/",
+          "text_ru": "Комета"
+        },
+        {
+          "text": "Kuiper Belt",
+          "url": "https://www.astro4edu.org/resources/glossary/term/170/",
+          "text_ru": "Пояс Койпера"
+        },
+        {
+          "text": "Proxima Centauri",
+          "url": "https://www.astro4edu.org/resources/glossary/term/265/",
+          "text_ru": "Проксима Центавра"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Oort Cloud</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n\t\t\n\t\t\n\t\t\n\t      Also known as <b>Öpik–Oort cloud</b><br/>\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The Oort Cloud is a hypothetical region of the outer Solar System that is thought to be the origin of comets with long orbital periods. The Oort Cloud likely contains many billions of small icy bodies left over from the formation of the Solar System. This is thought to form the reservoir for long-period comets. Occasionally one of these frozen lumps will have its orbit disrupted by another icy body, or by the gravity of a star passing the Solar System. This may send the icy body falling towards the inner Solar System where it becomes a comet. The Oort Cloud probably extends from a few thousand astronomical units (AU) to perhaps over a hundred thousand AU, halfway to Proxima Centauri, the nearest star to the Sun. The inner Oort Cloud is likely a donut shape, but the outer Oort Cloud is probably a spherical shell.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/26/\">Astronomical Unit</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/62/\">Comet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/170/\">Kuiper Belt</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/265/\">Proxima Centauri</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Облако Оорта",
+      "body_ru": "Облако Оорта — это гипотетическая область внешней Солнечной системы, которая, как считается, является источником комет с длинными орбитальными периодами. Облако Оорта, вероятно, содержит многие миллиарды небольших ледяных тел, оставшихся от формирования Солнечной системы. Считается, что оно образует резервуар для долгопериодических комет. Время от времени орбита одного из этих замерзших комков нарушается другим ледяным телом или гравитацией звезды, проходящей мимо Солнечной системы. Это может заставить ледяное тело устремиться к внутренней Солнечной системе, где оно становится кометой. Облако Оорта, вероятно, простирается от нескольких тысяч астрономических единиц (а.е.) до, возможно, более ста тысяч а.е., на полпути к Проксиме Центавра, ближайшей к Солнцу звезде. Внутреннее облако Оорта, вероятно, имеет форму пончика, но внешнее облако Оорта, вероятно, представляет собой сферическую оболочку."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "オールトの雲 (external link)",
+          "url": "https://astro-dic.jp/oort-cloud/",
+          "text_ru": "Облако Оорта (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/465/\">سحابة أورت </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/465/\">Oortsche Wolke </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/465/\">Nube de Oort </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/465/\">Nuage de Oort </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/465/\">Nube di Oort </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/oort-cloud/\">オールトの雲 (external link)</a></span></li>\n<li><b>Nepali: </b><span dir=\"LTR\" lang=\"ne\"><a class=\"link-bold\" href=\"/ne/resources/glossary/term/465/\">ऊर्ट क्लाउड </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/465/\">Nuvem Oort </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/465/\">奥尔特云 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/465/\">奧爾特雲 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Oort Cloud",
+      "aliases": [
+        "Öpik–Oort cloud"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Oort Cloud",
+          "body": "The Oort Cloud is a hypothetical region of the outer Solar System that is thought to be the origin of comets with long orbital periods. The Oort Cloud likely contains many billions of small icy bodies left over from the formation of the Solar System. This is thought to form the reservoir for long-period comets. Occasionally one of these frozen lumps will have its orbit disrupted by another icy body, or by the gravity of a star passing the Solar System. This may send the icy body falling towards the inner Solar System where it becomes a comet. The Oort Cloud probably extends from a few thousand astronomical units (AU) to perhaps over a hundred thousand AU, halfway to Proxima Centauri, the nearest star to the Sun. The inner Oort Cloud is likely a donut shape, but the outer Oort Cloud is probably a spherical shell."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Облако Оорта",
+      "aliases": [
+        "Облако Эпика–Оорта"
+      ],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Облако Оорта",
+          "body": "Облако Оорта — это гипотетическая область внешней Солнечной системы, которая, как считается, является источником комет с длинными орбитальными периодами. Облако Оорта, вероятно, содержит многие миллиарды небольших ледяных тел, оставшихся от формирования Солнечной системы. Считается, что оно образует резервуар для долгопериодических комет. Время от времени орбита одного из этих замерзших комков нарушается другим ледяным телом или гравитацией звезды, проходящей мимо Солнечной системы. Это может заставить ледяное тело устремиться к внутренней Солнечной системе, где оно становится кометой. Облако Оорта, вероятно, простирается от нескольких тысяч астрономических единиц (а.е.) до, возможно, более ста тысяч а.е., на полпути к Проксиме Центавра, ближайшей к Солнцу звезде. Внутреннее облако Оорта, вероятно, имеет форму пончика, но внешнее облако Оорта, вероятно, представляет собой сферическую оболочку."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

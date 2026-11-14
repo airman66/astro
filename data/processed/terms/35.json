@@ -1,0 +1,153 @@
+{
+  "id": "term:35",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 35,
+    "url": "https://astro4edu.org/resources/glossary/term/35/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=35",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:14.403863+00:00",
+    "sha256": "ab20223b1621f4328f63c00dee8062b0af5e9b8e5d767e7a25cc19ee661a6ad5"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology"
+    ],
+    "category_ids": [
+      6
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология"
+    ],
+    "related_term_numbers": [
+      439,
+      473,
+      498
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Axis",
+      "body": "An axis is an imaginary line that can be used to define a coordinate system. An axis of rotation is an imaginary line around which something revolves. This could be the axis of rotation of a system such as a galaxy, or a solid body such as an asteroid.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Earth's Axis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/439/",
+          "text_ru": "Ось Земли"
+        },
+        {
+          "text": "Rotation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/473/",
+          "text_ru": "Вращение"
+        },
+        {
+          "text": "Precession",
+          "url": "https://www.astro4edu.org/resources/glossary/term/498/",
+          "text_ru": "Прецессия"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Axis</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An axis is an imaginary line that can be used to define a coordinate system. An axis of rotation is an imaginary line around which something revolves. This could be the axis of rotation of a system such as a galaxy, or a solid body such as an asteroid.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/439/\">Earth's Axis</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/473/\">Rotation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/498/\">Precession</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Ось",
+      "body_ru": "Ось — это воображаемая линия, которую можно использовать для определения системы координат. Ось вращения — это воображаемая линия, вокруг которой что-то вращается. Это может быть ось вращения системы, такой как галактика, или твёрдого тела, такого как астероид."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/35/\">المحور </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/35/\">Achse </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/35/\">Eje </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/35/\">Axe </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/35/\">Asse </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/35/\">축 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/35/\">Eixo </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/35/\">轴 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/35/\">軸 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Why Do We Have Day and Night? astroEDU educational activity (links to astroEDU website) Description: Explore day and night of Earth. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Tilt Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Simulation focussed \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/why-do-we-have-day-and-night/\"><img alt=\"Why Do We Have Day and Night?\" src=\"/media/astroedu/images/why-do-we-have-day-and-night_en_thumbnail_VRV2OQ4.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/why-do-we-have-day-and-night/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Why Do We Have Day and Night?</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore day and night of Earth.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Tilt \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Simulation focussed \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Почему у нас есть день и ночь? Образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте день и ночь Земли. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Наклон Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальное \n  \n, Среднее Области обучения: Моделирование \n  \n, С акцентом на моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Axis",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Axis",
+          "body": "An axis is an imaginary line that can be used to define a coordinate system. An axis of rotation is an imaginary line around which something revolves. This could be the axis of rotation of a system such as a galaxy, or a solid body such as an asteroid."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Why Do We Have Day and Night? astroEDU educational activity (links to astroEDU website) Description: Explore day and night of Earth. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Tilt Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Simulation focussed \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information"
+        }
+      }
+    },
+    "ru": {
+      "title": "Ось",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Ось",
+          "body": "Ось — это воображаемая линия, которую можно использовать для определения системы координат. Ось вращения — это воображаемая линия, вокруг которой что-то вращается. Это может быть ось вращения системы, такой как галактика, или твёрдого тела, такого как астероид."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Почему у нас есть день и ночь? Образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте день и ночь Земли. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Наклон Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальное \n  \n, Среднее Области обучения: Моделирование \n  \n, С акцентом на моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

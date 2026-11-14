@@ -1,0 +1,592 @@
+{
+  "id": "term:119",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 119,
+    "url": "https://astro4edu.org/resources/glossary/term/119/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=119",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:47.766827+00:00",
+    "sha256": "e472381bd29c317d282c4cd489e6e4c6bb6431937840fca667337e06aad6ca8c"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Galaxies",
+      "Milky Way and Interstellar Medium"
+    ],
+    "category_ids": [
+      8,
+      7
+    ],
+    "categories_ru": [
+      "Галактики",
+      "Млечный Путь и межзвёздная среда"
+    ],
+    "related_term_numbers": [
+      76,
+      82,
+      85,
+      86,
+      99,
+      115,
+      116,
+      117,
+      118,
+      120,
+      124,
+      138,
+      164,
+      199,
+      330,
+      331,
+      443,
+      452
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Galaxy",
+      "body": "A galaxy is a system of stars and other material components such as dark matter, gas, and dust that is gravitationally bound, and usually separated from its neighbors by hundreds of thousands of light years. Galaxies come in various different shapes and sizes. The smallest galaxies can have a few thousand stars, while the largest can have tens of trillions. \"The Galaxy\" or \"Galaxy\" with a capital letter usually refers to our home galaxy, the Milky Way, which has around 100–400 billion stars.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Dark Matter",
+          "url": "https://www.astro4edu.org/resources/glossary/term/76/",
+          "text_ru": "Тёмная материя"
+        },
+        {
+          "text": "Disk Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/82/",
+          "text_ru": "Дисковая галактика"
+        },
+        {
+          "text": "Dust",
+          "url": "https://www.astro4edu.org/resources/glossary/term/85/",
+          "text_ru": "Пыль"
+        },
+        {
+          "text": "Dwarf Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/86/",
+          "text_ru": "Карликовая галактика"
+        },
+        {
+          "text": "Elliptical Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/99/",
+          "text_ru": "Эллиптическая галактика"
+        },
+        {
+          "text": "Galactic Bulge",
+          "url": "https://www.astro4edu.org/resources/glossary/term/115/",
+          "text_ru": "Галактическая выпуклость"
+        },
+        {
+          "text": "Galactic Center",
+          "url": "https://www.astro4edu.org/resources/glossary/term/116/",
+          "text_ru": "Галактический центр"
+        },
+        {
+          "text": "Galactic Disk",
+          "url": "https://www.astro4edu.org/resources/glossary/term/117/",
+          "text_ru": "Галактический диск"
+        },
+        {
+          "text": "Galactic Halo",
+          "url": "https://www.astro4edu.org/resources/glossary/term/118/",
+          "text_ru": "Галактическое гало"
+        },
+        {
+          "text": "Galaxy Cluster",
+          "url": "https://www.astro4edu.org/resources/glossary/term/120/",
+          "text_ru": "Скопление галактик"
+        },
+        {
+          "text": "Gas",
+          "url": "https://www.astro4edu.org/resources/glossary/term/124/",
+          "text_ru": "Газ"
+        },
+        {
+          "text": "Greenwich Mean Time Zone (GMT)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/138/",
+          "text_ru": "Среднее время по Гринвичу (GMT)"
+        },
+        {
+          "text": "Irregular Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/164/",
+          "text_ru": "Неправильная галактика"
+        },
+        {
+          "text": "Milky Way",
+          "url": "https://www.astro4edu.org/resources/glossary/term/199/",
+          "text_ru": "Млечный Путь"
+        },
+        {
+          "text": "Spiral Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/330/",
+          "text_ru": "Спиральная галактика"
+        },
+        {
+          "text": "Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/331/",
+          "text_ru": "Звезда"
+        },
+        {
+          "text": "Galactic Bar",
+          "url": "https://www.astro4edu.org/resources/glossary/term/443/",
+          "text_ru": "Галактическая перемычка"
+        },
+        {
+          "text": "Lenticular Galaxy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/452/",
+          "text_ru": "Линзовидная галактика"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Galaxy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A galaxy is a system of stars and other material components such as dark matter, gas, and dust that is gravitationally bound, and usually separated from its neighbors by hundreds of thousands of light years. Galaxies come in various different shapes and sizes. The smallest galaxies can have a few thousand stars, while the largest can have tens of trillions. \"The Galaxy\" or \"Galaxy\" with a capital letter usually refers to our home galaxy, the Milky Way, which has around 100–400 billion stars.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/76/\">Dark Matter</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/82/\">Disk Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/85/\">Dust</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/86/\">Dwarf Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/99/\">Elliptical Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/115/\">Galactic Bulge</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/116/\">Galactic Center</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/117/\">Galactic Disk</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/118/\">Galactic Halo</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/120/\">Galaxy Cluster</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/124/\">Gas</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/138/\">Greenwich Mean Time Zone (GMT)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/164/\">Irregular Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/199/\">Milky Way</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/330/\">Spiral Galaxy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/331/\">Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/443/\">Galactic Bar</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/452/\">Lenticular Galaxy</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Галактика",
+      "body_ru": "Галактика — это гравитационно связанная система звёзд и других компонентов материи, таких как тёмная материя, газ и пыль, обычно отделённая от соседей сотнями тысяч световых лет. Галактики бывают различных форм и размеров. Самые маленькие галактики могут содержать несколько тысяч звёзд, а крупнейшие — десятки триллионов. «Галактика» или «галактика» с заглавной буквы обычно относится к нашей родной галактике, Млечному Пути, в которой около 100–400 миллиардов звёзд."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "銀河 (external link)",
+          "url": "https://astro-dic.jp/galaxy/",
+          "text_ru": "Галактика (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/119/\">المجرة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/119/\">Galaxie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/119/\">Galaxia </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/119/\">Galaxie </a></span></li>\n<li><b>Indonesian: </b><span dir=\"LTR\" lang=\"id\"><a class=\"link-bold\" href=\"/id/resources/glossary/term/119/\">Galaksi </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/119/\">Galassia </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/galaxy/\">銀河 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/119/\">Galáxia </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/119/\">银河系 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/119/\">銀河系 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Oj6Sb99Y285/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic0611b/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Vp35eD17pv59/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/ngc2207/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/U9906953ai58/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/eso0007a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/eE6pB15Z932/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/opo0207a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Oj6Sb99Y285",
+        "media:Vp35eD17pv59",
+        "media:U9906953ai58",
+        "media:eE6pB15Z932"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Oj6Sb99Y285/\"><img alt=\"The Hubble Ultra Deep Field showing around 10,000 galaxies of various ages, sizes, shapes and colours.\" src=\"/media/multimedia/thumbnails/heic0611b_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hubble Ultra Deep Field</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This awe-inspiring image referred to as the Hubble Ultra-Deep Field (HUDF), was obtained using the Hubble Space Telescope (HST), by combining 800 exposures from 400 orbits of the HST, which equates to 11.3 days of total exposure time.\n\nThe image shows nearly 10,000 galaxies and was taken in the direction of a patch of sky with the least amount of stars from the Milky Way galaxy in the field of view. The region of sky that the HST observed corresponds to 1/10 the angular size of the Full Moon, which is roughly equal to approximately a 1 millimeter-sized object placed 1 meter away.\n\nEvery object in the image, except for the bright points with the crosshairs, are galaxies. As a consequence of the speed of light being a constant in a vacuum, the more distant an object, the further back in time we are observing. Therefore, the light from some of the galaxies in the HUDF image is from when the Universe as only a few hundred million years old. The HUDF image takes us through on a journey through space, and also in time.<br/>\n<b>Credit:</b> NASA, ESA, and S. Beckwith (STScI) and the HUDF Team\n\t  <a href=\"https://esahubble.org/images/heic0611b/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Vp35eD17pv59/\"><img alt=\"Two spiral galaxies embracing in their early stages of merger with distortions on the smaller galaxy visible\" src=\"/media/multimedia/thumbnails/ngc2207_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Spiral Galaxy Merger</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows two interacting spiral galaxies located approximately 150 million light-years away. Two spiral galaxies are involved in this dance, creating visible distortions in their spiral arms due to the gravitational pull. What is starting as an embrace in this picture, will end in the merger of those two galaxies into one, most likely elliptical, galaxy.<br/>\n<b>Credit:</b> ESO\n\t  <a href=\"https://www.eso.org/public/images/ngc2207/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/U9906953ai58/\"><img alt=\"This galaxy has a large bulge surrounded by a ring of dust creating an image similar to the mexican hat with the same name\" src=\"/media/multimedia/thumbnails/eso0007a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Sombrero galaxy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This prominent galaxy M 104 is often called the Sombrero galaxy due to its resemblance to the Mexican hat. This look is created by the thin disk oriented nearly edge-on, which appears illuminated by the dominant bulge. Both, the disk and bulge contain stars, but the stars in the bulge tend to be older, while the disk also harbors large amounts of dust and gas creating shadows. M 104 is located in the constellation Virgo approximately 50 light-years away. While some of the dots visible in the picture are foreground stars and others background galaxies, the majority are actually globular clusters, dense massive clusters of stars, associated with the Sombrero Galaxy.<br/>\n<b>Credit:</b> ESO/P. Barthel\n\t  <a href=\"https://www.eso.org/public/images/eso0007a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/eE6pB15Z932/\"><img alt=\"The bright core of this galaxy is surrounded by a much fainter disk. This faint disk has thin dark rings.\" src=\"/media/multimedia/thumbnails/galaxy-ngc-2787_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The Lenticular Galaxy NGC 2787</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The lenticular galaxy NGC 2787. This galaxy is a disk galaxy but lacks the large, dominant spiral arm structure seen in the disks of spiral galaxies. Its core is very bright compared to the core of a spiral galaxy. Thin rings of dust can be seen in the galaxy's disk.<br/>\n<b>Credit:</b> NASA/ESA and The Hubble Heritage Team\n\t  <a href=\"https://esahubble.org/images/opo0207a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/uc91Hc319213/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:uc91Hc319213"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/uc91Hc319213/\"><img alt=\"Leo resembles a lion standing on the ecliptic (which runs ESE to WNW) with its nose pointed northwest.\" src=\"/media/diagrams/multimedia/thumbnails/leo-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Leo Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The zodiac constellation Leo and its surrounding constellations. Starting from the top of the diagram and going clockwise, these are Leo Minor, Cancer, Sextans, Hydra, Crater, Virgo and Ursa Major. The brightest star in Leo, Regulus, lies almost exactly on the ecliptic (shown here as a blue line): the path the Sun appears to take across the sky over the course of a year. The Sun spends the period from mid August to mid September in Leo. The other planets in the Solar System can often be found in Leo.\n\nLeo spans the celestial equator and is thus part of it is visible at some time in the year from all of planet Earth with some of the constellation obscured for the most arctic and antarctic regions of the world. Leo is most visible in the evenings in the northern hemisphere spring and southern hemisphere autumn. \n\nSeveral objects can be seen in Leo, including  M65 and M66 – two galaxies in the Leo Triplet, a trio of galaxies including NGC 3628, not listed here. In addition, M96, a spiral galaxy, can be seen as a fuzzy object using a small telescope, and Messier 105, an elliptical galaxy. Each of these objects are labelled on the map as red ellipses.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labelled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Glitter Your Milky Way astroEDU educational activity (links to astroEDU website) Description: Explore the Milky Way and characteristics of galaxies using glitter drawing. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Handcraft Age Ranges: 6-8 \n  \n, 8-10 Education Level: Middle School \n  \n, Primary Areas of Learning: Fine Art focussed Costs: Medium Cost Group Size: Group Skills: Communicating information Coma Cluster of Galaxies astroEDU educational activity (links to astroEDU website) Description: The basics of galaxy classification, using Hubble Space Telescope images. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Coma Cluster Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Secondary \n  \n, University Areas of Learning: Guided-discovery learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations Living in the Milky Way astroEDU educational activity (links to astroEDU website) Description: Build a model of the Milky Way to discover what our galaxy contains. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Problem-solving \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models 3D Universe: the Milky Way and friends astroEDU educational activity (links to astroEDU website) Description: Use tactile models printed in 3D to explore our galactic neighborhood. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Middle School \n  \n, Secondary \n  \n, University Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/glitter-your-milky-way/\"><img alt=\"Glitter Your Milky Way\" src=\"/media/astroedu/images/glitter-your-milky-way_en_thumbnail_Y4FPKu7.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/glitter-your-milky-way/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Glitter Your Milky Way</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore the Milky Way and characteristics of galaxies using glitter drawing.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Handcraft \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nFine Art focussed \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/coma-cluster-of-galaxies/\"><img alt=\"Coma Cluster of Galaxies\" src=\"/media/astroedu/images/coma-cluster-of-galaxies_en_thumbnail_4TiRGN5.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/coma-cluster-of-galaxies/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Coma Cluster of Galaxies</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>The basics of galaxy classification, using Hubble Space Telescope images.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Coma Cluster \n  \n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nSecondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/living-in-the-milky-way/\"><img alt=\"Living in the Milky Way\" src=\"/media/astroedu/images/living-in-the-milky-way_en_thumbnail_v0BsvZI.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/living-in-the-milky-way/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Living in the Milky Way</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Build a model of the Milky Way to discover what our galaxy contains.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nProblem-solving \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/3d-universe-the-milky-way-and-friends/\"><img alt=\"3D Universe: the Milky Way and friends\" src=\"/media/astroedu/images/3d-universe-the-milky-way-and-friends_en_thumbnail_EDkk3sF.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/3d-universe-the-milky-way-and-friends/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">3D Universe: the Milky Way and friends</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Use tactile models printed in 3D to explore our galactic neighborhood.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nGuided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Создайте сверкающий Млечный Путь (образовательная деятельность astroEDU, ссылки на сайт astroEDU) Описание: Исследуйте Млечный Путь и характеристики галактик с помощью рисунка блёстками. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Искусство \n  \n  , Творчество \n  \n  , Практическая работа \n  \n  , Ремесло Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Средняя школа \n  \n, Начальная школа Области обучения: Изобразительное искусство Затраты: Средняя стоимость Размер группы: Группа Навыки: Передача информации Скопление Волос Вероники (образовательная деятельность astroEDU, ссылки на сайт astroEDU) Описание: Основы классификации галактик с использованием изображений космического телескопа Хаббл. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Скопление Волос Вероники Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Старшая школа \n  \n, Университет Области обучения: Обучение через исследование Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Планирование и проведение исследований Жизнь в Млечном Пути (образовательная деятельность astroEDU, ссылки на сайт astroEDU) Описание: Постройте модель Млечного Пути, чтобы узнать, что содержит наша галактика. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Модель Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальная школа Области обучения: Решение проблем \n  \n, Структурированное исследование Затраты: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей 3D Вселенная: Млечный Путь и друзья (образовательная деятельность astroEDU, ссылки на сайт astroEDU) Описание: Используйте тактильные модели, напечатанные в 3D, чтобы исследовать наше галактическое окружение. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Средняя школа \n  \n, Старшая школа \n  \n, Университет Области обучения: Обучение через исследование \n  \n, Интерактивная лекция \n  \n, Моделирование Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Galaxy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Galaxy",
+          "body": "A galaxy is a system of stars and other material components such as dark matter, gas, and dust that is gravitationally bound, and usually separated from its neighbors by hundreds of thousands of light years. Galaxies come in various different shapes and sizes. The smallest galaxies can have a few thousand stars, while the largest can have tens of trillions. \"The Galaxy\" or \"Galaxy\" with a capital letter usually refers to our home galaxy, the Milky Way, which has around 100–400 billion stars."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Glitter Your Milky Way astroEDU educational activity (links to astroEDU website) Description: Explore the Milky Way and characteristics of galaxies using glitter drawing. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Art \n  \n  , Creativity \n  \n  , Hands-on \n  \n  , Handcraft Age Ranges: 6-8 \n  \n, 8-10 Education Level: Middle School \n  \n, Primary Areas of Learning: Fine Art focussed Costs: Medium Cost Group Size: Group Skills: Communicating information Coma Cluster of Galaxies astroEDU educational activity (links to astroEDU website) Description: The basics of galaxy classification, using Hubble Space Telescope images. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Coma Cluster Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Secondary \n  \n, University Areas of Learning: Guided-discovery learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Planning and carrying out investigations Living in the Milky Way astroEDU educational activity (links to astroEDU website) Description: Build a model of the Milky Way to discover what our galaxy contains. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Problem-solving \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models 3D Universe: the Milky Way and friends astroEDU educational activity (links to astroEDU website) Description: Use tactile models printed in 3D to explore our galactic neighborhood. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Middle School \n  \n, Secondary \n  \n, University Areas of Learning: Guided-discovery learning \n  \n, Interactive Lecture \n  \n, Modelling Costs: Medium Cost Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models"
+        }
+      }
+    },
+    "ru": {
+      "title": "Галактика",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Галактика",
+          "body": "Галактика — это гравитационно связанная система звёзд и других компонентов материи, таких как тёмная материя, газ и пыль, обычно отделённая от соседей сотнями тысяч световых лет. Галактики бывают различных форм и размеров. Самые маленькие галактики могут содержать несколько тысяч звёзд, а крупнейшие — десятки триллионов. «Галактика» или «галактика» с заглавной буквы обычно относится к нашей родной галактике, Млечному Пути, в которой около 100–400 миллиардов звёзд."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Создайте сверкающий Млечный Путь (образовательная деятельность astroEDU, ссылки на сайт astroEDU) Описание: Исследуйте Млечный Путь и характеристики галактик с помощью рисунка блёстками. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Искусство \n  \n  , Творчество \n  \n  , Практическая работа \n  \n  , Ремесло Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Средняя школа \n  \n, Начальная школа Области обучения: Изобразительное искусство Затраты: Средняя стоимость Размер группы: Группа Навыки: Передача информации Скопление Волос Вероники (образовательная деятельность astroEDU, ссылки на сайт astroEDU) Описание: Основы классификации галактик с использованием изображений космического телескопа Хаббл. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Скопление Волос Вероники Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Старшая школа \n  \n, Университет Области обучения: Обучение через исследование Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Планирование и проведение исследований Жизнь в Млечном Пути (образовательная деятельность astroEDU, ссылки на сайт astroEDU) Описание: Постройте модель Млечного Пути, чтобы узнать, что содержит наша галактика. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическая работа \n  \n  , Модель Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальная школа Области обучения: Решение проблем \n  \n, Структурированное исследование Затраты: Средняя стоимость Продолжительность: 1 час 30 мин Размер группы: Группа Навыки: Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей 3D Вселенная: Млечный Путь и друзья (образовательная деятельность astroEDU, ссылки на сайт astroEDU) Описание: Используйте тактильные модели, напечатанные в 3D, чтобы исследовать наше галактическое окружение. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Средняя школа \n  \n, Старшая школа \n  \n, Университет Области обучения: Обучение через исследование \n  \n, Интерактивная лекция \n  \n, Моделирование Затраты: Средняя стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Oj6Sb99Y285",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/heic0611b.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Oj6Sb99Y285/",
+      "original_path": "data/media/original/media_Oj6Sb99Y285.jpg",
+      "ru_path": null,
+      "sha256": "ddd89b8d50a4b311f8fb8db19f4055dd32f73a21af6fe81ce7154873fe569472",
+      "size": 8974439,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Hubble Ultra Deep Field",
+      "short_caption_ru": "Сверхглубокое поле Хаббла",
+      "caption_en": "This awe-inspiring image referred to as the Hubble Ultra-Deep Field (HUDF), was obtained using the Hubble Space Telescope (HST), by combining 800 exposures from 400 orbits of the HST, which equates to 11.3 days of total exposure time.\r\n\r\nThe image shows nearly 10,000 galaxies and was taken in the direction of a patch of sky with the least amount of stars from the Milky Way galaxy in the field of view. The region of sky that the HST observed corresponds to 1/10 the angular size of the Full Moon, which is roughly equal to approximately a 1 millimeter-sized object placed 1 meter away.\r\n\r\nEvery object in the image, except for the bright points with the crosshairs, are galaxies. As a consequence of the speed of light being a constant in a vacuum, the more distant an object, the further back in time we are observing. Therefore, the light from some of the galaxies in the HUDF image is from when the Universe as only a few hundred million years old. The HUDF image takes us through on a journey through space, and also in time.",
+      "caption_ru": "Это впечатляющее изображение, известное как Сверхглубокое поле Хаббла (HUDF), было получено с помощью космического телескопа Хаббла (HST) путём объединения 800 экспозиций с 400 витков HST, что эквивалентно 11.3 дням общего времени экспозиции.\r\n\r\nНа изображении показано почти 10,000 галактик, и оно было получено в направлении участка неба с наименьшим количеством звёзд Млечного Пути в поле зрения. Область неба, которую наблюдал HST, соответствует 1/10 углового размера полной Луны, что примерно равно объекту размером в 1 миллиметр, расположенному на расстоянии 1 метр.\r\n\r\nКаждый объект на изображении, за исключением ярких точек с перекрестиями, является галактикой. Поскольку скорость света в вакууме постоянна, чем дальше объект, тем дальше в прошлое мы наблюдаем. Поэтому свет от некоторых галактик на изображении HUDF исходит из времени, когда Вселенной было всего несколько сотен миллионов лет. Изображение HUDF отправляет нас в путешествие сквозь пространство, а также во времени.",
+      "alt_en": "The Hubble Ultra Deep Field showing around 10,000 galaxies of various ages, sizes, shapes and colours.",
+      "alt_ru": "Сверхглубокое поле Хаббла, показывающее около 10,000 галактик различного возраста, размеров, форм и цветов.",
+      "credit": "NASA, ESA, and S. Beckwith (STScI) and the HUDF Team",
+      "credit_url": "https://esahubble.org/images/heic0611b/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        72,
+        73,
+        119,
+        374
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Vp35eD17pv59",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/ngc2207.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Vp35eD17pv59/",
+      "original_path": "data/media/original/media_Vp35eD17pv59.jpg",
+      "ru_path": null,
+      "sha256": "ed049577b1031fb5ba0ed2748bd3996a90b514fce11159b182168b84f65ccda2",
+      "size": 1169180,
+      "title_en": "Spiral Galaxy Merger",
+      "title_ru": "Слияние спиральных галактик",
+      "short_caption_en": "Spiral Galaxy Merger",
+      "short_caption_ru": "Слияние спиральных галактик",
+      "caption_en": "This image shows two interacting spiral galaxies located approximately 150 million light-years away. Two spiral galaxies are involved in this dance, creating visible distortions in their spiral arms due to the gravitational pull. What is starting as an embrace in this picture, will end in the merger of those two galaxies into one, most likely elliptical, galaxy.",
+      "caption_ru": "Это изображение показывает две взаимодействующие спиральные галактики, расположенные примерно в 150 миллионах световых лет. Две спиральные галактики участвуют в этом танце, создавая видимые искажения в своих спиральных рукавах из-за гравитационного притяжения. То, что начинается как объятие на этом снимке, закончится слиянием этих двух галактик в одну, скорее всего, эллиптическую галактику.",
+      "alt_en": "Two spiral galaxies embracing in their early stages of merger with distortions on the smaller galaxy visible",
+      "alt_ru": "Две спиральные галактики обнимаются на ранних стадиях слияния, с видимыми искажениями на меньшей галактике",
+      "credit": "ESO",
+      "credit_url": "https://www.eso.org/public/images/ngc2207/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        119,
+        330
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:U9906953ai58",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/eso0007a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/U9906953ai58/",
+      "original_path": "data/media/original/media_U9906953ai58.jpg",
+      "ru_path": null,
+      "sha256": "abab8ca3a1006025c82c034deb71afd8deb29cfc60bb7588c9c5f76c115a30db",
+      "size": 4934498,
+      "title_en": "Sombrero galaxy",
+      "title_ru": "Галактика Сомбреро",
+      "short_caption_en": "Sombrero galaxy",
+      "short_caption_ru": "Галактика Сомбреро",
+      "caption_en": "This prominent galaxy M 104 is often called the Sombrero galaxy due to its resemblance to the Mexican hat. This look is created by the thin disk oriented nearly edge-on, which appears illuminated by the dominant bulge. Both, the disk and bulge contain stars, but the stars in the bulge tend to be older, while the disk also harbors large amounts of dust and gas creating shadows. M 104 is located in the constellation Virgo approximately 50 light-years away. While some of the dots visible in the picture are foreground stars and others background galaxies, the majority are actually globular clusters, dense massive clusters of stars, associated with the Sombrero Galaxy.",
+      "caption_ru": "Эта заметная галактика M 104 часто называется галактикой Сомбреро из-за её сходства с мексиканской шляпой. Этот вид создаётся тонким диском, ориентированным почти с ребра, который кажется освещённым доминирующим балджем. И диск, и балдж содержат звёзды, но звёзды в балдже, как правило, старше, в то время как диск также содержит большое количество пыли и газа, создающих тени. M 104 находится в созвездии Девы на расстоянии примерно 50 световых лет. Хотя некоторые из точек, видимых на изображении, являются звёздами переднего плана, а другие — фоновыми галактиками, большинство из них на самом деле являются шаровыми скоплениями, плотными массивными скоплениями звёзд, связанными с галактикой Сомбреро.",
+      "alt_en": "This galaxy has a large bulge surrounded by a ring of dust creating an image similar to the mexican hat with the same name",
+      "alt_ru": "Эта галактика имеет большой балдж, окружённый кольцом пыли, создающим изображение, похожее на мексиканскую шляпу с тем же названием",
+      "credit": "ESO/P. Barthel",
+      "credit_url": "https://www.eso.org/public/images/eso0007a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        82,
+        119
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:eE6pB15Z932",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/galaxy-ngc-2787.png",
+      "record_url": "https://astro4edu.org/resources/media/eE6pB15Z932/",
+      "original_path": "data/media/original/media_eE6pB15Z932.png",
+      "ru_path": null,
+      "sha256": "215f02bb9c202f7b35b313b18c98429b8ba4d05baa5777d3d5e4566bb6c8e817",
+      "size": 1911232,
+      "title_en": "The Lenticular Galaxy NGC 2787",
+      "title_ru": "Линзовидная галактика NGC 2787",
+      "short_caption_en": "The Lenticular Galaxy NGC 2787",
+      "short_caption_ru": "Линзовидная галактика NGC 2787",
+      "caption_en": "The lenticular galaxy NGC 2787. This galaxy is a disk galaxy but lacks the large, dominant spiral arm structure seen in the disks of spiral galaxies. Its core is very bright compared to the core of a spiral galaxy. Thin rings of dust can be seen in the galaxy's disk.",
+      "caption_ru": "Линзовидная галактика NGC 2787. Эта галактика является дисковой галактикой, но не имеет крупной, доминирующей структуры спиральных рукавов, наблюдаемой в дисках спиральных галактик. Её ядро очень яркое по сравнению с ядром спиральной галактики. В диске галактики видны тонкие кольца пыли.",
+      "alt_en": "The bright core of this galaxy is surrounded by a much fainter disk. This faint disk has thin dark rings.",
+      "alt_ru": "Яркое ядро этой галактики окружено гораздо более слабым диском. Этот слабый диск имеет тонкие тёмные кольца.",
+      "credit": "NASA/ESA and The Hubble Heritage Team",
+      "credit_url": "https://esahubble.org/images/opo0207a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        82,
+        119,
+        452
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:uc91Hc319213",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/leo-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/uc91Hc319213/",
+      "original_path": "data/media/original/diagram_uc91Hc319213.png",
+      "ru_path": null,
+      "sha256": "2e499831e35a7cd89f3fcd5abc37b3e5e92799ba72d91d802afea7f894970a55",
+      "size": 114246,
+      "title_en": "Leo Constellation Map",
+      "title_ru": "Карта созвездия Льва",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The zodiac constellation Leo and its surrounding constellations. Starting from the top of the diagram and going clockwise, these are Leo Minor, Cancer, Sextans, Hydra, Crater, Virgo and Ursa Major. The brightest star in Leo, Regulus, lies almost exactly on the ecliptic (shown here as a blue line): the path the Sun appears to take across the sky over the course of a year. The Sun spends the period from mid August to mid September in Leo. The other planets in the Solar System can often be found in Leo.\r\n\r\nLeo spans the celestial equator and is thus part of it is visible at some time in the year from all of planet Earth with some of the constellation obscured for the most arctic and antarctic regions of the world. Leo is most visible in the evenings in the northern hemisphere spring and southern hemisphere autumn. \r\n\r\nSeveral objects can be seen in Leo, including  M65 and M66 – two galaxies in the Leo Triplet, a trio of galaxies including NGC 3628, not listed here. In addition, M96, a spiral galaxy, can be seen as a fuzzy object using a small telescope, and Messier 105, an elliptical galaxy. Each of these objects are labelled on the map as red ellipses.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labelled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Зодиакальное созвездие Лев и окружающие его созвездия. Начиная с верхней части диаграммы и двигаясь по часовой стрелке, это Малый Лев, Рак, Секстант, Гидра, Чаша, Дева и Большая Медведица. Самая яркая звезда Льва, Регул, лежит почти точно на эклиптике (показанной здесь синей линией): путь, который Солнце, как кажется, проходит по небу в течение года. Солнце проводит период с середины августа до середины сентября во Льве. Другие планеты Солнечной системы также часто можно найти во Льве.\r\n\r\nЛев пересекает небесный экватор, и, таким образом, часть его видна в какое-то время года со всей планеты Земля, причём часть созвездия скрыта для самых арктических и антарктических регионов мира. Лев лучше всего виден по вечерам весной в северном полушарии и осенью в южном полушарии.\r\n\r\nВо Льве можно увидеть несколько объектов, включая M65 и M66 — две галактики в Триплете Льва, трио галактик, включающем NGC 3628, не указанную здесь. Кроме того, M96, спиральную галактику, можно увидеть как туманный объект с помощью небольшого телескопа, и Мессье 105, эллиптическую галактику. Каждый из этих объектов обозначен на карте красными эллипсами.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Leo resembles a lion standing on the ecliptic (which runs ESE to WNW) with its nose pointed northwest.",
+      "alt_ru": "Лев напоминает льва, стоящего на эклиптике (которая проходит с ВЮВ на ЗСЗ), с мордой, направленной на северо-запад.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        66,
+        78,
+        92,
+        99,
+        119,
+        172,
+        286,
+        330,
+        391,
+        432,
+        486
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

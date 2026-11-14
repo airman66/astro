@@ -1,0 +1,210 @@
+{
+  "id": "term:20",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 20,
+    "url": "https://astro4edu.org/resources/glossary/term/20/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=20",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:10.371685+00:00",
+    "sha256": "a3616bbe093ed5f8101b5c75f7fd439dc52b7e96393f75b1ba5d1283a1f4d95c"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Chemistry",
+      "Exoplanets & Astrobiology",
+      "Space Exploration"
+    ],
+    "category_ids": [
+      12,
+      6,
+      10
+    ],
+    "categories_ru": [
+      "Химия",
+      "Экзопланеты и астробиология",
+      "Исследование космоса"
+    ],
+    "related_term_numbers": [
+      21,
+      108,
+      109
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Astrobiology",
+      "body": "Astrobiology is a multidisciplinary field of investigation comprising knowledge from astronomy, biology, physics, geology, chemistry, and other science fields to study life from its origin, evolution, and distribution in the Universe, including Earth, currently the only place where life is known to exist.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astrochemistry",
+          "url": "https://www.astro4edu.org/resources/glossary/term/21/",
+          "text_ru": "Астрохимия"
+        },
+        {
+          "text": "Extraterrestrial Intelligence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/108/",
+          "text_ru": "Внеземной разум"
+        },
+        {
+          "text": "Extraterrestrial Life",
+          "url": "https://www.astro4edu.org/resources/glossary/term/109/",
+          "text_ru": "Внеземная жизнь"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Astrobiology</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Astrobiology is a multidisciplinary field of investigation comprising knowledge from astronomy, biology, physics, geology, chemistry, and other science fields to study life from its origin, evolution, and distribution in the Universe, including Earth, currently the only place where life is known to exist.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/21/\">Astrochemistry</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/108/\">Extraterrestrial Intelligence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/109/\">Extraterrestrial Life</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Астробиология",
+      "body_ru": "Астробиология — это междисциплинарная область исследований, объединяющая знания из астрономии, биологии, физики, геологии, химии и других научных областей для изучения жизни от её происхождения, эволюции и распространения во Вселенной, включая Землю, которая в настоящее время является единственным известным местом существования жизни."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "宇宙生物学 (external link)",
+          "url": "https://astro-dic.jp/astrobiology-2/",
+          "text_ru": "Астробиология (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/20/\">علم الأحياء الفلكي </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/20/\">Astrobiologie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/20/\">Astrobiología </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/20/\">Astrobiologie </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/20/\">Astrobiologia </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/astrobiology-2/\">宇宙生物学 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/20/\">천체생물학 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/20/\">Astrobiologia </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/20/\">天体生物学 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/20/\">天體生物學 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Children's Planetary Maps: Venus astroEDU educational activity (links to astroEDU website) Description: Learn more about our nearest neighbour License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Children's Planetary Maps: Mars astroEDU educational activity (links to astroEDU website) Description: Explore planet Mars, learning how to use planetary maps! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Free Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations Children's Planetary Maps: The Moon astroEDU educational activity (links to astroEDU website) Description: An up close look at our own satellite License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Children's Planetary Maps: Io astroEDU educational activity (links to astroEDU website) Description: Learn about the most geologically active world in our Solar System License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Children's Planetary Maps: Titan astroEDU educational activity (links to astroEDU website) Description: Learn about the only other known body in the Solar System with Seas and Lakes License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Astrobiology&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-venus/\"><img alt=\"Children's Planetary Maps: Venus\" src=\"/media/astroedu/images/childrens-planetary-maps-venus_en_thumbnail_i6aiQs8.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-venus/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Children's Planetary Maps: Venus</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn more about our nearest neighbour\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Planetary cartography \n  \n  , Spatial thinking \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-mars/\"><img alt=\"Children's Planetary Maps: Mars\" src=\"/media/astroedu/images/childrens-planetary-maps-mars_en_thumbnail_2DwNSn3.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-mars/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Children's Planetary Maps: Mars</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore planet Mars, learning how to use planetary maps!\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Maps \n  \n  , Planetary cartography \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nFree \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-the-moon/\"><img alt=\"Children's Planetary Maps: The Moon\" src=\"/media/astroedu/images/childrens-planetary-maps-the-moon_en_thumbnail_AYYDNsl.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-the-moon/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Children's Planetary Maps: The Moon</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>An up close look at our own satellite\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-io/\"><img alt=\"Children's Planetary Maps: Io\" src=\"/media/astroedu/images/childrens-planetary-maps-io_en_thumbnail_LJ80bsC.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-io/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Children's Planetary Maps: Io</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn about the most geologically active world in our Solar System\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-titan/\"><img alt=\"Children's Planetary Maps: Titan\" src=\"/media/astroedu/images/childrens-planetary-maps-titan_en_thumbnail_uIxM0Qv.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/childrens-planetary-maps-titan/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Children's Planetary Maps: Titan</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn about the only other known body in the Solar System with Seas and Lakes\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n2 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Astrobiology&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Детские планетарные карты: Венера образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте больше о нашем ближайшем соседе Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Детские планетарные карты: Марс образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте планету Марс, учитесь использовать планетарные карты! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Бесплатно Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Построение объяснений Детские планетарные карты: Луна образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Близкий взгляд на наш собственный спутник Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Детские планетарные карты: Ио образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о самом геологически активном мире в нашей Солнечной системе Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Детские планетарные карты: Титан образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о единственном другом известном теле в Солнечной системе с морями и озёрами Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Astrobiology",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Astrobiology",
+          "body": "Astrobiology is a multidisciplinary field of investigation comprising knowledge from astronomy, biology, physics, geology, chemistry, and other science fields to study life from its origin, evolution, and distribution in the Universe, including Earth, currently the only place where life is known to exist."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Children's Planetary Maps: Venus astroEDU educational activity (links to astroEDU website) Description: Learn more about our nearest neighbour License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Children's Planetary Maps: Mars astroEDU educational activity (links to astroEDU website) Description: Explore planet Mars, learning how to use planetary maps! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Free Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations Children's Planetary Maps: The Moon astroEDU educational activity (links to astroEDU website) Description: An up close look at our own satellite License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Children's Planetary Maps: Io astroEDU educational activity (links to astroEDU website) Description: Learn about the most geologically active world in our Solar System License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Children's Planetary Maps: Titan astroEDU educational activity (links to astroEDU website) Description: Learn about the only other known body in the Solar System with Seas and Lakes License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Maps \n  \n  , Planetary cartography \n  \n  , Spatial thinking Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary \n  \n, Secondary Areas of Learning: Structured-inquiry learning Costs: Low Cost Duration: 2 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Астробиология",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Астробиология",
+          "body": "Астробиология — это междисциплинарная область исследований, объединяющая знания из астрономии, биологии, физики, геологии, химии и других научных областей для изучения жизни от её происхождения, эволюции и распространения во Вселенной, включая Землю, которая в настоящее время является единственным известным местом существования жизни."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Детские планетарные карты: Венера образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте больше о нашем ближайшем соседе Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Детские планетарные карты: Марс образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Исследуйте планету Марс, учитесь использовать планетарные карты! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Бесплатно Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Построение объяснений Детские планетарные карты: Луна образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Близкий взгляд на наш собственный спутник Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Детские планетарные карты: Ио образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о самом геологически активном мире в нашей Солнечной системе Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Детские планетарные карты: Титан образовательная деятельность astroEDU (ссылки на веб-сайт astroEDU) Описание: Узнайте о единственном другом известном теле в Солнечной системе с морями и озёрами Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Карты \n  \n  , Планетарная картография \n  \n  , Пространственное мышление Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальная \n  \n, Средняя Области обучения: Структурированное исследовательское обучение Затраты: Низкие затраты Продолжительность: 2 часа Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Участие в аргументации на основе доказательств \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

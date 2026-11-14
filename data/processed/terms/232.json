@@ -1,0 +1,455 @@
+{
+  "id": "term:232",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 232,
+    "url": "https://astro4edu.org/resources/glossary/term/232/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=232",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:24.561248+00:00",
+    "sha256": "03cca0ef8a8e684216ce9e89dd4f76c680740aa7455921301cf202f74fadd48b"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      6,
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      40,
+      98,
+      135,
+      169,
+      233,
+      314
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Orbit",
+      "body": "An orbit is the path of a moving object in a system around the center of mass of that system, caused by the mutual gravitational force between the objects in the system. For systems such as the Solar System, where the central body is much more massive than the other bodies, this center of mass lies inside or close to the most massive object (in the case of the Solar System, the Sun). In a binary star system the center of mass the stars orbit often lies between the two stars. Orbits are typically elliptical in shape with the center of mass of the system lying at one focus of the ellipse. The size and shape of the orbit is defined by the semi-major axis and the eccentricity of the ellipse. More eccentric orbits have higher ellipticities. Most planets in the Solar System have orbital eccentricities very close to zero, for example, Venus (0.007) and Earth (0.017). The exceptions are Mercury (0.206) and the dwarf planet Pluto (0.244).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Binary Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/40/",
+          "text_ru": "Двойная звезда"
+        },
+        {
+          "text": "Ellipse",
+          "url": "https://www.astro4edu.org/resources/glossary/term/98/",
+          "text_ru": "Эллипс"
+        },
+        {
+          "text": "Gravity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/135/",
+          "text_ru": "Гравитация"
+        },
+        {
+          "text": "Kepler's Laws",
+          "url": "https://www.astro4edu.org/resources/glossary/term/169/",
+          "text_ru": "Законы Кеплера"
+        },
+        {
+          "text": "Orbital Period",
+          "url": "https://www.astro4edu.org/resources/glossary/term/233/",
+          "text_ru": "Орбитальный период"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Orbit</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> An orbit is the path of a moving object in a system around the center of mass of that system, caused by the mutual gravitational force between the objects in the system. For systems such as the Solar System, where the central body is much more massive than the other bodies, this center of mass lies inside or close to the most massive object (in the case of the Solar System, the Sun). In a binary star system the center of mass the stars orbit often lies between the two stars.<br/><br/>Orbits are typically elliptical in shape with the center of mass of the system lying at one focus of the ellipse. The size and shape of the orbit is defined by the semi-major axis and the eccentricity of the ellipse. More eccentric orbits have higher ellipticities. Most planets in the Solar System have orbital eccentricities very close to zero, for example, Venus (0.007) and Earth (0.017). The exceptions are Mercury (0.206) and the dwarf planet Pluto (0.244).</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/40/\">Binary Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/98/\">Ellipse</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/135/\">Gravity</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/169/\">Kepler's Laws</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/233/\">Orbital Period</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Орбита",
+      "body_ru": "Орбита — это путь движущегося объекта в системе вокруг центра масс этой системы, вызванный взаимной гравитационной силой между объектами в системе. Для таких систем, как Солнечная система, где центральное тело гораздо массивнее других тел, этот центр масс находится внутри или вблизи самого массивного объекта (в случае Солнечной системы — Солнца). В двойной звёздной системе центр масс, вокруг которого обращаются звёзды, часто находится между двумя звёздами. Орбиты обычно имеют эллиптическую форму, причём центр масс системы находится в одном из фокусов эллипса. Размер и форма орбиты определяются большой полуосью и эксцентриситетом эллипса. Чем более эксцентрична орбита, тем более вытянута её форма. Большинство планет Солнечной системы имеют орбитальные эксцентриситеты, очень близкие к нулю, например, Венера (0.007) и Земля (0.017). Исключениями являются Меркурий (0.206) и карликовая планета Плутон (0.244)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/232/\">المدار </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/232/\">Umlaufbahn </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/232/\">Órbita </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/232/\">Orbite </a></span></li>\n<li><b>Hindi: </b><span dir=\"LTR\" lang=\"hi\"><a class=\"link-bold\" href=\"/hi/resources/glossary/term/232/\">कक्षा </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/232/\">Orbita </a></span></li>\n<li><b>Marathi: </b><span dir=\"LTR\" lang=\"mr\"><a class=\"link-bold\" href=\"/mr/resources/glossary/term/232/\">कक्षा (ऑर्बिट) </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/232/\">Órbita </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/232/\">轨道 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/232/\">軌道 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/id29650bC11/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zm32gm18n086/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/oC21zv72nT69/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/cF23yx36oS64/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.eso.org/public/images/potw1846a/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:id29650bC11",
+        "media:zm32gm18n086",
+        "media:oC21zv72nT69",
+        "media:cF23yx36oS64"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/id29650bC11/\"><img alt=\"The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.\" src=\"/media/multimedia/thumbnails/Jupiters_Rotation_by_Vishal_Sharma_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter's Rotation, by Vishal Sharma, India</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\n\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.<br/>\n<b>Credit:</b> Vishal Sharma/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zm32gm18n086/\"><img alt=\"The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots\" src=\"/media/multimedia/thumbnails/Jupiter_Moons_Movie2_by_Nicolas_Hurez_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter Moons Movie2, by Nicolas Hurez, Paul-Antoine Matrangolo, and Carl Pennypacker, United States of America</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).<br/>\n<b>Credit:</b> Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/oC21zv72nT69/\"><img alt=\"Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left\" src=\"/media/multimedia/thumbnails/Jupiter_Io_and_its_shadow_by_Ralf_Burkart_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Jupiter, Io and its shadow, by Ralf Burkart, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\n\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.<br/>\n<b>Credit:</b> Ralf Burkart/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/cF23yx36oS64/\"><img alt=\"beta Pictoris b moves from bottom right towards the center of the image, reappearing 22 months later on the top left\" src=\"/media/multimedia/thumbnails/potw1846a_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">The orbit of beta Pictoris b</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This series of images shows the orbital motion of the extrasolar planet (exoplanet) beta Pictoris b. The planet is the bright dot in each image. The planet's host star is hidden behind the black circle in the middle of each image. This is done to remove the much brighter host star which would otherwise drown out the light from the planet. The planet's orbit is viewed edge-on. Seeing the orbit from this perspective makes it look like the planet moves along a straight line. \nBetween February 2015 and November 2016 beta Pictoris b appears to move closer and closer to its host star. The planet then moved so close to the star that it was not seen for almost two years, after which it reappeared on the other side of the star.<br/>\n<b>Credit:</b> ESO/Lagrange/SPHERE consortium\n\t  <a href=\"https://www.eso.org/public/images/potw1846a/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Measure the Solar Diameter astroEDU educational activity (links to astroEDU website) Description: Hands-on activity to measure the Sun by using household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Scales \n  \n  , Observing \n  \n  , Measurement Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Middle School Areas of Learning: Structured-inquiry learning Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking Blue Marble in Empty Space astroEDU educational activity (links to astroEDU website) Description: Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models Lunar Day astroEDU educational activity (links to astroEDU website) Description: Through a fun-learning activity, understand why moon always keeps the same face towards Earth. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Lunar day Age Ranges: 4-6 \n  \n, 6-8 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Simulation focussed Costs: Free Duration: 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models Day and Night in the World astroEDU educational activity (links to astroEDU website) Description: Compare diurnal and nocturnal animals and experiment with day and night. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Model \n  \n  , Animals \n  \n  , Day and night Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Interactive Lecture \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Seasons Around the World astroEDU educational activity (links to astroEDU website) Description: Demonstrate the seasons on Earth using a model. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Orbit&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/measure-the-solar-diameter/\"><img alt=\"Measure the Solar Diameter\" src=\"/media/astroedu/images/measure-the-solar-diameter_en_thumbnail_w7nXUkh.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/measure-the-solar-diameter/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Measure the Solar Diameter</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Hands-on activity to measure the Sun by using household materials.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Scales \n  \n  , Observing \n  \n  , Measurement \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/blue-marble-in-empty-space/\"><img alt=\"Blue Marble in Empty Space\" src=\"/media/astroedu/images/blue-marble-in-empty-space_en_thumbnail_SCbs0Dz.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/blue-marble-in-empty-space/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Blue Marble in Empty Space</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Modelling \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/lunar-day/\"><img alt=\"Lunar Day\" src=\"/media/astroedu/images/lunar-day_en_thumbnail_sz6V70r.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/lunar-day/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Lunar Day</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Through a fun-learning activity, understand why moon always keeps the same face towards Earth.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Lunar day \n  \n<b>Age Ranges:</b>\n\n4-6 \n  \n, 6-8 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Simulation focussed \n  \n<b>Costs:</b>\nFree \n\n<b>Duration:</b>\n30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/day-and-night-in-the-world/\"><img alt=\"Day and Night in the World\" src=\"/media/astroedu/images/day-and-night-in-the-world_en_thumbnail_19fmg1w.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/day-and-night-in-the-world/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Day and Night in the World</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Compare diurnal and nocturnal animals and experiment with day and night.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Life \n  \n  , Model \n  \n  , Animals \n  \n  , Day and night \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n<b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAsking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/seasons-around-the-world/\"><img alt=\"Seasons Around the World\" src=\"/media/astroedu/images/seasons-around-the-world_en_thumbnail_M4Usg8C.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/seasons-around-the-world/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Seasons Around the World</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Demonstrate the seasons on Earth using a model.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Model \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n45 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Orbit&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Измерьте диаметр Солнца образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Практическое мероприятие по измерению Солнца с использованием подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Масштабы \n  \n  , Наблюдение \n  \n  , Измерение Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Средняя школа Области обучения: Обучение через структурированное исследование Затраты: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений \n  \n, Использование математики и вычислительного мышления Голубой мрамор в пустом пространстве образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Учащиеся отправляются в виртуальное путешествие в космос, чтобы испытать, что мы живём на крошечной планете, которая парит в огромном и пустом пространстве. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Жизнь \n  \n  , Практическое \n  \n  , Модель \n  \n  , Масштабы \n  \n  , Расстояния \n  \n  , МКС Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкая стоимость Продолжительность: 30 мин Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Лунный день образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Через увлекательное обучающее мероприятие понять, почему Луна всегда обращена к Земле одной и той же стороной. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Лунный день Возрастные диапазоны: 4-6 \n  \n, 6-8 Уровень образования: Начальный \n  \n, Средний Области обучения: Моделирование \n  \n, Симуляционно-ориентированное Затраты: Бесплатно Продолжительность: 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей День и ночь в мире образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Сравните дневных и ночных животных и поэкспериментируйте с днём и ночью. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Жизнь \n  \n  , Модель \n  \n  , Животные \n  \n  , День и ночь Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный Области обучения: Интерактивная лекция \n  \n, Моделирование \n  \n, Обучение через структурированное исследование Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Времена года по всему миру образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Продемонстрируйте времена года на Земле с помощью модели. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Модель Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальный Области обучения: Моделирование \n  \n, Обучение через структурированное исследование Затраты: Средняя стоимость Продолжительность: 45 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Orbit",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Orbit",
+          "body": "An orbit is the path of a moving object in a system around the center of mass of that system, caused by the mutual gravitational force between the objects in the system. For systems such as the Solar System, where the central body is much more massive than the other bodies, this center of mass lies inside or close to the most massive object (in the case of the Solar System, the Sun). In a binary star system the center of mass the stars orbit often lies between the two stars. Orbits are typically elliptical in shape with the center of mass of the system lying at one focus of the ellipse. The size and shape of the orbit is defined by the semi-major axis and the eccentricity of the ellipse. More eccentric orbits have higher ellipticities. Most planets in the Solar System have orbital eccentricities very close to zero, for example, Venus (0.007) and Earth (0.017). The exceptions are Mercury (0.206) and the dwarf planet Pluto (0.244)."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Measure the Solar Diameter astroEDU educational activity (links to astroEDU website) Description: Hands-on activity to measure the Sun by using household materials. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Scales \n  \n  , Observing \n  \n  , Measurement Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Middle School Areas of Learning: Structured-inquiry learning Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations \n  \n, Using mathematics and computational thinking Blue Marble in Empty Space astroEDU educational activity (links to astroEDU website) Description: Students are taken on a virtual journey to outer space to experience that we live on a tiny planet that floats in a vast and empty space. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Hands-on \n  \n  , Model \n  \n  , Scales \n  \n  , Distances \n  \n  , ISS Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary \n  \n, Secondary Areas of Learning: Interactive Lecture \n  \n, Modelling Costs: Low Cost Duration: 30 mins Group Size: Group Skills: Asking questions \n  \n, Communicating information \n  \n, Developing and using models Lunar Day astroEDU educational activity (links to astroEDU website) Description: Through a fun-learning activity, understand why moon always keeps the same face towards Earth. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Lunar day Age Ranges: 4-6 \n  \n, 6-8 Education Level: Primary \n  \n, Secondary Areas of Learning: Modelling \n  \n, Simulation focussed Costs: Free Duration: 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Constructing explanations \n  \n, Developing and using models Day and Night in the World astroEDU educational activity (links to astroEDU website) Description: Compare diurnal and nocturnal animals and experiment with day and night. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Life \n  \n  , Model \n  \n  , Animals \n  \n  , Day and night Age Ranges: 6-8 \n  \n, 8-10 Education Level: Primary Areas of Learning: Interactive Lecture \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour Group Size: Group Skills: Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Seasons Around the World astroEDU educational activity (links to astroEDU website) Description: Demonstrate the seasons on Earth using a model. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Model Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Middle School \n  \n, Primary Areas of Learning: Modelling \n  \n, Structured-inquiry learning Costs: Medium Cost Duration: 45 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Орбита",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Орбита",
+          "body": "Орбита — это путь движущегося объекта в системе вокруг центра масс этой системы, вызванный взаимной гравитационной силой между объектами в системе. Для таких систем, как Солнечная система, где центральное тело гораздо массивнее других тел, этот центр масс находится внутри или вблизи самого массивного объекта (в случае Солнечной системы — Солнца). В двойной звёздной системе центр масс, вокруг которого обращаются звёзды, часто находится между двумя звёздами. Орбиты обычно имеют эллиптическую форму, причём центр масс системы находится в одном из фокусов эллипса. Размер и форма орбиты определяются большой полуосью и эксцентриситетом эллипса. Чем более эксцентрична орбита, тем более вытянута её форма. Большинство планет Солнечной системы имеют орбитальные эксцентриситеты, очень близкие к нулю, например, Венера (0.007) и Земля (0.017). Исключениями являются Меркурий (0.206) и карликовая планета Плутон (0.244)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Измерьте диаметр Солнца образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Практическое мероприятие по измерению Солнца с использованием подручных материалов. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Масштабы \n  \n  , Наблюдение \n  \n  , Измерение Возрастные диапазоны: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Средняя школа Области обучения: Обучение через структурированное исследование Затраты: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений \n  \n, Использование математики и вычислительного мышления Голубой мрамор в пустом пространстве образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Учащиеся отправляются в виртуальное путешествие в космос, чтобы испытать, что мы живём на крошечной планете, которая парит в огромном и пустом пространстве. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Жизнь \n  \n  , Практическое \n  \n  , Модель \n  \n  , Масштабы \n  \n  , Расстояния \n  \n  , МКС Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный \n  \n, Средний Области обучения: Интерактивная лекция \n  \n, Моделирование Затраты: Низкая стоимость Продолжительность: 30 мин Размер группы: Группа Навыки: Задавание вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей Лунный день образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Через увлекательное обучающее мероприятие понять, почему Луна всегда обращена к Земле одной и той же стороной. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Лунный день Возрастные диапазоны: 4-6 \n  \n, 6-8 Уровень образования: Начальный \n  \n, Средний Области обучения: Моделирование \n  \n, Симуляционно-ориентированное Затраты: Бесплатно Продолжительность: 30 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Передача информации \n  \n, Построение объяснений \n  \n, Разработка и использование моделей День и ночь в мире образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Сравните дневных и ночных животных и поэкспериментируйте с днём и ночью. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Жизнь \n  \n  , Модель \n  \n  , Животные \n  \n  , День и ночь Возрастные диапазоны: 6-8 \n  \n, 8-10 Уровень образования: Начальный Области обучения: Интерактивная лекция \n  \n, Моделирование \n  \n, Обучение через структурированное исследование Затраты: Низкая стоимость Продолжительность: 1 час Размер группы: Группа Навыки: Задавание вопросов \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Времена года по всему миру образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Продемонстрируйте времена года на Земле с помощью модели. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое \n  \n  , Модель Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Средняя школа \n  \n, Начальный Области обучения: Моделирование \n  \n, Обучение через структурированное исследование Затраты: Средняя стоимость Продолжительность: 45 мин Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Задавание вопросов \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:id29650bC11",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5292034/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%E2%80%99s%20Rotation%2C%20by%20Vishal%20Sharma.mp4",
+      "record_url": "https://astro4edu.org/resources/media/id29650bC11/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse of Galilean moons orbiting Jupiter",
+      "short_caption_ru": "Таймлапс галилеевых спутников, обращающихся вокруг Юпитера",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons: Jupiter’s Rotation, by Vishal Sharma, India.\r\n\r\nThis time-lapse beautifully shows the rotation of Jupiter and the passage of two Galilean moons on the right side of the frame. Jupiter completes one rotation in just under 10 hours and we see as the Great Red Spot makes its way from left to right. The two moons travel a noticeable fraction of their orbit in this short time. This image was taken in 2020 in the North of India.",
+      "caption_ru": "Третье место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники»: «Вращение Юпитера», автор Вишал Шарма, Индия.\r\n\r\nЭтот таймлапс красиво показывает вращение Юпитера и прохождение двух галилеевых спутников в правой части кадра. Юпитер совершает один оборот чуть менее чем за 10 часов, и мы видим, как Большое Красное Пятно перемещается слева направо. Два спутника за это короткое время проходят заметную часть своей орбиты. Это изображение было получено в 2020 на севере Индии.",
+      "alt_en": "The planet Jupiter with the two of the four Galilean moons (visible as bright dots) orbiting it.",
+      "alt_ru": "Планета Юпитер с двумя из четырёх галилеевых спутников (видны как яркие точки), обращающихся вокруг неё.",
+      "credit": "Vishal Sharma/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zm32gm18n086",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291803/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Jupiter%20Moon%E2%80%99s%20Movie2%2C%20by%20Nicolas%20Hurez%2C%20Paul-Antoine%20Matrangolo%2C%20and%20Carl%20Pennypacker%2C%20United%20States%20of%20America.mp4",
+      "record_url": "https://astro4edu.org/resources/media/zm32gm18n086/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Four Galilean moons around the planet Jupiter.",
+      "short_caption_ru": "Четыре галилеевых спутника вокруг планеты Юпитер.",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis sequence shows the orbit of the four Galilean moons around the planet Jupiter. Almost two entire orbits of the innermost moon, Io, can be seen, with the other moons (Europa and Ganymede, but in particular Callisto) being further away, orbiting noticeably slower. The images were obtained in 2018 with the Las Cumbres Global Observatory at different locations on Earth, allowing a continuous sequence of images over approximately half a week without gaps during the day. With clear skies and over the course of several nights, the motion of the Galilean moons can also be observed with binoculars (ideally steady your elbows on a surface).",
+      "caption_ru": "Второе место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭта последовательность показывает орбиты четырёх галилеевых спутников вокруг планеты Юпитер. Можно увидеть почти два полных оборота самого внутреннего спутника Ио, в то время как другие спутники (Европа и Ганимед, но особенно Каллисто) находятся дальше и обращаются заметно медленнее. Изображения были получены в 2018 с помощью Лас-Кумбресской глобальной обсерватории в разных точках Земли, что позволило получить непрерывную последовательность снимков в течение примерно половины недели без пробелов в дневное время. При ясном небе и в течение нескольких ночей движение галилеевых спутников можно также наблюдать в бинокль (желательно опереть локти на какую-либо поверхность).",
+      "alt_en": "The planet Jupiter, seen here as a bright disk, is orbited by the four Galilean moons, seen here as bright dots",
+      "alt_ru": "Планета Юпитер, видимая здесь как яркий диск, вокруг которого обращаются четыре галилеевых спутника, видимые как яркие точки",
+      "credit": "Nicolas Hurez, Paul-Antoine Matrangolo and Carl Pennypacker/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:oC21zv72nT69",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/record/5291459/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Galilean%20moons%3A%20Io%2C%20Ganymede%2C%20Shadow%2C%20by%20Ralf%20Burkart%2C%20Germany.gif",
+      "record_url": "https://astro4edu.org/resources/media/oC21zv72nT69/",
+      "original_path": "data/media/original/media_oC21zv72nT69.gif",
+      "ru_path": null,
+      "sha256": "71547b4d75a0fd7f1d53c3ad5af7749ec0c77cbed1bbb6b21d622ec30a2aa676",
+      "size": 12636069,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "A time-lapse showing he transit of one of the Galilean moons, Io, in front of Jupiter",
+      "short_caption_ru": "Таймлапс, показывающий прохождение одного из галилеевых спутников, Ио, перед Юпитером",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Galilean moons.\r\n\r\nThis time-lapse of Jupiter taken in 2017 from Germany beautifully illustrates the transit of one of the Galilean moons, Io, in front of Jupiter. As this is simply a moon casting a shadow on a planet it is equivalent to a lunar eclipse on Earth observed from further away. While the shadow of the moon is clearly visible from the beginning, it might be difficult to spot the moon itself against the background of the beautiful atmospheric bands of Jupiter the first time the video is seen. Watching it repeatedly allows appreciating the rapid motion and rotation in this fantastic observation.",
+      "caption_ru": "Первое место в 2021 конкурсе астрофотографии IAU OAE, категория «Галилеевы спутники».\r\n\r\nЭтот таймлапс Юпитера, снятый в 2017 в Германии, прекрасно иллюстрирует прохождение одного из галилеевых спутников, Ио, перед Юпитером. Поскольку это просто спутник, отбрасывающий тень на планету, это эквивалентно лунному затмению на Земле, наблюдаемому издалека. Хотя тень спутника ясно видна с самого начала, сам спутник может быть трудно заметить на фоне прекрасных атмосферных полос Юпитера при первом просмотре видео. Повторный просмотр позволяет оценить быстрое движение и вращение в этом фантастическом наблюдении.",
+      "alt_en": "Jupiter with coloured horizontal bands of clouds. The shadow of the moon Io is seen as a dark circle in the top left",
+      "alt_ru": "Юпитер с цветными горизонтальными полосами облаков. Тень спутника Ио видна как тёмный круг в верхнем левом углу",
+      "credit": "Ralf Burkart/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        121,
+        125,
+        159,
+        167,
+        204,
+        232,
+        234,
+        253,
+        367
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:cF23yx36oS64",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/potw1846a.jpg",
+      "record_url": "https://astro4edu.org/resources/media/cF23yx36oS64/",
+      "original_path": "data/media/original/media_cF23yx36oS64.jpg",
+      "ru_path": "data/media/ru/media_cF23yx36oS64.png",
+      "sha256": "ed96c8067787440fb735fccb74b6ae9a12ff886a97f188194b17b9cf5fcd5af8",
+      "size": 710171,
+      "title_en": "The orbit of beta Pictoris b",
+      "title_ru": "Орбита бета Живописца b",
+      "short_caption_en": "The orbital motion of the exoplanet beta Pictoris b, tracked over four years",
+      "short_caption_ru": "Орбитальное движение экзопланеты бета Живописца b, отслеживаемое в течение четырех лет",
+      "caption_en": "This series of images shows the orbital motion of the extrasolar planet (exoplanet) beta Pictoris b. The planet is the bright dot in each image. The planet's host star is hidden behind the black circle in the middle of each image. This is done to remove the much brighter host star which would otherwise drown out the light from the planet. The planet's orbit is viewed edge-on. Seeing the orbit from this perspective makes it look like the planet moves along a straight line. \r\nBetween February 2015 and November 2016 beta Pictoris b appears to move closer and closer to its host star. The planet then moved so close to the star that it was not seen for almost two years, after which it reappeared on the other side of the star.",
+      "caption_ru": "Эта серия изображений показывает орбитальное движение внесолнечной планеты (экзопланеты) бета Живописца b. Планета — яркая точка на каждом изображении. Родительская звезда планеты скрыта за черным кругом в центре каждого изображения. Это сделано, чтобы убрать гораздо более яркую родительскую звезду, которая иначе заглушила бы свет от планеты. Орбита планеты наблюдается с ребра. Наблюдение орбиты с этой перспективы создает впечатление, что планета движется по прямой линии.\nМежду февралем 2015 и ноябрем 2016 бета Живописца b, по-видимому, приближается все ближе и ближе к своей родительской звезде. Затем планета подошла так близко к звезде, что ее не было видно почти два года, после чего она снова появилась с другой стороны звезды.",
+      "alt_en": "beta Pictoris b moves from bottom right towards the center of the image, reappearing 22 months later on the top left",
+      "alt_ru": "бета Живописца b движется из правого нижнего угла к центру изображения, появляясь снова 22 месяцев спустя в верхнем левом углу",
+      "credit": "ESO/Lagrange/SPHERE consortium",
+      "credit_url": "https://www.eso.org/public/images/potw1846a/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        106,
+        232
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "6aa8773e4613272769cf8ebb2f4ca608ef648c7ee8343b8286b09a411d6bfaff"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

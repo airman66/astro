@@ -1,0 +1,344 @@
+{
+  "id": "term:334",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 334,
+    "url": "https://astro4edu.org/resources/glossary/term/334/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=334",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:55.048492+00:00",
+    "sha256": "2038472b236dedd3c98b002315cf7a037589300151b1c600f4a25eb1312ca5f1"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      43,
+      186,
+      214,
+      221,
+      256,
+      337,
+      349,
+      386,
+      450
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Stellar Evolution",
+      "body": "Stellar evolution describes the aging of stars and how they change over their life cycle. Unlike in evolutionary biology, stellar evolution does not refer to changes in traits between different generations of stars. Stars spend most of their life on the main sequence stage of stellar evolution, fusing hydrogen into helium in their cores and releasing energy. As a star ages and starts to run out of hydrogen in its core, the core will contract and may become hot enough to start helium fusion. Depending on the mass of the star, this can lead to the star evolving into a giant or supergiant. In some giants and supergiants, fusion produces heavier and heavier elements. Stars with initial masses between a half and eight times the mass of our Sun will end up with cores of carbon, oxygen, and/or neon, while hydrogen and helium fusion continues in shells around the core, providing them with a layered onion-like structure. They will eventually lose their outer layers, which go on to form a planetary nebula, leaving only the core as a small, bright white dwarf. Stars weighing more than eight solar masses continue fusing heavier elements until the nuclei in their core have fused to iron. Further fusion then can liberate no additional energy. This triggers a supernova explosion, which leaves behind either a very compact neutron star or, for very massive stars, a black hole. Both planetary nebulae and supernova explosions eject matter from stars into the interstellar medium. At certain other phases of their evolution, many stars also eject mass by stellar winds, extreme pulsations, or explosions. The ejected matter has been enriched in heavy elements as a result of the nuclear fusion and, in the case of an explosion, nuclear reactions during the explosion itself. This enriched material may be incorporated into future generations of stars. The evolution of stars throughout all these phases can be altered by interaction with a companion in a multiple star system.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Black Hole",
+          "url": "https://www.astro4edu.org/resources/glossary/term/43/",
+          "text_ru": "Чёрная дыра"
+        },
+        {
+          "text": "Main Sequence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/186/",
+          "text_ru": "Главная последовательность"
+        },
+        {
+          "text": "Neutron Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/214/",
+          "text_ru": "Нейтронная звезда"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Planetary Nebula",
+          "url": "https://www.astro4edu.org/resources/glossary/term/256/",
+          "text_ru": "Планетарная туманность"
+        },
+        {
+          "text": "Stellar Remnants",
+          "url": "https://www.astro4edu.org/resources/glossary/term/337/",
+          "text_ru": "Звёздные остатки"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "White Dwarf",
+          "url": "https://www.astro4edu.org/resources/glossary/term/386/",
+          "text_ru": "Белый карлик"
+        },
+        {
+          "text": "Interstellar Medium",
+          "url": "https://www.astro4edu.org/resources/glossary/term/450/",
+          "text_ru": "Межзвёздная среда"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Stellar Evolution</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Stellar evolution describes the aging of stars and how they change over their life cycle. Unlike in evolutionary biology, stellar evolution does not refer to changes in traits between different generations of stars.<br/><br/>Stars spend most of their life on the main sequence stage of stellar evolution, fusing hydrogen into helium in their cores and releasing energy. As a star ages and starts to run out of hydrogen in its core, the core will contract and may become hot enough to start helium fusion. Depending on the mass of the star, this can lead to the star evolving into a giant or supergiant. In some giants and supergiants, fusion produces heavier and heavier elements. <br/><br/>Stars with initial masses between a half and eight times the mass of our Sun will end up with cores of carbon, oxygen, and/or neon, while hydrogen and helium fusion continues in shells around the core, providing them with a layered onion-like structure. They will eventually lose their outer layers, which go on to form a planetary nebula, leaving only the core as a small, bright white dwarf. <br/><br/>Stars weighing more than eight solar masses continue fusing heavier elements until the nuclei in their core have fused to iron. Further fusion then can liberate no additional energy. This triggers a supernova explosion, which leaves behind either a very compact neutron star or, for very massive stars, a black hole. <br/><br/>Both planetary nebulae and supernova explosions eject matter from stars into the interstellar medium. At certain other phases of their evolution, many stars also eject mass by stellar winds, extreme pulsations, or explosions. The ejected matter has been enriched in heavy elements as a result of the nuclear fusion and, in the case of an explosion, nuclear reactions during the explosion itself. This enriched material may be incorporated into future generations of stars. <br/><br/>The evolution of stars throughout all these phases can be altered by interaction with a companion in a multiple star system.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/43/\">Black Hole</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/186/\">Main Sequence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/214/\">Neutron Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/256/\">Planetary Nebula</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/337/\">Stellar Remnants</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/386/\">White Dwarf</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/450/\">Interstellar Medium</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звёздная эволюция",
+      "body_ru": "Звёздная эволюция описывает старение звёзд и то, как они изменяются в течение своего жизненного цикла. В отличие от эволюционной биологии, звёздная эволюция не относится к изменениям признаков между разными поколениями звёзд. Большую часть своей жизни звёзды проводят на стадии главной последовательности звёздной эволюции, синтезируя водород в гелий в своих ядрах и выделяя энергию. По мере старения звезды и начала исчерпания водорода в её ядре ядро сжимается и может стать достаточно горячим, чтобы начался синтез гелия. В зависимости от массы звезды это может привести к превращению звезды в гиганта или сверхгиганта. В некоторых гигантах и сверхгигантах синтез производит всё более тяжёлые элементы. Звёзды с начальными массами от половины до восьми масс нашего Солнца в конечном итоге будут иметь ядра из углерода, кислорода и/или неона, в то время как синтез водорода и гелия продолжается в оболочках вокруг ядра, придавая им слоистую структуру, подобную луковице. В конце концов они потеряют свои внешние слои, которые образуют планетарную туманность, оставив только ядро в виде небольшого яркого белого карлика. Звёзды массой более восьми солнечных масс продолжают синтезировать более тяжёлые элементы, пока ядра в их центре не превратятся в железо. Дальнейший синтез уже не может выделить дополнительную энергию. Это вызывает взрыв сверхновой, после которого остаётся либо очень компактная нейтронная звезда, либо, для очень массивных звёзд, чёрная дыра. Как планетарные туманности, так и взрывы сверхновых выбрасывают вещество звёзд в межзвёздную среду. На некоторых других фазах своей эволюции многие звёзды также выбрасывают массу посредством звёздных ветров, экстремальных пульсаций или взрывов. Выброшенное вещество обогащено тяжёлыми элементами в результате термоядерного синтеза и, в случае взрыва, ядерных реакций во время самого взрыва. Этот обогащённый материал может быть включён в будущие поколения звёзд. Эволюция звёзд на всех этих фазах может изменяться под влиянием взаимодействия с компаньоном в кратной звёздной системе."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "恒星の進化 (external link)",
+          "url": "https://astro-dic.jp/stellar-evolution/",
+          "text_ru": "Эволюция звёзд (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/334/\">تطور النجوم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/334/\">Sternentwicklung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/334/\">Evolución estelar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/334/\">Evolution stellaire </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/334/\">Evoluzione stellare </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/stellar-evolution/\">恒星の進化 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/334/\">별의 진화 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/334/\">Evolução estelar </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/334/\">恒星演化 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/334/\">恆星演化 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/iq40Hc92ni31/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/nE461I80fc87/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:iq40Hc92ni31",
+        "diagram:nE461I80fc87"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/iq40Hc92ni31/\"><img alt=\"A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line\" src=\"/media/diagrams/multimedia/thumbnails/hr_diagram_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hertzsprung-Russell diagram</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\n \nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\n \nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.<br/>\n<b>Credit:</b> IAU OAE/Niall Deacon\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/nE461I80fc87/\"><img alt=\"A diagram showing the evolutionary stages of five mass ranges of stars.\" src=\"/media/diagrams/multimedia/thumbnails/Stellar_Evolution_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stellar Evolution</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This diagram shows the life cycle of stars of different masses. The mass of the different types of star increases from bottom to top with time going from left to right.\n\nThe life cycle of a star depends on its mass, with lower mass stars have longer lifetimes. All stars form from clouds of gas that collapse under their own gravity. As the star collapses, its core becomes hotter and denser. If the star has a mass greater than 0.08 solar masses (0.08 times the mass of the Sun), the pressure of the star’s mass pushing down on its core creates a high enough core temperature for hydrogen fusion to ignite. This burns hydrogen into helium in the star’s core, providing a heat source to power the star and to stop its core from collapsing further. If the collapsing object has a mass below 0.08 solar masses then it does not ignite hydrogen fusion in its core. It continues to cool and slowly contract. Such substellar objects are known as brown dwarfs, shown here in the lowest row.\n\nAfter stars have formed, they burn hydrogen in their cores and begin their so-called main sequence phase. The most massive stars (&gt;25 solar masses, shown here at the top) have very high core temperatures and thus burn through their hydrogen fuel more quickly. This means they may only spend a few million years on the main sequence burning hydrogen in their cores. Once the hydrogen in the core is exhausted the star’s core contracts, becomes hotter and helium burning starts in the core. While the core contracts, the outer layers of the star expand and it becomes a supergiant. For the most massive stars strong stellar winds strip off the cooler outer layers, leading to the star being very large and very hot, a blue supergiant. Once helium is exhausted in the core, carbon is burned, and then heavier elements. Eventually the star ends with an iron core. Fusing iron into heavier elements does not generate energy so at this point fusion stops in the core. Once this core of iron is massive enough, it and the surrounding matter suddenly collapses to form a black hole and the outer layers are flung off in a supernova explosion.\n\nSlightly lower mass stars (between 8 and 25 solar masses, seen here second top) evolve in a similar way although they do not have strong enough winds to push their outer layers away and become blue supergiants, instead it evolves into a red supergiant. While such stars also collapse and create supernova explosions. The remnant of the star’s core is not massive enough to collapse into a black hole. Instead, its electrons and protons combine to form neutrons and it is supported by a quantum mechanical effect called neutron degeneracy pressure. This results in the remnant of the star being a tiny neutron star, several solar masses in mass but only a few kilometres across. \n\nFor stars similar in mass to the Sun (between 0.4 and 8 solar masses, seen here in the middle row), the star burns hydrogen in its core until the hydrogen in its core is exhausted. At this point a hydrogen burning shell forms around the core. Eventually the core will become hot enough to burn helium into carbon and oxygen. After this the star is left with a carbon and oxygen core surrounded by shells burning helium and hydrogen. These shells are unstable producing thermal pulsations that convulse the star. Eventually these pulsations become so extreme that the star’s outer layers are thrown off. This leaves the carbon and oxygen core as a white dwarf supported by electron degeneracy pressure. The outer layers of the star form what is known as a planetary nebula (which doesn’t actually have anything to do with planets despite the name).\n\nThe lowest mass stars (seen here in the second bottom row) are so low in mass that their evolutionary timescales are much longer than the age of the universe. This means that none have evolved beyond the main-sequence. Low mass stars are fully convective meaning material in the core is constantly being mixed with material above. This means that all the hydrogen in the star would eventually be burned in the core, but this will take trillions of years.<br/>\n<b>Credit:</b> Danielle Futselaar/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Star in a Box: Advanced astroEDU educational activity (links to astroEDU website) Description: Explore the life-cycle of stars with Star in a Box activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Interactive \n  \n  , Software Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Technology-based Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations Star in a Box: High School astroEDU educational activity (links to astroEDU website) Description: Explore the life-cycle of stars with Star in a Box activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Interactive \n  \n  , Software Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Technology-based Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Stellar Evolution&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/star-in-a-box-advanced/\"><img alt=\"Star in a Box: Advanced\" src=\"/media/astroedu/images/star-in-a-box-advanced_en_thumbnail_it5OGhz.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/star-in-a-box-advanced/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Star in a Box: Advanced</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore the life-cycle of stars with Star in a Box activity.\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Interactive \n  \n  , Software \n  \n  \n\n  <b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n\n\n\n\n  <b>Education Level:</b>\n\nMiddle School \n  \n\n\n\n  <b>Areas of Learning:</b>\n\nTechnology-based \n  \n\n\n\n\n  <b>Costs:</b>\nLow Cost \n\n\n\n\n\n\n\n  <b>Group Size:</b>\nGroup \n\n\n\n\n\n  <b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/star-in-a-box-high-school/\"><img alt=\"Star in a Box: High School\" src=\"/media/astroedu/images/star-in-a-box-high-school_en_28b1EZL_thumbnail_dCfL0ae.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/star-in-a-box-high-school/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Star in a Box: High School</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Explore the life-cycle of stars with Star in a Box activity.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Interactive \n  \n  , Software \n  \n<b>Age Ranges:</b>\n\n10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n<b>Areas of Learning:</b>\n\nTechnology-based \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nCommunicating information \n  \n, Constructing explanations \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Stellar Evolution&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Звезда в коробке: Продвинутый уровень Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте жизненный цикл звёзд с помощью мероприятия «Звезда в коробке». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Интерактивное \n  \n  , Программное обеспечение Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: На основе технологий Стоимость: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений Звезда в коробке: Старшая школа Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте жизненный цикл звёзд с помощью мероприятия «Звезда в коробке». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Интерактивное \n  \n  , Программное обеспечение Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: На основе технологий Стоимость: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений Просмотреть все задания по этому термину"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Stellar Evolution",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Stellar Evolution",
+          "body": "Stellar evolution describes the aging of stars and how they change over their life cycle. Unlike in evolutionary biology, stellar evolution does not refer to changes in traits between different generations of stars. Stars spend most of their life on the main sequence stage of stellar evolution, fusing hydrogen into helium in their cores and releasing energy. As a star ages and starts to run out of hydrogen in its core, the core will contract and may become hot enough to start helium fusion. Depending on the mass of the star, this can lead to the star evolving into a giant or supergiant. In some giants and supergiants, fusion produces heavier and heavier elements. Stars with initial masses between a half and eight times the mass of our Sun will end up with cores of carbon, oxygen, and/or neon, while hydrogen and helium fusion continues in shells around the core, providing them with a layered onion-like structure. They will eventually lose their outer layers, which go on to form a planetary nebula, leaving only the core as a small, bright white dwarf. Stars weighing more than eight solar masses continue fusing heavier elements until the nuclei in their core have fused to iron. Further fusion then can liberate no additional energy. This triggers a supernova explosion, which leaves behind either a very compact neutron star or, for very massive stars, a black hole. Both planetary nebulae and supernova explosions eject matter from stars into the interstellar medium. At certain other phases of their evolution, many stars also eject mass by stellar winds, extreme pulsations, or explosions. The ejected matter has been enriched in heavy elements as a result of the nuclear fusion and, in the case of an explosion, nuclear reactions during the explosion itself. This enriched material may be incorporated into future generations of stars. The evolution of stars throughout all these phases can be altered by interaction with a companion in a multiple star system."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Star in a Box: Advanced astroEDU educational activity (links to astroEDU website) Description: Explore the life-cycle of stars with Star in a Box activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Interactive \n  \n  , Software Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Technology-based Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations Star in a Box: High School astroEDU educational activity (links to astroEDU website) Description: Explore the life-cycle of stars with Star in a Box activity. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Interactive \n  \n  , Software Age Ranges: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Education Level: Middle School Areas of Learning: Technology-based Costs: Low Cost Group Size: Group Skills: Communicating information \n  \n, Constructing explanations Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Звездная эволюция",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звёздная эволюция",
+          "body": "Звёздная эволюция описывает старение звёзд и то, как они изменяются в течение своего жизненного цикла. В отличие от эволюционной биологии, звёздная эволюция не относится к изменениям признаков между разными поколениями звёзд. Большую часть своей жизни звёзды проводят на стадии главной последовательности звёздной эволюции, синтезируя водород в гелий в своих ядрах и выделяя энергию. По мере старения звезды и начала исчерпания водорода в её ядре ядро сжимается и может стать достаточно горячим, чтобы начался синтез гелия. В зависимости от массы звезды это может привести к превращению звезды в гиганта или сверхгиганта. В некоторых гигантах и сверхгигантах синтез производит всё более тяжёлые элементы. Звёзды с начальными массами от половины до восьми масс нашего Солнца в конечном итоге будут иметь ядра из углерода, кислорода и/или неона, в то время как синтез водорода и гелия продолжается в оболочках вокруг ядра, придавая им слоистую структуру, подобную луковице. В конце концов они потеряют свои внешние слои, которые образуют планетарную туманность, оставив только ядро в виде небольшого яркого белого карлика. Звёзды массой более восьми солнечных масс продолжают синтезировать более тяжёлые элементы, пока ядра в их центре не превратятся в железо. Дальнейший синтез уже не может выделить дополнительную энергию. Это вызывает взрыв сверхновой, после которого остаётся либо очень компактная нейтронная звезда, либо, для очень массивных звёзд, чёрная дыра. Как планетарные туманности, так и взрывы сверхновых выбрасывают вещество звёзд в межзвёздную среду. На некоторых других фазах своей эволюции многие звёзды также выбрасывают массу посредством звёздных ветров, экстремальных пульсаций или взрывов. Выброшенное вещество обогащено тяжёлыми элементами в результате термоядерного синтеза и, в случае взрыва, ядерных реакций во время самого взрыва. Этот обогащённый материал может быть включён в будущие поколения звёзд. Эволюция звёзд на всех этих фазах может изменяться под влиянием взаимодействия с компаньоном в кратной звёздной системе."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Звезда в коробке: Продвинутый уровень Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте жизненный цикл звёзд с помощью мероприятия «Звезда в коробке». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Интерактивное \n  \n  , Программное обеспечение Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: На основе технологий Стоимость: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений Звезда в коробке: Старшая школа Образовательное мероприятие astroEDU (ссылки на сайт astroEDU) Описание: Исследуйте жизненный цикл звёзд с помощью мероприятия «Звезда в коробке». Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки Теги: Практическое занятие \n  \n  , Интерактивное \n  \n  , Программное обеспечение Возрастные диапазоны: 10-12 \n  \n, 12-14 \n  \n, 14-16 \n  \n, 16-19 Уровень образования: Средняя школа Области обучения: На основе технологий Стоимость: Низкая стоимость Размер группы: Группа Навыки: Передача информации \n  \n, Построение объяснений Просмотреть все задания по этому термину"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:iq40Hc92ni31",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hr_diagram_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/iq40Hc92ni31/",
+      "original_path": "data/media/original/diagram_iq40Hc92ni31.png",
+      "ru_path": "data/media/ru/diagram_iq40Hc92ni31.png",
+      "sha256": "031aed503f490c077502cc7087d8513da6a8f909cb63d2e84ab377b6111d2345",
+      "size": 66045,
+      "title_en": "Hertzsprung-Russell diagram",
+      "title_ru": "Диаграмма Герцшпрунга — Рассела",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the temperature and luminosity of different stars. The size of each point represents the star’s radius and its colour is the colour the human eye would see. The stars range in colour from a washed-out blue to a washed-out reddish-orange. No star has a pure colour like red, green or blue as stars’ spectra include light from lots of different colours. However the reddest stars are commonly referred to as red and the bluest stars as blue. The sample of stars used to make this diagram was chosen to show a wide range of stars of different types so the relative number of each type of star is not representative of how commonly each type is found.\r\n \r\nFrom the top left to bottom right there is a long line of stars burning hydrogen in their cores. This is called the main sequence. On this line, one sees the stars Mintaka, Achernar, Sirius A, the Sun and Proxima Centauri. The objects around Proxima Centauri at the lower right end of the main sequence are known as red dwarfs. To the lower right of the red dwarfs are Teide 1 and Kelu-1 A. These two objects are brown dwarfs, objects too low in mass to have cores hot enough to fuse hydrogen for a sustained period of time. As they do not burn hydrogen, brown dwarfs are not considered main sequence stars. The name brown dwarf is unrelated to their colour.\r\n \r\nAbove the main sequence, we find subgiants, giants and supergiants. These are stars that have finished burning hydrogen in their core and have evolved into larger objects. A star’s brightness depends on its temperature and size so giant stars are brighter than stars with a smaller radius but the same temperature. In time these objects will move towards the end of their lives and undergo either a planetary nebula phase or become supernovae. Stars which end their lives with a planetary nebula phase become a type of stellar remnant called a white dwarf. Such objects are much smaller than stars of the same temperature and thus are fainter and are found significantly below the main sequence. Stars which end their lives as supernovae become either black holes or neutron stars. These are not shown on this plot.",
+      "caption_ru": "На этой диаграмме показаны температура и светимость различных звёзд. Размер каждой точки соответствует радиусу звезды, а её цвет — это цвет, который увидел бы человеческий глаз. Цвета звёзд варьируются от бледно-голубого до бледно-красновато-оранжевого. Ни одна звезда не имеет чистого цвета, такого как красный, зелёный или синий, поскольку спектры звёзд включают свет множества разных цветов. Однако самые красные звёзды обычно называют красными, а самые голубые — синими. Выборка звёзд, использованная для построения этой диаграммы, была подобрана так, чтобы показать широкий диапазон звёзд разных типов, поэтому относительное количество каждого типа звёзд не отражает того, насколько часто встречается каждый тип.\r\n \r\nОт верхнего левого угла к нижнему правому идёт длинная линия звёзд, сжигающих водород в своих ядрах. Это называется главной последовательностью. На этой линии видны звёзды Минтака, Ахернар, Сириус A, Солнце и Проксима Центавра. Объекты вокруг Проксимы Центавра на нижнем правом конце главной последовательности известны как красные карлики. Ниже и правее красных карликов находятся Тейде 1 и Келу-1 A. Эти два объекта — коричневые карлики, объекты со слишком малой массой, чтобы их ядра были достаточно горячими для длительного синтеза водорода. Поскольку они не сжигают водород, коричневые карлики не считаются звёздами главной последовательности. Название «коричневый карлик» не связано с их цветом.\r\n \r\nНад главной последовательностью мы находим субгиганты, гиганты и сверхгиганты. Это звёзды, которые завершили сжигание водорода в своём ядре и превратились в более крупные объекты. Яркость звезды зависит от её температуры и размера, поэтому звёзды-гиганты ярче звёзд с меньшим радиусом, но той же температурой. Со временем эти объекты приблизятся к концу своей жизни и пройдут либо фазу планетарной туманности, либо станут сверхновыми. Звёзды, завершающие жизнь фазой планетарной туманности, становятся типом звёздного остатка, называемым белым карликом. Такие объекты гораздо меньше звёзд той же температуры и, следовательно, слабее, и находятся значительно ниже главной последовательности. Звёзды, завершающие жизнь как сверхновые, становятся либо чёрными дырами, либо нейтронными звёздами. Они не показаны на этом графике.",
+      "alt_en": "A line of stars goes from cool faint stars to hot bright stars. Some stars lie above or below this line",
+      "alt_ru": "Линия звёзд идёт от холодных слабых звёзд к горячим ярким звёздам. Некоторые звёзды лежат выше или ниже этой линии",
+      "credit": "IAU OAE/Niall Deacon",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        46,
+        59,
+        130,
+        143,
+        180,
+        186,
+        334,
+        347,
+        386,
+        440,
+        481,
+        503
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "968a1f2e187f12de7451aef8a3b18cf42dbb0a047cac3b2eaab106a35408146d"
+    },
+    {
+      "id": "diagram:nE461I80fc87",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Stellar_Evolution_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/nE461I80fc87/",
+      "original_path": "data/media/original/diagram_nE461I80fc87.png",
+      "ru_path": "data/media/ru/diagram_nE461I80fc87.png",
+      "sha256": "764bb237a9022d9195fc75f068b2d4e9c9a0370c547a6ead2613f22b7b39a4bf",
+      "size": 987571,
+      "title_en": "Stellar Evolution",
+      "title_ru": "Звездная эволюция",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "This diagram shows the life cycle of stars of different masses. The mass of the different types of star increases from bottom to top with time going from left to right.\r\n\r\nThe life cycle of a star depends on its mass, with lower mass stars have longer lifetimes. All stars form from clouds of gas that collapse under their own gravity. As the star collapses, its core becomes hotter and denser. If the star has a mass greater than 0.08 solar masses (0.08 times the mass of the Sun), the pressure of the star’s mass pushing down on its core creates a high enough core temperature for hydrogen fusion to ignite. This burns hydrogen into helium in the star’s core, providing a heat source to power the star and to stop its core from collapsing further. If the collapsing object has a mass below 0.08 solar masses then it does not ignite hydrogen fusion in its core. It continues to cool and slowly contract. Such substellar objects are known as brown dwarfs, shown here in the lowest row.\r\n\r\nAfter stars have formed, they burn hydrogen in their cores and begin their so-called main sequence phase. The most massive stars (>25 solar masses, shown here at the top) have very high core temperatures and thus burn through their hydrogen fuel more quickly. This means they may only spend a few million years on the main sequence burning hydrogen in their cores. Once the hydrogen in the core is exhausted the star’s core contracts, becomes hotter and helium burning starts in the core. While the core contracts, the outer layers of the star expand and it becomes a supergiant. For the most massive stars strong stellar winds strip off the cooler outer layers, leading to the star being very large and very hot, a blue supergiant. Once helium is exhausted in the core, carbon is burned, and then heavier elements. Eventually the star ends with an iron core. Fusing iron into heavier elements does not generate energy so at this point fusion stops in the core. Once this core of iron is massive enough, it and the surrounding matter suddenly collapses to form a black hole and the outer layers are flung off in a supernova explosion.\r\n\r\nSlightly lower mass stars (between 8 and 25 solar masses, seen here second top) evolve in a similar way although they do not have strong enough winds to push their outer layers away and become blue supergiants, instead it evolves into a red supergiant. While such stars also collapse and create supernova explosions. The remnant of the star’s core is not massive enough to collapse into a black hole. Instead, its electrons and protons combine to form neutrons and it is supported by a quantum mechanical effect called neutron degeneracy pressure. This results in the remnant of the star being a tiny neutron star, several solar masses in mass but only a few kilometres across. \r\n\r\nFor stars similar in mass to the Sun (between 0.4 and 8 solar masses, seen here in the middle row), the star burns hydrogen in its core until the hydrogen in its core is exhausted. At this point a hydrogen burning shell forms around the core. Eventually the core will become hot enough to burn helium into carbon and oxygen. After this the star is left with a carbon and oxygen core surrounded by shells burning helium and hydrogen. These shells are unstable producing thermal pulsations that convulse the star. Eventually these pulsations become so extreme that the star’s outer layers are thrown off. This leaves the carbon and oxygen core as a white dwarf supported by electron degeneracy pressure. The outer layers of the star form what is known as a planetary nebula (which doesn’t actually have anything to do with planets despite the name).\r\n\r\nThe lowest mass stars (seen here in the second bottom row) are so low in mass that their evolutionary timescales are much longer than the age of the universe. This means that none have evolved beyond the main-sequence. Low mass stars are fully convective meaning material in the core is constantly being mixed with material above. This means that all the hydrogen in the star would eventually be burned in the core, but this will take trillions of years.",
+      "caption_ru": "Эта диаграмма показывает жизненный цикл звезд различной массы. Масса различных типов звезд увеличивается снизу вверх, а время идет слева направо.\r\n\r\nЖизненный цикл звезды зависит от ее массы, причем звезды меньшей массы имеют более длительные сроки жизни. Все звезды формируются из облаков газа, которые коллапсируют под действием собственной гравитации. По мере коллапса звезды ее ядро становится горячее и плотнее. Если масса звезды превышает 0,08 солнечных масс (0,08 массы Солнца), давление массы звезды, давящей на ее ядро, создает достаточно высокую температуру ядра для запуска термоядерного синтеза водорода. Это сжигает водород в гелий в ядре звезды, обеспечивая источник тепла для питания звезды и предотвращения дальнейшего коллапса ее ядра. Если коллапсирующий объект имеет массу ниже 0,08 солнечных масс, то термоядерный синтез водорода в его ядре не запускается. Он продолжает остывать и медленно сжиматься. Такие субзвездные объекты известны как коричневые карлики, показанные здесь в нижнем ряду.\r\n\r\nПосле формирования звезды сжигают водород в своих ядрах и начинают так называемую фазу главной последовательности. Самые массивные звезды (>25 солнечных масс, показанные здесь вверху) имеют очень высокие температуры ядра и, таким образом, быстрее сжигают свое водородное топливо. Это означает, что они могут провести на главной последовательности, сжигая водород в своих ядрах, всего несколько миллионов лет. Как только водород в ядре исчерпан, ядро звезды сжимается, становится горячее, и в ядре начинается горение гелия. Пока ядро сжимается, внешние слои звезды расширяются, и она становится сверхгигантом. У самых массивных звезд сильные звездные ветры срывают более холодные внешние слои, что приводит к тому, что звезда становится очень большой и очень горячей — голубым сверхгигантом. Как только гелий в ядре исчерпан, сжигается углерод, а затем более тяжелые элементы. В конечном итоге звезда заканчивает с железным ядром. Синтез железа в более тяжелые элементы не генерирует энергию, поэтому на этом этапе синтез в ядре прекращается. Как только это железное ядро становится достаточно массивным, оно и окружающее вещество внезапно коллапсируют, образуя черную дыру, а внешние слои отбрасываются в взрыве сверхновой.\r\n\r\nЗвезды немного меньшей массы (от 8 до 25 солнечных масс, показанные здесь вторыми сверху) эволюционируют аналогичным образом, хотя у них недостаточно сильные ветры, чтобы оттолкнуть внешние слои и стать голубыми сверхгигантами; вместо этого они эволюционируют в красные сверхгиганты. Такие звезды также коллапсируют и создают взрывы сверхновых. Остаток ядра звезды недостаточно массивен, чтобы коллапсировать в черную дыру. Вместо этого его электроны и протоны объединяются, образуя нейтроны, и он поддерживается квантово-механическим эффектом, называемым давлением вырожденного нейтронного газа. В результате остаток звезды представляет собой крошечную нейтронную звезду, массой в несколько солнечных масс, но диаметром всего в несколько километров.\r\n\r\nДля звезд, сходных по массе с Солнцем (от 0,4 до 8 солнечных масс, показанные здесь в среднем ряду), звезда сжигает водород в своем ядре до тех пор, пока водород в ядре не исчерпается. В этот момент вокруг ядра образуется оболочка, сжигающая водород. В конечном итоге ядро станет достаточно горячим, чтобы сжигать гелий в углерод и кислород. После этого у звезды остается углеродно-кислородное ядро, окруженное оболочками, сжигающими гелий и водород. Эти оболочки нестабильны, создавая тепловые пульсации, которые сотрясают звезду. В конечном итоге эти пульсации становятся настолько экстремальными, что внешние слои звезды отбрасываются. Это оставляет углеродно-кислородное ядро в виде белого карлика, поддерживаемого давлением вырожденного электронного газа. Внешние слои звезды образуют так называемую планетарную туманность (которая на самом деле не имеет ничего общего с планетами, несмотря на название).\r\n\r\nСамые маломассивные звезды (показанные здесь во втором снизу ряду) имеют настолько малую массу, что их эволюционные временные масштабы намного превышают возраст Вселенной. Это означает, что ни одна из них не эволюционировала за пределы главной последовательности. Маломассивные звезды полностью конвективны, что означает, что материал в ядре постоянно перемешивается с материалом выше. Это означает, что весь водород в звезде в конечном итоге будет сожжен в ядре, но это займет триллионы лет.",
+      "alt_en": "A diagram showing the evolutionary stages of five mass ranges of stars.",
+      "alt_ru": "Диаграмма, показывающая эволюционные стадии для пяти диапазонов масс звёзд.",
+      "credit": "Danielle Futselaar/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        43,
+        150,
+        214,
+        333,
+        334,
+        337,
+        347,
+        349,
+        386
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "463cb8467ab46d6c00ca3937eb0482fb48dcf7208f3f7880fb63aadbd0bac430"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

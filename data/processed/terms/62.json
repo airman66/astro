@@ -1,0 +1,519 @@
+{
+  "id": "term:62",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 62,
+    "url": "https://astro4edu.org/resources/glossary/term/62/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=62",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:24.219154+00:00",
+    "sha256": "7466446d2a8323096977843d9b158588396bb339015caf9afecbefa97247f115"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Chemistry",
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      11,
+      12,
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Химия",
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      61,
+      63,
+      64,
+      513
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Comet",
+      "body": "A comet is a small object in the Solar System consisting of a nucleus made up of a mixture of different types of ice and rocky, dusty material – a dirty snowball. Comet nuclei can range in size from a few hundred meters to tens of kilometers across. Most comets have highly elliptical orbits.  When the comet approaches the Sun, some of the surface ice evaporates and is blown back by the solar wind to form the distinctive coma and tail features. We see comets due to the sunlight reflecting off the coma or tail or (for comets far from the Sun) the nucleus. Comets are classified as either \"periodic\" or \"short-period\" if their passage has been observed more than once, or their period is known to be less than 200 years, and \"non-periodic\" otherwise.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Cometary Coma",
+          "url": "https://www.astro4edu.org/resources/glossary/term/61/",
+          "text_ru": "Кометная кома"
+        },
+        {
+          "text": "Comet Nucleus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/63/",
+          "text_ru": "Ядро кометы"
+        },
+        {
+          "text": "Cometary Tail",
+          "url": "https://www.astro4edu.org/resources/glossary/term/64/",
+          "text_ru": "Хвост кометы"
+        },
+        {
+          "text": "Small Solar System Body",
+          "url": "https://www.astro4edu.org/resources/glossary/term/513/",
+          "text_ru": "Малое тело Солнечной системы"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Comet</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A comet is a small object in the Solar System consisting of a nucleus made up of a mixture of different types of ice and rocky, dusty material – a dirty snowball. Comet nuclei can range in size from a few hundred meters to tens of kilometers across. Most comets have highly elliptical orbits.  When the comet approaches the Sun, some of the surface ice evaporates and is blown back by the solar wind to form the distinctive coma and tail features. We see comets due to the sunlight reflecting off the coma or tail or (for comets far from the Sun) the nucleus. Comets are classified as either \"periodic\" or \"short-period\" if their passage has been observed more than once, or their period is known to be less than 200 years, and \"non-periodic\" otherwise.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/61/\">Cometary Coma</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/63/\">Comet Nucleus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/64/\">Cometary Tail</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/513/\">Small Solar System Body</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Комета",
+      "body_ru": "Комета — это небольшой объект Солнечной системы, состоящий из ядра, которое представляет собой смесь различных типов льда и каменистого, пыльного материала — «грязный снежок». Ядра комет могут иметь размеры от нескольких сотен метров до десятков километров в поперечнике. Большинство комет имеют сильно вытянутые эллиптические орбиты. Когда комета приближается к Солнцу, часть поверхностного льда испаряется и выдувается солнечным ветром, образуя характерные кому и хвост. Мы видим кометы благодаря отражению солнечного света от комы или хвоста или (для комет вдали от Солнца) от ядра. Кометы классифицируются как «периодические» или «короткопериодические», если их прохождение наблюдалось более одного раза или известно, что их период меньше 200 лет, и «непериодические» в противном случае."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "彗星 (external link)",
+          "url": "https://astro-dic.jp/comet/",
+          "text_ru": "Комета (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/62/\">المذنب </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/62/\">Komet </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/62/\">Cometa </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/62/\">Comète </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/62/\">Cometa </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/comet/\">彗星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/62/\">Cometa </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/62/\">彗星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/62/\">彗星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/do28IS84w910/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/zn80fC3sl84/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/qu44Fb58Ue39/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Yo61AM97gQ54/"
+        },
+        {
+          "text": "CC-BY-SA-3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "text_ru": "CC-BY-SA-3.0"
+        },
+        {
+          "text": "Creative Commons Attribution-ShareAlike 3.0 Unported icons",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-ShareAlike 3.0 Unported"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/O360wl148g93/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2015/02/Comet_on_31_January_2015_NavCam",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-SA-3.0-IGO",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+          "text_ru": "CC-BY-SA-3.0-IGO"
+        },
+        {
+          "text": "Creative Commons Attribution-ShareAlike 3.0 IGO icons",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+          "text_ru": "Значки Creative Commons Attribution-ShareAlike 3.0 IGO"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Comet&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:do28IS84w910",
+        "media:zn80fC3sl84",
+        "media:qu44Fb58Ue39",
+        "media:Yo61AM97gQ54",
+        "media:O360wl148g93"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/do28IS84w910/\"><img alt=\"Multiple image of a comet, its tail pointing away from the horizon, form an arc in the night sky over an urban area\" src=\"/media/multimedia/thumbnails/Comets_Neowises_metamorphosis_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Neowise's metamorphosis, by Tomáš Slovinský and Petr Horálek, Slovakia</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the 2021 IAU OAE Astrophotography Contest, category Comets.\n\nThis image uses the chronophotography technique to capture the evolution of the comet C/2020 F3 (Neowise) over time, as it became visible in the northern skies in July 2020. Orbits of comets are extremely elliptical, which means that during part of their orbit they get close to the Sun. As a comet approaches the Sun, it gets heated, releases gas and dust creating an envelope or coma around the nucleus. The solar wind and photons (particles of electromagnetic radiation) interact with the coma producing the cometary tail, which can be seen clearly in this image. The tail of a comet always points away from the Sun, and extends as much as tens of millions of kilometres. This tail has two parts: the relatively straight bluish gas (ion or plasma) tail, which is made up of charged particles interacting with the magnetic fields of the solar wind; and the whitish dust tail compose of very small dust particles that are pushed by the radiation pressure from the Sun into a curve due to their slower speeds. Two regions in the Solar System are often associated with being “storehouses” of comets: the Kuiper Belt and the Oort Cloud. Comets with periods up to about two hundred years come from the Kuiper belt, a reservoir of cometary nuclei material with a disk-like shape located beyond Neptune. Longer period comets come from the Oort cloud, another huge reservoir of icy objects, with a spherical shape surrounding the Solar System. The outer limit of the Oort Cloud is not known as yet, but it could be as much as 10 thousand times the Sun-Earth distance, or even more. Due to gravitational disturbances, some of these cometary nuclei might be ejected towards the inner regions of the Solar System, sometimes approaching the Earth, offering some of the most spectacular views of a celestial body. The image also shows some prominent constellations and asterisms like the Big and Little Dippers, and also the North (Pole) Star – Polaris.<br/>\n<b>Credit:</b> Tomáš Slovinský and Petr Horálek/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/zn80fC3sl84/\"><img alt=\"A comet with two tails, one is yellowish and gradually spreading away from the nucleus, the other is blue and compact\" src=\"/media/multimedia/thumbnails/comet-c2020f3-neowise-with-separate-dust-and-ion-gas-tails-and-a-g_YedaZ42.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Comet C/2020F3 (Neowise) with separate dust and ion gas tails and a green glowing coma, by Dietmar Gutermuth, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the 2021 IAU OAE Astrophotography Contest, category Comets.\n\nComets have a very interesting structure comprising of four main parts: the nucleus, composed of rock, dust and frozen gases, typically spanning a few kilometres, although bigger ones have been observed; a small atmosphere of gas surrounding the nucleus (only present when the comet approaches its closest point to the Sun), called coma; and the two distinctive cometary tails (there is at times third tail). The green colour of the coma is due to carbon and nitrogen present in the coma reacting with the Sun’s ultraviolet radiation. The tail that we are mostly used to observing – dust tail and is composed of micron sized dust particles, the second tail composed of charged particles – ion or gas tail. The tails are released only when the comet approaches the Sun at a distance where the heat and radiation emanating from our star is intense enough to vaporize the frozen gases. The dust tail is curved, while the gas tail is straight and always points away from the Sun as this is carried by the solar wind - flow of charged particles emitted by the Sun. As comets are formed by leftover material, they carry with them important information about the early stages of the Solar System’s formation. This beautiful image shows the comet C/2020 F3 (Neowise), as seen from Germany in July 2020, with three of the four structures clearly visible – coma, gas, and dust tail.<br/>\n<b>Credit:</b> Dietmar Gutermuth/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/qu44Fb58Ue39/\"><img alt=\"A woman in silhouette appears to greet a comet that appears behind bands of light cloud\" src=\"/media/multimedia/thumbnails/hello-comet-shall-we-dance-by-robert-barsa-slovakia_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hello Comet, shall we dance?, by Robert Barsa, Slovakia</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Third place in the 2021 IAU OAE Astrophotography Contest, category Comets.\n\nThis beautiful and poetic image taken from Slovakia in July 2020 captures the comet C/2020 F3 (Neowise). The direction of the tails of the comet provides a clue as to the position of the Sun. In the past, the appearance of a comet in the skies could be accompanied by apprehension and even fear from those who did not know what these objects really are. Through careful observations and the applications of knowledge from physics, chemistry and geology, we now understand that comets are objects left over from the earliest days when the Solar System formed. The most distinctive features of a comet are the bluish ion (gas) tail, and whitish dust tail, which can extend for tens of millions of kilometres. These distinctive features, easily observable with the unaided eye together with an understanding of the science, are no longer cause for fear, rather they help us understand the history of our Solar System, and bring awe, joy and contemplation, as portrayed in this image.<br/>\n<b>Credit:</b> Robert Barsa/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Yo61AM97gQ54/\"><img alt=\"Image of a typical comet with a wide white tail and a second blue tail tilted 30 degrees counter-clockwise to the white tail.\" src=\"/media/multimedia/thumbnails/Comet_Hale-Bopp_1995O1_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Comet Hale-Bopp</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Image of comet C/1995 O1 (Hale-Bopp), taken on 4 April 1997, with an exposure time of 10 minutes. The field shown is about 6.5°x6.5°. Two tails extend from the bright coma: one white-yellowish dust tail and a bluish gas tail, always pointing away from the Sun.<br/>\n<b>Credit:</b> E. Kolmhofer, H. Raab; Johannes-Kepler-Observatory, Linz, Austria\n\t  <a href=\"http://www.sternwarte.at/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" rel=\"license\">CC-BY-SA-3.0</a> <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-sa\"></i><span class=\"sr-only\">Creative Commons Attribution-ShareAlike 3.0 Unported icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/O360wl148g93/\"><img alt=\"This comet nucleus looks like two large, bumpy lumps joined together. A small jet of material is being blown off the nucleus\" src=\"/media/multimedia/thumbnails/Comet_67P_on_19_September_2014_NavCam_mosaic_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Comet 67P/Churyumov-Gerasimenko</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Comet 67P/Churyumov–Gerasimenko's nucleus is a \"dirty snowball\" made of a mixture of frozen materials and dust. It is shaped like two large lobes: one 4.1 km × 3.3 km × 1.8 km, the other 2.6 km × 2.3 km × 1.8 km. These lobes are connected by a small bridge. When a cometary nucleus such as this nears the Sun its frozen, icy material is heated, turning into gas. This, combined with the embedded dust, provide the material for the comet's characteristic coma and tail.<br/>\n<b>Credit:</b> ESA/Rosetta/NAVCAM\n\t  <a href=\"https://www.esa.int/ESA_Multimedia/Images/2015/02/Comet_on_31_January_2015_NavCam\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en\" rel=\"license\">CC-BY-SA-3.0-IGO</a> <a href=\"https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><i class=\"fab fa-creative-commons-sa\"></i><span class=\"sr-only\">Creative Commons Attribution-ShareAlike 3.0 IGO icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Comet&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Meteoroids, Meteors and Meteorites astroEDU educational activity (links to astroEDU website) Description: Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geology Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Interactive Lecture Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence Measuring the average speed of a comet astroEDU educational activity (links to astroEDU website) Description: Using telescope images of comet C/2019 Y4 we calculate its average speed and understand what a physical quantity is License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Software \n  \n  , average speed Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Secondary Costs: Free Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models \n  \n, Engaging in argument from evidence",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/meteoroids-meteors-and-meteorites/\"><img alt=\"Meteoroids, Meteors and Meteorites\" src=\"/media/astroedu/images/meteoroids-meteors-and-meteorites_en_thumbnail_4ViJtQ4.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/meteoroids-meteors-and-meteorites/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Meteoroids, Meteors and Meteorites</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Geology \n  \n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nInteractive Lecture \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/measuring-average-speed-of-a-comet-/\"><img alt=\"Measuring the average speed of a comet\" src=\"/media/astroedu/images/measuring-the-average-speed-of-a-comet_en_thumbnail_SSchztL.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/measuring-average-speed-of-a-comet-/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Measuring the average speed of a comet</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Using telescope images of comet C/2019 Y4 we calculate its average speed and understand what a physical quantity is\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Software \n  \n  , average speed \n  \n<b>Age Ranges:</b>\n\n12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nSecondary \n  \n<b>Costs:</b>\nFree \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Developing and using models \n  \n, Engaging in argument from evidence \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Метеороиды, метеоры и метеориты — образовательная деятельность astroEDU (ссылки на сайт astroEDU). Описание: Раскрытие тайны «падающих звёзд»: метеоры, метеориты и метеороиды. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки. Теги: Геология. Возрастные диапазоны: 6-8, 8-10, 10-12, 12-14. Уровень образования: Средняя школа, Начальная школа. Области обучения: Интерактивная лекция. Стоимость: Низкая. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Участие в аргументации на основе доказательств. Измерение средней скорости кометы — образовательная деятельность astroEDU (ссылки на сайт astroEDU). Описание: Используя телескопические изображения кометы C/2019 Y4, мы вычисляем её среднюю скорость и понимаем, что такое физическая величина. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки. Теги: Программное обеспечение, средняя скорость. Возрастные диапазоны: 12-14, 14-16, 16-19, 19+. Уровень образования: Средняя школа. Стоимость: Бесплатно. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Разработка и использование моделей, Участие в аргументации на основе доказательств."
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Comet",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Comet",
+          "body": "A comet is a small object in the Solar System consisting of a nucleus made up of a mixture of different types of ice and rocky, dusty material – a dirty snowball. Comet nuclei can range in size from a few hundred meters to tens of kilometers across. Most comets have highly elliptical orbits.  When the comet approaches the Sun, some of the surface ice evaporates and is blown back by the solar wind to form the distinctive coma and tail features. We see comets due to the sunlight reflecting off the coma or tail or (for comets far from the Sun) the nucleus. Comets are classified as either \"periodic\" or \"short-period\" if their passage has been observed more than once, or their period is known to be less than 200 years, and \"non-periodic\" otherwise."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Meteoroids, Meteors and Meteorites astroEDU educational activity (links to astroEDU website) Description: Unveiling the mystery of \"shooting stars\": meteors, meteorites and meteroids License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Geology Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Interactive Lecture Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Engaging in argument from evidence Measuring the average speed of a comet astroEDU educational activity (links to astroEDU website) Description: Using telescope images of comet C/2019 Y4 we calculate its average speed and understand what a physical quantity is License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Software \n  \n  , average speed Age Ranges: 12-14 \n  \n, 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Secondary Costs: Free Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models \n  \n, Engaging in argument from evidence"
+        }
+      }
+    },
+    "ru": {
+      "title": "Комета",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Комета",
+          "body": "Комета — это небольшой объект Солнечной системы, состоящий из ядра, которое представляет собой смесь различных типов льда и каменистого, пыльного материала — «грязный снежок». Ядра комет могут иметь размеры от нескольких сотен метров до десятков километров в поперечнике. Большинство комет имеют сильно вытянутые эллиптические орбиты. Когда комета приближается к Солнцу, часть поверхностного льда испаряется и выдувается солнечным ветром, образуя характерные кому и хвост. Мы видим кометы благодаря отражению солнечного света от комы или хвоста или (для комет вдали от Солнца) от ядра. Кометы классифицируются как «периодические» или «короткопериодические», если их прохождение наблюдалось более одного раза или известно, что их период меньше 200 лет, и «непериодические» в противном случае."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Метеороиды, метеоры и метеориты — образовательная деятельность astroEDU (ссылки на сайт astroEDU). Описание: Раскрытие тайны «падающих звёзд»: метеоры, метеориты и метеороиды. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки. Теги: Геология. Возрастные диапазоны: 6-8, 8-10, 10-12, 12-14. Уровень образования: Средняя школа, Начальная школа. Области обучения: Интерактивная лекция. Стоимость: Низкая. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Передача информации, Участие в аргументации на основе доказательств. Измерение средней скорости кометы — образовательная деятельность astroEDU (ссылки на сайт astroEDU). Описание: Используя телескопические изображения кометы C/2019 Y4, мы вычисляем её среднюю скорость и понимаем, что такое физическая величина. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) значки. Теги: Программное обеспечение, средняя скорость. Возрастные диапазоны: 12-14, 14-16, 16-19, 19+. Уровень образования: Средняя школа. Стоимость: Бесплатно. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Разработка и использование моделей, Участие в аргументации на основе доказательств."
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:do28IS84w910",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5290117/files/First%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Comets%3A%20Neowise%E2%80%99s%20metamorphosis%2C%20by%20Tom%C3%A1%C5%A1%20Slovinsk%C3%BD%20and%20Petr%20Hor%C3%A1lek%2C%20Slovakia.jpg",
+      "record_url": "https://astro4edu.org/resources/media/do28IS84w910/",
+      "original_path": "data/media/original/media_do28IS84w910.jpg",
+      "ru_path": null,
+      "sha256": "982f924c69795e60bc4664b5aef3c119a15d316dfdc4b7655abb4c12d0d562cf",
+      "size": 19527605,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Neowise's metamorphosis, by Tomáš Slovinský and Petr Horálek, Slovakia",
+      "short_caption_ru": "Метаморфоза Neowise, авторы Томаш Словински и Петр Горалек, Словакия",
+      "caption_en": "First place in the 2021 IAU OAE Astrophotography Contest, category Comets.\r\n\r\nThis image uses the chronophotography technique to capture the evolution of the comet C/2020 F3 (Neowise) over time, as it became visible in the northern skies in July 2020. Orbits of comets are extremely elliptical, which means that during part of their orbit they get close to the Sun. As a comet approaches the Sun, it gets heated, releases gas and dust creating an envelope or coma around the nucleus. The solar wind and photons (particles of electromagnetic radiation) interact with the coma producing the cometary tail, which can be seen clearly in this image. The tail of a comet always points away from the Sun, and extends as much as tens of millions of kilometres. This tail has two parts: the relatively straight bluish gas (ion or plasma) tail, which is made up of charged particles interacting with the magnetic fields of the solar wind; and the whitish dust tail compose of very small dust particles that are pushed by the radiation pressure from the Sun into a curve due to their slower speeds. Two regions in the Solar System are often associated with being “storehouses” of comets: the Kuiper Belt and the Oort Cloud. Comets with periods up to about two hundred years come from the Kuiper belt, a reservoir of cometary nuclei material with a disk-like shape located beyond Neptune. Longer period comets come from the Oort cloud, another huge reservoir of icy objects, with a spherical shape surrounding the Solar System. The outer limit of the Oort Cloud is not known as yet, but it could be as much as 10 thousand times the Sun-Earth distance, or even more. Due to gravitational disturbances, some of these cometary nuclei might be ejected towards the inner regions of the Solar System, sometimes approaching the Earth, offering some of the most spectacular views of a celestial body. The image also shows some prominent constellations and asterisms like the Big and Little Dippers, and also the North (Pole) Star – Polaris.",
+      "caption_ru": "Первое место в астрофотографическом конкурсе IAU OAE 2021, категория «Кометы».\r\n\r\nЭто изображение использует технику хронофотографии, чтобы запечатлеть эволюцию кометы C/2020 F3 (Neowise) во времени, когда она стала видимой в северном небе в июле 2020. Орбиты комет чрезвычайно эллиптичны, что означает, что на части своей орбиты они приближаются к Солнцу. Приближаясь к Солнцу, комета нагревается, выделяет газ и пыль, создавая оболочку или кому вокруг ядра. Солнечный ветер и фотоны (частицы электромагнитного излучения) взаимодействуют с комой, создавая кометный хвост, который хорошо виден на этом изображении. Хвост кометы всегда направлен от Солнца и простирается на десятки миллионов километров. Этот хвост состоит из двух частей: относительно прямого голубоватого газового (ионного или плазменного) хвоста, который состоит из заряженных частиц, взаимодействующих с магнитными полями солнечного ветра; и беловатого пылевого хвоста, состоящего из очень мелких пылевых частиц, которые под давлением излучения Солнца из-за их более низких скоростей отклоняются в кривую. Две области в Солнечной системе часто ассоциируются с «хранилищами» комет: пояс Койпера и облако Оорта. Кометы с периодами до примерно двухсот лет происходят из пояса Койпера — резервуара материала кометных ядер дисковидной формы, расположенного за Нептуном. Долгопериодические кометы происходят из облака Оорта — другого огромного резервуара ледяных объектов сферической формы, окружающего Солнечную систему. Внешний предел облака Оорта пока неизвестен, но он может составлять до 10 тысяч раз больше расстояния Солнце-Земля или даже больше. Из-за гравитационных возмущений некоторые из этих кометных ядер могут быть выброшены в сторону внутренних областей Солнечной системы, иногда приближаясь к Земле и предлагая одни из самых захватывающих видов небесного тела. На изображении также показаны некоторые заметные созвездия и астеризмы, такие как Большой и Малый Ковши, а также Полярная звезда.",
+      "alt_en": "Multiple image of a comet, its tail pointing away from the horizon, form an arc in the night sky over an urban area",
+      "alt_ru": "Составное изображение кометы, её хвост, направленный от горизонта, образует дугу на ночном небе над городской территорией",
+      "credit": "Tomáš Slovinský and Petr Horálek/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        62
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:zn80fC3sl84",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5290341/files/Second%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Comets%3A%20Comet%20C2020F3%20%28Neowise%29%20with%20separate%20dust%20and%20ion%20gas%20tails%20and%20a%20green%20glowing%20coma%2C%20by%20Dietmar%20Gutermuth%2C%20Germany.jpg",
+      "record_url": "https://astro4edu.org/resources/media/zn80fC3sl84/",
+      "original_path": "data/media/original/media_zn80fC3sl84.jpg",
+      "ru_path": null,
+      "sha256": "314925b5a70d5ab86a13d313d20148e052635492fb8bb90bdecdc160ccf49779",
+      "size": 683774,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Comet C/2020F3 (Neowise) with separate dust and ion gas tails and a green glowing coma, by Dietmar Gutermuth, Germany",
+      "short_caption_ru": "Комета C/2020F3 (Neowise) с отдельными пылевым и ионным газовым хвостами и зеленой светящейся комой, автор Дитер Гутермут, Германия",
+      "caption_en": "Second place in the 2021 IAU OAE Astrophotography Contest, category Comets.\r\n\r\nComets have a very interesting structure comprising of four main parts: the nucleus, composed of rock, dust and frozen gases, typically spanning a few kilometres, although bigger ones have been observed; a small atmosphere of gas surrounding the nucleus (only present when the comet approaches its closest point to the Sun), called coma; and the two distinctive cometary tails (there is at times third tail). The green colour of the coma is due to carbon and nitrogen present in the coma reacting with the Sun’s ultraviolet radiation. The tail that we are mostly used to observing – dust tail and is composed of micron sized dust particles, the second tail composed of charged particles – ion or gas tail. The tails are released only when the comet approaches the Sun at a distance where the heat and radiation emanating from our star is intense enough to vaporize the frozen gases. The dust tail is curved, while the gas tail is straight and always points away from the Sun as this is carried by the solar wind - flow of charged particles emitted by the Sun. As comets are formed by leftover material, they carry with them important information about the early stages of the Solar System’s formation. This beautiful image shows the comet C/2020 F3 (Neowise), as seen from Germany in July 2020, with three of the four structures clearly visible – coma, gas, and dust tail.",
+      "caption_ru": "Второе место в 2021 конкурсе астрофотографии IAU OAE, категория «Кометы».\r\n\r\nКометы имеют очень интересную структуру, состоящую из четырех основных частей: ядро, состоящее из камня, пыли и замерзших газов, обычно размером в несколько километров, хотя наблюдались и более крупные; небольшая атмосфера из газа, окружающая ядро (присутствует только когда комета приближается к своей ближайшей точке к Солнцу), называемая комой; и два характерных кометных хвоста (иногда бывает и третий хвост). Зеленый цвет комы обусловлен углеродом и азотом, присутствующими в коме, реагирующими с ультрафиолетовым излучением Солнца. Хвост, который мы в основном привыкли наблюдать, — пылевой хвост, состоящий из пылевых частиц микронного размера, второй хвост состоит из заряженных частиц — ионный или газовый хвост. Хвосты высвобождаются только тогда, когда комета приближается к Солнцу на расстояние, где тепло и излучение, исходящие от нашей звезды, достаточно интенсивны, чтобы испарить замерзшие газы. Пылевой хвост изогнут, а газовый хвост прямой и всегда направлен от Солнца, так как он увлекается солнечным ветром — потоком заряженных частиц, испускаемых Солнцем. Поскольку кометы образованы из остаточного материала, они несут с собой важную информацию о ранних стадиях формирования Солнечной системы. Это красивое изображение показывает комету C/2020 F3 (Neowise), как видно из Германии в июле 2020, с тремя из четырех структур, ясно видимыми — кома, газовый и пылевой хвосты.",
+      "alt_en": "A comet with two tails, one is yellowish and gradually spreading away from the nucleus, the other is blue and compact",
+      "alt_ru": "Комета с двумя хвостами: один желтоватый, постепенно расширяющийся в сторону от ядра, другой — голубой и компактный.",
+      "credit": "Dietmar Gutermuth/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        61,
+        62,
+        64
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:qu44Fb58Ue39",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5290650/files/Third%20place%20in%20the%202021%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Comets%3AHello%20Comet%2C%20shall%20we%20dance%3F%2C%20by%20Robert%20Barsa%2C%20Slovakia.jpg",
+      "record_url": "https://astro4edu.org/resources/media/qu44Fb58Ue39/",
+      "original_path": "data/media/original/media_qu44Fb58Ue39.jpg",
+      "ru_path": null,
+      "sha256": "9396050c5ff22e000a6828204d9918a9cb7e41e524bc26215bc89e2806c2d4db",
+      "size": 2590157,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Hello Comet, shall we dance?, by Robert Barsa, Slovakia",
+      "short_caption_ru": "Привет, комета, потанцуем?, автор Роберт Барса, Словакия",
+      "caption_en": "Third place in the 2021 IAU OAE Astrophotography Contest, category Comets.\r\n\r\nThis beautiful and poetic image taken from Slovakia in July 2020 captures the comet C/2020 F3 (Neowise). The direction of the tails of the comet provides a clue as to the position of the Sun. In the past, the appearance of a comet in the skies could be accompanied by apprehension and even fear from those who did not know what these objects really are. Through careful observations and the applications of knowledge from physics, chemistry and geology, we now understand that comets are objects left over from the earliest days when the Solar System formed. The most distinctive features of a comet are the bluish ion (gas) tail, and whitish dust tail, which can extend for tens of millions of kilometres. These distinctive features, easily observable with the unaided eye together with an understanding of the science, are no longer cause for fear, rather they help us understand the history of our Solar System, and bring awe, joy and contemplation, as portrayed in this image.",
+      "caption_ru": "Третье место в астрофотографическом конкурсе IAU OAE 2021, категория «Кометы».\r\n\r\nЭто красивое и поэтичное изображение, сделанное в Словакии в июле 2020, запечатлевает комету C/2020 F3 (Neowise). Направление хвостов кометы даёт подсказку о положении Солнца. В прошлом появление кометы в небе могло сопровождаться тревогой и даже страхом у тех, кто не знал, что это за объекты на самом деле. Благодаря тщательным наблюдениям и применению знаний из физики, химии и геологии мы теперь понимаем, что кометы — это объекты, оставшиеся с самых ранних дней формирования Солнечной системы. Наиболее характерные особенности кометы — это голубоватый ионный (газовый) хвост и беловатый пылевой хвост, которые могут простираться на десятки миллионов километров. Эти отличительные черты, легко наблюдаемые невооружённым глазом вместе с пониманием науки, больше не являются причиной для страха, а скорее помогают нам понять историю нашей Солнечной системы и вызывают благоговение, радость и созерцание, как показано на этом изображении.",
+      "alt_en": "A woman in silhouette appears to greet a comet that appears behind bands of light cloud",
+      "alt_ru": "Силуэт женщины, которая словно приветствует комету, появившуюся за полосами светлых облаков",
+      "credit": "Robert Barsa/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        62,
+        64
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Yo61AM97gQ54",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Comet_Hale-Bopp_1995O1.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Yo61AM97gQ54/",
+      "original_path": "data/media/original/media_Yo61AM97gQ54.jpg",
+      "ru_path": null,
+      "sha256": "418da2b8b98ce9bb5a771d79b10f663c0a09d69731a782cab499638ca781287d",
+      "size": 882932,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Comet C/1995 O1 (Hale-Bopp)",
+      "short_caption_ru": "Комета C/1995 O1 (Хейл-Бопп)",
+      "caption_en": "Image of comet C/1995 O1 (Hale-Bopp), taken on 4 April 1997, with an exposure time of 10 minutes. The field shown is about 6.5°x6.5°. Two tails extend from the bright coma: one white-yellowish dust tail and a bluish gas tail, always pointing away from the Sun.",
+      "caption_ru": "Изображение кометы C/1995 O1 (Хейл-Бопп), полученное 4 апреля 1997 года с экспозицией 10 минут. Показанное поле составляет около 6.5°x6.5°. От яркой комы отходят два хвоста: беловато-желтоватый пылевой хвост и голубоватый газовый хвост, всегда направленные в сторону от Солнца.",
+      "alt_en": "Image of a typical comet with a wide white tail and a second blue tail tilted 30 degrees counter-clockwise to the white tail.",
+      "alt_ru": "Изображение типичной кометы с широким белым хвостом и вторым синим хвостом, наклонённым на 30 градусов против часовой стрелки к белому хвосту.",
+      "credit": "E. Kolmhofer, H. Raab; Johannes-Kepler-Observatory, Linz, Austria",
+      "credit_url": "http://www.sternwarte.at/",
+      "license": "CC-BY-SA-3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+      "term_numbers": [
+        62,
+        64
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:O360wl148g93",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg",
+      "record_url": "https://astro4edu.org/resources/media/O360wl148g93/",
+      "original_path": "data/media/original/media_O360wl148g93.jpg",
+      "ru_path": null,
+      "sha256": "67faa42c687ff634027d2c2c2be5e016ef2e40b55e7e158a74e52a5f3ec2ebbe",
+      "size": 4746651,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Comet 67P/Churyumov–Gerasimenko's imaged by ESA's Rosetta probe",
+      "short_caption_ru": "Комета 67P/Чурюмова–Герасименко, снятая аппаратом ESA «Розетта»",
+      "caption_en": "Comet 67P/Churyumov–Gerasimenko's nucleus is a \"dirty snowball\" made of a mixture of frozen materials and dust. It is shaped like two large lobes: one 4.1 km × 3.3 km × 1.8 km, the other 2.6 km × 2.3 km × 1.8 km. These lobes are connected by a small bridge. When a cometary nucleus such as this nears the Sun its frozen, icy material is heated, turning into gas. This, combined with the embedded dust, provide the material for the comet's characteristic coma and tail.",
+      "caption_ru": "Ядро кометы 67P/Чурюмова–Герасименко представляет собой «грязный снежок», состоящий из смеси замёрзших веществ и пыли. Оно имеет форму двух крупных долей: одна 4.1 km × 3.3 km × 1.8 km, другая 2.6 km × 2.3 km × 1.8 km. Эти доли соединены небольшим перешейком. Когда такое кометное ядро приближается к Солнцу, его замёрзшее, ледяное вещество нагревается и превращается в газ. Это вместе с вкраплённой пылью обеспечивает материал для характерных комы и хвоста кометы.",
+      "alt_en": "This comet nucleus looks like two large, bumpy lumps joined together. A small jet of material is being blown off the nucleus",
+      "alt_ru": "Это ядро кометы выглядит как два крупных бугристых комка, соединённых вместе. Небольшая струя вещества выбрасывается из ядра",
+      "credit": "ESA/Rosetta/NAVCAM",
+      "credit_url": "https://www.esa.int/ESA_Multimedia/Images/2015/02/Comet_on_31_January_2015_NavCam",
+      "license": "CC-BY-SA-3.0-IGO",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "term_numbers": [
+        62,
+        63
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:5169Ir55Nv90",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/halleys-comet.png",
+      "record_url": "https://astro4edu.org/resources/media/5169Ir55Nv90/",
+      "original_path": "data/media/original/media_5169Ir55Nv90.png",
+      "ru_path": null,
+      "sha256": "dfb4fb11112d3b4a5a2512ed0a975a3b3a4297d7ec7ed8224126c039a0c7592b",
+      "size": 5225115,
+      "title_en": "Halley's Comet",
+      "title_ru": "Комета Галлея",
+      "short_caption_en": "Halley's Comet",
+      "short_caption_ru": "Комета Галлея",
+      "caption_en": "Halley’s Comet, is a well-known periodic comet, named after the English astronomer Edmond Halley. It has an orbital period of approximately 75 years and is visible from Earth with the naked eye when it passes through the inner solar system.\r\n\r\nThe image shows Halley’s Comet, officially designated 1P/Halley, with a tail of gas and dust streaming away from the Sun. It was taken from the La-Silla-Observatory in Chile in 1986 during Halley's Comet's last visit to the inner solar system. The stars in this image appear elongated or as lines of three different colored dots as image was created from three separate observations in different colors of light and the telescope was tracking the comet, which was moving very slightly compared to the background stars.  Note that the comets tail does not point in exactly the same direction as the elongation of the stars. This shows us that the comet tail is not always behind the comet, but instead pointing away from the Sun. \r\n\r\nThe comet passes its perihelion (closest distance to the Sun) at a distance of around 0.59 astronomical units, right between the orbits of Mercury and Venus. Beyond Neptune, it reaches its aphelion (furthest distance from the Sun) at a distance of approximately 35 astronomical units. Halley's Comet reached aphelion in December 2023 and is now moving inwards again. It is expected to be seen with the naked eye from Earth again in mid-2061.",
+      "caption_ru": "Комета Галлея — известная периодическая комета, названная в честь английского астронома Эдмонда Галлея. Её орбитальный период составляет примерно 75 лет, и она видна с Земли невооружённым глазом, когда проходит через внутреннюю часть Солнечной системы.\r\n\r\nНа изображении показана комета Галлея, официально обозначенная 1P/Галлея, с хвостом из газа и пыли, направленным от Солнца. Снимок был сделан из обсерватории Ла-Силья в Чили в 1986 во время последнего визита кометы Галлея во внутреннюю Солнечную систему. Звёзды на этом изображении выглядят вытянутыми или как линии из трёх точек разного цвета, поскольку изображение было создано из трёх отдельных наблюдений в разных цветах света, а телескоп отслеживал комету, которая двигалась очень незначительно по сравнению с фоновыми звёздами. Обратите внимание, что хвост кометы направлен не точно в том же направлении, что и вытянутость звёзд. Это показывает нам, что хвост кометы не всегда находится позади кометы, а направлен от Солнца.\r\n\r\nКомета проходит перигелий (ближайшее расстояние к Солнцу) на расстоянии около 0.59 астрономических единиц, прямо между орбитами Меркурия и Венеры. За Нептуном она достигает афелия (наибольшего расстояния от Солнца) на расстоянии примерно 35 астрономических единиц. Комета Галлея достигла афелия в декабре 2023 и сейчас снова движется внутрь. Ожидается, что её снова можно будет увидеть с Земли невооружённым глазом в середине 2061.",
+      "alt_en": "Halley's Comet with a bright tail of gas and dust pointing to the upper right. The stars in the image are elongated.",
+      "alt_ru": "Комета Галлея с ярким хвостом из газа и пыли, направленным вправо вверх. Звёзды на изображении вытянуты.",
+      "credit": "ESO",
+      "credit_url": "https://www.eso.org/public/germany/images/halley_gpo_1386002-cc/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        13,
+        62,
+        64,
+        140,
+        244
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:RH74j957he19",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/an-encounter-with-halleys-comet.png",
+      "record_url": "https://astro4edu.org/resources/media/RH74j957he19/",
+      "original_path": "data/media/original/media_RH74j957he19.png",
+      "ru_path": null,
+      "sha256": "974403ebe838a2ec653c5972d3fb317f3d739c37f7d1672be2aea9e4b2baefee",
+      "size": 1450320,
+      "title_en": "An Encounter With Halley's Comet",
+      "title_ru": "Встреча с кометой Галлея",
+      "short_caption_en": "An Encounter With Halley's Comet",
+      "short_caption_ru": "Встреча с кометой Галлея",
+      "caption_en": "This image shows the solid core, or nucleus, of Halley’s Comet, captured in 1986 by the European Space Agency spacecraft Giotto during its flyby of the comet in the inner Solar System. The nucleus appears irregular and potato-shaped, measuring roughly 15 kilometers (about 9 miles) across, and is composed of a mixture of ice, dust, and rock. Unlike the glowing fuzzy cloud (coma) and long tail that make comets visible from Earth, the nucleus itself is dark and difficult to see until a spacecraft passes close enough to take detailed images.\r\n\r\nHalley’s Comet is one of the best-known comets because it returns to the inner Solar System approximately every 76 years, allowing generations of astronomers to observe it repeatedly. The material that is released from the nucleus as the comet warms near the Sun forms a glowing coma and long tails of gas and dust, and over many returns leaves trails of debris that produce meteor showers on Earth, such as the Eta Aquarids in May  and the Orionids in October.",
+      "caption_ru": "На этом изображении показано твёрдое ядро кометы Галлея, запечатлённое в 1986 европейским космическим аппаратом «Джотто» во время его пролёта мимо кометы во внутренней Солнечной системе. Ядро выглядит неправильным, картофелеобразным, размером примерно 15 километров (около 9 миль) в поперечнике и состоит из смеси льда, пыли и камня. В отличие от светящегося размытого облака (комы) и длинного хвоста, которые делают кометы видимыми с Земли, само ядро тёмное и его трудно увидеть, пока космический аппарат не подлетит достаточно близко, чтобы сделать детальные снимки.\r\n\r\nКомета Галлея — одна из самых известных комет, потому что она возвращается во внутреннюю Солнечную систему примерно каждые 76 лет, что позволяет поколениям астрономов наблюдать её неоднократно. Вещество, высвобождаемое из ядра при нагревании кометы вблизи Солнца, образует светящуюся кому и длинные хвосты из газа и пыли, а за многие возвращения оставляет следы обломков, которые вызывают на Земле метеорные потоки, такие как эта-Аквариды в мае и Ориониды в октябре.",
+      "alt_en": "The irregular, icy nucleus of Halley’s Comet surrounded by a fuzzy coma, taken by the Giotto spacecraft during its 1986 flyby",
+      "alt_ru": "Неправильной формы ледяное ядро кометы Галлея в окружении размытой комы, снятое космическим аппаратом «Джотто» во время его пролёта в 1986 году",
+      "credit": "NASA/ESA/Giotto Project",
+      "credit_url": "https://images.nasa.gov/details/PIA17485",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        61,
+        62,
+        63,
+        140
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

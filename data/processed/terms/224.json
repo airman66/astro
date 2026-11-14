@@ -1,0 +1,213 @@
+{
+  "id": "term:224",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 224,
+    "url": "https://astro4edu.org/resources/glossary/term/224/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=224",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:23.439183+00:00",
+    "sha256": "4478d8a86e4040126a336da15cc507958d62ac21bdb7084f9014bd6a764180b4"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      31,
+      70,
+      149,
+      223,
+      430,
+      435,
+      441
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Nucleus",
+      "body": "All the matter that we see around us consists of atoms, and each atom in turn consists of electrons surrounding a small, central nucleus. Atomic nuclei consist of protons, which are positively charged, and neutrons, which carry no electric charge. Although the protons repel each other due to their electric charge, there is an even stronger force, called the strong nuclear force or just the strong force, that holds the nucleus together.  Nuclei with the same number of protons form atoms that belong to the same chemical element. Nuclei are tiny, only about 1/100,000th of the size of an atom – so in a sense, most of the atom is empty space! The nucleus typically accounts for more than 99.9% of an atom's total mass. That mass at such tiny size makes nuclei very dense, with typical densities of a hundred million billion kilograms per cubic meter. Nuclei are important in different areas of astrophysics. In the interior of stars, energy is set free as lighter nuclei (starting with hydrogen, whose nucleus is a single proton) fuse to form successively heavier nuclei – this is what makes stars shine. Nuclear fusion in stars can form heavy nuclei up to those of iron, with supernova explosions and the interior of certain cool stars able to form even heavier nuclei. Shortly after the Big Bang, a brief phase of \"Big Bang nucleosynthesis\" had hydrogen nuclei fusing to helium and traces of other elements. Neutron stars, as the remnants of the supernova explosions of massive stars, consist of mostly neutrons stacked to similar densities as those of nuclei. Certain types of atomic nuclei, stripped of their electrons, are emitted by stars as part of stellar winds, or travel the depths of space as cosmic rays.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Atom",
+          "url": "https://www.astro4edu.org/resources/glossary/term/31/",
+          "text_ru": "Атом"
+        },
+        {
+          "text": "Cosmic Ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/70/",
+          "text_ru": "Космический луч"
+        },
+        {
+          "text": "Hydrogen",
+          "url": "https://www.astro4edu.org/resources/glossary/term/149/",
+          "text_ru": "Водород"
+        },
+        {
+          "text": "Nucleon",
+          "url": "https://www.astro4edu.org/resources/glossary/term/223/",
+          "text_ru": "Нуклон"
+        },
+        {
+          "text": "Big Bang Nucleosynthesis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/430/",
+          "text_ru": "Нуклеосинтез Большого взрыва"
+        },
+        {
+          "text": "Cosmic Ray Astronomy",
+          "url": "https://www.astro4edu.org/resources/glossary/term/435/",
+          "text_ru": "Астрономия космических лучей"
+        },
+        {
+          "text": "Electron",
+          "url": "https://www.astro4edu.org/resources/glossary/term/441/",
+          "text_ru": "Электрон"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Nucleus</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> All the matter that we see around us consists of atoms, and each atom in turn consists of electrons surrounding a small, central nucleus. Atomic nuclei consist of protons, which are positively charged, and neutrons, which carry no electric charge. Although the protons repel each other due to their electric charge, there is an even stronger force, called the strong nuclear force or just the strong force, that holds the nucleus together.  Nuclei with the same number of protons form atoms that belong to the same chemical element. <br/><br/>Nuclei are tiny, only about 1/100,000th of the size of an atom – so in a sense, most of the atom is empty space! The nucleus typically accounts for more than 99.9% of an atom's total mass. That mass at such tiny size makes nuclei very dense, with typical densities of a hundred million billion kilograms per cubic meter. <br/><br/>Nuclei are important in different areas of astrophysics. In the interior of stars, energy is set free as lighter nuclei (starting with hydrogen, whose nucleus is a single proton) fuse to form successively heavier nuclei – this is what makes stars shine. Nuclear fusion in stars can form heavy nuclei up to those of iron, with supernova explosions and the interior of certain cool stars able to form even heavier nuclei. Shortly after the Big Bang, a brief phase of \"Big Bang nucleosynthesis\" had hydrogen nuclei fusing to helium and traces of other elements. Neutron stars, as the remnants of the supernova explosions of massive stars, consist of mostly neutrons stacked to similar densities as those of nuclei. Certain types of atomic nuclei, stripped of their electrons, are emitted by stars as part of stellar winds, or travel the depths of space as cosmic rays.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/31/\">Atom</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/70/\">Cosmic Ray</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/149/\">Hydrogen</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/223/\">Nucleon</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/430/\">Big Bang Nucleosynthesis</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/435/\">Cosmic Ray Astronomy</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/441/\">Electron</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Ядро",
+      "body_ru": "Всё вещество, которое мы видим вокруг себя, состоит из атомов, и каждый атом, в свою очередь, состоит из электронов, окружающих небольшое центральное ядро. Атомные ядра состоят из протонов, которые имеют положительный заряд, и нейтронов, которые не несут электрического заряда. Хотя протоны отталкиваются друг от друга из-за своего электрического заряда, существует ещё более сильная сила, называемая сильным ядерным взаимодействием или просто сильным взаимодействием, которая удерживает ядро вместе. Ядра с одинаковым числом протонов образуют атомы, принадлежащие к одному и тому же химическому элементу. Ядра крошечные, всего около 1/100,000 размера атома – так что в некотором смысле большая часть атома — это пустое пространство! Ядро обычно составляет более 99.9% общей массы атома. Эта масса при таких крошечных размерах делает ядра очень плотными, с типичными плотностями в сто миллионов миллиардов килограммов на кубический метр. Ядра важны в различных областях астрофизики. В недрах звёзд энергия высвобождается, когда более лёгкие ядра (начиная с водорода, ядро которого представляет собой один протон) сливаются, образуя последовательно более тяжёлые ядра – именно это заставляет звёзды светить. Ядерный синтез в звёздах может образовывать тяжёлые ядра вплоть до ядер железа, а взрывы сверхновых и недра некоторых холодных звёзд способны образовывать ещё более тяжёлые ядра. Вскоре после Большого взрыва краткая фаза «первичного нуклеосинтеза» привела к слиянию ядер водорода в гелий и следы других элементов. Нейтронные звёзды, как остатки взрывов сверхновых массивных звёзд, состоят в основном из нейтронов, упакованных с плотностями, аналогичными плотностям ядер. Некоторые типы атомных ядер, лишённые своих электронов, выбрасываются звёздами в составе звёздных ветров или путешествуют в глубинах космоса как космические лучи."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/224/\">النواة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/224/\">Atomkern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/224/\">Núcleo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/224/\">Noyau </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/224/\">Nucleo </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/224/\">Núcleo </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/224/\">原子核 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/224/\">原子核 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/9g88Ec10kL64/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "diagram:9g88Ec10kL64"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/9g88Ec10kL64/\"><img alt=\"A diagram with nuclei of isotopes of 6 elements with sketches of the nucleus accompanied by the chemical element symbol &amp; the mass &amp; atomic numbers\" src=\"/media/diagrams/multimedia/thumbnails/nucleon_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Nucleon</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> A nucleon is a constituent of an atomic nucleus. For normal matter, nucleons can be either protons or neutrons. The number of nucleons defines the mass number of a nucleus while the number of protons defines the atomic number. Atomic nuclei of a particular chemical element all have the same atomic number but can have different mass numbers. Nuclei with the same atomic number but different mass numbers are known as isotopes. Most elements have more than one isotope that occurs in nature although a few only have one isotope that is stable over long periods of time. \n\nThis diagram shows the nuclei of isotopes of the first six chemical elements (from left to right: hydrogen, helium, lithium, beryllium, boron and carbon). Beside each chemical element symbol are two numbers. The upper number is the mass number, the number of nucleons. The lower number for each is the atomic number, the number of protons.<br/>\n<b>Credit:</b> Maria Cristina Fortuna/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Nucleus",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Nucleus",
+          "body": "All the matter that we see around us consists of atoms, and each atom in turn consists of electrons surrounding a small, central nucleus. Atomic nuclei consist of protons, which are positively charged, and neutrons, which carry no electric charge. Although the protons repel each other due to their electric charge, there is an even stronger force, called the strong nuclear force or just the strong force, that holds the nucleus together.  Nuclei with the same number of protons form atoms that belong to the same chemical element. Nuclei are tiny, only about 1/100,000th of the size of an atom – so in a sense, most of the atom is empty space! The nucleus typically accounts for more than 99.9% of an atom's total mass. That mass at such tiny size makes nuclei very dense, with typical densities of a hundred million billion kilograms per cubic meter. Nuclei are important in different areas of astrophysics. In the interior of stars, energy is set free as lighter nuclei (starting with hydrogen, whose nucleus is a single proton) fuse to form successively heavier nuclei – this is what makes stars shine. Nuclear fusion in stars can form heavy nuclei up to those of iron, with supernova explosions and the interior of certain cool stars able to form even heavier nuclei. Shortly after the Big Bang, a brief phase of \"Big Bang nucleosynthesis\" had hydrogen nuclei fusing to helium and traces of other elements. Neutron stars, as the remnants of the supernova explosions of massive stars, consist of mostly neutrons stacked to similar densities as those of nuclei. Certain types of atomic nuclei, stripped of their electrons, are emitted by stars as part of stellar winds, or travel the depths of space as cosmic rays."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Ядро",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Ядро",
+          "body": "Всё вещество, которое мы видим вокруг себя, состоит из атомов, и каждый атом, в свою очередь, состоит из электронов, окружающих небольшое центральное ядро. Атомные ядра состоят из протонов, которые имеют положительный заряд, и нейтронов, которые не несут электрического заряда. Хотя протоны отталкиваются друг от друга из-за своего электрического заряда, существует ещё более сильная сила, называемая сильным ядерным взаимодействием или просто сильным взаимодействием, которая удерживает ядро вместе. Ядра с одинаковым числом протонов образуют атомы, принадлежащие к одному и тому же химическому элементу. Ядра крошечные, всего около 1/100,000 размера атома – так что в некотором смысле большая часть атома — это пустое пространство! Ядро обычно составляет более 99.9% общей массы атома. Эта масса при таких крошечных размерах делает ядра очень плотными, с типичными плотностями в сто миллионов миллиардов килограммов на кубический метр. Ядра важны в различных областях астрофизики. В недрах звёзд энергия высвобождается, когда более лёгкие ядра (начиная с водорода, ядро которого представляет собой один протон) сливаются, образуя последовательно более тяжёлые ядра – именно это заставляет звёзды светить. Ядерный синтез в звёздах может образовывать тяжёлые ядра вплоть до ядер железа, а взрывы сверхновых и недра некоторых холодных звёзд способны образовывать ещё более тяжёлые ядра. Вскоре после Большого взрыва краткая фаза «первичного нуклеосинтеза» привела к слиянию ядер водорода в гелий и следы других элементов. Нейтронные звёзды, как остатки взрывов сверхновых массивных звёзд, состоят в основном из нейтронов, упакованных с плотностями, аналогичными плотностям ядер. Некоторые типы атомных ядер, лишённые своих электронов, выбрасываются звёздами в составе звёздных ветров или путешествуют в глубинах космоса как космические лучи."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "diagram:9g88Ec10kL64",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/nucleon.png",
+      "record_url": "https://astro4edu.org/resources/diagram/9g88Ec10kL64/",
+      "original_path": "data/media/original/diagram_9g88Ec10kL64.png",
+      "ru_path": "data/media/ru/diagram_9g88Ec10kL64.png",
+      "sha256": "968bd645f6e285fd7f563645d46f2aa7a1a2dd3b536e5b8bc183b20a2f720a62",
+      "size": 2329407,
+      "title_en": "Nucleon",
+      "title_ru": "Нуклон",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "A nucleon is a constituent of an atomic nucleus. For normal matter, nucleons can be either protons or neutrons. The number of nucleons defines the mass number of a nucleus while the number of protons defines the atomic number. Atomic nuclei of a particular chemical element all have the same atomic number but can have different mass numbers. Nuclei with the same atomic number but different mass numbers are known as isotopes. Most elements have more than one isotope that occurs in nature although a few only have one isotope that is stable over long periods of time. \r\n\r\nThis diagram shows the nuclei of isotopes of the first six chemical elements (from left to right: hydrogen, helium, lithium, beryllium, boron and carbon). Beside each chemical element symbol are two numbers. The upper number is the mass number, the number of nucleons. The lower number for each is the atomic number, the number of protons.",
+      "caption_ru": "Нуклон — это составная часть атомного ядра. Для обычной материи нуклоны могут быть либо протонами, либо нейтронами. Число нуклонов определяет массовое число ядра, а число протонов определяет атомный номер. Атомные ядра конкретного химического элемента все имеют одинаковый атомный номер, но могут иметь разные массовые числа. Ядра с одинаковым атомным номером, но разными массовыми числами называются изотопами. Большинство элементов имеют более одного изотопа, встречающегося в природе, хотя некоторые имеют только один изотоп, стабильный в течение длительных периодов времени.\n\nНа этой диаграмме показаны ядра изотопов первых шести химических элементов (слева направо: водород, гелий, литий, бериллий, бор и углерод). Рядом с символом каждого химического элемента стоят два числа. Верхнее число — массовое число, число нуклонов. Нижнее число для каждого — атомный номер, число протонов.",
+      "alt_en": "A diagram with nuclei of isotopes of 6 elements with sketches of the nucleus accompanied by the chemical element symbol & the mass & atomic numbers",
+      "alt_ru": "Диаграмма с ядрами изотопов 6 элементов с изображениями ядра, сопровождаемыми символом химического элемента, а также массовым и атомным числами",
+      "credit": "Maria Cristina Fortuna/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        165,
+        213,
+        223,
+        224,
+        263
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "8773a3005e7cf3913a01f017d8b9d7a84482eb48a8165703554f9280a64d1bbe"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

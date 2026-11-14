@@ -1,0 +1,203 @@
+{
+  "id": "term:434",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 434,
+    "url": "https://astro4edu.org/resources/glossary/term/434/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=434",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:25.942809+00:00",
+    "sha256": "339026c863bca6714c2418ac4ba993a08a62c2338ebfb2dfdfc759da4b36dd2d"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Cosmology"
+    ],
+    "category_ids": [
+      11,
+      9
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Космология"
+    ],
+    "related_term_numbers": [
+      67,
+      71,
+      73,
+      127,
+      141
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Copernican Principle",
+      "body": "This principle in its original form is an outcome of the Copernican model for the Solar System. This \"heliocentric\" model stated the planets orbit the Sun and replaced the previously held belief that the Earth was in a special place in the center of the Solar System. Philosophically, the Copernican Principle represents a fundamental shift in the human perception of our place in the Universe. This shift was revolutionary in the time of Copernicus. The Copernican Principle has been extended to cosmology where it is called the Cosmological Principle, which provides one of the key foundations of modern cosmology – there is no special location or direction within the observable Universe. Both principles are constantly being tested through a range of observations at various scales, using ground and space-based telescopes.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Copernican Revolution",
+          "url": "https://www.astro4edu.org/resources/glossary/term/67/",
+          "text_ru": "Коперниканская революция"
+        },
+        {
+          "text": "Cosmological Principle",
+          "url": "https://www.astro4edu.org/resources/glossary/term/71/",
+          "text_ru": "Космологический принцип"
+        },
+        {
+          "text": "Cosmos",
+          "url": "https://www.astro4edu.org/resources/glossary/term/73/",
+          "text_ru": "Космос"
+        },
+        {
+          "text": "Geocentric Model",
+          "url": "https://www.astro4edu.org/resources/glossary/term/127/",
+          "text_ru": "Геоцентрическая модель"
+        },
+        {
+          "text": "Heliocentric Model",
+          "url": "https://www.astro4edu.org/resources/glossary/term/141/",
+          "text_ru": "Гелиоцентрическая модель"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Copernican Principle</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> This principle in its original form is an outcome of the Copernican model for the Solar System. This \"heliocentric\" model stated the planets orbit the Sun and replaced the previously held belief that the Earth was in a special place in the center of the Solar System. Philosophically, the Copernican Principle represents a fundamental shift in the human perception of our place in the Universe. This shift was revolutionary in the time of Copernicus. The Copernican Principle has been extended to cosmology where it is called the Cosmological Principle, which provides one of the key foundations of modern cosmology – there is no special location or direction within the observable Universe. Both principles are constantly being tested through a range of observations at various scales, using ground and space-based telescopes.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/67/\">Copernican Revolution</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/71/\">Cosmological Principle</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/73/\">Cosmos</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/127/\">Geocentric Model</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/141/\">Heliocentric Model</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Коперниканский принцип",
+      "body_ru": "Этот принцип в его первоначальной форме является результатом коперниканской модели Солнечной системы. Эта «гелиоцентрическая» модель утверждала, что планеты вращаются вокруг Солнца, и заменила ранее существовавшее убеждение, что Земля находится в особом месте в центре Солнечной системы. Философски коперниканский принцип представляет собой фундаментальный сдвиг в восприятии человечеством нашего места во Вселенной. Этот сдвиг был революционным во времена Коперника. Коперниканский принцип был расширен до космологии, где он называется космологическим принципом, который обеспечивает одну из ключевых основ современной космологии — нет особого местоположения или направления в наблюдаемой Вселенной. Оба принципа постоянно проверяются с помощью ряда наблюдений в различных масштабах с использованием наземных и космических телескопов."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/434/\">مبدأ كوبرنيكوس </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/434/\">Kopernikanisches Prinzip </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/434/\">Principio de Copérnico </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/434/\">Principe copernicien </a></span></li>\n<li><b>Indonesian: </b><span dir=\"LTR\" lang=\"id\"><a class=\"link-bold\" href=\"/id/resources/glossary/term/434/\">Prinsip Copernicus </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/434/\">Principio copernicano </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/434/\">코페르니쿠스 원리 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/434/\">Princípio de Copérnico </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/434/\">哥白尼原理 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/434/\">哥白尼原理 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/0N18tC72Yg2/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg",
+          "text_ru": "ссылка на источник"
+        }
+      ],
+      "media_ids": [
+        "media:0N18tC72Yg2"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/0N18tC72Yg2/\"><img alt=\"Image of part of a page of an old book, showing concentric circles (plus a little extra circle where the Earth is), labelled with Latin text.\" src=\"/media/multimedia/thumbnails/copernicuss-heliocentric-system_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Copernicus's heliocentric system</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Sketch of Copernicus's heliocentric model of the Solar System, from his book \"De revolutionibus orbium coelestium\" (On the revolution of the heavenly spheres) published in 1543. Shown are the Sun as well as the orbits of Mercury, Venus, the Earth (itself orbited by the Moon), Mars, Jupiter and Saturn. The outermost circle represents the sphere of the stars.\n\nIn this model, the Earth is not special – it is merely one planet, among several, orbiting the Sun. This was the first example for what is now known as the Copernican Principle: that our positions as observers in the universe is not special or privileged in any way. The shift from the geocentric to the heliocentric model of our universe is known as the Copernican revolution.<br/>\n<b>Credit:</b> Nicolaus Copernicus\n\t  <a href=\"https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Copernican Principle",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Copernican Principle",
+          "body": "This principle in its original form is an outcome of the Copernican model for the Solar System. This \"heliocentric\" model stated the planets orbit the Sun and replaced the previously held belief that the Earth was in a special place in the center of the Solar System. Philosophically, the Copernican Principle represents a fundamental shift in the human perception of our place in the Universe. This shift was revolutionary in the time of Copernicus. The Copernican Principle has been extended to cosmology where it is called the Cosmological Principle, which provides one of the key foundations of modern cosmology – there is no special location or direction within the observable Universe. Both principles are constantly being tested through a range of observations at various scales, using ground and space-based telescopes."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Коперниканский принцип",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Коперниканский принцип",
+          "body": "Этот принцип в его первоначальной форме является результатом коперниканской модели Солнечной системы. Эта «гелиоцентрическая» модель утверждала, что планеты вращаются вокруг Солнца, и заменила ранее существовавшее убеждение, что Земля находится в особом месте в центре Солнечной системы. Философски коперниканский принцип представляет собой фундаментальный сдвиг в восприятии человечеством нашего места во Вселенной. Этот сдвиг был революционным во времена Коперника. Коперниканский принцип был расширен до космологии, где он называется космологическим принципом, который обеспечивает одну из ключевых основ современной космологии — нет особого местоположения или направления в наблюдаемой Вселенной. Оба принципа постоянно проверяются с помощью ряда наблюдений в различных масштабах с использованием наземных и космических телескопов."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:0N18tC72Yg2",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/copernicuss-heliocentric-system.jpg",
+      "record_url": "https://astro4edu.org/resources/media/0N18tC72Yg2/",
+      "original_path": "data/media/original/media_0N18tC72Yg2.jpg",
+      "ru_path": null,
+      "sha256": "1e430690d3cae102be70e521de9d9472a3e6241c30b9e03589a4ce89508d01b7",
+      "size": 702641,
+      "title_en": "Copernicus's heliocentric system",
+      "title_ru": "Гелиоцентрическая система Коперника",
+      "short_caption_en": "Copernicus's heliocentric system",
+      "short_caption_ru": "Гелиоцентрическая система Коперника",
+      "caption_en": "Sketch of Copernicus's heliocentric model of the Solar System, from his book \"De revolutionibus orbium coelestium\" (On the revolution of the heavenly spheres) published in 1543. Shown are the Sun as well as the orbits of Mercury, Venus, the Earth (itself orbited by the Moon), Mars, Jupiter and Saturn. The outermost circle represents the sphere of the stars.\r\n\r\nIn this model, the Earth is not special – it is merely one planet, among several, orbiting the Sun. This was the first example for what is now known as the Copernican Principle: that our positions as observers in the universe is not special or privileged in any way. The shift from the geocentric to the heliocentric model of our universe is known as the Copernican revolution.",
+      "caption_ru": "Набросок гелиоцентрической модели Солнечной системы Коперника из его книги \"De revolutionibus orbium coelestium\" (О вращении небесных сфер), опубликованной в 1543. Показаны Солнце, а также орбиты Меркурия, Венеры, Земли (вокруг которой обращается Луна), Марса, Юпитера и Сатурна. Самый внешний круг представляет сферу звёзд.\r\n\r\nВ этой модели Земля не является особенной – она всего лишь одна планета из нескольких, обращающихся вокруг Солнца. Это был первый пример того, что сейчас известно как принцип Коперника: наше положение как наблюдателей во Вселенной не является особенным или привилегированным каким-либо образом. Переход от геоцентрической к гелиоцентрической модели нашей Вселенной известен как коперниканская революция.",
+      "alt_en": "Image of part of a page of an old book, showing concentric circles (plus a little extra circle where the Earth is), labelled with Latin text.",
+      "alt_ru": "Изображение части страницы старинной книги, показывающее концентрические окружности (плюс небольшая дополнительная окружность там, где находится Земля), подписанные латинским текстом.",
+      "credit": "Nicolaus Copernicus",
+      "credit_url": "https://commons.wikimedia.org/wiki/File:Copernican_heliocentrism_diagram-2.jpg",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        67,
+        141,
+        297,
+        434
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

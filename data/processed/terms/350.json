@@ -1,0 +1,177 @@
+{
+  "id": "term:350",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 350,
+    "url": "https://astro4edu.org/resources/glossary/term/350/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=350",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:59.423181+00:00",
+    "sha256": "435be713b9362b378a531899ef38e88b7805d7d05b09841f07da3a6a5da9c7df"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Stars"
+    ],
+    "category_ids": [
+      2
+    ],
+    "categories_ru": [
+      "Звёзды"
+    ],
+    "related_term_numbers": [
+      150,
+      186,
+      264,
+      274,
+      325,
+      333,
+      351,
+      440,
+      485,
+      487,
+      525
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: T-Tauri Star",
+      "body": "T-Tauri stars are a class of low mass young variable stars. They are named after the prototype, T-Tauri, a variable star in the Taurus star-forming region. T-Tauri variables are found in groups of young stars. Their \"surface\" temperatures (effective temperatures) are similar to those of F, G, K, and M spectral type main sequence stars of the same mass, but they are significantly more luminous because their diameter is larger. These contracting young stars have not started fusing hydrogen and are powered by the release of gravitational energy during their contraction. T-Tauri stars can be identified by their irregular optical variability and spectrum. They emit intense and variable X-ray and radio waves. Brightness variability is also caused by clumps in the circumstellar disk surrounding T-Tauri stars.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Hydrogen Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/150/",
+          "text_ru": "Водородный синтез"
+        },
+        {
+          "text": "Main Sequence",
+          "url": "https://www.astro4edu.org/resources/glossary/term/186/",
+          "text_ru": "Главная последовательность"
+        },
+        {
+          "text": "Protostar",
+          "url": "https://www.astro4edu.org/resources/glossary/term/264/",
+          "text_ru": "Протозвезда"
+        },
+        {
+          "text": "Radio Waves",
+          "url": "https://www.astro4edu.org/resources/glossary/term/274/",
+          "text_ru": "Радиоволны"
+        },
+        {
+          "text": "Spectral Type",
+          "url": "https://www.astro4edu.org/resources/glossary/term/325/",
+          "text_ru": "Спектральный класс"
+        },
+        {
+          "text": "Star Formation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/333/",
+          "text_ru": "Звёздообразование"
+        },
+        {
+          "text": "Taurus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/351/",
+          "text_ru": "Телец"
+        },
+        {
+          "text": "Effective Temperature",
+          "url": "https://www.astro4edu.org/resources/glossary/term/440/",
+          "text_ru": "Эффективная температура"
+        },
+        {
+          "text": "Variable Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/485/",
+          "text_ru": "Переменная звезда"
+        },
+        {
+          "text": "X-ray",
+          "url": "https://www.astro4edu.org/resources/glossary/term/487/",
+          "text_ru": "Рентгеновское излучение"
+        },
+        {
+          "text": "Pre-main-sequence Star",
+          "url": "https://www.astro4edu.org/resources/glossary/term/525/",
+          "text_ru": "Звезда до главной последовательности"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: T-Tauri Star</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> T-Tauri stars are a class of low mass young variable stars. They are named after the prototype, T-Tauri, a variable star in the Taurus star-forming region. T-Tauri variables are found in groups of young stars. Their \"surface\" temperatures (effective temperatures) are similar to those of F, G, K, and M spectral type main sequence stars of the same mass, but they are significantly more luminous because their diameter is larger. These contracting young stars have not started fusing hydrogen and are powered by the release of gravitational energy during their contraction. T-Tauri stars can be identified by their irregular optical variability and spectrum. They emit intense and variable X-ray and radio waves. Brightness variability is also caused by clumps in the circumstellar disk surrounding T-Tauri stars.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/150/\">Hydrogen Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/186/\">Main Sequence</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/264/\">Protostar</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/274/\">Radio Waves</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/325/\">Spectral Type</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/333/\">Star Formation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/351/\">Taurus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/440/\">Effective Temperature</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/485/\">Variable Star</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/487/\">X-ray</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/525/\">Pre-main-sequence Star</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Звезда T Тельца",
+      "body_ru": "Звёзды T Тельца — это класс молодых переменных звёзд малой массы. Они названы в честь прототипа — T Тельца, переменной звезды в области звездообразования Тельца. Переменные типа T Тельца встречаются в группах молодых звёзд. Их «поверхностные» температуры (эффективные температуры) аналогичны таковым у звёзд главной последовательности спектральных классов F, G, K и M той же массы, но они значительно ярче, поскольку их диаметр больше. Эти сжимающиеся молодые звёзды ещё не начали сжигать водород и питаются за счёт выделения гравитационной энергии во время сжатия. Звёзды T Тельца можно идентифицировать по их нерегулярной оптической переменности и спектру. Они испускают интенсивные и переменные рентгеновские и радиоволны. Переменность яркости также вызывается сгустками в околозвёздном диске, окружающем звёзды T Тельца."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "Tタウリ型星 (external link)",
+          "url": "https://astro-dic.jp/t-tauri-star-2/",
+          "text_ru": "звезда типа T Тельца (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/350/\">نجم تي تاوري </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/350/\">T-Tauri-Stern </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/350/\">Estrella T-Tauri </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/350/\">Étoile T-Tauri </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/350/\">Stella T-Tauri </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/t-tauri-star-2/\">Tタウリ型星 (external link)</a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/350/\">황소자리티형별 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/350/\">Estrela T-Tauri </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/350/\">金牛T星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/350/\">金牛T星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "T-Tauri Star",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: T-Tauri Star",
+          "body": "T-Tauri stars are a class of low mass young variable stars. They are named after the prototype, T-Tauri, a variable star in the Taurus star-forming region. T-Tauri variables are found in groups of young stars. Their \"surface\" temperatures (effective temperatures) are similar to those of F, G, K, and M spectral type main sequence stars of the same mass, but they are significantly more luminous because their diameter is larger. These contracting young stars have not started fusing hydrogen and are powered by the release of gravitational energy during their contraction. T-Tauri stars can be identified by their irregular optical variability and spectrum. They emit intense and variable X-ray and radio waves. Brightness variability is also caused by clumps in the circumstellar disk surrounding T-Tauri stars."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Звезда T Тельца",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Звезда T Тельца",
+          "body": "Звёзды T Тельца — это класс молодых переменных звёзд малой массы. Они названы в честь прототипа — T Тельца, переменной звезды в области звездообразования Тельца. Переменные типа T Тельца встречаются в группах молодых звёзд. Их «поверхностные» температуры (эффективные температуры) аналогичны таковым у звёзд главной последовательности спектральных классов F, G, K и M той же массы, но они значительно ярче, поскольку их диаметр больше. Эти сжимающиеся молодые звёзды ещё не начали сжигать водород и питаются за счёт выделения гравитационной энергии во время сжатия. Звёзды T Тельца можно идентифицировать по их нерегулярной оптической переменности и спектру. Они испускают интенсивные и переменные рентгеновские и радиоволны. Переменность яркости также вызывается сгустками в околозвёздном диске, окружающем звёзды T Тельца."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

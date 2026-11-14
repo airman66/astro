@@ -1,0 +1,135 @@
+{
+  "id": "term:430",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 430,
+    "url": "https://astro4edu.org/resources/glossary/term/430/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=430",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:25.225593+00:00",
+    "sha256": "53b2b6bf888c13d3286135c691f5a5445a50cd5c912cd97dee0768961f4f9b6f"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Cosmology"
+    ],
+    "category_ids": [
+      9
+    ],
+    "categories_ru": [
+      "Космология"
+    ],
+    "related_term_numbers": [
+      38,
+      221,
+      224,
+      457
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Big Bang Nucleosynthesis",
+      "body": "Nucleosynthesis refers to processes where heavier atomic nuclei are formed from lighter ones via nuclear fusion. Big Bang Nucleosynthesis (BBN), sometimes called Primordial Nucleosynthesis, is a brief instance of nucleosynthesis during our Universe's hot and dense Big Bang phase, nearly 14 billion years ago. According to our current cosmological models, BBN began in the first few seconds of the early Universe and lasted for a few minutes. The timing is directly linked to the rate at which the early Universe was expanding and cooling down. Earlier than those first seconds, the Universe had been too hot for nuclei more complex than hydrogen to survive. At the end of those few minutes, the Universe was not hot and dense enough for nuclear fusion to continue. After the end of BBN, about 25% by mass of atomic nuclei was in the form of helium-4 (a particularly stable isotope of helium), and 75% was hydrogen. Closer inspection shows that there must also have been small traces of deuterium (a hydrogen isotope), helium-3 (another helium isotope), and isotopes of lithium: lithium-6 and lithium-7. The amounts of each element produced during BBN depend only on basic cosmological parameters, and thus constitute a prediction of the cosmological models. Given that over the following nearly 14 billion years, significant additional nucleosynthesis has taken place, notably in the interiors of stars, it is a challenge to try and estimate initial element abundances from present-day observational data. For helium-4, helium-3, deuterium, and lithium-6, the cosmological BBN predictions agree very well with the reconstructions from observations. For lithium-7, there is a marked difference, but it is not clear at this time whether that indicates a problem with our understanding of BBN or a problem with the attempts to estimate the initial lithium-7 abundance.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Big Bang Theory",
+          "url": "https://www.astro4edu.org/resources/glossary/term/38/",
+          "text_ru": "Теория Большого взрыва"
+        },
+        {
+          "text": "Nuclear Fusion",
+          "url": "https://www.astro4edu.org/resources/glossary/term/221/",
+          "text_ru": "Термоядерный синтез"
+        },
+        {
+          "text": "Nucleus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/224/",
+          "text_ru": "Ядро"
+        },
+        {
+          "text": "Metal",
+          "url": "https://www.astro4edu.org/resources/glossary/term/457/",
+          "text_ru": "Металл"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Big Bang Nucleosynthesis</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Nucleosynthesis refers to processes where heavier atomic nuclei are formed from lighter ones via nuclear fusion. Big Bang Nucleosynthesis (BBN), sometimes called Primordial Nucleosynthesis, is a brief instance of nucleosynthesis during our Universe's hot and dense Big Bang phase, nearly 14 billion years ago. According to our current cosmological models, BBN began in the first few seconds of the early Universe and lasted for a few minutes. The timing is directly linked to the rate at which the early Universe was expanding and cooling down. Earlier than those first seconds, the Universe had been too hot for nuclei more complex than hydrogen to survive. At the end of those few minutes, the Universe was not hot and dense enough for nuclear fusion to continue. After the end of BBN, about 25% by mass of atomic nuclei was in the form of helium-4 (a particularly stable isotope of helium), and 75% was hydrogen. Closer inspection shows that there must also have been small traces of deuterium (a hydrogen isotope), helium-3 (another helium isotope), and isotopes of lithium: lithium-6 and lithium-7. The amounts of each element produced during BBN depend only on basic cosmological parameters, and thus constitute a prediction of the cosmological models. Given that over the following nearly 14 billion years, significant additional nucleosynthesis has taken place, notably in the interiors of stars, it is a challenge to try and estimate initial element abundances from present-day observational data. For helium-4, helium-3, deuterium, and lithium-6, the cosmological BBN predictions agree very well with the reconstructions from observations. For lithium-7, there is a marked difference, but it is not clear at this time whether that indicates a problem with our understanding of BBN or a problem with the attempts to estimate the initial lithium-7 abundance.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/38/\">Big Bang Theory</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/221/\">Nuclear Fusion</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/224/\">Nucleus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/457/\">Metal</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: нуклеосинтез Большого взрыва",
+      "body_ru": "Нуклеосинтез относится к процессам, в которых более тяжёлые атомные ядра образуются из более лёгких посредством ядерного синтеза. Нуклеосинтез Большого взрыва (BBN), иногда называемый первичным нуклеосинтезом, — это краткий этап нуклеосинтеза во время горячей и плотной фазы Большого взрыва нашей Вселенной, почти 14 миллиардов лет назад. Согласно нашим современным космологическим моделям, BBN начался в первые несколько секунд ранней Вселенной и длился несколько минут. Время напрямую связано со скоростью расширения и охлаждения ранней Вселенной. Раньше этих первых секунд Вселенная была слишком горячей, чтобы ядра сложнее водорода могли существовать. В конце этих нескольких минут Вселенная была уже недостаточно горячей и плотной для продолжения ядерного синтеза. После окончания BBN около 25% по массе атомных ядер приходилось на долю гелия-4 (особенно стабильного изотопа гелия), а 75% — на водород. Более внимательное рассмотрение показывает, что должны были также присутствовать небольшие следы дейтерия (изотопа водорода), гелия-3 (другого изотопа гелия) и изотопов лития: лития-6 и лития-7. Количества каждого элемента, произведённые во время BBN, зависят только от основных космологических параметров и, таким образом, представляют собой предсказание космологических моделей. Учитывая, что за последующие почти 14 миллиардов лет произошёл значительный дополнительный нуклеосинтез, особенно в недрах звёзд, сложно попытаться оценить первоначальное содержание элементов по современным наблюдательным данным. Для гелия-4, гелия-3, дейтерия и лития-6 космологические предсказания BBN очень хорошо согласуются с реконструкциями по наблюдениям. Для лития-7 наблюдается заметное расхождение, но в настоящее время неясно, указывает ли это на проблему в нашем понимании BBN или на проблему в попытках оценить первоначальное содержание лития-7."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "ビッグバン元素合成 (external link)",
+          "url": "https://astro-dic.jp/big-bang-nucleosynthesis/",
+          "text_ru": "Первичный нуклеосинтез (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/430/\">التخليق النووي في الانفجار العظيم </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/430/\">Primordiale Nukleosynthese </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/430/\">Nucleosíntesis del Big Bang </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/430/\">La nucléosynthèse du Big Bang </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/430/\">Nucleosintesi del Big Bang </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/big-bang-nucleosynthesis/\">ビッグバン元素合成 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/430/\">Nucleossíntese do Big Bang </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/430/\">大爆炸核合成 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/430/\">大爆炸核合成 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Big Bang Nucleosynthesis",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Big Bang Nucleosynthesis",
+          "body": "Nucleosynthesis refers to processes where heavier atomic nuclei are formed from lighter ones via nuclear fusion. Big Bang Nucleosynthesis (BBN), sometimes called Primordial Nucleosynthesis, is a brief instance of nucleosynthesis during our Universe's hot and dense Big Bang phase, nearly 14 billion years ago. According to our current cosmological models, BBN began in the first few seconds of the early Universe and lasted for a few minutes. The timing is directly linked to the rate at which the early Universe was expanding and cooling down. Earlier than those first seconds, the Universe had been too hot for nuclei more complex than hydrogen to survive. At the end of those few minutes, the Universe was not hot and dense enough for nuclear fusion to continue. After the end of BBN, about 25% by mass of atomic nuclei was in the form of helium-4 (a particularly stable isotope of helium), and 75% was hydrogen. Closer inspection shows that there must also have been small traces of deuterium (a hydrogen isotope), helium-3 (another helium isotope), and isotopes of lithium: lithium-6 and lithium-7. The amounts of each element produced during BBN depend only on basic cosmological parameters, and thus constitute a prediction of the cosmological models. Given that over the following nearly 14 billion years, significant additional nucleosynthesis has taken place, notably in the interiors of stars, it is a challenge to try and estimate initial element abundances from present-day observational data. For helium-4, helium-3, deuterium, and lithium-6, the cosmological BBN predictions agree very well with the reconstructions from observations. For lithium-7, there is a marked difference, but it is not clear at this time whether that indicates a problem with our understanding of BBN or a problem with the attempts to estimate the initial lithium-7 abundance."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Нуклеосинтез Большого взрыва",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: нуклеосинтез Большого взрыва",
+          "body": "Нуклеосинтез относится к процессам, в которых более тяжёлые атомные ядра образуются из более лёгких посредством ядерного синтеза. Нуклеосинтез Большого взрыва (BBN), иногда называемый первичным нуклеосинтезом, — это краткий этап нуклеосинтеза во время горячей и плотной фазы Большого взрыва нашей Вселенной, почти 14 миллиардов лет назад. Согласно нашим современным космологическим моделям, BBN начался в первые несколько секунд ранней Вселенной и длился несколько минут. Время напрямую связано со скоростью расширения и охлаждения ранней Вселенной. Раньше этих первых секунд Вселенная была слишком горячей, чтобы ядра сложнее водорода могли существовать. В конце этих нескольких минут Вселенная была уже недостаточно горячей и плотной для продолжения ядерного синтеза. После окончания BBN около 25% по массе атомных ядер приходилось на долю гелия-4 (особенно стабильного изотопа гелия), а 75% — на водород. Более внимательное рассмотрение показывает, что должны были также присутствовать небольшие следы дейтерия (изотопа водорода), гелия-3 (другого изотопа гелия) и изотопов лития: лития-6 и лития-7. Количества каждого элемента, произведённые во время BBN, зависят только от основных космологических параметров и, таким образом, представляют собой предсказание космологических моделей. Учитывая, что за последующие почти 14 миллиардов лет произошёл значительный дополнительный нуклеосинтез, особенно в недрах звёзд, сложно попытаться оценить первоначальное содержание элементов по современным наблюдательным данным. Для гелия-4, гелия-3, дейтерия и лития-6 космологические предсказания BBN очень хорошо согласуются с реконструкциями по наблюдениям. Для лития-7 наблюдается заметное расхождение, но в настоящее время неясно, указывает ли это на проблему в нашем понимании BBN или на проблему в попытках оценить первоначальное содержание лития-7."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

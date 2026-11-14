@@ -1,0 +1,144 @@
+{
+  "id": "term:137",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 137,
+    "url": "https://astro4edu.org/resources/glossary/term/137/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=137",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:55.792590+00:00",
+    "sha256": "dc3b8c53bbae22a037190f4b5b454e704805cafe9799f527575309a3a38769b2"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Exoplanets & Astrobiology",
+      "Solar System"
+    ],
+    "category_ids": [
+      6,
+      1
+    ],
+    "categories_ru": [
+      "Экзопланеты и астробиология",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      131,
+      155,
+      201,
+      377,
+      378
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Greenhouse Effect",
+      "body": "The greenhouse effect is a warming of the atmosphere due to the emission of certain gases such as water, methane, and carbon dioxide. Visible light from the Sun reaches the surface of a planet and is re-emitted as infrared radiation. Greenhouse gases trap this infrared radiation within the atmosphere and hence the radiation cannot escape to free space; this makes the planet warmer than it would have been without these gases. Without the greenhouse effect, Earth's temperature would be tens of degrees below 0 degrees Celsius. However, the equilibrium temperature that results from the greenhouse effect is very sensitive to the concentration of greenhouse gases in the atmosphere. Human-made emissions of greenhouse gases since the beginning of the Industrial Revolution in the 19th century have led to global warming on Earth due to the greenhouse effect. In certain circumstances, this heating can lead to more greenhouse gases in the atmosphere, causing a runaway greenhouse effect. This is what has happened in the atmosphere of the planet Venus.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Global Warming",
+          "url": "https://www.astro4edu.org/resources/glossary/term/131/",
+          "text_ru": "Глобальное потепление"
+        },
+        {
+          "text": "Infrared (IR)",
+          "url": "https://www.astro4edu.org/resources/glossary/term/155/",
+          "text_ru": "Инфракрасное (ИК)"
+        },
+        {
+          "text": "Molecule",
+          "url": "https://www.astro4edu.org/resources/glossary/term/201/",
+          "text_ru": "Молекула"
+        },
+        {
+          "text": "Venus",
+          "url": "https://www.astro4edu.org/resources/glossary/term/377/",
+          "text_ru": "Венера"
+        },
+        {
+          "text": "Visible Spectrum",
+          "url": "https://www.astro4edu.org/resources/glossary/term/378/",
+          "text_ru": "Видимый спектр"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Greenhouse Effect</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The greenhouse effect is a warming of the atmosphere due to the emission of certain gases such as water, methane, and carbon dioxide. Visible light from the Sun reaches the surface of a planet and is re-emitted as infrared radiation. Greenhouse gases trap this infrared radiation within the atmosphere and hence the radiation cannot escape to free space; this makes the planet warmer than it would have been without these gases. Without the greenhouse effect, Earth's temperature would be tens of degrees below 0 degrees Celsius. However, the equilibrium temperature that results from the greenhouse effect is very sensitive to the concentration of greenhouse gases in the atmosphere.<br/><br/>Human-made emissions of greenhouse gases since the beginning of the Industrial Revolution in the 19th century have led to global warming on Earth due to the greenhouse effect. <br/><br/>In certain circumstances, this heating can lead to more greenhouse gases in the atmosphere, causing a runaway greenhouse effect. This is what has happened in the atmosphere of the planet Venus.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/131/\">Global Warming</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/155/\">Infrared (IR)</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/201/\">Molecule</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/377/\">Venus</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/378/\">Visible Spectrum</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Парниковый эффект",
+      "body_ru": "Парниковый эффект — это потепление атмосферы из-за выброса определенных газов, таких как водяной пар, метан и углекислый газ. Видимый свет от Солнца достигает поверхности планеты и переизлучается в виде инфракрасного излучения. Парниковые газы задерживают это инфракрасное излучение в атмосфере, и поэтому излучение не может выйти в открытый космос; это делает планету теплее, чем она была бы без этих газов. Без парникового эффекта температура Земли была бы на десятки градусов ниже 0 градусов Цельсия. Однако равновесная температура, возникающая в результате парникового эффекта, очень чувствительна к концентрации парниковых газов в атмосфере. Антропогенные выбросы парниковых газов с начала промышленной революции в 19 веке привели к глобальному потеплению на Земле из-за парникового эффекта. В определенных обстоятельствах это нагревание может привести к увеличению содержания парниковых газов в атмосфере, вызывая необратимый парниковый эффект. Именно это произошло в атмосфере планеты Венера."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "温室効果 (external link)",
+          "url": "https://astro-dic.jp/greenhouse-effect/",
+          "text_ru": "парниковый эффект (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/137/\">تأثير الاحتباس الحراري </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/137/\">Treibhauseffekt </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/137/\">Efecto invernadero </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/137/\">Effet de serre </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/137/\">Effetto serra </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/greenhouse-effect/\">温室効果 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/137/\">Efeito estufa </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/137/\">温室效应 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/137/\">溫室效應 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Greenhouse Effect",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Greenhouse Effect",
+          "body": "The greenhouse effect is a warming of the atmosphere due to the emission of certain gases such as water, methane, and carbon dioxide. Visible light from the Sun reaches the surface of a planet and is re-emitted as infrared radiation. Greenhouse gases trap this infrared radiation within the atmosphere and hence the radiation cannot escape to free space; this makes the planet warmer than it would have been without these gases. Without the greenhouse effect, Earth's temperature would be tens of degrees below 0 degrees Celsius. However, the equilibrium temperature that results from the greenhouse effect is very sensitive to the concentration of greenhouse gases in the atmosphere. Human-made emissions of greenhouse gases since the beginning of the Industrial Revolution in the 19th century have led to global warming on Earth due to the greenhouse effect. In certain circumstances, this heating can lead to more greenhouse gases in the atmosphere, causing a runaway greenhouse effect. This is what has happened in the atmosphere of the planet Venus."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Парниковый эффект",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Парниковый эффект",
+          "body": "Парниковый эффект — это потепление атмосферы из-за выброса определенных газов, таких как водяной пар, метан и углекислый газ. Видимый свет от Солнца достигает поверхности планеты и переизлучается в виде инфракрасного излучения. Парниковые газы задерживают это инфракрасное излучение в атмосфере, и поэтому излучение не может выйти в открытый космос; это делает планету теплее, чем она была бы без этих газов. Без парникового эффекта температура Земли была бы на десятки градусов ниже 0 градусов Цельсия. Однако равновесная температура, возникающая в результате парникового эффекта, очень чувствительна к концентрации парниковых газов в атмосфере. Антропогенные выбросы парниковых газов с начала промышленной революции в 19 веке привели к глобальному потеплению на Земле из-за парникового эффекта. В определенных обстоятельствах это нагревание может привести к увеличению содержания парниковых газов в атмосфере, вызывая необратимый парниковый эффект. Именно это произошло в атмосфере планеты Венера."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "term:471",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 471,
+    "url": "https://astro4edu.org/resources/glossary/term/471/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=471",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:37.963675+00:00",
+    "sha256": "4c738c5a0040f2b6417ad7f1e378750c8dcf31f5aed326941929b2dddcff34b6"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Cosmology",
+      "Galaxies"
+    ],
+    "category_ids": [
+      9,
+      8
+    ],
+    "categories_ru": [
+      "Космология",
+      "Галактики"
+    ],
+    "related_term_numbers": [
+      84,
+      96,
+      356,
+      431
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Redshift",
+      "body": "This term can refer to three different effects: Doppler, cosmological, or gravitational redshift. Doppler redshift is the opposite of blueshift; in the case of redshift, the source emitting the electromagnetic radiation is moving away from the observer, and so the wavelength of the electromagnetic radiation is stretched to longer (redder) wavelengths. This is similar to the Doppler effect in the context of sound waves. Cosmological redshift is the result of electromagnetic radiation emitted by a source being stretched to longer wavelengths because of the physical expansion of space, unlike Doppler redshift which is due to relative motion. Gravitational redshift refers to the effect where the wavelength of electromagnetic radiation emitted from a source is stretched to longer wavelengths, or rather the associated photons lose energy as they try to leave a region (gravitational well) where the gravity is stronger.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Doppler Effect",
+          "url": "https://www.astro4edu.org/resources/glossary/term/84/",
+          "text_ru": "Эффект Доплера"
+        },
+        {
+          "text": "Electromagnetic Radiation",
+          "url": "https://www.astro4edu.org/resources/glossary/term/96/",
+          "text_ru": "Электромагнитное излучение"
+        },
+        {
+          "text": "Theory of General Relativity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/356/",
+          "text_ru": "Общая теория относительности"
+        },
+        {
+          "text": "Blueshift",
+          "url": "https://www.astro4edu.org/resources/glossary/term/431/",
+          "text_ru": "Синее смещение"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Redshift</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> This term can refer to three different effects: Doppler, cosmological, or gravitational redshift. Doppler redshift is the opposite of blueshift; in the case of redshift, the source emitting the electromagnetic radiation is moving away from the observer, and so the wavelength of the electromagnetic radiation is stretched to longer (redder) wavelengths. This is similar to the Doppler effect in the context of sound waves. Cosmological redshift is the result of electromagnetic radiation emitted by a source being stretched to longer wavelengths because of the physical expansion of space, unlike Doppler redshift which is due to relative motion. Gravitational redshift refers to the effect where the wavelength of electromagnetic radiation emitted from a source is stretched to longer wavelengths, or rather the associated photons lose energy as they try to leave a region (gravitational well) where the gravity is stronger.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/84/\">Doppler Effect</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/96/\">Electromagnetic Radiation</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/356/\">Theory of General Relativity</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/431/\">Blueshift</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Красное смещение",
+      "body_ru": "Этот термин может относиться к трём различным эффектам: доплеровскому, космологическому или гравитационному красному смещению. Доплеровское красное смещение противоположно синему смещению; в случае красного смещения источник, испускающий электромагнитное излучение, движется от наблюдателя, и поэтому длина волны электромагнитного излучения растягивается до более длинных (более красных) волн. Это аналогично эффекту Доплера в контексте звуковых волн. Космологическое красное смещение является результатом того, что электромагнитное излучение, испущенное источником, растягивается до более длинных волн из-за физического расширения пространства, в отличие от доплеровского красного смещения, которое обусловлено относительным движением. Гравитационное красное смещение относится к эффекту, при котором длина волны электромагнитного излучения, испущенного источником, растягивается до более длинных волн, или, точнее, связанные фотоны теряют энергию, пытаясь покинуть область (гравитационную яму), где гравитация сильнее."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "赤方偏移 (external link)",
+          "url": "https://astro-dic.jp/redshift/",
+          "text_ru": "Красное смещение (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/471/\">الانزياح الأحمر </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/471/\">Rotverschiebung </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/471/\">Desplazamiento al rojo </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/471/\">Décalage vers le rouge </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/471/\">redshift </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/redshift/\">赤方偏移 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/471/\">Desvio para o vermelho </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/471/\">红移 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/471/\">紅移 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/yr85gl38FA11/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.sdss.org",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:yr85gl38FA11"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/yr85gl38FA11/\"><img alt=\"Galaxies map, each dot is a galaxy, forming a web-like structure, the outer circle marks a distance of 2 billion light years\" src=\"/media/multimedia/thumbnails/orangepie_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">SDSS Redshift Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image shows a map of the distribution of galaxies and is based on redshift data from the Sloan Digital Sky Survey (SDSS). Redshift measurements provides information on the distances, positions and motions of the galaxies. \n\nThe Earth is located at the center of the image, and each dot represents a galaxy. The outer circle represents a \"\"distance\"\" of about 2 billion light years. The idea of distance in cosmology is complex because the usual measurement of distance is the separation between two points in space at the same time. However, because of the speed of light, the further a distance, the farther back in time we are observing. The numbers on the outer circle are Right Ascension coordinates mapped onto a flat circle, and provides information on the position of the galaxies on the sky. The colours used represent the ages of the stars in the galaxies, the redder, more strongly clustered points represent galaxies comprising of older stars. The dark wedges that do not contain any dots are regions that were not mapped by the SDSS due to dust from the Milky Way galaxy obscuring the view.<br/>\n<b>Credit:</b> M. Blanton and Sloan Digital Sky Survey\n\t  <a href=\"https://www.sdss.org\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Redshift",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Redshift",
+          "body": "This term can refer to three different effects: Doppler, cosmological, or gravitational redshift. Doppler redshift is the opposite of blueshift; in the case of redshift, the source emitting the electromagnetic radiation is moving away from the observer, and so the wavelength of the electromagnetic radiation is stretched to longer (redder) wavelengths. This is similar to the Doppler effect in the context of sound waves. Cosmological redshift is the result of electromagnetic radiation emitted by a source being stretched to longer wavelengths because of the physical expansion of space, unlike Doppler redshift which is due to relative motion. Gravitational redshift refers to the effect where the wavelength of electromagnetic radiation emitted from a source is stretched to longer wavelengths, or rather the associated photons lose energy as they try to leave a region (gravitational well) where the gravity is stronger."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Красное смещение",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Красное смещение",
+          "body": "Этот термин может относиться к трём различным эффектам: доплеровскому, космологическому или гравитационному красному смещению. Доплеровское красное смещение противоположно синему смещению; в случае красного смещения источник, испускающий электромагнитное излучение, движется от наблюдателя, и поэтому длина волны электромагнитного излучения растягивается до более длинных (более красных) волн. Это аналогично эффекту Доплера в контексте звуковых волн. Космологическое красное смещение является результатом того, что электромагнитное излучение, испущенное источником, растягивается до более длинных волн из-за физического расширения пространства, в отличие от доплеровского красного смещения, которое обусловлено относительным движением. Гравитационное красное смещение относится к эффекту, при котором длина волны электромагнитного излучения, испущенного источником, растягивается до более длинных волн, или, точнее, связанные фотоны теряют энергию, пытаясь покинуть область (гравитационную яму), где гравитация сильнее."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:yr85gl38FA11",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/orangepie.jpg",
+      "record_url": "https://astro4edu.org/resources/media/yr85gl38FA11/",
+      "original_path": "data/media/original/media_yr85gl38FA11.jpg",
+      "ru_path": "data/media/ru/media_yr85gl38FA11.png",
+      "sha256": "d7eebd98f9c5f53da596cc182bb390f7bf96d26b88cbb417f6f67fe6d52680a5",
+      "size": 507354,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "The SDSS galaxies map",
+      "short_caption_ru": "Карта галактик SDSS",
+      "caption_en": "This image shows a map of the distribution of galaxies and is based on redshift data from the Sloan Digital Sky Survey (SDSS). Redshift measurements provides information on the distances, positions and motions of the galaxies. \r\n\r\nThe Earth is located at the center of the image, and each dot represents a galaxy. The outer circle represents a \"\"distance\"\" of about 2 billion light years. The idea of distance in cosmology is complex because the usual measurement of distance is the separation between two points in space at the same time. However, because of the speed of light, the further a distance, the farther back in time we are observing. The numbers on the outer circle are Right Ascension coordinates mapped onto a flat circle, and provides information on the position of the galaxies on the sky. The colours used represent the ages of the stars in the galaxies, the redder, more strongly clustered points represent galaxies comprising of older stars. The dark wedges that do not contain any dots are regions that were not mapped by the SDSS due to dust from the Milky Way galaxy obscuring the view.",
+      "caption_ru": "Это изображение показывает карту распределения галактик и основано на данных о красном смещении из Слоановского цифрового обзора неба (SDSS). Измерения красного смещения дают информацию о расстояниях, положениях и движениях галактик. \r\n\r\nЗемля находится в центре изображения, и каждая точка представляет галактику. Внешняя окружность обозначает «расстояние» около 2 миллиардов световых лет. Понятие расстояния в космологии сложно, поскольку обычное измерение расстояния — это разделение между двумя точками в пространстве в одно и то же время. Однако из-за скорости света, чем дальше расстояние, тем дальше в прошлое мы наблюдаем. Числа на внешней окружности — это координаты прямого восхождения, отображённые на плоскую окружность, и они дают информацию о положении галактик на небе. Используемые цвета представляют возрасты звёзд в галактиках: более красные, сильнее сгруппированные точки представляют галактики, состоящие из более старых звёзд. Тёмные клинья, не содержащие точек, — это области, которые не были картированы SDSS из-за пыли от галактики Млечный Путь, заслоняющей обзор.",
+      "alt_en": "Galaxies map, each dot is a galaxy, forming a web-like structure, the outer circle marks a distance of 2 billion light years",
+      "alt_ru": "Карта галактик, каждая точка — галактика, образующая сетчатую структуру, внешняя окружность отмечает расстояние в 2 миллиарда световых лет",
+      "credit": "M. Blanton and Sloan Digital Sky Survey",
+      "credit_url": "https://www.sdss.org",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        76,
+        471
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "ef251109f86096dee0c16a2a8d41b18855502823117171a548cbdd67fe6ead7a"
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

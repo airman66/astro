@@ -1,0 +1,195 @@
+{
+  "id": "term:73",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 73,
+    "url": "https://astro4edu.org/resources/glossary/term/73/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=73",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:28.723698+00:00",
+    "sha256": "bee73dc7d933ff080cab5b5dfdc780115b0eaf5832fe8d9ab00b907e37a9ccbe"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Astronomy and Society",
+      "Cosmology"
+    ],
+    "category_ids": [
+      11,
+      9
+    ],
+    "categories_ru": [
+      "Астрономия и общество",
+      "Космология"
+    ],
+    "related_term_numbers": [
+      72,
+      374
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Cosmos",
+      "body": "The term cosmos captures the grandeur of everything and has deep philosophical roots. Although the term cosmos is used synonymously with Universe, they do have subtle differences. Cosmos comes from the Greek word kosmos, which roughly implies harmony or order, and is an all-encompassing term for the ordered arrangement of a system, of which the Universe is a part. Although, it could be argued that the Universe is itself an ordered system, and hence can be referred to as the cosmos. Because ordered systems can to a degree be described by physical laws, the word \"cosmos\" can be extended to capture the idea of a world that can be explained by physical laws.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Cosmology",
+          "url": "https://www.astro4edu.org/resources/glossary/term/72/",
+          "text_ru": "Космология"
+        },
+        {
+          "text": "Universe",
+          "url": "https://www.astro4edu.org/resources/glossary/term/374/",
+          "text_ru": "Вселенная"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Cosmos</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> The term cosmos captures the grandeur of everything and has deep philosophical roots. Although the term cosmos is used synonymously with Universe, they do have subtle differences. Cosmos comes from the Greek word kosmos, which roughly implies harmony or order, and is an all-encompassing term for the ordered arrangement of a system, of which the Universe is a part. Although, it could be argued that the Universe is itself an ordered system, and hence can be referred to as the cosmos. Because ordered systems can to a degree be described by physical laws, the word \"cosmos\" can be extended to capture the idea of a world that can be explained by physical laws.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/72/\">Cosmology</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/374/\">Universe</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Космос",
+      "body_ru": "Термин космос отражает величие всего сущего и имеет глубокие философские корни. Хотя термин космос используется как синоним Вселенной, между ними есть тонкие различия. Космос происходит от греческого слова kosmos, которое примерно означает гармонию или порядок, и является всеобъемлющим термином для упорядоченного устройства системы, частью которой является Вселенная. Хотя можно утверждать, что Вселенная сама по себе является упорядоченной системой и, следовательно, может называться космосом. Поскольку упорядоченные системы в определённой степени могут быть описаны физическими законами, слово «космос» можно расширить, чтобы охватить идею мира, который может быть объяснён физическими законами."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/73/\">النظام الكوني </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/73/\">Kosmos </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/73/\">Cosmos </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/73/\">Cosmos </a></span></li>\n<li><b>Indonesian: </b><span dir=\"LTR\" lang=\"id\"><a class=\"link-bold\" href=\"/id/resources/glossary/term/73/\">Kosmos </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/73/\">Cosmo </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/73/\">Cosmos </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/73/\">宇宙 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/73/\">宇宙 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Oj6Sb99Y285/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://esahubble.org/images/heic0611b/",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:Oj6Sb99Y285"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Oj6Sb99Y285/\"><img alt=\"The Hubble Ultra Deep Field showing around 10,000 galaxies of various ages, sizes, shapes and colours.\" src=\"/media/multimedia/thumbnails/heic0611b_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Hubble Ultra Deep Field</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This awe-inspiring image referred to as the Hubble Ultra-Deep Field (HUDF), was obtained using the Hubble Space Telescope (HST), by combining 800 exposures from 400 orbits of the HST, which equates to 11.3 days of total exposure time.\n\nThe image shows nearly 10,000 galaxies and was taken in the direction of a patch of sky with the least amount of stars from the Milky Way galaxy in the field of view. The region of sky that the HST observed corresponds to 1/10 the angular size of the Full Moon, which is roughly equal to approximately a 1 millimeter-sized object placed 1 meter away.\n\nEvery object in the image, except for the bright points with the crosshairs, are galaxies. As a consequence of the speed of light being a constant in a vacuum, the more distant an object, the further back in time we are observing. Therefore, the light from some of the galaxies in the HUDF image is from when the Universe as only a few hundred million years old. The HUDF image takes us through on a journey through space, and also in time.<br/>\n<b>Credit:</b> NASA, ESA, and S. Beckwith (STScI) and the HUDF Team\n\t  <a href=\"https://esahubble.org/images/heic0611b/\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Cosmos",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Cosmos",
+          "body": "The term cosmos captures the grandeur of everything and has deep philosophical roots. Although the term cosmos is used synonymously with Universe, they do have subtle differences. Cosmos comes from the Greek word kosmos, which roughly implies harmony or order, and is an all-encompassing term for the ordered arrangement of a system, of which the Universe is a part. Although, it could be argued that the Universe is itself an ordered system, and hence can be referred to as the cosmos. Because ordered systems can to a degree be described by physical laws, the word \"cosmos\" can be extended to capture the idea of a world that can be explained by physical laws."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        }
+      }
+    },
+    "ru": {
+      "title": "Космос",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Космос",
+          "body": "Термин космос отражает величие всего сущего и имеет глубокие философские корни. Хотя термин космос используется как синоним Вселенной, между ними есть тонкие различия. Космос происходит от греческого слова kosmos, которое примерно означает гармонию или порядок, и является всеобъемлющим термином для упорядоченного устройства системы, частью которой является Вселенная. Хотя можно утверждать, что Вселенная сама по себе является упорядоченной системой и, следовательно, может называться космосом. Поскольку упорядоченные системы в определённой степени могут быть описаны физическими законами, слово «космос» можно расширить, чтобы охватить идею мира, который может быть объяснён физическими законами."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:Oj6Sb99Y285",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/heic0611b.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Oj6Sb99Y285/",
+      "original_path": "data/media/original/media_Oj6Sb99Y285.jpg",
+      "ru_path": null,
+      "sha256": "ddd89b8d50a4b311f8fb8db19f4055dd32f73a21af6fe81ce7154873fe569472",
+      "size": 8974439,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Hubble Ultra Deep Field",
+      "short_caption_ru": "Сверхглубокое поле Хаббла",
+      "caption_en": "This awe-inspiring image referred to as the Hubble Ultra-Deep Field (HUDF), was obtained using the Hubble Space Telescope (HST), by combining 800 exposures from 400 orbits of the HST, which equates to 11.3 days of total exposure time.\r\n\r\nThe image shows nearly 10,000 galaxies and was taken in the direction of a patch of sky with the least amount of stars from the Milky Way galaxy in the field of view. The region of sky that the HST observed corresponds to 1/10 the angular size of the Full Moon, which is roughly equal to approximately a 1 millimeter-sized object placed 1 meter away.\r\n\r\nEvery object in the image, except for the bright points with the crosshairs, are galaxies. As a consequence of the speed of light being a constant in a vacuum, the more distant an object, the further back in time we are observing. Therefore, the light from some of the galaxies in the HUDF image is from when the Universe as only a few hundred million years old. The HUDF image takes us through on a journey through space, and also in time.",
+      "caption_ru": "Это впечатляющее изображение, известное как Сверхглубокое поле Хаббла (HUDF), было получено с помощью космического телескопа Хаббла (HST) путём объединения 800 экспозиций с 400 витков HST, что эквивалентно 11.3 дням общего времени экспозиции.\r\n\r\nНа изображении показано почти 10,000 галактик, и оно было получено в направлении участка неба с наименьшим количеством звёзд Млечного Пути в поле зрения. Область неба, которую наблюдал HST, соответствует 1/10 углового размера полной Луны, что примерно равно объекту размером в 1 миллиметр, расположенному на расстоянии 1 метр.\r\n\r\nКаждый объект на изображении, за исключением ярких точек с перекрестиями, является галактикой. Поскольку скорость света в вакууме постоянна, чем дальше объект, тем дальше в прошлое мы наблюдаем. Поэтому свет от некоторых галактик на изображении HUDF исходит из времени, когда Вселенной было всего несколько сотен миллионов лет. Изображение HUDF отправляет нас в путешествие сквозь пространство, а также во времени.",
+      "alt_en": "The Hubble Ultra Deep Field showing around 10,000 galaxies of various ages, sizes, shapes and colours.",
+      "alt_ru": "Сверхглубокое поле Хаббла, показывающее около 10,000 галактик различного возраста, размеров, форм и цветов.",
+      "credit": "NASA, ESA, and S. Beckwith (STScI) and the HUDF Team",
+      "credit_url": "https://esahubble.org/images/heic0611b/",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        72,
+        73,
+        119,
+        374
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

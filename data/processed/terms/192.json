@@ -1,0 +1,337 @@
+{
+  "id": "term:192",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 192,
+    "url": "https://astro4edu.org/resources/glossary/term/192/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=192",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:42:15.322481+00:00",
+    "sha256": "fe07b4e267fa35fb136339b510fb182b69abff40d5e90684097729c7892ea2a5"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy",
+      "Solar System"
+    ],
+    "category_ids": [
+      4,
+      1
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом",
+      "Солнечная система"
+    ],
+    "related_term_numbers": [
+      26,
+      314,
+      354,
+      484
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Mercury",
+      "body": "Mercury is the closest planet to the Sun and the smallest of the eight major planets in the Solar System. It is a rocky, terrestrial planet with a radius of about 2500 kilometers (km), which is slightly larger than the Earth's Moon. It has a mass of 0.055 times the mass of the Earth. Due to its close distance, the Sun is seven times brighter seen from Mercury, and Mercury's surface is much affected by the solar wind. Its very thin exosphere is made of material produced by this interaction, plus matter blasted off the surface due to frequent falling objects. The thin atmosphere cannot keep the planet's temperature, so the surface is extremely cold (-180 degrees Celsius) during the night, and extremely hot (400 degrees Celsius) during the day, and thus very dry. Its typical distance from the Sun is about 58 million km, about 0.39 astronomical units (Earth–Sun distances), taking a little under 88 days to complete one orbit. Mercury has no moons known to orbit it. As Mercury orbits the Sun closer than the Earth, it always appears close to the Sun in the sky. Mercury is named after the speedy Roman messenger god, derived from its fast motion across the sky. Two space probes (Mariner 10 and MESSENGER) have visited Mercury, with the BepiColombo mission due to arrive in the mid-2020s.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Astronomical Unit",
+          "url": "https://www.astro4edu.org/resources/glossary/term/26/",
+          "text_ru": "Астрономическая единица"
+        },
+        {
+          "text": "Solar System",
+          "url": "https://www.astro4edu.org/resources/glossary/term/314/",
+          "text_ru": "Солнечная система"
+        },
+        {
+          "text": "Terrestrial Planet",
+          "url": "https://www.astro4edu.org/resources/glossary/term/354/",
+          "text_ru": "Землеподобная планета"
+        },
+        {
+          "text": "Tidal Locking",
+          "url": "https://www.astro4edu.org/resources/glossary/term/484/",
+          "text_ru": "Приливный захват"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Mercury</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> Mercury is the closest planet to the Sun and the smallest of the eight major planets in the Solar System. It is a rocky, terrestrial planet with a radius of about 2500 kilometers (km), which is slightly larger than the Earth's Moon. It has a mass of 0.055 times the mass of the Earth. Due to its close distance, the Sun is seven times brighter seen from Mercury, and Mercury's surface is much affected by the solar wind. Its very thin exosphere is made of material produced by this interaction, plus matter blasted off the surface due to frequent falling objects. The thin atmosphere cannot keep the planet's temperature, so the surface is extremely cold (-180 degrees Celsius) during the night, and extremely hot (400 degrees Celsius) during the day, and thus very dry.<br/><br/>Its typical distance from the Sun is about 58 million km, about 0.39 astronomical units (Earth–Sun distances), taking a little under 88 days to complete one orbit. Mercury has no moons known to orbit it.<br/><br/>As Mercury orbits the Sun closer than the Earth, it always appears close to the Sun in the sky. Mercury is named after the speedy Roman messenger god, derived from its fast motion across the sky. Two space probes (Mariner 10 and MESSENGER) have visited Mercury, with the BepiColombo mission due to arrive in the mid-2020s.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/26/\">Astronomical Unit</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/314/\">Solar System</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/354/\">Terrestrial Planet</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/484/\">Tidal Locking</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Меркурий",
+      "body_ru": "Меркурий — ближайшая к Солнцу планета и самая маленькая из восьми крупных планет Солнечной системы. Это каменистая планета земной группы с радиусом около 2500 километров (км), что немного больше, чем у Луны Земли. Его масса составляет 0.055 массы Земли. Из-за близкого расстояния Солнце с Меркурия выглядит в семь раз ярче, и поверхность Меркурия сильно подвержена воздействию солнечного ветра. Его очень тонкая экзосфера состоит из материала, произведённого этим взаимодействием, плюс вещество, выбитое с поверхности из-за частых падающих объектов. Тонкая атмосфера не может удерживать температуру планеты, поэтому поверхность чрезвычайно холодна (-180 градусов Цельсия) ночью и чрезвычайно горяча (400 градусов Цельсия) днём, и, следовательно, очень сухая. Его типичное расстояние от Солнца составляет около 58 миллионов км, примерно 0.39 астрономических единиц (расстояний Земля–Солнце), и требуется чуть менее 88 дней, чтобы совершить один оборот. У Меркурия нет известных спутников, обращающихся вокруг него. Поскольку Меркурий обращается вокруг Солнца ближе, чем Земля, он всегда кажется близким к Солнцу на небе. Меркурий назван в честь быстроногого римского бога-посланника, что происходит от его быстрого движения по небу. Два космических зонда (Маринер 10 и MESSENGER) посетили Меркурий, а миссия BepiColombo должна прибыть в середине 2020-х годов."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "水星 (external link)",
+          "url": "https://astro-dic.jp/mercury/",
+          "text_ru": "Меркурий (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/192/\">الزئبق </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/192/\">Merkur </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/192/\">Mercurio </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/192/\">Mercure </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/192/\">Mercurio </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/mercury/\">水星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/192/\">Mercúrio </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/192/\">水星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/192/\">水星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/uw54VK71ga73/"
+        },
+        {
+          "text": "credit link",
+          "url": "https://www.nasa.gov/mission_pages/messenger/multimedia/messenger_orbit_image20111129_1.html",
+          "text_ru": "ссылка на источник"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/HV96bL4x836/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Ad126X90bo96/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [
+        "media:uw54VK71ga73",
+        "media:HV96bL4x836",
+        "media:Ad126X90bo96"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/uw54VK71ga73/\"><img alt=\"The planet Mercury covered by many craters\" src=\"/media/multimedia/thumbnails/606992main_messenger_orbit_image20111129_1_full_full_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Mercury</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> This image is a composite of a picture mosaic of the planet Mercury's surface obtained by the MESSENGER (Mercury Surface, Space Environment, Geochemistry and Ranging) space probe. MESSENGER was launched by NASA in 2004 and explored Mercury from 2011 to 2015.<br/>\n<b>Credit:</b> NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington\n\t  <a href=\"https://www.nasa.gov/mission_pages/messenger/multimedia/messenger_orbit_image20111129_1.html\">credit link</a><br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> PD <i class=\"fab fa-creative-commons-pd-alt\"></i><span class=\"sr-only\">Public Domain icons</span>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/HV96bL4x836/\"><img alt=\"The crescent Moon sits to the left of two bright planets. On the right side the Pleiades star cluster can be seen.\" src=\"/media/multimedia/thumbnails/moon-mercury-pleiades-conjunction_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Moon-Mercury-Pleiades Conjunction</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nThis photograph shows the young lunar crescent, some of the nine brightest stars of the Pleiades (with one behind a cloud) on the right, and the planet Mercury, looking slightly red, in the middle of the image.\n\nThis picture is rather suggestive of the idea that the Pleiades might possibly consist of seven stars. However, the viewer is misled by the clouds; five of the stars form a tiny chariot, one is next to the handle, and three are at the other end of the quadrilateral. Eight stars would be clearly visible if there were no clouds.\n\nThis configuration of the young Moon next to the Pleiades is visible only in the northern hemisphere spring. Thus it was used by the ancient Babylonians to determine the second month of their year and to judge whether or not an intercalary month was necessary. At least as early as the second millennium before the common era, the Babylonians used several asterisms for each month, with another one of them reappearing every five days after invisibility during daylight. To determine the necessity of intercalation in order to synchronise the solar and the lunar year, the Babylonians used several asterisms, not only the Pleiades. For instance, they also made use of the bright stars Arcturus and Sirius, and they observed a configuration with the Moon as well as heliacal phenomena. The modern Jewish and modern Islamic traditions still make use of some of the Babylonian astronomical rules. However, given that the constellations have shifted as a result of precession, and the fact that nowadays we also have computational means to calculate our calendars, this configuration of the small crescent Moon and the Pleiades is less useful, though it remains exceptionally beautiful. Thus the ancient Babylonian and middle Babylonian tradition survives only rudimentarily. Furthermore, it is unlikely that it is depicted in the Nebra Disc from Bronze Age Europe, as has long been claimed.\n\nThis image was taken on Elba Island, Italy, in May 2022.<br/>\n<b>Credit:</b> Giulio Colombo/ IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Ad126X90bo96/\"><img alt=\"Mercury appears smaller and fainter than Venus. The bottom right of Venus is an illuminated crescent.\" src=\"/media/multimedia/thumbnails/venus-and-mercury-trails_thumbnail_l01fDuD.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Venus and Mercury Trails</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images of phases of Venus.\n\nIn this composite image, both Mercury (left) and Venus (right) can be seen heading into the sunset. The phases of each are beautifully captured as they descend. Not all planets or moons in the Solar System show phases as viewed from Earth. This phenomenon occurs because the orbits of Venus and Mercury are positioned between Earth’s orbit and the Sun, sometimes allowing us to see only part of the illuminated portion of each planet. These phases are similar to the phases we see of our own Moon.<br/>\n<b>Credit:</b> Marcella Giulia Pace (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "section_4",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Meet our neighbours: Mercury astroEDU educational activity (links to astroEDU website) Description: Let's explore Mercury with a tactile, low-cost version! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary Areas of Learning: Fun activity \n  \n, Modelling Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models Browse all activities for this term",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all activities for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Mercury&page=1&language_choice=en&file_type=act&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все задания по этому термину"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-mercury/\"><img alt=\"Meet our neighbours: Mercury\" src=\"/media/astroedu/images/meet-our-neighbours-mercury_en_thumbnail_3hcyF2c.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/meet-our-neighbours-mercury/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Meet our neighbours: Mercury</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Let's explore Mercury with a tactile, low-cost version!\n  \n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Age Ranges:</b>\n\n6-8 \n  \n, 8-10 \n  \n, 10-12 \n  \n\n\n\n\n  <b>Education Level:</b>\n\nPrimary \n  \n<b>Areas of Learning:</b>\n\nFun activity \n  \n, Modelling \n  \n<b>Duration:</b>\n1 hour \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Developing and using models \n  \n</p>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Mercury&amp;page=1&amp;language_choice=en&amp;file_type=act&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all activities <br/>for this term</a>\n<br/>\n<br/>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Познакомьтесь с нашими соседями: Меркурий образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем Меркурий с помощью тактильной, недорогой версии! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальное Области обучения: Развлекательное занятие \n  \n, Моделирование Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей Просмотреть все мероприятия по этой теме"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Mercury",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Mercury",
+          "body": "Mercury is the closest planet to the Sun and the smallest of the eight major planets in the Solar System. It is a rocky, terrestrial planet with a radius of about 2500 kilometers (km), which is slightly larger than the Earth's Moon. It has a mass of 0.055 times the mass of the Earth. Due to its close distance, the Sun is seven times brighter seen from Mercury, and Mercury's surface is much affected by the solar wind. Its very thin exosphere is made of material produced by this interaction, plus matter blasted off the surface due to frequent falling objects. The thin atmosphere cannot keep the planet's temperature, so the surface is extremely cold (-180 degrees Celsius) during the night, and extremely hot (400 degrees Celsius) during the day, and thus very dry. Its typical distance from the Sun is about 58 million km, about 0.39 astronomical units (Earth–Sun distances), taking a little under 88 days to complete one orbit. Mercury has no moons known to orbit it. As Mercury orbits the Sun closer than the Earth, it always appears close to the Sun in the sky. Mercury is named after the speedy Roman messenger god, derived from its fast motion across the sky. Two space probes (Mariner 10 and MESSENGER) have visited Mercury, with the BepiColombo mission due to arrive in the mid-2020s."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Related Activities",
+          "body": "Related Activities Meet our neighbours: Mercury astroEDU educational activity (links to astroEDU website) Description: Let's explore Mercury with a tactile, low-cost version! License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Age Ranges: 6-8 \n  \n, 8-10 \n  \n, 10-12 Education Level: Primary Areas of Learning: Fun activity \n  \n, Modelling Duration: 1 hour Group Size: Group Skills: Analysing and interpreting data \n  \n, Developing and using models Browse all activities for this term"
+        }
+      }
+    },
+    "ru": {
+      "title": "Меркурий",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Меркурий",
+          "body": "Меркурий — ближайшая к Солнцу планета и самая маленькая из восьми крупных планет Солнечной системы. Это каменистая планета земной группы с радиусом около 2500 километров (км), что немного больше, чем у Луны Земли. Его масса составляет 0.055 массы Земли. Из-за близкого расстояния Солнце с Меркурия выглядит в семь раз ярче, и поверхность Меркурия сильно подвержена воздействию солнечного ветра. Его очень тонкая экзосфера состоит из материала, произведённого этим взаимодействием, плюс вещество, выбитое с поверхности из-за частых падающих объектов. Тонкая атмосфера не может удерживать температуру планеты, поэтому поверхность чрезвычайно холодна (-180 градусов Цельсия) ночью и чрезвычайно горяча (400 градусов Цельсия) днём, и, следовательно, очень сухая. Его типичное расстояние от Солнца составляет около 58 миллионов км, примерно 0.39 астрономических единиц (расстояний Земля–Солнце), и требуется чуть менее 88 дней, чтобы совершить один оборот. У Меркурия нет известных спутников, обращающихся вокруг него. Поскольку Меркурий обращается вокруг Солнца ближе, чем Земля, он всегда кажется близким к Солнцу на небе. Меркурий назван в честь быстроногого римского бога-посланника, что происходит от его быстрого движения по небу. Два космических зонда (Маринер 10 и MESSENGER) посетили Меркурий, а миссия BepiColombo должна прибыть в середине 2020-х годов."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "section_4": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Познакомьтесь с нашими соседями: Меркурий образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Давайте исследуем Меркурий с помощью тактильной, недорогой версии! Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Возрастные диапазоны: 6-8 \n  \n, 8-10 \n  \n, 10-12 Уровень образования: Начальное Области обучения: Развлекательное занятие \n  \n, Моделирование Продолжительность: 1 час Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Разработка и использование моделей Просмотреть все мероприятия по этой теме"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:uw54VK71ga73",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://astro4edu.org/media/multimedia/606992main_messenger_orbit_image20111129_1_full_full.jpg",
+      "record_url": "https://astro4edu.org/resources/media/uw54VK71ga73/",
+      "original_path": "data/media/original/media_uw54VK71ga73.jpg",
+      "ru_path": null,
+      "sha256": "e11d4cf3bc4bd32b465378a3002a2edaf3bc81da110c451c0087237a5e5543d0",
+      "size": 903538,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "a picture mosaic of the planet Mercury's surface obtained by the MESSENGER space probe",
+      "short_caption_ru": "мозаичное изображение поверхности планеты Меркурий, полученное космическим зондом MESSENGER",
+      "caption_en": "This image is a composite of a picture mosaic of the planet Mercury's surface obtained by the MESSENGER (Mercury Surface, Space Environment, Geochemistry and Ranging) space probe. MESSENGER was launched by NASA in 2004 and explored Mercury from 2011 to 2015.",
+      "caption_ru": "Это изображение представляет собой композит из мозаики изображений поверхности планеты Меркурий, полученных космическим зондом MESSENGER (Mercury Surface, Space Environment, Geochemistry and Ranging). MESSENGER был запущен NASA в 2004 году и исследовал Меркурий с 2011 по 2015 год.",
+      "alt_en": "The planet Mercury covered by many craters",
+      "alt_ru": "Планета Меркурий, покрытая множеством кратеров",
+      "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+      "credit_url": "https://www.nasa.gov/mission_pages/messenger/multimedia/messenger_orbit_image20111129_1.html",
+      "license": "PD",
+      "license_url": null,
+      "term_numbers": [
+        192,
+        253,
+        354,
+        449
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:HV96bL4x836",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425575/files/Honourable%20mention%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Moon-Mercury-Pleiades%20Conjunction%2C%20by%20Giulio%20Colombo.jpg",
+      "record_url": "https://astro4edu.org/resources/media/HV96bL4x836/",
+      "original_path": "data/media/original/media_HV96bL4x836.jpg",
+      "ru_path": null,
+      "sha256": "6de016849f2a8aef11dafaae3abd31e5c43db56189556b4f29adc56c7ad3434d",
+      "size": 420899,
+      "title_en": "Moon-Mercury-Pleiades Conjunction",
+      "title_ru": "Соединение Луны, Меркурия и Плеяд",
+      "short_caption_en": "Moon-Mercury-Pleiades Conjunction",
+      "short_caption_ru": "Соединение Луны, Меркурия и Плеяд",
+      "caption_en": "Honourable mention in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis photograph shows the young lunar crescent, some of the nine brightest stars of the Pleiades (with one behind a cloud) on the right, and the planet Mercury, looking slightly red, in the middle of the image.\r\n\r\nThis picture is rather suggestive of the idea that the Pleiades might possibly consist of seven stars. However, the viewer is misled by the clouds; five of the stars form a tiny chariot, one is next to the handle, and three are at the other end of the quadrilateral. Eight stars would be clearly visible if there were no clouds.\r\n\r\nThis configuration of the young Moon next to the Pleiades is visible only in the northern hemisphere spring. Thus it was used by the ancient Babylonians to determine the second month of their year and to judge whether or not an intercalary month was necessary. At least as early as the second millennium before the common era, the Babylonians used several asterisms for each month, with another one of them reappearing every five days after invisibility during daylight. To determine the necessity of intercalation in order to synchronise the solar and the lunar year, the Babylonians used several asterisms, not only the Pleiades. For instance, they also made use of the bright stars Arcturus and Sirius, and they observed a configuration with the Moon as well as heliacal phenomena. The modern Jewish and modern Islamic traditions still make use of some of the Babylonian astronomical rules. However, given that the constellations have shifted as a result of precession, and the fact that nowadays we also have computational means to calculate our calendars, this configuration of the small crescent Moon and the Pleiades is less useful, though it remains exceptionally beautiful. Thus the ancient Babylonian and middle Babylonian tradition survives only rudimentarily. Furthermore, it is unlikely that it is depicted in the Nebra Disc from Bronze Age Europe, as has long been claimed.\r\n\r\nThis image was taken on Elba Island, Italy, in May 2022.",
+      "caption_ru": "Почётное упоминание на конкурсе астрофотографии IAU OAE 2022 в категории «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nНа этой фотографии показан молодой серп Луны, некоторые из девяти ярчайших звёзд Плеяд (одна за облаком) справа и планета Меркурий, выглядящая слегка красноватой, в середине изображения.\r\n\r\nЭтот снимок скорее наводит на мысль, что Плеяды, возможно, состоят из семи звёзд. Однако зритель введён в заблуждение облаками; пять звёзд образуют крошечную колесницу, одна находится рядом с ручкой, а три — на другом конце четырёхугольника. Восемь звёзд были бы ясно видны, если бы не было облаков.\r\n\r\nЭта конфигурация молодой Луны рядом с Плеядами видна только весной в Северном полушарии. Таким образом, она использовалась древними вавилонянами для определения второго месяца их года и для суждения о необходимости вставного месяца. По крайней мере, уже во втором тысячелетии до нашей эры вавилоняне использовали несколько астеризмов для каждого месяца, причём один из них снова появлялся каждые пять дней после невидимости в течение дневного света. Чтобы определить необходимость интеркаляции для синхронизации солнечного и лунного года, вавилоняне использовали несколько астеризмов, не только Плеяды. Например, они также использовали яркие звёзды Арктур и Сириус и наблюдали конфигурацию с Луной, а также гелиакические явления. Современные еврейские и современные исламские традиции всё ещё используют некоторые из вавилонских астрономических правил. Однако, учитывая, что созвездия сместились в результате прецессии, и тот факт, что в настоящее время у нас также есть вычислительные средства для расчёта наших календарей, эта конфигурация маленького серпа Луны и Плеяд менее полезна, хотя она остаётся исключительно красивой. Таким образом, древневавилонская и средневавилонская традиция сохраняется лишь рудиментарно. Более того, маловероятно, что она изображена на Небрском диске из Европы бронзового века, как давно утверждалось.\r\n\r\nЭто изображение было сделано на острове Эльба, Италия, в мае 2022.",
+      "alt_en": "The crescent Moon sits to the left of two bright planets. On the right side the Pleiades star cluster can be seen.",
+      "alt_ru": "Серп Луны находится слева от двух ярких планет. Справа видно звёздное скопление Плеяды.",
+      "credit": "Giulio Colombo/ IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        65,
+        192,
+        203,
+        383,
+        397,
+        469
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Ad126X90bo96",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10359166/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20of%20phases%20of%20Venus:%20Venus%20and%20Mercury%20Trails,%20by%20Marcella%20Giulia%20Pace.jpg/content",
+      "record_url": "https://astro4edu.org/resources/media/Ad126X90bo96/",
+      "original_path": "data/media/original/media_Ad126X90bo96.jpg",
+      "ru_path": null,
+      "sha256": "711698ab7b4b30743cca77054d20c3cba97e92641b3d2e8281daf8923d4a2204",
+      "size": 4856589,
+      "title_en": "Venus and Mercury Trails",
+      "title_ru": "Следы Венеры и Меркурия",
+      "short_caption_en": "Venus and Mercury Trails",
+      "short_caption_ru": "Следы Венеры и Меркурия",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images of phases of Venus.\r\n\r\nIn this composite image, both Mercury (left) and Venus (right) can be seen heading into the sunset. The phases of each are beautifully captured as they descend. Not all planets or moons in the Solar System show phases as viewed from Earth. This phenomenon occurs because the orbits of Venus and Mercury are positioned between Earth’s orbit and the Sun, sometimes allowing us to see only part of the illuminated portion of each planet. These phases are similar to the phases we see of our own Moon.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии IAU OAE 2023 года, категория неподвижных изображений фаз Венеры.\r\n\r\nНа этом композитном изображении видны и Меркурий (слева), и Венера (справа), направляющиеся к закату. Фазы каждого из них прекрасно запечатлены по мере их снижения. Не все планеты или луны в Солнечной системе показывают фазы при наблюдении с Земли. Это явление происходит потому, что орбиты Венеры и Меркурия расположены между орбитой Земли и Солнцем, что иногда позволяет нам видеть только часть освещённой части каждой планеты. Эти фазы похожи на фазы, которые мы видим у нашей собственной Луны.",
+      "alt_en": "Mercury appears smaller and fainter than Venus. The bottom right of Venus is an illuminated crescent.",
+      "alt_ru": "Меркурий кажется меньше и тусклее Венеры. В правом нижнем углу Венеры виден освещённый серп.",
+      "credit": "Marcella Giulia Pace (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        192,
+        247,
+        377
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

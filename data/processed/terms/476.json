@@ -1,0 +1,171 @@
+{
+  "id": "term:476",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 476,
+    "url": "https://astro4edu.org/resources/glossary/term/476/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=476",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:43:39.035195+00:00",
+    "sha256": "8d68bb223612136b5fb3bc8186755f2842ba4f794bc4f9aab4eaf1043cde0104"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [
+      2,
+      15,
+      54,
+      180,
+      349,
+      437
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Standard Candle",
+      "body": "A standard candle is an astronomical object whose luminosity (energy emitted per unit time) is known and can be used to estimate the distance from the object to the Earth. For most celestial objects, astronomers do not have information about their distance from Earth. Under those circumstances, it can be difficult to decide whether one is looking at a distant, but very bright object, or a closer and less bright object – the apparent brightness, as measured from Earth, can be the same in both cases. Standard candles have luminosities that can be estimated without knowing their distance. The standard candle's distance can then be calculated by comparing that luminosity and the object's apparent brightness in the night sky. Important examples include Cepheid variables (pulsating stars where there is a relation between the pulsation period and the luminosity), and Type Ia supernovae (bright stellar explosions where there is a relation between the maximum luminosity and the timescale on which the brightness decreases directly afterwards).",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Absolute Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/2/",
+          "text_ru": "Абсолютная звёздная величина"
+        },
+        {
+          "text": "Apparent Magnitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/15/",
+          "text_ru": "Видимая звёздная величина"
+        },
+        {
+          "text": "Cepheid Variable",
+          "url": "https://www.astro4edu.org/resources/glossary/term/54/",
+          "text_ru": "Цефеида"
+        },
+        {
+          "text": "Luminosity",
+          "url": "https://www.astro4edu.org/resources/glossary/term/180/",
+          "text_ru": "Светимость"
+        },
+        {
+          "text": "Supernova",
+          "url": "https://www.astro4edu.org/resources/glossary/term/349/",
+          "text_ru": "Сверхновая"
+        },
+        {
+          "text": "Distance Ladder",
+          "url": "https://www.astro4edu.org/resources/glossary/term/437/",
+          "text_ru": "Лестница расстояний"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Standard Candle</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> A standard candle is an astronomical object whose luminosity (energy emitted per unit time) is known and can be used to estimate the distance from the object to the Earth. <br/><br/>For most celestial objects, astronomers do not have information about their distance from Earth. Under those circumstances, it can be difficult to decide whether one is looking at a distant, but very bright object, or a closer and less bright object – the apparent brightness, as measured from Earth, can be the same in both cases. Standard candles have luminosities that can be estimated without knowing their distance. The standard candle's distance can then be calculated by comparing that luminosity and the object's apparent brightness in the night sky. Important examples include Cepheid variables (pulsating stars where there is a relation between the pulsation period and the luminosity), and Type Ia supernovae (bright stellar explosions where there is a relation between the maximum luminosity and the timescale on which the brightness decreases directly afterwards).</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/2/\">Absolute Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/15/\">Apparent Magnitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/54/\">Cepheid Variable</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/180/\">Luminosity</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/349/\">Supernova</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/437/\">Distance Ladder</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Стандартная свеча",
+      "body_ru": "Стандартная свеча — это астрономический объект, светимость которого (энергия, излучаемая в единицу времени) известна и может использоваться для оценки расстояния от объекта до Земли. Для большинства небесных объектов астрономы не располагают информацией об их расстоянии от Земли. В таких обстоятельствах бывает трудно решить, наблюдается ли далёкий, но очень яркий объект или более близкий и менее яркий объект — видимая яркость, измеренная с Земли, в обоих случаях может быть одинаковой. Стандартные свечи имеют светимости, которые можно оценить, не зная их расстояния. Затем расстояние до стандартной свечи можно вычислить, сравнив эту светимость с видимой яркостью объекта на ночном небе. Важные примеры включают цефеиды (пульсирующие звёзды, у которых существует связь между периодом пульсации и светимостью) и сверхновые типа Ia (яркие звёздные взрывы, у которых существует связь между максимальной светимостью и временным масштабом, на котором яркость непосредственно после этого уменьшается)."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "標準光源 (external link)",
+          "url": "https://astro-dic.jp/standard-candle/",
+          "text_ru": "Стандартный источник света (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/476/\">الشمعة القياسية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/476/\">Standardkerze </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/476/\">vela estándar </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/476/\">Chandelle standard </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/476/\">candela standard </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/standard-candle/\">標準光源 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/476/\">Vela padrão </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/476/\">标准烛光 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/476/\">標準燭光 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Street Lights as Standard Candles astroEDU educational activity (links to astroEDU website) Description: Understand astronomical distances using street lights License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Distances \n  \n  , Distance measurements \n  \n  , Inverse square law Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Secondary \n  \n, University Areas of Learning: Modelling \n  \n, Simulation focussed \n  \n, Technology-based Costs: Low Cost Duration: 3 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/street-lights-as-standard-candles/\"><img alt=\"Street Lights as Standard Candles\" src=\"/media/astroedu/images/street-lights-as-standard-candles_en_thumbnail_4kwPx0g.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/street-lights-as-standard-candles/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Street Lights as Standard Candles</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Understand astronomical distances using street lights\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Distances \n  \n  , Distance measurements \n  \n  , Inverse square law \n  \n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n, 19+ \n  \n<b>Education Level:</b>\n\nInformal \n  \n, Secondary \n  \n, University \n  \n<b>Areas of Learning:</b>\n\nModelling \n  \n, Simulation focussed \n  \n, Technology-based \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n3 hours \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Уличные фонари как стандартные свечи — образовательное мероприятие astroEDU (ссылка на сайт astroEDU) Описание: Понимание астрономических расстояний с помощью уличных фонарей Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Расстояния \n  \n  , Измерения расстояний \n  \n  , Закон обратных квадратов Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Среднее \n  \n, Университетское Области обучения: Моделирование \n  \n, Ориентация на симуляцию \n  \n, На основе технологий Затраты: Низкие затраты Продолжительность: 3 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований \n  \n, Использование математики и вычислительного мышления"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Standard Candle",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Standard Candle",
+          "body": "A standard candle is an astronomical object whose luminosity (energy emitted per unit time) is known and can be used to estimate the distance from the object to the Earth. For most celestial objects, astronomers do not have information about their distance from Earth. Under those circumstances, it can be difficult to decide whether one is looking at a distant, but very bright object, or a closer and less bright object – the apparent brightness, as measured from Earth, can be the same in both cases. Standard candles have luminosities that can be estimated without knowing their distance. The standard candle's distance can then be calculated by comparing that luminosity and the object's apparent brightness in the night sky. Important examples include Cepheid variables (pulsating stars where there is a relation between the pulsation period and the luminosity), and Type Ia supernovae (bright stellar explosions where there is a relation between the maximum luminosity and the timescale on which the brightness decreases directly afterwards)."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Street Lights as Standard Candles astroEDU educational activity (links to astroEDU website) Description: Understand astronomical distances using street lights License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Distances \n  \n  , Distance measurements \n  \n  , Inverse square law Age Ranges: 14-16 \n  \n, 16-19 \n  \n, 19+ Education Level: Informal \n  \n, Secondary \n  \n, University Areas of Learning: Modelling \n  \n, Simulation focussed \n  \n, Technology-based Costs: Low Cost Duration: 3 hours Group Size: Group Skills: Analysing and interpreting data \n  \n, Constructing explanations \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking"
+        }
+      }
+    },
+    "ru": {
+      "title": "Стандартная свеча",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Стандартная свеча",
+          "body": "Стандартная свеча — это астрономический объект, светимость которого (энергия, излучаемая в единицу времени) известна и может использоваться для оценки расстояния от объекта до Земли. Для большинства небесных объектов астрономы не располагают информацией об их расстоянии от Земли. В таких обстоятельствах бывает трудно решить, наблюдается ли далёкий, но очень яркий объект или более близкий и менее яркий объект — видимая яркость, измеренная с Земли, в обоих случаях может быть одинаковой. Стандартные свечи имеют светимости, которые можно оценить, не зная их расстояния. Затем расстояние до стандартной свечи можно вычислить, сравнив эту светимость с видимой яркостью объекта на ночном небе. Важные примеры включают цефеиды (пульсирующие звёзды, у которых существует связь между периодом пульсации и светимостью) и сверхновые типа Ia (яркие звёздные взрывы, у которых существует связь между максимальной светимостью и временным масштабом, на котором яркость непосредственно после этого уменьшается)."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Уличные фонари как стандартные свечи — образовательное мероприятие astroEDU (ссылка на сайт astroEDU) Описание: Понимание астрономических расстояний с помощью уличных фонарей Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: Практическое занятие \n  \n  , Расстояния \n  \n  , Измерения расстояний \n  \n  , Закон обратных квадратов Возрастные диапазоны: 14-16 \n  \n, 16-19 \n  \n, 19+ Уровень образования: Неформальное \n  \n, Среднее \n  \n, Университетское Области обучения: Моделирование \n  \n, Ориентация на симуляцию \n  \n, На основе технологий Затраты: Низкие затраты Продолжительность: 3 часов Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Построение объяснений \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований \n  \n, Использование математики и вычислительного мышления"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

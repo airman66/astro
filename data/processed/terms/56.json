@@ -1,0 +1,1293 @@
+{
+  "id": "term:56",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 56,
+    "url": "https://astro4edu.org/resources/glossary/term/56/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=56",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:21.634741+00:00",
+    "sha256": "ec35496c1e34d521c9531ddb12ce9595fb8ab88fe83ec510fb79a6684c97b2c5"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [
+      "Naked Eye Astronomy"
+    ],
+    "category_ids": [
+      4
+    ],
+    "categories_ru": [
+      "Астрономия невооружённым глазом"
+    ],
+    "related_term_numbers": [
+      78,
+      171,
+      439
+    ],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Circumpolar Stars",
+      "body": "In most locations on Earth, either the celestial North Pole or the celestial South Pole is visible in the sky at some distance above the horizon. For an observer at such a location, the stars appear to rotate around the celestial pole as time passes: Each star traces a circle in the sky, with the circle centered on the celestial pole to which Earth's axis points. At the two points where a circle crosses the observer's horizon, one eastern and the other western, the star in question will rise and set, respectively. For stars that are close enough to the celestial pole, the traced-out circle will be completely above the horizon. Our observer will never see those stars either rise or set. Those never-setting stars are called circumpolar stars. Which stars are circumpolar depends on the observer's geographic latitude and on the star's declination – the latter is the angle between the star's location and the celestial equator.  In the northern hemisphere, a star is circumpolar if its declination is larger than 90° minus the observer's latitude. In the southern hemisphere, we need to take into account that both southern latitudes on Earth and southern declination values have a minus sign. Taking these signs into account, on the southern hemisphere, a star is circumpolar if its declination is smaller than –90° minus the observer's latitude.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "Declination",
+          "url": "https://www.astro4edu.org/resources/glossary/term/78/",
+          "text_ru": "Склонение"
+        },
+        {
+          "text": "Latitude",
+          "url": "https://www.astro4edu.org/resources/glossary/term/171/",
+          "text_ru": "Широта"
+        },
+        {
+          "text": "Earth's Axis",
+          "url": "https://www.astro4edu.org/resources/glossary/term/439/",
+          "text_ru": "Ось Земли"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Circumpolar Stars</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In most locations on Earth, either the celestial North Pole or the celestial South Pole is visible in the sky at some distance above the horizon. For an observer at such a location, the stars appear to rotate around the celestial pole as time passes: Each star traces a circle in the sky, with the circle centered on the celestial pole to which Earth's axis points. At the two points where a circle crosses the observer's horizon, one eastern and the other western, the star in question will rise and set, respectively. For stars that are close enough to the celestial pole, the traced-out circle will be completely above the horizon. Our observer will never see those stars either rise or set. Those never-setting stars are called circumpolar stars. <br/><br/>Which stars are circumpolar depends on the observer's geographic latitude and on the star's declination – the latter is the angle between the star's location and the celestial equator.  In the northern hemisphere, a star is circumpolar if its declination is larger than 90° minus the observer's latitude. In the southern hemisphere, we need to take into account that both southern latitudes on Earth and southern declination values have a minus sign. Taking these signs into account, on the southern hemisphere, a star is circumpolar if its declination is smaller than –90° minus the observer's latitude.</p>\n<p><b>Related Terms:</b><br/>\n<ul>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/78/\">Declination</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/171/\">Latitude</a></li>\n<li><a class=\"link-bold\" href=\"/resources/glossary/term/439/\">Earth's Axis</a></li>\n</ul><br/><br/>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</p></div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Околополярные звёзды",
+      "body_ru": "В большинстве мест на Земле либо северный небесный полюс, либо южный небесный полюс виден в небе на некоторой высоте над горизонтом. Для наблюдателя в таком месте звёзды, по мере течения времени, кажутся вращающимися вокруг небесного полюса: каждая звезда описывает в небе круг, центр которого находится на небесном полюсе, на который указывает ось Земли. В двух точках, где круг пересекает горизонт наблюдателя, одна восточная, а другая западная, рассматриваемая звезда будет соответственно восходить и заходить. Для звёзд, достаточно близких к небесному полюсу, описываемый круг будет полностью над горизонтом. Наш наблюдатель никогда не увидит, как эти звёзды восходят или заходят. Эти незаходящие звёзды называются околополярными. Какие звёзды являются околополярными, зависит от географической широты наблюдателя и от склонения звезды – последнее представляет собой угол между положением звезды и небесным экватором. В северном полушарии звезда является околополярной, если её склонение больше 90° минус широта наблюдателя. В южном полушарии нужно учитывать, что как южные широты на Земле, так и южные значения склонения имеют знак минус. С учётом этих знаков в южном полушарии звезда является околополярной, если её склонение меньше –90° минус широта наблюдателя."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [
+        {
+          "text": "周極星 (external link)",
+          "url": "https://astro-dic.jp/circumpolar-stars/",
+          "text_ru": "Околополярная звезда (внешняя ссылка)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/56/\">النجوم القطبية </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/56/\">Zirkumpolarsterne </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/56/\">Estrellas circumpolares </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/56/\">Étoiles circumpolaires </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/56/\">Stelle circumpolari </a></span></li>\n<li><b>Japanese: </b><span dir=\"LTR\" lang=\"ja\"><a class=\"link-bold\" href=\"https://astro-dic.jp/circumpolar-stars/\">周極星 (external link)</a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/56/\">Estrelas circumpolares </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/56/\">拱极星 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/56/\">拱極星 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "related_media",
+      "type": "media_collection",
+      "heading": "Related Media",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/RE76yE71ww98/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/vD711f36JA50/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/Us94DH337Y14/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/4g12Pr80kF84/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/media/AB430t11jX43/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all media files for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Circumpolar Stars&page=1&language_choice=en&file_type=med&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все медиафайлы по этому термину"
+        }
+      ],
+      "media_ids": [
+        "media:RE76yE71ww98",
+        "media:vD711f36JA50",
+        "media:Us94DH337Y14",
+        "media:4g12Pr80kF84",
+        "media:AB430t11jX43"
+      ],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Media</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/RE76yE71ww98/\"><img alt=\"An all-sky image. Above a ring of stones shaped like door-frames, the bright curved paths of star trails seem to form circles\" src=\"/media/multimedia/thumbnails/stone-star-circles-startrails-above-stonehenge-by-till-credner-ger_Os7pcWI.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Stone Star Circles, Startrails above Stonehenge, by Till Credner, Germany</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Second place in the IAU OAE Astrophotography Contest, category Star trails.\n\nAstronomy is one of the oldest (if not the oldest) of the sciences, and as such has connection to various cultures over millennia. This image in a way conveys this relationship by being contextualised in Stonehenge. There is much research into what astronomers call archeoastronomy sites, and how they connect to the sky (for example, seasons, phases of the moon and much more). Civilizations across time and from all over the world have their own views and interpretations of what they see in the sky, and this has been tied not only to culture but also to the people’s day-to-day and seasonal activities. The “concentric circles” which are often referred to as “star trails”, are the result of the apparent motion of the sky, which is in reality due to the rotation of the Earth on its axis. The small dot appearing towards the top center of the image is Polaris – The North or Pole Star. Polaris is only visible to observers in the Northern latitudes. The height of the Pole Star can be used to infer the observer’s actual latitude. Stonehenge is located at around 51° North. This image is taken from one of the most notable ancient sites in the world, brings us back in time, and makes us wonder about the stories told by the people that lived in that place many millennia ago.<br/>\n<b>Credit:</b> Till Credner/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/vD711f36JA50/\"><img alt=\"Bright star trails for arcs around the center of the image behind the silhouette of a tree\" src=\"/media/multimedia/thumbnails/half-day-exposure-to-the-north-star-by-fabrizio-melandri-italy_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Half day exposure to the north star, by Fabrizio Melandri, Italy</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> First place in the IAU OAE Astrophotography Contest, category Star trails.\n\nThis star trail image shows the apparent movement of the stars in the night sky, which results from the Earth’s rotation around its polar axis. The trees in the foreground serve as an anchor as we turn with the Earth. The bright white semi-circle in the center of the image is the North (Pole) star – Polaris, which is located very close to the North Celestial Pole. One way to imagine that the Earth is at center of hollow crystal sphere, and the stars are embedded on this sphere, as the Earth spins on its axis, an observer on Earth sees the stars rising and setting, following an arc, because the horizon prevents the observer from the full arc for stars that are further away from the Celestial Pole. The North Celestial Pole (and its opposite the South Celestial Pole) is essentially formed by extending the line of the Earth’s axis. Capturing this image requires the photographer to take a long exposure with the camera on a tripod and pointing towards the Pole Star (North Hemisphere). In the Southern Hemisphere there is no star as close as Polaris is to the Celestial Pole, so the position of the South Celestial Pole is found using the South Cross and Pointer Stars (Alpha and Beta Centauri). Although overall the image has a slight blue tint, it does capture the varying colours of stars, it is easy to distinguish between the higher temperature blue stars and the lower temperature of the whitish stars, and even lower temperature reddish stars. The reason for this variation in colour is because higher temperature stars emit more in shorter wavelengths (bluer), compared to lower temperature stars which emit in longer wavelengths (redder).<br/>\n<b>Credit:</b> Fabrizio Melandri/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/Us94DH337Y14/\"><img alt=\"The ladle-shaped Big Dipper with the orange star Arcturus to its left. Right is the diffuse disk-shaped Andromeda galaxy\" src=\"/media/multimedia/thumbnails/dreamlike-starry-sky-and-airglow_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Dreamlike Starry Sky and Airglow</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nThis spectacular image shows a range of prominent constellations visible in the night sky over the desert of inner Mongolia, taken in August 2019. The yellowish star in the bottom left side is Arcturus, one of the brightest stars in the night sky, and the brightest in the constellation Boötes. The handle of the Big Dipper points towards this bright star and the Dipper is also visible above Boötes. The Northern Dipper (Bei Dou) is a traditional Chinese constellation. It is considered a chariot in which the Judges for Nobility are sitting. Arcturus is considered a single-star asterism, named the Horn, which forms part of the Chinese super-constellation for the spring, the Azure Dragon of the East. The front of the Northern Dipper points towards the star at the top of the photograph which is now called Polaris, the northern Pole Star. In ancient China, there was no bright star at the pole, so the stars in the nearest vicinity of the pole were considered to belong to the emperor and his family in the constellation the Purple Forbidden Palace. At least as early as mediaeval times, Polaris was considered part of the constellation of the Great Emperor of Heaven.\n\nCorona Borealis is also visible in the top right corner of this image, although not in its completeness. It is called the Coiled Thong in China. With its characteristic semi-circular shape, this is one of the smaller constellations of the 88 modern ones, but also can be traced back at least three or four millennia through the Roman “Crown”, the Greek wedding “Wreath”, and the Babylonian “Asterism of Dignity”. The modern name literally means “Northern Crown” in Latin.\n\nAt the upper-right edge of the image, we find the part of the modern constellation Cassiopeia that is considered the Flying Corridor and an Auxiliary Road in ancient China. The W-shape of Cassiopeia is cut off by the edge of the photograph but the constellations to its south and southeast, Andromeda and Perseus, are clearly recognisable. Prominently we see the Andromeda galaxy, the most distant object that is visible to the unaided eye. It is located at the outermost outliers of the band of the Milky Way, which could explain why it has not been mentioned explicitly in ancient star catalogues, as it was mistakenly thought to be part of the Milky Way. The photograph also shows clearly reddish parts of the Milky Way that don’t appear bright to the naked eye, and also open clusters that are formed from the same molecular cloud, i.e., groups of stars with similar ages. This region is part of many big and small asterisms in traditional Chinese uranology.<br/>\n<b>Credit:</b> Likai Lin/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/4g12Pr80kF84/\"><img alt=\"The Big Dipper, seven bright stars shaped like a ladle, viewed in 4 seasons, each time at a different angle\" src=\"/media/multimedia/thumbnails/big-dipper-in-four-seasons_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Dipper in Four Seasons</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\n\n \n\nAs Earth moves around the Sun, the positions of the stars in the night sky appear to change over the course of the year. This is well exemplified in this mosaic, with images taken in all four seasons throughout 2020 in the region of Veneto, Italy, showing the apparent motion of the Ursa Minor and Ursa Major constellations.\n\nUrsa Minor, the Little Bear, is a constellation of the northern hemisphere, and it contains the northern celestial pole, in our current epoch marked by a bright star called Polaris or the Pole Star. For centuries Polaris has been used for navigation in the northern hemisphere, as it has been almost at the exact pole position for roughly 200 years. In the Middle Ages and antiquity, there was no pole star; the celestial north pole lay in a dark region and the Greeks considered the “Little She-Bear” as a companion of the “Great She-Bear”, which is more easily recognizable. The brightest stars of these constellations were alternatively also considered as chariots by the Greeks, as written in Aratus’s famous didactic poem from the 3rd century before the common era. The most famous asterism in Ursa Major, composed of seven stars, has different names across the (northern) world. While considered as a chariot by the Greeks, it is “The Northern Dipper” in China, and “The Seven Oxen” for the ancient Romans.\n\nIt was also the navigational purpose that led to the name The Great She-Bear, Ursa Major; for the Greeks, travelling towards the direction of the horizon above which Ursa Major appears meant moving towards the land of the bears (northern Europe). An animal is clearly recognizable when taking into account all the fainter stars in the vicinity of the seven bright ones. They considered it a female bear because Greek mythology connects this animal with the nymph Callisto, whose story describes the initiation rituals for women.\n\nIn the top left, we see an image taken on a spring evening, while the image below shows the same portion of the sky on a summer evening. Going counterclockwise, we see the sky during autumn in the bottom right image, while the top right finally shows this portion of the sky in the winter. Note that the relative positions of Ursa Minor and the Big Dipper don’t change, but all stars appear to be moved in a circle around Polaris. This star pointing due north lies at the point where Earth’s rotational axis intersects the celestial sphere.\n\nThe shift of constellations throughout the year is therefore a globe-clock or a globe-calendar, used by ancient civilizations to measure the year, and to predict the changes of seasons. It helps to establish, for instance, the best time for sowing and sailing as winds change with the seasons.<br/>\n<b>Credit:</b> Giorgia Hofer/IAU OAE\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"/resources/media/AB430t11jX43/\"><img alt=\"The Big Dipper drifts lower towards the horizon on the left, on the right a comet rises in the sky.\" src=\"/media/multimedia/thumbnails/Big_Dipper_and_Comet_Neowise_C2020_F3_by_Giorgia_Hofer_thumbnail.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Big Dipper and Comet Neowise C2020 F3</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\n\nThis time-lapse documents the trajectory of the iconic Big Dipper across three frames taken in July 2020. Captured from three locations in Italy, Tre Cime di Lavaredo Auronzo di Cadore, Monte Rite, Cibiana di Cadore, and Casera Razzo, Vigo di Cadore, this visual odyssey showcases the captivating journey of the Big Dipper with the addition of trails of stars painting a celestial canvas. It not only traces the path of this renowned asterism but also features the rare appearance of comet Neowise C/2020 F3, an extraordinary event that graced our skies during July 2020.<br/>\n<b>Credit:</b> Giorgia Hofer/IAU OAE (CC BY 4.0)\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Circumpolar Stars&amp;page=1&amp;language_choice=en&amp;file_type=med&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all media files<br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#diagrams\" title=\"scroll to linked diagrams\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные материалы"
+    },
+    {
+      "id": "related_diagrams",
+      "type": "media_collection",
+      "heading": "Related Diagrams",
+      "body": "",
+      "links": [
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/VE43cn914B57/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/wT49Db11i836/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/hq75BY71AZ88/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/Df427a55Gc18/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "",
+          "url": "https://www.astro4edu.org/resources/diagram/pl23j39MY52/"
+        },
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        },
+        {
+          "text": "Browse all diagrams for this term",
+          "url": "https://www.astro4edu.org/resources/search-results/?search_term=Circumpolar Stars&page=1&language_choice=en&file_type=dia&language_restriction=all&license_restriction=all&category_restriction=all#search_results",
+          "text_ru": "Просмотреть все диаграммы для этого термина"
+        }
+      ],
+      "media_ids": [
+        "diagram:VE43cn914B57",
+        "diagram:wT49Db11i836",
+        "diagram:hq75BY71AZ88",
+        "diagram:Df427a55Gc18",
+        "diagram:pl23j39MY52"
+      ],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"media\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Related Diagrams</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/VE43cn914B57/\"><img alt=\"Cassiopeia appears as a double-u shape tilted up at the left end by about 45 degrees\" src=\"/media/diagrams/multimedia/thumbnails/cassiopeia-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Cassiopeia Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Cassiopeia along with its bright stars and its surrounding constellations. Cassiopeia is surrounded by (going clockwise from the top):Cepheus, Andromeda, Perseus and Camelopardalis. \n\nCassiopeia is a northern constellation that is visible from all of the northern hemisphere and equatorial regions of the southern hemisphere. It is most visible in the evenings in the northern hemisphere late autumn and southern hemisphere late spring.\n\nThe open star clusters M52, M103, NGC 457 and NGC 663 all lie in this constellation. These are marked with yellow circles. Two dwarf elliptical galaxies NGC 147 and NGC 185 lie in the southern part of the constellation. These are marked with red ellipses and are gravitationally bound to the larger Andromeda galaxy which lies to the south in the constellation of Andromeda.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/wT49Db11i836/\"><img alt=\"Ursa Minor appears as a small ladle with the end of the handle, the location of Polaris, at the north pole\" src=\"/media/diagrams/multimedia/thumbnails/ursa_minor-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ursa Minor Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Ursa Minor along with its bright stars and its surrounding constellations. Ursa Minor is surrounded by (going clockwise from the top): Cephus, Camelopardalis and Draco. Ursa Minor is notable as its brightest star, Polaris is the northern pole star. \n\nUrsa Minor is visible from the entire northern hemisphere with some parts of the constellation being visible from equatorial regions of the southern hemisphere. It is also circumpolar for temperate and arctic regions of the northern hemisphere. Polaris, lying very close the north celestial pole is circumpolar for the whole of the northern hemisphere. The constellation is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter.\n\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values (in hours) of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination (in degrees) are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/hq75BY71AZ88/\"><img alt=\"Ursa Major appears as a ladle with the handle to the east &amp; the cup to the west. Lines of fainter stars extend to the south\" src=\"/media/diagrams/multimedia/thumbnails/ursa-major-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Ursa Major Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Ursa Major along with its bright stars and its surrounding constellations. Ursa Major is surrounded by (going clockwise from the top): Draco, Camelopardalis, Lynx, Leo Minor, Leo, Coma Berenices, Canes Venatici and Boötes. Ursa Major is famous for the prominent asterism often known in English as the Big Dipper or the Plough. This prominent northern asterism has a wide variety of names from cultures across the world. While most constellations and asterisms are made up of unrelated stars that randomly appear close together on the sky, five of the stars in the Big Dipper are part of the Ursa Major Moving Group, a group of stars moving through space together that likely formed in the same location 300 million years ago. The two stars on the right-hand end of the Big Dipper on this diagram form a pair of pointer stars that can be used to locate Polaris, the northern pole star which lies in the constellation of Ursa Minor.\n\nUrsa Major is a northern constellation and is visible from northern and equatorial regions. Parts of the constellation are visible from all but the most antarctic parts of the southern hemisphere but not all temperate regions of the southern hemisphere can see all of the Big Dipper. Conversely the Big Dipper and much of the rest of the constellation are circumpolar in arctic and many temperate regions of the northern hemisphere. Ursa Major is most visible in the evening in the northern hemisphere spring and southern hemisphere autumn. \n\nTwo prominent galaxies appear in the northern part of this constellation, the spiral galaxy M81 and M82, a possible spiral galaxy whose structure is difficult to observe from the Earth as it appears edge-on. Both are shown here as red ellipses. The planetary nebula M97 (the Owl Nebula) lies in the middle of the constellation and is marked by a green circle superimposed on a plus symbol. \n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/Df427a55Gc18/\"><img alt=\"Apus has an northward-pointing isosceles triangle on the east end of an east-west line.\" src=\"/media/diagrams/multimedia/thumbnails/apus-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Apus Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Apus with its bright stars and surrounding constellations. Apus is surrounded by (going clockwise from the top): Triangulum Australe, Circinus, Musca, Chamaeleon, Octans, Pavo and Ara.\n\nApus is a southern constellation lying close to the south celestial pole. As such it is visible at some point in the year from the entire southern hemisphere but is only visible from the most equatorial regions of the northern hemisphere. Apus is circumpolar for all temperate and antarctic regions of the southern hemisphere. It is most visible in the evenings in the northern hemisphere summer and southern hemisphere autumn. \n\nThe globular cluster NGC 6101 can be found in Apus. It is marked here with a yellow circle with a plus symbol superimposed on it.\n\nThis diagram maps an area around the south celestial pole. Here lines of constant right ascension converge. The right ascension values (in hours) of these lines are marked on the x-axis above and below the diagram. Lines of constant declination (in degrees) are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex dir=\" ltr\"=\"\">\n<br/>\n<a href=\"/resources/diagram/pl23j39MY52/\"><img alt=\"Auriga looks like a head with a pointed hat on. The ecliptic runs East to West below Auriga\" src=\"/media/diagrams/multimedia/thumbnails/auriga-constellation-map_en_thumbnail.png\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6 flex\">\n<div class=\"staff\">\n<h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Auriga Constellation Map</h3>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>Caption:</b> The constellation Auriga with its bright stars and surrounding constellations. Auriga is surrounded by (going clockwise from the top): Camelopardalis, Perseus, Taurus, Gemini and Lynx. Capella, the brightest star in Auriga, is the sixth brightest star in the night sky.\n\nAs a northern constellation, Auriga is visible from the whole of the northern hemisphere at some point in the year. The whole of the constellation is visible to equatorial regions of the southern hemisphere with parts of it visible to temperate southern regions. The whole constellation is circumpolar from arctic regions. The constellation is best viewed in the evening in the late northern hemisphere winter and late southern hemisphere summer. \n\nAuriga lies in the plane of the Milky Way and thus hosts a number of open clusters. Of these M36, M37 and M38 are marked on this diagram with yellow circles. IC 405, also known as the flaming star nebula, is marked here with a green square.\n\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line at the bottom of the diagram marks the ecliptic. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.<br/>\n<b>Credit:</b> Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky &amp; Telescope\n\t  <br/>\n</p>\n<p class=\"ltr-align\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"col-sm-8 col-sm-offset-2 align-center\">\n<a class=\"btn btn-g btn-round align-center\" href=\"/resources/search-results/?search_term=Circumpolar Stars&amp;page=1&amp;language_choice=en&amp;file_type=dia&amp;language_restriction=all&amp;license_restriction=all&amp;category_restriction=all#search_results\">Browse all diagrams <br/>for this term</a>\n<br/>\n<br/>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#activities\" title=\"scroll to linked activities\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные диаграммы"
+    },
+    {
+      "id": "section_5",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Navigation in the Ancient Mediterranean and Beyond astroEDU educational activity (links to astroEDU website) Description: Learn the ancient skill of Celestial Navigation License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Celestial navigation Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/navigation-in-the-ancient-mediterranean-and-beyond/\"><img alt=\"Navigation in the Ancient Mediterranean and Beyond\" src=\"/media/astroedu/images/navigation-in-the-ancient-mediterranean-and-beyond_en_thumbnail_lbrake6.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/navigation-in-the-ancient-mediterranean-and-beyond/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Navigation in the Ancient Mediterranean and Beyond</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn the ancient skill of Celestial Navigation\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  History \n  \n  , Geography \n  \n  , Celestial navigation \n  \n<b>Age Ranges:</b>\n\n14-16 \n  \n, 16-19 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Secondary \n  \n<b>Areas of Learning:</b>\n\nDiscussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning \n  \n<b>Costs:</b>\nLow Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия Навигация в древнем Средиземноморье и за его пределами образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Изучите древний навык небесной навигации Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , География \n  \n  , Небесная навигация Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Средняя школа \n  \n, Среднее образование Области обучения: Дискуссионные группы \n  \n, Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований \n  \n, Использование математики и вычислительного мышления"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Circumpolar Stars",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Circumpolar Stars",
+          "body": "In most locations on Earth, either the celestial North Pole or the celestial South Pole is visible in the sky at some distance above the horizon. For an observer at such a location, the stars appear to rotate around the celestial pole as time passes: Each star traces a circle in the sky, with the circle centered on the celestial pole to which Earth's axis points. At the two points where a circle crosses the observer's horizon, one eastern and the other western, the star in question will rise and set, respectively. For stars that are close enough to the celestial pole, the traced-out circle will be completely above the horizon. Our observer will never see those stars either rise or set. Those never-setting stars are called circumpolar stars. Which stars are circumpolar depends on the observer's geographic latitude and on the star's declination – the latter is the angle between the star's location and the celestial equator.  In the northern hemisphere, a star is circumpolar if its declination is larger than 90° minus the observer's latitude. In the southern hemisphere, we need to take into account that both southern latitudes on Earth and southern declination values have a minus sign. Taking these signs into account, on the southern hemisphere, a star is circumpolar if its declination is smaller than –90° minus the observer's latitude."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Related Media",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Related Diagrams",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Related Activities",
+          "body": "Related Activities Navigation in the Ancient Mediterranean and Beyond astroEDU educational activity (links to astroEDU website) Description: Learn the ancient skill of Celestial Navigation License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: History \n  \n  , Geography \n  \n  , Celestial navigation Age Ranges: 14-16 \n  \n, 16-19 Education Level: Middle School \n  \n, Secondary Areas of Learning: Discussion Groups \n  \n, Modelling \n  \n, Structured-inquiry learning Costs: Low Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Communicating information \n  \n, Developing and using models \n  \n, Planning and carrying out investigations \n  \n, Using mathematics and computational thinking"
+        }
+      }
+    },
+    "ru": {
+      "title": "Околополярные звёзды",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Околополярные звёзды",
+          "body": "В большинстве мест на Земле либо северный небесный полюс, либо южный небесный полюс виден в небе на некоторой высоте над горизонтом. Для наблюдателя в таком месте звёзды, по мере течения времени, кажутся вращающимися вокруг небесного полюса: каждая звезда описывает в небе круг, центр которого находится на небесном полюсе, на который указывает ось Земли. В двух точках, где круг пересекает горизонт наблюдателя, одна восточная, а другая западная, рассматриваемая звезда будет соответственно восходить и заходить. Для звёзд, достаточно близких к небесному полюсу, описываемый круг будет полностью над горизонтом. Наш наблюдатель никогда не увидит, как эти звёзды восходят или заходят. Эти незаходящие звёзды называются околополярными. Какие звёзды являются околополярными, зависит от географической широты наблюдателя и от склонения звезды – последнее представляет собой угол между положением звезды и небесным экватором. В северном полушарии звезда является околополярной, если её склонение больше 90° минус широта наблюдателя. В южном полушарии нужно учитывать, что как южные широты на Земле, так и южные значения склонения имеют знак минус. С учётом этих знаков в южном полушарии звезда является околополярной, если её склонение меньше –90° минус широта наблюдателя."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "related_media": {
+          "heading": "Связанные материалы",
+          "body": ""
+        },
+        "related_diagrams": {
+          "heading": "Связанные диаграммы",
+          "body": ""
+        },
+        "section_5": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия Навигация в древнем Средиземноморье и за его пределами образовательное мероприятие astroEDU (ссылки на веб-сайт astroEDU) Описание: Изучите древний навык небесной навигации Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки Теги: История \n  \n  , География \n  \n  , Небесная навигация Возрастные диапазоны: 14-16 \n  \n, 16-19 Уровень образования: Средняя школа \n  \n, Среднее образование Области обучения: Дискуссионные группы \n  \n, Моделирование \n  \n, Структурированное исследовательское обучение Затраты: Низкая стоимость Продолжительность: 1 час 30 минут Размер группы: Группа Навыки: Анализ и интерпретация данных \n  \n, Постановка вопросов \n  \n, Передача информации \n  \n, Разработка и использование моделей \n  \n, Планирование и проведение исследований \n  \n, Использование математики и вычислительного мышления"
+        }
+      }
+    }
+  },
+  "media": [
+    {
+      "id": "media:RE76yE71ww98",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5371591/files/Second%20place%20in%20the%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Star%20trails%3A%20Stone%20Star%20Circles%2C%20Startrails%20above%20Stonehenge%2C%20by%20Till%20Credner%2C%20Germany.jpg",
+      "record_url": "https://astro4edu.org/resources/media/RE76yE71ww98/",
+      "original_path": "data/media/original/media_RE76yE71ww98.jpg",
+      "ru_path": null,
+      "sha256": "3331cb68fffe8863ddc276183c4de0a3c4d5f0d7e10f81df44af9de7878fbf74",
+      "size": 1261161,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Astronomy is one of the oldest (if not the oldest) of the sciences, and as such has connection to various cultures over millennia.",
+      "short_caption_ru": "Астрономия — одна из древнейших (если не самая древняя) наук, и как таковая она связана с различными культурами на протяжении тысячелетий.",
+      "caption_en": "Second place in the IAU OAE Astrophotography Contest, category Star trails.\r\n\r\nAstronomy is one of the oldest (if not the oldest) of the sciences, and as such has connection to various cultures over millennia. This image in a way conveys this relationship by being contextualised in Stonehenge. There is much research into what astronomers call archeoastronomy sites, and how they connect to the sky (for example, seasons, phases of the moon and much more). Civilizations across time and from all over the world have their own views and interpretations of what they see in the sky, and this has been tied not only to culture but also to the people’s day-to-day and seasonal activities. The “concentric circles” which are often referred to as “star trails”, are the result of the apparent motion of the sky, which is in reality due to the rotation of the Earth on its axis. The small dot appearing towards the top center of the image is Polaris – The North or Pole Star. Polaris is only visible to observers in the Northern latitudes. The height of the Pole Star can be used to infer the observer’s actual latitude. Stonehenge is located at around 51° North. This image is taken from one of the most notable ancient sites in the world, brings us back in time, and makes us wonder about the stories told by the people that lived in that place many millennia ago.",
+      "caption_ru": "Второе место в конкурсе астрофотографии IAU OAE, категория «Звёздные треки».\r\n\r\nАстрономия — одна из древнейших (если не самая древняя) наук, и как таковая она связана с различными культурами на протяжении тысячелетий. Это изображение в некотором смысле передаёт эту связь, будучи помещённым в контекст Стоунхенджа. Существует множество исследований того, что астрономы называют археоастрономическими объектами, и того, как они связаны с небом (например, сезоны, фазы Луны и многое другое). Цивилизации на протяжении времени и по всему миру имеют свои собственные взгляды и интерпретации того, что они видят в небе, и это было связано не только с культурой, но и с повседневной и сезонной деятельностью людей. «Концентрические круги», которые часто называют «звёздными треками», являются результатом видимого движения неба, которое в действительности обусловлено вращением Земли вокруг своей оси. Маленькая точка, появляющаяся ближе к верхнему центру изображения, — это Полярная звезда — Северная или Полярная звезда. Полярная звезда видна только наблюдателям в северных широтах. Высота Полярной звезды может быть использована для определения фактической широты наблюдателя. Стоунхендж расположен примерно на 51° северной широты. Это изображение, снятое в одном из самых известных древних мест в мире, возвращает нас в прошлое и заставляет задуматься о историях, рассказанных людьми, жившими в этом месте много тысячелетий назад.",
+      "alt_en": "An all-sky image. Above a ring of stones shaped like door-frames, the bright curved paths of star trails seem to form circles",
+      "alt_ru": "Панорамное изображение всего неба. Над кольцом камней, имеющих форму дверных проёмов, яркие изогнутые следы звёзд, кажется, образуют круги",
+      "credit": "Till Credner/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        56,
+        477
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:vD711f36JA50",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/5371231/files/First%20place%20in%20the%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Star%20trails%3A%20Half%20day%20exposure%20to%20the%20north%20star%2C%20by%20Fabrizio%20Melandri%2C%20Italy.jpg",
+      "record_url": "https://astro4edu.org/resources/media/vD711f36JA50/",
+      "original_path": "data/media/original/media_vD711f36JA50.jpg",
+      "ru_path": null,
+      "sha256": "87f994add304ab9e9c200f1529f423ed2d6b0b3de14b69a9bd3325e8caacd583",
+      "size": 6111501,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "This star trail image shows the apparent movement of the stars in the night sky, which results from the Earth’s rotation around its polar axis.",
+      "short_caption_ru": "Это изображение звёздных треков показывает видимое движение звёзд на ночном небе, которое является результатом вращения Земли вокруг своей полярной оси.",
+      "caption_en": "First place in the IAU OAE Astrophotography Contest, category Star trails.\r\n\r\nThis star trail image shows the apparent movement of the stars in the night sky, which results from the Earth’s rotation around its polar axis. The trees in the foreground serve as an anchor as we turn with the Earth. The bright white semi-circle in the center of the image is the North (Pole) star – Polaris, which is located very close to the North Celestial Pole. One way to imagine that the Earth is at center of hollow crystal sphere, and the stars are embedded on this sphere, as the Earth spins on its axis, an observer on Earth sees the stars rising and setting, following an arc, because the horizon prevents the observer from the full arc for stars that are further away from the Celestial Pole. The North Celestial Pole (and its opposite the South Celestial Pole) is essentially formed by extending the line of the Earth’s axis. Capturing this image requires the photographer to take a long exposure with the camera on a tripod and pointing towards the Pole Star (North Hemisphere). In the Southern Hemisphere there is no star as close as Polaris is to the Celestial Pole, so the position of the South Celestial Pole is found using the South Cross and Pointer Stars (Alpha and Beta Centauri). Although overall the image has a slight blue tint, it does capture the varying colours of stars, it is easy to distinguish between the higher temperature blue stars and the lower temperature of the whitish stars, and even lower temperature reddish stars. The reason for this variation in colour is because higher temperature stars emit more in shorter wavelengths (bluer), compared to lower temperature stars which emit in longer wavelengths (redder).",
+      "caption_ru": "Первое место в конкурсе астрофотографии IAU OAE, категория «Звёздные треки».\r\n\r\nЭто изображение звёздных треков показывает видимое движение звёзд на ночном небе, которое является результатом вращения Земли вокруг своей полярной оси. Деревья на переднем плане служат якорем, когда мы вращаемся вместе с Землёй. Яркий белый полукруг в центре изображения — это Северная (полярная) звезда — Полярис, которая расположена очень близко к Северному небесному полюсу. Один из способов представить, что Земля находится в центре полой хрустальной сферы, а звёзды встроены в эту сферу: когда Земля вращается вокруг своей оси, наблюдатель на Земле видит, как звёзды восходят и заходят, следуя по дуге, потому что горизонт не позволяет наблюдателю увидеть полную дугу для звёзд, находящихся дальше от Небесного полюса. Северный небесный полюс (и противоположный ему Южный небесный полюс) по существу образуется продолжением линии оси Земли. Чтобы получить это изображение, фотографу необходимо сделать длинную выдержку, установив камеру на штатив и направив её на Полярную звезду (Северное полушарие). В Южном полушарии нет звезды, столь же близкой к Небесному полюсу, как Полярная звезда, поэтому положение Южного небесного полюса находят с помощью Южного Креста и Указателей (Альфа и Бета Центавра). Хотя в целом изображение имеет лёгкий синеватый оттенок, оно действительно передаёт различные цвета звёзд: легко различить более горячие голубые звёзды и более холодные беловатые звёзды, и даже ещё более холодные красноватые звёзды. Причина такого разнообразия цветов заключается в том, что более горячие звёзды излучают больше на более коротких волнах (синее), по сравнению с более холодными звёздами, которые излучают на более длинных волнах (краснее).",
+      "alt_en": "Bright star trails for arcs around the center of the image behind the silhouette of a tree",
+      "alt_ru": "Яркие звёздные треки в виде дуг вокруг центра изображения за силуэтом дерева",
+      "credit": "Fabrizio Melandri/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        56,
+        477
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Us94DH337Y14",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425254/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Dreamlike%20Starry%20Sky%20and%20Airglow%2C%20by%20Likai%20Lin.jpg",
+      "record_url": "https://astro4edu.org/resources/media/Us94DH337Y14/",
+      "original_path": "data/media/original/media_Us94DH337Y14.jpg",
+      "ru_path": null,
+      "sha256": "2d0b30b77f7203f27c0c91038b4e4065400262038e88ebaa407e56f6436fc276",
+      "size": 9418988,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Dreamlike Starry Sky and Airglow",
+      "short_caption_ru": "Мечтательное звёздное небо и свечение атмосферы",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nThis spectacular image shows a range of prominent constellations visible in the night sky over the desert of inner Mongolia, taken in August 2019. The yellowish star in the bottom left side is Arcturus, one of the brightest stars in the night sky, and the brightest in the constellation Boötes. The handle of the Big Dipper points towards this bright star and the Dipper is also visible above Boötes. The Northern Dipper (Bei Dou) is a traditional Chinese constellation. It is considered a chariot in which the Judges for Nobility are sitting. Arcturus is considered a single-star asterism, named the Horn, which forms part of the Chinese super-constellation for the spring, the Azure Dragon of the East. The front of the Northern Dipper points towards the star at the top of the photograph which is now called Polaris, the northern Pole Star. In ancient China, there was no bright star at the pole, so the stars in the nearest vicinity of the pole were considered to belong to the emperor and his family in the constellation the Purple Forbidden Palace. At least as early as mediaeval times, Polaris was considered part of the constellation of the Great Emperor of Heaven.\r\n\r\nCorona Borealis is also visible in the top right corner of this image, although not in its completeness. It is called the Coiled Thong in China. With its characteristic semi-circular shape, this is one of the smaller constellations of the 88 modern ones, but also can be traced back at least three or four millennia through the Roman “Crown”, the Greek wedding “Wreath”, and the Babylonian “Asterism of Dignity”. The modern name literally means “Northern Crown” in Latin.\r\n\r\nAt the upper-right edge of the image, we find the part of the modern constellation Cassiopeia that is considered the Flying Corridor and an Auxiliary Road in ancient China. The W-shape of Cassiopeia is cut off by the edge of the photograph but the constellations to its south and southeast, Andromeda and Perseus, are clearly recognisable. Prominently we see the Andromeda galaxy, the most distant object that is visible to the unaided eye. It is located at the outermost outliers of the band of the Milky Way, which could explain why it has not been mentioned explicitly in ancient star catalogues, as it was mistakenly thought to be part of the Milky Way. The photograph also shows clearly reddish parts of the Milky Way that don’t appear bright to the naked eye, and also open clusters that are formed from the same molecular cloud, i.e., groups of stars with similar ages. This region is part of many big and small asterisms in traditional Chinese uranology.",
+      "caption_ru": "Победитель в конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nЭтот впечатляющий снимок показывает ряд заметных созвездий, видимых на ночном небе над пустыней Внутренней Монголии, сделанный в августе 2019 года. Желтоватая звезда в нижнем левом углу — Арктур, одна из ярчайших звёзд ночного неба и самая яркая в созвездии Волопаса. Рукоятка Большого Ковша указывает на эту яркую звезду, и сам Ковш также виден над Волопасом. Северный Ковш (Бэй Доу) — традиционное китайское созвездие. Он считается колесницей, в которой сидят Судьи Знатности. Арктур считается астеризмом из одной звезды под названием Рог, который является частью китайского супер-созвездия весны — Лазурного Дракона Востока. Передняя часть Северного Ковша указывает на звезду в верхней части фотографии, которая сейчас называется Полярной, северной Полярной звездой. В древнем Китае на полюсе не было яркой звезды, поэтому звёзды в ближайших окрестностях полюса считались принадлежащими императору и его семье в созвездии Пурпурного Запретного Дворца. По крайней мере, уже в средневековые времена Полярная звезда считалась частью созвездия Великого Императора Неба.\r\n\r\nВ правом верхнем углу этого изображения также видна Северная Корона, хотя и не полностью. В Китае она называется Свёрнутым Ремнём. Благодаря своей характерной полукруглой форме это одно из меньших созвездий из 88 современных, но его можно проследить по крайней мере на три-четыре тысячелетия назад через римскую «Корону», греческий свадебный «Венок» и вавилонский «Астеризм Достоинства». Современное название буквально означает «Северная Корона» на латыни.\r\n\r\nУ верхнего правого края изображения мы находим часть современного созвездия Кассиопеи, которая в древнем Китае считалась Летящим Коридором и Вспомогательной Дорогой. W-образная форма Кассиопеи обрезана краем фотографии, но созвездия к югу и юго-востоку от неё, Андромеда и Персей, ясно узнаваемы. Заметно мы видим галактику Андромеды, самый далёкий объект, видимый невооружённым глазом. Она расположена на самых внешних окраинах полосы Млечного Пути, что могло бы объяснить, почему она не упоминалась явно в древних звёздных каталогах, так как ошибочно считалась частью Млечного Пути. На фотографии также ясно видны красноватые части Млечного Пути, которые не кажутся яркими невооружённому глазу, а также рассеянные скопления, образованные из одного молекулярного облака, то есть группы звёзд с одинаковым возрастом. Этот регион является частью многих больших и малых астеризмов в традиционной китайской уранологии.",
+      "alt_en": "The ladle-shaped Big Dipper with the orange star Arcturus to its left. Right is the diffuse disk-shaped Andromeda galaxy",
+      "alt_ru": "Ковшеобразный Большой Ковш с оранжевой звездой Арктур слева от него. Справа — диффузная дисковидная галактика Андромеды",
+      "credit": "Likai Lin/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        56,
+        217,
+        261,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:4g12Pr80kF84",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/record/7425134/files/Winner%20in%20the%202022%20IAU%20OAE%20Astrophotography%20Contest%2C%20category%20Still%20images%20of%20celestial%20patterns%3A%20Big%20Dipper%20in%20Four%20Seasons%2C%20by%20Giorgia%20Hofer.jpg",
+      "record_url": "https://astro4edu.org/resources/media/4g12Pr80kF84/",
+      "original_path": "data/media/original/media_4g12Pr80kF84.jpg",
+      "ru_path": null,
+      "sha256": "a82ba4ebb571fe3f7523ab07d4fecc14661ffc4a961d963e0071f81a7078fd9f",
+      "size": 2388562,
+      "title_en": "",
+      "title_ru": "",
+      "short_caption_en": "Big Dipper in Four Seasons",
+      "short_caption_ru": "Большой Ковш в четырёх сезонах",
+      "caption_en": "Winner in the 2022 IAU OAE Astrophotography Contest, category Still images of celestial patterns.\r\n\r\n \r\n\r\nAs Earth moves around the Sun, the positions of the stars in the night sky appear to change over the course of the year. This is well exemplified in this mosaic, with images taken in all four seasons throughout 2020 in the region of Veneto, Italy, showing the apparent motion of the Ursa Minor and Ursa Major constellations.\r\n\r\nUrsa Minor, the Little Bear, is a constellation of the northern hemisphere, and it contains the northern celestial pole, in our current epoch marked by a bright star called Polaris or the Pole Star. For centuries Polaris has been used for navigation in the northern hemisphere, as it has been almost at the exact pole position for roughly 200 years. In the Middle Ages and antiquity, there was no pole star; the celestial north pole lay in a dark region and the Greeks considered the “Little She-Bear” as a companion of the “Great She-Bear”, which is more easily recognizable. The brightest stars of these constellations were alternatively also considered as chariots by the Greeks, as written in Aratus’s famous didactic poem from the 3rd century before the common era. The most famous asterism in Ursa Major, composed of seven stars, has different names across the (northern) world. While considered as a chariot by the Greeks, it is “The Northern Dipper” in China, and “The Seven Oxen” for the ancient Romans.\r\n\r\nIt was also the navigational purpose that led to the name The Great She-Bear, Ursa Major; for the Greeks, travelling towards the direction of the horizon above which Ursa Major appears meant moving towards the land of the bears (northern Europe). An animal is clearly recognizable when taking into account all the fainter stars in the vicinity of the seven bright ones. They considered it a female bear because Greek mythology connects this animal with the nymph Callisto, whose story describes the initiation rituals for women.\r\n\r\nIn the top left, we see an image taken on a spring evening, while the image below shows the same portion of the sky on a summer evening. Going counterclockwise, we see the sky during autumn in the bottom right image, while the top right finally shows this portion of the sky in the winter. Note that the relative positions of Ursa Minor and the Big Dipper don’t change, but all stars appear to be moved in a circle around Polaris. This star pointing due north lies at the point where Earth’s rotational axis intersects the celestial sphere.\r\n\r\nThe shift of constellations throughout the year is therefore a globe-clock or a globe-calendar, used by ancient civilizations to measure the year, and to predict the changes of seasons. It helps to establish, for instance, the best time for sowing and sailing as winds change with the seasons.",
+      "caption_ru": "Победитель в конкурсе астрофотографии МАС OAE 2022, категория «Неподвижные изображения небесных узоров».\r\n\r\n \r\n\r\nПо мере движения Земли вокруг Солнца положения звёзд на ночном небе, как кажется, меняются в течение года. Это хорошо иллюстрируется в этой мозаике, с изображениями, сделанными во все четыре сезона в течение 2020 года в регионе Венето, Италия, показывающими видимое движение созвездий Малой Медведицы и Большой Медведицы.\r\n\r\nМалая Медведица — созвездие Северного полушария, и оно содержит северный небесный полюс, в нашу текущую эпоху отмеченный яркой звездой, называемой Полярной, или Полярной звездой. В течение столетий Полярная звезда использовалась для навигации в Северном полушарии, так как она находилась почти в точном положении полюса примерно 200 лет. В Средние века и в античности не было полярной звезды; северный небесный полюс лежал в тёмной области, и греки считали «Малую Медведицу» спутницей «Большой Медведицы», которая более легко узнаваема. Самые яркие звёзды этих созвездий также альтернативно считались греками колесницами, как написано в знаменитой дидактической поэме Арата из 3-го века до нашей эры. Самый известный астеризм в Большой Медведице, состоящий из семи звёзд, имеет разные названия по всему (северному) миру. В то время как греки считали его колесницей, в Китае это «Северный Ковш», а для древних римлян — «Семь Волов».\r\n\r\nИменно навигационное назначение привело к названию Большая Медведица, Ursa Major; для греков путешествие в направлении горизонта, над которым появляется Большая Медведица, означало движение к земле медведей (Северная Европа). Животное ясно узнаваемо, если принять во внимание все более слабые звёзды в окрестностях семи ярких. Они считали её медведицей, потому что греческая мифология связывает это животное с нимфой Каллисто, история которой описывает обряды инициации для женщин.\r\n\r\nВ верхнем левом углу мы видим изображение, сделанное весенним вечером, а изображение ниже показывает ту же часть неба летним вечером. Двигаясь против часовой стрелки, мы видим небо осенью на нижнем правом изображении, а верхнее правое, наконец, показывает эту часть неба зимой. Обратите внимание, что относительные положения Малой Медведицы и Большого Ковша не меняются, но все звёзды, как кажется, движутся по кругу вокруг Полярной звезды. Эта звезда, указывающая точно на север, лежит в точке, где ось вращения Земли пересекает небесную сферу.\r\n\r\nТаким образом, смещение созвездий в течение года — это глобус-часы или глобус-календарь, используемый древними цивилизациями для измерения года и предсказания смены сезонов. Это помогает установить, например, лучшее время для посева и плавания, так как ветры меняются с сезонами.",
+      "alt_en": "The Big Dipper, seven bright stars shaped like a ladle, viewed in 4 seasons, each time at a different angle",
+      "alt_ru": "Большой Ковш, семь ярких звёзд в форме ковша, наблюдаемый в 4 сезона, каждый раз под разным углом",
+      "credit": "Giorgia Hofer/IAU OAE",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        56,
+        90,
+        217,
+        261,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:AB430t11jX43",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360171/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Big%20Dipper%20and%20Comet%20Neowise%20C2020%20F3,%20by%20Giorgia%20Hofer.avi/content",
+      "record_url": "https://astro4edu.org/resources/media/AB430t11jX43/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Big Dipper and Comet Neowise C2020 F3",
+      "title_ru": "Большой Ковш и комета NEOWISE C2020 F3",
+      "short_caption_en": "Big Dipper and Comet Neowise C2020 F3",
+      "short_caption_ru": "Большой Ковш и комета NEOWISE C2020 F3",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThis time-lapse documents the trajectory of the iconic Big Dipper across three frames taken in July 2020. Captured from three locations in Italy, Tre Cime di Lavaredo Auronzo di Cadore, Monte Rite, Cibiana di Cadore, and Casera Razzo, Vigo di Cadore, this visual odyssey showcases the captivating journey of the Big Dipper with the addition of trails of stars painting a celestial canvas. It not only traces the path of this renowned asterism but also features the rare appearance of comet Neowise C/2020 F3, an extraordinary event that graced our skies during July 2020.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nЭтот таймлапс документирует траекторию культового Большого Ковша на трёх кадрах, сделанных в июле 2020 года. Снятый из трёх мест в Италии — Тре Чиме ди Лаваредо (Ауронцо ди Кадоре), Монте Рите (Чибиана ди Кадоре) и Казера Раццо (Виго ди Кадоре) — этот визуальный одиссей демонстрирует захватывающее путешествие Большого Ковша с добавлением следов звёзд, рисующих небесное полотно. Он не только прослеживает путь этого известного астеризма, но и показывает редкое появление кометы NEOWISE C/2020 F3 — экстраординарное событие, которое украсило наши небеса в июле 2020 года.",
+      "alt_en": "The Big Dipper drifts lower towards the horizon on the left, on the right a comet rises in the sky.",
+      "alt_ru": "Большой Ковш опускается ниже к горизонту слева, справа на небе поднимается комета.",
+      "credit": "Giorgia Hofer/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        56,
+        261,
+        305,
+        473
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:PP87mr753x68",
+      "kind": "media",
+      "file_type": "vid",
+      "source_url": "https://zenodo.org/api/records/10360167/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Time-lapses%20of%20rotation%20of%20Big%20Dipper%20or%20Southern%20Cross:%20Big%20Dipper%20Over%20the%20Mono%20Lake,%20by%20Fabrizio%20Melandri.mp4/content",
+      "record_url": "https://astro4edu.org/resources/media/PP87mr753x68/",
+      "original_path": null,
+      "ru_path": null,
+      "sha256": null,
+      "size": null,
+      "title_en": "Big Dipper Over the Mono Lake",
+      "title_ru": "Большой Ковш над озером Моно",
+      "short_caption_en": "Big Dipper Over the Mono Lake",
+      "short_caption_ru": "Большой Ковш над озером Моно",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Time-lapses of rotation of Big Dipper or Southern Cross.\r\n\r\nThe Big Dipper asterism gracefully moves above the otherworldly tufa formations of Mono Lake, California. The time-lapse captures the Big Dipper’s movement across the northern horizon until its inferior conjunction. At Mono Lake’s latitude (+38°), the stars of the Big Dipper remain circumpolar, except for Alkaid. The North Star sits 38° above the horizon, just outside the field of view in the top right. The lunar illumination bathes the landscape in a soft glow, gradually fading as the Moon sets, cloaking the scene in darkness.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии МАС OAE 2023, категория «Таймлапсы вращения Большого Ковша или Южного Креста».\r\n\r\nАстеризм Большой Ковш изящно движется над потусторонними туфовыми образованиями озера Моно, Калифорния. Таймлапс запечатлевает движение Большого Ковша по северному горизонту до его нижней кульминации. На широте озера Моно (+38°) звёзды Большого Ковша остаются незаходящими, за исключением Алькаида. Полярная звезда находится на высоте 38° над горизонтом, чуть за пределами поля зрения в правом верхнем углу. Лунное освещение заливает пейзаж мягким светом, постепенно исчезающим при заходе Луны, окутывая сцену тьмой.",
+      "alt_en": "The Big Dipper sinks in the sky with the handle sweeping out a larger circle than the bowl of the asterism.",
+      "alt_ru": "Большой Ковш опускается в небе, при этом рукоятка описывает больший круг, чем чаша астеризма.",
+      "credit": "Fabrizio Melandri/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        39,
+        52,
+        53,
+        56,
+        90,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "media:Oi91Gk8vW60",
+      "kind": "media",
+      "file_type": "img",
+      "source_url": "https://zenodo.org/api/records/10360019/files/Honorable%20mention%20in%20the%202023%20IAU%20OAE%20Astrophotography%20Contest,%20category%20Still%20images%20with%20smartphones-mobile%20devices:%20Star%20Trails%20of%20the%20Forbidden%20City,%20by%20Stephanie%20Ziyi%20Ye.JPEG/content",
+      "record_url": "https://astro4edu.org/resources/media/Oi91Gk8vW60/",
+      "original_path": "data/media/original/media_Oi91Gk8vW60.jpeg",
+      "ru_path": null,
+      "sha256": "2fecbcf7711e89fda7ebd52aa22ed1426901cd5f809421c2f48870e84b340428",
+      "size": 4120102,
+      "title_en": "Star Trails of the Forbidden City",
+      "title_ru": "Звёздные треки Запретного города",
+      "short_caption_en": "Star Trails of the Forbidden City",
+      "short_caption_ru": "Звёздные треки Запретного города",
+      "caption_en": "Honorable mention in the 2023 IAU OAE Astrophotography Contest, category of Still images taken exclusively with smartphones/mobile devices.\r\n\r\nBeneath the celestial ballet of star trails that weave their way across the night sky, the Beijing Forbidden City stands as a testament to ancient celestial connections in this image captured in March 2022. Designed with a cosmic alignment in mind, the palace echoes the orientation of the North Star, also known as Polaris, a celestial anchor that has long guided navigators and symbolised steadiness in the sky. It was believed that the Emperor embodied the earthly representation of this pole star, bridging the realms between heaven and earth. In this harmonious one-hour exposure captured with a smartphone, the streaks of stars trace their nightly journey across the firmament, converging toward the North Star, reflecting the precision of both architectural design and celestial paths.",
+      "caption_ru": "Почётное упоминание в конкурсе астрофотографии 2023 МАС OAE в категории неподвижных изображений, снятых исключительно на смартфоны/мобильные устройства.\r\n\r\nПод небесным балетом звёздных треков, которые прочерчивают свой путь по ночному небу, пекинский Запретный город предстаёт свидетельством древних небесных связей на этом снимке, сделанном в марте 2022. Спроектированный с учётом космического выравнивания, дворец повторяет ориентацию Полярной звезды, также известной как Полярис, небесного якоря, который долго направлял мореплавателей и символизировал устойчивость в небе. Считалось, что император воплощал земное представление этой полярной звезды, соединяя миры неба и земли. На этой гармоничной часовой экспозиции, снятой на смартфон, полосы звёзд прочерчивают свой ночной путь по небосводу, сходясь к Полярной звезде, отражая точность как архитектурного замысла, так и небесных путей.",
+      "alt_en": "A traditional Chinese building. Above the streaks of stars form a circular pattern around the north star.",
+      "alt_ru": "Традиционное китайское здание. Над ним полосы звёзд образуют круговой узор вокруг Полярной звезды.",
+      "credit": "Stephanie Ziyi Ye/IAU OAE (CC BY 4.0)",
+      "credit_url": null,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        52,
+        53,
+        56,
+        210,
+        217,
+        261
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:VE43cn914B57",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cassiopeia-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/VE43cn914B57/",
+      "original_path": "data/media/original/diagram_VE43cn914B57.png",
+      "ru_path": null,
+      "sha256": "8eb8ee9b9b23accbda7c3928a806b651d1f713061c813c79db9d091545d37bb1",
+      "size": 125517,
+      "title_en": "Cassiopeia Constellation Map",
+      "title_ru": "Карта созвездия Кассиопея",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Cassiopeia along with its bright stars and its surrounding constellations. Cassiopeia is surrounded by (going clockwise from the top):Cepheus, Andromeda, Perseus and Camelopardalis. \r\n\r\nCassiopeia is a northern constellation that is visible from all of the northern hemisphere and equatorial regions of the southern hemisphere. It is most visible in the evenings in the northern hemisphere late autumn and southern hemisphere late spring.\r\n\r\nThe open star clusters M52, M103, NGC 457 and NGC 663 all lie in this constellation. These are marked with yellow circles. Two dwarf elliptical galaxies NGC 147 and NGC 185 lie in the southern part of the constellation. These are marked with red ellipses and are gravitationally bound to the larger Andromeda galaxy which lies to the south in the constellation of Andromeda.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Кассиопея вместе с его яркими звёздами и окружающими созвездиями. Кассиопею окружают (по часовой стрелке сверху): Цефей, Андромеда, Персей и Жираф.\r\n\r\nКассиопея — северное созвездие, видимое со всего Северного полушария и экваториальных областей Южного полушария. Оно лучше всего видно по вечерам поздней осенью в Северном полушарии и поздней весной в Южном полушарии.\r\n\r\nРассеянные звёздные скопления M52, M103, NGC 457 и NGC 663 находятся в этом созвездии. Они отмечены жёлтыми кружками. Две карликовые эллиптические галактики NGC 147 и NGC 185 находятся в южной части созвездия. Они отмечены красными эллипсами и гравитационно связаны с более крупной галактикой Андромеды, которая находится южнее в созвездии Андромеда.\r\n\r\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды созвездия. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Cassiopeia appears as a double-u shape tilted up at the left end by about 45 degrees",
+      "alt_ru": "Кассиопея выглядит как W-образная фигура, наклонённая вверх на левом конце примерно на 45 градусов",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        7,
+        8,
+        15,
+        50,
+        56,
+        66,
+        78,
+        86,
+        286,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:wT49Db11i836",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa_minor-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/wT49Db11i836/",
+      "original_path": "data/media/original/diagram_wT49Db11i836.png",
+      "ru_path": null,
+      "sha256": "f08563386e38619088b898f35ced57d88b11a6ac5c4ba0d9fe5f806531833d69",
+      "size": 117257,
+      "title_en": "Ursa Minor Constellation Map",
+      "title_ru": "Карта созвездия Малая Медведица",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Ursa Minor along with its bright stars and its surrounding constellations. Ursa Minor is surrounded by (going clockwise from the top): Cephus, Camelopardalis and Draco. Ursa Minor is notable as its brightest star, Polaris is the northern pole star. \r\n\r\nUrsa Minor is visible from the entire northern hemisphere with some parts of the constellation being visible from equatorial regions of the southern hemisphere. It is also circumpolar for temperate and arctic regions of the northern hemisphere. Polaris, lying very close the north celestial pole is circumpolar for the whole of the northern hemisphere. The constellation is most visible in the evenings in the northern hemisphere summer and southern hemisphere winter.\r\n\r\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values (in hours) of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination (in degrees) are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Малая Медведица вместе с его яркими звёздами и окружающими созвездиями. Малая Медведица окружена (по часовой стрелке сверху): Цефеем, Жирафом и Драконом. Малая Медведица примечательна тем, что её самая яркая звезда, Полярная звезда, является северной полярной звездой.\r\n\r\nМалая Медведица видна со всего северного полушария, причём некоторые части созвездия видны из экваториальных областей южного полушария. Она также является околополярной для умеренных и арктических регионов северного полушария. Полярная звезда, находящаяся очень близко к северному небесному полюсу, является околополярной для всего северного полушария. Созвездие наиболее видно по вечерам летом в северном полушарии и зимой в южном полушарии.\r\n\r\nЭта диаграмма отображает область вокруг северного небесного полюса. Здесь сходятся линии постоянного прямого восхождения. Значения прямого восхождения (в часах) этих линий отмечены на оси X выше и ниже диаграммы. Некоторые из линий постоянного склонения (в градусах) отмечены на оси Y. Размеры отмеченных здесь звёзд связаны с видимой величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначена альфой, вторая по яркости — бета и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные IAU, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Ursa Minor appears as a small ladle with the end of the handle, the location of Polaris, at the north pole",
+      "alt_ru": "Малая Медведица выглядит как небольшой ковш, конец ручки которого, местоположение Полярной звезды, находится на северном полюсе",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        217,
+        261,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:hq75BY71AZ88",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa-major-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/hq75BY71AZ88/",
+      "original_path": "data/media/original/diagram_hq75BY71AZ88.png",
+      "ru_path": null,
+      "sha256": "85bb7f463d6805b770be3f2b6a2efe6e07cdc78411372b65213f5af9298a73af",
+      "size": 143672,
+      "title_en": "Ursa Major Constellation Map",
+      "title_ru": "Карта созвездия Большая Медведица",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Ursa Major along with its bright stars and its surrounding constellations. Ursa Major is surrounded by (going clockwise from the top): Draco, Camelopardalis, Lynx, Leo Minor, Leo, Coma Berenices, Canes Venatici and Boötes. Ursa Major is famous for the prominent asterism often known in English as the Big Dipper or the Plough. This prominent northern asterism has a wide variety of names from cultures across the world. While most constellations and asterisms are made up of unrelated stars that randomly appear close together on the sky, five of the stars in the Big Dipper are part of the Ursa Major Moving Group, a group of stars moving through space together that likely formed in the same location 300 million years ago. The two stars on the right-hand end of the Big Dipper on this diagram form a pair of pointer stars that can be used to locate Polaris, the northern pole star which lies in the constellation of Ursa Minor.\r\n\r\nUrsa Major is a northern constellation and is visible from northern and equatorial regions. Parts of the constellation are visible from all but the most antarctic parts of the southern hemisphere but not all temperate regions of the southern hemisphere can see all of the Big Dipper. Conversely the Big Dipper and much of the rest of the constellation are circumpolar in arctic and many temperate regions of the northern hemisphere. Ursa Major is most visible in the evening in the northern hemisphere spring and southern hemisphere autumn. \r\n\r\nTwo prominent galaxies appear in the northern part of this constellation, the spiral galaxy M81 and M82, a possible spiral galaxy whose structure is difficult to observe from the Earth as it appears edge-on. Both are shown here as red ellipses. The planetary nebula M97 (the Owl Nebula) lies in the middle of the constellation and is marked by a green circle superimposed on a plus symbol. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Большая Медведица вместе с его яркими звёздами и окружающими созвездиями. Большая Медведица окружена (по часовой стрелке сверху): Драконом, Жирафом, Рысью, Малым Львом, Львом, Волосами Вероники, Гончими Псами и Волопасом. Большая Медведица знаменита заметным астеризмом, часто известным в английском языке как Большой Ковш или Плуг. Этот заметный северный астеризм имеет широкий спектр названий в культурах по всему миру. Хотя большинство созвездий и астеризмов состоят из несвязанных звёзд, случайно оказавшихся близко друг к другу на небе, пять звёзд Большого Ковша являются частью Движущейся группы Большой Медведицы — группы звёзд, движущихся в пространстве вместе, которые, вероятно, сформировались в одном месте 300 миллионов лет назад. Две звезды на правом конце Большого Ковша на этой диаграмме образуют пару указательных звёзд, которые можно использовать для поиска Полярной звезды, северной полярной звезды, находящейся в созвездии Малой Медведицы.\n\nБольшая Медведица — северное созвездие, видимое из северных и экваториальных регионов. Части созвездия видны из всех регионов Южного полушария, кроме самых антарктических, но не все умеренные регионы Южного полушария могут видеть весь Большой Ковш. И наоборот, Большой Ковш и большая часть остального созвездия являются околополярными в арктических и многих умеренных регионах Северного полушария. Большая Медведица лучше всего видна вечером весной в Северном полушарии и осенью в Южном полушарии.\n\nВ северной части этого созвездия видны две заметные галактики: спиральная галактика M81 и M82, возможная спиральная галактика, структуру которой трудно наблюдать с Земли, поскольку она видна с ребра. Обе показаны здесь как красные эллипсы. Планетарная туманность M97 (туманность Сова) находится в середине созвездия и отмечена зелёным кружком, наложенным на символ плюса.\n\nОсь Y этой диаграммы выражена в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Ursa Major appears as a ladle with the handle to the east & the cup to the west. Lines of fainter stars extend to the south",
+      "alt_ru": "Большая Медведица выглядит как ковш с ручкой на востоке и чашей на западе. Линии более слабых звёзд простираются на юг",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        39,
+        50,
+        56,
+        66,
+        78,
+        172,
+        256,
+        286,
+        330,
+        429
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:Df427a55Gc18",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/apus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/Df427a55Gc18/",
+      "original_path": "data/media/original/diagram_Df427a55Gc18.png",
+      "ru_path": null,
+      "sha256": "2abedcf63c301edb13ce3757b40bafbe899701077706fc04f907f8f64be0c318",
+      "size": 128004,
+      "title_en": "Apus Constellation Map",
+      "title_ru": "Карта созвездия Райская Птица",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Apus with its bright stars and surrounding constellations. Apus is surrounded by (going clockwise from the top): Triangulum Australe, Circinus, Musca, Chamaeleon, Octans, Pavo and Ara.\r\n\r\nApus is a southern constellation lying close to the south celestial pole. As such it is visible at some point in the year from the entire southern hemisphere but is only visible from the most equatorial regions of the northern hemisphere. Apus is circumpolar for all temperate and antarctic regions of the southern hemisphere. It is most visible in the evenings in the northern hemisphere summer and southern hemisphere autumn. \r\n\r\nThe globular cluster NGC 6101 can be found in Apus. It is marked here with a yellow circle with a plus symbol superimposed on it.\r\n\r\nThis diagram maps an area around the south celestial pole. Here lines of constant right ascension converge. The right ascension values (in hours) of these lines are marked on the x-axis above and below the diagram. Lines of constant declination (in degrees) are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Райская Птица с его яркими звёздами и окружающими созвездиями. Райская Птица окружена (по часовой стрелке сверху): Южным Треугольником, Циркулем, Мухой, Хамелеоном, Октаном, Павлином и Жертвенником.\r\n\r\nРайская Птица — южное созвездие, расположенное близко к южному небесному полюсу. Таким образом, оно видно в какое-то время года со всего южного полушария, но видно только из самых экваториальных районов северного полушария. Райская Птица является незаходящим созвездием для всех умеренных и антарктических районов южного полушария. Лучше всего оно видно по вечерам летом в северном полушарии и осенью в южном полушарии.\r\n\r\nВ Райской Птице находится шаровое скопление NGC 6101. Оно отмечено здесь жёлтым кружком с наложенным на него символом плюса.\r\n\r\nЭта диаграмма отображает область вокруг южного небесного полюса. Здесь сходятся линии постоянного прямого восхождения. Значения прямого восхождения (в часах) этих линий отмечены на оси x над и под диаграммой. Линии постоянного склонения (в градусах) отмечены на оси y. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Apus has an northward-pointing isosceles triangle on the east end of an east-west line.",
+      "alt_ru": "Райская Птица имеет равнобедренный треугольник, направленный на север, на восточном конце линии восток-запад.",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by IAU/Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        286,
+        518
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:pl23j39MY52",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/auriga-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/pl23j39MY52/",
+      "original_path": "data/media/original/diagram_pl23j39MY52.png",
+      "ru_path": null,
+      "sha256": "3f9daa4e8134d1881ea79353fb6b6d589cf2ca1bd049fe4df3087c773761a7a8",
+      "size": 115114,
+      "title_en": "Auriga Constellation Map",
+      "title_ru": "Карта созвездия Возничий",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Auriga with its bright stars and surrounding constellations. Auriga is surrounded by (going clockwise from the top): Camelopardalis, Perseus, Taurus, Gemini and Lynx. Capella, the brightest star in Auriga, is the sixth brightest star in the night sky.\r\n\r\nAs a northern constellation, Auriga is visible from the whole of the northern hemisphere at some point in the year. The whole of the constellation is visible to equatorial regions of the southern hemisphere with parts of it visible to temperate southern regions. The whole constellation is circumpolar from arctic regions. The constellation is best viewed in the evening in the late northern hemisphere winter and late southern hemisphere summer. \r\n\r\nAuriga lies in the plane of the Milky Way and thus hosts a number of open clusters. Of these M36, M37 and M38 are marked on this diagram with yellow circles. IC 405, also known as the flaming star nebula, is marked here with a green square.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. The blue line at the bottom of the diagram marks the ecliptic. Neither the constellation boundaries, nor the line marking the ecliptic, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Возничий с его яркими звёздами и окружающими созвездиями. Возничий окружён (по часовой стрелке сверху): Жирафом, Персеем, Тельцом, Близнецами и Рысью. Капелла, самая яркая звезда в Возничем, является шестой по яркости звездой ночного неба.\r\n\r\nБудучи северным созвездием, Возничий виден со всего северного полушария в какое-то время года. Всё созвездие видно из экваториальных районов южного полушария, а его части видны из умеренных южных районов. Всё созвездие является незаходящим из арктических районов. Лучше всего созвездие видно по вечерам в конце зимы в северном полушарии и в конце лета в южном полушарии.\r\n\r\nВозничий лежит в плоскости Млечного Пути и поэтому содержит ряд рассеянных скоплений. Из них M36, M37 и M38 отмечены на этой диаграмме жёлтыми кружками. IC 405, также известная как туманность Пламя, отмечена здесь зелёным квадратом.\r\n\r\nОсь y этой диаграммы выражена в градусах склонения, север вверху, а ось x — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Синяя линия внизу диаграммы обозначает эклиптику. Ни границы созвездий, ни линия, обозначающая эклиптику, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Auriga looks like a head with a pointed hat on. The ecliptic runs East to West below Auriga",
+      "alt_ru": "Возничий выглядит как голова в заострённой шляпе. Эклиптика проходит с востока на запад ниже Возничего",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        92,
+        126,
+        211,
+        286,
+        351,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:1v1540710v51",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/camelopardalis-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/1v1540710v51/",
+      "original_path": "data/media/original/diagram_1v1540710v51.png",
+      "ru_path": "data/media/ru/diagram_1v1540710v51.png",
+      "sha256": "20224ee9667cf16fbda4258999658e002a682fd390577ca4d44e45f0c6c05146",
+      "size": 138398,
+      "title_en": "Camelopardalis Constellation Map",
+      "title_ru": "Карта созвездия Жираф",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Camelopardalis with its bright stars and surrounding constellations. Camelopardalis is surrounded by (going clockwise from the top): Cepheus, Cassiopea, Perseus, Auriga, Lynx, Ursa Major, Draco and Ursa Minor. Camelopardalis is a large constellation but contains relatively few bright stars.\r\n\r\nCamelopardalis is a northern constellation and as such the whole constellation is visible for the whole northern hemisphere at some point in the year. It is also visible from equatorial parts of the southern hemisphere with some parts visible to temperate southern regions. The whole constellation is circumpolar for all arctic and more northerly temperate regions of the northern hemisphere. Camelopardalis is best viewed in the evening in the late northern hemisphere winter and late southern hemisphere summer.\r\n\r\nThe spiral galaxies NGC 2403 and IC 342 lie in Camelopardalis and are marked here with red ellipses.\r\n\r\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Жираф с его яркими звёздами и окружающими созвездиями. Жираф окружён (по часовой стрелке сверху): Цефеем, Кассиопеей, Персеем, Возничим, Рысью, Большой Медведицей, Драконом и Малой Медведицей. Жираф — большое созвездие, но содержит относительно мало ярких звёзд.\r\n\r\nЖираф — северное созвездие, и поэтому всё созвездие видно со всего северного полушария в какое-то время года. Оно также видно из экваториальных районов южного полушария, а некоторые его части видны из умеренных южных районов. Всё созвездие является незаходящим для всех арктических и более северных умеренных районов северного полушария. Лучше всего Жираф виден по вечерам в конце зимы в северном полушарии и в конце лета в южном полушарии.\r\n\r\nСпиральные галактики NGC 2403 и IC 342 находятся в Жирафе и отмечены здесь красными эллипсами.\r\n\r\nЭта диаграмма отображает область вокруг северного небесного полюса. Здесь сходятся линии постоянного прямого восхождения. Значения прямого восхождения этих линий отмечены на оси x над и под диаграммой. Некоторые из линий постоянного склонения отмечены на оси y. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Camelopardalis has no very bright stars and no well-defined shape",
+      "alt_ru": "Жираф не имеет очень ярких звёзд и не имеет чётко очерченной формы",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        217,
+        286,
+        330
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "c94fa4f50d36fba462d50ff9e144140132b5abdb8d2b1f23823cff27961a016d"
+    },
+    {
+      "id": "diagram:UZ83yf70PF70",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cepheus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/UZ83yf70PF70/",
+      "original_path": "data/media/original/diagram_UZ83yf70PF70.png",
+      "ru_path": "data/media/ru/diagram_UZ83yf70PF70.png",
+      "sha256": "6c3ac111508f411c9351c2c7c779f9ec009efdfaf124fb968c510497167e3c38",
+      "size": 161999,
+      "title_en": "Cepheus Constellation Map",
+      "title_ru": "Карта созвездия Цефей",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Cepheus along with its bright stars and surrounding constellations. Cepheus is surrounded by (going clockwise from the top): Camelopardalis, Ursa Minor, Draco, Cygnus, Lacerta and Cassiopeia. Cepheus is a large constellation. Its most notable star is Delta Cephei, the prototype for the class of variable stars known as Cepheid variables. These are variable stars which can be used to estimate distances both within our galaxy and to nearby galaxies. \r\n\r\nCepheus lies close to the north celestial pole. As such it is circumpolar for arctic and temperate regions of the northern hemisphere. The whole of the constellation is also visible at some point in the year in equatorial regions of the northern hemisphere with parts of it visible in equatorial regions of the southern hemisphere. It is best viewed in the evening in the northern hemisphere late autumn and southern hemisphere late spring.\r\n\r\nThe open cluster NGC 188 lies in Cepheus and is marked here with a yellow circle. The nebula NGC 7023 also lies in the constellation and is marked with a green square. The red ellipse in the lower right marks the position of the spiral galaxy NGC 6946.\r\n\r\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. Delta Cephei is marked with a circle around a dot as it is a variable star. Mu Cephei is also a variable star marked here as an open circle. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Цефей вместе с его яркими звёздами и окружающими созвездиями. Цефей окружён (по часовой стрелке сверху): Жирафом, Малой Медведицей, Драконом, Лебедем, Ящерицей и Кассиопеей. Цефей — большое созвездие. Его самая примечательная звезда — Дельта Цефея, прототип класса переменных звёзд, известных как цефеиды. Это переменные звёзды, которые можно использовать для оценки расстояний как внутри нашей галактики, так и до близлежащих галактик.\r\n\r\nЦефей лежит близко к северному небесному полюсу. Поэтому он является незаходящим для арктических и умеренных районов северного полушария. Всё созвездие также видно в какое-то время года в экваториальных районах северного полушария, а его части видны в экваториальных районах южного полушария. Лучше всего оно видно по вечерам поздней осенью в северном полушарии и поздней весной в южном полушарии.\r\n\r\nРассеянное скопление NGC 188 находится в Цефее и отмечено здесь жёлтым кружком. Туманность NGC 7023 также находится в созвездии и отмечена зелёным квадратом. Красный эллипс в правом нижнем углу обозначает положение спиральной галактики NGC 6946.\r\n\r\nЭта диаграмма отображает область вокруг северного небесного полюса. Здесь сходятся линии постоянного прямого восхождения. Значения прямого восхождения этих линий отмечены на оси x над и под диаграммой. Некоторые из линий постоянного склонения отмечены на оси y. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Дельта Цефея отмечена кружком вокруг точки, так как это переменная звезда. Мю Цефея также является переменной звездой, отмеченной здесь незакрашенным кружком. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Cepheus appears as a head wearing a pointy hat tilted anticlockwise by 45 degrees",
+      "alt_ru": "Цефей выглядит как голова в остроконечной шляпе, наклонённой против часовой стрелки на 45 градусов",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        211,
+        217,
+        286,
+        330,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "368583b8e64e64c3599722db90f509a33d0bfeb184896ea4651a0e9cf499b8e6"
+    },
+    {
+      "id": "diagram:G76782323N14",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/chamaeleon-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/G76782323N14/",
+      "original_path": "data/media/original/diagram_G76782323N14.png",
+      "ru_path": "data/media/ru/diagram_G76782323N14.png",
+      "sha256": "3de6027d12839e0ed33281176b52d9af92063f4c5beeb0f7e67a7ebcd2559b89",
+      "size": 141463,
+      "title_en": "Chamaeleon Constellation Map",
+      "title_ru": "Карта созвездия Хамелеон",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Chamaeleon with its bright stars and surrounding constellations. Chamaeleon is surrounded by (going clockwise from the top): Carina, Volans, Mensa, Octans, Apus and Musca.\r\n\r\nChamaeleon lies close to the south celestial pole and this the whole of the constellation is visible from the whole southern hemisphere at some point in the year. All or part of the constellation can be seen from equatorial regions of the northern hemisphere. The whole constellation is circumpolar for all but the most equatorial regions of the southern hemisphere. Chamaeleon is best viewed in the evenings in the northern hemisphere spring and southern hemisphere autumn. \r\n\r\nThis diagram maps an area around the south celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. The solid circle around the pole marks a line of -80° declination with the larger, incomplete circles above it marking -70° and -60° declination respectively. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Хамелеон с его яркими звёздами и окружающими созвездиями. Хамелеон окружён (по часовой стрелке сверху): Килем, Летучей Рыбой, Столовой Горой, Октаном, Райской Птицей и Мухой.\r\n\r\nХамелеон лежит близко к южному небесному полюсу, и поэтому всё созвездие видно со всего южного полушария в какое-то время года. Всё или часть созвездия можно увидеть из экваториальных районов северного полушария. Всё созвездие является незаходящим для всех, кроме самых экваториальных, районов южного полушария. Лучше всего Хамелеон виден по вечерам весной в северном полушарии и осенью в южном полушарии.\r\n\r\nЭта диаграмма отображает область вокруг южного небесного полюса. Здесь сходятся линии постоянного прямого восхождения. Значения прямого восхождения этих линий отмечены на оси x над и под диаграммой. Сплошной круг вокруг полюса обозначает линию склонения -80°, а более крупные незамкнутые круги над ним обозначают склонения -70° и -60° соответственно. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Chamaeleon appears as flat rectangle orientated East-West with a line extending to the West (the right here)",
+      "alt_ru": "Хамелеон выглядит как плоский прямоугольник, ориентированный с востока на запад, с линией, простирающейся на запад (вправо здесь)",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        286,
+        518
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "f7a713026a4f0bac99beb009b635cd8878f812a5a3974a2bd2e1af0a8ad2f4f3"
+    },
+    {
+      "id": "diagram:SL46pQ44Fw15",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/circinus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/SL46pQ44Fw15/",
+      "original_path": "data/media/original/diagram_SL46pQ44Fw15.png",
+      "ru_path": null,
+      "sha256": "cac136e5d6d8dc78becac27e937ac4d52e6127ae4eb745d8ef60024f71d5a042",
+      "size": 115428,
+      "title_en": "Circinus Constellation Map",
+      "title_ru": "Карта созвездия Циркуль",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Circinus with its brighter stars and surrounding constellations. Circinus is surrounded by (going clockwise from the top): Lupus, Centaurus, Musca, Apus, Triangulum Australe and Norma. Circinus is a relatively small constellation with few bright stars.\r\n\r\nCircinus is a southern constellation and is thus the whole constellation is visible from the whole southern hemisphere at some point in the year. The whole constellation can also be seen from some equatorial regions of the northern hemisphere with parts of the constellation visible from the remaining equatorial regions and some northern hemisphere temperate locations. The constellation is circumpolar for all antarctic and some southern hemisphere temperate regions. Circinus is best viewed in the evening in the northern hemisphere summer and southern hemisphere winter.\r\n\r\nThe open cluster NGC 5823 lies in Circinus and is marked here with a yellow circle.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Циркуль с его более яркими звёздами и окружающими созвездиями. Циркуль окружён (по часовой стрелке сверху): Волком, Центавром, Мухой, Райской Птицей, Южным Треугольником и Наугольником. Циркуль — относительно небольшое созвездие с небольшим числом ярких звёзд.\r\n\r\nЦиркуль — южное созвездие, и поэтому всё созвездие видно со всего южного полушария в какое-то время года. Всё созвездие также можно увидеть из некоторых экваториальных районов северного полушария, а части созвездия видны из остальных экваториальных районов и некоторых умеренных районов северного полушария. Созвездие является незаходящим для всех антарктических и некоторых умеренных районов южного полушария. Лучше всего Циркуль виден по вечерам летом в северном полушарии и зимой в южном полушарии.\r\n\r\nРассеянное скопление NGC 5823 находится в Циркуле и отмечено здесь жёлтым кружком.\r\n\r\nОсь y этой диаграммы выражена в градусах склонения, север вверху, а ось x — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды — мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Circinus appears as a thin isosceles triangle pointing to the south-west (lower right)",
+      "alt_ru": "Циркуль выглядит как тонкий равнобедренный треугольник, направленный на юго-запад (вправо вниз)",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:bt23wB95eq70",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/dorado-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/bt23wB95eq70/",
+      "original_path": "data/media/original/diagram_bt23wB95eq70.png",
+      "ru_path": null,
+      "sha256": "7d4020ed0bc81259e60c75fa3c7350e1472a4579a048bb092b537ab8f7630589",
+      "size": 94489,
+      "title_en": "Dorado Constellation Map",
+      "title_ru": "Карта созвездия Золотая Рыба",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Dorado with its bright stars and surrounding constellations. Dorado is surrounded by (going clockwise from the top): Pictor, Caelum, Horologium, Reticulum, Hydrus, Mensa and Volans.\r\n\r\nDorado is a southern constellation and thus the whole constellation is visible at some point in the year from the whole southern hemisphere. The whole constellation is also visible to equatorial regions of the northern hemisphere. Dorado is circumpolar for temperate and antarctic regions of the southern hemisphere. This constellation is best viewed in the northern hemisphere winter and southern hemisphere summer.\r\n\r\nThe Large Magellanic Cloud (LMC), a satellite galaxy of the Milky Way, lies in Dorado and the neighboring constellation Mensa. The outline of the Large Magellanic Cloud is marked here as a roughly circular loop in green. The open cluster NGC 2070 lies at the heart of the Tarantula Nebula. This is marked here with a green square.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Золотая Рыба с его яркими звёздами и окружающими созвездиями. Золотая Рыба окружена (по часовой стрелке сверху): Живописец, Резец, Часы, Сетка, Южная Гидра, Столовая Гора и Летучая Рыба.\r\n\r\nЗолотая Рыба — южное созвездие, поэтому всё созвездие видно в какое-то время года со всего южного полушария. Всё созвездие также видно в экваториальных областях северного полушария. Золотая Рыба является незаходящей для умеренных и антарктических областей южного полушария. Лучше всего это созвездие наблюдать зимой в северном полушарии и летом в южном полушарии.\r\n\r\nБольшое Магелланово Облако (БМО), спутниковая галактика Млечного Пути, находится в Золотой Рыбе и соседнем созвездии Столовая Гора. Контур Большого Магелланова Облака отмечен здесь примерно круговой петлёй зелёного цвета. Рассеянное скопление NGC 2070 находится в сердце Туманности Тарантул. Оно отмечено здесь зелёным квадратом.\r\n\r\nОсь Y на этой диаграмме — в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначена альфой, вторая по яркости — бетой и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "The stars in Dorado form a rough line from south-east to north-west. The LMC lies on the southern boundary of Dorado",
+      "alt_ru": "Звёзды в Золотой Рыбе образуют приблизительную линию с юго-востока на северо-запад. БМО лежит на южной границе Золотой Рыбы",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        211,
+        286,
+        466,
+        499
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:9p18tC71hh36",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/draco-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/9p18tC71hh36/",
+      "original_path": "data/media/original/diagram_9p18tC71hh36.png",
+      "ru_path": "data/media/ru/diagram_9p18tC71hh36.png",
+      "sha256": "5a5373947d6a3a426c165552894122a7e7128b4edfc9e2c22de353a4daaefcb9",
+      "size": 138128,
+      "title_en": "Draco Constellation Map",
+      "title_ru": "Карта созвездия Дракон",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Draco with its bright stars and surrounding constellations. Draco is surrounded by (going clockwise from the top): Cepheus, Ursa Minor, Boötes, Hercules, Lyra and Cygnus.\r\n\r\nDraco is a sprawling northern constellation, parts of which lie close to the celestial north pole. As such the whole constellation is visible at some point in the year from the whole northern hemisphere and a thin sliver of the southern hemisphere near the equator. Parts of the constellation are visible from all other southern equatorial and some southern temperate regions. Draco is best viewed in the evenings in the northern hemisphere summer and southern hemisphere winter.\r\n\r\nThe planetary nebula NGC 6543 (also known as the Cat’s Eye Nebula) lies in Draco. It is marked here with a green circle superimposed on a plus sign. \r\n\r\nThis diagram maps an area around the north celestial pole. Here lines of constant right ascension converge. The right ascension values of these lines are marked on the x-axis above and below the diagram. Some of the lines of constant declination are marked on the y-axis. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Дракон с его яркими звёздами и окружающими созвездиями. Дракон окружён (по часовой стрелке сверху): Цефей, Малая Медведица, Волопас, Геркулес, Лира и Лебедь.\r\n\r\nДракон — обширное северное созвездие, части которого лежат близко к северному полюсу мира. Таким образом, всё созвездие видно в какое-то время года со всего северного полушария и узкой полосы южного полушария вблизи экватора. Части созвездия видны из всех других южных экваториальных и некоторых южных умеренных областей. Дракона лучше всего наблюдать вечерами летом в северном полушарии и зимой в южном полушарии.\r\n\r\nПланетарная туманность NGC 6543 (также известная как Туманность Кошачий Глаз) находится в Драконе. Она отмечена здесь зелёным кружком, наложенным на знак плюса.\r\n\r\nЭта диаграмма отображает область вокруг северного полюса мира. Здесь линии постоянного прямого восхождения сходятся. Значения прямого восхождения этих линий отмечены на оси X выше и ниже диаграммы. Некоторые из линий постоянного склонения отмечены на оси Y. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначена альфой, вторая по яркости — бетой и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Draco has the shape of a backward letter s rotated by 90 degrees",
+      "alt_ru": "Дракон имеет форму зеркально отражённой буквы s, повёрнутой на 90 градусов",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        217,
+        256,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "28f490f2f222172acb33e284c23fd1fd1b187e162ae08419fbda188c0dbdff93"
+    },
+    {
+      "id": "diagram:vK85g032mR87",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/horologium-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/vK85g032mR87/",
+      "original_path": "data/media/original/diagram_vK85g032mR87.png",
+      "ru_path": null,
+      "sha256": "ea7c0d1707162c34e20a35fd587fae2e7c9e8e0aa838d2fa1fe5865ff29d5664",
+      "size": 94082,
+      "title_en": "Horologium Constellation Map",
+      "title_ru": "Карта созвездия Часы",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Horologium with its bright stars and surrounding constellations. Horologium is surrounded by (going clockwise from the top): Eridanus, Hydrus, Reticulum, Dorado and Caelum. \r\n\r\nHorologium is a southern constellation and thus is visible in the whole southern hemisphere at some point in the year. The whole constellation is also visible from equatorial parts of the northern hemisphere with parts of it visible to some northern temperate regions. Horologium is circumpolar in antarctic and some temperate regions of the southern hemisphere. This constellation is best viewed in the evenings in the northern hemisphere winter and southern hemisphere summer. \r\n\r\nThe globular cluster NGC 1261 lies in Horologium, it is marked here with a yellow circle with a plus sign superimposed on it.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Часы с его яркими звёздами и окружающими созвездиями. Часы окружены (по часовой стрелке сверху): Эридан, Южная Гидра, Сетка, Золотая Рыба и Резец.\r\n\r\nЧасы — южное созвездие, поэтому оно видно во всём южном полушарии в какое-то время года. Всё созвездие также видно из экваториальных частей северного полушария, а его части видны в некоторых северных умеренных областях. Часы являются незаходящими в антарктических и некоторых умеренных областях южного полушария. Лучше всего это созвездие наблюдать вечерами зимой в северном полушарии и летом в южном полушарии.\r\n\r\nШаровое скопление NGC 1261 находится в Часах, оно отмечено здесь жёлтым кружком с наложенным на него знаком плюса.\r\n\r\nОсь Y на этой диаграмме — в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначена альфой, вторая по яркости — бетой и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Horologium has the shape of a distorted backwards question mark",
+      "alt_ru": "Часы имеют форму искажённого перевёрнутого вопросительного знака",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        132,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:eX979d77B387",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/indus-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/eX979d77B387/",
+      "original_path": "data/media/original/diagram_eX979d77B387.png",
+      "ru_path": null,
+      "sha256": "be72e531d243f57d79ad1ace86e7b95b296c90cc75a94e34f429329ef0e36c8c",
+      "size": 114764,
+      "title_en": "Indus Constellation Map",
+      "title_ru": "Карта созвездия Индей",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Indus with its bright stars and surrounding constellations. Indus is surrounded by (going clockwise from the top): Microcopium, Sagittarius, Telescopium, Pavo, Octans, Tucana and Grus. \r\n\r\nIndus lies near the south celestial pole and thus the whole constellation is visible at some point in the year throughout the southern hemisphere. The whole constellation is also visible to a thin strip of the northern hemisphere near the equator with remaining northern equatorial regions able to see parts of the constellation. Indus is circumpolar for temperate and antarctic regions of the southern hemisphere. Indus is best viewed in the evenings in the northern hemisphere autumn and southern hemisphere spring.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Индей с его яркими звёздами и окружающими созвездиями. Индей окружён (по часовой стрелке сверху): Микроскоп, Стрелец, Телескоп, Павлин, Октант, Тукан и Журавль.\r\n\r\nИндей лежит вблизи южного полюса мира, поэтому всё созвездие видно в какое-то время года по всему южному полушарию. Всё созвездие также видно в узкой полосе северного полушария вблизи экватора, а остальные северные экваториальные области могут видеть части созвездия. Индей является незаходящим для умеренных и антарктических областей южного полушария. Индея лучше всего наблюдать вечерами осенью в северном полушарии и весной в южном полушарии.\r\n\r\nОсь Y на этой диаграмме — в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначена альфой, вторая по яркости — бетой и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Indus appears as a right-angled triangle with the right-angle pointing south west",
+      "alt_ru": "Индей выглядит как прямоугольный треугольник с прямым углом, направленным на юго-запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:YQ69V022qi60",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/lacerta-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/YQ69V022qi60/",
+      "original_path": "data/media/original/diagram_YQ69V022qi60.png",
+      "ru_path": null,
+      "sha256": "ac6ed3380ad24a77ac3577ea4c0a791fe6373b300f4951cdc98cd38dd7f3cdd6",
+      "size": 107639,
+      "title_en": "Lacerta Constellation Map",
+      "title_ru": "Карта созвездия Ящерица",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Lacerta with its bright stars and surrounding constellations. Lacerta is surrounded by (going clockwise from the top): Cepheus, Cygnus, Pegasus, Andromeda and Cassiopeia.\r\n\r\nLacerta is a northern constellation and thus the whole constellation is visible at some point in the year throughout the northern hemisphere. The whole constellation is also visible from equatorial regions of the southern hemisphere with parts of the constellation visible from temperate southern regions. The whole constellation is circumpolar from arctic regions. Lacerta is best viewed in the evenings in the northern hemisphere autumn and southern hemisphere spring.\r\n\r\nThe open cluster NGC 7243 lies in Lacerta, it is marked here with a yellow circle.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Ящерица с его яркими звёздами и окружающими созвездиями. Ящерица окружена (по часовой стрелке сверху): Цефей, Лебедь, Пегас, Андромеда и Кассиопея.\r\n\r\nЯщерица — северное созвездие, поэтому всё созвездие видно в какое-то время года по всему северному полушарию. Всё созвездие также видно из экваториальных областей южного полушария, а части созвездия видны из умеренных южных областей. Всё созвездие является незаходящим из арктических областей. Ящерицу лучше всего наблюдать вечерами осенью в северном полушарии и весной в южном полушарии.\r\n\r\nРассеянное скопление NGC 7243 находится в Ящерице, оно отмечено здесь жёлтым кружком.\r\n\r\nОсь Y на этой диаграмме — в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначена альфой, вторая по яркости — бетой и т.д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Lacerta appears as two linked diamond shapes arranged north-south with a small tail extending below",
+      "alt_ru": "Ящерица выглядит как две соединённые ромбовидные фигуры, расположенные с севера на юг, с небольшим хвостом, простирающимся вниз",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        286,
+        466
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:iR46NN4KF54",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/leo-minor-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/iR46NN4KF54/",
+      "original_path": "data/media/original/diagram_iR46NN4KF54.png",
+      "ru_path": null,
+      "sha256": "9de072e8bc4e14e5ee0fd62c2e780bd0c1c6e33a9578e1627c4bab3712dc61d4",
+      "size": 88372,
+      "title_en": "Leo Minor Constellation Map",
+      "title_ru": "Карта созвездия Малый Лев",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Leo Minor with its brighter stars and surrounding constellations. Leo Minor is surrounded by (going clockwise from the top): Ursa Major, Lynx, Cancer and Leo. Leo Minor is a small constellation with relatively few bright stars. It is a separate constellation from and should not be confused with its larger neighbour Leo.\r\n\r\nLeo Minor is a northern constellation and thus the whole constellation is visible at some point in the year throughout the northern hemisphere. The whole constellation is also visible from equatorial and temperate regions of the southern hemisphere. Leo Minor is circumpolar in arctic regions. This constellation is best viewed in the northern hemisphere spring and southern hemisphere autumn. \r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky. The blue line in the bottom right marks the ecliptic.",
+      "caption_ru": "Созвездие Малый Лев с его более яркими звёздами и окружающими созвездиями. Малый Лев окружён (по часовой стрелке сверху): Большой Медведицей, Рысью, Раком и Львом. Малый Лев — небольшое созвездие с относительно небольшим количеством ярких звёзд. Это отдельное созвездие, и его не следует путать с его более крупным соседом Львом.\r\n\r\nМалый Лев — северное созвездие, поэтому всё созвездие видно в какое-то время года на всей территории северного полушария. Всё созвездие также видно из экваториальных и умеренных районов южного полушария. Малый Лев является околополярным в арктических регионах. Лучше всего это созвездие наблюдать весной в северном полушарии и осенью в южном полушарии.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе. Синяя линия в правом нижнем углу обозначает эклиптику.",
+      "alt_en": "Leo Minor appears as a flattened diamond with a line extending from its west end",
+      "alt_ru": "Малый Лев выглядит как сплющенный ромб с линией, отходящей от его западного конца",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        92,
+        172,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    },
+    {
+      "id": "diagram:bO379985GO52",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/musca-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/bO379985GO52/",
+      "original_path": "data/media/original/diagram_bO379985GO52.png",
+      "ru_path": "data/media/ru/diagram_bO379985GO52.png",
+      "sha256": "19c571c72b74a1ea4f6b9d6e4f133e710b2dc8e8a6cafbd54648e22792a24248",
+      "size": 122562,
+      "title_en": "Musca Constellation Map",
+      "title_ru": "Карта созвездия Муха",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Musca with its bright stars and surrounding constellations. Musca is surrounded by (going clockwise from the top): Crux, Centaurus, Carina, Chamaeleon, Apus and Circinus. \r\n\r\nMusca is a southern constellation and thus the whole constellation is visible at some point in the year throughout the southern hemisphere. The whole constellation is visible to a thin strip of the northern hemisphere near the equator with parts of the constellation visible to other northern equatorial regions. Musca is circumpolar in temperate and antarctic regions of the southern hemisphere. Musca is best viewed in the evening in the northern hemisphere late spring and southern hemisphere late autumn.\r\n\r\nThe globular clusters NGC 4372 and NGC 4833 lie in Musca and are marked here with yellow circles with plus signs superimposed on them.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Муха с его яркими звёздами и окружающими созвездиями. Муха окружена (по часовой стрелке сверху): Южным Крестом, Центавром, Килем, Хамелеоном, Райской Птицей и Циркулем.\r\n\r\nМуха — южное созвездие, поэтому всё созвездие видно в какое-то время года на всей территории южного полушария. Всё созвездие видно в узкой полосе северного полушария вблизи экватора, а части созвездия видны в других северных экваториальных регионах. Муха является околополярной в умеренных и антарктических регионах южного полушария. Лучше всего Муху наблюдать вечером в конце весны в северном полушарии и в конце осени в южном полушарии.\r\n\r\nШаровые скопления NGC 4372 и NGC 4833 находятся в Мухе и отмечены здесь жёлтыми кружками с наложенными на них знаками плюс.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Musca appears as a crudely-drawn arrow pointing south east",
+      "alt_ru": "Муха выглядит как грубо нарисованная стрела, указывающая на юго-восток",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        286,
+        318
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "3d0f1d9ab331c408702d9dbf10f3fbe3bac5ac097597d8dd8159b378a2ac7de2"
+    },
+    {
+      "id": "diagram:2p48cz1Ud25",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/pavo-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/2p48cz1Ud25/",
+      "original_path": "data/media/original/diagram_2p48cz1Ud25.png",
+      "ru_path": "data/media/ru/diagram_2p48cz1Ud25.png",
+      "sha256": "f589b193198d6ccceb0434e6253e449e0a92b635d7f45481fa6e208c391d57e5",
+      "size": 128181,
+      "title_en": "Pavo Constellation Map",
+      "title_ru": "Карта созвездия Павлин",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Pavo with its bright stars and surrounding constellations. Pavo is surrounded by (going clockwise from the top): Telescopium, Ara, Apus, Octans and Indus.\r\n\r\nPavo is a southern constellation and thus the whole constellation is visible at some point in the year throughout the southern hemisphere. The whole constellation is also visible in some equatorial regions of the northern hemisphere with parts of the constellation visible in the remaining northern equatorial regions. Pavo is circumpolar in antarctic and most temperate regions of the southern hemisphere. The constellation is best viewed in the evening in the northern hemisphere summer and southern hemisphere winter. \r\n\r\nThe globular cluster NGC 6752 lies in Pavo and is marked here with a yellow circle with a plus sign superimposed on it.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Павлин с его яркими звёздами и окружающими созвездиями. Павлин окружён (по часовой стрелке сверху): Телескопом, Жертвенником, Райской Птицей, Октаном и Индейцем.\r\n\r\nПавлин — южное созвездие, поэтому всё созвездие видно в какое-то время года на всей территории южного полушария. Всё созвездие также видно в некоторых экваториальных регионах северного полушария, а части созвездия видны в остальных северных экваториальных регионах. Павлин является околополярным в антарктических и большинстве умеренных регионов южного полушария. Лучше всего созвездие наблюдать вечером летом в северном полушарии и зимой в южном полушарии.\r\n\r\nШаровое скопление NGC 6752 находится в Павлине и отмечено здесь жёлтым кружком с наложенным на него знаком плюс.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Pavo appears like a crudely-drawn peacock with the tail in the east and the body in the west",
+      "alt_ru": "Павлин выглядит как грубо нарисованный павлин с хвостом на востоке и телом на западе",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        132,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      },
+      "ru_sha256": "67921285cc20ab028287312d30d8ce027e30b1a531b8a86fe0682c79ad78d20e"
+    },
+    {
+      "id": "diagram:kQ42I655ma97",
+      "kind": "diagram",
+      "file_type": "img",
+      "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/reticulum-constellation-map_en.png",
+      "record_url": "https://astro4edu.org/resources/diagram/kQ42I655ma97/",
+      "original_path": "data/media/original/diagram_kQ42I655ma97.png",
+      "ru_path": null,
+      "sha256": "aed9daca8ce37962fb8baed5b4a17c27e4ce2bbdbce20baa69f44cf693394afd",
+      "size": 91297,
+      "title_en": "Reticulum Constellation Map",
+      "title_ru": "Карта созвездия Сетка",
+      "short_caption_en": "",
+      "short_caption_ru": "",
+      "caption_en": "The constellation Reticulum with its bright stars and surrounding constellations. Reticulum is surrounded by (going clockwise from the top): Horologium, Hydrus and Dorado.\r\n\r\nReticulum is a southern constellation and thus the whole constellation are visible at some point in the year throughout the southern hemisphere. The whole constellation is also visible to most equatorial regions of the northern hemisphere, with parts of the constellation visible to the remaining equatorial and some temperate northern regions. Reticulum is circumpolar for all antarctic and most temperate regions of the southern hemisphere. The constellation is best viewed in the evening in the northern hemisphere winter and southern hemisphere summer.\r\n\r\nThe y-axis of this diagram is in degrees of declination with north as up and the x-axis is in hours of right ascension with east to the left. The sizes of the stars marked here relate to the star's apparent magnitude, a measure of its apparent brightness. The larger dots represent brighter stars. The Greek letters mark the brightest stars in the constellation. These are ranked by brightness with the brightest star being labeled alpha, the second brightest beta, etc., although this ordering is not always followed exactly. The dotted boundary lines mark the IAU's boundaries of the constellations and the solid green lines mark one of the common forms used to represent the figures of the constellations. Neither the constellation boundaries, nor the lines joining the stars appear on the sky.",
+      "caption_ru": "Созвездие Сетка с его яркими звёздами и окружающими созвездиями. Сетка окружена (по часовой стрелке сверху): Часами, Южной Гидрой и Золотой Рыбой.\r\n\r\nСетка — южное созвездие, поэтому всё созвездие видно в какое-то время года на всей территории южного полушария. Всё созвездие также видно в большинстве экваториальных регионов северного полушария, а части созвездия видны в остальных экваториальных и некоторых умеренных северных регионах. Сетка является околополярной для всех антарктических и большинства умеренных регионов южного полушария. Лучше всего созвездие наблюдать вечером зимой в северном полушарии и летом в южном полушарии.\r\n\r\nОсь Y на этой диаграмме указана в градусах склонения, север вверху, а ось X — в часах прямого восхождения, восток слева. Размеры отмеченных здесь звёзд связаны с видимой звёздной величиной звезды, мерой её видимой яркости. Более крупные точки представляют более яркие звёзды. Греческие буквы обозначают самые яркие звёзды в созвездии. Они ранжированы по яркости: самая яркая звезда обозначается альфой, вторая по яркости — бетой и т. д., хотя этот порядок не всегда соблюдается точно. Пунктирные границы обозначают границы созвездий, установленные МАС, а сплошные зелёные линии обозначают одну из распространённых форм, используемых для изображения фигур созвездий. Ни границы созвездий, ни линии, соединяющие звёзды, не видны на небе.",
+      "alt_en": "Reticulum appears as four stars in a kite shape pointing south west",
+      "alt_ru": "Сетка выглядит как четыре звезды в форме воздушного змея, указывающего на юго-запад",
+      "credit": "Adapted by the IAU Office of Astronomy for Education from the original by the IAU and Sky & Telescope",
+      "credit_url": "https://www.iau.org/Iau/Iau/Science/What-we-do/The-Constellations.aspx",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "term_numbers": [
+        15,
+        50,
+        56,
+        66,
+        78,
+        286
+      ],
+      "source_language": "en",
+      "review": {
+        "status": "draft",
+        "reviewer": null
+      }
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}

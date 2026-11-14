@@ -1,0 +1,128 @@
+{
+  "id": "term:100",
+  "kind": "term_page",
+  "source": {
+    "type": "astro4edu_glossary",
+    "term_number": 100,
+    "url": "https://astro4edu.org/resources/glossary/term/100/",
+    "api_url": "https://www.astro4edu.org/oae-api/glossary-terms/?language=en&term-number=100",
+    "language": "en",
+    "fetched_at": "2026-11-13T22:41:38.548894+00:00",
+    "sha256": "1b5700bfbb3a564b5b459961a41e3d1336ca52d5b3fdc04c5a5ca3b58bae5338"
+  },
+  "metadata": {
+    "approval_level": "A",
+    "categories": [],
+    "category_ids": [],
+    "categories_ru": [],
+    "related_term_numbers": [],
+    "redirect_term_number": null,
+    "credit": "IAU OAE",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "sections": [
+    {
+      "id": "definition",
+      "type": "definition",
+      "heading": "Glossary term: Energy",
+      "body": "In very basic terms energy is defined as the capacity of a system to do some work. However, this definition does not capture the rich, multilayered aspect of energy, and its manifestation from the scale of fundamental particles to the entire Universe. One of the fundamental principles of physics is that total energy is always conserved. Energy takes various forms (e.g. kinetic, gravitational potential, thermal) depending on the context and can be converted from one form to another. Relativistic physics describes an innate connection between mass and energy. The unit of energy is the joule, and it quantifies the amount of work done on an object by a force of one newton moving it a distance of one meter. In particle physics, however, energy is expressed in electron volts.",
+      "links": [
+        {
+          "text": "Glossary Home",
+          "url": "https://www.astro4edu.org/resources/glossary/search/",
+          "text_ru": "Главная страница глоссария"
+        },
+        {
+          "text": "IAU Office of Astronomy\nOutreach (OAO)",
+          "url": "https://www.iau.org/public/oao/",
+          "text_ru": "Офис астрономического просвещения Международного астрономического союза (OAO)"
+        },
+        {
+          "text": "Creative Commons CC BY-4.0 license",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Лицензия Creative Commons CC BY-4.0"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">Glossary term: Energy</h2>\n<div class=\"module-subtitle font-serif ltr-align align-center\" dir=\"LTR\" lang=\"en\">\n<button class=\"button small\"><a href=\"/resources/glossary/search/\">Glossary Home</a></button>\n</div>\n\n<div class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<p><b>Description:</b> In very basic terms energy is defined as the capacity of a system to do some work. However, this definition does not capture the rich, multilayered aspect of energy, and its manifestation from the scale of fundamental particles to the entire Universe. One of the fundamental principles of physics is that total energy is always conserved. Energy takes various forms (e.g. kinetic, gravitational potential, thermal) depending on the context and can be converted from one form to another. Relativistic physics describes an innate connection between mass and energy. The unit of energy is the joule, and it quantifies the amount of work done on an object by a force of one newton moving it a distance of one meter. In particle physics, however, energy is expressed in electron volts.</p>\n<a class=\"link-bold\" href=\"#translations\">See this term in other languages</a><br/><br/>\n<p><b>Term and definition status:</b>\n\nThis term and its definition have been approved by a research astronomer and a teacher</p>\n<p>The OAE Multilingual Glossary is a project of the <a class=\"link-bold\" href=\"/\">IAU Office of\nAstronomy for Education (OAE)</a> in collaboration with the <a class=\"link-bold\" href=\"https://www.iau.org/public/oao/\">IAU Office of Astronomy\nOutreach (OAO)</a>. The terms and definitions were chosen, written and reviewed by a collective effort from the OAE, the <a class=\"link-bold\" href=\"/locations\">OAE Centers and Nodes</a>, the OAE <a class=\"link-bold\" href=\"/naec-network\">National Astronomy Education Coordinators (NAECs)</a> and other volunteers. You can find a full list of credits <a class=\"link-bold\" href=\"/glossary-credits\">here</a>. All glossary terms and their definitions are released under a <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">Creative Commons CC BY-4.0 license</a> and should be credited to \"IAU OAE\".</p>\n<p>If you notice a factual error in this glossary definition then\n  please  <a class=\"link-bold\" href=\"javascript:location='mailto:%64%65%61%63%6f%6e%40%61%73%74%72%6f%34%65%64%75%2e%6f%72%67';void 0\">get\n  in touch</a>.</p>\n</div>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#media\" title=\"scroll to linked media\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "Термин глоссария: Энергия",
+      "body_ru": "В самых общих чертах энергия определяется как способность системы совершать работу. Однако это определение не отражает богатый, многослойный аспект энергии и её проявление от масштаба фундаментальных частиц до всей Вселенной. Одним из фундаментальных принципов физики является то, что полная энергия всегда сохраняется. Энергия принимает различные формы (например, кинетическая, гравитационная потенциальная, тепловая) в зависимости от контекста и может превращаться из одной формы в другую. Релятивистская физика описывает врождённую связь между массой и энергией. Единицей энергии является джоуль, и она количественно определяет работу, совершаемую над объектом силой в один ньютон при перемещении его на расстояние в один метр. В физике элементарных частиц, однако, энергия выражается в электрон-вольтах."
+    },
+    {
+      "id": "other_languages",
+      "type": "language_links",
+      "heading": "In Other Languages",
+      "body": "",
+      "links": [],
+      "media_ids": [],
+      "source_html": "<section class=\"module-small\">\n<div class=\"container\" id=\"translations\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"LTR\" lang=\"en\">In Other Languages</h2>\n<ul>\n<li><b>Arabic: </b><span dir=\"RTL\" lang=\"ar\"><a class=\"link-bold\" href=\"/ar/resources/glossary/term/100/\">الطاقة </a></span></li>\n<li><b>German: </b><span dir=\"LTR\" lang=\"de\"><a class=\"link-bold\" href=\"/de/resources/glossary/term/100/\">Energie </a></span></li>\n<li><b>Spanish: </b><span dir=\"LTR\" lang=\"es\"><a class=\"link-bold\" href=\"/es/resources/glossary/term/100/\">Energía </a></span></li>\n<li><b>French: </b><span dir=\"LTR\" lang=\"fr\"><a class=\"link-bold\" href=\"/fr/resources/glossary/term/100/\">L'énergie </a></span></li>\n<li><b>Italian: </b><span dir=\"LTR\" lang=\"it\"><a class=\"link-bold\" href=\"/it/resources/glossary/term/100/\">Energia </a></span></li>\n<li><b>Korean: </b><span dir=\"LTR\" lang=\"ko\"><a class=\"link-bold\" href=\"/ko/resources/glossary/term/100/\">에너지 </a></span></li>\n<li><b>Brazilian Portuguese: </b><span dir=\"LTR\" lang=\"pt-BR\"><a class=\"link-bold\" href=\"/pt-br/resources/glossary/term/100/\">Energia </a></span></li>\n<li><b>Simplified Chinese: </b><span dir=\"LTR\" lang=\"zh-Hans\"><a class=\"link-bold\" href=\"/zh-hans/resources/glossary/term/100/\">能量 </a></span></li>\n<li><b>Traditional Chinese: </b><span dir=\"LTR\" lang=\"zh-Hant\"><a class=\"link-bold\" href=\"/zh-hant/resources/glossary/term/100/\">能量 </a></span></li>\n</ul>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</div>\n</div>\n</section>",
+      "heading_ru": "На других языках"
+    },
+    {
+      "id": "section_3",
+      "type": "source_block",
+      "heading": "Related Activities",
+      "body": "Related Activities Let's Break the Particles astroEDU educational activity (links to astroEDU website) Description: Learn how energy can be transformed into various forms. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Potential energy \n  \n  , Binding energy \n  \n  , Particle accelerator Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Planning and carrying out investigations",
+      "links": [
+        {
+          "text": "CC-BY-4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "CC-BY-4.0"
+        },
+        {
+          "text": "Creative Commons Attribution 4.0 International (CC BY 4.0) icons",
+          "url": "https://creativecommons.org/licenses/by/4.0/deed.en",
+          "text_ru": "Иконки Creative Commons Attribution 4.0 International (CC BY 4.0)"
+        }
+      ],
+      "media_ids": [],
+      "source_html": "<section class=\"module\">\n<div class=\"container\" id=\"activities\">\n<div class=\"col-sm-8 col-sm-offset-2\">\n<h2 class=\"module-title font-alt\" dir=\"\" lang=\"\">Related Activities</h2>\n</div>\n<div class=\"row\">\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"callout-text font-alt float_right flex\">\n<br/>\n<a href=\"http://astroedu.iau.org/en/activities/lets-break-the-particles/\"><img alt=\"Let's Break the Particles\" src=\"/media/astroedu/images/lets-break-the-particles_en_thumbnail_eTEVq8W.jpg\"/></a>\n</div>\n</div>\n<div class=\"col-sm-6 col-md-6 col-lg-6\">\n<div class=\"staff\">\n<a href=\"http://astroedu.iau.org/en/activities/lets-break-the-particles/\"><h3 class=\"ltr-align\" dir=\"LTR\" lang=\"en\">Let's Break the Particles</h3></a>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>astroEDU educational activity (links to astroEDU website)</b>\n<b>Description: </b>Learn how energy can be transformed into various forms.\n</p>\n<p class=\"ltr-align\" dir=\"LTR\" lang=\"en\">\n<b>License:</b> <a class=\"link-bold\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\">CC-BY-4.0</a> <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\" rel=\"license\"><i class=\"fab fa-creative-commons\"></i><i class=\"fab fa-creative-commons-by\"></i><span class=\"sr-only\">Creative Commons Attribution 4.0 International (CC BY 4.0) icons</span></a>\n<br/>\n<b>Tags:</b>\n  \n  Hands-on \n  \n  , Potential energy \n  \n  , Binding energy \n  \n  , Particle accelerator \n  \n<b>Age Ranges:</b>\n\n8-10 \n  \n, 10-12 \n  \n, 12-14 \n  \n<b>Education Level:</b>\n\nMiddle School \n  \n, Primary \n  \n<b>Areas of Learning:</b>\n\nStructured-inquiry learning \n  \n, Traditional Science Experiment \n  \n<b>Costs:</b>\nMedium Cost \n\n<b>Duration:</b>\n1 hour 30 mins \n\n<b>Group Size:</b>\nGroup \n\n<b>Skills:</b>\n\nAnalysing and interpreting data \n  \n, Asking questions \n  \n, Planning and carrying out investigations \n  \n</p>\n</div>\n</div>\n</div>\n</div>\n<br/>\n<div class=\"large-text align-center\"><a class=\"section-scroll\" href=\"#other\" title=\"scroll to other topics\"><i class=\"fa fa-angle-down\"></i></a></div>\n</section>",
+      "heading_ru": "Связанные учебные занятия",
+      "body_ru": "Связанные учебные занятия: Давайте разобьём частицы — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Узнайте, как энергия может превращаться в различные формы. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Практическое занятие, Потенциальная энергия, Энергия связи, Ускоритель частиц. Возрастные диапазоны: 8-10, 10-12, 12-14. Уровень образования: Средняя школа, Начальная школа. Области обучения: Структурированное исследовательское обучение, Традиционный научный эксперимент. Затраты: Средние. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Планирование и проведение исследований"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Energy",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Glossary term: Energy",
+          "body": "In very basic terms energy is defined as the capacity of a system to do some work. However, this definition does not capture the rich, multilayered aspect of energy, and its manifestation from the scale of fundamental particles to the entire Universe. One of the fundamental principles of physics is that total energy is always conserved. Energy takes various forms (e.g. kinetic, gravitational potential, thermal) depending on the context and can be converted from one form to another. Relativistic physics describes an innate connection between mass and energy. The unit of energy is the joule, and it quantifies the amount of work done on an object by a force of one newton moving it a distance of one meter. In particle physics, however, energy is expressed in electron volts."
+        },
+        "other_languages": {
+          "heading": "In Other Languages",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Related Activities",
+          "body": "Related Activities Let's Break the Particles astroEDU educational activity (links to astroEDU website) Description: Learn how energy can be transformed into various forms. License: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) icons Tags: Hands-on \n  \n  , Potential energy \n  \n  , Binding energy \n  \n  , Particle accelerator Age Ranges: 8-10 \n  \n, 10-12 \n  \n, 12-14 Education Level: Middle School \n  \n, Primary Areas of Learning: Structured-inquiry learning \n  \n, Traditional Science Experiment Costs: Medium Cost Duration: 1 hour 30 mins Group Size: Group Skills: Analysing and interpreting data \n  \n, Asking questions \n  \n, Planning and carrying out investigations"
+        }
+      }
+    },
+    "ru": {
+      "title": "Энергия",
+      "aliases": [],
+      "blocks": {
+        "definition": {
+          "heading": "Термин глоссария: Энергия",
+          "body": "В самых общих чертах энергия определяется как способность системы совершать работу. Однако это определение не отражает богатый, многослойный аспект энергии и её проявление от масштаба фундаментальных частиц до всей Вселенной. Одним из фундаментальных принципов физики является то, что полная энергия всегда сохраняется. Энергия принимает различные формы (например, кинетическая, гравитационная потенциальная, тепловая) в зависимости от контекста и может превращаться из одной формы в другую. Релятивистская физика описывает врождённую связь между массой и энергией. Единицей энергии является джоуль, и она количественно определяет работу, совершаемую над объектом силой в один ньютон при перемещении его на расстояние в один метр. В физике элементарных частиц, однако, энергия выражается в электрон-вольтах."
+        },
+        "other_languages": {
+          "heading": "На других языках",
+          "body": ""
+        },
+        "section_3": {
+          "heading": "Связанные учебные занятия",
+          "body": "Связанные учебные занятия: Давайте разобьём частицы — образовательное мероприятие astroEDU (ссылки на сайт astroEDU). Описание: Узнайте, как энергия может превращаться в различные формы. Лицензия: CC-BY-4.0 Creative Commons Attribution 4.0 International (CC BY 4.0) иконки. Теги: Практическое занятие, Потенциальная энергия, Энергия связи, Ускоритель частиц. Возрастные диапазоны: 8-10, 10-12, 12-14. Уровень образования: Средняя школа, Начальная школа. Области обучения: Структурированное исследовательское обучение, Традиционный научный эксперимент. Затраты: Средние. Продолжительность: 1 час 30 мин. Размер группы: Группа. Навыки: Анализ и интерпретация данных, Постановка вопросов, Планирование и проведение исследований"
+        }
+      }
+    }
+  },
+  "media": [],
+  "review": {
+    "status": "draft",
+    "reviewer": null
+  }
+}
