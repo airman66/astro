@@ -53,6 +53,13 @@ public sealed record class NasaPlanet
     [JsonPropertyName("st_rotp")] public double? StarRotationDays { get; init; }
     [JsonPropertyName("pl_tsm")] public double? TransmissionSpectroscopyMetric { get; init; }
     [JsonPropertyName("pl_esm")] public double? EmissionSpectroscopyMetric { get; init; }
+    // Limit flags (1 upper, -1 lower limit): such values are bounds, not measurements.
+    [JsonPropertyName("st_tefflim")] public int? StellarTemperatureLimit { get; init; }
+    [JsonPropertyName("st_lumlim")] public int? StellarLuminosityLimit { get; init; }
+    [JsonPropertyName("pl_orbsmaxlim")] public int? SemiMajorAxisLimit { get; init; }
+    [JsonPropertyName("disc_year")] public int? DiscoveryYear { get; init; }
+    [JsonPropertyName("discoverymethod")] public string? DiscoveryMethod { get; init; }
+    [JsonPropertyName("sy_pnum")] public int? SystemPlanetCount { get; init; }
 }
 
 public sealed record Candidate(
@@ -92,12 +99,46 @@ public sealed record Candidate(
     public double? DeclinationDegrees { get; init; }
     public string? OrbitalPeriodProvenance { get; init; }
     public string? FluxProvenance { get; init; }
+    public int? DiscoveryYear { get; init; }
+    public string? DiscoveryMethod { get; init; }
+    public int? SystemPlanetCount { get; init; }
+    /// <summary>1-based place in the published ranking of eligible candidates.</summary>
+    public int Rank { get; init; }
     public RankStability? Stability { get; init; }
 }
+
+/// <summary>Compact row for catalog-wide charts: every confirmed planet, eligible or not.</summary>
+public sealed record CatalogPoint(
+    string Name,
+    string? HostName,
+    double? RadiusEarth,
+    bool RadiusCalculated,
+    double? MassEarth,
+    bool MassMayBeMinimum,
+    double? FluxEarth,
+    string? FluxProvenance,
+    double? StellarTemperatureK,
+    double? DistanceParsec,
+    double? RightAscensionDegrees,
+    double? DeclinationDegrees,
+    int? DiscoveryYear,
+    string? DiscoveryMethod,
+    string? HabitableZone,
+    bool Eligible,
+    string? Exclusion,
+    double? Score);
+
+public sealed record Evaluation(Candidate? Candidate, string? Exclusion, double? FluxEarth, string? FluxProvenance,
+    string? HabitableZone);
 
 public sealed record RankStability(int Samples, int InputsWithErrors, int ScoredInputs,
     double ScoreP10, double ScoreP90, int RankP10, int RankP90,
     double Top50Percent, double EligiblePercent);
 
-public sealed record CatalogSnapshot(DateTimeOffset FetchedAt, int TotalPlanets, IReadOnlyList<Candidate> Candidates);
+public sealed record CatalogSnapshot(DateTimeOffset FetchedAt, int TotalPlanets, IReadOnlyList<Candidate> Candidates)
+{
+    public IReadOnlyList<CatalogPoint> Points { get; init; } = [];
+    /// <summary>True while the snapshot comes from the disk cache and no refresh has succeeded since start.</summary>
+    public bool FromCache { get; init; }
+}
 public sealed record SavedCatalog(DateTimeOffset FetchedAt, NasaPlanet[] Planets);

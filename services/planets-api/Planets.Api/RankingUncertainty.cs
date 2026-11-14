@@ -28,7 +28,8 @@ public static class RankingUncertainty
         }
 
         var source = planets.Where(planet => planet.Name is not null)
-            .ToDictionary(planet => planet.Name!, StringComparer.Ordinal);
+            .GroupBy(planet => planet.Name!, StringComparer.Ordinal)
+            .ToDictionary(group => group.Key, group => group.First(), StringComparer.Ordinal);
         return candidates.Select((candidate, index) =>
         {
             var sampled = results[candidate.Name];

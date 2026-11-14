@@ -2,14 +2,15 @@
 
 ## Продукт
 
-Один астрономический портал с одним будущим фронтендом. **Кейс 3 — основной:** дашборд по данным NASA об экзопланетах, каталог кандидатов, методика отбора и ИИ-помощник. **Кейс 2 — дополнительный:** раздел интерактивных задач и 3D-экспериментов. Новые учебные интерактивы добавляются в этот раздел, не как отдельные сайты. Сейчас задача репозитория — объединённый бэкенд и единый адрес API; новый фронтенд не реализуем без отдельной задачи.
+Один астрономический портал с одним будущим фронтендом. **Кейс 3 — основной:** дашборд по данным NASA об экзопланетах, каталог кандидатов, методика отбора и ИИ-помощник. **Кейс 2 — дополнительный:** раздел интерактивных задач и 3D-экспериментов. Новые учебные интерактивы добавляются в этот раздел, не как отдельные сайты. Единый фронтенд портала — `services/portal/`.
 
 ## Состав
 
-- `services/planets-api/` — .NET 10 API основного кейса, NASA/HWC/дополнительные источники; существующий статический PoC в `wwwroot` сохранён как есть. Его правила — `services/planets-api/AGENTS.md`.
+- `services/portal/` — единый фронтенд портала (Preact, TypeScript, Vite, D3), статика за nginx. Его правила — `services/portal/AGENTS.md`.
+- `services/planets-api/` — .NET 10 API основного кейса, NASA/HWC/дополнительные источники; прежний статический PoC в `wwwroot` сохранён как исходная реализация и доступен только на внутреннем порту сервиса. Его правила — `services/planets-api/AGENTS.md`.
 - `services/glossary-rag/` — FastAPI справочник, поиск и DeepSeek-помощник. Его правила — `services/glossary-rag/AGENTS.md`, схема данных — `SPEC.md` там же.
-- `infra/gateway/default.conf` — единственный публичный вход. `/api/v1/*` идёт в RAG, остальные `/api/*` — в Planets API. `/docs`, `/openapi.json`, `/health` обслуживает RAG; `/` временно показывает существующий PoC Planets.
-- `compose.yaml` — полный локальный стек: gateway, оба API, Redis, модель эмбеддингов. Ключ DeepSeek берётся только из окружения.
+- `infra/gateway/default.conf` — единственный публичный вход. `/api/v1/*` идёт в RAG, остальные `/api/*` — в Planets API. `/docs`, `/openapi.json`, `/health` обслуживает RAG; `/` и пути приложения — сервис `portal`. Имена сервисов gateway перерезолвит через DNS Docker, поэтому пересоздание одного контейнера не требует перезапуска gateway.
+- `compose.yaml` — полный локальный стек: gateway, портал, оба API, Redis, модель эмбеддингов (необязательная зависимость RAG); `compose.gpu.yaml` — эмбеддинги на NVIDIA GPU. Ключ DeepSeek берётся только из окружения.
 
 ## API и новые сервисы
 
@@ -19,6 +20,6 @@
 
 ## Работа и проверка
 
-Из корня: `docker compose config`, `docker compose up --build -d`, `python3 scripts/smoke.py`. Проверка .NET: `dotnet run --project services/planets-api/tests/Planets.Checks`. Проверка RAG: `cd services/glossary-rag && .venv/bin/python -m unittest discover -s tests -v`. После изменения маршрутов проверять доступ через gateway и напрямую внутри сервиса.
+Из корня: `docker compose config`, `docker compose up --build -d`, `python3 scripts/smoke.py`. Проверка .NET: `dotnet run --project services/planets-api/tests/Planets.Checks`. Проверка RAG: `cd services/glossary-rag && .venv/bin/python -m unittest discover -s tests -v`, целостность — `python -m app.audit` и `python -m scripts.illustrations verify`. Проверка портала: `cd services/portal && npm ci && npm run build && npm test`. После изменения маршрутов проверять доступ через gateway и напрямую внутри сервиса.
 
-Не коммитить `.env`, ключи, локальные модели, исходные медиа и снимки NASA. Не удалять канонические записи, индекс RAG и исходные файлы при перестройке Compose. Корневой Git хранит историю бывшего `glossary-rag`; вложенный `.git` не создавать.
+Не коммитить `.env`, ключи, локальные модели, исходные медиа и снимки NASA. Окончания строк фиксирует `.gitattributes` (LF): скрипты и конфиги исполняются в Linux-контейнерах, CRLF из Windows-клона их ломает. Не удалять канонические записи, индекс RAG и исходные файлы при перестройке Compose. Корневой Git хранит историю бывшего `glossary-rag`; вложенный `.git` не создавать.

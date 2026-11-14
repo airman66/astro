@@ -13,8 +13,11 @@ public sealed class HwcService(IWebHostEnvironment environment, IHttpClientFacto
     private const string CsvUrl = "https://www.hpcf.upr.edu/~abel/phl/hwc/data/hwc.csv";
     private readonly string _cachePath = Path.Combine(environment.ContentRootPath, "data", "hwc.json");
     private readonly SemaphoreSlim _gate = new(1, 1);
-    private HwcSnapshot? _current;
+    private volatile HwcSnapshot? _current;
     private DateTimeOffset _nextAttempt;
+
+    /// <summary>Timeout of the CSV download; tests shorten it.</summary>
+    public TimeSpan RequestTimeout { get; init; } = TimeSpan.FromSeconds(25);
 
     public async Task<HwcSnapshot?> GetAsync(CancellationToken cancellationToken)
     {
@@ -32,7 +35,11 @@ public sealed class HwcService(IWebHostEnvironment environment, IHttpClientFacto
                     await using var file = File.OpenRead(_cachePath);
                     _current = await JsonSerializer.DeserializeAsync<HwcSnapshot>(file, cancellationToken: cancellationToken);
                 }
-                catch (Exception ex) when (ex is not OperationCanceledException)
+                catch (OperationCanceledException) when (cancellationToken.IsCancellationRequested)
+                {
+                    throw;
+                }
+                catch (Exception ex)
                 {
                     logger.LogWarning(ex, "Could not load HWC cache");
                 }
@@ -41,7 +48,7 @@ public sealed class HwcService(IWebHostEnvironment environment, IHttpClientFacto
             try
             {
                 using var client = clients.CreateClient();
-                client.Timeout = TimeSpan.FromSeconds(25);
+                client.Timeout = RequestTimeout;
                 var csv = await client.GetStringAsync(CsvUrl, cancellationToken);
                 var worlds = Parse(csv);
                 if (worlds.Count < 20) throw new InvalidDataException("HWC returned too few habitable worlds");
@@ -52,8 +59,13 @@ public sealed class HwcService(IWebHostEnvironment environment, IHttpClientFacto
                 File.Move(tmp, _cachePath, true);
                 _nextAttempt = DateTimeOffset.UtcNow.AddHours(24);
             }
-            catch (Exception ex) when (ex is not OperationCanceledException)
+            catch (OperationCanceledException) when (cancellationToken.IsCancellationRequested)
             {
+                throw;
+            }
+            catch (Exception ex)
+            {
+                // A 25 s HttpClient timeout is a TaskCanceledException with our token not cancelled.
                 logger.LogWarning(ex, "HWC refresh failed; keeping last catalog");
                 _nextAttempt = DateTimeOffset.UtcNow.AddMinutes(15);
             }

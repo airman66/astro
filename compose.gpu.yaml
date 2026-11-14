@@ -1,0 +1,32 @@
+# Необязательный оверлей: эмбеддинги Qwen3-Embedding-8B на видеокарте NVIDIA.
+# Нужен NVIDIA Container Toolkit. Модель занимает около 5 ГБ видеопамяти, а не оперативной.
+#   docker compose -f compose.yaml -f compose.gpu.yaml up -d
+# или COMPOSE_FILE=compose.yaml:compose.gpu.yaml в локальном .env.
+services:
+  embeddings:
+    image: ghcr.io/ggml-org/llama.cpp:server-cuda
+    command:
+      - -m
+      - /models/Qwen3-Embedding-8B-Q4_K_M.gguf
+      - --embedding
+      - --pooling
+      - last
+      - -c
+      - "4096"
+      - -b
+      - "4096"
+      - -ub
+      - "2048"
+      - -ngl
+      - "99"
+      - --host
+      - 0.0.0.0
+      - --port
+      - "8080"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]

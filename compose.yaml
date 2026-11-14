@@ -10,6 +10,12 @@ services:
     depends_on:
       - planets-api
       - glossary-rag
+      - portal
+    restart: unless-stopped
+
+  # Единый фронтенд портала (статическая сборка, nginx); доступен через gateway по /.
+  portal:
+    build: ./services/portal
     restart: unless-stopped
 
   planets-api:
@@ -31,8 +37,10 @@ services:
     depends_on:
       redis:
         condition: service_healthy
+      # Справочник и поиск работают и без эмбеддингов (только FTS), поэтому зависимость не обязательна.
       embeddings:
-        condition: service_healthy
+        condition: service_started
+        required: false
     volumes:
       - ./services/glossary-rag/data:/app/data
     restart: unless-stopped
@@ -73,6 +81,7 @@ services:
   redis:
     image: redis:7-alpine
     command: ["redis-server", "--save", "", "--appendonly", "no"]
+    restart: unless-stopped
     healthcheck:
       test: ["CMD", "redis-cli", "ping"]
       interval: 5s
