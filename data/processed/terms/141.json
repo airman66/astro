@@ -150,7 +150,7 @@
       "source_url": "https://astro4edu.org/media/multimedia/copernicuss-heliocentric-system.jpg",
       "record_url": "https://astro4edu.org/resources/media/0N18tC72Yg2/",
       "original_path": "data/media/original/media_0N18tC72Yg2.jpg",
-      "ru_path": null,
+      "ru_path": "data/media/ru/media_0N18tC72Yg2.png",
       "sha256": "1e430690d3cae102be70e521de9d9472a3e6241c30b9e03589a4ce89508d01b7",
       "size": 702641,
       "title_en": "Copernicus's heliocentric system",
@@ -175,7 +175,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "52fa1aed91cfc89eccfda2ac420322507ad6ff5d43bd7e62dd77e9b0608a05ef"
     }
   ],
   "review": {

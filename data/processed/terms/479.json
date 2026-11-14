@@ -230,7 +230,7 @@
       "source_url": "https://astro4edu.org/media/multimedia/July_spots.jpg",
       "record_url": "https://astro4edu.org/resources/media/N7270j86V05/",
       "original_path": "data/media/original/media_N7270j86V05.jpg",
-      "ru_path": null,
+      "ru_path": "data/media/ru/media_N7270j86V05.png",
       "sha256": "312ffcc91299c1cb116150565df1ad5d6d466717e77e6d0c60240cdaf448aa6c",
       "size": 153318,
       "title_en": "",
@@ -254,7 +254,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "196356e4552416cddd078dc3b12ff1b6a1629bdfe5e856990c51e1c42c519247"
     },
     {
       "id": "media:vh39bb71Ir24",

@@ -234,7 +234,7 @@
       "source_url": "https://astro4edu.org/media/multimedia/map-of-de-facto-time-zones-on-earth.png",
       "record_url": "https://astro4edu.org/resources/media/jh312430Ry7/",
       "original_path": "data/media/original/media_jh312430Ry7.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/media_jh312430Ry7.png",
       "sha256": "b96c03baf54e8139934a4ded5aefdf42abefc70ba8521258577b2b9551a8af59",
       "size": 2881798,
       "title_en": "Map of de-facto time zones on Earth",
@@ -259,7 +259,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "3be75206680129c3f745766f3c59ce6c93802168cb821ae2807f394162a83f5f"
     },
     {
       "id": "diagram:Qf59LF190B19",
