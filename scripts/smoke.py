@@ -32,17 +32,25 @@ def check(path: str, status: int, field: str, *, method: str = "GET", body: dict
     return payload
 
 
-def page(path: str, needle: str):
+def page(path: str, needle: str, *, label: str = "портал"):
     with urlopen(BASE + path, timeout=60) as response:
         html = response.read().decode("utf-8")
         assert response.status == 200 and "text/html" in response.headers.get("Content-Type", ""), path
     assert needle in html, f"{path}: в HTML нет «{needle}»"
-    print(f"OK GET {path}: портал")
+    print(f"OK GET {path}: {label}")
+
+
+def image(path: str):
+    with urlopen(BASE + path, timeout=60) as response:
+        assert response.status == 200 and response.headers.get("Content-Type", "").startswith("image/"), path
+        assert response.read(16), f"{path}: пустой файл"
+    print(f"OK GET {path}: изображение")
 
 
 check("/health", 200, "service")
 page("/", "Параллакс")
 page("/planets/" + quote("Proxima Cen b"), 'id="app"')
+page("/docs", "Swagger UI", label="OpenAPI")
 deadline = time.monotonic() + 120
 while True:
     status = check("/api/status", 200, "ready")
@@ -55,16 +63,26 @@ candidate = check("/api/candidates?limit=1", 200, "items")
 assert len(candidate["items"]) == 1
 name = candidate["items"][0]["name"]
 check("/api/candidates/" + quote(name), 200, "stability")
+check("/api/candidates/" + quote(name) + "/sources", 200, "gaia")
 planets = check("/api/planets", 200, "items")
 assert planets["total"] == len(planets["items"]) and planets["exclusions"].get("eligible", 0) >= 1
+check("/api/hwc", 200, "available")
 methodology = check("/api/methodology", 200, "scoreVersion")
 assert methodology["boundaries"], "нет таблицы границ зоны"
 terms = check("/api/v1/terms?page_size=1", 200, "items")
 assert terms["total"] > 0
 assert terms["items"][0]["url"].startswith("/api/v1/terms/")
 check(terms["items"][0]["url"], 200, "id")
+term = check("/api/v1/terms/1", 200, "media")
+assert term["media"], "у контрольного термина нет медиа"
+media_id = quote(term["media"][0]["id"], safe="")
+check(f"/api/v1/media/{media_id}", 200, "id")
+image(f"/api/v1/media/{media_id}/file?locale=ru")
+image("/api/v1/terms/1/illustration")
 facets = check("/api/v1/terms/facets?locale=ru", 200, "letters")
 assert facets["total"] == terms["total"]
+check("/api/v1/articles", 200, "items")
+check("/api/v1/articles/smoke-unknown-id", 404, "code")
 search = check("/api/v1/search?q=star&locale=en", 200, "items")
 assert search["total"] > 0 and search["mode"] in ("hybrid", "lexical")
 russian = check("/api/v1/search?q=" + quote("черные дыры") + "&locale=ru", 200, "items")

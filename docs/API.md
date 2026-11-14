@@ -17,6 +17,7 @@
 | `GET /api/v1/terms/{number}` | RAG | Термин с локализациями, медиа и иллюстрацией |
 | `GET /api/v1/terms/{number}/illustration` | RAG | Файл иллюстрации команды |
 | `GET /api/v1/articles` | RAG | Статьи |
+| `GET /api/v1/articles/{article_id}` | RAG | Статья по ID; неизвестный ID возвращает `404` |
 | `GET /api/v1/search?q=...` | RAG | Поиск |
 | `GET /api/v1/media/{id}` | RAG | Метаданные медиа |
 | `GET /api/v1/media/{id}/file?locale=ru` | RAG | Локализованный файл |
