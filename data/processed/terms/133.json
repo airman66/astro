@@ -157,7 +157,7 @@
       "source_url": "https://astro4edu.org/media/multimedia/apparatus-for-determining-the-gravitional-constant.png",
       "record_url": "https://astro4edu.org/resources/media/Is35Tq19o343/",
       "original_path": "data/media/original/media_Is35Tq19o343.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/media_Is35Tq19o343.png",
       "sha256": "4bc21a1e8aa640b56519115dfca8df6da0ce3c2c93f0c81ff0e1f0fd82dfd557",
       "size": 864505,
       "title_en": "Apparatus for determining the gravitional constant",
@@ -180,7 +180,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f19861ef0b6940b8d6edfb8e05910fa3795f4bd332986cca63bc5da8e7945a17"
     }
   ],
   "review": {

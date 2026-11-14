@@ -1,0 +1,16 @@
+{
+  "accepted_unique": 20,
+  "matched_fields": 59,
+  "changed_fields_final_pass": 36,
+  "affected_records_final_pass": 24,
+  "retained": [
+    {
+      "id": "4970f0622aa6056a5ca10954a2cceab43e08edf02ccce034422afd2b35f0090b",
+      "reason": "original title is concise and accurate"
+    },
+    {
+      "id": "103c519d145938f1981e2509cb9567e36f65a0dc2c4f6d10730121453b3a79a0",
+      "reason": "original title is concise and accurate"
+    }
+  ]
+}

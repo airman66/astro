@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-14T00:48:53.751854+00:00",
+  "built_at": "2026-11-14T06:43:30.861955+00:00",
   "model": "Qwen/Qwen3-Embedding-8B-GGUF",
   "model_revision": "69d0e58a13e463cd99a9b83e3f5fee7c10265fab",
   "model_file": "Qwen3-Embedding-8B-Q4_K_M.gguf",
@@ -16,12 +16,12 @@
     "overlap": 0.1,
     "tokenizer_model": "Qwen/Qwen3-Embedding-8B",
     "chunk_count": 1930,
-    "chunks_sha256": "6cf9de3da2a291d975337ea44622080e321625a3370573987d3247071e1a379f"
+    "chunks_sha256": "2feac87d594cb8d8143cad9e1f285ca64448cf86074f18ab9ecac5d4238d003c"
   },
-  "chunks_sha256": "6cf9de3da2a291d975337ea44622080e321625a3370573987d3247071e1a379f",
-  "index_sha256": "3deadda9bcf2a3fa3db96e503e95c15300401e02d24772ff4f435354b354a695",
-  "vector_map_sha256": "b7c94940627e07269f5645d02296052ec0125d9fc00455f5619997d8c11dc5d4",
-  "embedding_cache_sha256": "6516b9ee4d8e1aa8ef4e497b8d30f5a529e3172a425998ee77f7787ea84bec7d",
+  "chunks_sha256": "2feac87d594cb8d8143cad9e1f285ca64448cf86074f18ab9ecac5d4238d003c",
+  "index_sha256": "bec342276dd7396af1dc247c9e6e8a33bebec5776d0375d9a26e2e83c2e23f82",
+  "vector_map_sha256": "dc5f3e4db051b0451cfd9bd0f1c68837722331e23996f8d6b3cd5d69459db41f",
+  "embedding_cache_sha256": "92b3540e18aeeb0a117aa26db415e5aade695b1768a42bdeaeb2a59db6685f2f",
   "normalization": "L2",
   "metric": "inner_product"
 }
