@@ -1,14 +1,31 @@
+name: tulahack2026
+
 services:
-  glossary-rag:
-    build: .
+  gateway:
+    image: nginx:1.28-alpine
     ports:
-      - "8001:8000"
+      - "127.0.0.1:8090:8080"
+    volumes:
+      - ./infra/gateway/default.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      - planets-api
+      - glossary-rag
+    restart: unless-stopped
+
+  planets-api:
+    build: ./services/planets-api
+    volumes:
+      - catalog-data:/app/data
+    restart: unless-stopped
+
+  glossary-rag:
+    build: ./services/glossary-rag
     environment:
       DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
       DEEPSEEK_MODEL: ${DEEPSEEK_MODEL:-deepseek-flash}
       CORS_ORIGINS: ${CORS_ORIGINS:-}
       REDIS_URL: redis://redis:6379/0
-      TRUSTED_PROXIES: ${TRUSTED_PROXIES:-}
+      TRUSTED_PROXIES: 172.16.0.0/12
       SESSION_SECRET: ${SESSION_SECRET:-}
       EMBEDDING_URL: ${EMBEDDING_URL:-http://embeddings:8080/v1/embeddings}
     depends_on:
@@ -17,15 +34,17 @@ services:
       embeddings:
         condition: service_healthy
     volumes:
-      - ./data:/app/data
+      - ./services/glossary-rag/data:/app/data
     restart: unless-stopped
+
   model-fetch:
     image: ghcr.io/ggml-org/llama.cpp:server
     entrypoint: ["/bin/sh", "/scripts/fetch_embedding_model.sh"]
     volumes:
-      - ./data/models:/models
-      - ./scripts/fetch_embedding_model.sh:/scripts/fetch_embedding_model.sh:ro
+      - ./services/glossary-rag/data/models:/models
+      - ./services/glossary-rag/scripts/fetch_embedding_model.sh:/scripts/fetch_embedding_model.sh:ro
     restart: "no"
+
   embeddings:
     image: ghcr.io/ggml-org/llama.cpp:server
     depends_on:
@@ -48,8 +67,9 @@ services:
       - --port
       - "8080"
     volumes:
-      - ./data/models:/models:ro
+      - ./services/glossary-rag/data/models:/models:ro
     restart: unless-stopped
+
   redis:
     image: redis:7-alpine
     command: ["redis-server", "--save", "", "--appendonly", "no"]
@@ -58,3 +78,6 @@ services:
       interval: 5s
       timeout: 3s
       retries: 5
+
+volumes:
+  catalog-data:

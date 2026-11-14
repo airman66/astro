@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Техническая витрина функций каталога экзопланет Exo/Atlas">
+  <title>Exo/Atlas · лаборатория функций</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script type="importmap">{"imports":{"three":"/vendor/three/three.module.js","three/addons/":"/vendor/three/"}}</script>
+  <script src="/scene.js" defer></script>
+  <script src="/sky-map.js" defer></script>
+  <script src="/stories.js" defer></script>
+  <script type="module" src="/world-lab.js"></script>
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="Каталог экзопланет, главная">
+        <span class="brand-symbol" aria-hidden="true"><span></span></span>
+        <span>EXO<span class="brand-light">/</span>ATLAS</span>
+      </a>
+      <p id="source-status" class="source-status" role="status">Загружаем каталог NASA…</p>
+    </header>
+
+    <main>
+      <section class="intro" aria-labelledby="page-title">
+        <div>
+          <p class="intro-note">Exo/Atlas · технический прототип</p>
+          <h1 id="page-title">Лаборатория<br>экзопланет</h1>
+          <p class="intro-copy">Десять отдельных демонстраций на одном каталоге. Выберите планету и переключайте вкладки, чтобы решить, какие функции войдут в итоговое приложение.</p>
+        </div>
+        <div class="catalog-summary" aria-label="Сводка каталога">
+          <div><strong id="candidate-count">—</strong><span>кандидатов</span></div>
+          <div><strong id="planet-count">—</strong><span>планет в NASA</span></div>
+        </div>
+      </section>
+
+      <nav class="feature-tabs" role="tablist" aria-label="Демонстрации функций">
+        <button id="tab-ranking" type="button" role="tab" aria-controls="panel-ranking" aria-selected="true" tabindex="0" data-tab="ranking">Рейтинг</button>
+        <button id="tab-sky" type="button" role="tab" aria-controls="panel-sky" aria-selected="false" tabindex="-1" data-tab="sky">Карта неба</button>
+        <button id="tab-passport" type="button" role="tab" aria-controls="panel-passport" aria-selected="false" tabindex="-1" data-tab="passport">Паспорт</button>
+        <button id="tab-stories" type="button" role="tab" aria-controls="panel-stories" aria-selected="false" tabindex="-1" data-tab="stories">Истории</button>
+        <button id="tab-hwc" type="button" role="tab" aria-controls="panel-hwc" aria-selected="false" tabindex="-1" data-tab="hwc">Каталог HWC</button>
+        <button id="tab-scene" type="button" role="tab" aria-controls="panel-scene" aria-selected="false" tabindex="-1" data-tab="scene">3D-система</button>
+        <button id="tab-world" type="button" role="tab" aria-controls="panel-world" aria-selected="false" tabindex="-1" data-tab="world">Вообразить мир</button>
+        <button id="tab-orbit" type="button" role="tab" aria-controls="panel-orbit" aria-selected="false" tabindex="-1" data-tab="orbit">Эксперимент</button>
+        <button id="tab-parameters" type="button" role="tab" aria-controls="panel-parameters" aria-selected="false" tabindex="-1" data-tab="parameters">Параметры</button>
+        <button id="tab-observations" type="button" role="tab" aria-controls="panel-observations" aria-selected="false" tabindex="-1" data-tab="observations">Наблюдения</button>
+      </nav>
+
+      <div class="world-picker">
+        <label for="planet-select">Планета для сравнения функций</label>
+        <select id="planet-select" disabled><option>Загружаем каталог NASA…</option></select>
+        <p id="selected-context">Выбранная планета появится после загрузки каталога.</p>
+      </div>
+
+      <section class="sky-panel" aria-labelledby="sky-title" hidden>
+        <div class="sky-panel-head">
+          <div><p class="eyebrow">От Земли к звёздам</p><h2 id="sky-title">Где находятся эти миры?</h2></div>
+          <p>Точки показывают направления на звёзды. Выберите систему на карте, чтобы открыть её планету.</p>
+        </div>
+        <div class="sky-layout">
+          <canvas id="sky-canvas" tabindex="0" aria-label="Интерактивная карта направлений на звёзды кандидатов. Стрелки выбирают точку, Enter открывает планету."></canvas>
+          <div class="sky-caption"><strong id="sky-selected">Выберите планету</strong><span id="sky-coordinates">Координаты загружаются…</span><span id="sky-distance">Расстояние от Земли: —</span><small id="sky-hint">Карта показывает направление, а не расстояние в масштабе.</small></div>
+        </div>
+      </section>
+
+      <section id="panel-ranking" class="feature-panel" role="tabpanel" aria-labelledby="tab-ranking">
+        <header class="feature-intro">
+          <p class="feature-kind">Отбор и объяснение</p>
+          <h2>Рейтинг кандидатов</h2>
+          <p>Показывает топ‑50 из прошедших отбор планет; поиск и фильтры позволяют посмотреть весь список и две группы зоны обитаемости. Выбор планеты раскрывает три причины её места и чувствительность позиции к опубликованным погрешностям.</p>
+          <div class="feature-facts">
+            <p><strong>Источник</strong><span><a href="https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html" target="_blank" rel="noopener noreferrer">NASA Exoplanet Archive, таблица pscomppars</a>. Каталог обновляется при запуске и каждые 6 часов; при сбое остаётся последний снимок.</span></p>
+            <p><strong>Отбор</strong><span>Температура звезды 2600–7200 K; поток внутри расширенной зоны по <a href="https://doi.org/10.1088/2041-8205/787/2/L29" target="_blank" rel="noopener noreferrer">Kopparapu et al.</a>; радиус 0,5–2,5 R⊕ и/или масса 0,1–10 M⊕. Спорные планеты и орбиты вокруг двух звёзд исключены.</span></p>
+            <p><strong>Балл</strong><span>До 100: зона обитаемости — 50 или 25, близость размера к земному — до 35, эксцентриситет орбиты — до 15. Неизвестный эксцентриситет получает нейтральные 7,5. Это наша эвристика сортировки, не ESI и не вероятность жизни.</span></p>
+            <p><strong>Погрешности</strong><span>160 пересчётов всего каталога с опубликованными ошибками NASA дают диапазон балла и места, а также долю попаданий в топ‑50. Неизвестные и систематические ошибки не моделируются.</span></p>
+          </div>
+        </header>
+      <div class="explorer">
+        <section class="ranking" aria-labelledby="ranking-title">
+          <div class="section-heading">
+            <div>
+              <h2 id="ranking-title">Рейтинг</h2>
+              <p id="results-meta">Загружаем список…</p>
+            </div>
+            <span class="section-help" title="Балл — приближённая оценка, максимум 100">Балл / 100</span>
+          </div>
+
+          <label class="search-field">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"/><path d="m16 16 5 5"/></svg>
+            <span class="visually-hidden">Поиск планеты или звезды</span>
+            <input id="search" type="search" placeholder="Найти планету или звезду" autocomplete="off">
+          </label>
+
+          <div class="filters" role="group" aria-label="Зона обитаемости">
+            <button type="button" data-zone="all" aria-pressed="true">Все</button>
+            <button type="button" data-zone="conservative" aria-pressed="false">Консервативная</button>
+            <button type="button" data-zone="optimistic" aria-pressed="false">Расширенная</button>
+          </div>
+
+          <ol id="planet-list" class="planet-list" aria-label="Кандидаты"></ol>
+          <p id="list-message" class="list-message" role="status">Ждём данные NASA…</p>
+          <button id="show-all" class="show-all" type="button" hidden>Показать всех кандидатов</button>
+        </section>
+
+        <article id="detail" class="detail" aria-labelledby="detail-title">
+          <div id="detail-empty" class="detail-empty">Выберите планету из рейтинга, чтобы посмотреть параметры.</div>
+          <div id="detail-content" hidden>
+            <div class="detail-top">
+              <div>
+                <p id="detail-host" class="detail-host"></p>
+                <h2 id="detail-title"></h2>
+                <span id="detail-zone" class="zone-label"></span>
+              </div>
+              <div class="detail-score" aria-label="Балл перспективности"><strong id="detail-score"></strong><span>/ 100</span></div>
+            </div>
+
+            <div class="detail-section passport-section">
+              <h3>Паспорт мира · рядом с Землёй</h3>
+              <div class="passport-grid">
+                <div><span>Год</span><strong id="passport-year">—</strong><small>Земля: 365,25 суток</small><em id="passport-year-source" class="evidence"></em></div>
+                <div><span>Свет от звезды</span><strong id="passport-light">—</strong><small>Земля: 1 S⊕</small><em id="passport-light-source" class="evidence"></em></div>
+                <div><span>Расстояние от Земли</span><strong id="passport-distance">—</strong><small>Световой год — расстояние, не время полёта</small><em class="evidence is-derived">Вычислено из расстояния в парсеках</em></div>
+              </div>
+              <p class="evidence-key"><span class="evidence is-measured">Измерено</span> опубликованное значение NASA · <span class="evidence is-derived">Вычислено</span> по данным каталога · <span class="evidence is-artistic">Художественная гипотеза</span> только для внешнего вида</p>
+            </div>
+
+            <section id="planet-story" class="detail-section story-section" aria-labelledby="story-heading" hidden>
+              <p class="story-kicker">История из исследований</p>
+              <h3 id="story-heading"></h3>
+              <p id="story-body"></p>
+              <p class="story-unknown"><strong>Что пока неизвестно:</strong> <span id="story-unknown"></span></p>
+              <div id="story-sources" class="story-sources" aria-label="Источники истории"></div>
+            </section>
+
+            <div class="detail-section hwc-section">
+              <div class="section-inline"><h3>Сравнение с каталогом HWC</h3><a href="https://phl.upr.edu/hwc/data" target="_blank" rel="noopener noreferrer">Источник ↗</a></div>
+              <p id="hwc-result" class="detail-explain" role="status">Сверяем с HWC…</p>
+              <p class="detail-explain">HWC применяет свою классификацию к данным, в основном взятым из NASA. Его список отмечен датой 21 марта 2024 года; отсутствие в нём не опровергает наш отбор.</p>
+            </div>
+
+            <div class="detail-section">
+              <h3>Почему она в топе?</h3>
+              <div class="score-part"><div><span>Зона обитаемости</span><strong id="score-zone-text"></strong></div><div class="score-track"><span id="score-zone-bar"></span></div></div>
+              <p id="reason-zone" class="score-reason"></p>
+              <div class="score-part"><div><span>Размер</span><strong id="score-size-text"></strong></div><div class="score-track"><span id="score-size-bar"></span></div></div>
+              <p id="reason-size" class="score-reason"></p>
+              <div class="score-part"><div><span>Орбита</span><strong id="score-orbit-text"></strong></div><div class="score-track"><span id="score-orbit-bar"></span></div></div>
+              <p id="reason-orbit" class="score-reason"></p>
+            </div>
+
+            <div class="detail-section stability-section">
+              <h3>А если измерения неточны?</h3>
+              <p id="stability-story" class="stability-story"></p>
+              <div class="stability-grid">
+                <div><span>Балл · 10–90%</span><strong id="stability-score">—</strong></div>
+                <div><span>Место среди отобранных · 10–90%</span><strong id="stability-rank">—</strong></div>
+                <div><span>Попадание в топ-50</span><strong id="stability-top">—</strong></div>
+              </div>
+              <p id="stability-note" class="detail-explain"></p>
+            </div>
+
+            <div class="detail-section scene-section">
+              <div class="scene-heading"><div><h3>3D-схема системы</h3><p id="scene-data-note" class="detail-explain"></p></div><button id="scene-play" type="button" aria-pressed="true">Пауза</button></div>
+              <canvas id="system-canvas" aria-label="Интерактивная схема орбиты планеты, звезды и зоны обитаемости"></canvas>
+              <div class="scene-legend"><span><i class="scene-key-orbit"></i> Орбита</span><span><i class="scene-key-zone"></i> Зона обитаемости</span><span>Потяните схему, чтобы повернуть</span></div>
+              <a id="known-model-link" class="known-model-link" href="https://science.nasa.gov/resource/proxima-b-3d-model/" target="_blank" rel="noopener noreferrer" hidden>Скачать готовую модель NASA для Proxima b ↗</a>
+              <div class="appearance-controls" role="group" aria-label="Вариант внешнего вида планеты">
+                <span>Внешний вид:</span>
+                <button type="button" data-appearance="neutral" aria-pressed="true">Нейтральный</button>
+                <button type="button" data-appearance="rocky" aria-pressed="false">Каменистый</button>
+                <button type="button" data-appearance="cloudy" aria-pressed="false">Облачный</button>
+                <button type="button" data-appearance="icy" aria-pressed="false">Ледяной</button>
+              </div>
+              <p id="appearance-note" class="scene-disclaimer"><span class="evidence is-artistic">Художественная гипотеза</span> Внешний вид и цвет планеты не измерены.</p>
+            </div>
+
+            <div class="detail-section flux-section">
+              <div class="section-inline"><h3>Получаемый свет</h3><strong id="flux-value"></strong></div>
+              <p class="detail-explain">Положение планеты относительно границ зоны обитаемости её звезды.</p>
+              <div class="flux-ruler" aria-label="Шкала получаемого излучения">
+                <div id="conservative-band" class="conservative-band"></div>
+                <div id="flux-marker" class="flux-marker"><span></span></div>
+              </div>
+              <div class="flux-labels"><span id="flux-outer"></span><span>холоднее <span aria-hidden="true">→</span> горячее</span><span id="flux-inner"></span></div>
+              <div class="flux-legend"><span><i class="legend-conservative"></i> Консервативная зона</span><span><i class="legend-optimistic"></i> Расширенная зона</span></div>
+              <div class="orbit-lab"><label for="orbit-distance">Попробуйте передвинуть планету <strong id="orbit-factor">1×</strong></label><input id="orbit-distance" type="range" min="50" max="200" value="100" step="1"><p id="orbit-result"></p><button id="orbit-reset" type="button">Вернуть исходное положение</button><small>Учебный сценарий: меняется только расстояние до звезды. Это не прогноз климата. <a href="https://astroedu.iau.org/activities/1624/the-engine-of-life/" target="_blank" rel="noopener noreferrer">Почему свет меняется ↗</a></small></div>
+            </div>
+
+            <div class="detail-section">
+              <h3>Планета и звезда</h3>
+              <dl class="metric-grid">
+                <div><dt>Радиус</dt><dd id="metric-radius"></dd></div>
+                <div><dt>Масса</dt><dd id="metric-mass"></dd></div>
+                <div><dt>Эксцентриситет</dt><dd id="metric-eccentricity"></dd></div>
+                <div><dt>Температура звезды</dt><dd id="metric-temperature"></dd></div>
+                <div><dt>Расстояние</dt><dd id="metric-distance"></dd></div>
+                <div><dt>Тип звезды</dt><dd id="metric-spectral"></dd></div>
+                <div><dt>Орбитальный период</dt><dd id="metric-period"></dd></div>
+                <div><dt>Большая полуось</dt><dd id="metric-axis"></dd></div>
+                <div><dt>Наклон орбиты</dt><dd id="metric-inclination"></dd></div>
+                <div><dt>Плотность</dt><dd id="metric-density"></dd></div>
+                <div><dt>Равновесная температура</dt><dd id="metric-equilibrium"></dd></div>
+                <div><dt>Радиус звезды</dt><dd id="metric-star-radius"></dd></div>
+              </dl>
+            </div>
+
+            <div class="detail-section source-section">
+              <h3>Дополнительные наблюдения</h3>
+              <p class="detail-explain">Источники загружаются для выбранной планеты. Спектр сам по себе не определяет цвет поверхности.</p>
+              <div class="source-grid">
+                <div class="source-card"><div class="source-card-head"><strong>Gaia DR3</strong><a href="https://gea.esac.esa.int/archive/" target="_blank" rel="noopener noreferrer">Архив ↗</a></div><p id="gaia-result" role="status">Загружаем…</p></div>
+                <div class="source-card"><div class="source-card-head"><strong>MAST / TESS</strong><a href="https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html" target="_blank" rel="noopener noreferrer">Архив ↗</a></div><p id="tess-result" role="status">Загружаем…</p></div>
+                <div class="source-card"><div class="source-card-head"><strong>Спектры NASA</strong><a href="https://exoplanetarchive.ipac.caltech.edu/docs/atmospheres/atmospheres_home.html" target="_blank" rel="noopener noreferrer">Каталог ↗</a></div><p id="spectra-result" role="status">Загружаем…</p><ul id="spectra-list" class="spectra-list"></ul></div>
+              </div>
+            </div>
+
+            <div class="detail-section detail-bottom">
+              <div>
+                <h3>Что известно о данных</h3>
+                <ul id="data-flags" class="data-flags"></ul>
+              </div>
+              <a id="nasa-link" class="nasa-link" href="https://exoplanetarchive.ipac.caltech.edu" target="_blank" rel="noopener noreferrer">Карточка в NASA <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+        </article>
+      </div>
+      </section>
+
+      <section id="panel-sky" class="feature-panel" role="tabpanel" aria-labelledby="tab-sky" hidden>
+        <header class="feature-intro"><p class="feature-kind">Расположение</p><h2>Карта неба</h2><p>Точки отмечают направления на звёздные системы кандидатов. Нажмите на точку, чтобы выбрать планету; если у звезды их несколько, повторное нажатие переключает миры.</p><div class="feature-facts"><p><strong>Данные</strong><span>Прямое восхождение и склонение звезды (<code>ra</code>, <code>dec</code>) из NASA Exoplanet Archive; расстояние <code>sy_dist</code> переводится из парсеков в световые годы.</span></p><p><strong>Граница</strong><span>Это плоская карта направлений. Расстояние не показано масштабом, а координаты звезды не задают положение планеты на орбите.</span></p></div></header>
+        <div id="feature-sky-body"></div>
+      </section>
+
+      <section id="panel-passport" class="feature-panel" role="tabpanel" aria-labelledby="tab-passport" hidden>
+        <header class="feature-intro"><p class="feature-kind">Сравнение с Землёй</p><h2>Паспорт мира</h2><p>Три понятные величины для выбранной планеты: длительность года, количество света от звезды и расстояние от Земли. Рядом стоят земные ориентиры и происхождение каждого числа.</p><div class="feature-facts"><p><strong>Данные</strong><span>Орбитальный период, звёздный поток и расстояние из NASA Exoplanet Archive. Световые годы вычисляются из парсеков.</span></p><p><strong>Граница</strong><span>Свет от звезды не равен температуре поверхности: для климата важны атмосфера, отражательная способность и другие неизвестные условия.</span></p></div></header>
+        <div id="feature-passport-body" class="feature-card"></div>
+      </section>
+
+      <section id="panel-stories" class="feature-panel" role="tabpanel" aria-labelledby="tab-stories" hidden>
+        <header class="feature-intro"><p class="feature-kind">Научно-популярный контекст</p><h2>Истории планет</h2><p>Восемь коротких редакционных историй об известных кандидатах. Каждая рассказывает, почему мир заинтересовал исследователей, и прямо отмечает то, чего наблюдения пока не установили.</p><div class="feature-facts"><p><strong>Источники</strong><span>Материалы NASA, научные публикации и сообщения исследовательских команд; ссылка и год приведены в каждой истории.</span></p><p><strong>Граница</strong><span>Тексты проверяются вручную и не обновляются вместе с числовым каталогом NASA. Гипотезы об океане и атмосфере не считаются наблюдением жизни и не влияют на рейтинг.</span></p></div></header>
+        <div id="story-choices" class="story-choices" aria-label="Планеты с историями"></div>
+        <p id="story-empty" class="feature-empty">Для выбранной планеты истории пока нет. Выберите один из миров выше.</p>
+        <div id="feature-stories-body" class="feature-card"></div>
+      </section>
+
+      <section id="panel-hwc" class="feature-panel" role="tabpanel" aria-labelledby="tab-hwc" hidden>
+        <header class="feature-intro"><p class="feature-kind">Другая методика</p><h2>Сравнение с HWC</h2><p>Проверяет, есть ли выбранная планета в Habitable Worlds Catalog (HWC), показывает его группу и ESI, если она опубликована. Так можно сравнить два подхода к предварительному отбору.</p><div class="feature-facts"><p><strong>Данные</strong><span><a href="https://phl.upr.edu/hwc/data" target="_blank" rel="noopener noreferrer">CSV каталога HWC</a>, загружаемый отдельно и кэшируемый на 24 часа. Его основной список датирован 21 марта 2024 года.</span></p><p><strong>Граница</strong><span>Группа HWC основана на его критериях, а ESI описывает сходство с Землёй. HWC в основном использует те же данные NASA; отсутствие совпадения по имени не опровергает наш отбор.</span></p></div></header>
+        <div id="feature-hwc-body" class="feature-card"></div>
+      </section>
+
+      <section id="panel-scene" class="feature-panel" role="tabpanel" aria-labelledby="tab-scene" hidden>
+        <header class="feature-intro"><p class="feature-kind">Пространственная схема</p><h2>3D-система</h2><p>Вращаемая схема показывает звезду, орбиту планеты и две зоны обитаемости. Можно остановить анимацию и примерить несколько вариантов внешнего вида.</p><div class="feature-facts"><p><strong>Данные</strong><span>Большая полуось, эксцентриситет, поток и параметры звезды из NASA Exoplanet Archive; границы зон вычисляются по Kopparapu et al.</span></p><p><strong>Граница</strong><span>Размеры тел и скорость движения условны. Ориентация орбиты и цвет поверхности не восстановлены из наблюдений; все палитры — художественные варианты.</span></p></div></header>
+        <div id="feature-scene-body" class="feature-card"></div>
+      </section>
+
+      <section id="panel-world" class="feature-panel" role="tabpanel" aria-labelledby="tab-world" hidden>
+        <header class="feature-intro"><p class="feature-kind">Процедурная 3D-сцена · эксперимент</p><h2>Вообразить мир</h2><p>Планета вращается; её рельеф, постройки и существа находятся в одной сцене. Потяните планету, чтобы повернуть, прокрутите или сведите пальцы для масштаба, а кнопка «К существам» приблизит камеру к поселению.</p><div class="feature-facts"><p><strong>Данные</strong><span>Название, радиус, звёздный поток и температура звезды поступают из NASA Exoplanet Archive. Числа показаны рядом; температура звезды задаёт лишь условный оттенок освещения. Масштаб рельефа и существ художественный.</span></p><p><strong>Генерация сейчас</strong><span>Пять видов рельефа и объёмные существа с постройками создаются локально по постоянному seed. Тот же выбор и номер варианта дают тот же мир. Для рендера используется локальная копия Three.js.</span></p><p><strong>Для финальной версии</strong><span>Добавить много обликов и закрепить за каждой планетой свой уникальный мир. При первом открытии генерировать и сохранять его в кэше, чтобы при следующих посещениях все видели тот же облик. Сейчас серверное кэширование миров ещё не реализовано.</span></p><p><strong>Граница</strong><span>Поверхность, климат, цвет, жизнь и цивилизация не установлены этими данными. Скорость вращения условная. Все образы — художественные гипотезы; вкладка не влияет на рейтинг.</span></p></div></header>
+        <div class="world-lab">
+          <div class="world-lab-head"><div><p class="world-lab-kicker">01 / Варианты поверхности</p><h3 id="world-planet-name">Выберите планету</h3><p id="world-facts">Ожидаем данные NASA…</p></div><span class="evidence is-artistic">Художественная гипотеза</span></div>
+          <div class="world-lab-body">
+            <div class="world-stage"><canvas id="world-canvas" tabindex="0" aria-label="Интерактивная 3D-планета: перетаскивание вращает камеру, колесо или жест меняет масштаб"></canvas><div class="world-stage-actions"><button id="world-spin" type="button" aria-pressed="true">Пауза</button><button id="world-focus" type="button" disabled>К существам</button></div><div class="world-stage-caption"><strong id="world-type-name">Островной мир</strong><span id="world-seed">Вариант 01</span></div><p id="world-error" class="world-error" role="status" hidden>3D-рендерер недоступен в этом браузере.</p></div>
+            <div class="world-side">
+              <div class="world-controls"><div class="world-control-head"><h4>Какой мир представить?</h4><button id="world-regenerate" type="button">Другой вариант ↻</button></div><div class="world-options" role="group" aria-label="Художественный тип поверхности"><button type="button" data-world="archipelago" aria-pressed="true">Архипелаг</button><button type="button" data-world="dunes" aria-pressed="false">Дюны</button><button type="button" data-world="glacier" aria-pressed="false">Ледники</button><button type="button" data-world="basalt" aria-pressed="false">Базальт</button><button type="button" data-world="clouds" aria-pressed="false">Облака</button></div><p id="world-description" class="world-description"></p></div>
+              <div class="world-civilization"><div class="world-control-head"><div><p class="world-lab-kicker">02 / Воображаемая жизнь</p><h4>Если здесь возникла цивилизация</h4></div><button id="world-reveal" type="button" aria-pressed="false">Показать</button></div><p class="world-description">Существа и постройки объёмные и стоят на той же планете. Всё в этой сцене придумано.</p><div class="world-options" role="group" aria-label="Тип построек"><button type="button" data-city="domes" aria-pressed="true">Купола</button><button type="button" data-city="spires" aria-pressed="false">Башни</button><button type="button" data-city="platforms" aria-pressed="false">Платформы</button></div><div class="world-options" role="group" aria-label="Тип существ"><button type="button" data-creature="walkers" aria-pressed="true">Шагающие</button><button type="button" data-creature="gliders" aria-pressed="false">Парящие</button><button type="button" data-creature="colony" aria-pressed="false">Колония</button></div><p id="civilization-state" class="world-description" role="status">Нажмите «Показать», затем «К существам», чтобы приблизиться.</p></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="panel-orbit" class="feature-panel" role="tabpanel" aria-labelledby="tab-orbit" hidden>
+        <header class="feature-intro"><p class="feature-kind">Учебный эксперимент</p><h2>Свет и расстояние</h2><p>Шкала показывает получаемый планетой свет относительно границ зоны обитаемости. Ползунок мысленно приближает или удаляет планету от звезды и сразу пересчитывает освещённость.</p><div class="feature-facts"><p><strong>Расчёт</strong><span>Исходный поток и границы зоны берутся из NASA и модели Kopparapu; в учебном сценарии поток меняется обратно пропорционально квадрату расстояния.</span></p><p><strong>Граница</strong><span>Эксперимент не изменяет реальную орбиту или балл, не учитывает климат и не предсказывает наличие жидкой воды.</span></p></div></header>
+        <div id="feature-orbit-body" class="feature-card"></div>
+      </section>
+
+      <section id="panel-parameters" class="feature-panel" role="tabpanel" aria-labelledby="tab-parameters" hidden>
+        <header class="feature-intro"><p class="feature-kind">Каталожные поля</p><h2>Параметры планеты и звезды</h2><p>Числа, на которых строятся остальные демонстрации: размер, масса, орбита, температура и характеристики звезды. Пометки под таблицей объясняют пропуски, пределы и значения, рассчитанные архивом.</p><div class="feature-facts"><p><strong>Данные</strong><span><a href="https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html" target="_blank" rel="noopener noreferrer">Поля NASA Exoplanet Archive, таблица pscomppars</a>. Ссылка на исходную карточку NASA находится под параметрами.</span></p><p><strong>Граница</strong><span>Составная строка архива может объединять оценки из разных публикаций. Плотность и равновесная температура не раскрывают напрямую поверхность или её цвет.</span></p></div></header>
+        <div id="feature-parameters-body" class="feature-card"></div>
+      </section>
+
+      <section id="panel-observations" class="feature-panel" role="tabpanel" aria-labelledby="tab-observations" hidden>
+        <header class="feature-intro"><p class="feature-kind">Следующие измерения</p><h2>Дополнительные наблюдения</h2><p>Показывает, какие сведения доступны у других архивов для выбранной системы. Каждый источник отвечает отдельно, поэтому отсутствие записи не означает отсутствие физического явления.</p><div class="feature-facts"><p><strong>Gaia DR3</strong><span>Независимые оценки параллакса, температуры, светимости и радиуса звезды. Они пока не подменяют параметры NASA в балле.</span></p><p><strong>MAST / TESS</strong><span>Число временных рядов и секторы наблюдений звезды. Это метаданные: график транзита и сигнал именно этой планеты пока не извлекаются.</span></p><p><strong>Спектры NASA</strong><span>Сведения об опубликованных спектральных наборах, приборах и статьях. Наличие спектра само по себе не определяет атмосферу или цвет поверхности.</span></p></div></header>
+        <div id="feature-observations-body" class="feature-card"></div>
+      </section>
+
+      <footer class="footer">
+        <p>Балл — ориентир для отбора, а не вероятность жизни. Основан на модели зоны обитаемости Kopparapu et al. (2014).</p>
+        <a href="/api/methodology" target="_blank" rel="noopener noreferrer">Методика расчёта</a>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>

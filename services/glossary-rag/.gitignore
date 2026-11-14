@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite*
+data/index/embedding-cache-*.npz
+data/models/
+data/media/original/
+data/image_ocr.json
+data/processed/.translation-cache.json

@@ -1,59 +1,41 @@
-# Astro4Edu glossary RAG
+# TulaHack 2026 — астрономический портал
 
-Самостоятельный двуязычный справочник и RAG API по утверждённой [спецификации](SPEC.md). Канонические записи лежат в `data/processed/`, исходные снимки — в `data/raw/`. Записи и изображения в API остаются черновиками до редакторского ревью.
+Монорепозиторий двух независимых API с единым адресом для будущего фронтенда. Основной продукт (кейс 3) — дашборд NASA по экзопланетам и ИИ-помощник. Дополнительный раздел (кейс 2) — интерактивные задачи и 3D-эксперименты. Сейчас объединены бэкенды; существующий интерфейс Planets оставлен как PoC, новый общий фронтенд не добавлен.
 
 ## Запуск
 
+Нужны Docker и Docker Compose. В корне репозитория:
+
 ```sh
 cp .env.example .env
-# заполнить DEEPSEEK_API_KEY в .env; для импорта и переиндексации — RUNPOD_API_KEY
+# при необходимости вписать DEEPSEEK_API_KEY в .env
 docker compose up --build -d
-curl http://localhost:8001/health
-curl http://localhost:8001/docs
+python3 scripts/smoke.py
 ```
 
-При первом запуске Compose скачивает и проверяет SHA-256 официального `Qwen3-Embedding-8B-Q4_K_M.gguf` (4,68 ГБ) в игнорируемый `data/models/`. Сервис эмбеддингов на CPU прогревается при первом запросе. На macOS можно запустить `llama-server` с Metal на хосте и передать `EMBEDDING_URL=http://host.docker.internal:8082/v1/embeddings` в Compose:
+Единый адрес: `http://localhost:8090`. Основной API — `/api/status`, `/api/candidates`, `/api/hwc`, `/api/methodology`; справочник и помощник — `/api/v1/terms`, `/api/v1/search`, `/api/v1/assistant/answer`. Контракт и примеры: [docs/API.md](docs/API.md). `GET /docs` показывает OpenAPI RAG. Порт 8090 опубликован только на `127.0.0.1`; между контейнерами сервисы доступны по именам Compose.
 
-```sh
-llama-server -m data/models/Qwen3-Embedding-8B-Q4_K_M.gguf --embedding --pooling last -ngl 99 -c 4096 --host 0.0.0.0 --port 8082
-```
-
-Сервер на хосте в таком режиме доступен в локальной сети; ограничьте интерфейс или используйте только доверенную сеть. Без ключа DeepSeek чтение и поиск работают, ассистент возвращает `503 assistant_unavailable`.
-
-## Данные и индекс
-
-```sh
-python3 -m app.importer --download-media
-python3 -m app.translate
-python3 -m app.audit
-python3 -m app.storage
-python3 -m app.chunks
-```
-
-Импорт и перевод возобновляемы. Проверка `app.audit` сверяет структуру, ссылки, тексты и файлы. `scripts/register_image_edits.py` обновляет `data/image_edits.json` и пути русских изображений в канонических записях; после него перестройте SQLite.
-
-`data/index/` создан на временном GPU Pod Runpod. Скрипт `scripts/build_index.py` получает `chunks.jsonl` и `chunk-manifest.json`, один и тот же GGUF Qwen3-Embedding-8B и URL `llama-server --embedding --pooling last`. Команда:
-
-```sh
-python scripts/build_index.py data/index --model-file data/models/Qwen3-Embedding-8B-Q4_K_M.gguf --embedding-url http://127.0.0.1:8080/v1/embeddings
-```
-
-Скрипт сохраняет FAISS `IndexFlatIP`, таблицу ID, кэш векторов по хэшу текста и манифест с хэшами модели/файлов. Публикуйте артефакты после проверки хэшей. Сервис сверяет их перед загрузкой. Для запросов подаётся инструкция Qwen `Instruct: ...\nQuery: ...`, для документов — исходный текст чанка. Pod для онлайн запросов не нужен.
-
-Карта часовых поясов локализована из [векторного исходника Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_Time_Zones_Map.svg): 693 текстовые метки, словарь `data/processed/image_labels/world_time_zones.json`. Для повторной сборки нужен `rsvg-convert`:
-
-```sh
-python3 scripts/localize_timezone_svg.py data/raw/world_time_zones_map_source.svg data/processed/image_labels/world_time_zones.json data/media/ru/media_jh312430Ry7.png
-```
-
-Оригинальный PNG Astro4Edu сохранён отдельно. Вектор обновлялся независимо от него и содержит дополнительные сведения о переходе на летнее время; различия зафиксированы в `data/image_edits.json`.
+Первый запуск модели эмбеддингов скачивает и проверяет файл около 4,7 ГБ в игнорируемый `services/glossary-rag/data/models/`. Уже подготовленные данные и модель в каталоге RAG сохраняются при переносе. Каталог NASA хранится в Docker томе `catalog-data`, обновляется из NASA при запуске; до первой загрузки `/api/status` отдаёт `ready: false`, а `/api/candidates` — `503`. `docker compose down` останавливает стек и сохраняет том; `down -v` удаляет том каталога.
 
 ## Проверка
 
 ```sh
-python3 -m unittest discover -s tests -v
-python3 -m app.audit
-python3 -m scripts.evaluate --answers 10
+docker compose config
+python3 scripts/smoke.py http://localhost:8090
+dotnet run --project services/planets-api/tests/Planets.Checks
+cd services/glossary-rag && .venv/bin/python -m unittest discover -s tests -v
 ```
 
-Для последней команды нужны `DEEPSEEK_API_KEY` и запущенный сервер эмбеддингов. Результат 50 контрольных вопросов — `data/eval/report.json`; сравнение размеров чанков — `data/eval/chunk_config.json`. OpenAPI доступен в `/openapi.json`, Swagger UI — в `/docs`.
+`smoke.py` проверяет маршрутизацию через gateway, ответы обоих сервисов и OpenAPI. Внешний вызов DeepSeek он не выполняет. Для работы помощника нужен ключ в корневом `.env`; без него чтение справочника работает, а помощник даёт явную ошибку `503`.
+
+## Структура
+
+```text
+services/planets-api/    .NET API основного кейса и прежний статический PoC
+services/glossary-rag/   FastAPI, данные, поиск и ИИ-помощник
+infra/gateway/           маршрутизация единого origin
+docs/API.md              карта публичных маршрутов
+scripts/smoke.py         интеграционная проверка
+```
+
+Правила работы и границы кейсов — в [AGENTS.md](AGENTS.md). В каждой службе остались её собственные `README.md` и `AGENTS.md`.

@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+Planets.Api/data/
+tests/
+.git/
+.DS_Store
