@@ -606,7 +606,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/crux-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Hj32Ua273O7/",
       "original_path": "data/media/original/diagram_Hj32Ua273O7.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Hj32Ua273O7.png",
       "sha256": "678442a23d8da1ade56825ecb718191b3b83d9c0b04df5767b40d7dc440fd134",
       "size": 110073,
       "title_en": "Crux Constellation Map",
@@ -635,7 +635,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "8d7fa893e82f3bd1bbb48f88d5356f5d8e4d91218f5f14ae44fd47a35e7e0099"
     },
     {
       "id": "diagram:bO379985GO52",

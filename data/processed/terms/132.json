@@ -295,7 +295,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/scorpius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uM753a62k218/",
       "original_path": "data/media/original/diagram_uM753a62k218.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uM753a62k218.png",
       "sha256": "295390cb65436e178d6ae225ce984d4dc73852b10e0a0e1768def3166f1dd7b8",
       "size": 152588,
       "title_en": "Scorpius Constellation Map",
@@ -329,7 +329,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "604b039c01a28f013bd6d3b18e3a75226928e4046e35d4ed0b1c3c7a95c80c92"
     },
     {
       "id": "diagram:Ju53nC20Lt23",
@@ -338,7 +339,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Ju53nC20Lt23/",
       "original_path": "data/media/original/diagram_Ju53nC20Lt23.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Ju53nC20Lt23.png",
       "sha256": "37e4a87ce51317e74bcc1a674d69d15fdeee4cbf57b01efa221332178e8de624",
       "size": 150618,
       "title_en": "Sagittarius Constellation Map",
@@ -376,7 +377,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f56cb9c08a19687a3d45da480824279002bad9878073f9572ff89be62e5537b2"
     },
     {
       "id": "diagram:J557Ln95hA62",
@@ -385,7 +387,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/capricornus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/J557Ln95hA62/",
       "original_path": "data/media/original/diagram_J557Ln95hA62.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_J557Ln95hA62.png",
       "sha256": "683ac4e8242ccacf6a715dc31a13047b986ed563c914c5670183a94ec93db67e",
       "size": 97977,
       "title_en": "Capricornus Constellation Map",
@@ -418,7 +420,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "6cbef34e3288dd221a93b7eba4b7c70e73b8ea53b38bbbc806c9a95e11483831"
     },
     {
       "id": "diagram:qo31xv8AO72",
@@ -471,7 +474,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ophiuchus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ef73go0hL43/",
       "original_path": "data/media/original/diagram_ef73go0hL43.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ef73go0hL43.png",
       "sha256": "1f2a23600fa63efaa493349901f972108d6269fba8f9a9c9e92b5cc72affd64f",
       "size": 139909,
       "title_en": "Ophiuchus Constellation Map",
@@ -504,7 +507,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "dbf17c0b9c3d7f3e355998e7c7f9b7f22a66c5674fc8d752a6f34fea4e2101c8"
     },
     {
       "id": "diagram:oU18zv19Fc41",
@@ -513,7 +517,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ara-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/oU18zv19Fc41/",
       "original_path": "data/media/original/diagram_oU18zv19Fc41.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_oU18zv19Fc41.png",
       "sha256": "913d6443b5d3a29c38969e84563c57d4238b1f1c1e4ec567e7fe6f54ef985630",
       "size": 98706,
       "title_en": "Ara Constellation Map",
@@ -542,7 +546,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "4d6ece2ea048711bdea6f2b0f20fd922dc323f65bea4e9299869bf13311b38a9"
     },
     {
       "id": "diagram:v423m720Fe95",
@@ -551,7 +556,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/centaurus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/v423m720Fe95/",
       "original_path": "data/media/original/diagram_v423m720Fe95.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_v423m720Fe95.png",
       "sha256": "f96f20b8948ba16575832dbd0c804c9e1bbd8116d812c837a27a4ade62147aca",
       "size": 152877,
       "title_en": "Centaurus Constellation Map",
@@ -580,7 +585,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "45ef570254e3d40ec26ed47f1c793103680bc0369f492f9b101ebae9e09e4e27"
     },
     {
       "id": "diagram:sH69IF82FF61",
@@ -589,7 +595,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/corona-australis-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/sH69IF82FF61/",
       "original_path": "data/media/original/diagram_sH69IF82FF61.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_sH69IF82FF61.png",
       "sha256": "48d3bb429cb430e3c9734d5e1ffc73fca320b869e852c48400c2192bd991514a",
       "size": 88215,
       "title_en": "Corona Australis Constellation Map",
@@ -619,7 +625,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "7ec3692c08ca930d8d9082fb9649cb5d8418ce2b59cd4f2e7ba502431a64c26a"
     },
     {
       "id": "diagram:eZ5wx71NY52",
@@ -628,7 +635,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/canes-venatici-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/eZ5wx71NY52/",
       "original_path": "data/media/original/diagram_eZ5wx71NY52.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_eZ5wx71NY52.png",
       "sha256": "071c7bcec423bd6da038457b78aa8876487b8b860c63689280e5d22fd3a94bd9",
       "size": 93713,
       "title_en": "Canes Venatici Constellation Map",
@@ -656,7 +663,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "db65388a4199b6e8155bfcf77399b55cb8b4f5ee96cd9c3b9235f3cba28be444"
     },
     {
       "id": "diagram:Sk61ZE32Db17",
@@ -665,7 +673,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/delphinus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Sk61ZE32Db17/",
       "original_path": "data/media/original/diagram_Sk61ZE32Db17.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Sk61ZE32Db17.png",
       "sha256": "692a65f9f58c30e06f5f53f9a8b5541eb937e26d2bc80341b3ab1b9b445ad439",
       "size": 70980,
       "title_en": "Delphinus Constellation Map",
@@ -694,7 +702,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "83682b23a394f0f8e491ce12d53b4afd8a31f6d89bd881c9564295ca23007d92"
     },
     {
       "id": "diagram:f836up534S27",
@@ -740,7 +749,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/horologium-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/vK85g032mR87/",
       "original_path": "data/media/original/diagram_vK85g032mR87.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_vK85g032mR87.png",
       "sha256": "ea7c0d1707162c34e20a35fd587fae2e7c9e8e0aa838d2fa1fe5865ff29d5664",
       "size": 94082,
       "title_en": "Horologium Constellation Map",
@@ -768,7 +777,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "cd91513a5b28eae4618f7641a0c82eacb280a6fd68a68cc6eb75090403843d59"
     },
     {
       "id": "diagram:Mb93uM9dX96",
@@ -777,7 +787,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hydra-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Mb93uM9dX96/",
       "original_path": "data/media/original/diagram_Mb93uM9dX96.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Mb93uM9dX96.png",
       "sha256": "87068abbfdf605dac9fab729487d8418575a2c9211b825fd9ec858b98049021c",
       "size": 114598,
       "title_en": "Hydra Constellation Map",
@@ -811,7 +821,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "6d6d1807ceecf33119fe279baf1296cf2e09bd971f93a4ba3444d1316f77dfc1"
     },
     {
       "id": "diagram:MZ50Rw73oK80",
@@ -820,7 +831,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/lyra-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/MZ50Rw73oK80/",
       "original_path": "data/media/original/diagram_MZ50Rw73oK80.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_MZ50Rw73oK80.png",
       "sha256": "b95a0ef5b99ec04020ef7313040c227b44add2bcb1915c8ccd72afa3f6ce942d",
       "size": 81994,
       "title_en": "Lyra Constellation Map",
@@ -849,7 +860,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "0324015ed0f534b70dae0c69ff6da60179db67ee7caeea38bcd679652fe60fe3"
     },
     {
       "id": "diagram:2p48cz1Ud25",
@@ -896,7 +908,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/pegasus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uN36zW81Pr75/",
       "original_path": "data/media/original/diagram_uN36zW81Pr75.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uN36zW81Pr75.png",
       "sha256": "a40a93df430f2c15b52b2f1399a82bb8c575078a7d262655c7aa4211a794df9d",
       "size": 122044,
       "title_en": "Pegasus Constellation Map",
@@ -929,7 +941,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "34eb0ae712ab74fe7d8a3e869d06f8396d2f4823fd84c26c8937465aea1cb6fb"
     },
     {
       "id": "diagram:Vz14Lb22Cd91",
@@ -938,7 +951,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/serpens-caput-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Vz14Lb22Cd91/",
       "original_path": "data/media/original/diagram_Vz14Lb22Cd91.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Vz14Lb22Cd91.png",
       "sha256": "de7cf998234afc6e64ddc17ee877f67eab4ce4644f859e0f439d136036a37264",
       "size": 97598,
       "title_en": "Serpens Caput Constellation Map",
@@ -968,7 +981,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f7aa49f41d2614f3e541d373561c2cfef884101bd2ad44b95f2cfeb57128efda"
     },
     {
       "id": "diagram:fA66kX67Mh92",
@@ -977,7 +991,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagitta-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/fA66kX67Mh92/",
       "original_path": "data/media/original/diagram_fA66kX67Mh92.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_fA66kX67Mh92.png",
       "sha256": "65787d5115067f1513bd8777d20d15093d3933c5a1c2dd4380db5c00ec3a41b6",
       "size": 79768,
       "title_en": "Sagitta Constellation Map",
@@ -1004,7 +1018,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "e90b8c668424ff3b95a9382565f4b07ae6989d780308ff013657cba105eeac1c"
     },
     {
       "id": "diagram:Is45R6524x76",
@@ -1013,7 +1028,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/tucana-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Is45R6524x76/",
       "original_path": "data/media/original/diagram_Is45R6524x76.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Is45R6524x76.png",
       "sha256": "2b2fd135097d48673c678e03607dafe7a80ab7ea875c65ed86f8ce1c242f66fb",
       "size": 113873,
       "title_en": "Tucana Constellation Map",
@@ -1041,7 +1056,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "4cc50854c60f4b98e243f6e8a8a8466360b0beaaec4422836bdd768b79435904"
     }
   ],
   "review": {

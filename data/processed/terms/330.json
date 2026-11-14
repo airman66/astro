@@ -438,7 +438,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/leo-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uc91Hc319213/",
       "original_path": "data/media/original/diagram_uc91Hc319213.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uc91Hc319213.png",
       "sha256": "2e499831e35a7cd89f3fcd5abc37b3e5e92799ba72d91d802afea7f894970a55",
       "size": 114246,
       "title_en": "Leo Constellation Map",
@@ -472,7 +472,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "608110882bbd467402ea95265ab6ff8589969caefe81b36e19c73ab6ea644b7c"
     },
     {
       "id": "diagram:aT839V20hT52",
@@ -481,7 +482,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/virgo-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/aT839V20hT52/",
       "original_path": "data/media/original/diagram_aT839V20hT52.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_aT839V20hT52.png",
       "sha256": "5e29941369fdf575330698e62d59b8249009def48d85e2ac3599edb13d2960a9",
       "size": 94701,
       "title_en": "Virgo Constellation Map",
@@ -517,7 +518,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "17f165de7f1c9f21d9d5a2f8fc6e30e98fa84ebf53aade579bd34375f403185d"
     },
     {
       "id": "diagram:hq75BY71AZ88",
@@ -526,7 +528,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa-major-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/hq75BY71AZ88/",
       "original_path": "data/media/original/diagram_hq75BY71AZ88.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_hq75BY71AZ88.png",
       "sha256": "85bb7f463d6805b770be3f2b6a2efe6e07cdc78411372b65213f5af9298a73af",
       "size": 143672,
       "title_en": "Ursa Major Constellation Map",
@@ -558,7 +560,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "4fbd70e058c58b14cc8b1d6b77dbee2569782d460fe8c71dca9d55237f6a93fb"
     },
     {
       "id": "diagram:1v1540710v51",
@@ -689,7 +692,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/canes-venatici-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/eZ5wx71NY52/",
       "original_path": "data/media/original/diagram_eZ5wx71NY52.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_eZ5wx71NY52.png",
       "sha256": "071c7bcec423bd6da038457b78aa8876487b8b860c63689280e5d22fd3a94bd9",
       "size": 93713,
       "title_en": "Canes Venatici Constellation Map",
@@ -717,7 +720,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "db65388a4199b6e8155bfcf77399b55cb8b4f5ee96cd9c3b9235f3cba28be444"
     },
     {
       "id": "diagram:tN46nV20Km71",
@@ -726,7 +730,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/fornax-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/tN46nV20Km71/",
       "original_path": "data/media/original/diagram_tN46nV20Km71.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_tN46nV20Km71.png",
       "sha256": "02027abf3257d8dcae4b3b6b8ee3a1929f9059fe0ceb85f6a78e59fa603be0be",
       "size": 92125,
       "title_en": "Fornax Constellation Map",
@@ -753,7 +757,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "1aada432502ed738bab18a6136da99c2017b08b25f5506b51e89dfd2e68dca87"
     },
     {
       "id": "diagram:Mb93uM9dX96",
@@ -762,7 +767,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hydra-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Mb93uM9dX96/",
       "original_path": "data/media/original/diagram_Mb93uM9dX96.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Mb93uM9dX96.png",
       "sha256": "87068abbfdf605dac9fab729487d8418575a2c9211b825fd9ec858b98049021c",
       "size": 114598,
       "title_en": "Hydra Constellation Map",
@@ -796,7 +801,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "6d6d1807ceecf33119fe279baf1296cf2e09bd971f93a4ba3444d1316f77dfc1"
     },
     {
       "id": "diagram:uN36zW81Pr75",
@@ -805,7 +811,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/pegasus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uN36zW81Pr75/",
       "original_path": "data/media/original/diagram_uN36zW81Pr75.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uN36zW81Pr75.png",
       "sha256": "a40a93df430f2c15b52b2f1399a82bb8c575078a7d262655c7aa4211a794df9d",
       "size": 122044,
       "title_en": "Pegasus Constellation Map",
@@ -838,7 +844,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "34eb0ae712ab74fe7d8a3e869d06f8396d2f4823fd84c26c8937465aea1cb6fb"
     },
     {
       "id": "diagram:ZO82p521KX42",
@@ -847,7 +854,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sculptor-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ZO82p521KX42/",
       "original_path": "data/media/original/diagram_ZO82p521KX42.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ZO82p521KX42.png",
       "sha256": "8ee26b6a593b1542c207155125ba411079558cb850aea501e40f0cdd72512424",
       "size": 90517,
       "title_en": "Sculptor Constellation Map",
@@ -875,7 +882,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "bb5ed479c5603bcdf1ecd6df695ee97d198f4ac1612c74bd6d6cbba64535bca7"
     },
     {
       "id": "diagram:PH823i56VA27",
@@ -884,7 +892,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/triangulum-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/PH823i56VA27/",
       "original_path": "data/media/original/diagram_PH823i56VA27.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_PH823i56VA27.png",
       "sha256": "73703727f3a46dffd44bf47f1c38b0f0c497474c2aaac1e608804fc900cdd531",
       "size": 81191,
       "title_en": "Triangulum Constellation Map",
@@ -916,7 +924,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "ad3cb181733fd14b03018576ded6f7098a11e5a4c714a1b84c74b125fad735ee"
     }
   ],
   "review": {

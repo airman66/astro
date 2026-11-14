@@ -223,7 +223,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/capricornus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/J557Ln95hA62/",
       "original_path": "data/media/original/diagram_J557Ln95hA62.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_J557Ln95hA62.png",
       "sha256": "683ac4e8242ccacf6a715dc31a13047b986ed563c914c5670183a94ec93db67e",
       "size": 97977,
       "title_en": "Capricornus Constellation Map",
@@ -256,7 +256,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "6cbef34e3288dd221a93b7eba4b7c70e73b8ea53b38bbbc806c9a95e11483831"
     },
     {
       "id": "diagram:qo31xv8AO72",
@@ -393,7 +394,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/delphinus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Sk61ZE32Db17/",
       "original_path": "data/media/original/diagram_Sk61ZE32Db17.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Sk61ZE32Db17.png",
       "sha256": "692a65f9f58c30e06f5f53f9a8b5541eb937e26d2bc80341b3ab1b9b445ad439",
       "size": 70980,
       "title_en": "Delphinus Constellation Map",
@@ -422,7 +423,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "83682b23a394f0f8e491ce12d53b4afd8a31f6d89bd881c9564295ca23007d92"
     },
     {
       "id": "diagram:df72rx5Xk69",
@@ -431,7 +433,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/equuleus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/df72rx5Xk69/",
       "original_path": "data/media/original/diagram_df72rx5Xk69.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_df72rx5Xk69.png",
       "sha256": "76b9d2ab36ba11f4d38c7f3ada760d8f11feb43c53e4c5b1519ae1e547d9498d",
       "size": 61601,
       "title_en": "Equuleus Constellation Map",
@@ -458,7 +460,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "0a897de3460d46f435bc6959e08a56e88f4f00497d7b075c424f4967588a8a22"
     },
     {
       "id": "diagram:uN36zW81Pr75",
@@ -467,7 +470,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/pegasus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uN36zW81Pr75/",
       "original_path": "data/media/original/diagram_uN36zW81Pr75.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uN36zW81Pr75.png",
       "sha256": "a40a93df430f2c15b52b2f1399a82bb8c575078a7d262655c7aa4211a794df9d",
       "size": 122044,
       "title_en": "Pegasus Constellation Map",
@@ -500,7 +503,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "34eb0ae712ab74fe7d8a3e869d06f8396d2f4823fd84c26c8937465aea1cb6fb"
     },
     {
       "id": "diagram:vs44va14nt24",
@@ -509,7 +513,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/piscis-austrinus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/vs44va14nt24/",
       "original_path": "data/media/original/diagram_vs44va14nt24.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_vs44va14nt24.png",
       "sha256": "e594e9ab77aef2d6bdda1514a8b6c2f72663a488fac6406608e2ef4cc5f349f6",
       "size": 81186,
       "title_en": "Piscis Austrinus Constellation Map",
@@ -538,7 +542,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "25d28b5037cf6e44272c0a1c0a646362ff90cc6e4296bc850135b9d017551138"
     }
   ],
   "review": {

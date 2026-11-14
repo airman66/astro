@@ -548,7 +548,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/leo-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uc91Hc319213/",
       "original_path": "data/media/original/diagram_uc91Hc319213.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uc91Hc319213.png",
       "sha256": "2e499831e35a7cd89f3fcd5abc37b3e5e92799ba72d91d802afea7f894970a55",
       "size": 114246,
       "title_en": "Leo Constellation Map",
@@ -582,7 +582,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "608110882bbd467402ea95265ab6ff8589969caefe81b36e19c73ab6ea644b7c"
     }
   ],
   "review": {

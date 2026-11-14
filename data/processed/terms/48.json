@@ -354,7 +354,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Ju53nC20Lt23/",
       "original_path": "data/media/original/diagram_Ju53nC20Lt23.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Ju53nC20Lt23.png",
       "sha256": "37e4a87ce51317e74bcc1a674d69d15fdeee4cbf57b01efa221332178e8de624",
       "size": 150618,
       "title_en": "Sagittarius Constellation Map",
@@ -392,7 +392,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f56cb9c08a19687a3d45da480824279002bad9878073f9572ff89be62e5537b2"
     },
     {
       "id": "diagram:J557Ln95hA62",
@@ -401,7 +402,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/capricornus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/J557Ln95hA62/",
       "original_path": "data/media/original/diagram_J557Ln95hA62.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_J557Ln95hA62.png",
       "sha256": "683ac4e8242ccacf6a715dc31a13047b986ed563c914c5670183a94ec93db67e",
       "size": 97977,
       "title_en": "Capricornus Constellation Map",
@@ -434,7 +435,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "6cbef34e3288dd221a93b7eba4b7c70e73b8ea53b38bbbc806c9a95e11483831"
     },
     {
       "id": "diagram:qo31xv8AO72",
@@ -567,7 +569,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/piscis-austrinus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/vs44va14nt24/",
       "original_path": "data/media/original/diagram_vs44va14nt24.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_vs44va14nt24.png",
       "sha256": "e594e9ab77aef2d6bdda1514a8b6c2f72663a488fac6406608e2ef4cc5f349f6",
       "size": 81186,
       "title_en": "Piscis Austrinus Constellation Map",
@@ -596,7 +598,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "25d28b5037cf6e44272c0a1c0a646362ff90cc6e4296bc850135b9d017551138"
     }
   ],
   "review": {

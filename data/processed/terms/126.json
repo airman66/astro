@@ -436,7 +436,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/taurus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/b237po71Gd6/",
       "original_path": "data/media/original/diagram_b237po71Gd6.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_b237po71Gd6.png",
       "sha256": "e3d15cc8509f3201bca93033482b1e4ffda0d1b02f8deb7969669d7a2a8e24e7",
       "size": 110135,
       "title_en": "Taurus Constellation Map",
@@ -471,7 +471,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "32ce732bff01d87c15b680792219f33cd04567479fac57d9633e5bdea3b96225"
     },
     {
       "id": "diagram:ce22no47lz93",
@@ -480,7 +481,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cancer-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ce22no47lz93/",
       "original_path": "data/media/original/diagram_ce22no47lz93.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ce22no47lz93.png",
       "sha256": "a6a4747b584cc9753c1af2df3ceaae480c4c7dbea7732743c32c80f3b893abef",
       "size": 103002,
       "title_en": "Cancer Constellation Map",
@@ -512,7 +513,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "01c004d1d5acc79f1004aef0cb2777589b772d7488e590830cf56c21070df3a4"
     },
     {
       "id": "diagram:eV99f410tY61",
@@ -521,7 +523,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/gemini-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/eV99f410tY61/",
       "original_path": "data/media/original/diagram_eV99f410tY61.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_eV99f410tY61.png",
       "sha256": "99d3f3cbe1e0064fcd888fa25cb4efb5e78d51d38ea776624ed0b1debef04fcc",
       "size": 111960,
       "title_en": "Gemini Constellation Map",
@@ -551,7 +553,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "a9803bfd2651ee1589cc858572560f2b1b2ec5d94682499738c34a4d98a14cc8"
     },
     {
       "id": "diagram:pl23j39MY52",
@@ -560,7 +563,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/auriga-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/pl23j39MY52/",
       "original_path": "data/media/original/diagram_pl23j39MY52.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_pl23j39MY52.png",
       "sha256": "3f9daa4e8134d1881ea79353fb6b6d589cf2ca1bd049fe4df3087c773761a7a8",
       "size": 115114,
       "title_en": "Auriga Constellation Map",
@@ -592,7 +595,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "98dacc84ca4856012682a521cd2a7291726e1cd34616b78be2b3d3085ce6801e"
     },
     {
       "id": "diagram:1r6Xl65Db25",

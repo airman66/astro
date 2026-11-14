@@ -403,7 +403,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cassiopeia-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/VE43cn914B57/",
       "original_path": "data/media/original/diagram_VE43cn914B57.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_VE43cn914B57.png",
       "sha256": "8eb8ee9b9b23accbda7c3928a806b651d1f713061c813c79db9d091545d37bb1",
       "size": 125517,
       "title_en": "Cassiopeia Constellation Map",
@@ -434,7 +434,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "99743e52ceca5fc00f069aec3e2983380056a94a45920cba7f130c004bf21e91"
     },
     {
       "id": "diagram:PH823i56VA27",
@@ -443,7 +444,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/triangulum-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/PH823i56VA27/",
       "original_path": "data/media/original/diagram_PH823i56VA27.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_PH823i56VA27.png",
       "sha256": "73703727f3a46dffd44bf47f1c38b0f0c497474c2aaac1e608804fc900cdd531",
       "size": 81191,
       "title_en": "Triangulum Constellation Map",
@@ -475,7 +476,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "ad3cb181733fd14b03018576ded6f7098a11e5a4c714a1b84c74b125fad735ee"
     }
   ],
   "review": {

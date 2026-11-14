@@ -449,7 +449,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Phase_Northern_Hemisphere_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/DW565j5mE91/",
       "original_path": "data/media/original/diagram_DW565j5mE91.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_DW565j5mE91.png",
       "sha256": "ee2795303bca18b3d107356eba0000fef2f8b06bf8aa39ebef52e60dd462e2f0",
       "size": 1264087,
       "title_en": "Lunar Phase Northern Hemisphere",
@@ -480,7 +480,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "b5f90633aab2aa279978c3fd26d3787eddc5205f0e4a38cf9da1920fe901d5f0"
     },
     {
       "id": "diagram:6y63px402A3",
@@ -530,7 +531,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Phase_Equator_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Nt1OV98jk24/",
       "original_path": "data/media/original/diagram_Nt1OV98jk24.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Nt1OV98jk24.png",
       "sha256": "09a2e7a053e811cb47905189e9b2b4323eb987a64f7dc62b33b52cee8c5ca51b",
       "size": 1269030,
       "title_en": "Lunar Phase Equator",
@@ -561,7 +562,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "213d1015e80622d0191da7bf90b1c1c324f222e1957ab406073ae2f9841200c8"
     }
   ],
   "review": {

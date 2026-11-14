@@ -295,7 +295,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/scorpius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uM753a62k218/",
       "original_path": "data/media/original/diagram_uM753a62k218.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uM753a62k218.png",
       "sha256": "295390cb65436e178d6ae225ce984d4dc73852b10e0a0e1768def3166f1dd7b8",
       "size": 152588,
       "title_en": "Scorpius Constellation Map",
@@ -329,7 +329,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "604b039c01a28f013bd6d3b18e3a75226928e4046e35d4ed0b1c3c7a95c80c92"
     },
     {
       "id": "diagram:FP68yg670w90",
@@ -338,7 +339,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cetus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/FP68yg670w90/",
       "original_path": "data/media/original/diagram_FP68yg670w90.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_FP68yg670w90.png",
       "sha256": "e4a6b57d86f7248d11c496162412d4359d6b2bc9619a4c8843febaa9a301aeaa",
       "size": 106765,
       "title_en": "Cetus Constellation Map",
@@ -367,7 +368,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "c11083e8a7f807f56ace56dfdce204edcf55345c8fbc181b072495d3e105e6b5"
     },
     {
       "id": "diagram:ml6jp6Ph60",
@@ -376,7 +378,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/carina-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ml6jp6Ph60/",
       "original_path": "data/media/original/diagram_ml6jp6Ph60.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ml6jp6Ph60.png",
       "sha256": "92e1367d354e13b027c07d73ba719a9b2e0af1c747cc5b4b61006fd321c78aa4",
       "size": 144722,
       "title_en": "Carina Constellation Map",
@@ -406,7 +408,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "3dac50b6e70f55e78ecd943fff1dfdbc5a8a83154f227d75d968c2baea4e4e08"
     },
     {
       "id": "diagram:SN20Ne16hj18",

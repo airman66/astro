@@ -358,7 +358,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa_minor-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/wT49Db11i836/",
       "original_path": "data/media/original/diagram_wT49Db11i836.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_wT49Db11i836.png",
       "sha256": "f08563386e38619088b898f35ced57d88b11a6ac5c4ba0d9fe5f806531833d69",
       "size": 117257,
       "title_en": "Ursa Minor Constellation Map",
@@ -387,7 +387,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "3420eb5123bc5ac9012673e7562689132761b37df8b0ea34f5b43676c9e4dbf3"
     },
     {
       "id": "diagram:1v1540710v51",

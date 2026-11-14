@@ -352,7 +352,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/pictor-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/zF97Dc8Sp10/",
       "original_path": "data/media/original/diagram_zF97Dc8Sp10.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_zF97Dc8Sp10.png",
       "sha256": "dbfdccc6250882d1527da2950f4b5b826049444846775de828ef298ca06ffca4",
       "size": 95442,
       "title_en": "Pictor Constellation Map",
@@ -380,7 +380,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "1f6b8259374c44fdacfbe2115d018fed4271e64d3d468832bbf3f85a62b89795"
     }
   ],
   "review": {

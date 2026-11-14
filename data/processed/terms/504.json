@@ -526,7 +526,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/centaurus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/v423m720Fe95/",
       "original_path": "data/media/original/diagram_v423m720Fe95.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_v423m720Fe95.png",
       "sha256": "f96f20b8948ba16575832dbd0c804c9e1bbd8116d812c837a27a4ade62147aca",
       "size": 152877,
       "title_en": "Centaurus Constellation Map",
@@ -555,7 +555,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "45ef570254e3d40ec26ed47f1c793103680bc0369f492f9b101ebae9e09e4e27"
     }
   ],
   "review": {

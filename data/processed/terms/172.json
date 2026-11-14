@@ -229,7 +229,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cancer-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ce22no47lz93/",
       "original_path": "data/media/original/diagram_ce22no47lz93.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ce22no47lz93.png",
       "sha256": "a6a4747b584cc9753c1af2df3ceaae480c4c7dbea7732743c32c80f3b893abef",
       "size": 103002,
       "title_en": "Cancer Constellation Map",
@@ -261,7 +261,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "01c004d1d5acc79f1004aef0cb2777589b772d7488e590830cf56c21070df3a4"
     },
     {
       "id": "diagram:uc91Hc319213",
@@ -270,7 +271,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/leo-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uc91Hc319213/",
       "original_path": "data/media/original/diagram_uc91Hc319213.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uc91Hc319213.png",
       "sha256": "2e499831e35a7cd89f3fcd5abc37b3e5e92799ba72d91d802afea7f894970a55",
       "size": 114246,
       "title_en": "Leo Constellation Map",
@@ -304,7 +305,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "608110882bbd467402ea95265ab6ff8589969caefe81b36e19c73ab6ea644b7c"
     },
     {
       "id": "diagram:aT839V20hT52",
@@ -313,7 +315,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/virgo-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/aT839V20hT52/",
       "original_path": "data/media/original/diagram_aT839V20hT52.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_aT839V20hT52.png",
       "sha256": "5e29941369fdf575330698e62d59b8249009def48d85e2ac3599edb13d2960a9",
       "size": 94701,
       "title_en": "Virgo Constellation Map",
@@ -349,7 +351,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "17f165de7f1c9f21d9d5a2f8fc6e30e98fa84ebf53aade579bd34375f403185d"
     },
     {
       "id": "diagram:hq75BY71AZ88",
@@ -358,7 +361,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa-major-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/hq75BY71AZ88/",
       "original_path": "data/media/original/diagram_hq75BY71AZ88.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_hq75BY71AZ88.png",
       "sha256": "85bb7f463d6805b770be3f2b6a2efe6e07cdc78411372b65213f5af9298a73af",
       "size": 143672,
       "title_en": "Ursa Major Constellation Map",
@@ -390,7 +393,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "4fbd70e058c58b14cc8b1d6b77dbee2569782d460fe8c71dca9d55237f6a93fb"
     },
     {
       "id": "diagram:gf94TA162L55",
@@ -441,7 +445,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/leo-minor-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/iR46NN4KF54/",
       "original_path": "data/media/original/diagram_iR46NN4KF54.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_iR46NN4KF54.png",
       "sha256": "9de072e8bc4e14e5ee0fd62c2e780bd0c1c6e33a9578e1627c4bab3712dc61d4",
       "size": 88372,
       "title_en": "Leo Minor Constellation Map",
@@ -470,7 +474,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "6348567f5251b19c94aa0eab5c67ad58341848551b0de3ef7fde977db561b961"
     },
     {
       "id": "diagram:1r6Xl65Db25",

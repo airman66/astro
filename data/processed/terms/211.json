@@ -413,7 +413,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Ju53nC20Lt23/",
       "original_path": "data/media/original/diagram_Ju53nC20Lt23.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Ju53nC20Lt23.png",
       "sha256": "37e4a87ce51317e74bcc1a674d69d15fdeee4cbf57b01efa221332178e8de624",
       "size": 150618,
       "title_en": "Sagittarius Constellation Map",
@@ -451,7 +451,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f56cb9c08a19687a3d45da480824279002bad9878073f9572ff89be62e5537b2"
     },
     {
       "id": "diagram:pl23j39MY52",
@@ -460,7 +461,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/auriga-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/pl23j39MY52/",
       "original_path": "data/media/original/diagram_pl23j39MY52.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_pl23j39MY52.png",
       "sha256": "3f9daa4e8134d1881ea79353fb6b6d589cf2ca1bd049fe4df3087c773761a7a8",
       "size": 115114,
       "title_en": "Auriga Constellation Map",
@@ -492,7 +493,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "98dacc84ca4856012682a521cd2a7291726e1cd34616b78be2b3d3085ce6801e"
     },
     {
       "id": "diagram:UZ83yf70PF70",
@@ -542,7 +544,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/carina-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ml6jp6Ph60/",
       "original_path": "data/media/original/diagram_ml6jp6Ph60.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ml6jp6Ph60.png",
       "sha256": "92e1367d354e13b027c07d73ba719a9b2e0af1c747cc5b4b61006fd321c78aa4",
       "size": 144722,
       "title_en": "Carina Constellation Map",
@@ -572,7 +574,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "3dac50b6e70f55e78ecd943fff1dfdbc5a8a83154f227d75d968c2baea4e4e08"
     },
     {
       "id": "diagram:HL453G70ED9",
@@ -623,7 +626,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/dorado-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/bt23wB95eq70/",
       "original_path": "data/media/original/diagram_bt23wB95eq70.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_bt23wB95eq70.png",
       "sha256": "7d4020ed0bc81259e60c75fa3c7350e1472a4579a048bb092b537ab8f7630589",
       "size": 94489,
       "title_en": "Dorado Constellation Map",
@@ -653,7 +656,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "deef9ba27789e583729645a479785997d34bff9afc34db71ec6e84007379c77f"
     },
     {
       "id": "diagram:7P47Z230jz66",

@@ -146,7 +146,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Annual_Parallax.png",
       "record_url": "https://astro4edu.org/resources/diagram/gF99b779Ly23/",
       "original_path": "data/media/original/diagram_gF99b779Ly23.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_gF99b779Ly23.png",
       "sha256": "331c80f0f77c0d7b694afaff80213d6f64312029d3130faa8dcedf4e197ed86b",
       "size": 1426742,
       "title_en": "Annual Parallax",
@@ -171,7 +171,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "0bf186dc184ad47790fa7a9f9909862d965e2f8c35667eb0b7335ab54ca28d67"
     }
   ],
   "review": {

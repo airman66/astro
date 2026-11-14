@@ -292,7 +292,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/latitude_longitude_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Qf59LF190B19/",
       "original_path": "data/media/original/diagram_Qf59LF190B19.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Qf59LF190B19.png",
       "sha256": "2a98adcfea05d7f840611dd32ccb7c9dd60bba28bf57d9fc45e44bd347669beb",
       "size": 434218,
       "title_en": "Latitude and Longitude",
@@ -327,7 +327,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "26269c35988edee16b5b8d9aae12cfa14bc91c8063df5364e5eb940dd2874ece"
     },
     {
       "id": "diagram:bA48h020s763",
@@ -336,7 +337,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/equinox_solstices.png",
       "record_url": "https://astro4edu.org/resources/diagram/bA48h020s763/",
       "original_path": "data/media/original/diagram_bA48h020s763.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_bA48h020s763.png",
       "sha256": "53cb5a814a5caa4e58ebe451ec25764c736799e61a0563c3e5b7db4dd0d92287",
       "size": 2018797,
       "title_en": "Solstices and Equinoxes",
@@ -370,7 +371,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "1e971561c0962557e2fa5ac0a56840be3e24d002ab266882bd6b606075f2ba39"
     }
   ],
   "review": {

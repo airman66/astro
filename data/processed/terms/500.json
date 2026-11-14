@@ -310,7 +310,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/tucana-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Is45R6524x76/",
       "original_path": "data/media/original/diagram_Is45R6524x76.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Is45R6524x76.png",
       "sha256": "2b2fd135097d48673c678e03607dafe7a80ab7ea875c65ed86f8ce1c242f66fb",
       "size": 113873,
       "title_en": "Tucana Constellation Map",
@@ -338,7 +338,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "4cc50854c60f4b98e243f6e8a8a8466360b0beaaec4422836bdd768b79435904"
     }
   ],
   "review": {

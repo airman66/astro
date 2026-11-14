@@ -213,7 +213,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/latitude_longitude_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Qf59LF190B19/",
       "original_path": "data/media/original/diagram_Qf59LF190B19.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Qf59LF190B19.png",
       "sha256": "2a98adcfea05d7f840611dd32ccb7c9dd60bba28bf57d9fc45e44bd347669beb",
       "size": 434218,
       "title_en": "Latitude and Longitude",
@@ -248,7 +248,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "26269c35988edee16b5b8d9aae12cfa14bc91c8063df5364e5eb940dd2874ece"
     }
   ],
   "review": {

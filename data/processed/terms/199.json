@@ -1328,7 +1328,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Ju53nC20Lt23/",
       "original_path": "data/media/original/diagram_Ju53nC20Lt23.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Ju53nC20Lt23.png",
       "sha256": "37e4a87ce51317e74bcc1a674d69d15fdeee4cbf57b01efa221332178e8de624",
       "size": 150618,
       "title_en": "Sagittarius Constellation Map",
@@ -1366,7 +1366,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f56cb9c08a19687a3d45da480824279002bad9878073f9572ff89be62e5537b2"
     },
     {
       "id": "diagram:HL453G70ED9",
@@ -1417,7 +1418,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/triangulum-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/PH823i56VA27/",
       "original_path": "data/media/original/diagram_PH823i56VA27.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_PH823i56VA27.png",
       "sha256": "73703727f3a46dffd44bf47f1c38b0f0c497474c2aaac1e608804fc900cdd531",
       "size": 81191,
       "title_en": "Triangulum Constellation Map",
@@ -1449,7 +1450,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "ad3cb181733fd14b03018576ded6f7098a11e5a4c714a1b84c74b125fad735ee"
     }
   ],
   "review": {

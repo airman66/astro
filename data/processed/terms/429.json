@@ -642,7 +642,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Ju53nC20Lt23/",
       "original_path": "data/media/original/diagram_Ju53nC20Lt23.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Ju53nC20Lt23.png",
       "sha256": "37e4a87ce51317e74bcc1a674d69d15fdeee4cbf57b01efa221332178e8de624",
       "size": 150618,
       "title_en": "Sagittarius Constellation Map",
@@ -680,7 +680,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f56cb9c08a19687a3d45da480824279002bad9878073f9572ff89be62e5537b2"
     },
     {
       "id": "diagram:hq75BY71AZ88",
@@ -689,7 +690,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa-major-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/hq75BY71AZ88/",
       "original_path": "data/media/original/diagram_hq75BY71AZ88.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_hq75BY71AZ88.png",
       "sha256": "85bb7f463d6805b770be3f2b6a2efe6e07cdc78411372b65213f5af9298a73af",
       "size": 143672,
       "title_en": "Ursa Major Constellation Map",
@@ -721,7 +722,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "4fbd70e058c58b14cc8b1d6b77dbee2569782d460fe8c71dca9d55237f6a93fb"
     },
     {
       "id": "diagram:A286J384Ch0",
@@ -813,7 +815,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/pegasus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uN36zW81Pr75/",
       "original_path": "data/media/original/diagram_uN36zW81Pr75.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uN36zW81Pr75.png",
       "sha256": "a40a93df430f2c15b52b2f1399a82bb8c575078a7d262655c7aa4211a794df9d",
       "size": 122044,
       "title_en": "Pegasus Constellation Map",
@@ -846,7 +848,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "34eb0ae712ab74fe7d8a3e869d06f8396d2f4823fd84c26c8937465aea1cb6fb"
     },
     {
       "id": "diagram:MZ50Rw73oK80",
@@ -855,7 +858,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/lyra-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/MZ50Rw73oK80/",
       "original_path": "data/media/original/diagram_MZ50Rw73oK80.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_MZ50Rw73oK80.png",
       "sha256": "b95a0ef5b99ec04020ef7313040c227b44add2bcb1915c8ccd72afa3f6ce942d",
       "size": 81994,
       "title_en": "Lyra Constellation Map",
@@ -884,7 +887,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "0324015ed0f534b70dae0c69ff6da60179db67ee7caeea38bcd679652fe60fe3"
     }
   ],
   "review": {

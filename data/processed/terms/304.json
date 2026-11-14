@@ -303,7 +303,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/canis_major-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/wM92AD94GS73/",
       "original_path": "data/media/original/diagram_wM92AD94GS73.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_wM92AD94GS73.png",
       "sha256": "0977bc4f568afb6c328a18f2b28a247212d2fec11db7cc74673ff5fc6df11a67",
       "size": 116565,
       "title_en": "Canis Major Constellation Map",
@@ -332,7 +332,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "e97c1b4e792a69b55632b1776c2b3d0ad816cf779904b45b7601a2607d87f6e8"
     }
   ],
   "review": {

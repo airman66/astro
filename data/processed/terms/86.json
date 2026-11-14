@@ -286,7 +286,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cassiopeia-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/VE43cn914B57/",
       "original_path": "data/media/original/diagram_VE43cn914B57.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_VE43cn914B57.png",
       "sha256": "8eb8ee9b9b23accbda7c3928a806b651d1f713061c813c79db9d091545d37bb1",
       "size": 125517,
       "title_en": "Cassiopeia Constellation Map",
@@ -317,7 +317,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "99743e52ceca5fc00f069aec3e2983380056a94a45920cba7f130c004bf21e91"
     }
   ],
   "review": {

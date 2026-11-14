@@ -310,7 +310,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/dorado-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/bt23wB95eq70/",
       "original_path": "data/media/original/diagram_bt23wB95eq70.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_bt23wB95eq70.png",
       "sha256": "7d4020ed0bc81259e60c75fa3c7350e1472a4579a048bb092b537ab8f7630589",
       "size": 94489,
       "title_en": "Dorado Constellation Map",
@@ -340,7 +340,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "deef9ba27789e583729645a479785997d34bff9afc34db71ec6e84007379c77f"
     }
   ],
   "review": {

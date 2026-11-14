@@ -361,7 +361,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/taurus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/b237po71Gd6/",
       "original_path": "data/media/original/diagram_b237po71Gd6.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_b237po71Gd6.png",
       "sha256": "e3d15cc8509f3201bca93033482b1e4ffda0d1b02f8deb7969669d7a2a8e24e7",
       "size": 110135,
       "title_en": "Taurus Constellation Map",
@@ -396,7 +396,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "32ce732bff01d87c15b680792219f33cd04567479fac57d9633e5bdea3b96225"
     },
     {
       "id": "diagram:PH823i56VA27",
@@ -405,7 +406,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/triangulum-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/PH823i56VA27/",
       "original_path": "data/media/original/diagram_PH823i56VA27.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_PH823i56VA27.png",
       "sha256": "73703727f3a46dffd44bf47f1c38b0f0c497474c2aaac1e608804fc900cdd531",
       "size": 81191,
       "title_en": "Triangulum Constellation Map",
@@ -437,7 +438,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "ad3cb181733fd14b03018576ded6f7098a11e5a4c714a1b84c74b125fad735ee"
     }
   ],
   "review": {

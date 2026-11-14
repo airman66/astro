@@ -344,7 +344,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/Opposition_Conjunction_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Lw38WF49Ih98/",
       "original_path": "data/media/original/diagram_Lw38WF49Ih98.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Lw38WF49Ih98.png",
       "sha256": "7b1ab4250d4b2dcb4818ec2bc205ad7f4dfc91ca9722be4155a3169915c8b8df",
       "size": 251818,
       "title_en": "Opposition and Conjunction",
@@ -367,7 +367,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "a370279449bec9401cabc3462af5dbdd4d15657be35105ae4a8e9732c7970c63"
     }
   ],
   "review": {

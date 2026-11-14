@@ -236,7 +236,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sculptor-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ZO82p521KX42/",
       "original_path": "data/media/original/diagram_ZO82p521KX42.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ZO82p521KX42.png",
       "sha256": "8ee26b6a593b1542c207155125ba411079558cb850aea501e40f0cdd72512424",
       "size": 90517,
       "title_en": "Sculptor Constellation Map",
@@ -264,7 +264,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "bb5ed479c5603bcdf1ecd6df695ee97d198f4ac1612c74bd6d6cbba64535bca7"
     }
   ],
   "review": {

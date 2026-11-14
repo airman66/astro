@@ -243,7 +243,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/equinox_solstices.png",
       "record_url": "https://astro4edu.org/resources/diagram/bA48h020s763/",
       "original_path": "data/media/original/diagram_bA48h020s763.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_bA48h020s763.png",
       "sha256": "53cb5a814a5caa4e58ebe451ec25764c736799e61a0563c3e5b7db4dd0d92287",
       "size": 2018797,
       "title_en": "Solstices and Equinoxes",
@@ -277,7 +277,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "1e971561c0962557e2fa5ac0a56840be3e24d002ab266882bd6b606075f2ba39"
     }
   ],
   "review": {

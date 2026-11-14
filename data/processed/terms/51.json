@@ -217,7 +217,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ophiuchus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ef73go0hL43/",
       "original_path": "data/media/original/diagram_ef73go0hL43.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ef73go0hL43.png",
       "sha256": "1f2a23600fa63efaa493349901f972108d6269fba8f9a9c9e92b5cc72affd64f",
       "size": 139909,
       "title_en": "Ophiuchus Constellation Map",
@@ -250,7 +250,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "dbf17c0b9c3d7f3e355998e7c7f9b7f22a66c5674fc8d752a6f34fea4e2101c8"
     },
     {
       "id": "diagram:wM92AD94GS73",
@@ -259,7 +260,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/canis_major-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/wM92AD94GS73/",
       "original_path": "data/media/original/diagram_wM92AD94GS73.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_wM92AD94GS73.png",
       "sha256": "0977bc4f568afb6c328a18f2b28a247212d2fec11db7cc74673ff5fc6df11a67",
       "size": 116565,
       "title_en": "Canis Major Constellation Map",
@@ -288,7 +289,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "e97c1b4e792a69b55632b1776c2b3d0ad816cf779904b45b7601a2607d87f6e8"
     },
     {
       "id": "diagram:A286J384Ch0",
@@ -338,7 +340,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/canis-minor-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/sx35P36xA60/",
       "original_path": "data/media/original/diagram_sx35P36xA60.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_sx35P36xA60.png",
       "sha256": "47caaea86e874f9d499fee66fbd0881e35e57d2bd0ee300e950ca75a54ce33fc",
       "size": 76244,
       "title_en": "Canis Minor Constellation Map",
@@ -366,7 +368,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "7b37eb043683a76dd129f0fcf1a405bd5a36025443160aae494a692927bc8250"
     },
     {
       "id": "diagram:Sk61ZE32Db17",
@@ -375,7 +378,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/delphinus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Sk61ZE32Db17/",
       "original_path": "data/media/original/diagram_Sk61ZE32Db17.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Sk61ZE32Db17.png",
       "sha256": "692a65f9f58c30e06f5f53f9a8b5541eb937e26d2bc80341b3ab1b9b445ad439",
       "size": 70980,
       "title_en": "Delphinus Constellation Map",
@@ -404,7 +407,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "83682b23a394f0f8e491ce12d53b4afd8a31f6d89bd881c9564295ca23007d92"
     },
     {
       "id": "diagram:8n24fA64M880",
@@ -493,7 +497,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/serpens-caput-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Vz14Lb22Cd91/",
       "original_path": "data/media/original/diagram_Vz14Lb22Cd91.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Vz14Lb22Cd91.png",
       "sha256": "de7cf998234afc6e64ddc17ee877f67eab4ce4644f859e0f439d136036a37264",
       "size": 97598,
       "title_en": "Serpens Caput Constellation Map",
@@ -523,7 +527,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f7aa49f41d2614f3e541d373561c2cfef884101bd2ad44b95f2cfeb57128efda"
     },
     {
       "id": "diagram:bA48h020s763",
@@ -532,7 +537,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/equinox_solstices.png",
       "record_url": "https://astro4edu.org/resources/diagram/bA48h020s763/",
       "original_path": "data/media/original/diagram_bA48h020s763.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_bA48h020s763.png",
       "sha256": "53cb5a814a5caa4e58ebe451ec25764c736799e61a0563c3e5b7db4dd0d92287",
       "size": 2018797,
       "title_en": "Solstices and Equinoxes",
@@ -566,7 +571,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "1e971561c0962557e2fa5ac0a56840be3e24d002ab266882bd6b606075f2ba39"
     }
   ],
   "review": {

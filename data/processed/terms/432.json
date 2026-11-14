@@ -287,7 +287,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/cancer-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ce22no47lz93/",
       "original_path": "data/media/original/diagram_ce22no47lz93.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ce22no47lz93.png",
       "sha256": "a6a4747b584cc9753c1af2df3ceaae480c4c7dbea7732743c32c80f3b893abef",
       "size": 103002,
       "title_en": "Cancer Constellation Map",
@@ -319,7 +319,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "01c004d1d5acc79f1004aef0cb2777589b772d7488e590830cf56c21070df3a4"
     },
     {
       "id": "diagram:uc91Hc319213",
@@ -328,7 +329,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/leo-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uc91Hc319213/",
       "original_path": "data/media/original/diagram_uc91Hc319213.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uc91Hc319213.png",
       "sha256": "2e499831e35a7cd89f3fcd5abc37b3e5e92799ba72d91d802afea7f894970a55",
       "size": 114246,
       "title_en": "Leo Constellation Map",
@@ -362,7 +363,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "608110882bbd467402ea95265ab6ff8589969caefe81b36e19c73ab6ea644b7c"
     },
     {
       "id": "diagram:Mb93uM9dX96",
@@ -371,7 +373,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hydra-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Mb93uM9dX96/",
       "original_path": "data/media/original/diagram_Mb93uM9dX96.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Mb93uM9dX96.png",
       "sha256": "87068abbfdf605dac9fab729487d8418575a2c9211b825fd9ec858b98049021c",
       "size": 114598,
       "title_en": "Hydra Constellation Map",
@@ -405,7 +407,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "6d6d1807ceecf33119fe279baf1296cf2e09bd971f93a4ba3444d1316f77dfc1"
     },
     {
       "id": "diagram:1r6Xl65Db25",

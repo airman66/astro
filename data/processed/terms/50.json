@@ -277,7 +277,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/crux-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Hj32Ua273O7/",
       "original_path": "data/media/original/diagram_Hj32Ua273O7.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Hj32Ua273O7.png",
       "sha256": "678442a23d8da1ade56825ecb718191b3b83d9c0b04df5767b40d7dc440fd134",
       "size": 110073,
       "title_en": "Crux Constellation Map",
@@ -306,7 +306,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "8d7fa893e82f3bd1bbb48f88d5356f5d8e4d91218f5f14ae44fd47a35e7e0099"
     },
     {
       "id": "diagram:dg783o76n014",
@@ -397,7 +398,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/scorpius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/uM753a62k218/",
       "original_path": "data/media/original/diagram_uM753a62k218.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_uM753a62k218.png",
       "sha256": "295390cb65436e178d6ae225ce984d4dc73852b10e0a0e1768def3166f1dd7b8",
       "size": 152588,
       "title_en": "Scorpius Constellation Map",
@@ -431,7 +432,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "604b039c01a28f013bd6d3b18e3a75226928e4046e35d4ed0b1c3c7a95c80c92"
     },
     {
       "id": "diagram:Ju53nC20Lt23",
@@ -440,7 +442,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/sagittarius-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Ju53nC20Lt23/",
       "original_path": "data/media/original/diagram_Ju53nC20Lt23.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Ju53nC20Lt23.png",
       "sha256": "37e4a87ce51317e74bcc1a674d69d15fdeee4cbf57b01efa221332178e8de624",
       "size": 150618,
       "title_en": "Sagittarius Constellation Map",
@@ -478,7 +480,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "f56cb9c08a19687a3d45da480824279002bad9878073f9572ff89be62e5537b2"
     }
   ],
   "review": {

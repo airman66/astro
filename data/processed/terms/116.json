@@ -179,7 +179,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ophiuchus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/ef73go0hL43/",
       "original_path": "data/media/original/diagram_ef73go0hL43.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_ef73go0hL43.png",
       "sha256": "1f2a23600fa63efaa493349901f972108d6269fba8f9a9c9e92b5cc72affd64f",
       "size": 139909,
       "title_en": "Ophiuchus Constellation Map",
@@ -212,7 +212,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "dbf17c0b9c3d7f3e355998e7c7f9b7f22a66c5674fc8d752a6f34fea4e2101c8"
     }
   ],
   "review": {

@@ -333,7 +333,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/ursa-major-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/hq75BY71AZ88/",
       "original_path": "data/media/original/diagram_hq75BY71AZ88.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_hq75BY71AZ88.png",
       "sha256": "85bb7f463d6805b770be3f2b6a2efe6e07cdc78411372b65213f5af9298a73af",
       "size": 143672,
       "title_en": "Ursa Major Constellation Map",
@@ -365,7 +365,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "4fbd70e058c58b14cc8b1d6b77dbee2569782d460fe8c71dca9d55237f6a93fb"
     },
     {
       "id": "diagram:HL453G70ED9",
@@ -455,7 +456,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/hydra-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Mb93uM9dX96/",
       "original_path": "data/media/original/diagram_Mb93uM9dX96.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Mb93uM9dX96.png",
       "sha256": "87068abbfdf605dac9fab729487d8418575a2c9211b825fd9ec858b98049021c",
       "size": 114598,
       "title_en": "Hydra Constellation Map",
@@ -489,7 +490,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "6d6d1807ceecf33119fe279baf1296cf2e09bd971f93a4ba3444d1316f77dfc1"
     },
     {
       "id": "diagram:MZ50Rw73oK80",
@@ -498,7 +500,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/lyra-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/MZ50Rw73oK80/",
       "original_path": "data/media/original/diagram_MZ50Rw73oK80.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_MZ50Rw73oK80.png",
       "sha256": "b95a0ef5b99ec04020ef7313040c227b44add2bcb1915c8ccd72afa3f6ce942d",
       "size": 81994,
       "title_en": "Lyra Constellation Map",
@@ -527,7 +529,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "0324015ed0f534b70dae0c69ff6da60179db67ee7caeea38bcd679652fe60fe3"
     },
     {
       "id": "diagram:SN20Ne16hj18",
@@ -576,7 +579,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/vulpecula-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Yy23vm81eD90/",
       "original_path": "data/media/original/diagram_Yy23vm81eD90.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Yy23vm81eD90.png",
       "sha256": "6af5d6557f32a1013c96247c8ef1e2769fe5614683049098c175666b95b0bcae",
       "size": 100833,
       "title_en": "Vulpecula Constellation Map",
@@ -604,7 +607,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "a88cff097694f98535d2a42a7228f4bf6942dbcf6d0b2b925bbf7d6f9141d71f"
     }
   ],
   "review": {

@@ -251,7 +251,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/crux-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Hj32Ua273O7/",
       "original_path": "data/media/original/diagram_Hj32Ua273O7.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Hj32Ua273O7.png",
       "sha256": "678442a23d8da1ade56825ecb718191b3b83d9c0b04df5767b40d7dc440fd134",
       "size": 110073,
       "title_en": "Crux Constellation Map",
@@ -280,7 +280,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "8d7fa893e82f3bd1bbb48f88d5356f5d8e4d91218f5f14ae44fd47a35e7e0099"
     },
     {
       "id": "diagram:jp181P35rG35",
@@ -289,7 +290,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/octans-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/jp181P35rG35/",
       "original_path": "data/media/original/diagram_jp181P35rG35.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_jp181P35rG35.png",
       "sha256": "4e7f8061b7fac9112cce786b7e15b5c193d7dcde756b609008859b8413096e2a",
       "size": 109171,
       "title_en": "Octans Constellation Map",
@@ -317,7 +318,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "1ce2a318c0ce609e1793f0d75e6a646808a1d103e03a64021673abb61f036ea8"
     },
     {
       "id": "diagram:Df427a55Gc18",
@@ -326,7 +328,7 @@
       "source_url": "http://www.astro4edu.org/media/diagrams/multimedia/apus-constellation-map_en.png",
       "record_url": "https://astro4edu.org/resources/diagram/Df427a55Gc18/",
       "original_path": "data/media/original/diagram_Df427a55Gc18.png",
-      "ru_path": null,
+      "ru_path": "data/media/ru/diagram_Df427a55Gc18.png",
       "sha256": "2abedcf63c301edb13ce3757b40bafbe899701077706fc04f907f8f64be0c318",
       "size": 128004,
       "title_en": "Apus Constellation Map",
@@ -354,7 +356,8 @@
       "review": {
         "status": "draft",
         "reviewer": null
-      }
+      },
+      "ru_sha256": "8d1b2b9672d3edbd5266862af84de335d2839c819cac21e078db1b7916ef55eb"
     },
     {
       "id": "diagram:G76782323N14",

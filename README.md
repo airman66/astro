@@ -23,7 +23,7 @@ llama-server -m data/models/Qwen3-Embedding-8B-Q4_K_M.gguf --embedding --pooling
 ## Данные и индекс
 
 ```sh
-python3 -m app.importer
+python3 -m app.importer --download-media
 python3 -m app.translate
 python3 -m app.audit
 python3 -m app.storage
