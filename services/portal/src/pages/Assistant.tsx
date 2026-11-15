@@ -10,7 +10,7 @@ const MODES: { mode: AssistantMode; label: string; hint: string }[] = [
   { mode: "auto", label: "Автоматически", hint: "помощник сам выберет: короткое определение, объяснение по нескольким статьям или общий ответ" },
   { mode: "term", label: "Определение", hint: "коротко, по одному термину справочника" },
   { mode: "explain", label: "Объяснение", hint: "развёрнуто, по нескольким найденным материалам" },
-  { mode: "general", label: "Общий ответ", hint: "знания модели без ссылок на справочник" },
+  { mode: "general", label: "Без справочника", hint: "ответ об астрономии без ссылок на справочник" },
 ];
 
 const MODE_LABEL: Record<string, string> = { term: "определение", article: "статья", explain: "объяснение", general: "общий ответ" };
@@ -29,6 +29,7 @@ function SourceLink({ url, recordId }: { url: string; recordId: string }) {
 }
 
 function AnswerView({ answer }: { answer: AnswerResponse }) {
+  if (answer.mode === "out_of_scope") return <p>{answer.answer}</p>;
   const grounded = answer.grounding !== "model";
   return (
     <div class="answer">
@@ -101,6 +102,7 @@ export function AssistantWidget({ location }: { location: Location }) {
   const input = useRef<HTMLTextAreaElement>(null);
   const trigger = useRef<HTMLButtonElement>(null);
   const messages = useRef<HTMLDivElement>(null);
+  const panel = useRef<HTMLElement>(null);
 
   const show = (next: AssistantContext = {}) => {
     setContext(next);
@@ -126,13 +128,32 @@ export function AssistantWidget({ location }: { location: Location }) {
   }, [location.path, location.query.toString()]);
   useEffect(() => {
     if (!open) return;
-    input.current?.focus();
+    if (!window.matchMedia("(max-width: 600px)").matches) input.current?.focus({ preventScroll: true });
     const onKey = (event: KeyboardEvent) => {
       if (event.key === "Escape") close();
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [open, location.path]);
+  useEffect(() => {
+    if (!open) return;
+    const viewport = window.visualViewport;
+    const mobile = window.matchMedia("(max-width: 600px)");
+    const updateViewport = () => {
+      if (!panel.current) return;
+      panel.current.style.height = mobile.matches && viewport ? `${viewport.height}px` : "";
+      panel.current.style.top = mobile.matches && viewport ? `${viewport.offsetTop}px` : "";
+    };
+    updateViewport();
+    viewport?.addEventListener("resize", updateViewport);
+    viewport?.addEventListener("scroll", updateViewport);
+    window.addEventListener("resize", updateViewport);
+    return () => {
+      viewport?.removeEventListener("resize", updateViewport);
+      viewport?.removeEventListener("scroll", updateViewport);
+      window.removeEventListener("resize", updateViewport);
+    };
+  }, [open]);
   useEffect(() => {
     if (open && messages.current) messages.current.scrollTop = messages.current.scrollHeight;
   }, [open, turns]);
@@ -194,7 +215,7 @@ export function AssistantWidget({ location }: { location: Location }) {
         </button>
       )}
       {open && (
-        <section class="assistant-chat" role="dialog" aria-label="ИИ-помощник">
+        <section ref={panel} class="assistant-chat" role="dialog" aria-label="ИИ-помощник">
           <header class="assistant-chat__header">
             <div>
               <h2>ИИ-помощник</h2>
@@ -202,6 +223,11 @@ export function AssistantWidget({ location }: { location: Location }) {
             </div>
             <button class="assistant-chat__close" type="button" aria-label="Закрыть помощника" onClick={close}>×</button>
           </header>
+          <nav class="assistant-chat__channels" aria-label="Боты Алкионы в мессенджерах">
+            <span>Другие способы спросить:</span>
+            <a href="https://t.me/alkionaBot" target="_blank" rel="noopener noreferrer">Telegram ↗</a>
+            <a href="https://max.ru/se15005482_bot" target="_blank" rel="noopener noreferrer">MAX ↗</a>
+          </nav>
           <div ref={messages} class="assistant-chat__messages" aria-live="polite">
             <p class="assistant-chat__welcome">Спросите о планете или термине. Ответы по справочнику содержат ссылки.</p>
             {unavailable && (

@@ -297,8 +297,8 @@ export interface SearchResponse extends ListResponse<SearchItem> {
 export type AssistantMode = "auto" | "term" | "article" | "explain" | "general";
 
 export interface AnswerResponse {
-  mode: "term" | "article" | "explain" | "general";
-  grounding: "knowledge_base" | "model" | "mixed";
+  mode: "term" | "article" | "explain" | "general" | "out_of_scope";
+  grounding: "knowledge_base" | "model" | "mixed" | "policy";
   answer: string;
   primary_url: string | null;
   sources: { record_id: string; section_id: string; url: string; review_status: string }[];

@@ -28,8 +28,23 @@ class BotTests(unittest.TestCase):
         text = render({"answer": "Звезда светит.", "grounding": "knowledge_base",
                        "sources": [{"url": "/api/v1/terms/42"}], "images": []})
         self.assertIn("Звезда светит.", text)
-        self.assertIn("/api/v1/terms/42", text)
+        self.assertIn("/glossary/42", text)
+        self.assertNotIn("/api/v1/terms/", text)
         self.assertNotIn("Ответ модели", text)
+
+    def test_material_links_point_to_portal(self):
+        with patch("bot.core.PUBLIC_URL", "https://wibblywobbly.ru"):
+            for field in ("sources", "primary_url"):
+                for url in ("/api/v1/terms/342", "https://wibblywobbly.ru/api/v1/terms/342"):
+                    with self.subTest(field=field, url=url):
+                        result = {"answer": "Ответ", field: [{"url": url}] if field == "sources" else url}
+                        text = render(result)
+                        self.assertIn("1. https://wibblywobbly.ru/glossary/342", text)
+                        self.assertNotIn("/api/v1/terms/", text)
+
+    def test_external_material_link_is_rejected(self):
+        text = render({"answer": "Ответ", "sources": [{"url": "https://other.example/api/v1/terms/342"}]})
+        self.assertNotIn("📚 Материалы:", text)
 
     def test_long_text_is_split(self):
         parts = chunks("слово " * 1000, 3900)

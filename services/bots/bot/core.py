@@ -1,6 +1,7 @@
 import io
 import logging
 import os
+import re
 import time
 from urllib.parse import urljoin, urlparse
 
@@ -16,9 +17,13 @@ def public_link(path: str) -> str | None:
     if not path:
         return None
     url = urljoin(PUBLIC_URL + "/", path)
-    if urlparse(url).netloc != urlparse(PUBLIC_URL).netloc:
+    parsed = urlparse(url)
+    if parsed.netloc != urlparse(PUBLIC_URL).netloc:
         return None
-    return url
+    term = re.fullmatch(r"/api/v1/terms/(\d+)/?", parsed.path)
+    if term:
+        parsed = parsed._replace(path=f"/glossary/{term[1]}")
+    return parsed.geturl()
 
 
 def answer(question: str, session: requests.Session) -> dict:

@@ -701,6 +701,38 @@ body:has(.assistant-chat) {
   line-height: 1;
 }
 
+.assistant-chat__channels {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 9px 16px;
+  border-bottom: 1px solid var(--rule);
+  font-size: var(--fs-xs);
+}
+
+.assistant-chat__channels span {
+  color: var(--ink-2);
+  margin-right: auto;
+}
+
+.assistant-chat__channels a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 6px 10px;
+  border: 1px solid var(--rule-strong);
+  border-radius: 999px;
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.assistant-chat__channels a:hover {
+  border-color: var(--nasa-blue);
+  color: var(--nasa-blue);
+}
+
 .assistant-chat__messages {
   flex: 1;
   min-height: 0;
@@ -787,7 +819,10 @@ body:has(.assistant-chat) {
 
 @media (max-width: 600px) {
   .assistant-chat {
-    inset: 0;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: 0;
     width: 100%;
     height: 100dvh;
     border: 0;
