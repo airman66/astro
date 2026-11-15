@@ -2,8 +2,9 @@ import { useState } from "preact/hooks";
 import { api, astro4eduTermNumber, mediaFile } from "../api/endpoints";
 import type { MediaDetail, Section, TermRecord } from "../api/types";
 import { ErrorState, Loading, ReviewNote } from "../components/ui";
+import { openAssistant } from "../lib/assistant";
 import { useResource } from "../lib/hooks";
-import { Link, navigate } from "../router";
+import { Link } from "../router";
 
 function MediaItem({ item }: { item: MediaDetail }) {
   const [broken, setBroken] = useState(false);
@@ -133,7 +134,7 @@ function Body({ record }: { record: TermRecord }) {
             <button class="btn" type="button" aria-pressed={original} onClick={() => setOriginal(!original)}>
               {original ? "Показать перевод" : "Показать оригинал на английском"}
             </button>
-            <button class="btn btn--quiet" type="button" onClick={() => navigate(`/assistant?term=${record.source.term_number}`)}>
+            <button class="btn btn--quiet" type="button" onClick={() => openAssistant({ term: record.source.term_number })}>
               Спросить помощника
             </button>
           </div>

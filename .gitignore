@@ -6,6 +6,7 @@
 **/__pycache__/
 **/*.py[cod]
 services/planets-api/Planets.Api/data/
+services/glossary-rag/data/catalog/
 
 # Локальные Docker-настройки, bind mounts и экспортированные образы.
 .docker/

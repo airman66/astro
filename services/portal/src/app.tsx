@@ -4,6 +4,7 @@ import { Loading } from "./components/ui";
 import { clearCompare, useCompare } from "./lib/compare";
 import { Link, match, useLocation } from "./router";
 import { Dashboard } from "./pages/Dashboard";
+import { AssistantWidget } from "./pages/Assistant";
 
 const Planet = lazy(() => import("./pages/Planet").then((m) => ({ default: m.Planet })));
 const Compare = lazy(() => import("./pages/Compare").then((m) => ({ default: m.Compare })));
@@ -11,7 +12,6 @@ const Method = lazy(() => import("./pages/Method").then((m) => ({ default: m.Met
 const Glossary = lazy(() => import("./pages/Glossary").then((m) => ({ default: m.Glossary })));
 const Term = lazy(() => import("./pages/Term").then((m) => ({ default: m.Term })));
 const Search = lazy(() => import("./pages/Search").then((m) => ({ default: m.Search })));
-const Assistant = lazy(() => import("./pages/Assistant").then((m) => ({ default: m.Assistant })));
 const Experiments = lazy(() => import("./pages/Experiments").then((m) => ({ default: m.Experiments })));
 const ThreeBody = lazy(() => import("./experiments/threebody/ThreeBodyPage").then((m) => ({ default: m.ThreeBodyPage })));
 
@@ -19,7 +19,6 @@ const NAV = [
   { href: "/", label: "Кандидаты", section: (p: string) => p === "/" || p.startsWith("/planets") || p.startsWith("/compare") },
   { href: "/method", label: "Методика", section: (p: string) => p.startsWith("/method") },
   { href: "/glossary", label: "Справочник", section: (p: string) => p.startsWith("/glossary") || p.startsWith("/search") },
-  { href: "/assistant", label: "Помощник", section: (p: string) => p.startsWith("/assistant") },
   { href: "/experiments", label: "Эксперименты", section: (p: string) => p.startsWith("/experiments") },
 ];
 
@@ -62,7 +61,7 @@ function route(path: string): ComponentChildren {
   params = match("/glossary/:number", path);
   if (params && /^\d+$/.test(params.number)) return <Term number={Number(params.number)} />;
   if (path === "/search") return <Search />;
-  if (path === "/assistant") return <Assistant />;
+  if (path === "/assistant") return <Dashboard />;
   if (path === "/experiments") return <Experiments />;
   if (path === "/experiments/three-body") return <ThreeBody />;
   return <NotFound />;
@@ -165,6 +164,7 @@ export function App() {
         </div>
       </footer>
       <CompareTray path={location.path} />
+      <AssistantWidget location={location} />
     </div>
   );
 }

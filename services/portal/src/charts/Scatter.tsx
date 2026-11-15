@@ -51,13 +51,14 @@ const MARGIN = { top: 14, right: 18, bottom: 46, left: 58 };
 const RADIUS: Record<PointKind, number> = { context: 1.7, zone: 2.6, candidate: 4.2, highlight: 6 };
 
 export function Scatter<T>(props: Props<T>) {
-  const [ref, width] = useWidth<HTMLDivElement>();
+  const [ref, containerWidth] = useWidth<HTMLDivElement>();
+  const narrow = containerWidth > 0 && containerWidth < 560;
+  const width = narrow ? Math.max(620, containerWidth) : containerWidth;
   const canvas = useRef<HTMLCanvasElement>(null);
   const [active, setActive] = useState<ScatterPoint<T> | null>(null);
   const [sticky, setSticky] = useState(false);
   const colors = useThemeColors(["--point-context", "--series-blue", "--ink", "--paper", "--zone-cons"]);
-  const narrow = width > 0 && width < 560;
-  const height = props.height ?? (narrow ? 360 : 460);
+  const height = props.height ?? (narrow ? 420 : 460);
   const margin = narrow ? { ...MARGIN, left: 52, right: 10 } : MARGIN;
 
   const scales = useMemo<Scales | null>(() => {
@@ -83,6 +84,13 @@ export function Scatter<T>(props: Props<T>) {
         .x((d) => d.px)
         .y((d) => d.py)
         .addAll(visible),
+    [visible],
+  );
+  const candidateTree = useMemo(
+    () => quadtree<(typeof visible)[number]>()
+      .x((d) => d.px)
+      .y((d) => d.py)
+      .addAll(visible.filter((item) => item.point.kind === "candidate" || item.point.kind === "highlight")),
     [visible],
   );
 
@@ -125,16 +133,18 @@ export function Scatter<T>(props: Props<T>) {
     return visible.filter((item) => kinds.includes(item.point.kind)).sort((a, b) => a.px - b.px);
   }, [visible, props.keyboardKinds]);
 
-  if (!scales) return <div ref={ref} class="figure__plot" style={{ height: `${height}px` }} />;
+  if (!scales) return <div ref={ref} class="figure__plot-scroll" style={{ height: `${height}px` }} />;
 
   const nearest = (event: PointerEvent | MouseEvent) => {
     const rect = (event.currentTarget as HTMLElement).getBoundingClientRect();
-    const found = tree.find(event.clientX - rect.left, event.clientY - rect.top, 16);
+    const x = event.clientX - rect.left;
+    const y = event.clientY - rect.top;
+    const found = narrow ? candidateTree.find(x, y, 28) ?? tree.find(x, y, 28) : tree.find(x, y, 16);
     return found?.point ?? null;
   };
 
   const onMove = (event: TargetedPointerEvent<HTMLDivElement>) => {
-    if (event.pointerType === "touch" || sticky) return;
+    if (narrow || event.pointerType === "touch" || sticky) return;
     setActive(nearest(event));
   };
 
@@ -145,7 +155,7 @@ export function Scatter<T>(props: Props<T>) {
       setSticky(false);
       return;
     }
-    if (active?.id === point.id && props.onSelect) props.onSelect(point);
+    if (!narrow && active?.id === point.id && props.onSelect) props.onSelect(point);
     else {
       setActive(point);
       setSticky((event as unknown as PointerEvent).pointerType === "touch");
@@ -173,18 +183,20 @@ export function Scatter<T>(props: Props<T>) {
   const tipTop = activePx ? (activePx.y > scales.height * 0.55 ? activePx.y - 150 : activePx.y + 14) : 0;
 
   return (
-    <div
-      ref={ref}
+    <div ref={ref} class="figure__chart">
+      {narrow && <p class="figure__gesture">Листайте график по горизонтали. Коснитесь точки, чтобы увидеть данные.</p>}
+      <div class="figure__plot-scroll">
+      <div
       class="figure__plot"
-      style={{ height: `${height}px` }}
+      style={{ width: `${width}px`, height: `${height}px` }}
       tabIndex={0}
       role="group"
       aria-label={`${props.ariaLabel}. Стрелки перебирают выделенные точки, Enter открывает карточку.`}
       onPointerMove={onMove}
-      onPointerLeave={() => !sticky && setActive(null)}
+      onPointerLeave={() => !narrow && !sticky && setActive(null)}
       onClick={onClick}
       onKeyDown={onKey}
-      onBlur={() => !sticky && setActive(null)}
+      onBlur={() => !narrow && !sticky && setActive(null)}
     >
       <svg class="layer" width={scales.width} height={scales.height} aria-hidden="true">
         <g class="grid">
@@ -221,9 +233,19 @@ export function Scatter<T>(props: Props<T>) {
         {props.foreground?.(scales)}
         {activePx && <circle cx={activePx.x} cy={activePx.y} r={9} fill="none" stroke="var(--focus)" stroke-width={2} />}
       </svg>
-      {active && (
+      {active && !narrow && (
         <div class="tooltip" style={{ left: `${tipLeft}px`, top: `${Math.max(4, tipTop)}px` }} role="status">
           {props.tooltip(active)}
+        </div>
+      )}
+      </div>
+      </div>
+      {active && narrow && (
+        <div class="figure__selection" role="status">
+          {props.tooltip(active)}
+          {props.onSelect && (active.kind === "candidate" || active.kind === "highlight") && (
+            <button class="btn btn--primary" type="button" onClick={() => props.onSelect?.(active)}>Открыть карточку</button>
+          )}
         </div>
       )}
     </div>

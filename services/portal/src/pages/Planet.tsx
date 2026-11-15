@@ -5,10 +5,11 @@ import { PointLegend, ZoneDiagram } from "../charts/CatalogCharts";
 import { OrbitSketch, ZoneStrip } from "../charts/Detail";
 import { COMPONENT_COLORS, ErrorState, Figure, Loading, ScoreBar, ZoneTag } from "../components/ui";
 import { COMPARE_LIMIT, toggleCompare, useCompare } from "../lib/compare";
+import { openAssistant } from "../lib/assistant";
 import { declination, int, lightYears, num, rightAscension, sig } from "../lib/format";
 import { useResource, useVisible } from "../lib/hooks";
 import { DISCOVERY_METHOD, EARTH, FLAG_TEXT, SOURCE_STATUS, spectralClass, STAR_COLOR } from "../lib/science";
-import { Link, navigate } from "../router";
+import { Link } from "../router";
 
 function provenanceOf(c: Candidate, field: "radius" | "mass" | "flux" | "period"): string {
   const flags = c.dataFlags;
@@ -279,7 +280,7 @@ function Body({ c }: { c: Candidate }) {
           <button class="btn" type="button" aria-pressed={inCompare} disabled={!inCompare && selected.length >= COMPARE_LIMIT} onClick={() => toggleCompare(c.name)}>
             {inCompare ? "Убрать из сравнения" : "Добавить к сравнению"}
           </button>
-          <button class="btn btn--quiet" type="button" onClick={() => navigate(`/assistant?planet=${encodeURIComponent(c.name)}`)}>
+          <button class="btn btn--quiet" type="button" onClick={() => openAssistant({ planet: c.name })}>
             Спросить помощника об этой планете
           </button>
         </div>

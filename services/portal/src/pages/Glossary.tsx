@@ -46,9 +46,9 @@ export function Glossary() {
   return (
     <div class="wrap">
       <header class="page-head">
-        <h1>Астрономический справочник</h1>
+        <h1>Справочник</h1>
         <p class="lead">
-          {facets.data ? `${count(facets.data.total, ["термин", "термина", "терминов"])}` : "Все термины"} глоссария Международного астрономического союза (IAU OAE): от абсолютной звёздной величины до зодиакального света.
+          {facets.data ? count(facets.data.total, ["термин", "термина", "терминов"]) : "Термины"} глоссария Международного астрономического союза (IAU OAE).
         </p>
       </header>
 

@@ -59,7 +59,7 @@ function PointTooltip({ point }: { point: CatalogPoint }) {
       </dl>
       <p style={{ marginTop: "6px" }}>
         {point.eligible
-          ? `Кандидат, балл ${num(point.score, 1, 1)}. Нажмите ещё раз, чтобы открыть карточку.`
+          ? `Кандидат, балл ${num(point.score, 1, 1)}.`
           : point.exclusion
             ? `Не прошла: ${EXCLUSION_LABEL[point.exclusion] ?? point.exclusion}.`
             : ""}

@@ -1,30 +1,18 @@
 name: tulahack2026
 
 services:
-  gateway:
-    image: nginx:1.28-alpine
+  web:
+    build: ./services/portal
     ports:
       - "127.0.0.1:8090:8080"
     volumes:
       - ./infra/gateway/default.conf:/etc/nginx/conf.d/default.conf:ro
     depends_on:
-      - planets-api
-      - glossary-rag
-      - portal
+      api:
+        condition: service_healthy
     restart: unless-stopped
 
-  # Единый фронтенд портала (статическая сборка, nginx); доступен через gateway по /.
-  portal:
-    build: ./services/portal
-    restart: unless-stopped
-
-  planets-api:
-    build: ./services/planets-api
-    volumes:
-      - catalog-data:/app/data
-    restart: unless-stopped
-
-  glossary-rag:
+  api:
     build: ./services/glossary-rag
     environment:
       ASSISTANT_PROVIDER: ${ASSISTANT_PROVIDER:-deepseek}
@@ -38,15 +26,13 @@ services:
       TRUSTED_PROXIES: 172.16.0.0/12
       SESSION_SECRET: ${SESSION_SECRET:-}
       EMBEDDING_URL: ${EMBEDDING_URL:-http://embeddings:8080/v1/embeddings}
+      CATALOG_DATA_DIR: /app/catalog
     depends_on:
       redis:
         condition: service_healthy
-      # Справочник и поиск работают и без эмбеддингов (только FTS), поэтому зависимость не обязательна.
-      embeddings:
-        condition: service_started
-        required: false
     volumes:
       - ./services/glossary-rag/data:/app/data
+      - catalog-data:/app/catalog
     restart: unless-stopped
 
   telegram-bot:
@@ -55,9 +41,9 @@ services:
     environment:
       BOT_PLATFORM: telegram
       TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:-}
-      RAG_URL: http://glossary-rag:8000
+      RAG_URL: http://api:8000
       PORTAL_PUBLIC_URL: ${PORTAL_PUBLIC_URL:-http://localhost:8090}
-    depends_on: [glossary-rag]
+    depends_on: [api]
     restart: unless-stopped
 
   max-bot:
@@ -68,14 +54,15 @@ services:
       MAX_BOT_TOKEN: ${MAX_BOT_TOKEN:-}
       MAX_WEBHOOK_URL: ${MAX_WEBHOOK_URL:-}
       MAX_WEBHOOK_SECRET: ${MAX_WEBHOOK_SECRET:-}
-      RAG_URL: http://glossary-rag:8000
+      RAG_URL: http://api:8000
       PORTAL_PUBLIC_URL: ${PORTAL_PUBLIC_URL:-http://localhost:8090}
-    depends_on: [glossary-rag]
+    depends_on: [api]
     volumes:
       - max-bot-queue:/app/queue
     restart: unless-stopped
 
   model-fetch:
+    profiles: ["embeddings"]
     image: ghcr.io/ggml-org/llama.cpp:server
     entrypoint: ["/bin/sh", "/scripts/fetch_embedding_model.sh"]
     volumes:
@@ -84,6 +71,7 @@ services:
     restart: "no"
 
   embeddings:
+    profiles: ["embeddings"]
     image: ghcr.io/ggml-org/llama.cpp:server
     depends_on:
       model-fetch:

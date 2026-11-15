@@ -24,7 +24,7 @@
 | `POST /api/v1/assistant/answer` | RAG | ИИ-помощник |
 | `POST /webhooks/max` | MAX bot | Приём событий MAX с заголовком `X-Max-Bot-Api-Secret` |
 
-Служебные маршруты gateway: `GET /health` — liveness RAG, `GET /docs` и `GET /openapi.json` — OpenAPI RAG. Gateway сохраняет исходные пути, поэтому ссылки `/api/v1/...` в ответах RAG работают на том же адресе. Имена сервисов перерезолвятся через DNS Docker каждые 10 секунд: пересоздание одного контейнера не ломает маршрутизацию. Новые сервисы получают свой префикс до общего `/api/`. Прежний статический PoC остаётся в `services/planets-api/Planets.Api/wwwroot` и доступен только на внутреннем порту Planets API.
+Служебные маршруты gateway: `GET /health` — liveness общего FastAPI, `GET /docs` и `GET /openapi.json` — общая OpenAPI FastAPI. Gateway сохраняет исходные пути, поэтому ссылки `/api/v1/...` в ответах RAG работают на том же адресе. Имена сервисов перерезолвятся через DNS Docker каждые 10 секунд: пересоздание одного контейнера не ломает маршрутизацию. Все маршруты Planets и RAG обслуживает один процесс FastAPI (`api`); nginx в `web` также отдаёт собранный портал. Прежний .NET и статический PoC остаются в `services/planets-api/` как архив исходников и в Compose не запускаются. Новые API добавляются роутерами в общий FastAPI с собственным префиксом.
 
 ## Planets API
 

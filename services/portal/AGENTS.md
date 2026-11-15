@@ -6,7 +6,7 @@
 
 ## Стек и сборка
 
-Preact 11, TypeScript 7, Vite 8, модули D3 (`d3-scale`, `d3-array`, `d3-shape`, `d3-format`, `d3-quadtree`), шрифты Inter, Public Sans и DM Mono из Fontsource (без внешних CDN). `npm ci`, `npm run build` (проверка типов и сборка), `npm test` (Vitest: численные проверки задачи трёх тел). В Docker сборка и тесты идут в `Dockerfile`, статику отдаёт nginx с SPA-фолбэком (`nginx.conf`), gateway проксирует `/` в сервис `portal`.
+Preact 11, TypeScript 7, Vite 8, модули D3 (`d3-scale`, `d3-array`, `d3-shape`, `d3-format`, `d3-quadtree`), шрифты Inter, Public Sans и DM Mono из Fontsource (без внешних CDN). `npm ci`, `npm run build` (проверка типов и сборка), `npm test` (Vitest: численные проверки задачи трёх тел). В Docker сборка и тесты идут в `Dockerfile`, статику отдаёт nginx с SPA-фолбэком (`nginx.conf`), в корневом Compose контейнер `web` объединяет выдачу статики и gateway (`infra/gateway/default.conf`).
 
 Разработка: запустить стек (`docker compose up -d` в корне), затем `npm run dev` — Vite проксирует `/api` и `/health` на `http://localhost:8090` (`GATEWAY_URL` меняет адрес).
 

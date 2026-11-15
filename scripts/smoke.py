@@ -8,7 +8,9 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 
 
-BASE = (sys.argv[1] if len(sys.argv) > 1 else "http://localhost:8090").rstrip("/")
+BASE = next((arg for arg in sys.argv[1:] if not arg.startswith("--")), "http://localhost:8090").rstrip("/")
+SKIP_ASSISTANT = "--skip-assistant" in sys.argv
+SKIP_SOURCE_MEDIA = "--skip-source-media" in sys.argv
 
 
 def get(path: str, *, method: str = "GET", body: dict | None = None):
@@ -77,7 +79,8 @@ term = check("/api/v1/terms/1", 200, "media")
 assert term["media"], "у контрольного термина нет медиа"
 media_id = quote(term["media"][0]["id"], safe="")
 check(f"/api/v1/media/{media_id}", 200, "id")
-image(f"/api/v1/media/{media_id}/file?locale=ru")
+if not SKIP_SOURCE_MEDIA:
+    image(f"/api/v1/media/{media_id}/file?locale=ru")
 image("/api/v1/terms/1/illustration")
 facets = check("/api/v1/terms/facets?locale=ru", 200, "letters")
 assert facets["total"] == terms["total"]
@@ -90,6 +93,11 @@ assert russian["items"] and "дыр" in russian["items"][0]["title"].lower(), ru
 schema = check("/openapi.json", 200, "paths")
 assert "/api/v1/assistant/answer" in schema["paths"]
 check("/api/v1/route-does-not-exist", 404, "code")
+
+# --skip-assistant не делает даже проверочных запросов к маршруту помощника.
+if SKIP_ASSISTANT:
+    print("Портал и общий API доступны через один origin; помощник исключён из проверки.")
+    sys.exit(0)
 
 # Лимит помощника: один принятый запрос за 10 с; ранний повтор получает остаток интервала без нового штрафа.
 for _ in range(2):
@@ -106,4 +114,4 @@ time.sleep(retry + 0.5)
 later, payload, _ = get("/api/v1/assistant/answer", method="POST", body={})
 assert later == 422, f"после Retry-After запрос должен пройти, получено {later}: {payload}"
 print(f"OK лимит помощника: повтор через {retry} с принят")
-print("Портал и оба API доступны через один origin.")
+print("Портал и общий API доступны через один origin.")

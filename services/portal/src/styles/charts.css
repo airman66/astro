@@ -26,6 +26,58 @@
   touch-action: pan-y;
 }
 
+.figure__chart,
+.figure__plot-scroll {
+  min-width: 0;
+}
+
+.figure__plot-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.figure__gesture {
+  display: none;
+}
+
+.figure__selection {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  border: 1px solid var(--rule-strong);
+  border-radius: var(--radius);
+  background: var(--paper);
+  font-size: var(--fs-sm);
+}
+
+.figure__selection dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 2px 12px;
+  margin: 0;
+}
+
+.figure__selection dd {
+  margin: 0;
+}
+
+.figure__selection .btn {
+  justify-self: start;
+}
+
+@media (max-width: 560px) {
+  .figure__plot {
+    touch-action: pan-x pan-y;
+  }
+
+  .figure__gesture {
+    display: block;
+    margin: 0;
+    color: var(--ink-2);
+    font-size: var(--fs-sm);
+  }
+}
+
 .figure__plot canvas,
 .figure__plot svg {
   display: block;
