@@ -4,7 +4,7 @@ import { api } from "../api/endpoints";
 import type { BoundaryRow, Methodology } from "../api/types";
 import { logTicks } from "../charts/Scatter";
 import { ErrorState, Figure, Loading } from "../components/ui";
-import { dateTimeRu, int, num } from "../lib/format";
+import { int, num } from "../lib/format";
 import { useResource, useWidth } from "../lib/hooks";
 import { FUNNEL } from "../lib/science";
 import { Link } from "../router";
@@ -78,8 +78,8 @@ function Body({ m }: { m: Methodology }) {
         <div class="prose">
           <h2 style={{ marginBottom: "14px" }}>Что делает балл</h2>
           <p>
-            Балл помогает просматривать кандидатов по порядку: сначала планеты, которые получают от звезды поток в консервативной зоне обитаемости, ближе к Земле по размеру и на почти круговой орбите. Он не оценивает вероятность
-            жизни, не равен индексу подобия Земле ESI и не доказывает, что планета обитаема. Для таких выводов нужны данные об атмосфере и поверхности, которых в каталоге нет.
+            Балл помогает просматривать кандидатов по порядку: сначала планеты, которые получают от звезды поток в консервативной зоне обитаемости, ближе к Земле по размеру и на почти круговой орбите. Он учитывает только эти
+            параметры. Данные об атмосфере и поверхности в расчёт не входят.
           </p>
           <h2 style={{ margin: "32px 0 14px" }}>Отбор</h2>
           <p>Планета попадает в рейтинг, только если проходит все условия:</p>
@@ -216,14 +216,12 @@ function Body({ m }: { m: Methodology }) {
 
 export function Method() {
   const methodology = useResource(() => api.methodology(), []);
-  const status = useResource(() => api.status(), []);
   return (
     <div class="wrap">
       <header class="page-head">
         <h1>Как отбираются и сортируются кандидаты</h1>
-        <p class="lead">Простые правила по данным NASA, которые можно проверить. Ниже — что именно считается, какие пороги и чего балл не утверждает.</p>
+        <p class="lead">Простые правила по данным NASA, которые можно проверить: условия отбора, пороги и расчёт балла.</p>
         <div class="page-head__meta">
-          <span>Снимок NASA: {dateTimeRu(status.data?.fetchedAt)}</span>
           <Link href="/">К рейтингу</Link>
         </div>
       </header>

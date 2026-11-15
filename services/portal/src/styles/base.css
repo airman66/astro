@@ -13,9 +13,9 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: var(--font-sans);
-  font-size: var(--fs-ui);
-  line-height: 1.5;
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: 1.6;
   font-optical-sizing: auto;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -25,19 +25,20 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: var(--font-serif);
-  font-weight: 560;
-  line-height: 1.15;
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1.12;
   margin: 0;
-  letter-spacing: -0.005em;
+  letter-spacing: -0.035em;
   text-wrap: balance;
 }
 
 h1 {
   font-size: var(--fs-h1);
-  font-weight: 520;
-  line-height: 1.08;
-  letter-spacing: -0.012em;
+  font-weight: 750;
+  line-height: 1.04;
+  letter-spacing: -0.05em;
+  overflow-wrap: anywhere;
 }
 
 h2 {
@@ -55,6 +56,7 @@ p {
 a {
   color: inherit;
   text-decoration-line: underline;
+  text-decoration-style: dashed;
   text-decoration-thickness: 1px;
   text-decoration-color: var(--rule-strong);
   text-underline-offset: 0.18em;
@@ -88,7 +90,7 @@ table {
 }
 
 .prose {
-  font-family: var(--font-serif);
+  font-family: var(--font-body);
   font-size: var(--fs-body);
   line-height: 1.62;
   max-width: var(--measure);
@@ -111,7 +113,7 @@ table {
 }
 
 .lead {
-  font-family: var(--font-serif);
+  font-family: var(--font-body);
   font-size: var(--fs-lead);
   line-height: 1.5;
   max-width: 62ch;
@@ -123,6 +125,7 @@ table {
 }
 
 .num {
+  font-family: var(--font-mono);
   font-variant-numeric: tabular-nums;
 }
 

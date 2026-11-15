@@ -40,10 +40,29 @@ function AnswerView({ answer }: { answer: AnswerResponse }) {
           <p key={index}>{paragraph}</p>
         ))}
       </div>
+      {answer.images?.length > 0 && (
+        <div class="answer__images">
+          {answer.images.map((item) => (
+            <figure class="media" key={`${item.record_id}/${item.url}`}>
+              <img src={item.url} alt={item.alt} loading="lazy" decoding="async" />
+              <figcaption>
+                {item.kind === "illustration" ? "Иллюстрация к материалу справочника. " : "Изображение из материала справочника. "}{item.caption}
+                {(item.credit || item.license) && (
+                  <span class="media__credit">
+                    {item.credit && <>Автор: {item.credit_url ? <a href={item.credit_url} rel="noopener">{item.credit}</a> : item.credit}. </>}
+                    {item.license && <>Лицензия: {item.license_url ? <a href={item.license_url} rel="noopener">{item.license}</a> : item.license}.</>}
+                    {item.modified && <> Файл переведён в WebP; размер не более 960 px.</>}
+                  </span>
+                )}
+              </figcaption>
+            </figure>
+          ))}
+        </div>
+      )}
       {answer.sources.length > 0 && (
         <div style={{ marginTop: "14px" }}>
           <p class="muted" style={{ fontSize: "var(--fs-sm)" }}>
-            Источники{answer.review_status === "draft" ? " (переводы — черновики)" : ""}:
+            Источники:
           </p>
           <ul class="chips">
             {answer.sources.map((source) => (
@@ -128,7 +147,7 @@ export function Assistant() {
         <div class="state state--error" role="alert" style={{ marginBottom: "24px" }}>
           <h3>Помощник сейчас недоступен</h3>
           <p class="muted">
-            {unavailable === "Ключ DeepSeek не настроен" ? "На сервере не настроен ключ DeepSeek (переменная DEEPSEEK_API_KEY)." : `${unavailable}.`} <Link href="/glossary">Справочник</Link> и{" "}
+            {unavailable}. <Link href="/glossary">Справочник</Link> и{" "}
             <Link href="/search">поиск</Link> работают без помощника.
           </p>
         </div>
@@ -179,8 +198,8 @@ export function Assistant() {
                 <p class="muted">
                   {turn.error instanceof ApiError && turn.error.code === "assistant_timeout"
                     ? "Помощник не уложился в отведённое время. Попробуйте сформулировать короче или выбрать режим «Определение»."
-                    : turn.error instanceof ApiError && turn.error.code === "deepseek_error"
-                      ? "Сервис DeepSeek вернул ошибку. Повторите вопрос через несколько секунд."
+                    : turn.error instanceof ApiError && turn.error.code === "assistant_error"
+                      ? "Сервис LLM вернул ошибку. Повторите вопрос через несколько секунд."
                       : describeError(turn.error).text}
                 </p>
               </div>

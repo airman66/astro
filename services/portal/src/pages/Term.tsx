@@ -71,7 +71,16 @@ function Illustration({ record }: { record: TermRecord }) {
       <figcaption>
         {art.caption_ru && <>{art.caption_ru} </>}
         <span class="muted">
-          {art.kind === "diagram" ? "Схема" : "Концептуальная иллюстрация"} команды портала, создана нейросетью и проверена по определению. Это не фотография и не результат наблюдений.
+          {art.source_type && art.source_type !== "generated" ? (
+            <>
+              {art.file_page && <><a href={art.file_page} rel="noopener">{art.source_type === "wikimedia" ? "Файл в Wikimedia Commons" : "Исходное изображение"}</a>. </>}
+              {art.author && <>Автор: {art.author}. </>}
+              {art.license && <>Лицензия: {art.license_url ? <a href={art.license_url} rel="noopener">{art.license}</a> : art.license}.</>}
+              {art.modified && <> Файл переведён в WebP; размер не более 960 px.</>}
+            </>
+          ) : (
+            <>Иллюстрация команды портала.</>
+          )}
         </span>
       </figcaption>
     </figure>
@@ -185,7 +194,7 @@ function Body({ record }: { record: TermRecord }) {
         <a href={record.source.url} rel="noopener">
           исходная страница
         </a>
-        . Русский перевод подготовлен командой портала и проверен автоматически; редакторской проверки пока не было.
+        .
       </p>
     </>
   );

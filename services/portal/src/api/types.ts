@@ -250,6 +250,13 @@ export interface Illustration {
   kind: "conceptual" | "diagram";
   status: "generated" | "approved";
   generator: string;
+  source_type?: string;
+  file_page?: string | null;
+  article_url?: string | null;
+  author?: string | null;
+  license?: string | null;
+  license_url?: string | null;
+  modified?: string | null;
 }
 
 export interface TermRecord {
@@ -295,6 +302,18 @@ export interface AnswerResponse {
   answer: string;
   primary_url: string | null;
   sources: { record_id: string; section_id: string; url: string; review_status: string }[];
+  images: {
+    record_id: string;
+    url: string;
+    alt: string;
+    caption: string;
+    kind: "illustration" | "source_media";
+    credit?: string | null;
+    credit_url?: string | null;
+    license?: string | null;
+    license_url?: string | null;
+    modified?: string | null;
+  }[];
   review_status: string | null;
   diagnostics: Record<string, string>;
 }

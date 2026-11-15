@@ -5,7 +5,7 @@ import { PointLegend, ZoneDiagram } from "../charts/CatalogCharts";
 import { OrbitSketch, ZoneStrip } from "../charts/Detail";
 import { COMPONENT_COLORS, ErrorState, Figure, Loading, ScoreBar, ZoneTag } from "../components/ui";
 import { COMPARE_LIMIT, toggleCompare, useCompare } from "../lib/compare";
-import { dateTimeRu, declination, int, lightYears, num, rightAscension, sig } from "../lib/format";
+import { declination, int, lightYears, num, rightAscension, sig } from "../lib/format";
 import { useResource, useVisible } from "../lib/hooks";
 import { DISCOVERY_METHOD, EARTH, FLAG_TEXT, SOURCE_STATUS, spectralClass, STAR_COLOR } from "../lib/science";
 import { Link, navigate } from "../router";
@@ -170,7 +170,7 @@ function Hwc({ name }: { name: string }) {
       ) : (
         <p>В снимке HWC нет записи с таким названием. Это не значит, что HWC её исключил: каталог обновлялся {hwc.data.catalogUpdatedAt.split("-").reverse().join(".")}, новые открытия и другие имена в нём могут отсутствовать.</p>
       )}
-      <p class="muted">HWC — отдельная методика с другими критериями (вероятный размер и состав). Она показана для сравнения и не влияет на наш балл. ESI — сходство с Землёй, а не вероятность жизни.</p>
+      <p class="muted">HWC — отдельная методика с другими критериями (вероятный размер и состав). Она показана для сравнения и не влияет на наш балл. ESI показывает сходство с Землёй по набору параметров.</p>
     </div>
   );
 }
@@ -273,7 +273,7 @@ function Body({ c }: { c: Candidate }) {
           <span>Место {c.rank ?? "—"} в рейтинге</span>
         </div>
         <p class="lead">
-          Балл <strong>{num(c.score, 1, 1)}</strong> из 100 — порядок в списке похожих на Землю по двум признакам, а не вероятность жизни. Поток излучения попадает {c.zone === "conservative" ? "в консервативную зону обитаемости" : "только в расширенную зону обитаемости"}, {c.radiusEarth !== null ? `радиус — ${num(c.radiusEarth, 2)} земного` : `радиус не измерен, масса — ${num(c.massEarth, 2)} земной`}.
+          Балл <strong>{num(c.score, 1, 1)}</strong> из 100 — порядок в списке по выбранным параметрам. Поток излучения попадает {c.zone === "conservative" ? "в консервативную зону обитаемости" : "только в расширенную зону обитаемости"}, {c.radiusEarth !== null ? `радиус — ${num(c.radiusEarth, 2)} земного` : `радиус не измерен, масса — ${num(c.massEarth, 2)} земной`}.
         </p>
         <div class="toolbar" style={{ marginBottom: 0 }}>
           <button class="btn" type="button" aria-pressed={inCompare} disabled={!inCompare && selected.length >= COMPARE_LIMIT} onClick={() => toggleCompare(c.name)}>
@@ -408,7 +408,6 @@ function Body({ c }: { c: Candidate }) {
 
 export function Planet({ name }: { name: string }) {
   const candidate = useResource(() => api.candidate(name), [name]);
-  const status = useResource(() => api.status(), []);
   return (
     <div class="wrap">
       {candidate.error ? (
@@ -433,9 +432,6 @@ export function Planet({ name }: { name: string }) {
       ) : (
         <>
           <Body c={candidate.data} />
-          <p class="muted" style={{ marginTop: "48px" }}>
-            Данные: NASA Exoplanet Archive, снимок от {dateTimeRu(status.data?.fetchedAt)}. Методика версии {status.data?.scoreVersion ?? "—"}.
-          </p>
         </>
       )}
     </div>

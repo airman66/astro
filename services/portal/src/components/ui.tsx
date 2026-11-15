@@ -136,5 +136,5 @@ export function Figure({ title, caption, legend, table, children, id }: FigurePr
 
 export function ReviewNote({ status }: { status: string | null | undefined }) {
   if (status === "reviewed") return <span class="tag tag--ok">перевод проверен редактором</span>;
-  return <span class="tag">черновик перевода</span>;
+  return null;
 }

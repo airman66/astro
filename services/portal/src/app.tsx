@@ -1,11 +1,7 @@
 import type { ComponentChildren } from "preact";
 import { lazy, Suspense } from "preact/compat";
-import { useEffect, useState } from "preact/hooks";
-import { api } from "./api/endpoints";
-import type { StatusResponse } from "./api/types";
 import { Loading } from "./components/ui";
 import { clearCompare, useCompare } from "./lib/compare";
-import { dateTimeRu, shortDateTime } from "./lib/format";
 import { Link, match, useLocation } from "./router";
 import { Dashboard } from "./pages/Dashboard";
 
@@ -28,51 +24,13 @@ const NAV = [
 ];
 
 function Mark() {
-  // Знак: смещение близкой звезды на фоне далёких — суть метода параллакса.
   return (
-    <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true">
-      <circle cx="13" cy="13" r="11.5" fill="none" stroke="currentColor" stroke-width="1.5" />
-      <circle cx="9" cy="13" r="2.6" fill="currentColor" />
-      <circle cx="17" cy="13" r="2.6" fill="none" stroke="currentColor" stroke-width="1.5" />
+    <svg width="36" height="36" viewBox="0 0 40 40" aria-hidden="true">
+      <ellipse cx="20" cy="20" rx="16" ry="10" transform="rotate(-28 20 20)" fill="none" stroke="currentColor" stroke-width="1.7" />
+      <circle cx="20" cy="20" r="4.2" fill="currentColor" />
+      <path d="M20 10.8v3.1m0 12.2v3.1M10.8 20h3.1m12.2 0h3.1" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+      <circle cx="34.1" cy="12.5" r="3.4" fill="var(--paper)" stroke="currentColor" stroke-width="1.8" />
     </svg>
-  );
-}
-
-function DataStatus() {
-  const [status, setStatus] = useState<StatusResponse | null>(null);
-  const [failed, setFailed] = useState(false);
-  useEffect(() => {
-    let alive = true;
-    let timer = 0;
-    const poll = () =>
-      api.status().then(
-        (value) => {
-          if (!alive) return;
-          setStatus(value);
-          setFailed(false);
-          timer = window.setTimeout(poll, value.ready ? 5 * 60_000 : 5000);
-        },
-        () => {
-          if (!alive) return;
-          setFailed(true);
-          timer = window.setTimeout(poll, 15000);
-        },
-      );
-    poll();
-    return () => {
-      alive = false;
-      window.clearTimeout(timer);
-    };
-  }, []);
-  if (failed) return <span class="tag tag--danger">API каталога недоступен</span>;
-  if (!status) return <span class="tag">Проверяем данные NASA…</span>;
-  if (!status.ready) return <span class="tag tag--warn">Каталог NASA загружается</span>;
-  const stale = status.refreshError ? ", обновление не удалось" : "";
-  return (
-    <span class={`tag${status.refreshError ? " tag--warn" : " status-ok"}`} title={`Снимок NASA Exoplanet Archive от ${dateTimeRu(status.fetchedAt)}${status.refreshError ? `. Последняя попытка обновления не удалась: ${status.refreshError}` : ""}`}>
-      Данные NASA от {shortDateTime(status.fetchedAt)}
-      {stale}
-    </span>
   );
 }
 
@@ -132,7 +90,7 @@ export function App() {
         <div class="wrap site-header__row">
           <Link class="wordmark" href="/">
             <Mark />
-            Параллакс
+            Алкиона
           </Link>
           <nav class="nav" aria-label="Разделы портала">
             {NAV.map((item) => (
@@ -141,9 +99,6 @@ export function App() {
               </Link>
             ))}
           </nav>
-          <div class="site-header__status">
-            <DataStatus />
-          </div>
         </div>
       </header>
       <main id="main" tabIndex={-1}>
@@ -192,13 +147,12 @@ export function App() {
                 </a>
                 , CC BY 4.0
               </li>
-              <li>Русский перевод — черновик, проверенный автоматически, не редактором.</li>
             </ul>
           </section>
           <section>
             <h2>О портале</h2>
             <ul>
-              <li>TulaHack 2026. Балл — эвристика для сортировки, не вероятность жизни.</li>
+              <li>Алкиона — астрономический портал TulaHack 2026.</li>
               <li>
                 Задача трёх тел основана на коде{" "}
                 <a href="https://github.com/KaiyuanGONG/formula-to-pixel" rel="noopener">

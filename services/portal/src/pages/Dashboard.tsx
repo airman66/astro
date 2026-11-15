@@ -6,7 +6,7 @@ import { ScoreHistogram, StabilityChart } from "../charts/Detail";
 import { SkyMap } from "../charts/SkyMap";
 import { ErrorState, Figure, Loading, ScoreBar, ZoneTag } from "../components/ui";
 import { COMPARE_LIMIT, toggleCompare, useCompare } from "../lib/compare";
-import { count, dateTimeRu, int, lightYears, num, sig } from "../lib/format";
+import { count, int, lightYears, num, sig } from "../lib/format";
 import { useResource, useVisible, useWidth } from "../lib/hooks";
 import { FUNNEL } from "../lib/science";
 import { Link } from "../router";
@@ -260,10 +260,9 @@ export function Dashboard() {
         )}
         <p class="lead">
           Мы берём все подтверждённые планеты из архива NASA и оставляем те, что получают от звезды столько излучения, сколько по модели Kopparapu и других (2014) допускает жидкую воду на поверхности, и при этом сравнимы с
-          Землёй по размеру. Балл от 0 до 100 только упорядочивает их для просмотра. Это не вероятность жизни и не доказательство обитаемости.
+          Землёй по размеру. Балл от 0 до 100 упорядочивает кандидатов по этим признакам.
         </p>
         <div class="page-head__meta">
-          <span>Снимок NASA: {dateTimeRu(planets.data?.fetchedAt)}</span>
           <span>Методика версии {planets.data?.scoreVersion ?? "—"}</span>
           <Link href="/method">Как считается балл</Link>
         </div>
@@ -408,7 +407,7 @@ export function Dashboard() {
                     </tbody>
                   </table>
                 )}
-                caption="160 пересчётов всего каталога: каждое входное значение сдвигается в пределах опубликованной погрешности NASA, отбор и балл считаются заново. Узкий отрезок — место почти не зависит от погрешностей. Это не вероятность жизни: систематические ошибки и корреляции не моделируются."
+                caption="160 пересчётов всего каталога: каждое входное значение сдвигается в пределах опубликованной погрешности NASA, отбор и балл считаются заново. Узкий отрезок — место почти не зависит от погрешностей. Систематические ошибки и корреляции не моделируются."
               >
                 <StabilityChart candidates={list} metric={metric} />
               </Figure>

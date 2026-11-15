@@ -1,7 +1,7 @@
 import { render } from "preact";
-import "@fontsource-variable/piazzolla/standard.css";
-import "@fontsource-variable/piazzolla/standard-italic.css";
-import "@fontsource-variable/golos-text/index.css";
+import "@fontsource-variable/inter/wght.css";
+import "@fontsource-variable/public-sans/wght.css";
+import "@fontsource/dm-mono/400.css";
 import "./styles/tokens.css";
 import "./styles/base.css";
 import "./styles/layout.css";

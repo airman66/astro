@@ -36,7 +36,8 @@ SOFTWARE.
 | --- | --- | --- |
 | preact | 11.2.0 | MIT |
 | d3-array, d3-format, d3-quadtree, d3-scale, d3-shape | 3.2.5, 3.1.3, 3.0.2, 4.0.3, 3.2.1 | ISC |
-| @fontsource-variable/piazzolla (шрифт Piazzolla, Huerta Tipográfica) | 5.3.0 | SIL Open Font License 1.1 |
-| @fontsource-variable/golos-text (шрифт Golos Text, Paratype) | 5.3.0 | SIL Open Font License 1.1 |
+| @fontsource-variable/inter (шрифт Inter) | 5.3.0 | SIL Open Font License 1.1 |
+| @fontsource-variable/public-sans (шрифт Public Sans) | 5.3.0 | SIL Open Font License 1.1 |
+| @fontsource/dm-mono (шрифт DM Mono) | 5.3.0 | SIL Open Font License 1.1 |
 
 Шрифты включаются в сборку из пакетов Fontsource и не загружаются со сторонних серверов. Тексты лицензий лежат в соответствующих пакетах в `node_modules` после `npm ci`.
