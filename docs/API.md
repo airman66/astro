@@ -15,7 +15,7 @@
 | `GET /api/v1/terms` | RAG | Справочник терминов |
 | `GET /api/v1/terms/facets?locale=ru` | RAG | Буквы алфавитного указателя и категории с числом терминов |
 | `GET /api/v1/terms/{number}` | RAG | Термин с локализациями, медиа и иллюстрацией |
-| `GET /api/v1/terms/{number}/illustration` | RAG | Файл иллюстрации команды |
+| `GET /api/v1/terms/{number}/illustration` | RAG | Локальный файл обложки термина |
 | `GET /api/v1/articles` | RAG | Статьи |
 | `GET /api/v1/articles/{article_id}` | RAG | Статья по ID; неизвестный ID возвращает `404` |
 | `GET /api/v1/search?q=...` | RAG | Поиск |
@@ -65,7 +65,7 @@
 
 `GET /api/v1/search` ищет по нормализованному тексту (регистр, `ё → е`) и основам слов (Snowball для русского и английского), служебные слова вроде «что такое» отбрасываются. При работающем сервере эмбеддингов результаты объединяются с семантическим поиском (`mode: "hybrid"`), иначе выдача только лексическая (`mode: "lexical"`), а не ошибка 500. `total` — размер пула релевантных результатов, не больше 200.
 
-`GET /api/v1/terms/{number}` дополнительно содержит `illustration`: `null` или `{term_number, url, width, height, alt_ru, alt_en, caption_ru, kind: "conceptual" | "diagram", status: "generated" | "approved", generator}`. Файл отдаёт `GET /api/v1/terms/{number}/illustration`; пока иллюстрация не готова — `404 illustration_not_found`.
+`GET /api/v1/terms/{number}` дополнительно содержит `illustration`: `null` или `{term_number, url, width, height, alt_ru, alt_en, caption_ru, kind, status, generator, source_type, file_page, article_url, author, license, license_url, modified}`. Файл отдаёт `GET /api/v1/terms/{number}/illustration`; пока обложка не готова — `404 illustration_not_found`.
 
 Помощник:
 
@@ -76,14 +76,16 @@ Content-Type: application/json
 {"question":"Что такое экзопланета?","mode":"auto","locale":"ru","context":{"planet":"Proxima Cen b"}}
 ```
 
-Ответ: `mode`, `grounding`, `answer`, `primary_url`, `sources`, `review_status`, `diagnostics`. Ссылки указывают только на реально найденные записи. Ошибки помощника:
+Ответ: `mode`, `grounding`, `answer`, `primary_url`, `sources`, `images`, `review_status`, `diagnostics`. `images[]` содержит до трёх изображений из реально использованных материалов: `record_id`, `url`, `alt`, `caption`, `kind` (`illustration` или `source_media`), для Wikimedia и исходных медиа также `credit`, `credit_url`, `license`, `license_url`, `modified`. При общем ответе без источников массив пуст. Ссылки указывают только на реально найденные записи. Ошибки помощника:
 
 | Код | Когда |
 | --- | --- |
-| `503 assistant_unavailable` | нет `DEEPSEEK_API_KEY`, ключ отклонён или на аккаунте DeepSeek закончился баланс; `message` называет причину |
+| `503 assistant_unavailable` | нет ключа выбранного LLM-провайдера, ключ отклонён или закончился баланс; `message` называет причину |
 | `429 rate_limited` + `Retry-After` | один принятый запрос от клиента за 10 секунд; ранний повтор получает остаток интервала, новое ожидание не начинается |
-| `503 assistant_overloaded` + `Retry-After: 10` | заняты все слоты одновременных вызовов DeepSeek |
-| `502 deepseek_error` | DeepSeek вернул ошибку или ответ неверной формы |
+| `503 assistant_overloaded` + `Retry-After: 10` | заняты все слоты одновременных вызовов LLM |
+| `502 assistant_error` | LLM вернула ошибку или ответ неверной формы |
 | `504 assistant_timeout` | ответ не уложился в 100 секунд |
 
-Для чтения и поиска — 30 запросов за 10 секунд, для файлов — 120. Если Redis недоступен, чтение справочника и файлы продолжают работать без общих счётчиков, а помощник закрыт (`503 rate_limit_unavailable`). Справочник и поиск не зависят от ключа DeepSeek и от сервера эмбеддингов.
+Для чтения и поиска — 30 запросов за 10 секунд, для файлов — 120. Если Redis недоступен, чтение справочника и файлы продолжают работать без общих счётчиков, а помощник закрыт (`503 rate_limit_unavailable`). Справочник и поиск не зависят от ключа LLM и от сервера эмбеддингов.
+
+Провайдер задаётся серверной переменной `ASSISTANT_PROVIDER=runpod|deepseek`. Для публичного GLM-5.3 RunPod используются `RUNPOD_API_KEY`, `RUNPOD_ENDPOINT_ID=b1dd8hy2hqo1nb`, `RUNPOD_MODEL=glm-5.3`. Запрос идёт с `temperature=1.0`, `top_p=0.95`, `reasoning_effort=low`, `response_format=json_object`. Ключ не попадает во фронтенд.

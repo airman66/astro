@@ -48,7 +48,7 @@ def image(path: str):
 
 
 check("/health", 200, "service")
-page("/", "Параллакс")
+page("/", "Алкиона")
 page("/planets/" + quote("Proxima Cen b"), 'id="app"')
 page("/docs", "Swagger UI", label="OpenAPI")
 deadline = time.monotonic() + 120
