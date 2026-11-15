@@ -15,6 +15,8 @@ python3 scripts/smoke.py
 
 Портал: `http://localhost:8090`. Порт опубликован только на `127.0.0.1`. Все сервисы отвечают с одного origin: портал по `/`, Planets API по `/api/…`, справочник и помощник по `/api/v1/…`, OpenAPI справочника по `/docs`. Полная карта маршрутов — [docs/API.md](docs/API.md).
 
+Боты Telegram и MAX подключаются к тому же помощнику через профили Compose. Запуск, переменные окружения и ограничения — в [services/bots/README.md](services/bots/README.md).
+
 При первом запуске сервис `model-fetch` скачивает и проверяет модель эмбеддингов Qwen3-Embedding-8B (около 4,7 ГБ) в игнорируемый `services/glossary-rag/data/models/` и записывает рядом метку проверки, чтобы не перечитывать файл при каждом старте. На CPU модель занимает около 5 ГБ памяти. Если есть видеокарта NVIDIA и NVIDIA Container Toolkit, эмбеддинги можно запустить на ней:
 
 ```sh
@@ -54,6 +56,7 @@ SQLite справочника пересобирается сама, когда 
 services/portal/         фронтенд портала (Preact, TypeScript, Vite, D3), статика за nginx
 services/planets-api/    .NET API кейса 3 и прежний статический PoC (wwwroot)
 services/glossary-rag/   FastAPI: справочник, поиск, помощник, ревью переводов, иллюстрации
+services/bots/           адаптеры Telegram и MAX для RAG-помощника
 infra/gateway/           маршрутизация единого origin
 docs/API.md              публичный контракт
 scripts/smoke.py         интеграционная проверка через gateway

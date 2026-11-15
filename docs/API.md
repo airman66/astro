@@ -22,6 +22,7 @@
 | `GET /api/v1/media/{id}` | RAG | Метаданные медиа |
 | `GET /api/v1/media/{id}/file?locale=ru` | RAG | Локализованный файл |
 | `POST /api/v1/assistant/answer` | RAG | ИИ-помощник |
+| `POST /webhooks/max` | MAX bot | Приём событий MAX с заголовком `X-Max-Bot-Api-Secret` |
 
 Служебные маршруты gateway: `GET /health` — liveness RAG, `GET /docs` и `GET /openapi.json` — OpenAPI RAG. Gateway сохраняет исходные пути, поэтому ссылки `/api/v1/...` в ответах RAG работают на том же адресе. Имена сервисов перерезолвятся через DNS Docker каждые 10 секунд: пересоздание одного контейнера не ломает маршрутизацию. Новые сервисы получают свой префикс до общего `/api/`. Прежний статический PoC остаётся в `services/planets-api/Planets.Api/wwwroot` и доступен только на внутреннем порту Planets API.
 

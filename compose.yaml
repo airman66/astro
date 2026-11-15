@@ -49,6 +49,32 @@ services:
       - ./services/glossary-rag/data:/app/data
     restart: unless-stopped
 
+  telegram-bot:
+    profiles: ["telegram"]
+    build: ./services/bots
+    environment:
+      BOT_PLATFORM: telegram
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:-}
+      RAG_URL: http://glossary-rag:8000
+      PORTAL_PUBLIC_URL: ${PORTAL_PUBLIC_URL:-http://localhost:8090}
+    depends_on: [glossary-rag]
+    restart: unless-stopped
+
+  max-bot:
+    profiles: ["max"]
+    build: ./services/bots
+    environment:
+      BOT_PLATFORM: max
+      MAX_BOT_TOKEN: ${MAX_BOT_TOKEN:-}
+      MAX_WEBHOOK_URL: ${MAX_WEBHOOK_URL:-}
+      MAX_WEBHOOK_SECRET: ${MAX_WEBHOOK_SECRET:-}
+      RAG_URL: http://glossary-rag:8000
+      PORTAL_PUBLIC_URL: ${PORTAL_PUBLIC_URL:-http://localhost:8090}
+    depends_on: [glossary-rag]
+    volumes:
+      - max-bot-queue:/app/queue
+    restart: unless-stopped
+
   model-fetch:
     image: ghcr.io/ggml-org/llama.cpp:server
     entrypoint: ["/bin/sh", "/scripts/fetch_embedding_model.sh"]
@@ -94,3 +120,4 @@ services:
 
 volumes:
   catalog-data:
+  max-bot-queue:
